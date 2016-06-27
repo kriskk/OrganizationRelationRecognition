@@ -10,5 +10,5 @@ rel-owningCompany-ru.csv, rel-parentCompany-ru.csv, rel-parentOrganisation-ru.cs
 FINAL_RES_DAUTHER_COMP.ods, FINAL_RES_MOTHER_COMP.ods --- are extracted relations from infoboxes. Text from infobox about mother/daughter companies is in first column, second --- is the source article. Relations can be easily extracted with help of Wikipedias "[[]]" link structure.
 sum_parent_redirects.csv unites all this files under as Holder relation examples.
 
-contextesAuto.csv contains extracted contexts before filtering.
-
+contextesAuto.csv contains extracted contexts before filtering. 
+Structure is as follows: "name of found company", "amount of symbols offcet is source organization", "length", "source organization", "context text"
