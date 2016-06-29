@@ -1,0 +1,5 @@
+T1	Organization 0 12	Swatch Group
+T2	Organization 98 114	Daimler-Chrysler
+N1	Reference T1 wiki:214233	Swatch Group
+N2	Reference T2 wiki:39716	Daimler-Chrysler
+A1	IsLink T2

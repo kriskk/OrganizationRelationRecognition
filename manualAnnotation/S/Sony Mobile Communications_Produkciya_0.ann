@@ -1,0 +1,5 @@
+T1	Organization 0 26	Sony Mobile Communications
+T2	Organization 195 200	Sagem
+N1	Reference T1 wiki:120852	Sony Mobile Communications
+N2	Reference T2 wiki:65325	Sagem
+A1	IsLink T2

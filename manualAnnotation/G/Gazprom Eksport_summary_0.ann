@@ -1,0 +1,6 @@
+T1	Organization 0 15	Газпром Экспорт
+T2	Organization 127 140	ОАО «Газпром»
+N1	Reference T1 wiki:1462204	Газпром Экспорт
+N2	Reference T2 wiki:44754	Газпром
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

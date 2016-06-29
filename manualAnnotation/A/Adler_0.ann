@@ -1,0 +1,5 @@
+T1	Organization 0 5	Adler
+T2	Organization 92 99	Grundig
+N1	Reference T1 wiki:3333895	Adler
+N2	Reference T2 wiki:571983	Grundig
+A1	IsLink T2

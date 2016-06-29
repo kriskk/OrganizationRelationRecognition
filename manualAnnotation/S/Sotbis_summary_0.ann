@@ -1,0 +1,5 @@
+T1	Organization 0 6	Сотбис
+T2	Organization 121 128	Кристис
+N1	Reference T1 wiki:507135	Сотбис
+N2	Reference T2 wiki:872328	Кристис
+A1	IsLink T2

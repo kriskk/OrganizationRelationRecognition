@@ -1,0 +1,14 @@
+T1	Organization 0 22	Гута (группа компаний)
+T2	Organization 196 213	«Красный Октябрь»
+T3	Organization 215 226	«Рот Фронт»
+T4	Organization 236 248	«Бабаевский»
+N1	Reference T1 wiki:309017	Гута (группа компаний)
+N2	Reference T2 wiki:1696333	Красный Октябрь (кондитерская фабрика)
+N3	Reference T3 wiki:1691601	Рот Фронт (фабрика)
+N4	Reference T4 wiki:534969	Бабаевский (концерн)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

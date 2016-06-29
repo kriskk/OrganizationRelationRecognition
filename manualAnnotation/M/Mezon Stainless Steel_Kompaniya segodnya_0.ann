@@ -1,0 +1,10 @@
+T1	Organization 0 21	Mezon Stainless Steel
+T2	Organization 170 200	Sumitomo Metal Industries Ltd.
+T3	Organization 202 226	Nippon Steel Corporation
+N1	Reference T1 wiki:3771296	Mezon Stainless Steel
+N2	Reference T2 wiki:1835225	Sumitomo Metal Industries
+N3	Reference T3 wiki:1686542	Nippon Steel
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 14	КЛО (сеть АЗС)
+T2	Organization 191 206	«Мажейкю нафта»
+N1	Reference T1 wiki:1970042	КЛО (сеть АЗС)
+N2	Reference T2 wiki:176035	ORLEN Lietuva
+A1	TypeRel T2 Cooperator

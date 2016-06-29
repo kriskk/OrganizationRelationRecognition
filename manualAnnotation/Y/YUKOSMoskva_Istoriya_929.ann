@@ -1,0 +1,10 @@
+T1	Organization 0 11	ЮКОС-Москва
+T2	Organization 267 271	ЮКОС
+T3	Organization 377 395	ОАО "НК «Роснефть»
+N1	Reference T1 wiki:901575	ЮКОС-Москва
+N2	Reference T2 wiki:6032	ЮКОС
+N3	Reference T3 wiki:139770	Роснефть
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Holder

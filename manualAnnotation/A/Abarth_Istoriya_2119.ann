@@ -1,0 +1,11 @@
+T1	Organization 0 6	Abarth
+T2	Organization 195 199	Fiat
+T3	Organization 346 350	Fiat
+T4	Organization 505 509	Fiat
+N1	Reference T1 wiki:3693741	Abarth
+N2	Reference T2 wiki:91784	Fiat
+N3	Reference T3 wiki:91784	Fiat
+N4	Reference T4 wiki:91784	Fiat
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

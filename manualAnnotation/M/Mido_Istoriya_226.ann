@@ -1,0 +1,14 @@
+T1	Organization 0 4	Mido
+T2	Organization 299 306	Bugatti
+T3	Organization 308 313	Buick
+T4	Organization 326 333	Peugeot
+T5	Organization 336 345	Chevrolet
+N1	Reference T1 wiki:1054457	Mido
+N2	Reference T2 wiki:41267	Bugatti
+N3	Reference T3 wiki:1286702	Buick
+N4	Reference T4 wiki:1650729	Peugeot
+N5	Reference T5 wiki:17631	Chevrolet
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

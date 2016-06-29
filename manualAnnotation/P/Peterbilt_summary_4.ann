@@ -1,0 +1,5 @@
+T1	Organization 0 9	Peterbilt
+T2	Organization 252 258	PACCAR
+N1	Reference T1 wiki:1704331	Peterbilt
+N2	Reference T2 wiki:1704447	PACCAR
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 18	Каустик (компания)
+T2	Organization 220 224	Сода
+N1	Reference T1 wiki:885330	Каустик (компания)
+N2	Reference T2 wiki:3785872	Сода (компания)
+A1	TypeRel T2 Subsidiary

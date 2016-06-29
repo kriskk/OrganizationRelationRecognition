@@ -1,0 +1,11 @@
+T1	Organization 0 16	Бизнес Аналитика
+T2	Organization 213 227	Wimm-Bill-Dann
+T3	Organization 238 244	Nestle
+T4	Organization 246 261	Bacardi-Martini
+N1	Reference T1 wiki:1475551	Бизнес Аналитика
+N2	Reference T2 wiki:160926	Wimm-Bill-Dann
+N3	Reference T3 wiki:121355	Nestle
+N4	Reference T4 wiki:577335	Bacardi-Martini
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

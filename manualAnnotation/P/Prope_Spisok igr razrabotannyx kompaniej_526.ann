@@ -1,0 +1,9 @@
+T1	Organization 0 5	Prope
+T2	Organization 285 294	Microsoft
+T3	Organization 379 391	Namco Bandai
+N1	Reference T1 wiki:3380454	Prope
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:2817888	Namco Bandai
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

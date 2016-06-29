@@ -1,0 +1,6 @@
+T1	Organization 0 19	Ремпутьмаш (Москва)
+T2	Organization 116 125	ОАО «РЖД»
+N1	Reference T1 wiki:2132201	Ремпутьмаш (Москва)
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2
+A2	TypeRel T2 Holder

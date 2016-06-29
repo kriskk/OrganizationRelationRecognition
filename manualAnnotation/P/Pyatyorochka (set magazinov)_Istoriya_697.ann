@@ -1,0 +1,8 @@
+T1	Organization 0 26	Пятёрочка (сеть магазинов)
+T2	Organization 403 414	Перекрёсток
+T3	Organization 528 543	X5 Retail Group
+N1	Reference T1 wiki:132128	Пятёрочка (сеть магазинов)
+N2	Reference T2 wiki:176082	Перекрёсток (сеть магазинов)
+N3	Reference T3 wiki:353293	X5 Retail Group
+A1	IsLink T2
+A2	IsLink T3

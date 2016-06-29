@@ -1,0 +1,5 @@
+T1	Organization 0 48	Находкинская база активного морского рыболовства
+T2	Organization 431 442	Evraz Group
+N1	Reference T1 wiki:142928	Находкинская база активного морского рыболовства
+N2	Reference T2 wiki:77382	Evraz Group
+A1	TypeRel T2 Holder

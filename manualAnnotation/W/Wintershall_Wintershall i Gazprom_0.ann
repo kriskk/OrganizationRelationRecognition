@@ -1,0 +1,9 @@
+T1	Organization 0 11	Wintershall
+T2	Organization 168 175	Газпром
+T3	Organization 593 597	E.ON
+N1	Reference T1 wiki:188113	Wintershall
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:156874	E.ON
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

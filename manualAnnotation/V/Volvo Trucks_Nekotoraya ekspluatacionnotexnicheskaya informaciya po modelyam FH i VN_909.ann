@@ -1,0 +1,26 @@
+T1	Organization 0 12	Volvo Trucks
+T2	Organization 351 363	Freightliner
+T3	Organization 365 373	Navistar
+T4	Organization 375 381	Paccar
+T5	Organization 406 413	Cummins
+T6	Organization 543 555	Eaton-Fuller
+T7	Organization 557 559	ZF
+N1	Reference T1 wiki:1876689	Volvo Trucks
+N2	Reference T2 wiki:1371581	Freightliner
+N3	Reference T3 wiki:323498	Navistar International
+N4	Reference T4 wiki:1704447	Paccar
+N5	Reference T5 wiki:2407448	Камминс(марка моторов)
+N6	Reference T6 wiki:1039999	Eaton Corporation
+N7	Reference T7 wiki:154998	ZF Friedrichshafen AG
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Competitor
+A8	TypeRel T3 Competitor
+A9	TypeRel T4 Competitor
+A10	TypeRel T6 Cooperator
+A11	TypeRel T7 Cooperator
+A12	TypeRel T5 Cooperator

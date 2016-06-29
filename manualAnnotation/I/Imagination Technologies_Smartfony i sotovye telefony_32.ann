@@ -1,0 +1,78 @@
+T1	Organization 0 24	Imagination Technologies
+T2	Organization 283 296	Sony Ericsson
+T3	Organization 312 325	Sony Ericsson
+T4	Organization 342 355	Sony Ericsson
+T5	Organization 402 409	Samsung
+T6	Organization 463 471	Motorola
+T7	Organization 505 508	NEC
+T8	Organization 549 558	Panasonic
+T9	Organization 578 583	Sharp
+T10	Organization 599 603	ASUS
+T11	Organization 700 707	Samsung
+T12	Organization 718 725	Samsung
+T13	Organization 735 742	Samsung
+T14	Organization 757 765	Gigabyte
+T15	Organization 780 788	Motorola
+T16	Organization 867 874	Samsung
+T17	Organization 888 895	Samsung
+T18	Organization 905 912	Samsung
+T19	Organization 923 931	Motorola
+T20	Organization 949 954	Nokia
+N1	Reference T1 wiki:4205830	Imagination Technologies
+N2	Reference T2 wiki:120852	Sony Ericsson
+N3	Reference T3 wiki:120852	Sony Ericsson
+N4	Reference T4 wiki:120852	Sony Ericsson
+N5	Reference T5 wiki:125537	Samsung
+N6	Reference T6 wiki:134384	Motorola
+N7	Reference T7 wiki:232844	NEC
+N8	Reference T8 wiki:307154	Panasonic
+N9	Reference T9 wiki:382668	Sharp
+N10	Reference T10 wiki:118273	ASUS
+N11	Reference T11 wiki:125537	Samsung
+N12	Reference T12 wiki:125537	Samsung
+N13	Reference T13 wiki:125537	Samsung
+N14	Reference T14 wiki:1265773	Gigabyte
+N15	Reference T15 wiki:134384	Motorola
+N16	Reference T16 wiki:125537	Samsung
+N17	Reference T17 wiki:125537	Samsung
+N18	Reference T18 wiki:125537	Samsung
+N19	Reference T19 wiki:134384	Motorola
+N20	Reference T20 wiki:56405	Nokia
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	TypeRel T2 Cooperator
+A21	TypeRel T3 Cooperator
+A22	TypeRel T4 Cooperator
+A23	TypeRel T5 Cooperator
+A24	TypeRel T6 Cooperator
+A25	TypeRel T7 Cooperator
+A26	TypeRel T8 Cooperator
+A27	TypeRel T9 Cooperator
+A28	TypeRel T10 Cooperator
+A29	TypeRel T11 Cooperator
+A30	TypeRel T12 Cooperator
+A31	TypeRel T13 Cooperator
+A32	TypeRel T14 Cooperator
+A33	TypeRel T15 Cooperator
+A34	TypeRel T16 Cooperator
+A35	TypeRel T17 Cooperator
+A36	TypeRel T18 Cooperator
+A37	TypeRel T19 Cooperator
+A38	TypeRel T20 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 19	Десна (пивкомбинат)
+T2	Organization 258 275	САН ИнБев Украина
+N1	Reference T1 wiki:2313101	Десна (пивкомбинат)
+N2	Reference T2 wiki:2313184	САН ИнБев Украина
+A1	IsLink T2

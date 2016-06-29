@@ -1,0 +1,5 @@
+T1	Organization 0 4	ЮКОС
+T2	Organization 196 207	ЮКОС-Москва
+N1	Reference T1 wiki:6032	ЮКОС
+N2	Reference T2 wiki:901575	ЮКОС-Москва
+A1	TypeRel T2 Holder

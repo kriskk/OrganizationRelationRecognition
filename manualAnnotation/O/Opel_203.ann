@@ -1,0 +1,6 @@
+T1	Organization 0 4	Opel
+T2	Organization 187 201	General Motors
+N1	Reference T1 wiki:562302	Opel
+N2	Reference T2 wiki:17438	General Motors
+A1	IsLink T2
+A2	TypeRel T2 Holder

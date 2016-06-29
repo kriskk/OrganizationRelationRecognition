@@ -1,0 +1,6 @@
+T1	Organization 0 16	Western Electric
+T2	Organization 155 159	AT&T
+N1	Reference T1 wiki:3176083	Western Electric
+N2	Reference T2 wiki:162994	AT&T
+A1	IsLink T2
+A2	TypeRel T2 Holder

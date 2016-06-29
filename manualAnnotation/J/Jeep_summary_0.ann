@@ -1,0 +1,5 @@
+T1	Organization 0 4	Jeep
+T2	Organization 96 104	Chrysler
+N1	Reference T1 wiki:41489	Jeep
+N2	Reference T2 wiki:223902	Chrysler
+A1	TypeRel T2 Holder

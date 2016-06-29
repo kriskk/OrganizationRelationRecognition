@@ -1,0 +1,11 @@
+T1	Organization 0 22	First Automotive Works
+T2	Organization 250 258	Faurecia
+T3	Organization 260 282	Siemens VDO Automotive
+T4	Organization 315 320	Valeo
+N1	Reference T1 wiki:376864	First Automotive Works
+N2	Reference T2 wiki:3836270	Faurecia
+N3	Reference T3 wiki:36510	Siemens AG
+N4	Reference T4 wiki:640908	Valeo
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

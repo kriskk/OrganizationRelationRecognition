@@ -1,0 +1,32 @@
+T1	Organization 0 3	HTC
+T2	Organization 187 202	Fujitsu Siemens
+T3	Organization 204 219	Hewlett-Packard
+T4	Organization 222 226	Dell
+T5	Organization 360 368	T-Mobile
+T6	Organization 370 376	Orange
+T7	Organization 382 390	Vodafone
+T8	Organization 462 466	Qtek
+T9	Organization 716 725	Microsoft
+N1	Reference T1 wiki:619547	HTC
+N2	Reference T2 wiki:120893	Fujitsu Siemens
+N3	Reference T3 wiki:89988	Hewlett-Packard
+N4	Reference T4 wiki:124570	Dell
+N5	Reference T5 wiki:138787	T-Mobile
+N6	Reference T6 wiki:373554	Orange
+N7	Reference T7 wiki:213703	Vodafone
+N8	Reference T8 wiki:619547	Qtek
+N9	Reference T9 wiki:11987	Microsoft
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T9 Cooperator

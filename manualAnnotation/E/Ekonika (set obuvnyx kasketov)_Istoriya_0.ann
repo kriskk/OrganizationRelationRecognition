@@ -1,0 +1,6 @@
+T1	Organization 0 31	Эконика (сеть обувных каскетов)
+T2	Organization 125 131	Новард
+N1	Reference T1 wiki:2690261	Эконика (сеть обувных каскетов)
+N2	Reference T2 wiki:2654272	Новард
+A1	IsLink T2
+A2	TypeRel T2 Holder

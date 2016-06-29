@@ -1,0 +1,5 @@
+T1	Organization 0 13	Самрук-Энерго
+T2	Organization 194 218	АО «ФНБ „Самрук-Казына“»
+N1	Reference T1 wiki:3224658	Самрук-Энерго
+N2	Reference T2 wiki:1680328	Самрук-Казына
+A1	IsLink T2

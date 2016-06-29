@@ -1,0 +1,6 @@
+T1	Organization 0 13	NBC Universal
+T2	Organization 174 181	Vivendi
+N1	Reference T1 wiki:2263018	NBC Universal
+N2	Reference T2 wiki:1695856	Vivendi
+A1	IsLink T2
+A2	TypeRel T2 Alias

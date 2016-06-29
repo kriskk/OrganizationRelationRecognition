@@ -1,0 +1,8 @@
+Norton DNS
+@summary
+379,0
+
+
+
+Norton DNS — интернет-сервис компании Symantec Corporation, предоставляющий общедоступные DNS-серверы.
+

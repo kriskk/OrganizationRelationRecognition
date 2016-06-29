@@ -1,0 +1,5 @@
+T1	Organization 0 8	Borgward
+T2	Organization 183 190	Goliath
+N1	Reference T1 wiki:3465681	Borgward
+N2	Reference T2 wiki:1783685	Goliath (автомобильная марка)
+A1	IsLink T2

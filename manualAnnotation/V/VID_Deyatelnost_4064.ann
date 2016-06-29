@@ -1,0 +1,5 @@
+T1	Organization 0 3	ВИD
+T2	Organization 364 367	ATV
+N1	Reference T1 wiki:691511	ВИD
+N2	Reference T2 wiki:665501	АТВ (телекомпания)
+A1	IsLink T2

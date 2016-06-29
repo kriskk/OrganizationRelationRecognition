@@ -1,0 +1,5 @@
+T1	Organization 0 15	Guerrilla Games
+T2	Organization 106 133	Sony Computer Entertainment
+N1	Reference T1 wiki:2534554	Guerrilla Games
+N2	Reference T2 wiki:1454994	Sony Computer Entertainment
+A1	TypeRel T2 Holder

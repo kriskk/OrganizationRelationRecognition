@@ -1,0 +1,12 @@
+T1	Organization 0 8	Завод №9
+T2	Organization 266 280	Уралвагонзавод
+T3	Organization 424 438	Уралвагонзавод
+T4	Organization 573 585	Уралтрансмаш
+N1	Reference T1 wiki:3025109	Завод №9
+N2	Reference T2 wiki:93093	Уралвагонзавод
+N3	Reference T3 wiki:93093	Уралвагонзавод
+N4	Reference T4 wiki:3665427	Уралтрансмаш
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder

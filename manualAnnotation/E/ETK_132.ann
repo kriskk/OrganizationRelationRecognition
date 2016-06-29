@@ -1,0 +1,6 @@
+T1	Organization 0 3	ЕТК
+T2	Organization 159 169	Ростелеком
+N1	Reference T1 wiki:355733	ЕТК
+N2	Reference T2 wiki:145844	Ростелеком
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 11	Royal Canin
+T2	Organization 234 252	Mars, Incorporated
+N1	Reference T1 wiki:640886	Royal Canin
+N2	Reference T2 wiki:172056	Mars
+A1	IsLink T2

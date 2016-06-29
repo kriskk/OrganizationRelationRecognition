@@ -1,0 +1,38 @@
+T1	Organization 0 14	Gruppo Bertone
+T2	Organization 224 230	Abarth
+T3	Organization 232 242	Alfa Romeo
+T4	Organization 244 251	Citroën
+T5	Organization 253 260	Ferrari
+T6	Organization 262 266	Fiat
+T7	Organization 281 287	Lancia
+T8	Organization 289 300	Lamborghini
+T9	Organization 302 315	Mercedes Benz
+T10	Organization 318 323	Volvo
+N1	Reference T1 wiki:2836395	Gruppo Bertone
+N2	Reference T2 wiki:3693741	Abarth
+N3	Reference T3 wiki:371643	Alfa Romeo
+N4	Reference T4 wiki:1617910	Citroën
+N5	Reference T5 wiki:124051	Ferrari
+N6	Reference T6 wiki:91784	Fiat
+N7	Reference T7 wiki:1503078	Lancia
+N8	Reference T8 wiki:65531	Lamborghini
+N9	Reference T9 wiki:40401	Mercedes Benz
+N10	Reference T10 wiki:387781	Volvo
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T2 Cooperator
+A11	TypeRel T3 Cooperator
+A12	TypeRel T4 Cooperator
+A13	TypeRel T5 Cooperator
+A14	TypeRel T6 Cooperator
+A15	TypeRel T7 Cooperator
+A16	TypeRel T8 Cooperator
+A17	TypeRel T9 Cooperator
+A18	TypeRel T10 Cooperator

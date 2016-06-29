@@ -1,0 +1,6 @@
+T1	Organization 0 17	Шатура (компания)
+T2	Organization 176 189	Финэкспертиза
+N1	Reference T1 wiki:2750418	Шатура (компания)
+N2	Reference T2 wiki:3214343	Финэкспертиза
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

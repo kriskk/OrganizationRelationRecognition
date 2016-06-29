@@ -1,0 +1,5 @@
+T1	Organization 0 8	Prysmian
+T2	Organization 167 177	Siemens AG
+N1	Reference T1 wiki:1765159	Prysmian
+N2	Reference T2 wiki:36510	Siemens AG
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 7	Iluzjon
+T2	Organization 247 262	Киностудия DEFA
+N1	Reference T1 wiki:4017282	Iluzjon
+N2	Reference T2 wiki:1378290	Киностудия DEFA
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 9	РуссНефть
+T2	Organization 222 226	ЮКОС
+T3	Organization 363 374	Transpetrol
+N1	Reference T1 wiki:159970	РуссНефть
+N2	Reference T2 wiki:6032	ЮКОС
+N3	Reference T3 wiki:227416	Transpetrol
+A1	IsLink T2
+A2	IsLink T3

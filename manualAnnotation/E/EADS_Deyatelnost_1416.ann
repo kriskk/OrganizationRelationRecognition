@@ -1,0 +1,9 @@
+T1	Organization 0 4	EADS
+T2	Organization 377 389	EADS Astrium
+T3	Organization 638 663	Российских железных дорог
+N1	Reference T1 wiki:39833	EADS
+N2	Reference T2 wiki:4352315	EADS Astrium
+N3	Reference T3 wiki:106901	Российские железные дороги
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

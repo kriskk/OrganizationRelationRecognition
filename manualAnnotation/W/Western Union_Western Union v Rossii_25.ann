@@ -1,0 +1,10 @@
+T1	Organization 0 13	Western Union
+T2	Organization 339 351	Почта России
+T3	Organization 663 675	Почты России
+N1	Reference T1 wiki:397765	Western Union
+N2	Reference T2 wiki:234849	Почта России
+N3	Reference T3 wiki:234849	Почта России
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Competitor

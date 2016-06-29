@@ -1,0 +1,6 @@
+T1	Organization 0 14	Elektriraudtee
+T2	Organization 213 226	Eesti Raudtee
+N1	Reference T1 wiki:3720653	Elektriraudtee
+N2	Reference T2 wiki:1109264	Eesti Raudtee
+A1	IsLink T2
+A2	TypeRel T2 Holder

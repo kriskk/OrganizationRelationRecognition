@@ -1,0 +1,5 @@
+T1	Organization 0 21	Красное знамя (завод)
+T2	Organization 360 386	концерна ПВО «Алмаз-Антей»
+N1	Reference T1 wiki:1745503	Красное знамя (завод)
+N2	Reference T2 wiki:149639	Концерн ПВО «Алмаз-Антей»
+A1	TypeRel T2 Holder

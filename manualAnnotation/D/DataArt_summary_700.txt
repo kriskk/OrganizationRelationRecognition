@@ -1,0 +1,7 @@
+DataArt
+@summary
+447,700
+
+В 2001 году компания DataArt стала обладателем статуса Microsoft Certified Partner на Северо-Западе.
+В 2002 году компания стала участником программы .NET Early Adopter, организованной корпорацией Microsoft.
+В 2007 году компания DataArt получила статус «Золотого сертифицированного партнёра Microsoft» (Microsoft Gold Certified Partner).

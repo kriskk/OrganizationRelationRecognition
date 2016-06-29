@@ -1,0 +1,18 @@
+T1	Organization 0 6	Лукойл
+T2	Organization 239 257	ИНГ Банк (Евразия)
+T3	Organization 270 302	Депозитарно-клиринговая компания
+T4	Organization 315 349	Национальный расчетный депозитарий
+T5	Organization 585 599	ConocoPhillips
+N1	Reference T1 wiki:59354	Лукойл
+N2	Reference T2 wiki:555591	ИНГ Банк (Евразия)
+N3	Reference T3 wiki:521857	Депозитарно-клиринговая компания
+N4	Reference T4 wiki:3747955	Национальный расчетный депозитарий
+N5	Reference T5 wiki:171985	ConocoPhillips
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Holder
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Personnel

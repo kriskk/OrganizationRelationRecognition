@@ -1,0 +1,5 @@
+T1	Organization 0 14	Rodamco Europe
+T2	Organization 185 200	Unibail-Rodamco
+N1	Reference T1 wiki:394153	Rodamco Europe
+N2	Reference T2 wiki:946339	Unibail-Rodamco
+A1	TypeRel T2 Holder

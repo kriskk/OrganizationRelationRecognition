@@ -1,0 +1,6 @@
+T1	Organization 0 11	OC Oerlikon
+T2	Organization 158 164	Ренова
+N1	Reference T1 wiki:793841	OC Oerlikon
+N2	Reference T2 wiki:158879	Ренова
+A1	IsLink T2
+A2	TypeRel T2 Holder

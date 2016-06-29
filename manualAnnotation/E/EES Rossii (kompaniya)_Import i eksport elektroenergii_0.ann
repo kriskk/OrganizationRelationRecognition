@@ -1,0 +1,5 @@
+T1	Organization 0 21	ЕЭС России (компания)
+T2	Organization 195 208	Иркутскэнерго
+N1	Reference T1 wiki:1432138	ЕЭС России (компания)
+N2	Reference T2 wiki:180989	Иркутскэнерго
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 4	Yota
+T2	Organization 82 89	МегаФон
+T3	Organization 242 248	Ростех
+N1	Reference T1 wiki:1460064	Yota
+N2	Reference T2 wiki:70933	МегаФон
+N3	Reference T3 wiki:915063	Ростех
+A1	IsLink T2
+A2	IsLink T3

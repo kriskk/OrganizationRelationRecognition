@@ -1,0 +1,5 @@
+T1	Organization 0 8	Schecter
+T2	Organization 248 254	Fender
+N1	Reference T1 wiki:2202249	Schecter
+N2	Reference T2 wiki:387353	Fender
+A1	IsLink T2

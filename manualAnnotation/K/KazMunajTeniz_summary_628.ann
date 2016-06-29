@@ -1,0 +1,21 @@
+T1	Organization 0 13	КазМунайТениз
+T2	Organization 370 376	Лукойл
+T3	Organization 394 400	Лукойл
+T4	Organization 424 431	Репсоль
+T5	Organization 433 439	Лукойл
+T6	Organization 457 465	Роснефть
+N1	Reference T1 wiki:1364211	КазМунайТениз
+N2	Reference T2 wiki:59354	Лукойл
+N3	Reference T3 wiki:59354	Лукойл
+N4	Reference T4 wiki:148067	Repsol YPF
+N5	Reference T5 wiki:59354	Лукойл
+N6	Reference T6 wiki:139770	Роснефть
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator
+A9	TypeRel T6 Cooperator

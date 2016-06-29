@@ -1,0 +1,6 @@
+T1	Organization 0 11	Garmin Ltd.
+T2	Organization 219 240	ASUSTeK Computer Inc.
+N1	Reference T1 wiki:902102	Garmin Ltd.
+N2	Reference T2 wiki:118273	Asus
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

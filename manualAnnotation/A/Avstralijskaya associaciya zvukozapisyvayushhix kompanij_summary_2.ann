@@ -1,0 +1,5 @@
+T1	Organization 0 51	Австралийская ассоциация звукозаписывающих компаний
+T2	Organization 322 325	EMI
+N1	Reference T1 wiki:2770402	Австралийская ассоциация звукозаписывающих компаний
+N2	Reference T2 wiki:101046	EMI
+A1	IsLink T2

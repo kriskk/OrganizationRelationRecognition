@@ -1,0 +1,5 @@
+T1	Organization 0 27	Кирилл и Мефодий (компания)
+T2	Organization 278 285	R-Style
+N1	Reference T1 wiki:411519	Кирилл и Мефодий (компания)
+N2	Reference T2 wiki:948950	R-Style
+A1	TypeRel T2 Holder

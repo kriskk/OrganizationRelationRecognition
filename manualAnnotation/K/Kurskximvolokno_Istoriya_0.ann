@@ -1,0 +1,5 @@
+T1	Organization 0 15	Курскхимволокно
+T2	Organization 53 60	ГИПРОИВ
+N1	Reference T1 wiki:2642809	Курскхимволокно
+N2	Reference T2 wiki:2049309	ГИПРОИВ
+A1	IsLink T2

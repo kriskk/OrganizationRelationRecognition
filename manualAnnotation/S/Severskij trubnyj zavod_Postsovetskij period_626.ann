@@ -1,0 +1,5 @@
+T1	Organization 0 23	Северский трубный завод
+T2	Organization 211 215	ASTM
+N1	Reference T1 wiki:892169	Северский трубный завод
+N2	Reference T2 wiki:245191	ASTM
+A1	IsLink T2

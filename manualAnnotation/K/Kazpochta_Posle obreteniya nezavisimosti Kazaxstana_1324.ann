@@ -1,0 +1,5 @@
+T1	Organization 0 8	Казпочта
+T2	Organization 361 386	Исламского банка развития
+N1	Reference T1 wiki:1257078	Казпочта
+N2	Reference T2 wiki:1891900	Исламский банк развития
+A1	TypeRel T2 Cooperator

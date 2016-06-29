@@ -1,0 +1,8 @@
+T1	Organization 0 15	Таганрог-Молоко
+T2	Organization 222 239	компания «Магнит»
+T3	Organization 322 337	Х5 Retail Group
+N1	Reference T1 wiki:3739599	Таганрог-Молоко
+N2	Reference T2 wiki:143658	Магнит (сеть магазинов)
+N3	Reference T3 wiki:353293	Х5 Retail Group
+A1	IsLink T2
+A2	IsLink T3

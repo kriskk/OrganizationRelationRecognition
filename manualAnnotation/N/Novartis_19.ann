@@ -1,0 +1,5 @@
+T1	Organization 0 8	Novartis
+T2	Organization 181 185	Ciba
+N1	Reference T1 wiki:1018931	Novartis
+N2	Reference T2 wiki:1391990	Ciba Specialty Chemicals
+A1	TypeRel T2 Holder

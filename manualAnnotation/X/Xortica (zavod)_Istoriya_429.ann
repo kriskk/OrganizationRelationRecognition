@@ -1,0 +1,10 @@
+T1	Organization 0 15	Хортица (завод)
+T2	Organization 184 193	«Хортиця»
+T3	Organization 613 637	торговой марки «Хортиця»
+N1	Reference T1 wiki:600936	Хортица (завод)
+N2	Reference T2 wiki:600936	Хортица (водка)
+N3	Reference T3 wiki:600936	Хортица (водка)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+A4	TypeRel T3 Alias

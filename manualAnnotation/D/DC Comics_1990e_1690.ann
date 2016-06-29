@@ -1,0 +1,8 @@
+T1	Organization 0 9	DC Comics
+T2	Organization 290 306	Wildstorm Comics
+T3	Organization 325 337	Image Comics
+N1	Reference T1 wiki:1742414	DC Comics
+N2	Reference T2 wiki:2367633	Wildstorm Comics
+N3	Reference T3 wiki:3103822	Image Comics
+A1	IsLink T2
+A2	IsLink T3

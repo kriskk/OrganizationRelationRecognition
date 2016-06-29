@@ -1,0 +1,11 @@
+T1	Organization 0 6	Лукойл
+T2	Organization 135 144	Ставролен
+T3	Organization 161 177	Саратоворгсинтез
+T4	Organization 471 480	«Сибуром»
+N1	Reference T1 wiki:59354	Лукойл
+N2	Reference T2 wiki:2010954	Ставролен
+N3	Reference T3 wiki:1961512	Саратоворгсинтез
+N4	Reference T4 wiki:144869	Сибур
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

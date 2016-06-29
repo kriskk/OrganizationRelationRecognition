@@ -1,0 +1,6 @@
+T1	Organization 0 46	Экспериментальный завод ООО «ТюменНИИгипрогаз»
+T2	Organization 162 178	ТюменНИИгипрогаз
+N1	Reference T1 wiki:2768349	Экспериментальный завод ООО «ТюменНИИгипрогаз»
+N2	Reference T2 wiki:2762475	ТюменНИИгипрогаз
+A1	IsLink T2
+A2	TypeRel T2 Holder

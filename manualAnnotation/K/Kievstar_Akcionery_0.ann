@@ -1,0 +1,6 @@
+T1	Organization 0 8	Киевстар
+T2	Organization 41 55	VimpelCom Ltd.
+N1	Reference T1 wiki:88220	Киевстар
+N2	Reference T2 wiki:2492978	VimpelCom Ltd.
+A1	IsLink T2
+A2	TypeRel T2 Holder

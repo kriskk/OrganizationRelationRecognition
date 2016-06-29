@@ -1,0 +1,6 @@
+T1	Organization 0 12	Matrix Games
+T2	Organization 385 388	SSG
+N1	Reference T1 wiki:971565	Matrix Games
+N2	Reference T2 wiki:766734	SSG
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

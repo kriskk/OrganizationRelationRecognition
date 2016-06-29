@@ -1,0 +1,6 @@
+T1	Organization 0 9	Мосэнерго
+T2	Organization 165 186	Газпром энергохолдинг
+N1	Reference T1 wiki:159522	Мосэнерго
+N2	Reference T2 wiki:2691900	Газпром энергохолдинг
+A1	IsLink T2
+A2	TypeRel T2 Holder

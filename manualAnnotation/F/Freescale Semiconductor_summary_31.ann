@@ -1,0 +1,5 @@
+T1	Organization 0 23	Freescale Semiconductor
+T2	Organization 211 219	Моторолы
+N1	Reference T1 wiki:1614887	Freescale Semiconductor
+N2	Reference T2 wiki:134384	Моторола
+A1	IsLink T2

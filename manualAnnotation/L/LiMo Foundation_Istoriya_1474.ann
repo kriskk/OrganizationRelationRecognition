@@ -1,0 +1,10 @@
+T1	Organization 0 15	LiMo Foundation
+T2	Organization 243 249	Orange
+T3	Organization 253 256	AMD
+N1	Reference T1 wiki:2091071	LiMo Foundation
+N2	Reference T2 wiki:373554	Orange
+N3	Reference T3 wiki:19981	AMD
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

@@ -1,0 +1,6 @@
+T1	Organization 0 21	ПИК (группа компаний)
+T2	Organization 284 318	Национальное рейтинговое агентство
+N1	Reference T1 wiki:150428	ПИК (группа компаний)
+N2	Reference T2 wiki:886966	Национальное рейтинговое агентство
+A1	IsLink T2
+A2	TypeRel T2 Other

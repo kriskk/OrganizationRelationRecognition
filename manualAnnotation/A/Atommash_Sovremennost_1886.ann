@@ -1,0 +1,32 @@
+T1	Organization 0 7	Атоммаш
+T2	Organization 213 229	ОКБ «Гидропресс»
+T3	Organization 386 392	Лукойл
+T4	Organization 394 407	Атомэнергомаш
+T5	Organization 409 416	ГАЗПРОМ
+T6	Organization 418 426	Роснефть
+T7	Organization 428 438	Северсталь
+T8	Organization 440 445	Акрон
+T9	Organization 447 451	НЛМК
+T10	Organization 453 460	Еврохим
+T11	Organization 462 468	ТНК-ВР
+N1	Reference T1 wiki:864073	Атоммаш
+N2	Reference T2 wiki:3320399	Гидропресс (ОКБ)
+N3	Reference T3 wiki:59354	Лукойл
+N4	Reference T4 wiki:2868760	Атомэнергомаш
+N5	Reference T5 wiki:44754	ГАЗПРОМ
+N6	Reference T6 wiki:139770	Роснефть
+N7	Reference T7 wiki:149218	Северсталь
+N8	Reference T8 wiki:291370	Акрон (компания)
+N9	Reference T9 wiki:143594	НЛМК
+N10	Reference T10 wiki:376551	Еврохим
+N11	Reference T11 wiki:17252	ТНК-ВР
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11

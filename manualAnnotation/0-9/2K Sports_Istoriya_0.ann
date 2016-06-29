@@ -1,0 +1,14 @@
+T1	Organization 0 9	2K Sports
+T2	Organization 56 76	Take-Two Interactive
+T3	Organization 96 111	Visual Concepts
+T4	Organization 136 146	Kush Games
+T5	Organization 273 277	Sega
+N1	Reference T1 wiki:2924825	2K Sports
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+N3	Reference T3 wiki:3430606	Visual Concepts
+N4	Reference T4 wiki:2818782	Kush Games
+N5	Reference T5 wiki:92589	Sega
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

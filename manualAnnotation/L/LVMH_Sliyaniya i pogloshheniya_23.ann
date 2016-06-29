@@ -1,0 +1,8 @@
+T1	Organization 0 4	LVMH
+T2	Organization 204 215	Gucci Group
+T3	Organization 350 357	Bulgari
+N1	Reference T1 wiki:381313	LVMH
+N2	Reference T2 wiki:1030680	Gucci
+N3	Reference T3 wiki:2236312	Bulgari
+A1	IsLink T2
+A2	TypeRel T3 Subsidiary

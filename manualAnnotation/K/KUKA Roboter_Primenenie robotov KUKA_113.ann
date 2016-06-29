@@ -1,0 +1,57 @@
+T1	Organization 0 12	KUKA Roboter
+T2	Organization 289 291	GM
+T3	Organization 293 301	Chrysler
+T4	Organization 303 307	Ford
+T5	Organization 309 316	Porsche
+T6	Organization 318 321	BMW
+T7	Organization 323 327	Audi
+T8	Organization 329 342	Mercedes-Benz
+T9	Organization 356 363	Ferrari
+T10	Organization 365 380	Harley-Davidson
+T11	Organization 386 392	Boeing
+T12	Organization 394 401	Siemens
+T13	Organization 410 414	IKEA
+T14	Organization 427 435	Wal-Mart
+T15	Organization 437 443	Nestlé
+N1	Reference T1 wiki:366813	KUKA Roboter
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:223902	Chrysler
+N4	Reference T4 wiki:153236	Ford
+N5	Reference T5 wiki:403194	Porsche
+N6	Reference T6 wiki:40368	BMW
+N7	Reference T7 wiki:41025	Audi
+N8	Reference T8 wiki:40401	Mercedes-Benz
+N9	Reference T9 wiki:124051	Ferrari
+N10	Reference T10 wiki:670179	Harley-Davidson
+N11	Reference T11 wiki:156398	Boeing
+N12	Reference T12 wiki:36510	Siemens
+N13	Reference T13 wiki:164679	IKEA
+N14	Reference T14 wiki:243093	Wal-Mart
+N15	Reference T15 wiki:121355	Nestlé
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A1	TypeRel T2 Cooperator
+A15	TypeRel T3 Cooperator
+A16	TypeRel T4 Cooperator
+A17	TypeRel T5 Cooperator
+A18	TypeRel T6 Cooperator
+A19	TypeRel T7 Cooperator
+A20	TypeRel T8 Cooperator
+A21	TypeRel T9 Cooperator
+A22	TypeRel T10 Cooperator
+A23	TypeRel T11 Cooperator
+A24	TypeRel T12 Cooperator
+A25	TypeRel T13 Cooperator
+A26	TypeRel T14 Cooperator
+A27	TypeRel T15 Cooperator

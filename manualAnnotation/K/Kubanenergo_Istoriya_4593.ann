@@ -1,0 +1,5 @@
+T1	Organization 0 12	Кубаньэнерго
+T2	Organization 217 252	«Кубанская энергосбытовая компания»
+N1	Reference T1 wiki:2389323	Кубаньэнерго
+N2	Reference T2 wiki:4198889	Кубанская энергосбытовая компания
+A1	IsLink T2

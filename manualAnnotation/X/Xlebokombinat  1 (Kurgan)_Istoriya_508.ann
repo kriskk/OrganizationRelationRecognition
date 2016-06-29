@@ -1,0 +1,5 @@
+T1	Organization 0 26	Хлебокомбинат № 1 (Курган)
+T2	Organization 227 233	«ШМКК»
+N1	Reference T1 wiki:3828460	Хлебокомбинат № 1 (Курган)
+N2	Reference T2 wiki:3908466	Шадринский молочно-консервный комбинат
+A1	IsLink T2

@@ -1,0 +1,23 @@
+STX Finland
+@Выпущенные суда
+1880,0
+
+
+Выпущенные суда
+
+ Ilmatar (Wärtsilä, Хельсинки 1964) для Finland Steamship Company
+	 Finnhansa (Wärtsilä, Хельсинки 1966) для Finnlines
+	 Finnpartner (Wärtsilä, Хельсинки 1966) для Finnlines
+	 Finlandia (1967) (Wärtsilä, Хельсинки 1967) для Finland Steamship Company
+	 Finncarrier (Wärtsilä Marine, Турку 1969) для Finnlines
+	 Song of Norway (Wärtsilä, Хельсинки 1970) для Royal Caribbean Cruise Line
+	 Nordic Prince (Wärtsilä Marine, Турку 1971) для Royal Caribbean Cruise Line
+	 Белоруссия (Wärtsilä Marine, Турку 1975) для Черноморское морское пароходство
+	 Грузия (Wärtsilä Marine, Турку 1975) для Черноморское морское пароходство
+	 Азербайджан (Wärtsilä Marine, Турку 1975) для Черноморское морское пароходство
+	 Казахстан (Wärtsilä Marine, Турку 1976) для Черноморское морское пароходство
+	 Карелия (Wärtsilä Marine, Турку 1976) для Черноморское морское пароходство
+	 GTS Finnjet (Wärtsilä Marine, Хельсинки 1977) для Finnlines
+	 Turella (Wärtsilä Marine, Турку 1979) для SF Line (Viking Line)
+	 Rosella (Wärtsilä Marine, Турку 1980) для SF Line (Viking Line)
+	 Viking Saga (Wärtsilä Marine, Хельсинки 1980) для Rederi Ab Sally (Viking Line)

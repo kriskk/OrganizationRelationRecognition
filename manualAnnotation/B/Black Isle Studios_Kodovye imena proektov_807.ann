@@ -1,0 +1,5 @@
+T1	Organization 0 18	Black Isle Studios
+T2	Organization 254 272	Bethesda Softworks
+N1	Reference T1 wiki:85409	Black Isle Studios
+N2	Reference T2 wiki:178727	Bethesda Softworks
+A1	IsLink T2

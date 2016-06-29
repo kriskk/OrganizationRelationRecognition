@@ -1,0 +1,5 @@
+T1	Organization 0 15	IHI Corporation
+T2	Organization 237 242	Honda
+N1	Reference T1 wiki:1495564	IHI Corporation
+N2	Reference T2 wiki:121050	Honda
+A1	TypeRel T2 Cooperator

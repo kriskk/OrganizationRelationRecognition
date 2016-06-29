@@ -1,0 +1,14 @@
+T1	Organization 0 19	Point of View, Inc.
+T2	Organization 188 197	Interplay
+T3	Organization 200 212	Troika Games
+T4	Organization 494 505	Codemasters
+N1	Reference T1 wiki:3334774	Point of View, Inc.
+N2	Reference T2 wiki:87238	Interplay
+N3	Reference T3 wiki:951015	Troika Games
+N4	Reference T4 wiki:952362	Codemasters
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Personnel
+A5	TypeRel T3 Personnel
+A6	TypeRel T4 Other

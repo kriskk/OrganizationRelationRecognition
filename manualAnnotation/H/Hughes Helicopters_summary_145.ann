@@ -1,0 +1,6 @@
+T1	Organization 0 18	Hughes Helicopters
+T2	Organization 193 210	МакДоннелл Дуглас
+N1	Reference T1 wiki:902491	Hughes Helicopters
+N2	Reference T2 wiki:87592	МакДоннелл Дуглас
+A1	IsLink T2
+A2	TypeRel T2 Holder

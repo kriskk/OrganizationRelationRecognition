@@ -1,0 +1,26 @@
+T1	Organization 0 17	Nex Entertainment
+T2	Organization 197 201	Sega
+T3	Organization 203 209	Capcom
+T4	Organization 211 216	Namco
+T5	Organization 226 231	Taito
+T6	Organization 233 238	Atlus
+T7	Organization 241 252	Square Enix
+N1	Reference T1 wiki:3131436	Nex Entertainment
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:714415	Capcom
+N4	Reference T4 wiki:327777	Namco
+N5	Reference T5 wiki:1711320	Taito Corporation
+N6	Reference T6 wiki:2528689	Atlus
+N7	Reference T7 wiki:288255	Square Enix
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator

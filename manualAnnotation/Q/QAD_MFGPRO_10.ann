@@ -1,0 +1,53 @@
+T1	Organization 0 3	QAD
+T2	Organization 370 377	Alcatel
+T3	Organization 379 395	General Electric
+T4	Organization 397 415	Ford Motor Company
+T5	Organization 417 422	Pepsi
+T6	Organization 424 433	Coca-Cola
+T7	Organization 435 441	Daewoo
+T8	Organization 443 448	Honda
+T9	Organization 450 461	Kraft Foods
+T10	Organization 463 467	Mars
+T11	Organization 469 476	Siemens
+T12	Organization 490 495	Volvo
+T13	Organization 497 509	Yamaha Motor
+T14	Organization 511 525	Sanofi-Aventis
+N1	Reference T1 wiki:1916298	QAD
+N2	Reference T2 wiki:294657	Alcatel
+N3	Reference T3 wiki:13762	General Electric
+N4	Reference T4 wiki:153236	Ford Motor Company
+N5	Reference T5 wiki:606214	PepsiCo
+N6	Reference T6 wiki:231920	The Coca-Cola Company
+N7	Reference T7 wiki:794769	Daewoo
+N8	Reference T8 wiki:121050	Honda
+N9	Reference T9 wiki:243189	Kraft Foods
+N10	Reference T10 wiki:172056	Mars
+N11	Reference T11 wiki:36510	Siemens
+N12	Reference T12 wiki:387781	Volvo
+N13	Reference T13 wiki:265326	Yamaha Motor Company
+N14	Reference T14 wiki:1469482	Sanofi-Aventis
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A1	TypeRel T2 Cooperator
+A14	TypeRel T3 Cooperator
+A15	TypeRel T4 Cooperator
+A16	TypeRel T5 Cooperator
+A17	TypeRel T6 Cooperator
+A18	TypeRel T7 Cooperator
+A19	TypeRel T8 Cooperator
+A20	TypeRel T9 Cooperator
+A21	TypeRel T10 Cooperator
+A22	TypeRel T11 Cooperator
+A23	TypeRel T12 Cooperator
+A24	TypeRel T13 Cooperator
+A25	TypeRel T14 Cooperator

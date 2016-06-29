@@ -1,0 +1,8 @@
+T1	Organization 0 11	The Farm 51
+T2	Organization 231 245	People Can Fly
+T3	Organization 483 485	1C
+N1	Reference T1 wiki:4118807	The Farm 51
+N2	Reference T2 wiki:1892096	People Can Fly
+N3	Reference T3 wiki:34936	1C
+A1	IsLink T2
+A2	IsLink T3

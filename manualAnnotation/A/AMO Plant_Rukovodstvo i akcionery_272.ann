@@ -1,0 +1,6 @@
+T1	Organization 0 9	AMO Plant
+T2	Organization 206 213	АМО ЗИЛ
+N1	Reference T1 wiki:3679111	AMO Plant
+N2	Reference T2 wiki:259988	Завод имени Лихачёва
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,14 @@
+T1	Organization 0 12	Сатурн (НПО)
+T2	Organization 214 232	КРОК инкорпорейтед
+T3	Organization 234 237	IBM
+T4	Organization 239 244	Intel
+T5	Organization 246 271	American Power Conversion
+N1	Reference T1 wiki:233902	Сатурн (НПО)
+N2	Reference T2 wiki:1739391	КРОК инкорпорейтед
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:762172	Intel
+N5	Reference T5 wiki:298746	American Power Conversion
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

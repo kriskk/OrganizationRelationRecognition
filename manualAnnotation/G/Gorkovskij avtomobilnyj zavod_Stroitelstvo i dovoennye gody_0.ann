@@ -1,0 +1,6 @@
+T1	Organization 0 31	Горьковский автомобильный завод
+T2	Organization 165 183	Ford Motor Company
+N1	Reference T1 wiki:25060	Горьковский автомобильный завод
+N2	Reference T2 wiki:153236	Ford Motor Company
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

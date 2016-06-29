@@ -1,0 +1,22 @@
+T1	Organization 0 32	Национальная нефтяная корпорация
+T2	Organization 277 297	Occidental Petroleum
+T3	Organization 372 375	Eni
+T4	Organization 511 525	ConocoPhillips
+T5	Organization 527 544	British Petroleum
+T6	Organization 547 552	Amoco
+N1	Reference T1 wiki:3135996	Национальная нефтяная корпорация
+N2	Reference T2 wiki:613061	Occidental Petroleum
+N3	Reference T3 wiki:180394	Eni
+N4	Reference T4 wiki:171985	ConocoPhillips
+N5	Reference T5 wiki:189320	British Petroleum
+N6	Reference T6 wiki:3553703	Amoco
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

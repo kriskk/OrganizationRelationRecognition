@@ -1,0 +1,6 @@
+T1	Organization 0 6	Luxoft
+T2	Organization 217 220	IBS
+N1	Reference T1 wiki:176126	Luxoft
+N2	Reference T2 wiki:345272	IBS
+A1	IsLink T2
+A2	TypeRel T2 Holder

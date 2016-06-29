@@ -1,0 +1,5 @@
+T1	Organization 0 6	GoRail
+T2	Organization 38 51	Eesti Raudtee
+N1	Reference T1 wiki:3922121	GoRail
+N2	Reference T2 wiki:1109264	Eesti Raudtee
+A1	IsLink T2

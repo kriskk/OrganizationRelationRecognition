@@ -1,0 +1,10 @@
+T1	Organization 0 5	Prope
+T2	Organization 77 87	Sonic Team
+T3	Organization 210 214	Sega
+N1	Reference T1 wiki:3380454	Prope
+N2	Reference T2 wiki:2721227	Sonic Team
+N3	Reference T3 wiki:92589	Sega
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Cooperator

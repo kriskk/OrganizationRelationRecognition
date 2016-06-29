@@ -1,0 +1,17 @@
+T1	Organization 0 7	АвтоВАЗ
+T2	Organization 274 281	Renault
+T3	Organization 432 445	Тройка Диалог
+T4	Organization 813 820	Renault
+T5	Organization 830 843	Ростехнологии
+T6	Organization 857 870	Тройка диалог
+N1	Reference T1 wiki:139276	АвтоВАЗ
+N2	Reference T2 wiki:586472	Renault
+N3	Reference T3 wiki:4291348	Тройка Диалог
+N4	Reference T4 wiki:586472	Renault
+N5	Reference T5 wiki:915063	Ростехнологии
+N6	Reference T6 wiki:4291348	Тройка диалог
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

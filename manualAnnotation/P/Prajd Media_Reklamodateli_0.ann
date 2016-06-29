@@ -1,0 +1,9 @@
+T1	Organization 0 11	Прайд Медиа
+T2	Organization 152 172	Сеть магазинов Линия
+T3	Organization 188 210	Липецкий хладокомбинат
+N1	Reference T1 wiki:1532003	Прайд Медиа
+N2	Reference T2 wiki:747441	Линия (сеть магазинов)
+N3	Reference T3 wiki:1533659	Липецкий хладокомбинат
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

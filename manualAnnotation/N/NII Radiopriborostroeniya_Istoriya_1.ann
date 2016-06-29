@@ -1,0 +1,5 @@
+T1	Organization 0 24	НИИ Радиоприборостроения
+T2	Organization 194 205	НПО «Алмаз»
+N1	Reference T1 wiki:1530588	НИИ Радиоприборостроения
+N2	Reference T2 wiki:662454	НПО «Алмаз»
+A1	IsLink T2

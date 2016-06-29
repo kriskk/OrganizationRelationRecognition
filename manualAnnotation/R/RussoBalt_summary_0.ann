@@ -1,0 +1,5 @@
+T1	Organization 0 10	Руссо-Балт
+T2	Organization 95 128	Русско-Балтийском вагонном заводе
+N1	Reference T1 wiki:1222042	Руссо-Балт
+N2	Reference T2 wiki:3005889	Русско-Балтийский вагонный завод
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 14	Piper Aircraft
+T2	Organization 227 233	Хондой
+N1	Reference T1 wiki:2360788	Piper Aircraft
+N2	Reference T2 wiki:121050	Honda
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 19	Metro-Goldwyn-Mayer
+T2	Organization 229 243	United Artists
+N1	Reference T1 wiki:208697	Metro-Goldwyn-Mayer
+N2	Reference T2 wiki:1450113	United Artists
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

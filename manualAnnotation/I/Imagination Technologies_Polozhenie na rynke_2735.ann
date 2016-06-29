@@ -1,0 +1,42 @@
+T1	Organization 0 24	Imagination Technologies
+T2	Organization 215 220	Apple
+T3	Organization 222 229	Samsung
+T4	Organization 231 236	Intel
+T5	Organization 238 246	Broadcom
+T6	Organization 248 257	Freescale
+T7	Organization 277 294	Texas Instruments
+T8	Organization 296 299	NEC
+T9	Organization 338 346	MediaTek
+T10	Organization 348 352	Sony
+T11	Organization 736 741	Intel
+N1	Reference T1 wiki:4205830	Imagination Technologies
+N2	Reference T2 wiki:39726	Apple
+N3	Reference T3 wiki:125537	Samsung
+N4	Reference T4 wiki:762172	Intel
+N5	Reference T5 wiki:1125099	Broadcom
+N6	Reference T6 wiki:1614887	Freescale
+N7	Reference T7 wiki:429235	Texas Instruments
+N8	Reference T8 wiki:232844	NEC
+N9	Reference T9 wiki:4128698	MediaTek
+N10	Reference T10 wiki:73019	Sony
+N11	Reference T11 wiki:762172	Intel
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	TypeRel T2 Cooperator
+A12	TypeRel T3 Cooperator
+A13	TypeRel T4 Cooperator
+A14	TypeRel T5 Cooperator
+A15	TypeRel T6 Cooperator
+A16	TypeRel T7 Cooperator
+A17	TypeRel T8 Cooperator
+A18	TypeRel T9 Cooperator
+A19	TypeRel T10 Cooperator
+A20	TypeRel T11 Cooperator

@@ -1,0 +1,17 @@
+T1	Organization 0 12	Agfa-Gevaert
+T2	Organization 114 129	Badische Anilin
+T3	Organization 131 136	Bayer
+T4	Organization 138 145	Hoechst
+T5	Organization 208 217	IG Farben
+T6	Organization 355 359	BASF
+N1	Reference T1 wiki:877920	Agfa-Gevaert
+N2	Reference T2 wiki:122826	BASF
+N3	Reference T3 wiki:166035	Bayer
+N4	Reference T4 wiki:1433713	Hoechst
+N5	Reference T5 wiki:320026	IG Farben
+N6	Reference T6 wiki:122826	BASF
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

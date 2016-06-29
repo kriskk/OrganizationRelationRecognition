@@ -1,0 +1,12 @@
+Газпром
+@Деятельность
+@Активы
+@[[Нидерланды]]
+14232,7123,14987,0
+
+
+[[Нидерланды]]
+
+ Gazprom Finance B.V. (100 %)
+	 Gazprom EP International B.V. (100 %)
+	 Gazprom Libyen Verwaltungs GmbH (доля Gazprom EP International B.V. в капитале Gazprom Libyen Verwaltungs GmbH — 100 %)

@@ -1,0 +1,5 @@
+T1	Organization 0 10	Team Bondi
+T2	Organization 202 216	Rockstar Games
+N1	Reference T1 wiki:3066614	Team Bondi
+N2	Reference T2 wiki:650156	Rockstar Games
+A1	IsLink T2

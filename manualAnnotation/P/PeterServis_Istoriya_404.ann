@@ -1,0 +1,10 @@
+T1	Organization 0 12	Петер-Сервис
+T2	Organization 227 235	Киевстар
+T3	Organization 311 319	Turkcell
+N1	Reference T1 wiki:1870153	Петер-Сервис
+N2	Reference T2 wiki:88220	Киевстар
+N3	Reference T3 wiki:177253	Turkcell
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator
+A4	TypeRel T2 Cooperator

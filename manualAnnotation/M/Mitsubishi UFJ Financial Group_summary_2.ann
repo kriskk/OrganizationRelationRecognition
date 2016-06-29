@@ -1,0 +1,6 @@
+T1	Organization 0 30	Mitsubishi UFJ Financial Group
+T2	Organization 255 271	Mitsubishi Group
+N1	Reference T1 wiki:3117167	Mitsubishi UFJ Financial Group
+N2	Reference T2 wiki:182989	Mitsubishi Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

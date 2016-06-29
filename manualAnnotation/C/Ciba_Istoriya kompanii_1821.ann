@@ -1,0 +1,14 @@
+T1	Organization 0 4	Ciba
+T2	Organization 225 233	Huntsman
+T3	Organization 492 500	Huntsman
+T4	Organization 572 580	Clariant
+T5	Organization 962 966	BASF
+N1	Reference T1 wiki:1391990	Ciba
+N2	Reference T2 wiki:711367	Huntsman
+N3	Reference T3 wiki:711367	Huntsman
+N4	Reference T4 wiki:376394	Clariant
+N5	Reference T5 wiki:122826	BASF
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

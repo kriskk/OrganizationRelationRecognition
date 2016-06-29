@@ -1,0 +1,5 @@
+T1	Organization 0 4	Ciba
+T2	Organization 277 281	BASF
+N1	Reference T1 wiki:1391990	Ciba
+N2	Reference T2 wiki:122826	BASF
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 19	Columbia Sportswear
+T2	Organization 289 302	«Спортмастер»
+N1	Reference T1 wiki:2584991	Columbia Sportswear
+N2	Reference T2 wiki:175562	Спортмастер
+A1	IsLink T2

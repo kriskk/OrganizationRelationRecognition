@@ -1,0 +1,5 @@
+T1	Organization 0 10	Ariolasoft
+T2	Organization 243 253	MicroProse
+N1	Reference T1 wiki:2881773	Ariolasoft
+N2	Reference T2 wiki:298661	MicroProse
+A1	IsLink T2

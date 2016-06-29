@@ -1,0 +1,9 @@
+T1	Organization 0 5	Mitel
+T2	Organization 217 232	British Telecom
+T3	Organization 383 398	British Telecom
+N1	Reference T1 wiki:14273	Mitel
+N2	Reference T2 wiki:14276	British Telecom
+N3	Reference T3 wiki:14276	British Telecom
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

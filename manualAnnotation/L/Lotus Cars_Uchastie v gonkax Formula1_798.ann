@@ -1,0 +1,5 @@
+T1	Organization 0 10	Lotus Cars
+T2	Organization 224 236	Cosworth DFV
+N1	Reference T1 wiki:748115	Lotus Cars
+N2	Reference T2 wiki:664377	Cosworth DFV
+A1	TypeRel T2 Cooperator

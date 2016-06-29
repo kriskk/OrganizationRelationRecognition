@@ -1,0 +1,5 @@
+T1	Organization 0 20	Витязь (предприятие)
+T2	Organization 53 75	Горизонт (предприятие)
+N1	Reference T1 wiki:1016534	Витязь (предприятие)
+N2	Reference T2 wiki:205280	Горизонт (предприятие)
+A1	IsLink T2

@@ -1,0 +1,11 @@
+T1	Organization 0 14	Синтерра Медиа
+T2	Organization 134 142	Синтерра
+T3	Organization 165 196	Группа компаний (ГК) «Синтерра»
+T4	Organization 323 333	«Синтерра»
+N1	Reference T1 wiki:2599146	Синтерра Медиа
+N2	Reference T2 wiki:1399604	Синтерра
+N3	Reference T3 wiki:1399604	Синтерра
+N4	Reference T4 wiki:1399604	Синтерра
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

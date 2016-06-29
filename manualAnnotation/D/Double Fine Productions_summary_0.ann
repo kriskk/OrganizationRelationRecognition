@@ -1,0 +1,5 @@
+T1	Organization 0 23	Double Fine Productions
+T2	Organization 180 189	LucasArts
+N1	Reference T1 wiki:750878	Double Fine Productions
+N2	Reference T2 wiki:367933	LucasArts Entertainment
+A1	IsLink T2

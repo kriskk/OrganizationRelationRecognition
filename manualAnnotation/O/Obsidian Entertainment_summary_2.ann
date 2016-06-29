@@ -1,0 +1,12 @@
+T1	Organization 0 22	Obsidian Entertainment
+T2	Organization 205 228	Interplay Entertainment
+T3	Organization 240 258	Black Isle Studios
+T4	Organization 672 684	Troika Games
+N1	Reference T1 wiki:501253	Obsidian Entertainment
+N2	Reference T2 wiki:87238	Interplay Entertainment
+N3	Reference T3 wiki:85409	Black Isle Studios
+N4	Reference T4 wiki:951015	Troika Games
+A1	IsLink T2
+A3	IsLink T4
+A2	TypeRel T3 Subsidiary
+A4	TypeRel T4 Personnel

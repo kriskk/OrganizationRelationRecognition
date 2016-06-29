@@ -1,0 +1,5 @@
+T1	Organization 0 17	Mozilla Messaging
+T2	Organization 121 140	Mozilla Corporation
+N1	Reference T1 wiki:1122814	Mozilla Messaging
+N2	Reference T2 wiki:889466	Mozilla Corporation
+A1	IsLink T2

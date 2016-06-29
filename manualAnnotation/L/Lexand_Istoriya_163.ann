@@ -1,0 +1,5 @@
+T1	Organization 0 6	Lexand
+T2	Organization 212 219	Siemens
+N1	Reference T1 wiki:4003297	Lexand
+N2	Reference T2 wiki:36510	Siemens
+A1	TypeRel T2 Cooperator

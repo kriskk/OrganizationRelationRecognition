@@ -1,0 +1,5 @@
+T1	Organization 0 15	Rolls-Royce plc
+T2	Organization 265 284	Rolls-Royce Limited
+N1	Reference T1 wiki:303399	Rolls-Royce plc
+N2	Reference T2 wiki:566165	Rolls-Royce Limited
+A1	TypeRel T2 Alias

@@ -1,0 +1,41 @@
+T1	Organization 0 10	Группа IBA
+T2	Organization 144 147	IBM
+T3	Organization 149 152	SAP
+T4	Organization 154 163	Microsoft
+T5	Organization 165 171	Oracle
+T6	Organization 173 179	Novell
+T7	Organization 181 183	1C
+T8	Organization 198 205	Philips
+T9	Organization 207 221	Wincor Nixdorf
+T10	Organization 223 228	CISCO
+T11	Organization 230 233	PTC
+N1	Reference T1 wiki:941514	Группа IBA
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:81959	SAP
+N4	Reference T4 wiki:11987	Microsoft
+N5	Reference T5 wiki:129227	Oracle Corporation
+N6	Reference T6 wiki:21831	Novell
+N7	Reference T7 wiki:34936	1C
+N8	Reference T8 wiki:204179	Philips
+N9	Reference T9 wiki:170148	Wincor Nixdorf
+N10	Reference T10 wiki:25014	Cisco
+N11	Reference T11 wiki:2775933	Parametric Technology Corporation
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A1	TypeRel T2 Cooperator
+A11	TypeRel T3 Cooperator
+A12	TypeRel T4 Cooperator
+A13	TypeRel T5 Cooperator
+A14	TypeRel T6 Cooperator
+A15	TypeRel T7 Cooperator
+A16	TypeRel T8 Cooperator
+A17	TypeRel T9 Cooperator
+A18	TypeRel T10 Cooperator
+A19	TypeRel T11 Cooperator

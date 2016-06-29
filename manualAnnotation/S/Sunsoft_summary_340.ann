@@ -1,0 +1,5 @@
+T1	Organization 0 7	Sunsoft
+T2	Organization 260 268	Nintendo
+N1	Reference T1 wiki:1788386	Sunsoft
+N2	Reference T2 wiki:202486	Nintendo
+A1	IsLink T2

@@ -1,0 +1,18 @@
+T1	Organization 0 17	Google (компания)
+T2	Organization 175 182	YouTube
+T3	Organization 184 195	DoubleClick
+T4	Organization 247 252	AdMob
+T5	Organization 254 271	Motorola Mobility
+N1	Reference T1 wiki:265	Google (компания)
+N2	Reference T2 wiki:275424	YouTube
+N3	Reference T3 wiki:626664	DoubleClick
+N4	Reference T4 wiki:2087532	AdMob
+N5	Reference T5 wiki:3420650	Motorola Mobility
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 6	Alkett
+T2	Organization 96 117	Rheinmetall-Borsig AG
+N1	Reference T1 wiki:2048878	Alkett
+N2	Reference T2 wiki:1569917	Rheinmetall
+A1	IsLink T2

@@ -1,0 +1,9 @@
+T1	Organization 0 12	ВСМПО-АВИСМА
+T2	Organization 205 211	Ренова
+T3	Organization 514 532	«Рособоронэкспорт»
+N1	Reference T1 wiki:140530	ВСМПО-АВИСМА
+N2	Reference T2 wiki:158879	Ренова
+N3	Reference T3 wiki:171221	Рособоронэкспорт
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

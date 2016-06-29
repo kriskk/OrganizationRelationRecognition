@@ -1,0 +1,20 @@
+T1	Organization 0 6	Teleca
+T2	Organization 398 406	Motorola
+T3	Organization 548 555	Kyocera
+T4	Organization 557 580	Freescale Semiconductor
+T5	Organization 582 585	AMD
+T6	Organization 626 635	Microsoft
+T7	Organization 649 654	Omron
+N1	Reference T1 wiki:1696329	Teleca
+N2	Reference T2 wiki:134384	Motorola
+N3	Reference T3 wiki:577336	Kyocera
+N4	Reference T4 wiki:1614887	Freescale Semiconductor
+N5	Reference T5 wiki:19981	AMD
+N6	Reference T6 wiki:11987	Microsoft
+N7	Reference T7 wiki:984827	Omron
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

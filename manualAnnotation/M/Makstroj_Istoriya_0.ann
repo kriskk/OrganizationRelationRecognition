@@ -1,0 +1,5 @@
+T1	Organization 0 8	Макстрой
+T2	Organization 152 188	Макеевского металлургического завода
+N1	Reference T1 wiki:2585241	Макстрой
+N2	Reference T2 wiki:422201	Макеевский металлургический комбинат
+A1	IsLink T2

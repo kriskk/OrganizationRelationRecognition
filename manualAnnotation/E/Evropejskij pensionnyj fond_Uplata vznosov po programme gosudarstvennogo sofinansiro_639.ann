@@ -1,0 +1,11 @@
+T1	Organization 0 27	Европейский пенсионный фонд
+T2	Organization 468 491	платёжный терминал QIWI
+T3	Organization 612 637	платёжных терминалов QIWI
+T4	Organization 649 661	QIWI Кошелек
+N1	Reference T1 wiki:2748355	Европейский пенсионный фонд
+N2	Reference T2 wiki:1165938	Объединённая система моментальных платежей
+N3	Reference T3 wiki:1165938	Объединённая система моментальных платежей
+N4	Reference T4 wiki:2398238	QIWI
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

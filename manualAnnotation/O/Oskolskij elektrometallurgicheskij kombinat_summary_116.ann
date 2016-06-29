@@ -1,0 +1,6 @@
+T1	Organization 0 43	Оскольский электрометаллургический комбинат
+T2	Organization 249 264	«Металлоинвест»
+N1	Reference T1 wiki:1547697	Оскольский электрометаллургический комбинат
+N2	Reference T2 wiki:301665	Металлоинвест
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 9	Группа Е4
+T2	Organization 125 131	RU-COM
+N1	Reference T1 wiki:726651	Группа Е4
+N2	Reference T2 wiki:2749951	RU-COM
+A1	IsLink T2
+A2	TypeRel T2 Holder

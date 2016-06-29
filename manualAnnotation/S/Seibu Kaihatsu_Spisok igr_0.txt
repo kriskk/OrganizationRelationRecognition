@@ -1,0 +1,18 @@
+Seibu Kaihatsu
+@Список игр
+198,0
+
+
+Список игр
+
+ Stinger (1983);
+	 Kung-Fu Taikun (1984);
+	 Knuckle Joe (лицензирована Taito) (1985);
+	 Shot Rider (1985);
+	 Wiz (1985);
+	 Empire City: 1931 / Street Fight (лицензирована Taito) (1986);
+	 Panic Road (1986);
+	 Air Raid / Cross Shooter (лицензирована Taito) (1987);
+	 Mustache Boy (лицензирована March) (1987);
+	 Dead Angle (1988);
+	 Dynamite Duke / The Double Dynamites (лицензирована Fabtek) (1989);

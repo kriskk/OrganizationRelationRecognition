@@ -1,0 +1,6 @@
+T1	Organization 0 6	Nvidia
+T2	Organization 243 248	Ageia
+N1	Reference T1 wiki:1548156	Nvidia
+N2	Reference T2 wiki:1289996	Ageia
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

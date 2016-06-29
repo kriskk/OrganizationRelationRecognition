@@ -1,0 +1,5 @@
+T1	Organization 0 10	АвтоКубань
+T2	Organization 215 219	TATA
+N1	Reference T1 wiki:3057359	АвтоКубань
+N2	Reference T2 wiki:962083	TATA
+A1	IsLink T2

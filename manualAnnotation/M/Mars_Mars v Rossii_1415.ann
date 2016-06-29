@@ -1,0 +1,5 @@
+T1	Organization 0 4	Mars
+T2	Organization 305 316	Royal Canin
+N1	Reference T1 wiki:172056	Mars
+N2	Reference T2 wiki:640886	Royal Canin
+A1	TypeRel T2 Subsidiary

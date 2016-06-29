@@ -1,0 +1,5 @@
+T1	Organization 0 19	Фондовая биржа ПФТС
+T2	Organization 113 123	Укртелеком
+N1	Reference T1 wiki:769045	Фондовая биржа ПФТС
+N2	Reference T2 wiki:376992	Укртелеком
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 9	Lucasfilm
+T2	Organization 189 212	The Walt Disney Company
+N1	Reference T1 wiki:2544735	Lucasfilm
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	IsLink T2
+A2	TypeRel T2 Holder

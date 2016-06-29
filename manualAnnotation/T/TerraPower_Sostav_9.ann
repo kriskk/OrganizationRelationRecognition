@@ -1,0 +1,8 @@
+T1	Organization 0 10	TerraPower
+T2	Organization 191 200	Microsoft
+T3	Organization 278 286	Areva NP
+N1	Reference T1 wiki:3635948	TerraPower
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:913165	Areva
+A1	IsLink T2
+A2	IsLink T3

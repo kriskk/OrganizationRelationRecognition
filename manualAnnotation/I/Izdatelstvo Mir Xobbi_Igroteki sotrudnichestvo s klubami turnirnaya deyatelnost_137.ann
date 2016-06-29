@@ -1,0 +1,6 @@
+T1	Organization 0 24	Издательство «Мир Хобби»
+T2	Organization 290 299	Starbucks
+N1	Reference T1 wiki:3974084	Издательство «Мир Хобби»
+N2	Reference T2 wiki:205133	Starbucks
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

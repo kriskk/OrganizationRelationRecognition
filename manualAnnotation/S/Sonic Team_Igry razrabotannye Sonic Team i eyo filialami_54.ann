@@ -1,0 +1,8 @@
+T1	Organization 0 10	Sonic Team
+T2	Organization 250 255	Dimps
+T3	Organization 257 265	Nintendo
+N1	Reference T1 wiki:2721227	Sonic Team
+N2	Reference T2 wiki:3373217	Dimps
+N3	Reference T3 wiki:202486	Nintendo
+A1	IsLink T2
+A2	IsLink T3

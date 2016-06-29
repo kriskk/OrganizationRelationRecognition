@@ -1,0 +1,14 @@
+T1	Organization 0 23	Студия Артемия Лебедева
+T2	Organization 188 194	Яндекс
+T3	Organization 211 218	Газпром
+T4	Organization 245 254	Microsoft
+T5	Organization 270 278	Евросеть
+N1	Reference T1 wiki:156470	Студия Артемия Лебедева
+N2	Reference T2 wiki:9744	Яндекс
+N3	Reference T3 wiki:44754	Газпром
+N4	Reference T4 wiki:11987	Microsoft
+N5	Reference T5 wiki:168895	Евросеть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

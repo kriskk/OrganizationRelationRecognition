@@ -1,0 +1,34 @@
+T1	Organization 0 8	Pegatron
+T2	Organization 235 239	Acer
+T3	Organization 241 245	Dell
+T4	Organization 247 255	Gigabyte
+T5	Organization 258 261	MSI
+T6	Organization 329 335	ASRock
+T7	Organization 691 695	Acer
+T8	Organization 750 755	Apple
+T9	Organization 852 857	Apple
+N1	Reference T1 wiki:2208845	Pegatron
+N2	Reference T2 wiki:326664	Acer
+N3	Reference T3 wiki:124570	Dell
+N4	Reference T4 wiki:1265773	Gigabyte
+N5	Reference T5 wiki:516860	Micro-Star International
+N6	Reference T6 wiki:2493967	ASRock
+N7	Reference T7 wiki:326664	Acer
+N8	Reference T8 wiki:39726	Apple
+N9	Reference T9 wiki:39726	Apple
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Subsidiary
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

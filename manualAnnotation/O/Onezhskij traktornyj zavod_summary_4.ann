@@ -1,0 +1,5 @@
+T1	Organization 0 25	Онежский тракторный завод
+T2	Organization 215 243	концерна «Тракторные заводы»
+N1	Reference T1 wiki:819640	Онежский тракторный завод
+N2	Reference T2 wiki:165385	Тракторные заводы
+A1	TypeRel T2 Holder

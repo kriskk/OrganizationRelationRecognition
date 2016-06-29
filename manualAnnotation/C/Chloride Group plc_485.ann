@@ -1,0 +1,5 @@
+T1	Organization 0 18	Chloride Group plc
+T2	Organization 193 216	Deloitte and Touche LLP
+N1	Reference T1 wiki:785289	Chloride Group plc
+N2	Reference T2 wiki:143428	Deloitte and Touche LLP
+A1	IsLink T2

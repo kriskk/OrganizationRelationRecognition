@@ -1,0 +1,8 @@
+T1	Organization 0 8	Faurecia
+T2	Organization 248 255	Renault
+T3	Organization 258 264	России
+N1	Reference T1 wiki:3836270	Faurecia
+N2	Reference T2 wiki:586472	Renault
+N3	Reference T3 wiki:387742	Автофрамос
+A1	IsLink T2
+A2	IsLink T3

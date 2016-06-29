@@ -1,0 +1,6 @@
+T1	Organization 0 10	Новый Диск
+T2	Organization 152 160	Nintendo
+N1	Reference T1 wiki:606365	Новый Диск
+N2	Reference T2 wiki:202486	Nintendo
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,9 @@
+T1	Organization 0 19	Magna International
+T2	Organization 244 257	Ростехнологии
+T3	Organization 313 320	АвтоВАЗ
+N1	Reference T1 wiki:232905	Magna International
+N2	Reference T2 wiki:915063	Ростехнологии
+N3	Reference T3 wiki:139276	АвтоВАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Радастея
+T2	Organization 263 269	Яндекс
+N1	Reference T1 wiki:137731	Радастея
+N2	Reference T2 wiki:9744	Яндекс
+A1	IsLink T2

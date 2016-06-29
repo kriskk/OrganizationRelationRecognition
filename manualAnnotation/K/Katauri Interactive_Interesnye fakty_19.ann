@@ -1,0 +1,5 @@
+T1	Organization 0 19	Katauri Interactive
+T2	Organization 227 242	Elemental Games
+N1	Reference T1 wiki:1378023	Katauri Interactive
+N2	Reference T2 wiki:820628	Elemental Games
+A1	TypeRel T2 Personnel

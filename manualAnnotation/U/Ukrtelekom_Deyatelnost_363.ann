@@ -1,0 +1,6 @@
+T1	Organization 0 10	Укртелеком
+T2	Organization 217 221	Utel
+N1	Reference T1 wiki:376992	Укртелеком
+N2	Reference T2 wiki:1807420	Utel (Украина)
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

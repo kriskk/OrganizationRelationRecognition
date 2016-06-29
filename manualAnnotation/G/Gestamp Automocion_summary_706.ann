@@ -1,0 +1,13 @@
+T1	Organization 0 18	Gestamp Automocion
+T2	Organization 291 295	Ford
+T3	Organization 346 358	Volvo Trucks
+T4	Organization 361 367	Toyota
+N1	Reference T1 wiki:3298002	Gestamp Automocion
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:1876689	Volvo Trucks
+N4	Reference T4 wiki:42689	Toyota
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

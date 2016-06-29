@@ -1,0 +1,5 @@
+T1	Organization 0 8	Белпочта
+T2	Organization 104 116	Почта России
+N1	Reference T1 wiki:1925257	Белпочта
+N2	Reference T2 wiki:234849	Почта России
+A1	IsLink T2

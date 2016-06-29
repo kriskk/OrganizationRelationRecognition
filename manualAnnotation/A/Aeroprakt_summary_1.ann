@@ -1,0 +1,5 @@
+T1	Organization 0 9	Аэропракт
+T2	Organization 176 200	ОКБ имени О. К. Антонова
+N1	Reference T1 wiki:878617	Аэропракт
+N2	Reference T2 wiki:32271	КБ Антонов
+A1	IsLink T2

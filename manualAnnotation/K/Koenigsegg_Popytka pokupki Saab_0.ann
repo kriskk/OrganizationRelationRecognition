@@ -1,0 +1,10 @@
+T1	Organization 0 10	Koenigsegg
+T2	Organization 126 130	SAAB
+T3	Organization 142 156	General Motors
+N1	Reference T1 wiki:332186	Koenigsegg
+N2	Reference T2 wiki:301314	Saab Automobile AB
+N3	Reference T3 wiki:17438	General Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Cooperator

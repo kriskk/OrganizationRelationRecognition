@@ -1,0 +1,5 @@
+T1	Organization 0 79	Государственный космический научно-производственный центр имени М. В. Хруничева
+T2	Organization 287 302	Lockheed Martin
+N1	Reference T1 wiki:354521	Государственный космический научно-производственный центр имени М. В. Хруничева
+N2	Reference T2 wiki:301268	Lockheed Martin
+A1	TypeRel T2 Cooperator

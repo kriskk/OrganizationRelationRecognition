@@ -1,0 +1,6 @@
+T1	Organization 0 40	Запорожский автомобилестроительный завод
+T2	Organization 212 217	Chery
+N1	Reference T1 wiki:683481	Запорожский автомобилестроительный завод
+N2	Reference T2 wiki:378562	Chery
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

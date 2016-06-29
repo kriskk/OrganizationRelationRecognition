@@ -1,0 +1,8 @@
+T1	Organization 0 8	Spectrol
+T2	Organization 298 314	Ярославского НПЗ
+T3	Organization 361 368	Chevron
+N1	Reference T1 wiki:4121264	Spectrol
+N2	Reference T2 wiki:1732330	Ярославский нефтеперерабатывающий завод им. Д. И. Менделеева
+N3	Reference T3 wiki:420107	Chevron
+A1	IsLink T2
+A2	IsLink T3

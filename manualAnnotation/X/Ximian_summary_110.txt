@@ -1,0 +1,11 @@
+Ximian
+@summary
+477,110
+
+ Ximian (ранее называлась Helix Code, а еще раньше International Gnome Support) была основана Мигелем де Иказа (Miguel de Icaza) и Нэтом Фридмэном (Nat Friedman) в октябре 1999, и приобретена Novell 4 августа 2003 года. Novell продолжает разработку всех текущих проектов Ximian, в то же время добавляя поддержку своих технологий GroupWise и ZENworks.
+
+
+Компания была одним из основателей Desktop Linux Consortium, также она руководит разработкой Mono — свободной реализации Microsoft .NET Framework.
+
+
+В апреле 2011 года Attachmate приобрела Novell. В мае 2011 года вся команда Mono была уволена, и Мигель де Икаса основал новую компанию Xamarin чтобы продолжить разработку Mono.

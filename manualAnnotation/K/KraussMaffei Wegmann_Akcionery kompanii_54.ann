@@ -1,0 +1,8 @@
+T1	Organization 0 21	Krauss-Maffei Wegmann
+T2	Organization 235 245	Siemens AG
+T3	Organization 321 334	Mannesmann AG
+N1	Reference T1 wiki:1115943	Krauss-Maffei Wegmann
+N2	Reference T2 wiki:36510	Siemens AG
+N3	Reference T3 wiki:507916	Mannesmann AG
+A2	IsLink T3
+A1	TypeRel T2 Holder

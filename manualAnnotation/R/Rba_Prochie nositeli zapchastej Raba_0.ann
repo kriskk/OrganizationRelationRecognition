@@ -1,0 +1,10 @@
+T1	Organization 0 4	Rába
+T2	Organization 78 81	ПАЗ
+T3	Organization 83 87	ЛиАЗ
+N1	Reference T1 wiki:298600	Rába
+N2	Reference T2 wiki:97930	Павловский автобус
+N3	Reference T3 wiki:154271	ЛиАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 6	Эвалар
+T2	Organization 214 226	Фармстандарт
+T3	Organization 229 237	Верофарм
+N1	Reference T1 wiki:2006345	Эвалар
+N2	Reference T2 wiki:347915	Фармстандарт
+N3	Reference T3 wiki:2685933	Верофарм
+A1	IsLink T2
+A2	IsLink T3

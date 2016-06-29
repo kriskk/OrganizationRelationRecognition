@@ -1,0 +1,10 @@
+T1	Organization 0 23	Лаборатория Касперского
+T2	Organization 281 289	Symantec
+T3	Organization 292 298	McAfee
+N1	Reference T1 wiki:72700	Лаборатория Касперского
+N2	Reference T2 wiki:157841	Symantec
+N3	Reference T3 wiki:1269265	McAfee
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

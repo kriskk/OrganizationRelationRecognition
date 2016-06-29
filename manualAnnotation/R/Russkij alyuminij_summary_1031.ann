@@ -1,0 +1,11 @@
+T1	Organization 0 16	Русский алюминий
+T2	Organization 196 235	Сибирско-уральской алюминиевой компании
+T3	Organization 271 279	Glencore
+T4	Organization 322 341	Российский алюминий
+N1	Reference T1 wiki:144729	Русский алюминий
+N2	Reference T2 wiki:198079	СУАЛ
+N3	Reference T3 wiki:372443	Glencore
+N4	Reference T4 wiki:598084	Российский алюминий
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

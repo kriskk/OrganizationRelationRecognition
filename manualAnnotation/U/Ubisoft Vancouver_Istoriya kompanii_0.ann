@@ -1,0 +1,19 @@
+T1	Organization 0 17	Ubisoft Vancouver
+T2	Organization 192 201	EA Canada
+T3	Organization 357 364	Ubisoft
+T4	Organization 495 502	Ubisoft
+T5	Organization 522 538	Ubisoft Montreal
+T6	Organization 565 579	Ubisoft Quebec
+N1	Reference T1 wiki:2659289	Ubisoft Vancouver
+N2	Reference T2 wiki:2306102	EA Canada
+N3	Reference T3 wiki:650139	Ubisoft
+N4	Reference T4 wiki:650139	Ubisoft
+N5	Reference T5 wiki:1357432	Ubisoft Montreal
+N6	Reference T6 wiki:2654740	Ubisoft Quebec
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Personnel
+A7	TypeRel T4 Holder

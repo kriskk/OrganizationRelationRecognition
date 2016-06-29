@@ -1,0 +1,5 @@
+T1	Organization 0 8	Cosworth
+T2	Organization 365 373	Marussia
+N1	Reference T1 wiki:664377	Cosworth
+N2	Reference T2 wiki:2836376	Marussia
+A1	IsLink T2

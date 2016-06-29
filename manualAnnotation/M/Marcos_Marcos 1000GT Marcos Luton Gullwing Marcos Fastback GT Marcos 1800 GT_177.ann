@@ -1,0 +1,6 @@
+T1	Organization 0 6	Marcos
+T2	Organization 277 281	Ford
+N1	Reference T1 wiki:3453814	Marcos
+N2	Reference T2 wiki:153236	Ford
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

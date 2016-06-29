@@ -1,0 +1,8 @@
+T1	Organization 0 8	2K China
+T2	Organization 157 177	Take-Two Interactive
+T3	Organization 203 211	2K Games
+N1	Reference T1 wiki:2365313	2K China
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+N3	Reference T3 wiki:2386194	2K Games
+A1	IsLink T2
+A2	IsLink T3

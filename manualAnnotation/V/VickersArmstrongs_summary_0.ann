@@ -1,0 +1,10 @@
+T1	Organization 0 18	Vickers-Armstrongs
+T2	Organization 156 171	Vickers Limited
+T3	Organization 174 211	Sir W G Armstrong Whitworth & Company
+N1	Reference T1 wiki:983337	Vickers-Armstrongs
+N2	Reference T2 wiki:4416613	Vickers Limited
+N3	Reference T3 wiki:1256860	Armstrong Whitworth
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

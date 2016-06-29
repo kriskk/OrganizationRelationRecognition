@@ -1,0 +1,19 @@
+T1	Organization 0 15	Western Digital
+T2	Organization 155 162	Seagate
+T3	Organization 342 349	Hitachi
+T4	Organization 421 424	IBM
+T5	Organization 447 453	Compaq
+T6	Organization 492 495	DEC
+N1	Reference T1 wiki:286638	Western Digital
+N2	Reference T2 wiki:129119	Seagate Technology
+N3	Reference T3 wiki:141241	Hitachi
+N4	Reference T4 wiki:11078	IBM
+N5	Reference T5 wiki:343420	Compaq
+N6	Reference T6 wiki:176483	DEC
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Competitor
+A7	TypeRel T3 Cooperator

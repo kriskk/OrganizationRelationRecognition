@@ -1,0 +1,5 @@
+T1	Organization 0 8	Интеррос
+T2	Organization 275 284	Trafigura
+N1	Reference T1 wiki:147366	Интеррос
+N2	Reference T2 wiki:1703395	Trafigura
+A1	IsLink T2

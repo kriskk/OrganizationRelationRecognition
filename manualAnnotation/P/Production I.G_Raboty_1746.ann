@@ -1,0 +1,6 @@
+T1	Organization 0 14	Production I.G
+T2	Organization 252 257	XEBEC
+N1	Reference T1 wiki:9179	Production I.G
+N2	Reference T2 wiki:130305	XEBEC
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

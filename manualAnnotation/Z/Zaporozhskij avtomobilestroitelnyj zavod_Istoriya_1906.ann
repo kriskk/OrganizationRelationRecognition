@@ -1,0 +1,17 @@
+T1	Organization 0 40	Запорожский автомобилестроительный завод
+T2	Organization 378 384	«Пежо»
+T3	Organization 392 398	«ФИАТ»
+T4	Organization 414 431	«Дженерал моторс»
+T5	Organization 627 633	Daewoo
+N1	Reference T1 wiki:683481	Запорожский автомобилестроительный завод
+N2	Reference T2 wiki:1650729	Peugeot
+N3	Reference T3 wiki:91784	Fiat
+N4	Reference T4 wiki:17438	General Motors
+N5	Reference T5 wiki:794769	Daewoo
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator
+A7	TypeRel T5 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 14	General Motors
+T2	Organization 136 141	Buick
+N1	Reference T1 wiki:17438	General Motors
+N2	Reference T2 wiki:1286702	Buick
+A1	TypeRel T2 Personnel

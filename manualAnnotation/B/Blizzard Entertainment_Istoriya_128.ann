@@ -1,0 +1,5 @@
+T1	Organization 0 22	Blizzard Entertainment
+T2	Organization 198 221	Interplay Entertainment
+N1	Reference T1 wiki:202669	Blizzard Entertainment
+N2	Reference T2 wiki:87238	Interplay Entertainment
+A1	IsLink T2

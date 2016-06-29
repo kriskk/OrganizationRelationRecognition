@@ -1,0 +1,8 @@
+T1	Organization 0 24	Subway (сеть ресторанов)
+T2	Organization 238 248	McDonald's
+T3	Organization 308 318	McDonald's
+N1	Reference T1 wiki:463082	Subway (сеть ресторанов)
+N2	Reference T2 wiki:3425	McDonald's
+N3	Reference T3 wiki:3425	McDonald's
+A1	IsLink T2
+A2	IsLink T3

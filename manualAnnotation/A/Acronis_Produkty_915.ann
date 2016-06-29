@@ -1,0 +1,5 @@
+T1	Organization 0 7	Acronis
+T2	Organization 241 247	VMware
+N1	Reference T1 wiki:1578313	Acronis
+N2	Reference T2 wiki:205509	VMware
+A1	IsLink T2

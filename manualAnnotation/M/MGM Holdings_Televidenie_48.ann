@@ -1,0 +1,9 @@
+T1	Organization 0 12	MGM Holdings
+T2	Organization 278 284	Viacom
+T3	Organization 287 311	Lions Gate Entertainment
+N1	Reference T1 wiki:3947611	MGM Holdings
+N2	Reference T2 wiki:399829	Viacom
+N3	Reference T3 wiki:1671889	Lions Gate Entertainment
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

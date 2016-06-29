@@ -1,0 +1,6 @@
+T1	Organization 0 12	Лидское пиво
+T2	Organization 190 198	Olvi PLC
+N1	Reference T1 wiki:1030340	Лидское пиво
+N2	Reference T2 wiki:3408246	Olvi
+A1	IsLink T2
+A2	TypeRel T2 Holder

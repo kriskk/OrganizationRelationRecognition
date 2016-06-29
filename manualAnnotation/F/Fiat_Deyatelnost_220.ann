@@ -1,0 +1,23 @@
+T1	Organization 0 4	Fiat
+T2	Organization 199 209	FIAT Group
+T3	Organization 252 259	Ferrari
+T4	Organization 262 270	Maserati
+T5	Organization 273 279	Abarth
+T6	Organization 282 292	Alfa Romeo
+T7	Organization 295 301	Lancia
+T8	Organization 304 312	Chrysler
+N1	Reference T1 wiki:91784	Fiat
+N2	Reference T2 wiki:91784	FIAT Group
+N3	Reference T3 wiki:124051	Ferrari
+N4	Reference T4 wiki:453192	Maserati
+N5	Reference T5 wiki:3693741	Abarth
+N6	Reference T6 wiki:371643	Alfa Romeo
+N7	Reference T7 wiki:1503078	Lancia
+N8	Reference T8 wiki:223902	Chrysler
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Proximus
+T2	Organization 190 198	Vodafone
+N1	Reference T1 wiki:2497331	Proximus
+N2	Reference T2 wiki:213703	Vodafone
+A1	IsLink T2

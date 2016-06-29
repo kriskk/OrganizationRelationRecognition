@@ -1,0 +1,8 @@
+T1	Organization 0 6	Nvidia
+T2	Organization 132 137	Forsa
+T3	Organization 150 166	ATI Technologies
+N1	Reference T1 wiki:1548156	Nvidia
+N2	Reference T2 wiki:1389312	Forsa
+N3	Reference T3 wiki:1155771	ATI Technologies
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 5	ВИНАП
+T2	Organization 229 236	PepsiCo
+N1	Reference T1 wiki:254339	ВИНАП
+N2	Reference T2 wiki:606214	PepsiCo
+A1	TypeRel T2 Cooperator

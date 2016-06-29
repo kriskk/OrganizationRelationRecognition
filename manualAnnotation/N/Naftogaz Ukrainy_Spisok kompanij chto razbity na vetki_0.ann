@@ -1,0 +1,21 @@
+T1	Organization 0 16	Нафтогаз Украины
+T2	Organization 157 169	Укргаздобыча
+T3	Organization 176 192	Черноморнефтегаз
+T4	Organization 199 207	Укрнефть
+T5	Organization 378 389	Газ Украины
+T6	Organization 399 407	Нефтегаз
+N1	Reference T1 wiki:128243	Нафтогаз Украины
+N2	Reference T2 wiki:3451712	Укргаздобыча
+N3	Reference T3 wiki:1874201	Черноморнефтегаз
+N4	Reference T4 wiki:1074981	Укрнефть
+N5	Reference T5 wiki:129589	Газ Украины
+N6	Reference T6 wiki:128243	Нефтегаз Украины
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary
+A9	TypeRel T6 Subsidiary

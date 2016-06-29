@@ -1,0 +1,6 @@
+T1	Organization 0 18	Rocksteady Studios
+T2	Organization 199 237	Warner Bros. Interactive Entertainment
+N1	Reference T1 wiki:3050753	Rocksteady Studios
+N2	Reference T2 wiki:2184337	Warner Bros. Interactive Entertainment
+A1	IsLink T2
+A2	TypeRel T2 Holder

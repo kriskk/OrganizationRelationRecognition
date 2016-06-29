@@ -1,0 +1,5 @@
+T1	Organization 0 10	Алтай-кокс
+T2	Organization 195 238	«Новолипецкого металлургического комбината»
+N1	Reference T1 wiki:703443	Алтай-кокс
+N2	Reference T2 wiki:143594	Новолипецкий металлургический комбинат
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Разрез Восточный
+T2	Organization 155 200	ОАО «Евроазиатская Энергетическая Корпорация»
+N1	Reference T1 wiki:1611928	Разрез Восточный
+N2	Reference T2 wiki:2171512	Eurasian Natural Resources Corporation
+A1	TypeRel T2 Holder

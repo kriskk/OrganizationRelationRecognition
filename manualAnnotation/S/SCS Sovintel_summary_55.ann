@@ -1,0 +1,15 @@
+T1	Organization 0 12	СЦС Совинтел
+T2	Organization 374 384	Ростелеком
+T3	Organization 420 434	Golden Telecom
+T4	Organization 727 730	РОЛ
+T5	Organization 791 800	ВымпелКом
+N1	Reference T1 wiki:3929111	СЦС Совинтел
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:2196953	Golden Telecom
+N4	Reference T4 wiki:2196953	Россия-он-лайн
+N5	Reference T5 wiki:70736	ВымпелКом
+A1	IsLink T2
+A2	IsLink T3
+A4	IsLink T5
+A3	TypeRel T4 Cooperator
+A5	TypeRel T5 Holder

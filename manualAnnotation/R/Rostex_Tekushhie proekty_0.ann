@@ -1,0 +1,5 @@
+T1	Organization 0 6	Ростех
+T2	Organization 99 106	Pirelli
+N1	Reference T1 wiki:915063	Ростех
+N2	Reference T2 wiki:461196	Pirelli
+A1	IsLink T2

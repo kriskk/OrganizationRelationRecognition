@@ -1,0 +1,12 @@
+McAfee
+@Продукты
+867,568
+
+	 McAfee Host Data Loss Prevention
+	 McAfee Internet Security — антивирус, файерволл
+	 McAfee IntruShield
+	 McAfee LinuxShield — антивирус для корпоративных решений Red Hat и SUSE
+	 McAfee Personal Firewall Plus — файрволл
+	 McAfee Privacy Service
+	 McAfee QuickClean
+	 McAfee Secure Content Management Appliances — антивирусный и антиспамный шлюз

@@ -1,0 +1,14 @@
+T1	Organization 0 13	ZeniMax Media
+T2	Organization 198 209	Id Software
+T3	Organization 210 228	Bethesda Softworks
+T4	Organization 287 301	Arkane Studios
+N1	Reference T1 wiki:2147996	ZeniMax Media
+N2	Reference T2 wiki:80386	Id Software
+N3	Reference T3 wiki:178727	Bethesda Softworks
+N4	Reference T4 wiki:1692142	Arkane Studios
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

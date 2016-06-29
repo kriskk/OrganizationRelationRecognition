@@ -1,0 +1,11 @@
+T1	Organization 0 26	Сеть ТРЦ «Красная Площадь»
+T2	Organization 283 294	Спортмастер
+T3	Organization 296 319	Магнит (сеть магазинов)
+T4	Organization 321 328	М.Видео
+N1	Reference T1 wiki:3817385	Сеть ТРЦ «Красная Площадь»
+N2	Reference T2 wiki:175562	Спортмастер
+N3	Reference T3 wiki:143658	Магнит (сеть магазинов)
+N4	Reference T4 wiki:370490	М.Видео
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

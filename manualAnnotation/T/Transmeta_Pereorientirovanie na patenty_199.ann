@@ -1,0 +1,8 @@
+T1	Organization 0 9	Transmeta
+T2	Organization 272 275	AMD
+T3	Organization 477 481	Sony
+N1	Reference T1 wiki:99423	Transmeta
+N2	Reference T2 wiki:19981	AMD
+N3	Reference T3 wiki:73019	Sony
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,33 @@
+T1	Organization 0 15	X5 Retail Group
+T2	Organization 143 154	Перекрёсток
+T3	Organization 171 182	Альфа-Групп
+T4	Organization 294 302	Корзинка
+T5	Organization 415 424	Пятёрочки
+T6	Organization 646 654	Карусель
+T7	Organization 780 788	Патэрсон
+T8	Organization 970 981	Перекрёсток
+T9	Organization 991 1000	Пятёрочка
+N1	Reference T1 wiki:353293	X5 Retail Group
+N2	Reference T2 wiki:176082	Перекрёсток (сеть магазинов)
+N3	Reference T3 wiki:141637	Альфа-Групп
+N4	Reference T4 wiki:1272042	Корзинка (сеть магазинов)
+N5	Reference T5 wiki:132128	Пятёрочка (сеть магазинов)
+N6	Reference T6 wiki:367164	Карусель (сеть магазинов)
+N7	Reference T7 wiki:173803	Патэрсон
+N8	Reference T8 wiki:176082	Перекрёсток (сеть магазинов)
+N9	Reference T9 wiki:132128	Пятёрочка (сеть магазинов)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Subsidiary
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Subsidiary
+A12	TypeRel T6 Subsidiary
+A13	TypeRel T7 Subsidiary
+A14	TypeRel T8 Subsidiary
+A15	TypeRel T9 Subsidiary

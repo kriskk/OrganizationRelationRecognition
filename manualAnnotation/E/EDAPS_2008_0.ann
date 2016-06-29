@@ -1,0 +1,6 @@
+T1	Organization 0 5	ЕДАПС
+T2	Organization 91 101	Голография
+N1	Reference T1 wiki:2938047	ЕДАПС
+N2	Reference T2 wiki:2940765	Голография (предприятие)
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

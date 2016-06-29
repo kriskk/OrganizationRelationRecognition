@@ -1,0 +1,10 @@
+T1	Organization 0 18	Nanjing Automobile
+T2	Organization 308 320	Isuzu Motors
+T3	Organization 346 351	Iveco
+N1	Reference T1 wiki:4048040	Nanjing Automobile
+N2	Reference T2 wiki:177809	Isuzu
+N3	Reference T3 wiki:272617	Iveco
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

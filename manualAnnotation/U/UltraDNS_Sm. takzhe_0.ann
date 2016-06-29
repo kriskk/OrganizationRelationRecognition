@@ -1,0 +1,11 @@
+T1	Organization 0 8	UltraDNS
+T2	Organization 98 104	DynDNS
+T3	Organization 136 143	OpenDNS
+T4	Organization 175 180	No-IP
+N1	Reference T1 wiki:2675087	UltraDNS
+N2	Reference T2 wiki:2444312	DynDNS
+N3	Reference T3 wiki:1601966	OpenDNS
+N4	Reference T4 wiki:2675035	No-IP
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

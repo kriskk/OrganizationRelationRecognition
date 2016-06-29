@@ -1,0 +1,5 @@
+T1	Organization 0 10	Trust-Mart
+T2	Organization 222 230	Wal-Mart
+N1	Reference T1 wiki:550585	Trust-Mart
+N2	Reference T2 wiki:243093	Wal-Mart
+A1	IsLink T2

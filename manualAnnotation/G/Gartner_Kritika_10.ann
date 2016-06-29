@@ -1,0 +1,5 @@
+T1	Organization 0 7	Gartner
+T2	Organization 294 299	Apple
+N1	Reference T1 wiki:2960363	Gartner
+N2	Reference T2 wiki:39726	Apple
+A1	IsLink T2

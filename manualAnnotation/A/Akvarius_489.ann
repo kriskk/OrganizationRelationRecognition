@@ -1,0 +1,5 @@
+T1	Organization 0 8	Аквариус
+T2	Organization 269 272	НКК
+N1	Reference T1 wiki:1971061	Аквариус
+N2	Reference T2 wiki:1116399	Национальная компьютерная корпорация
+A1	IsLink T2

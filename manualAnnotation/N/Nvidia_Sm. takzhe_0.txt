@@ -1,0 +1,16 @@
+Nvidia
+@См. также
+6296,0
+
+
+См. также
+
+ Сравнение графических процессоров NVIDIA
+	 Сравнение чипсетов Nvidia
+	 PureVideo
+	 Nouveau
+	 Forsa
+	 Tegra 2
+	 ATI Technologies
+
+

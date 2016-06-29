@@ -1,0 +1,18 @@
+T1	Organization 0 6	Luxoft
+T2	Organization 38 47	Microsoft
+T3	Organization 73 76	IBM
+T4	Organization 167 185	Oracle Corporation
+T5	Organization 262 278	Sun Microsystems
+N1	Reference T1 wiki:176126	Luxoft
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:129227	Oracle Corporation
+N5	Reference T5 wiki:4777	Sun Microsystems
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator

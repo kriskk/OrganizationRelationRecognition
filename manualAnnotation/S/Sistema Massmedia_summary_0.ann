@@ -1,0 +1,5 @@
+T1	Organization 0 18	Система Масс-медиа
+T2	Organization 137 150	АФК «Система»
+N1	Reference T1 wiki:629570	Система Масс-медиа
+N2	Reference T2 wiki:158888	АФК Система
+A1	IsLink T2

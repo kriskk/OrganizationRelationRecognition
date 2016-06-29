@@ -1,0 +1,5 @@
+T1	Organization 0 7	Энфорта
+T2	Organization 180 192	ТрансТелеКом
+N1	Reference T1 wiki:1946969	Энфорта
+N2	Reference T2 wiki:161360	ТрансТелеКом
+A1	IsLink T2

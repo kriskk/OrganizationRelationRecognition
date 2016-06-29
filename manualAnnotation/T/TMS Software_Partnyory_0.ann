@@ -1,0 +1,8 @@
+T1	Organization 0 12	TMS Software
+T2	Organization 96 105	Microsoft
+T3	Organization 107 131	Embarcadero Technologies
+N1	Reference T1 wiki:3062655	TMS Software
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:2429869	Embarcadero Technologies
+A1	IsLink T2
+A2	IsLink T3

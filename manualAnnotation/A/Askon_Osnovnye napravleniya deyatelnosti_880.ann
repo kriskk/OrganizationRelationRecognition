@@ -1,0 +1,5 @@
+T1	Organization 0 5	Аскон
+T2	Organization 299 302	AEC
+N1	Reference T1 wiki:18789	Аскон
+N2	Reference T2 wiki:1945811	AEC
+A1	IsLink T2

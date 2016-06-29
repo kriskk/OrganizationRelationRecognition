@@ -1,0 +1,5 @@
+Certiport
+@summary
+460,263
+
+ Система тестирования Certiport включает в себя официальную сертификацию пакета программ Microsoft Office, программ сертификации Microsoft Technology Associate, Adobe Certified Associate, CompTIA Strata ™ IT Fundamentals, Autodesk ® Certified User, Intuit QuickBooks Certified User и Internet and Computing Core Certification (IC³).

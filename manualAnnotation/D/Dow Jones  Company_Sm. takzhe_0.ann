@@ -1,0 +1,5 @@
+T1	Organization 0 19	Dow Jones & Company
+T2	Organization 84 91	Factiva
+N1	Reference T1 wiki:1948907	Dow Jones & Company
+N2	Reference T2 wiki:1350182	Factiva
+A1	IsLink T2

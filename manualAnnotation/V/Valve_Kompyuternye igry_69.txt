@@ -1,0 +1,27 @@
+Valve
+@Список продуктов
+@Компьютерные игры
+7808,19,69
+
+::* Half-Life: Uplink (1999)
+::* Half-Life: Source (2004)
+:::* Half-Life Deathmach: Source (2005)
+:* Half-Life: Opposing Force (1999) (разработана компанией Gearbox Software)
+:* Half-Life: Blue Shift (2001) (разработана компанией Gearbox Software)
+:* Half-Life: Decay (2001) (разработана компанией Gearbox Software)
+ Half-Life 2 (2004)
+
+::* Half-Life 2: Deathmatch (2004)
+::* Half-Life 2: Lost Coast (2005)
+::* Half-Life 2: Survivor (2006) (разработана совместно с Taito Corporation)
+:* Half-Life 2: Episode One (2006)
+:* Half-Life 2: Episode Two (2007)
+:* Half-Life 2: Episode Three (игра была анонсирована, текущее состояние неизвестно)
+:* Half-Life 2: Episode Four (игра разрабатывалась Arkane Studios, но была отменена)
+ Counter-Strike (2000) (коммерческая версия, разработанная совместно с Gearbox Software)
+
+:* Counter-Strike: Condition Zero (2004) (разработана компанией Gearbox Software)
+:* Counter-Strike Neo (2003)
+:* Counter-Strike: Source (2004)
+:* Counter-Strike Online (2007)
+::* Counter-Strike Online 2 (в разработке)

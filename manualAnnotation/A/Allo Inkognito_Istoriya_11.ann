@@ -1,0 +1,11 @@
+T1	Organization 0 14	Алло Инкогнито
+T2	Organization 248 255	МегаФон
+T3	Organization 534 541	Связной
+T4	Organization 704 713	Скай Линк
+N1	Reference T1 wiki:3626015	Алло Инкогнито
+N2	Reference T2 wiki:70933	МегаФон
+N3	Reference T3 wiki:371774	Связной (компания)
+N4	Reference T4 wiki:145535	Скай Линк
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

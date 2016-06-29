@@ -1,0 +1,8 @@
+T1	Organization 0 24	Douglas Aircraft Company
+T2	Organization 226 249	North American Aviation
+T3	Organization 277 297	Northrop Corporation
+N1	Reference T1 wiki:4294726	Douglas Aircraft Company
+N2	Reference T2 wiki:2188887	North American Aviation
+N3	Reference T3 wiki:890183	Northrop Corporation
+A1	IsLink T2
+A2	IsLink T3

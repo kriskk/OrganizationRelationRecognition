@@ -1,0 +1,5 @@
+T1	Organization 0 6	Gilera
+T2	Organization 153 160	Piaggio
+N1	Reference T1 wiki:3317262	Gilera
+N2	Reference T2 wiki:981321	Piaggio
+A1	TypeRel T2 Holder

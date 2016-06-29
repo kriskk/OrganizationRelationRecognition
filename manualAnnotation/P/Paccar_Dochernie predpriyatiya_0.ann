@@ -1,0 +1,18 @@
+T1	Organization 0 6	Paccar
+T2	Organization 60 68	Kenworth
+T3	Organization 121 130	Peterbilt
+T4	Organization 133 143	DAF Trucks
+T5	Organization 413 418	GINAF
+N1	Reference T1 wiki:1704447	Paccar
+N2	Reference T2 wiki:2477230	Kenworth
+N3	Reference T3 wiki:1704331	Peterbilt
+N4	Reference T4 wiki:1570257	DAF Trucks
+N5	Reference T5 wiki:424070	GINAF
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Cooperator

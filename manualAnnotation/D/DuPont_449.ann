@@ -1,0 +1,5 @@
+T1	Organization 0 6	DuPont
+T2	Organization 210 245	Pioneer Hi-Bred International, Inc.
+N1	Reference T1 wiki:206423	DuPont
+N2	Reference T2 wiki:540450	Pioneer Hi-Bred International
+A1	IsLink T2

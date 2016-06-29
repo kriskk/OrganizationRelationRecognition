@@ -1,0 +1,5 @@
+T1	Organization 0 4	NeXT
+T2	Organization 264 280	Sun Microsystems
+N1	Reference T1 wiki:289854	NeXT
+N2	Reference T2 wiki:4777	Sun Microsystems
+A1	IsLink T2

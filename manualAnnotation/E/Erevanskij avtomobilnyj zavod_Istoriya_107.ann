@@ -1,0 +1,8 @@
+T1	Organization 0 30	Ереванский автомобильный завод
+T2	Organization 307 310	РАФ
+T3	Organization 313 316	УАЗ
+N1	Reference T1 wiki:1529885	Ереванский автомобильный завод
+N2	Reference T2 wiki:371838	Рижская автобусная фабрика
+N3	Reference T3 wiki:84571	УАЗ
+A1	IsLink T2
+A2	IsLink T3

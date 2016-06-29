@@ -1,0 +1,5 @@
+T1	Organization 0 11	Прайд Медиа
+T2	Organization 227 231	НЛМК
+N1	Reference T1 wiki:1532003	Прайд Медиа
+N2	Reference T2 wiki:143594	НЛМК
+A1	IsLink T2

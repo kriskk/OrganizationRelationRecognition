@@ -1,0 +1,14 @@
+T1	Organization 0 15	Dewey & LeBoeuf
+T2	Organization 377 391	General Motors
+T3	Organization 393 407	Morgan Stanley
+T4	Organization 410 419	Mobil Oil
+T5	Organization 704 734	LeBoeuf, Lamb, Greene & MacRae
+N1	Reference T1 wiki:1044031	Dewey & LeBoeuf
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:612532	Morgan Stanley
+N4	Reference T4 wiki:176152	Mobil Oil
+N5	Reference T5 wiki:238209	LeBoeuf, Lamb, Greene & MacRae LLP
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

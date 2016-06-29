@@ -1,0 +1,8 @@
+T1	Organization 0 33	Белорусский нефтяной торговый дом
+T2	Organization 97 108	Белнефтехим
+T3	Organization 111 140	Белорусская нефтяная компания
+N1	Reference T1 wiki:2511247	Белорусский нефтяной торговый дом
+N2	Reference T2 wiki:2450002	Белнефтехим
+N3	Reference T3 wiki:2448271	Белорусская нефтяная компания
+A1	IsLink T2
+A2	IsLink T3

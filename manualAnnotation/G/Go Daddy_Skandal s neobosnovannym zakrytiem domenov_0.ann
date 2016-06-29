@@ -1,0 +1,6 @@
+T1	Organization 0 8	Go Daddy
+T2	Organization 149 158	Majordomo
+N1	Reference T1 wiki:776757	Go Daddy
+N2	Reference T2 wiki:1787365	Majordomo (компания)
+A1	IsLink T2
+A2	TypeRel T2 Other

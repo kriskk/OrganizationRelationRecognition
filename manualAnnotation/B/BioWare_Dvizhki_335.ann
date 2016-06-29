@@ -1,0 +1,8 @@
+T1	Organization 0 7	BioWare
+T2	Organization 188 196	Obsidian
+T3	Organization 343 353	CD Projekt
+N1	Reference T1 wiki:546996	BioWare
+N2	Reference T2 wiki:501253	Obsidian
+N3	Reference T3 wiki:1275736	CD Projekt
+A1	IsLink T2
+A2	IsLink T3

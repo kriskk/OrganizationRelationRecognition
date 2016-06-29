@@ -1,0 +1,14 @@
+T1	Organization 0 31	Концерн «Моринформсистема-Агат»
+T2	Organization 224 266	Научно-производственное объединение «Марс»
+T3	Organization 269 309	Научно-производственная фирма «Меридиан»
+T4	Organization 312 355	Научно-производственное предприятие «Салют»
+N1	Reference T1 wiki:2335928	Концерн «Моринформсистема-Агат»
+N2	Reference T2 wiki:2679628	Научно-производственное объединение «Марс»
+N3	Reference T3 wiki:2677719	Научно-производственная фирма «Меридиан»
+N4	Reference T4 wiki:2531925	Научно-производственное предприятие «Салют»
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

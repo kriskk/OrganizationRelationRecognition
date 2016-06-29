@@ -1,0 +1,14 @@
+Navistar International
+@Поставщики запчастей
+2805,0
+
+
+Поставщики запчастей
+
+ Cummins
+	 Detroit Diesel
+	 Cat
+	 Eaton
+	 Rockwell
+
+

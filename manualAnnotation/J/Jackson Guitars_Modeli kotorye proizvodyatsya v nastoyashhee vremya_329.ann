@@ -1,0 +1,5 @@
+T1	Organization 0 15	Jackson Guitars
+T2	Organization 241 247	Gibson
+N1	Reference T1 wiki:1128712	Jackson Guitars
+N2	Reference T2 wiki:546422	Gibson
+A1	IsLink T2

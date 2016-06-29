@@ -1,0 +1,6 @@
+T1	Organization 0 6	Oracle
+T2	Organization 277 280	SAP
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:81959	SAP
+A1	IsLink T2
+A2	TypeRel T2 Competitor

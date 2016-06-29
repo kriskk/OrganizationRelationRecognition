@@ -1,0 +1,5 @@
+T1	Organization 0 7	Wrigley
+T2	Organization 297 301	Mars
+N1	Reference T1 wiki:454013	Wrigley
+N2	Reference T2 wiki:172056	Mars
+A1	TypeRel T2 Holder

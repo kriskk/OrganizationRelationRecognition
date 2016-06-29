@@ -1,0 +1,6 @@
+T1	Organization 0 6	Wenger
+T2	Organization 189 199	Victorinox
+N1	Reference T1 wiki:2226251	Wenger
+N2	Reference T2 wiki:1167460	Victorinox
+A1	IsLink T2
+A2	TypeRel T2 Holder

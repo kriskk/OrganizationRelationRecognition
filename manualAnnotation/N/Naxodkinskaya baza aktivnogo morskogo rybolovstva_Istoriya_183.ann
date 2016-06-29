@@ -1,0 +1,6 @@
+T1	Organization 0 48	Находкинская база активного морского рыболовства
+T2	Organization 273 284	Рыбный порт
+N1	Reference T1 wiki:142928	Находкинская база активного морского рыболовства
+N2	Reference T2 wiki:2709023	Находкинский морской рыбный порт
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

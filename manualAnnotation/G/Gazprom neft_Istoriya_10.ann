@@ -1,0 +1,5 @@
+T1	Organization 0 13	Газпром нефть
+T2	Organization 247 255	Роснефть
+N1	Reference T1 wiki:121955	Газпром нефть
+N2	Reference T2 wiki:139770	Роснефть
+A1	TypeRel T2 Holder

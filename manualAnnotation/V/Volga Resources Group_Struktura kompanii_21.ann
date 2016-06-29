@@ -1,0 +1,30 @@
+T1	Organization 0 21	Volga Resources Group
+T2	Organization 218 226	SOVAG AG
+T3	Organization 333 352	ОАО «Стройтрансгаз»
+T4	Organization 376 395	ОАО «СИБУР Холдинг»
+T5	Organization 485 497	Gunvor Group
+T6	Organization 522 536	ООО «Трансойл»
+T7	Organization 755 785	Группа компаний «Русское море»
+T8	Organization 879 892	ОАО «НОВАТЭК»
+N1	Reference T1 wiki:4477826	Volga Resources Group
+N2	Reference T2 wiki:2627701	SOVAG AG
+N3	Reference T3 wiki:1692403	Стройтрансгаз
+N4	Reference T4 wiki:144869	Сибур
+N5	Reference T5 wiki:893402	Gunvor
+N6	Reference T6 wiki:2399931	Трансойл
+N7	Reference T7 wiki:672310	Русское море
+N8	Reference T8 wiki:172027	Новатэк
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Subsidiary
+A9	TypeRel T3 Subsidiary
+A10	TypeRel T4 Subsidiary
+A11	TypeRel T5 Subsidiary
+A12	TypeRel T6 Subsidiary
+A13	TypeRel T7 Subsidiary
+A14	TypeRel T8 Subsidiary

@@ -1,0 +1,6 @@
+T1	Organization 0 8	Wärtsilä
+T2	Organization 114 149	Брянским машиностроительным заводом
+N1	Reference T1 wiki:951949	Wärtsilä
+N2	Reference T2 wiki:289532	Брянский машиностроительный завод
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

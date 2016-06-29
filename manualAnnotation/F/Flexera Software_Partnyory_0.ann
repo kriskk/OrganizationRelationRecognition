@@ -1,0 +1,44 @@
+T1	Organization 0 16	Flexera Software
+T2	Organization 141 146	Adobe
+T3	Organization 148 156	Autodesk
+T4	Organization 158 164	Boeing
+T5	Organization 166 172	Citrix
+T6	Organization 174 184	DreamWorks
+T7	Organization 186 203	Feature Animation
+T8	Organization 205 208	IBM
+T9	Organization 210 225	Hewlett Packard
+T10	Organization 227 232	Nokia
+T11	Organization 234 246	Schlumberger
+T12	Organization 248 264	Sun Microsystems
+T13	Organization 266 272	Sybase
+T14	Organization 274 287	The MathWorks
+T15	Organization 298 303	Pixar
+N1	Reference T1 wiki:3103279	Flexera Software
+N2	Reference T2 wiki:42937	Adobe
+N3	Reference T3 wiki:699040	Autodesk
+N4	Reference T4 wiki:156398	Boeing
+N5	Reference T5 wiki:1903941	Citrix
+N6	Reference T6 wiki:755489	DreamWorks
+N7	Reference T7 wiki:345492	Feature Animation
+N8	Reference T8 wiki:11078	IBM
+N9	Reference T9 wiki:89988	Hewlett Packard
+N10	Reference T10 wiki:56405	Nokia
+N11	Reference T11 wiki:246264	Schlumberger
+N12	Reference T12 wiki:4777	Sun Microsystems
+N13	Reference T13 wiki:204161	Sybase
+N14	Reference T14 wiki:56165	The MathWorks
+N15	Reference T15 wiki:125032	Pixar
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15

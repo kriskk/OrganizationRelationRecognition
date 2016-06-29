@@ -1,0 +1,6 @@
+T1	Organization 0 12	Уралсиб (ФК)
+T2	Organization 178 184	Лукойл
+N1	Reference T1 wiki:237228	Уралсиб (ФК)
+N2	Reference T2 wiki:59354	Лукойл
+A1	IsLink T2
+A2	TypeRel T2 Personnel

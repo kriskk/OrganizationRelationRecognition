@@ -1,0 +1,6 @@
+T1	Organization 0 6	Orient
+T2	Organization 238 244	Subaru
+N1	Reference T1 wiki:303022	Orient
+N2	Reference T2 wiki:196754	Subaru
+A1	IsLink T2
+A2	TypeRel T2 Other

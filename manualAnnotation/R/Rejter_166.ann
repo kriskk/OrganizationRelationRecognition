@@ -1,0 +1,9 @@
+T1	Organization 0 6	Рейтер
+T2	Organization 173 188	Thomson Reuters
+T3	Organization 196 203	Thomson
+N1	Reference T1 wiki:183883	Рейтер
+N2	Reference T2 wiki:1212367	Thomson Reuters
+N3	Reference T3 wiki:643688	Thomson (компания)
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

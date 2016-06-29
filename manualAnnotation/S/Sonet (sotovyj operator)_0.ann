@@ -1,0 +1,5 @@
+T1	Organization 0 24	Сонет (сотовый оператор)
+T2	Organization 168 177	Скай Линк
+N1	Reference T1 wiki:1485047	Сонет (сотовый оператор)
+N2	Reference T2 wiki:145535	Скай Линк
+A1	IsLink T2

@@ -1,0 +1,18 @@
+T1	Organization 0 14	Golden Telecom
+T2	Organization 70 84	Совам Телепорт
+T3	Organization 110 124	Россия-он-Лайн
+T4	Organization 398 406	Ситилайн
+T5	Organization 443 455	СЦС Совинтел
+N1	Reference T1 wiki:2196953	Golden Telecom
+N2	Reference T2 wiki:3455613	Совам Телепорт
+N3	Reference T3 wiki:2196953	Россия-он-Лайн
+N4	Reference T4 wiki:2664856	Cityline
+N5	Reference T5 wiki:3929111	СЦС Совинтел
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary

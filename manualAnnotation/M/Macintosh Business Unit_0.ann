@@ -1,0 +1,5 @@
+T1	Organization 0 23	Macintosh Business Unit
+T2	Organization 112 121	Microsoft
+N1	Reference T1 wiki:2662008	Macintosh Business Unit
+N2	Reference T2 wiki:11987	Microsoft
+A1	TypeRel T2 Holder

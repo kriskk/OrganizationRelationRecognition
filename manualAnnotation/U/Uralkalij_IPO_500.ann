@@ -1,0 +1,5 @@
+T1	Organization 0 9	Уралкалий
+T2	Organization 244 252	Citibank
+N1	Reference T1 wiki:153726	Уралкалий
+N2	Reference T2 wiki:681929	Citibank
+A1	TypeRel T2 Cooperator

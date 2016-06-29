@@ -1,0 +1,6 @@
+T1	Organization 0 5	ZyXEL
+T2	Organization 264 268	Yota
+N1	Reference T1 wiki:268064	ZyXEL
+N2	Reference T2 wiki:1460064	Yota
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

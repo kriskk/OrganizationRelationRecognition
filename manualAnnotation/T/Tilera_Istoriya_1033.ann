@@ -1,0 +1,5 @@
+T1	Organization 0 6	Tilera
+T2	Organization 210 225	Quanta Computer
+N1	Reference T1 wiki:2557880	Tilera
+N2	Reference T2 wiki:4159390	Quanta Computer
+A1	IsLink T2

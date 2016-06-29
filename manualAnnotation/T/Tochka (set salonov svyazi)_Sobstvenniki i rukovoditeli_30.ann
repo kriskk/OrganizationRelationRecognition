@@ -1,0 +1,11 @@
+T1	Organization 0 26	Точка (сеть салонов связи)
+T2	Organization 263 276	АФК «Система»
+T3	Organization 283 294	Комстар-ОТС
+T4	Organization 333 341	Интурист
+N1	Reference T1 wiki:1277313	Точка (сеть салонов связи)
+N2	Reference T2 wiki:158888	АФК «Система»
+N3	Reference T3 wiki:150442	Комстар — Объединенные ТелеСистемы
+N4	Reference T4 wiki:606499	Интурист
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

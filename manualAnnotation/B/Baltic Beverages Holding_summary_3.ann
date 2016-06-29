@@ -1,0 +1,17 @@
+T1	Organization 0 24	Baltic Beverages Holding
+T2	Organization 226 231	Orkla
+T3	Organization 390 399	Carlsberg
+T4	Organization 413 433	Scottish & Newcastle
+T5	Organization 488 497	Carlsberg
+T6	Organization 597 634	ОАО «Пивоваренная компания „Балтика“»
+N1	Reference T1 wiki:317339	Baltic Beverages Holding
+N2	Reference T2 wiki:181081	Orkla
+N3	Reference T3 wiki:787801	Carlsberg
+N4	Reference T4 wiki:318062	Scottish & Newcastle
+N5	Reference T5 wiki:787801	Carlsberg
+N6	Reference T6 wiki:164789	Балтика (пивоваренная компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

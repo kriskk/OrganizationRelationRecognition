@@ -1,0 +1,5 @@
+T1	Organization 0 18	Телекомпания СТРИМ
+T2	Organization 232 251	Алькасар (компания)
+N1	Reference T1 wiki:2230588	Телекомпания СТРИМ
+N2	Reference T2 wiki:2572051	Алькасар (компания)
+A1	IsLink T2

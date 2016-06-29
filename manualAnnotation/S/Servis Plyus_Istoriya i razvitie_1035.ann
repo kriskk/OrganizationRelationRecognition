@@ -1,0 +1,5 @@
+T1	Organization 0 11	Сервис Плюс
+T2	Organization 292 298	«IKEA»
+N1	Reference T1 wiki:1788611	Сервис Плюс
+N2	Reference T2 wiki:164679	IKEA
+A1	IsLink T2

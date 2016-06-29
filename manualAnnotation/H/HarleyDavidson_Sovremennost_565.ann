@@ -1,0 +1,6 @@
+T1	Organization 0 15	Harley-Davidson
+T2	Organization 198 205	Porsche
+N1	Reference T1 wiki:670179	Harley-Davidson
+N2	Reference T2 wiki:403194	Porsche
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

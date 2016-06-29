@@ -1,0 +1,6 @@
+T1	Organization 0 10	Eesti Gaas
+T2	Organization 192 203	ОАО ГАЗПРОМ
+N1	Reference T1 wiki:2490513	Eesti Gaas
+N2	Reference T2 wiki:44754	Газпром
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 7	Guidant
+T2	Organization 351 357	MAQUET
+N1	Reference T1 wiki:1682016	Guidant
+N2	Reference T2 wiki:964472	Maquet
+A1	IsLink T2
+A2	TypeRel T2 Holder

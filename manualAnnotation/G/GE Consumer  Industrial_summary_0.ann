@@ -1,0 +1,6 @@
+T1	Organization 0 24	GE Consumer & Industrial
+T2	Organization 93 109	General Electric
+N1	Reference T1 wiki:1432348	GE Consumer & Industrial
+N2	Reference T2 wiki:13762	General Electric
+A1	IsLink T2
+A2	TypeRel T2 Holder

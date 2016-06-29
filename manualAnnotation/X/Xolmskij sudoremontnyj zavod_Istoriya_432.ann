@@ -1,0 +1,6 @@
+T1	Organization 0 28	Холмский судоремонтный завод
+T2	Organization 208 246	Сахалин Энерджи Инвестмент Компани Лтд
+N1	Reference T1 wiki:4049406	Холмский судоремонтный завод
+N2	Reference T2 wiki:1400493	Сахалин Энерджи
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

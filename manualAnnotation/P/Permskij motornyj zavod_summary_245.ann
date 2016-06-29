@@ -1,0 +1,9 @@
+T1	Organization 0 23	Пермский моторный завод
+T2	Organization 431 476	Объединенной двигателестроительной корпорации
+T3	Organization 499 515	ОПК «Оборонпром»
+N1	Reference T1 wiki:2283590	Пермский моторный завод
+N2	Reference T2 wiki:2353507	Объединенная двигателестроительная корпорация
+N3	Reference T3 wiki:757437	Оборонпром
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

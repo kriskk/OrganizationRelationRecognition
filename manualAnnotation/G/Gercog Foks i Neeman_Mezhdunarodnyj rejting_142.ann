@@ -1,0 +1,6 @@
+T1	Organization 0 21	Герцог, Фокс и Неэман
+T2	Organization 309 325	Dun & Bradstreet
+N1	Reference T1 wiki:4148563	Герцог, Фокс и Неэман
+N2	Reference T2 wiki:4301802	Dun & Bradstreet
+A1	IsLink T2
+A2	TypeRel T2 Other

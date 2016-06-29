@@ -1,0 +1,7 @@
+Parallels
+@Основные продукты
+@Виртуализация
+2757,20,2117
+
+		 Parallels Explorer — приложение поставляющееся с Parallels Desktop for Mac. Предназначена для обеспечения возможности просмотра и изменения содержимого виртуальных дисков от Parallels Desktop for Mac, VMware и Virtual box.
+		 Parallels Compressor — приложение поставляющееся с Parallels Desktop for Mac. Данное приложение используется для уменьшения физического размера виртуального диска.

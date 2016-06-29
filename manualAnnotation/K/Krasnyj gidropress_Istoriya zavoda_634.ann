@@ -1,0 +1,5 @@
+T1	Organization 0 18	Красный гидропресс
+T2	Organization 265 309	Корпорации «Тактическое ракетное вооружение»
+N1	Reference T1 wiki:3776988	Красный гидропресс
+N2	Reference T2 wiki:551806	Тактическое ракетное вооружение (компания)
+A1	TypeRel T2 Holder

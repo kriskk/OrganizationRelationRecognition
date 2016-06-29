@@ -1,0 +1,14 @@
+T1	Organization 0 6	Telsey
+T2	Organization 147 154	Alcatel
+T3	Organization 167 172	Cisco
+T4	Organization 205 219	Opera Software
+T5	Organization 222 230	Tandberg
+N1	Reference T1 wiki:2380222	Telsey
+N2	Reference T2 wiki:294657	Alcatel
+N3	Reference T3 wiki:25014	Cisco
+N4	Reference T4 wiki:95896	Opera Software
+N5	Reference T5 wiki:1683710	Tandberg
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

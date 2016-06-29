@@ -1,0 +1,12 @@
+T1	Organization 0 10	Electrolux
+T2	Organization 402 409	Zanussi
+T3	Organization 411 414	AEG
+N1	Reference T1 wiki:153686	Electrolux
+N2	Reference T2 wiki:153686	Zanussi
+N3	Reference T3 wiki:294609	AEG
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator

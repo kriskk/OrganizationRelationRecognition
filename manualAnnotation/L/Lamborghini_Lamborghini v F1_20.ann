@@ -1,0 +1,5 @@
+T1	Organization 0 11	Lamborghini
+T2	Organization 193 198	Lotus
+N1	Reference T1 wiki:65531	Lamborghini
+N2	Reference T2 wiki:748115	Lotus Cars
+A1	TypeRel T2 Cooperator

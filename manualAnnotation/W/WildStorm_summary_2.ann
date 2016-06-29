@@ -1,0 +1,6 @@
+T1	Organization 0 9	WildStorm
+T2	Organization 270 279	DC Comics
+N1	Reference T1 wiki:2367633	WildStorm
+N2	Reference T2 wiki:1742414	DC Comics
+A1	IsLink T2
+A2	TypeRel T2 Holder

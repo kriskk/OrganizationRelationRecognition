@@ -1,0 +1,5 @@
+T1	Organization 0 8	2K Games
+T2	Organization 202 222	Take-Two Interactive
+N1	Reference T1 wiki:2386194	2K Games
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+A1	IsLink T2

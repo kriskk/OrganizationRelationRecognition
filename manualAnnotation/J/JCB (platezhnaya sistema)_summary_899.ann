@@ -1,0 +1,21 @@
+T1	Organization 0 23	JCB (платежная система)
+T2	Organization 225 229	Visa
+T3	Organization 231 241	MasterCard
+T4	Organization 256 272	American Express
+T5	Organization 353 358	Apple
+T6	Organization 608 624	American Express
+N1	Reference T1 wiki:2389831	JCB (платежная система)
+N2	Reference T2 wiki:36386	VISA (платёжная система)
+N3	Reference T3 wiki:36409	MasterCard
+N4	Reference T4 wiki:365626	American Express
+N5	Reference T5 wiki:39726	Apple
+N6	Reference T6 wiki:365626	American Express
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Competitor
+A6	TypeRel T3 Competitor
+A7	TypeRel T4 Competitor
+A8	TypeRel T5 Cooperator
+A9	TypeRel T6 Cooperator

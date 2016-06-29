@@ -1,0 +1,10 @@
+T1	Organization 0 11	МТС Украина
+T2	Organization 184 189	Nokia
+T3	Organization 395 400	Nokia
+N1	Reference T1 wiki:745927	МТС Украина
+N2	Reference T2 wiki:56405	Nokia
+N3	Reference T3 wiki:56405	Nokia
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

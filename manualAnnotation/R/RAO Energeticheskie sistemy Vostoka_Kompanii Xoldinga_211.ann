@@ -1,0 +1,20 @@
+T1	Organization 0 34	РАО Энергетические системы Востока
+T2	Organization 362 365	ДГК
+T3	Organization 375 412	Дальневосточная генерирующая компания
+T4	Organization 822 826	ДРСК
+T5	Organization 836 886	Дальневосточная распределительная сетевая компания
+T6	Organization 1150 1162	Якутскэнерго
+T7	Organization 1175 1187	Якутскэнерго
+N1	Reference T1 wiki:2671340	РАО Энергетические системы Востока
+N2	Reference T2 wiki:1398050	ДГК
+N3	Reference T3 wiki:1398050	ДГК
+N4	Reference T4 wiki:4171762	ДРСК
+N5	Reference T5 wiki:4171762	ДРСК
+N6	Reference T6 wiki:4168405	Якутскэнерго
+N7	Reference T7 wiki:4168405	Якутскэнерго
+A1	IsLink T2
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A2	TypeRel T3 Alias

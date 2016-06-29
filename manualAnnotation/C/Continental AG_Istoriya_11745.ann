@@ -1,0 +1,8 @@
+T1	Organization 0 14	Continental AG
+T2	Organization 284 295	Bridgestone
+T3	Organization 496 519	Yokohama Rubber Company
+N1	Reference T1 wiki:169785	Continental AG
+N2	Reference T2 wiki:299590	Бриджстоун
+N3	Reference T3 wiki:1374483	Yokohama Rubber Company
+A1	IsLink T2
+A2	IsLink T3

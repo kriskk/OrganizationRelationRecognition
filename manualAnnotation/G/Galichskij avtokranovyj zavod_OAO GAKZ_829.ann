@@ -1,0 +1,21 @@
+T1	Organization 0 28	Галичский автокрановый завод
+T2	Organization 249 254	КамАЗ
+T3	Organization 283 287	КрАЗ
+T4	Organization 316 320	Урал
+T5	Organization 511 514	МаЗ
+T6	Organization 543 547	Урал
+N1	Reference T1 wiki:2590187	Галичский автокрановый завод
+N2	Reference T2 wiki:169714	КАМАЗ
+N3	Reference T3 wiki:606512	Кременчугский автомобильный завод
+N4	Reference T4 wiki:24935	Уральский автомобильный завод
+N5	Reference T5 wiki:33218	Минский автомобильный завод
+N6	Reference T6 wiki:24935	Уральский автомобильный завод
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator
+A9	TypeRel T6 Cooperator

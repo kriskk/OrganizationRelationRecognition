@@ -1,0 +1,6 @@
+T1	Organization 0 6	Раском
+T2	Organization 177 183	Nortel
+N1	Reference T1 wiki:4393892	Раском
+N2	Reference T2 wiki:311902	Nortel
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

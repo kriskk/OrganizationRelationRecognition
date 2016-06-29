@@ -1,0 +1,6 @@
+T1	Organization 0 43	Оскольский электрометаллургический комбинат
+T2	Organization 361 368	РАО ЕЭС
+N1	Reference T1 wiki:1547697	Оскольский электрометаллургический комбинат
+N2	Reference T2 wiki:1432138	РАО ЕЭС
+A1	IsLink T2
+A2	TypeRel T2 Other

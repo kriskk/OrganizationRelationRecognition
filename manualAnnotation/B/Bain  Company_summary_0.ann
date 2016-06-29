@@ -1,0 +1,8 @@
+T1	Organization 0 14	Bain & Company
+T2	Organization 146 164	McKinsey & Company
+T3	Organization 167 190	Boston Consulting Group
+N1	Reference T1 wiki:641647	Bain & Company
+N2	Reference T2 wiki:2266364	McKinsey & Company
+N3	Reference T3 wiki:1674032	Boston Consulting Group
+A1	IsLink T2
+A2	IsLink T3

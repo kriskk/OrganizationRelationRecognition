@@ -1,0 +1,9 @@
+T1	Organization 0 13	КазМунайТениз
+T2	Organization 123 134	КазМунайГаз
+T3	Organization 343 354	КазМунайГаз
+N1	Reference T1 wiki:1364211	КазМунайТениз
+N2	Reference T2 wiki:294591	КазМунайГаз
+N3	Reference T3 wiki:294591	КазМунайГаз
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

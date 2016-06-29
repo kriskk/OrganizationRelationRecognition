@@ -1,0 +1,10 @@
+T1	Organization 0 4	РАТМ
+T2	Organization 299 312	Искитимцемент
+T3	Organization 551 593	ОАО «Ростовский оптико-механический завод»
+N1	Reference T1 wiki:722157	РАТМ
+N2	Reference T2 wiki:2958228	Искитимцемент
+N3	Reference T3 wiki:2047622	Ростовский оптико-механический завод
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

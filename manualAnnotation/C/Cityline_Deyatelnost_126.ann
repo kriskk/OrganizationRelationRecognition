@@ -1,0 +1,11 @@
+T1	Organization 0 8	Cityline
+T2	Organization 251 263	«Web Design»
+T3	Organization 354 363	Microsoft
+T4	Organization 581 595	Golden Telecom
+N1	Reference T1 wiki:2664856	Cityline
+N2	Reference T2 wiki:156470	Студия Артемия Лебедева
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:2196953	Golden Telecom (Россия)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

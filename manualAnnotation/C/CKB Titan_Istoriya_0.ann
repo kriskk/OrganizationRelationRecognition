@@ -1,0 +1,5 @@
+T1	Organization 0 11	ЦКБ «Титан»
+T2	Organization 101 120	«Баррикады» (№ 221)
+N1	Reference T1 wiki:2399544	ЦКБ «Титан»
+N2	Reference T2 wiki:378150	Баррикады (ПО)
+A1	IsLink T2

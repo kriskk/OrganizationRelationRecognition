@@ -1,0 +1,6 @@
+T1	Organization 0 4	BASF
+T2	Organization 166 176	Allianz AG
+N1	Reference T1 wiki:122826	BASF
+N2	Reference T2 wiki:50998	Allianz AG
+A1	IsLink T2
+A2	TypeRel T2 Holder

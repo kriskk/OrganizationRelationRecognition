@@ -1,0 +1,5 @@
+T1	Organization 0 7	Marantz
+T2	Organization 195 202	Philips
+N1	Reference T1 wiki:2435346	Marantz
+N2	Reference T2 wiki:204179	Philips
+A1	TypeRel T2 Holder

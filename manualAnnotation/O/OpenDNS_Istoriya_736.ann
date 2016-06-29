@@ -1,0 +1,6 @@
+T1	Organization 0 7	OpenDNS
+T2	Organization 271 277	VMware
+N1	Reference T1 wiki:1601966	OpenDNS
+N2	Reference T2 wiki:205509	VMware
+A1	IsLink T2
+A2	TypeRel T2 Personnel

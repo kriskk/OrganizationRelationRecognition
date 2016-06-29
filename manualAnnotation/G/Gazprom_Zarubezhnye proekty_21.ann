@@ -1,0 +1,14 @@
+T1	Organization 0 7	Газпром
+T2	Organization 225 247	Petroleos de Venezuela
+T3	Organization 261 264	Eni
+T4	Organization 279 287	Petronas
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:793790	Petroleos de Venezuela
+N3	Reference T3 wiki:180394	Eni
+N4	Reference T4 wiki:1420194	Petronas
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

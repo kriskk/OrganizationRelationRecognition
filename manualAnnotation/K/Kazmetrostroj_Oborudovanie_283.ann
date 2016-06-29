@@ -1,0 +1,14 @@
+T1	Organization 0 13	Казметрострой
+T2	Organization 288 292	КАТО
+T3	Organization 304 312	Liebherr
+T4	Organization 360 367	Hitachi
+N1	Reference T1 wiki:3867004	Казметрострой
+N2	Reference T2 wiki:3608900	KATO Works
+N3	Reference T3 wiki:248091	Liebherr
+N4	Reference T4 wiki:141241	Hitachi
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

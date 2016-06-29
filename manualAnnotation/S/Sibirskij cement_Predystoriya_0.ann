@@ -1,0 +1,5 @@
+T1	Organization 0 16	Сибирский цемент
+T2	Organization 175 186	Italcementi
+N1	Reference T1 wiki:153788	Сибирский цемент
+N2	Reference T2 wiki:1096854	Italcementi
+A1	IsLink T2

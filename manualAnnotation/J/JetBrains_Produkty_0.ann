@@ -1,0 +1,6 @@
+T1	Organization 0 9	JetBrains
+T2	Organization 174 183	Microsoft
+N1	Reference T1 wiki:1534920	JetBrains
+N2	Reference T2 wiki:11987	Microsoft
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

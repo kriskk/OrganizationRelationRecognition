@@ -1,0 +1,23 @@
+T1	Organization 0 3	B&R
+T2	Organization 202 208	Alstom
+T3	Organization 269 279	Bombardier
+T4	Organization 309 312	BMW
+T5	Organization 359 362	OMV
+T6	Organization 364 370	Krones
+T7	Organization 372 383	VoestAlpine
+T8	Organization 385 391	Nestle
+N1	Reference T1 wiki:2038933	B&R
+N2	Reference T2 wiki:571946	Alstom
+N3	Reference T3 wiki:168782	Bombardier
+N4	Reference T4 wiki:40368	BMW
+N5	Reference T5 wiki:209927	OMV
+N6	Reference T6 wiki:154992	Krones
+N7	Reference T7 wiki:1295186	VoestAlpine
+N8	Reference T8 wiki:121355	Nestle
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

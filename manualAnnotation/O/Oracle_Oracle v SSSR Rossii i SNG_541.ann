@@ -1,0 +1,9 @@
+T1	Organization 0 6	Oracle
+T2	Organization 218 225	TopS BI
+T3	Organization 413 421	Интурист
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:1103072	TopS Business Integrator
+N3	Reference T3 wiki:606499	Интурист
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

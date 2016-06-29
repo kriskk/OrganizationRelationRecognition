@@ -1,0 +1,5 @@
+T1	Organization 0 10	Oldsmobile
+T2	Organization 180 194	General Motors
+N1	Reference T1 wiki:1464817	Oldsmobile
+N2	Reference T2 wiki:17438	General Motors
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Rossignol
+T2	Organization 214 222	Dynastar
+N1	Reference T1 wiki:3222855	Rossignol
+N2	Reference T2 wiki:3222905	Dynastar
+A1	IsLink T2

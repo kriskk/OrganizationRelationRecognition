@@ -1,0 +1,8 @@
+T1	Organization 0 12	Салаватстрой
+T2	Organization 190 203	Салаватстекло
+T3	Organization 207 222	Салаватнефтемаш
+N1	Reference T1 wiki:3106483	Салаватстрой
+N2	Reference T2 wiki:3104432	Салаватстекло
+N3	Reference T3 wiki:3104143	Салаватнефтемаш
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 29	Сябар (пивоваренная компания)
+T2	Organization 309 321	"Речицапиво"
+T3	Organization 550 558	Heineken
+N1	Reference T1 wiki:1030243	Сябар (пивоваренная компания)
+N2	Reference T2 wiki:1030195	Речицапиво
+N3	Reference T3 wiki:248758	Heineken
+A1	IsLink T2
+A2	IsLink T3

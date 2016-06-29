@@ -1,0 +1,10 @@
+T1	Organization 0 16	HarvEast Holding
+T2	Organization 123 148	Систем Кэпитал Менеджмент
+T3	Organization 254 272	ПАО ММК им. Ильича
+N1	Reference T1 wiki:3598684	HarvEast Holding
+N2	Reference T2 wiki:36184	System Capital Management
+N3	Reference T3 wiki:123990	Мариупольский металлургический комбинат имени Ильича
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

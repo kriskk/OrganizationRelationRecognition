@@ -1,0 +1,10 @@
+T1	Organization 0 7	IMHO VI
+T2	Organization 183 199	Видео Интернешнл
+T3	Organization 202 218	Видео Интернешнл
+N1	Reference T1 wiki:3408455	IMHO VI
+N2	Reference T2 wiki:464142	Видео Интернешнл
+N3	Reference T3 wiki:464142	Видео Интернешнл
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

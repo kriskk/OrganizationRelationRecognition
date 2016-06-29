@@ -1,0 +1,11 @@
+T1	Organization 0 19	Sting Entertainment
+T2	Organization 286 301	Kadokawa Shoten
+T3	Organization 310 327	Taito Corporation
+T4	Organization 390 396	Square
+N1	Reference T1 wiki:3731467	Sting Entertainment
+N2	Reference T2 wiki:206144	Kadokawa Shoten
+N3	Reference T3 wiki:1711320	Taito Corporation
+N4	Reference T4 wiki:278305	Square Co.
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

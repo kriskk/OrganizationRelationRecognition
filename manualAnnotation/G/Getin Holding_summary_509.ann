@@ -1,0 +1,5 @@
+T1	Organization 0 13	Getin Holding
+T2	Organization 193 208	CARCADE Leasing
+N1	Reference T1 wiki:3791400	Getin Holding
+N2	Reference T2 wiki:3791569	Carcade
+A1	TypeRel T2 Subsidiary

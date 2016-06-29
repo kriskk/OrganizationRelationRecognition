@@ -1,0 +1,6 @@
+T1	Organization 0 16	Корус консалтинг
+T2	Organization 359 363	Yota
+N1	Reference T1 wiki:1771969	Корус консалтинг
+N2	Reference T2 wiki:1460064	Yota
+A1	IsLink T2
+A2	TypeRel T2 Personnel

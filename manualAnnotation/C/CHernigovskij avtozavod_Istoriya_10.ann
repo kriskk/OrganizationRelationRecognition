@@ -1,0 +1,5 @@
+T1	Organization 0 22	Черниговский автозавод
+T2	Organization 257 260	ГАЗ
+N1	Reference T1 wiki:3331019	Черниговский автозавод
+N2	Reference T2 wiki:25060	Горьковский автомобильный завод
+A1	IsLink T2

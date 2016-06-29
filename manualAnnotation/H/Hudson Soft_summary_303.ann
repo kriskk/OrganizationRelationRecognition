@@ -1,0 +1,6 @@
+T1	Organization 0 11	Hudson Soft
+T2	Organization 178 196	Konami Corporation
+N1	Reference T1 wiki:1734514	Hudson Soft
+N2	Reference T2 wiki:747952	Konami Corporation
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,8 @@
+T1	Organization 0 6	Lancia
+T2	Organization 205 216	Pininfarina
+T3	Organization 279 289	Alfa Romeo
+N1	Reference T1 wiki:1503078	Lancia
+N2	Reference T2 wiki:1574788	Pininfarina
+N3	Reference T3 wiki:371643	Alfa Romeo
+A2	IsLink T3
+A1	TypeRel T2 Cooperator

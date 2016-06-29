@@ -1,0 +1,5 @@
+T1	Organization 0 11	StudioCanal
+T2	Organization 294 312	Universal Pictures
+N1	Reference T1 wiki:2485883	StudioCanal
+N2	Reference T2 wiki:702796	Universal Pictures
+A1	IsLink T2

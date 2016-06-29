@@ -1,0 +1,5 @@
+T1	Organization 0 23	Gigabyte Communications
+T2	Organization 207 221	Gigabyte Group
+N1	Reference T1 wiki:2333186	Gigabyte Communications
+N2	Reference T2 wiki:1265773	Gigabyte Technology
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 19	INLINE Technologies
+T2	Organization 188 213	INLINE Technologies Group
+N1	Reference T1 wiki:2870798	INLINE Technologies
+N2	Reference T2 wiki:3136302	INLINE Technologies Group
+A1	TypeRel T2 Holder

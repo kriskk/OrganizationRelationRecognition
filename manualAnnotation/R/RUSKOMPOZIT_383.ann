@@ -1,0 +1,6 @@
+T1	Organization 0 11	РУСКОМПОЗИТ
+T2	Organization 217 232	ОАО «СТЕКЛОНиТ»
+N1	Reference T1 wiki:3811892	РУСКОМПОЗИТ
+N2	Reference T2 wiki:2577874	Стеклонит
+A1	IsLink T2
+A2	TypeRel T2 Personnel

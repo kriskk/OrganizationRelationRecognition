@@ -1,0 +1,9 @@
+T1	Organization 0 16	Jerónimo Martins
+T2	Organization 295 305	Ahold N.V.
+T3	Organization 555 563	Unilever
+N1	Reference T1 wiki:2484745	Jerónimo Martins
+N2	Reference T2 wiki:1575052	Ahold N.V.
+N3	Reference T3 wiki:198503	Unilever
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Cooperator

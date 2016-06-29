@@ -1,0 +1,5 @@
+T1	Organization 0 11	Булгарнефть
+T2	Organization 266 280	ОАО «Татнефть»
+N1	Reference T1 wiki:3248097	Булгарнефть
+N2	Reference T2 wiki:145661	Татнефть
+A1	IsLink T2

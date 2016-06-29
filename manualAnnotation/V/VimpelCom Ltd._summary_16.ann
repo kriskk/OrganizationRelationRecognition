@@ -1,0 +1,10 @@
+T1	Organization 0 14	VimpelCom Ltd.
+T2	Organization 255 274	Вымпел-Коммуникации
+T3	Organization 383 391	Киевстар
+N1	Reference T1 wiki:2492978	VimpelCom Ltd.
+N2	Reference T2 wiki:70736	Вымпел-Коммуникации
+N3	Reference T3 wiki:88220	Киевстар
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

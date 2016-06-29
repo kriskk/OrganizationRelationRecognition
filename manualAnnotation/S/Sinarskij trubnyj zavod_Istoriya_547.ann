@@ -1,0 +1,5 @@
+T1	Organization 0 23	Синарский трубный завод
+T2	Organization 281 284	ТМК
+N1	Reference T1 wiki:1589039	Синарский трубный завод
+N2	Reference T2 wiki:248841	Трубная металлургическая компания
+A1	IsLink T2

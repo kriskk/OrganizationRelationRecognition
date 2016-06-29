@@ -1,0 +1,5 @@
+T1	Organization 0 11	ЮТВ Холдинг
+T2	Organization 67 79	Выбери радио
+N1	Reference T1 wiki:2839872	ЮТВ Холдинг
+N2	Reference T2 wiki:4083207	Выбери радио
+A1	TypeRel T2 Subsidiary

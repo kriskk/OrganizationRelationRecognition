@@ -1,0 +1,10 @@
+T1	Organization 0 10	Hakusensha
+T2	Organization 125 133	Shueisha
+T3	Organization 207 217	Shogakukan
+N1	Reference T1 wiki:206069	Hakusensha
+N2	Reference T2 wiki:204996	Shueisha
+N3	Reference T3 wiki:205001	Shogakukan
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

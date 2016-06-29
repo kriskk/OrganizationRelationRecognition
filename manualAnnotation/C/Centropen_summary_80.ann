@@ -1,0 +1,5 @@
+T1	Organization 0 9	Centropen
+T2	Organization 183 193	Koh-i-Noor
+N1	Reference T1 wiki:3660611	Centropen
+N2	Reference T2 wiki:2007204	Koh-i-Noor
+A1	IsLink T2

@@ -1,0 +1,14 @@
+T1	Organization 0 34	РАО Энергетические системы Востока
+T2	Organization 248 262	Камчатскэнерго
+T3	Organization 413 425	Якутскэнерго
+T4	Organization 445 458	Сахалинэнерго
+N1	Reference T1 wiki:2671340	РАО Энергетические системы Востока
+N2	Reference T2 wiki:4168577	Камчатскэнерго
+N3	Reference T3 wiki:4168405	Якутскэнерго
+N4	Reference T4 wiki:1396664	Сахалинэнерго
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Subsidiary

@@ -1,0 +1,34 @@
+T1	Organization 0 6	Holden
+T2	Organization 312 326	General Motors
+T3	Organization 330 334	Ford
+T4	Organization 473 477	Ford
+T5	Organization 702 707	Buick
+T6	Organization 709 718	Chevrolet
+T7	Organization 720 727	Pontiac
+T8	Organization 730 738	Vauxhall
+T9	Organization 986 1000	General Motors
+T10	Organization 1240 1249	Chevrolet
+N1	Reference T1 wiki:604803	Holden
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:153236	Ford
+N4	Reference T4 wiki:153236	Ford
+N5	Reference T5 wiki:1286702	Buick
+N6	Reference T6 wiki:17631	Chevrolet
+N7	Reference T7 wiki:820144	Pontiac
+N8	Reference T8 wiki:1517064	Vauxhall
+N9	Reference T9 wiki:17438	General Motors
+N10	Reference T10 wiki:17631	Chevrolet
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator
+A14	TypeRel T9 Holder

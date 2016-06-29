@@ -1,0 +1,5 @@
+T1	Organization 0 5	Kaman
+T2	Organization 478 484	Fender
+N1	Reference T1 wiki:944678	Kaman
+N2	Reference T2 wiki:387353	Fender
+A1	TypeRel T2 Holder

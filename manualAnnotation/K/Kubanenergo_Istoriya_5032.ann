@@ -1,0 +1,9 @@
+T1	Organization 0 12	Кубаньэнерго
+T2	Organization 227 241	ОАО «МРСК Юга»
+T3	Organization 312 330	ОАО «Холдинг МРСК»
+N1	Reference T1 wiki:2389323	Кубаньэнерго
+N2	Reference T2 wiki:3122410	МРСК Юга
+N3	Reference T3 wiki:2040314	Холдинг МРСК
+A1	IsLink T2
+A2	TypeRel T3 Holder
+A3	TypeRel T2 Holder

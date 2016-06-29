@@ -1,0 +1,5 @@
+T1	Organization 0 6	Юлмарт
+T2	Organization 89 106	Ultra Electronics
+N1	Reference T1 wiki:3325913	Юлмарт
+N2	Reference T2 wiki:594783	Ultra Electronics
+A1	TypeRel T2 Holder

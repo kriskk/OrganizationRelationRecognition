@@ -1,0 +1,9 @@
+T1	Organization 0 14	Osram Sylvania
+T2	Organization 125 130	Osram
+T3	Organization 160 167	Siemens
+N1	Reference T1 wiki:2966072	Osram Sylvania
+N2	Reference T2 wiki:1059089	Osram
+N3	Reference T3 wiki:36510	Siemens
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

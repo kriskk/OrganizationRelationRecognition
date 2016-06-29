@@ -1,0 +1,11 @@
+T1	Organization 0 11	Связьинвест
+T2	Organization 113 133	Центральный телеграф
+T3	Organization 141 151	Гипросвязь
+T4	Organization 643 657	Башинформсвязь
+N1	Reference T1 wiki:145705	Связьинвест
+N2	Reference T2 wiki:1404588	Центральный телеграф
+N3	Reference T3 wiki:3983551	Гипросвязь
+N4	Reference T4 wiki:1365624	Башинформсвязь
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

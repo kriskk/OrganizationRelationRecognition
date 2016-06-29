@@ -1,0 +1,10 @@
+T1	Organization 0 8	Motorola
+T2	Organization 163 181	Motorola Solutions
+T3	Organization 183 200	Motorola Mobility
+N1	Reference T1 wiki:134384	Motorola
+N2	Reference T2 wiki:134384	Motorola Solutions
+N3	Reference T3 wiki:3420650	Motorola Mobility
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

@@ -1,0 +1,10 @@
+T1	Organization 0 8	XL Media
+T2	Organization 309 319	Reanimedia
+T3	Organization 396 406	Reanimedia
+N1	Reference T1 wiki:137765	XL Media
+N2	Reference T2 wiki:1349467	Reanimedia
+N3	Reference T3 wiki:1349467	Reanimedia
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Personnel

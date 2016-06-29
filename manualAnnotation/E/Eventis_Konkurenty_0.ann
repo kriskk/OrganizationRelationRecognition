@@ -1,0 +1,11 @@
+T1	Organization 0 7	Eventis
+T2	Organization 73 79	Orange
+T3	Organization 147 155	Moldcell
+T4	Organization 297 300	IDC
+N1	Reference T1 wiki:745225	Eventis
+N2	Reference T2 wiki:342150	Orange Moldova
+N3	Reference T3 wiki:341971	Moldcell
+N4	Reference T4 wiki:1303019	Интерднестрком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

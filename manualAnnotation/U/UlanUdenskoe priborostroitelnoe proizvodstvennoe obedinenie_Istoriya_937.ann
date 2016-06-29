@@ -1,0 +1,6 @@
+T1	Organization 0 62	Улан-Удэнское приборостроительное производственное объединение
+T2	Organization 365 368	ЗИЛ
+N1	Reference T1 wiki:2835871	Улан-Удэнское приборостроительное производственное объединение
+N2	Reference T2 wiki:259988	ЗИЛ
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

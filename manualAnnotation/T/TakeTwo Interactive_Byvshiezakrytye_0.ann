@@ -1,0 +1,44 @@
+T1	Organization 0 20	Take-Two Interactive
+T2	Organization 80 92	2K Australia
+T3	Organization 147 155	2K Marin
+T4	Organization 250 263	Firaxis Games
+T5	Organization 274 297	Gathering of Developers
+T6	Organization 348 368	Global Star Software
+T7	Organization 425 432	2K Play
+T8	Organization 443 455	Gotham Games
+T9	Organization 556 566	Kush Games
+T10	Organization 627 642	PopTop Software
+T11	Organization 701 714	Firaxis Games
+T12	Organization 725 734	TalonSoft
+T13	Organization 798 813	Rockstar Vienna
+T14	Organization 871 882	Venom Games
+T15	Organization 997 1012	PAM Development
+N1	Reference T1 wiki:2783863	Take-Two Interactive
+N2	Reference T2 wiki:2342138	2K Marin
+N3	Reference T3 wiki:2342138	2K Marin
+N4	Reference T4 wiki:2726696	Firaxis Games
+N5	Reference T5 wiki:2342023	Gathering of Developers
+N6	Reference T6 wiki:2834760	2K Play
+N7	Reference T7 wiki:2834760	2K Play
+N8	Reference T8 wiki:2815011	Gotham Games
+N9	Reference T9 wiki:2818782	Kush Games
+N10	Reference T10 wiki:2787634	PopTop Software
+N11	Reference T11 wiki:2726696	Firaxis Games
+N12	Reference T12 wiki:2805981	TalonSoft
+N13	Reference T13 wiki:2329608	Rockstar Vienna
+N14	Reference T14 wiki:2842601	Venom Games
+N15	Reference T15 wiki:2839350	PAM Development
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15

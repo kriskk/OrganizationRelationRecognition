@@ -1,0 +1,10 @@
+T1	Organization 0 13	Lürssen Werft
+T2	Organization 380 414	Howaldtswerke-Deutsche Werft (HDW)
+T3	Organization 632 635	HDW
+N1	Reference T1 wiki:4406901	Lürssen Werft
+N2	Reference T2 wiki:4083288	Howaldtswerke-Deutsche Werft
+N3	Reference T3 wiki:4083288	Howaldtswerke-Deutsche Werft
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 17	Ultra Electronics
+T2	Organization 302 308	Юлмарт
+N1	Reference T1 wiki:594783	Ultra Electronics
+N2	Reference T2 wiki:3325913	Юлмарт
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

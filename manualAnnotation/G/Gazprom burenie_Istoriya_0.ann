@@ -1,0 +1,5 @@
+T1	Organization 0 15	Газпром бурение
+T2	Organization 126 133	Газпром
+N1	Reference T1 wiki:3144913	Газпром бурение
+N2	Reference T2 wiki:44754	Газпром
+A1	TypeRel T2 Holder

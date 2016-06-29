@@ -1,0 +1,6 @@
+T1	Organization 0 60	Государственная Нефтяная Компания Азербайджанской Республики
+T2	Organization 275 292	Petkim Petrokimya
+N1	Reference T1 wiki:1290798	Государственная Нефтяная Компания Азербайджанской Республики
+N2	Reference T2 wiki:722878	Petkim Petrokimya
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

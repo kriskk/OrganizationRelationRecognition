@@ -1,0 +1,10 @@
+T1	Organization 0 7	Газпром
+T2	Organization 85 98	«Чайна Мобил»
+T3	Organization 101 120	«Дженерал Электрик»
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:248178	China Mobile
+N3	Reference T3 wiki:13762	General Electric
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

@@ -1,0 +1,9 @@
+T1	Organization 0 18	Gestamp Automocion
+T2	Organization 278 285	Renault
+T3	Organization 349 356	АвтоВАЗ
+N1	Reference T1 wiki:3298002	Gestamp Automocion
+N2	Reference T2 wiki:586472	Renault
+N3	Reference T3 wiki:139276	АвтоВАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

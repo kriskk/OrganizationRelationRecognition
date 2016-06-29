@@ -1,0 +1,14 @@
+T1	Organization 0 10	МРСК Урала
+T2	Organization 313 325	Холдинг МРСК
+T3	Organization 508 540	Депозитарно-клиринговая компания
+T4	Organization 559 593	Национальный расчетный депозитарий
+N1	Reference T1 wiki:1808298	МРСК Урала
+N2	Reference T2 wiki:2040314	Холдинг МРСК
+N3	Reference T3 wiki:521857	Депозитарно-клиринговая компания
+N4	Reference T4 wiki:3747955	Национальный расчетный депозитарий
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

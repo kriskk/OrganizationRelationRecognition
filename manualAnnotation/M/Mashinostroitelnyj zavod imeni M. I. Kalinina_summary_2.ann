@@ -1,0 +1,6 @@
+T1	Organization 0 45	Машиностроительный завод имени М. И. Калинина
+T2	Organization 216 246	ОАО "Концерн ПВО «Алмаз-Антей»
+N1	Reference T1 wiki:965613	Машиностроительный завод имени М. И. Калинина
+N2	Reference T2 wiki:149639	Концерн ПВО «Алмаз-Антей»
+A1	IsLink T2
+A2	TypeRel T2 Holder

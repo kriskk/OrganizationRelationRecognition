@@ -1,0 +1,5 @@
+T1	Organization 0 7	Eventis
+T2	Organization 223 231	«Билайн»
+N1	Reference T1 wiki:745225	Eventis
+N2	Reference T2 wiki:70736	Вымпел-Коммуникации
+A1	IsLink T2

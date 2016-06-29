@@ -1,0 +1,20 @@
+T1	Organization 0 25	Fujitsu Siemens Computers
+T2	Organization 137 172	Siemens Nixdorf Informationssysteme
+T3	Organization 182 192	Siemens AG
+T4	Organization 245 260	Fujitsu Limited
+T5	Organization 572 582	Siemens AG
+T6	Organization 585 600	Fujitsu Limited
+T7	Organization 629 639	Siemens AG
+N1	Reference T1 wiki:120893	Fujitsu Siemens Computers
+N2	Reference T2 wiki:261477	Siemens Nixdorf Informationssysteme
+N3	Reference T3 wiki:36510	Siemens AG
+N4	Reference T4 wiki:571996	Fujitsu
+N5	Reference T5 wiki:36510	Siemens AG
+N6	Reference T6 wiki:571996	Fujitsu
+N7	Reference T7 wiki:36510	Siemens AG
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

@@ -1,0 +1,8 @@
+T1	Organization 0 16	Sunrise (студия)
+T2	Organization 143 159	Mushi Production
+T3	Organization 272 286	Toei Animation
+N1	Reference T1 wiki:373049	Sunrise (студия)
+N2	Reference T2 wiki:2689263	Mushi Production
+N3	Reference T3 wiki:578363	Toei Animation
+A1	IsLink T2
+A2	IsLink T3

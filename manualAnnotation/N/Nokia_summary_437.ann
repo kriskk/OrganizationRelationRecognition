@@ -1,0 +1,5 @@
+T1	Organization 0 5	Nokia
+T2	Organization 230 237	Samsung
+N1	Reference T1 wiki:56405	Nokia
+N2	Reference T2 wiki:125537	Samsung
+A1	TypeRel T2 Competitor

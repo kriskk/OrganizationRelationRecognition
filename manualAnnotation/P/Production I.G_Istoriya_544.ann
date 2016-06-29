@@ -1,0 +1,17 @@
+T1	Organization 0 14	Production I.G
+T2	Organization 305 316	Xebec, Inc.
+T3	Organization 353 368	Bee Train, Inc.
+T4	Organization 551 554	ING
+T5	Organization 866 876	Mag Garden
+N1	Reference T1 wiki:9179	Production I.G
+N2	Reference T2 wiki:130305	XEBEC
+N3	Reference T3 wiki:294080	Bee Train
+N4	Reference T4 wiki:555591	ING
+N5	Reference T5 wiki:1960228	Mag Garden
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Merge
+A6	TypeRel T3 Merge
+A7	TypeRel T5 Merge

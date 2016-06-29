@@ -1,0 +1,5 @@
+T1	Organization 0 14	Wayne’s Coffee
+T2	Organization 119 128	Starbucks
+N1	Reference T1 wiki:792230	Wayne’s Coffee
+N2	Reference T2 wiki:205133	Starbucks
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 15	Stainless Games
+T2	Organization 194 208	Argonaut Games
+N1	Reference T1 wiki:3448177	Stainless Games
+N2	Reference T2 wiki:2184312	Argonaut Games
+A1	IsLink T2

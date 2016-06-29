@@ -1,0 +1,9 @@
+T1	Organization 0 16	Красноярская ГЭС
+T2	Organization 177 190	ЕвроСибЭнерго
+T3	Organization 191 199	РусГидро
+N1	Reference T1 wiki:26423	Красноярская ГЭС
+N2	Reference T2 wiki:1395741	ЕвроСибЭнерго
+N3	Reference T3 wiki:344641	РусГидро
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

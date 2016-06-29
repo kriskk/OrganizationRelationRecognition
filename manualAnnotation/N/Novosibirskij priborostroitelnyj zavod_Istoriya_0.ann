@@ -1,0 +1,8 @@
+T1	Organization 0 39	Новосибирский приборостроительный завод
+T2	Organization 166 177	«Карл Цейс»
+T3	Organization 180 192	«К. П. Гёрц»
+N1	Reference T1 wiki:2125286	Новосибирский приборостроительный завод
+N2	Reference T2 wiki:1151084	Carl Zeiss
+N3	Reference T3 wiki:1948230	Goerz
+A1	IsLink T2
+A2	IsLink T3

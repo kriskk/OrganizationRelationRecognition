@@ -1,0 +1,17 @@
+T1	Organization 0 4	ЮКОС
+T2	Organization 185 199	Самаранефтегаз
+T3	Organization 314 341	Восточная нефтяная компания
+T4	Organization 357 369	Ачинский НПЗ
+T5	Organization 419 426	Сиданко
+N1	Reference T1 wiki:6032	ЮКОС
+N2	Reference T2 wiki:136845	Самаранефтегаз
+N3	Reference T3 wiki:980642	Восточная нефтяная компания
+N4	Reference T4 wiki:1063821	Ачинский нефтеперерабатывающий завод
+N5	Reference T5 wiki:980511	Сиданко
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T5 Cooperator
+A7	TypeRel T3 Subsidiary

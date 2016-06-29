@@ -1,0 +1,5 @@
+T1	Organization 0 27	Газпром космические системы
+T2	Organization 187 194	Газпром
+N1	Reference T1 wiki:635387	Газпром космические системы
+N2	Reference T2 wiki:44754	Газпром
+A1	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 19	Mitsubishi Aluminum
+T2	Organization 85 95	Mitsubishi
+N1	Reference T1 wiki:1788766	Mitsubishi Aluminum
+N2	Reference T2 wiki:182989	Mitsubishi
+A1	IsLink T2
+A2	TypeRel T2 Holder

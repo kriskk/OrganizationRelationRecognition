@@ -1,0 +1,5 @@
+T1	Organization 0 18	The Art of Shaving
+T2	Organization 273 281	Gillette
+N1	Reference T1 wiki:3061071	The Art of Shaving
+N2	Reference T2 wiki:1155203	Gillette
+A1	IsLink T2

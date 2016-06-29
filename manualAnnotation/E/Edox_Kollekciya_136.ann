@@ -1,0 +1,6 @@
+T1	Organization 0 4	Edox
+T2	Organization 188 198	Koenigsegg
+N1	Reference T1 wiki:3333246	Edox
+N2	Reference T2 wiki:332186	Koenigsegg
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

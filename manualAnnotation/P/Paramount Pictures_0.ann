@@ -1,0 +1,6 @@
+T1	Organization 0 18	Paramount Pictures
+T2	Organization 116 122	Viacom
+N1	Reference T1 wiki:398699	Paramount Pictures
+N2	Reference T2 wiki:399829	Viacom
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 43	Оскольский электрометаллургический комбинат
+T2	Organization 396 411	Регистра Ллойда
+N1	Reference T1 wiki:1547697	Оскольский электрометаллургический комбинат
+N2	Reference T2 wiki:611491	Регистр Ллойда
+A1	IsLink T2
+A2	TypeRel T2 Other

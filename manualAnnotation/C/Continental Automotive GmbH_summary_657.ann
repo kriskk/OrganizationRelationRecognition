@@ -1,0 +1,29 @@
+T1	Organization 0 27	Continental Automotive GmbH
+T2	Organization 196 211	DaimlerChrysler
+T3	Organization 213 216	BMW
+T4	Organization 218 222	Ford
+T5	Organization 224 240	Volkswagen Group
+T6	Organization 243 251	GM Group
+T7	Organization 289 292	PSA
+T8	Organization 294 301	Renault
+T9	Organization 312 317	Honda
+T10	Organization 320 324	Fiat
+N1	Reference T1 wiki:974849	Continental Automotive GmbH
+N2	Reference T2 wiki:39716	DaimlerChrysler
+N3	Reference T3 wiki:40368	BMW
+N4	Reference T4 wiki:153236	Ford
+N5	Reference T5 wiki:750217	Volkswagen Group
+N6	Reference T6 wiki:17438	General Motors
+N7	Reference T7 wiki:226616	PSA Peugeot Citroën
+N8	Reference T8 wiki:586472	Renault
+N9	Reference T9 wiki:121050	Honda
+N10	Reference T10 wiki:91784	Fiat
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10

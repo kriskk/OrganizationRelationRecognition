@@ -1,0 +1,6 @@
+T1	Organization 0 6	Nissan
+T2	Organization 200 208	Infiniti
+N1	Reference T1 wiki:159586	Nissan
+N2	Reference T2 wiki:682238	Infiniti
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

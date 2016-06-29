@@ -1,0 +1,6 @@
+T1	Organization 0 5	Kesko
+T2	Organization 147 158	Строймастер
+N1	Reference T1 wiki:271694	Kesko
+N2	Reference T2 wiki:1495383	Строймастер
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

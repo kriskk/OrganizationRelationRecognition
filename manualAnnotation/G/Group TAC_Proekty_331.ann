@@ -1,0 +1,10 @@
+T1	Organization 0 9	Group TAC
+T2	Organization 196 202	Gainax
+T3	Organization 205 209	Toho
+N1	Reference T1 wiki:2815578	Group TAC
+N2	Reference T2 wiki:24644	Gainax
+N3	Reference T3 wiki:3182840	Toho
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

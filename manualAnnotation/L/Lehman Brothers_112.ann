@@ -1,0 +1,6 @@
+T1	Organization 0 15	Lehman Brothers
+T2	Organization 174 189	Nomura Holdings
+N1	Reference T1 wiki:223523	Lehman Brothers
+N2	Reference T2 wiki:3116064	Nomura Holdings
+A1	IsLink T2
+A2	TypeRel T2 Holder

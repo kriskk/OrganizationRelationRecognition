@@ -1,0 +1,5 @@
+T1	Organization 0 18	Blue Brain Project
+T2	Organization 144 147	IBM
+N1	Reference T1 wiki:1267001	Blue Brain Project
+N2	Reference T2 wiki:11078	IBM
+A1	IsLink T2

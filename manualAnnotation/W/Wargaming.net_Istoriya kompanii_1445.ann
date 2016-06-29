@@ -1,0 +1,10 @@
+T1	Organization 0 13	Wargaming.net
+T2	Organization 237 250	Day 1 Studios
+T3	Organization 540 557	Gas Powered Games
+N1	Reference T1 wiki:1420577	Wargaming.net
+N2	Reference T2 wiki:2413131	Day 1 Studios
+N3	Reference T3 wiki:1752011	Gas Powered Games
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Subsidiary
+A4	TypeRel T2 Subsidiary

@@ -1,0 +1,6 @@
+T1	Organization 0 16	General Dynamics
+T2	Organization 319 334	Lockheed Martin
+N1	Reference T1 wiki:1015376	General Dynamics
+N2	Reference T2 wiki:301268	Lockheed Martin
+A1	IsLink T2
+A2	TypeRel T2 Alias

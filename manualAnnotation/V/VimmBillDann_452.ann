@@ -1,0 +1,6 @@
+T1	Organization 0 15	Вимм-Билль-Данн
+T2	Organization 187 194	PepsiCo
+N1	Reference T1 wiki:160926	Вимм-Билль-Данн
+N2	Reference T2 wiki:606214	PepsiCo
+A1	IsLink T2
+A2	TypeRel T2 Holder

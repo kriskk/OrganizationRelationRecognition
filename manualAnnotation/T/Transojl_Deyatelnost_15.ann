@@ -1,0 +1,14 @@
+T1	Organization 0 8	Трансойл
+T2	Organization 269 283	Сургутнефтегаз
+T3	Organization 373 381	Роснефть
+T4	Organization 385 399	Сургутнефтегаз
+T5	Organization 403 416	Газпром нефть
+N1	Reference T1 wiki:2399931	Трансойл
+N2	Reference T2 wiki:143564	Сургутнефтегаз
+N3	Reference T3 wiki:139770	Роснефть
+N4	Reference T4 wiki:143564	Сургутнефтегаз
+N5	Reference T5 wiki:121955	Газпром нефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

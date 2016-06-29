@@ -1,0 +1,26 @@
+T1	Organization 0 7	Гослото
+T2	Organization 227 235	Евросеть
+T3	Organization 239 246	Связной
+T4	Organization 250 256	Диксис
+T5	Organization 260 270	Телефон.Ру
+T6	Organization 274 283	Телефорум
+T7	Organization 294 303	ТС-Ритейл
+N1	Reference T1 wiki:1428894	Гослото
+N2	Reference T2 wiki:168895	Евросеть
+N3	Reference T3 wiki:371774	Связной
+N4	Reference T4 wiki:167261	Диксис
+N5	Reference T5 wiki:371784	Телефон.Ру
+N6	Reference T6 wiki:371789	Телефорум
+N7	Reference T7 wiki:1277313	ТС-Ритейл
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator

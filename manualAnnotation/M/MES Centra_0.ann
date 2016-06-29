@@ -1,0 +1,6 @@
+T1	Organization 0 10	МЭС Центра
+T2	Organization 84 91	ФСК ЕЭС
+N1	Reference T1 wiki:1557515	МЭС Центра
+N2	Reference T2 wiki:138863	ФСК ЕЭС
+A1	IsLink T2
+A2	TypeRel T2 Holder

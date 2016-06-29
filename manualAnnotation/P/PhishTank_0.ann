@@ -1,0 +1,6 @@
+T1	Organization 0 9	PhishTank
+T2	Organization 85 92	OpenDNS
+N1	Reference T1 wiki:615623	PhishTank
+N2	Reference T2 wiki:1601966	OpenDNS
+A1	IsLink T2
+A2	TypeRel T2 Holder

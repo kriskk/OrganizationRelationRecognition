@@ -1,0 +1,6 @@
+T1	Organization 0 11	Yum! Brands
+T2	Organization 115 134	Росинтер Ресторантс
+N1	Reference T1 wiki:206472	Yum! Brands
+N2	Reference T2 wiki:146952	Росинтер
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

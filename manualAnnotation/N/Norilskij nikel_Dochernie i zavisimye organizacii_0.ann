@@ -1,0 +1,14 @@
+T1	Organization 0 17	Норильский никель
+T2	Organization 185 205	Фанпарк Бобровый лог
+T3	Organization 209 238	Енисейское речное пароходство
+T4	Organization 241 265	Красноярский речной порт
+T5	Organization 296 308	Кольская ГМК
+N1	Reference T1 wiki:73395	Норильский никель
+N2	Reference T2 wiki:595650	Бобровый лог
+N3	Reference T3 wiki:92249	Енисейское речное пароходство
+N4	Reference T4 wiki:1011205	Красноярский речной порт
+N5	Reference T5 wiki:2634782	Кольская горно-металлургическая компания
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

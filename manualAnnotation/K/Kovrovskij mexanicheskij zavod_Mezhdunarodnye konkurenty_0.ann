@@ -1,0 +1,5 @@
+T1	Organization 0 29	Ковровский механический завод
+T2	Organization 105 110	AREVA
+N1	Reference T1 wiki:280056	Ковровский механический завод
+N2	Reference T2 wiki:913165	AREVA
+A1	TypeRel T2 Competitor

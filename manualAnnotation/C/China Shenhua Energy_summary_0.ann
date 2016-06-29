@@ -1,0 +1,5 @@
+T1	Organization 0 20	China Shenhua Energy
+T2	Organization 174 188	Peabody Energy
+N1	Reference T1 wiki:2461150	China Shenhua Energy
+N2	Reference T2 wiki:1679982	Peabody Energy
+A1	IsLink T2

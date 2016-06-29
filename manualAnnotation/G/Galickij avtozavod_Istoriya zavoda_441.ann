@@ -1,0 +1,9 @@
+T1	Organization 0 18	Галицкий автозавод
+T2	Organization 196 199	ЗИЛ
+T3	Organization 521 531	Стрый Авто
+N1	Reference T1 wiki:3331210	Галицкий автозавод
+N2	Reference T2 wiki:259988	ЗИЛ
+N3	Reference T3 wiki:3335568	Стрый Авто
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Personnel

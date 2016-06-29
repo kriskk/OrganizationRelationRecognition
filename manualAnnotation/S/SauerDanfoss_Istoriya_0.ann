@@ -1,0 +1,5 @@
+T1	Organization 0 13	Sauer-Danfoss
+T2	Organization 76 83	Danfoss
+N1	Reference T1 wiki:2036979	Sauer-Danfoss
+N2	Reference T2 wiki:591377	Danfoss
+A1	IsLink T2

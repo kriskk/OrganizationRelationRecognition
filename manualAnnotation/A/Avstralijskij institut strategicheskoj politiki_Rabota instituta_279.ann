@@ -1,0 +1,5 @@
+T1	Organization 0 46	Австралийский институт стратегической политики
+T2	Organization 224 227	CNN
+N1	Reference T1 wiki:4426253	Австралийский институт стратегической политики
+N2	Reference T2 wiki:256238	CNN
+A1	IsLink T2

@@ -1,0 +1,14 @@
+T1	Organization 0 13	Harman/Kardon
+T2	Organization 324 329	Apple
+T3	Organization 690 700	Land Rover
+T4	Organization 780 787	Toshiba
+N1	Reference T1 wiki:2823009	Harman/Kardon
+N2	Reference T2 wiki:39726	Apple
+N3	Reference T3 wiki:683379	Land Rover
+N4	Reference T4 wiki:507269	Toshiba
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

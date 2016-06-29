@@ -1,0 +1,6 @@
+T1	Organization 0 16	Краснодарсельмаш
+T2	Organization 252 266	Воронежсельмаш
+N1	Reference T1 wiki:423899	Краснодарсельмаш
+N2	Reference T2 wiki:4387457	Воронежсельмаш
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

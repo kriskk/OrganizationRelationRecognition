@@ -1,0 +1,14 @@
+T1	Organization 0 16	Amusement Vision
+T2	Organization 142 146	Sega
+T3	Organization 154 164	Sonic Team
+T4	Organization 267 275	Smilebit
+T5	Organization 409 417	Smilebit
+N1	Reference T1 wiki:3258249	Amusement Vision
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:2721227	Sonic Team
+N4	Reference T4 wiki:2790169	Smilebit
+N5	Reference T5 wiki:2790169	Smilebit
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

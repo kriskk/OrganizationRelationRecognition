@@ -1,0 +1,22 @@
+T1	Organization 0 36	Кузнецкие металлоконструкции (завод)
+T2	Organization 241 279	Кузнецкого металлургического комбината
+T3	Organization 295 323	Западно-Сибирского комбината
+T4	Organization 512 519	Запсиба
+T5	Organization 654 657	КМК
+T6	Organization 757 760	КМК
+N1	Reference T1 wiki:1225240	Кузнецкие металлоконструкции (завод)
+N2	Reference T2 wiki:16969	Новокузнецкий металлургический комбинат
+N3	Reference T3 wiki:35331	Западно-Сибирский металлургический комбинат
+N4	Reference T4 wiki:35331	Западно-Сибирский металлургический комбинат
+N5	Reference T5 wiki:16969	Новокузнецкий металлургический комбинат
+N6	Reference T6 wiki:16969	Новокузнецкий металлургический комбинат
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

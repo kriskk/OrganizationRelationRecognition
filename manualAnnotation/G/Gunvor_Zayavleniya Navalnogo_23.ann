@@ -1,0 +1,14 @@
+T1	Organization 0 6	Gunvor
+T2	Organization 345 353	Роснефть
+T3	Organization 355 368	Газпром нефть
+T4	Organization 371 385	Сургутнефтегаз
+N1	Reference T1 wiki:893402	Gunvor
+N2	Reference T2 wiki:139770	Роснефть
+N3	Reference T3 wiki:121955	Газпром нефть
+N4	Reference T4 wiki:143564	Сургутнефтегаз
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 12	Укргаздобыча
+T2	Organization 165 181	Нафтогаз Украины
+N1	Reference T1 wiki:3451712	Укргаздобыча
+N2	Reference T2 wiki:128243	Нафтогаз Украины
+A1	IsLink T2
+A2	TypeRel T2 Holder

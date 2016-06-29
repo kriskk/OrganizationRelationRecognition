@@ -1,0 +1,9 @@
+T1	Organization 0 17	Ильюшин Финанс Ко
+T2	Organization 99 145	ОАО «Объединенная авиастроительная корпорация»
+T3	Organization 157 199	Группа «Национальная резервная корпорация»
+N1	Reference T1 wiki:741422	Ильюшин Финанс Ко
+N2	Reference T2 wiki:163405	Объединённая авиастроительная корпорация
+N3	Reference T3 wiki:1120720	Национальная резервная корпорация
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

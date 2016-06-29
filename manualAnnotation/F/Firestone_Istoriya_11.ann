@@ -1,0 +1,5 @@
+T1	Organization 0 9	Firestone
+T2	Organization 309 320	Bridgestone
+N1	Reference T1 wiki:2852451	Firestone
+N2	Reference T2 wiki:299590	Bridgestone
+A1	IsLink T2

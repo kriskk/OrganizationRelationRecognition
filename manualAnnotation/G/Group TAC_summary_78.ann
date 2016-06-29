@@ -1,0 +1,62 @@
+T1	Organization 0 9	Group TAC
+T2	Organization 310 335	Tokyo Broadcasting System
+T3	Organization 406 418	Warner Bros.
+T4	Organization 420 424	Toho
+T5	Organization 426 430	Toei
+T6	Organization 432 438	Sanrio
+T7	Organization 440 451	Pony Canyon
+T8	Organization 453 464	Toshiba EMI
+T9	Organization 466 478	King Records
+T10	Organization 480 490	Shogakukan
+T11	Organization 492 500	Kodansha
+T12	Organization 502 510	Shueisha
+T13	Organization 512 518	Gakken
+T14	Organization 528 532	Sega
+T15	Organization 534 540	Capcom
+T16	Organization 542 569	Sony Computer Entertainment
+N1	Reference T1 wiki:2815578	Group TAC
+N2	Reference T2 wiki:3337741	Tokyo Broadcasting System
+N3	Reference T3 wiki:272386	Warner Bros.
+N4	Reference T4 wiki:3182840	Toho
+N5	Reference T5 wiki:1450749	Toei
+N6	Reference T6 wiki:3261870	Sanrio
+N7	Reference T7 wiki:3292342	Pony Canyon
+N8	Reference T8 wiki:2254321	Toshiba EMI
+N9	Reference T9 wiki:2307207	King Records
+N10	Reference T10 wiki:205001	Shogakukan
+N11	Reference T11 wiki:200272	Kodansha
+N12	Reference T12 wiki:204996	Shueisha
+N13	Reference T13 wiki:2416172	Gakken
+N14	Reference T14 wiki:92589	Sega
+N15	Reference T15 wiki:714415	Capcom
+N16	Reference T16 wiki:1454994	Sony Computer Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	TypeRel T2 Cooperator
+A17	TypeRel T3 Cooperator
+A18	TypeRel T4 Cooperator
+A19	TypeRel T5 Cooperator
+A20	TypeRel T6 Cooperator
+A21	TypeRel T7 Cooperator
+A22	TypeRel T8 Cooperator
+A23	TypeRel T9 Cooperator
+A24	TypeRel T10 Cooperator
+A25	TypeRel T11 Cooperator
+A26	TypeRel T12 Cooperator
+A27	TypeRel T13 Cooperator
+A28	TypeRel T14 Cooperator
+A29	TypeRel T15 Cooperator
+A30	TypeRel T16 Cooperator

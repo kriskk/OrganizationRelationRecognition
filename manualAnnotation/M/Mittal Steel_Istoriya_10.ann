@@ -1,0 +1,10 @@
+T1	Organization 0 12	Mittal Steel
+T2	Organization 202 209	Arcelor
+T3	Organization 231 245	Arcelor Mittal
+N1	Reference T1 wiki:142956	Mittal Steel
+N2	Reference T2 wiki:142970	Arcelor
+N3	Reference T3 wiki:354086	Arcelor Mittal
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Merge
+A4	TypeRel T3 Holder

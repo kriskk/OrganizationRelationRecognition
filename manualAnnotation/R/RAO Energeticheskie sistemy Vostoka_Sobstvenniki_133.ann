@@ -1,0 +1,10 @@
+T1	Organization 0 34	РАО Энергетические системы Востока
+T2	Organization 300 308	РусГидро
+T3	Organization 398 419	Газпром энергохолдинг
+N1	Reference T1 wiki:2671340	РАО Энергетические системы Востока
+N2	Reference T2 wiki:344641	РусГидро
+N3	Reference T3 wiki:2691900	Газпром энергохолдинг
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

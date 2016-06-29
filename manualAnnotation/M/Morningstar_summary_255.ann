@@ -1,0 +1,6 @@
+T1	Organization 0 11	Morningstar
+T2	Organization 198 201	CNN
+N1	Reference T1 wiki:447023	Morningstar
+N2	Reference T2 wiki:256238	CNN
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

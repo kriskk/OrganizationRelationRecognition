@@ -1,0 +1,5 @@
+T1	Organization 0 12	China Mobile
+T2	Organization 351 359	Vodafone
+N1	Reference T1 wiki:248178	China Mobile
+N2	Reference T2 wiki:213703	Vodafone
+A1	IsLink T2

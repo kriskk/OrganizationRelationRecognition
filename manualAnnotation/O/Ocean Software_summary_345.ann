@@ -1,0 +1,12 @@
+T1	Organization 0 14	Ocean Software
+T2	Organization 308 318	Infogrames
+T3	Organization 370 375	Atari
+T4	Organization 395 400	Atari
+N1	Reference T1 wiki:2055563	Ocean Software
+N2	Reference T2 wiki:3469859	Infogrames
+N3	Reference T3 wiki:308218	Atari
+N4	Reference T4 wiki:308218	Atari
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder

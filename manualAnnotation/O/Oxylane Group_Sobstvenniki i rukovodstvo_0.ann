@@ -1,0 +1,5 @@
+T1	Organization 0 13	Oxylane Group
+T2	Organization 137 143	Auchan
+N1	Reference T1 wiki:2104661	Oxylane Group
+N2	Reference T2 wiki:1324090	Auchan
+A1	TypeRel T2 Personnel

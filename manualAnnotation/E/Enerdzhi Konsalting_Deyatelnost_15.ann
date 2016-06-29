@@ -1,0 +1,5 @@
+T1	Organization 0 18	Энерджи Консалтинг
+T2	Organization 245 252	SAP ERP
+N1	Reference T1 wiki:2870648	Энерджи Консалтинг
+N2	Reference T2 wiki:81959	SAP
+A1	IsLink T2

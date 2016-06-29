@@ -1,0 +1,8 @@
+T1	Organization 0 8	Softengi
+T2	Organization 364 373	Microsoft
+T3	Organization 376 394	Oracle Corporation
+N1	Reference T1 wiki:4380034	Softengi
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:129227	Oracle Corporation
+A1	IsLink T2
+A2	IsLink T3

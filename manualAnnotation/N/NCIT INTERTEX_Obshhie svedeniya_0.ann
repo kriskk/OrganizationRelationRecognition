@@ -1,0 +1,6 @@
+T1	Organization 0 15	НЦИТ «ИНТЕРТЕХ»
+T2	Organization 167 177	Эксперт РА
+N1	Reference T1 wiki:4276685	НЦИТ «ИНТЕРТЕХ»
+N2	Reference T2 wiki:363296	Эксперт РА
+A1	IsLink T2
+A2	TypeRel T2 Other

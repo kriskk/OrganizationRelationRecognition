@@ -1,0 +1,14 @@
+T1	Organization 0 52	Porsche Lizenz- und Handelsgesellschaft mbH & Co. KG
+T2	Organization 286 296	Siemens AG
+T3	Organization 434 444	Siemens AG
+T4	Organization 542 561	Samsung Electronics
+N1	Reference T1 wiki:403185	Porsche Lizenz- und Handelsgesellschaft mbH & Co. KG
+N2	Reference T2 wiki:36510	Siemens AG
+N3	Reference T3 wiki:36510	Siemens AG
+N4	Reference T4 wiki:125553	Samsung Electronics
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

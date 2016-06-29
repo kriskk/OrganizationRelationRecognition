@@ -1,0 +1,14 @@
+T1	Organization 0 15	Базовый элемент
+T2	Organization 88 102	Русские машины
+T3	Organization 336 346	Группа ГАЗ
+T4	Organization 441 455	Абаканвагонмаш
+T5	Organization 497 504	Авиакор
+N1	Reference T1 wiki:156379	Базовый элемент
+N2	Reference T2 wiki:2023713	Русские машины
+N3	Reference T3 wiki:21473	Группа ГАЗ
+N4	Reference T4 wiki:154209	Абаканвагонмаш
+N5	Reference T5 wiki:480966	Авиакор
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

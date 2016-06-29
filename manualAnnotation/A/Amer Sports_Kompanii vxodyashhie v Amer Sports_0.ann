@@ -1,0 +1,14 @@
+T1	Organization 0 11	Amer Sports
+T2	Organization 90 111	Wilson Sporting Goods
+T3	Organization 199 205	Atomic
+T4	Organization 515 529	Salomon Sports
+T5	Organization 576 604	Bonfire Snowboarding Company
+N1	Reference T1 wiki:398920	Amer Sports
+N2	Reference T2 wiki:2560143	Wilson Sporting Goods
+N3	Reference T3 wiki:1286996	Atomic
+N4	Reference T4 wiki:398645	Salomon Sports
+N5	Reference T5 wiki:1333660	Bonfire Snowboarding Company
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

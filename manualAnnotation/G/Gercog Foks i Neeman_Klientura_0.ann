@@ -1,0 +1,10 @@
+T1	Organization 0 21	Герцог, Фокс и Неэман
+T2	Organization 94 103	Microsoft
+T3	Organization 105 121	General Electric
+N1	Reference T1 wiki:4148563	Герцог, Фокс и Неэман
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:13762	General Electric
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

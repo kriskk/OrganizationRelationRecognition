@@ -1,0 +1,13 @@
+T1	Organization 0 21	Радеж (торговая сеть)
+T2	Organization 305 311	Магнит
+T3	Organization 378 381	МАН
+T4	Organization 449 458	Пятерочка
+N1	Reference T1 wiki:1958919	Радеж (торговая сеть)
+N2	Reference T2 wiki:143658	Магнит (сеть магазинов)
+N3	Reference T3 wiki:1958951	МАН (торговая сеть)
+N4	Reference T4 wiki:132128	Пятерочка
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor
+A5	TypeRel T4 Competitor

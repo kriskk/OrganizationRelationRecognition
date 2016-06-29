@@ -1,0 +1,22 @@
+T1	Organization 0 26	Изоляционный трубный завод
+T2	Organization 104 114	Транснефть
+T3	Organization 116 121	Сибур
+T4	Organization 123 126	ОМК
+T5	Organization 145 149	ЧТПЗ
+T6	Organization 151 154	ТМК
+N1	Reference T1 wiki:4389776	Изоляционный трубный завод
+N2	Reference T2 wiki:147540	Транснефть
+N3	Reference T3 wiki:144869	Сибур
+N4	Reference T4 wiki:196513	ОМК
+N5	Reference T5 wiki:224472	ЧТПЗ
+N6	Reference T6 wiki:248841	Трубная металлургическая компания
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

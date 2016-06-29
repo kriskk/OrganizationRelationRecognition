@@ -1,0 +1,14 @@
+T1	Organization 0 13	Latvijas Gāze
+T2	Organization 127 139	E.ON Ruhrgas
+T3	Organization 180 187	Газпром
+T4	Organization 287 292	Итеры
+N1	Reference T1 wiki:1033566	Latvijas Gāze
+N2	Reference T2 wiki:1033799	E.ON Ruhrgas
+N3	Reference T3 wiki:44754	Газпром
+N4	Reference T4 wiki:156662	Итера
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

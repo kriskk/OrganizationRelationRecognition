@@ -1,0 +1,5 @@
+T1	Organization 0 14	Термостепс-МТЛ
+T2	Organization 287 297	Термостепс
+N1	Reference T1 wiki:1958168	Термостепс-МТЛ
+N2	Reference T2 wiki:158593	Термостепс
+A1	IsLink T2

@@ -1,0 +1,14 @@
+T1	Organization 0 7	Ubisoft
+T2	Organization 129 144	Electronic Arts
+T3	Organization 146 160	Sierra On-Line
+T4	Organization 163 173	Microprose
+N1	Reference T1 wiki:650139	Ubisoft
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:1561521	Sierra On-Line
+N4	Reference T4 wiki:298661	Microprose
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

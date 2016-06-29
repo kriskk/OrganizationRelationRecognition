@@ -1,0 +1,14 @@
+T1	Organization 0 11	Новая Афина
+T2	Organization 77 88	ПрограмБанк
+T3	Organization 176 182	Oracle
+T4	Organization 478 489	ПрограмБанк
+T5	Organization 494 501	Диасофт
+N1	Reference T1 wiki:1922940	Новая Афина
+N2	Reference T2 wiki:2056012	ПрограмБанк
+N3	Reference T3 wiki:129227	Oracle
+N4	Reference T4 wiki:2056012	ПрограмБанк
+N5	Reference T5 wiki:2055790	Диасофт
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,6 @@
+T1	Organization 0 3	JVC
+T2	Organization 197 217	Victor Entertainment
+N1	Reference T1 wiki:294288	JVC
+N2	Reference T2 wiki:1061465	Victor Entertainment
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

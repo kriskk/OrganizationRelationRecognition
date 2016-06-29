@@ -1,0 +1,5 @@
+T1	Organization 0 14	Волга-Флот-Тур
+T2	Organization 141 149	ВодоходЪ
+N1	Reference T1 wiki:3422874	Волга-Флот-Тур
+N2	Reference T2 wiki:743367	ВодоходЪ
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 15	Kenwood Limited
+T2	Organization 169 178	De'Longhi
+N1	Reference T1 wiki:2710414	Kenwood Limited
+N2	Reference T2 wiki:2708672	De'Longhi
+A1	IsLink T2
+A2	TypeRel T2 Holder

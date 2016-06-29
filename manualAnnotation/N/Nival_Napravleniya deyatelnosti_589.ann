@@ -1,0 +1,6 @@
+T1	Organization 0 5	Nival
+T2	Organization 272 289	KranX Productions
+N1	Reference T1 wiki:91564	Nival
+N2	Reference T2 wiki:291794	KranX Productions
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

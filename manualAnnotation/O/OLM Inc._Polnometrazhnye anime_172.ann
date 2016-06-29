@@ -1,0 +1,10 @@
+T1	Organization 0 9	OLM, Inc.
+T2	Organization 222 239	TMS Entertainment
+T3	Organization 297 307	P.A. Works
+N1	Reference T1 wiki:3545780	OLM, Inc.
+N2	Reference T2 wiki:2785501	TMS Entertainment
+N3	Reference T3 wiki:3545782	P.A. Works
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

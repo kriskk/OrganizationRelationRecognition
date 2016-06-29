@@ -1,0 +1,5 @@
+T1	Organization 0 5	ВИНАП
+T2	Organization 285 308	Новосибирсквнешторгбанк
+N1	Reference T1 wiki:254339	ВИНАП
+N2	Reference T2 wiki:1048722	Новосибирсквнешторгбанк
+A1	TypeRel T2 Other

@@ -1,0 +1,11 @@
+T1	Organization 0 17	Dark Horse Comics
+T2	Organization 230 242	Image Comics
+T3	Organization 626 632	Marvel
+T4	Organization 635 644	DC Comics
+N1	Reference T1 wiki:868962	Dark Horse Comics
+N2	Reference T2 wiki:3103822	Image Comics
+N3	Reference T3 wiki:351306	Marvel
+N4	Reference T4 wiki:1742414	DC Comics
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

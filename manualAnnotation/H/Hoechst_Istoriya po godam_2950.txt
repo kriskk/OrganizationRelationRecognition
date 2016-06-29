@@ -1,0 +1,36 @@
+Hoechst
+@История по годам
+1210,2950
+
+col2header:  химическое отделение Hoechst AG 
+col3header:  остальные подразделения Hoechst AG 
+колонка1:  
+
+
+  |колонка1 = Marbert
+ ↓ 
+ Perform
+  |col2 = Jade 
+ ↓ 
+ L'Oreal
+  |col3 = Schwarzkopf 
+ ↓ 
+ Henkel
+}}
+|col2 = 
+
+  |заголовок_1колонки = ↙
+  |col2header = ↓
+  |col3header = ↘
+  |colheaderstyle = text-align: right;
+  |col2headerstyle = text-align:center;
+  |col3headerstyle = text-align:left;
+  |колонка1 =  Clariant
+  |col2 =   Celanese AG   
+  |col3 =  Herberts 
+ ↓ 
+ DuPont
+ }}
+1999 г.  Hoechst Marion Roussel + Rhone Poulenc = Aventis 
+
+2004 г.      Aventis + Sanofi — Synthelabo = Sanofi — Aventis

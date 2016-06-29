@@ -1,0 +1,6 @@
+T1	Organization 0 9	Richemont
+T2	Organization 222 261	LVMH Moët Hennessy — Louis Vuitton S.A.
+N1	Reference T1 wiki:3206803	Richemont
+N2	Reference T2 wiki:381313	LVMH
+A1	IsLink T2
+A2	TypeRel T2 Competitor

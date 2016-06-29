@@ -1,0 +1,6 @@
+T1	Organization 0 12	Mitsui & Co.
+T2	Organization 179 211	Mitsui Oil Exploration Co., Ltd.
+N1	Reference T1 wiki:3113519	Mitsui & Co.
+N2	Reference T2 wiki:3904200	Mitsui Oil Exploration
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

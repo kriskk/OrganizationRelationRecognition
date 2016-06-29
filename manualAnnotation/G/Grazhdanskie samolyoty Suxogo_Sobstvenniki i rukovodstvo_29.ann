@@ -1,0 +1,6 @@
+T1	Organization 0 27	Гражданские самолёты Сухого
+T2	Organization 268 286	Alenia Aeronautica
+N1	Reference T1 wiki:768840	Гражданские самолёты Сухого
+N2	Reference T2 wiki:1764819	Alenia Aeronautica
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,11 @@
+T1	Organization 0 14	Salesforce.com
+T2	Organization 138 144	Oracle
+T3	Organization 370 385	Nortel Networks
+T4	Organization 486 492	Amdocs
+N1	Reference T1 wiki:3070933	Salesforce.com
+N2	Reference T2 wiki:129227	Oracle
+N3	Reference T3 wiki:311902	Nortel Networks
+N4	Reference T4 wiki:214918	Amdocs
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

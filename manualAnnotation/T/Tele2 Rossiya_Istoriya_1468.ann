@@ -1,0 +1,5 @@
+T1	Organization 0 12	Tele2 Россия
+T2	Organization 218 227	Вымпелком
+N1	Reference T1 wiki:4159008	Tele2 Россия
+N2	Reference T2 wiki:70736	Вымпелком
+A1	IsLink T2

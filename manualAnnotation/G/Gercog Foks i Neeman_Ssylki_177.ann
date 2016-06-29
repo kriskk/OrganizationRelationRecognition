@@ -1,0 +1,6 @@
+T1	Organization 0 21	Герцог, Фокс и Неэман
+T2	Organization 234 243	Bloomberg
+N1	Reference T1 wiki:4148563	Герцог, Фокс и Неэман
+N2	Reference T2 wiki:655940	Bloomberg
+A1	IsLink T2
+A2	TypeRel T2 Other

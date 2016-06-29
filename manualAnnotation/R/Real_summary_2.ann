@@ -1,0 +1,5 @@
+T1	Organization 0 4	Real
+T2	Organization 185 196	Metro Group
+N1	Reference T1 wiki:1480648	Real
+N2	Reference T2 wiki:166780	Metro AG
+A1	TypeRel T2 Holder

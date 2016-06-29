@@ -1,0 +1,5 @@
+T1	Organization 0 7	GameSpy
+T2	Organization 319 335	News Corporation
+N1	Reference T1 wiki:2851555	GameSpy
+N2	Reference T2 wiki:636692	News Corporation
+A1	TypeRel T2 Holder

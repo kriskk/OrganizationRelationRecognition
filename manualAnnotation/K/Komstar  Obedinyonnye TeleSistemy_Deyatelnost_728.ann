@@ -1,0 +1,15 @@
+T1	Organization 0 34	Комстар — Объединённые ТелеСистемы
+T2	Organization 243 247	МГТС
+T3	Organization 508 519	Связьинвест
+T4	Organization 626 636	Ростелеком
+T5	Organization 883 888	Стрим
+N1	Reference T1 wiki:150442	Комстар — Объединённые ТелеСистемы
+N2	Reference T2 wiki:141210	Московская городская телефонная сеть
+N3	Reference T3 wiki:145705	Связьинвест
+N4	Reference T4 wiki:145844	Ростелеком
+N5	Reference T5 wiki:2230588	Стрим
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary

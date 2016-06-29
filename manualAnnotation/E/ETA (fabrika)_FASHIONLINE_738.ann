@@ -1,0 +1,6 @@
+T1	Organization 0 13	ETA (фабрика)
+T2	Organization 215 221	Tissot
+N1	Reference T1 wiki:1080471	ETA (фабрика)
+N2	Reference T2 wiki:177171	Tissot
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

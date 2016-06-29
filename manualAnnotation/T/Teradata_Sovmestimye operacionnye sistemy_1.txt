@@ -1,0 +1,13 @@
+Teradata
+@Teradata Database
+@Совместимые операционные системы
+2260,677,1
+
+Совместимые операционные системы
+
+Teradata предлагает выбор из нескольких операционных систем:
+ UNIX SVR4.2 MP-RAS, разновидностью UNIX System V от компании AT&T
+	 Microsoft Windows Server 2003
+	 SUSE Linux Enterprise Server на 64-разрядных серверах Intel
+
+

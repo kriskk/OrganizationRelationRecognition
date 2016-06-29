@@ -1,0 +1,5 @@
+T1	Organization 0 5	RiNet
+T2	Organization 194 213	Plus Communications
+N1	Reference T1 wiki:622249	RiNet
+N2	Reference T2 wiki:3628134	Plus Communications
+A1	TypeRel T2 Cooperator

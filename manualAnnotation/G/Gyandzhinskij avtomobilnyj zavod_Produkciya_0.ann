@@ -1,0 +1,5 @@
+T1	Organization 0 31	Гянджинский автомобильный завод
+T2	Organization 165 168	МАЗ
+N1	Reference T1 wiki:2658606	Гянджинский автомобильный завод
+N2	Reference T2 wiki:33218	Минский автомобильный завод
+A1	TypeRel T2 Cooperator

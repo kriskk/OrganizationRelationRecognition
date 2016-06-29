@@ -1,0 +1,32 @@
+T1	Organization 0 21	Universal Music Group
+T2	Organization 102 120	Universal Pictures
+T3	Organization 410 420	Vivendi SA
+T4	Organization 505 512	Philips
+T5	Organization 722 732	Vivendi SA
+T6	Organization 761 777	General Electric
+T7	Organization 898 908	Vivendi SA
+T8	Organization 992 1002	Matsushita
+T9	Organization 1004 1025	Panasonic Corporation
+T10	Organization 1046 1056	Vivendi SA
+N1	Reference T1 wiki:203047	Universal Music Group
+N2	Reference T2 wiki:702796	Universal Pictures
+N3	Reference T3 wiki:1695856	Vivendi SA
+N4	Reference T4 wiki:204179	Philips
+N5	Reference T5 wiki:1695856	Vivendi SA
+N6	Reference T6 wiki:13762	General Electric
+N7	Reference T7 wiki:1695856	Vivendi SA
+N8	Reference T8 wiki:307154	Matsushita
+N9	Reference T9 wiki:307154	Panasonic
+N10	Reference T10 wiki:1695856	Vivendi SA
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T2 Merge
+A11	TypeRel T7 Holder
+A12	TypeRel T8 Holder

@@ -1,0 +1,12 @@
+Id Software
+@Список продуктов
+6540,3152
+
+	 Orcs & Elves II (2007) (разработана id Software для Мобильных телефонов)
+	 Doom II RPG (2009) (разработана id Software для Мобильных телефонов)
+	 Quake 4 (2005) (разработана компанией Raven Software)
+	 Enemy Territory: Quake Wars (2007) (разработана компанией Splash Damage)
+	 Wolfenstein RPG (2007) (разработана id Software для Мобильных телефонов)
+	 Wolfenstein (2009) (разработана совместно с Raven Software)
+	 Doom: Resurrection (2009) (разработана id Software для IPhone/IPod Touch)
+	 Wolfenstein 3D Classic (2009) (разработана id Software для IPhone/IPod Touch)

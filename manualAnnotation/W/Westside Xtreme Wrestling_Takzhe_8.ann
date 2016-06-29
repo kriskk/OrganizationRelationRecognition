@@ -1,0 +1,6 @@
+T1	Organization 0 25	Westside Xtreme Wrestling
+T2	Organization 205 211	Evolve
+N1	Reference T1 wiki:4467953	Westside Xtreme Wrestling
+N2	Reference T2 wiki:4471428	Evolve
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

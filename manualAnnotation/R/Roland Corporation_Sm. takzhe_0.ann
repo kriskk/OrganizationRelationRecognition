@@ -1,0 +1,11 @@
+T1	Organization 0 18	Roland Corporation
+T2	Organization 51 57	Yamaha
+T3	Organization 60 65	Casio
+T4	Organization 68 72	Korg
+N1	Reference T1 wiki:2218844	Roland Corporation
+N2	Reference T2 wiki:696518	Yamaha
+N3	Reference T3 wiki:620224	Casio
+N4	Reference T4 wiki:2884601	Korg
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

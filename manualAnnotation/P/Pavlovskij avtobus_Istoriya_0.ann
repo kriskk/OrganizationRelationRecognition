@@ -1,0 +1,6 @@
+T1	Organization 0 18	Павловский автобус
+T2	Organization 100 123	Горьковского автозавода
+N1	Reference T1 wiki:97930	Павловский автобус
+N2	Reference T2 wiki:25060	Горьковский автомобильный завод
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

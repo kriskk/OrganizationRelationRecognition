@@ -1,0 +1,10 @@
+T1	Organization 0 15	Hughes Aircraft
+T2	Organization 131 139	Raytheon
+T3	Organization 437 451	General Motors
+N1	Reference T1 wiki:2429690	Hughes Aircraft
+N2	Reference T2 wiki:769599	Raytheon
+N3	Reference T3 wiki:17438	General Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder
+A4	TypeRel T2 Holder

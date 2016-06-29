@@ -1,0 +1,5 @@
+T1	Organization 0 15	Курскхимволокно
+T2	Organization 135 153	ОАО «Куйбышевазот»
+N1	Reference T1 wiki:2642809	Курскхимволокно
+N2	Reference T2 wiki:987301	Куйбышевазот
+A1	TypeRel T2 Holder

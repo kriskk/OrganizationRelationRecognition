@@ -1,0 +1,5 @@
+T1	Organization 0 14	Konica Minolta
+T2	Organization 196 200	Sony
+N1	Reference T1 wiki:286328	Konica Minolta
+N2	Reference T2 wiki:73019	Sony
+A1	TypeRel T2 Cooperator

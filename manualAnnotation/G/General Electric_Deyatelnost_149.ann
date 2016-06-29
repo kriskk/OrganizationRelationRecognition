@@ -1,0 +1,6 @@
+T1	Organization 0 16	General Electric
+T2	Organization 309 326	GE Transportation
+N1	Reference T1 wiki:13762	General Electric
+N2	Reference T2 wiki:4242818	GE Transportation
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

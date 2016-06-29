@@ -1,0 +1,20 @@
+T1	Organization 0 13	Станкоагрегат
+T2	Organization 236 255	Завода им. Лихачёва
+T3	Organization 259 263	АЗЛК
+T4	Organization 267 273	КАМАЗа
+T5	Organization 277 281	ГАЗа
+T6	Organization 285 289	ЗАЗа
+T7	Organization 420 451	Волгоградского моторного завода
+N1	Reference T1 wiki:1939991	Станкоагрегат
+N2	Reference T2 wiki:259988	Завод имени Лихачёва
+N3	Reference T3 wiki:120499	АЗЛК
+N4	Reference T4 wiki:169714	Камский автомобильный завод
+N5	Reference T5 wiki:25060	Горьковский автозавод
+N6	Reference T6 wiki:683481	Запорожский автомобилестроительный завод
+N7	Reference T7 wiki:378164	Волгоградский моторостроительный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

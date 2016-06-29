@@ -1,0 +1,6 @@
+T1	Organization 0 18	Настюша (компания)
+T2	Organization 202 238	Московского комбината хлебопродуктов
+N1	Reference T1 wiki:153106	Настюша (компания)
+N2	Reference T2 wiki:1796806	Московский комбинат хлебопродуктов
+A1	IsLink T2
+A2	TypeRel T2 Holder

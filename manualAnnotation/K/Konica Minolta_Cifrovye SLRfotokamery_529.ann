@@ -1,0 +1,11 @@
+T1	Organization 0 14	Konica Minolta
+T2	Organization 256 261	Canon
+T3	Organization 264 269	Nikon
+T4	Organization 521 525	Sony
+N1	Reference T1 wiki:286328	Konica Minolta
+N2	Reference T2 wiki:53435	Canon
+N3	Reference T3 wiki:147658	Nikon
+N4	Reference T4 wiki:73019	Sony
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T4 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 5	Kmart
+T2	Organization 37 45	Wal-Mart
+N1	Reference T1 wiki:369950	Kmart
+N2	Reference T2 wiki:243093	Wal-Mart
+A1	IsLink T2

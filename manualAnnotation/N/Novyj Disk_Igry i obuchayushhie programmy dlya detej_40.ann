@@ -1,0 +1,6 @@
+T1	Organization 0 10	Новый Диск
+T2	Organization 324 328	LEGO
+N1	Reference T1 wiki:606365	Новый Диск
+N2	Reference T2 wiki:183996	LEGO
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

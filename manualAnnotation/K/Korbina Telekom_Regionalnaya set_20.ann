@@ -1,0 +1,14 @@
+T1	Organization 0 15	Корбина Телеком
+T2	Organization 435 445	Ростелеком
+T3	Organization 447 459	ТрансТелеком
+T4	Organization 461 474	ГолденТелеком
+N1	Reference T1 wiki:128480	Корбина Телеком
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:161360	ТрансТелеком
+N4	Reference T4 wiki:2196953	Golden Telecom
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

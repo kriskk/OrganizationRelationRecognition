@@ -1,0 +1,35 @@
+T1	Organization 0 18	STMicroelectronics
+T2	Organization 289 295	Nortel
+T3	Organization 339 346	Alcatel
+T4	Organization 426 431	Intel
+T5	Organization 433 440	Samsung
+T6	Organization 442 459	Texas Instruments
+T7	Organization 462 469	Toshiba
+T8	Organization 495 503	Infineon
+T9	Organization 514 517	NEC
+T10	Organization 519 522	NXP
+T11	Organization 526 535	Freescale
+T12	Organization 550 565	Western Digital
+N1	Reference T1 wiki:1118011	STMicroelectronics
+N2	Reference T2 wiki:311902	Nortel
+N3	Reference T3 wiki:294657	Alcatel
+N4	Reference T4 wiki:762172	Intel
+N5	Reference T5 wiki:125537	Samsung
+N6	Reference T6 wiki:429235	Texas Instruments
+N7	Reference T7 wiki:507269	Toshiba
+N8	Reference T8 wiki:166041	Infineon
+N9	Reference T9 wiki:232844	NEC
+N10	Reference T10 wiki:984265	NXP Semiconductors
+N11	Reference T11 wiki:1614887	Freescale
+N12	Reference T12 wiki:286638	Western Digital
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12

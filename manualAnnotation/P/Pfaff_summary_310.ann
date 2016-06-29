@@ -1,0 +1,9 @@
+T1	Organization 0 5	Pfaff
+T2	Organization 189 201	Husqvarna AB
+T3	Organization 238 244	Зингер
+N1	Reference T1 wiki:1314843	Pfaff
+N2	Reference T2 wiki:1206338	Husqvarna AB
+N3	Reference T3 wiki:868892	Зингер (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

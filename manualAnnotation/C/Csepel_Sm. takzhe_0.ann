@@ -1,0 +1,5 @@
+T1	Organization 0 6	Csepel
+T2	Organization 39 45	Ikarus
+N1	Reference T1 wiki:2635942	Csepel
+N2	Reference T2 wiki:243306	Ikarus
+A1	IsLink T2

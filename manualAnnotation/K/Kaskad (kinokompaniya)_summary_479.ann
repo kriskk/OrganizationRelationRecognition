@@ -1,0 +1,5 @@
+T1	Organization 0 21	Каскад (кинокомпания)
+T2	Organization 239 252	Киноконстанте
+N1	Reference T1 wiki:2384737	Каскад (кинокомпания)
+N2	Reference T2 wiki:1910492	Костафильм
+A1	IsLink T2

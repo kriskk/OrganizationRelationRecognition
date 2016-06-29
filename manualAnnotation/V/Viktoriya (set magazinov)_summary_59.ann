@@ -1,0 +1,5 @@
+T1	Organization 0 25	Виктория (сеть магазинов)
+T2	Organization 230 235	Дикси
+N1	Reference T1 wiki:382848	Виктория (сеть магазинов)
+N2	Reference T2 wiki:153144	Дикси (сеть магазинов)
+A1	TypeRel T2 Holder

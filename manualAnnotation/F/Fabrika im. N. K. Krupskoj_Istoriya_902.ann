@@ -1,0 +1,5 @@
+T1	Organization 0 26	Фабрика им. Н. К. Крупской
+T2	Organization 238 243	Orkla
+N1	Reference T1 wiki:2889780	Фабрика им. Н. К. Крупской
+N2	Reference T2 wiki:181081	Orkla
+A1	IsLink T2

@@ -1,0 +1,7 @@
+T1	Organization 0 13	Mercedes-Benz
+T2	Organization 131 141	Daimler AG
+N1	Reference T1 wiki:40401	Mercedes-Benz
+N2	Reference T2 wiki:39716	Daimler AG
+A1	IsLink T2
+T3	Organization 131 138	Daimler
+A2	TypeRel T3 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 12	ЗиО-Подольск
+T2	Organization 178 185	Росатом
+N1	Reference T1 wiki:864177	ЗиО-Подольск
+N2	Reference T2 wiki:1299917	Росатом
+A1	TypeRel T2 Holder

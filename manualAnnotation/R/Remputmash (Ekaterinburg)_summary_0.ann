@@ -1,0 +1,6 @@
+T1	Organization 0 25	Ремпутьмаш (Екатеринбург)
+T2	Organization 169 178	ОАО «РЖД»
+N1	Reference T1 wiki:2811412	Ремпутьмаш (Екатеринбург)
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2
+A2	TypeRel T2 Holder

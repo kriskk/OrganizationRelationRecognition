@@ -1,0 +1,6 @@
+T1	Organization 0 5	Нэфис
+T2	Organization 488 506	концерном «Калина»
+N1	Reference T1 wiki:3980048	Нэфис
+N2	Reference T2 wiki:591744	Калина (компания)
+A1	IsLink T2
+A2	TypeRel T2 Competitor

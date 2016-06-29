@@ -1,0 +1,5 @@
+T1	Organization 0 14	ТомскНИПИнефть
+T2	Organization 129 147	Гипротюменнефтегаз
+N1	Reference T1 wiki:2265507	ТомскНИПИнефть
+N2	Reference T2 wiki:1615645	Гипротюменнефтегаз
+A1	IsLink T2

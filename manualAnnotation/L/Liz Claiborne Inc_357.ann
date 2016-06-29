@@ -1,0 +1,5 @@
+T1	Organization 0 18	Liz Claiborne, Inc
+T2	Organization 197 201	Mexx
+N1	Reference T1 wiki:2019477	Liz Claiborne, Inc
+N2	Reference T2 wiki:878714	Mexx
+A1	TypeRel T2 Subsidiary

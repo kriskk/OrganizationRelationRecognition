@@ -1,0 +1,5 @@
+T1	Organization 0 15	SRAM (компания)
+T2	Organization 339 346	Shimano
+N1	Reference T1 wiki:631511	SRAM (компания)
+N2	Reference T2 wiki:278679	Shimano
+A1	IsLink T2

@@ -1,0 +1,50 @@
+T1	Organization 0 3	IAd
+T2	Organization 262 267	Apple
+T3	Organization 352 357	Apple
+T4	Organization 489 496	L’Oréal
+T5	Organization 498 505	Renault
+T6	Organization 507 520	Louis Vuitton
+T7	Organization 533 540	Perrier
+T8	Organization 542 550	Unilever
+T9	Organization 551 560	Citigroup
+T10	Organization 572 577	Evian
+T11	Organization 579 589	LG Display
+T12	Organization 590 594	AT&T
+T13	Organization 595 601	Chanel
+N1	Reference T1 wiki:2387325	IAd
+N2	Reference T2 wiki:39726	Apple Inc.
+N3	Reference T3 wiki:39726	Apple Inc
+N4	Reference T4 wiki:164733	L’Oréal
+N5	Reference T5 wiki:586472	Renault
+N6	Reference T6 wiki:920125	Louis Vuitton
+N7	Reference T7 wiki:1979608	Perrier
+N8	Reference T8 wiki:198503	Unilever
+N9	Reference T9 wiki:374508	Citigroup
+N10	Reference T10 wiki:1976223	Evian
+N11	Reference T11 wiki:1610240	LG Display
+N12	Reference T12 wiki:162994	AT&T
+N13	Reference T13 wiki:224214	Chanel
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	TypeRel T2 Holder
+A14	TypeRel T3 Holder
+A15	TypeRel T4 Cooperator
+A16	TypeRel T5 Cooperator
+A17	TypeRel T6 Cooperator
+A18	TypeRel T7 Cooperator
+A19	TypeRel T8 Cooperator
+A20	TypeRel T9 Cooperator
+A21	TypeRel T10 Cooperator
+A22	TypeRel T11 Cooperator
+A23	TypeRel T12 Cooperator
+A24	TypeRel T13 Cooperator

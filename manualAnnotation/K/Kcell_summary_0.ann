@@ -1,0 +1,8 @@
+T1	Organization 0 5	Kcell
+T2	Organization 158 163	Kcell
+T3	Organization 299 310	TeliaSonera
+N1	Reference T1 wiki:1647250	Kcell
+N2	Reference T2 wiki:1647250	Kcell
+N3	Reference T3 wiki:177779	TeliaSonera
+A1	IsLink T2
+A2	IsLink T3

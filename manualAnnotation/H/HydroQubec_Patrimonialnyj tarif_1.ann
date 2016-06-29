@@ -1,0 +1,5 @@
+T1	Organization 0 12	Hydro-Québec
+T2	Organization 255 268	Merrill Lynch
+N1	Reference T1 wiki:1817394	Hydro-Québec
+N2	Reference T2 wiki:177763	Merrill Lynch
+A1	TypeRel T2 Other

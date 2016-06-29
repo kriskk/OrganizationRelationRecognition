@@ -1,0 +1,6 @@
+T1	Organization 0 16	Mushroom Records
+T2	Organization 230 240	Sony Music
+N1	Reference T1 wiki:712377	Mushroom Records
+N2	Reference T2 wiki:2770369	Sony Music
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

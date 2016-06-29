@@ -1,0 +1,14 @@
+T1	Organization 0 25	Chantiers de l'Atlantique
+T2	Organization 187 197	STX Europe
+T3	Organization 394 400	Alstom
+T4	Organization 571 581	STX Europe
+T5	Organization 625 639	Aker Solutions
+N1	Reference T1 wiki:3439200	Chantiers de l'Atlantique
+N2	Reference T2 wiki:3434436	STX Europe
+N3	Reference T3 wiki:571946	Alstom
+N4	Reference T4 wiki:3434436	STX Europe
+N5	Reference T5 wiki:604172	Aker Solutions
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

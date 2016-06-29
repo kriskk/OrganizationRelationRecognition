@@ -1,0 +1,5 @@
+T1	Organization 0 12	Nokian Tyres
+T2	Organization 213 219	Nordea
+N1	Reference T1 wiki:285375	Nokian Tyres
+N2	Reference T2 wiki:3458398	Nordea
+A1	TypeRel T2 Holder

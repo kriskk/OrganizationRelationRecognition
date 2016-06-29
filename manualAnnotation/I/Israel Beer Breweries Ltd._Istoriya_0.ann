@@ -1,0 +1,9 @@
+T1	Organization 0 26	Israel Beer Breweries Ltd.
+T2	Organization 154 169	Carlsberg Group
+T3	Organization 280 286	Tuborg
+N1	Reference T1 wiki:4122947	Israel Beer Breweries Ltd.
+N2	Reference T2 wiki:787801	Carlsberg
+N3	Reference T3 wiki:2396259	Tuborg
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Cooperator

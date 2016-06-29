@@ -1,0 +1,9 @@
+T1	Organization 0 8	Роснефть
+T2	Organization 233 237	CNPC
+T3	Organization 304 314	Транснефть
+N1	Reference T1 wiki:139770	Роснефть
+N2	Reference T2 wiki:355554	CNPC
+N3	Reference T3 wiki:147540	Транснефть
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

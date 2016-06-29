@@ -1,0 +1,10 @@
+T1	Organization 0 10	Мостотрест
+T2	Organization 204 213	ОАО «РЖД»
+T3	Organization 237 245	РЖДстрой
+N1	Reference T1 wiki:424233	Мостотрест
+N2	Reference T2 wiki:106901	Российские железные дороги
+N3	Reference T3 wiki:3297253	ОАО "РЖДстрой"
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

@@ -1,0 +1,9 @@
+T1	Organization 0 11	КазМунайГаз
+T2	Organization 88 129	"Разведка Добыча «КазМунайГаз» («РД КМГ»)
+T3	Organization 375 388	КазМунайТениз
+N1	Reference T1 wiki:294591	КазМунайГаз
+N2	Reference T2 wiki:1210381	Разведка Добыча «КазМунайГаз»
+N3	Reference T3 wiki:1364211	КазМунайТениз
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

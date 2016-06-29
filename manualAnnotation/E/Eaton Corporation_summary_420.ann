@@ -1,0 +1,6 @@
+T1	Organization 0 17	Eaton Corporation
+T2	Organization 206 218	Moeller GmbH
+N1	Reference T1 wiki:1039999	Eaton Corporation
+N2	Reference T2 wiki:934693	Moeller GmbH
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

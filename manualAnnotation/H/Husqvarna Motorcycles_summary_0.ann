@@ -1,0 +1,9 @@
+T1	Organization 0 21	Husqvarna Motorcycles
+T2	Organization 82 85	KTM
+T3	Organization 261 273	Husqvarna AB
+N1	Reference T1 wiki:3484952	Husqvarna Motorcycles
+N2	Reference T2 wiki:1568094	KTM
+N3	Reference T3 wiki:1206338	Husqvarna AB
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

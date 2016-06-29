@@ -1,0 +1,6 @@
+T1	Organization 0 12	MercurySteam
+T2	Organization 210 228	Kojima Productions
+N1	Reference T1 wiki:3070165	MercurySteam
+N2	Reference T2 wiki:3869670	Kojima Productions
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 20	Take-Two Interactive
+T2	Organization 211 219	2K Games
+T3	Organization 222 236	Rockstar Games
+N1	Reference T1 wiki:2783863	Take-Two Interactive
+N2	Reference T2 wiki:2386194	2K Games
+N3	Reference T3 wiki:650156	Rockstar Games
+A1	IsLink T2
+A2	IsLink T3

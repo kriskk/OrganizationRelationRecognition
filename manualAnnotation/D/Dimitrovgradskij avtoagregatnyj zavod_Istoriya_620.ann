@@ -1,0 +1,5 @@
+T1	Organization 0 37	Димитровградский автоагрегатный завод
+T2	Organization 283 290	АВТОВАЗ
+N1	Reference T1 wiki:1498685	Димитровградский автоагрегатный завод
+N2	Reference T2 wiki:139276	АВТОВАЗ
+A1	IsLink T2

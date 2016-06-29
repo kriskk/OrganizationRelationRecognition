@@ -1,0 +1,9 @@
+T1	Organization 0 13	Запсибкомбанк
+T2	Organization 230 234	Visa
+T3	Organization 237 247	MasterCard
+N1	Reference T1 wiki:373207	Запсибкомбанк
+N2	Reference T2 wiki:36386	Visa
+N3	Reference T3 wiki:36409	MasterCard
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

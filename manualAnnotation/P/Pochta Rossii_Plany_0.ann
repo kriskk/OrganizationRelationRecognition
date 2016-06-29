@@ -1,0 +1,6 @@
+T1	Organization 0 12	Почта России
+T2	Organization 127 138	Связьинвест
+N1	Reference T1 wiki:234849	Почта России
+N2	Reference T2 wiki:145705	Связьинвест
+A1	IsLink T2
+A2	TypeRel T2 Personnel

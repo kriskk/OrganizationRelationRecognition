@@ -1,0 +1,5 @@
+T1	Organization 0 8	Kenworth
+T2	Organization 175 181	PACCAR
+N1	Reference T1 wiki:2477230	Kenworth
+N2	Reference T2 wiki:1704447	PACCAR
+A1	TypeRel T2 Holder

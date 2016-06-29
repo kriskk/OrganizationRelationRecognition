@@ -1,0 +1,17 @@
+T1	Organization 0 27	Аффект (диджитал агентство)
+T2	Organization 228 231	РЖД
+T3	Organization 233 243	Майкрософт
+T4	Organization 256 268	Филип Моррис
+T5	Organization 270 293	Лаборатория Касперского
+T6	Organization 313 328	Johnson&Johnson
+N1	Reference T1 wiki:4183640	Аффект (диджитал агентство)
+N2	Reference T2 wiki:106901	РЖД
+N3	Reference T3 wiki:11987	Майкрософт
+N4	Reference T4 wiki:3888163	Philip Morris International
+N5	Reference T5 wiki:72700	Лаборатория Касперского
+N6	Reference T6 wiki:608810	Johnson & Johnson
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

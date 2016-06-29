@@ -1,0 +1,5 @@
+T1	Organization 0 11	TeliaSonera
+T2	Organization 120 126	TEO LT
+N1	Reference T1 wiki:177779	TeliaSonera
+N2	Reference T2 wiki:474411	TEO LT
+A1	IsLink T2

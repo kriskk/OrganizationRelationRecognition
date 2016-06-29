@@ -1,0 +1,6 @@
+T1	Organization 0 16	НДВ-Недвижимость
+T2	Organization 141 144	РБК
+N1	Reference T1 wiki:3007327	НДВ-Недвижимость
+N2	Reference T2 wiki:391746	РБК
+A1	IsLink T2
+A2	TypeRel T2 Other

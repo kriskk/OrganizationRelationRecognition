@@ -1,0 +1,10 @@
+T1	Organization 0 22	HiSilicon Technologies
+T2	Organization 109 115	Huawei
+T3	Organization 250 253	ARM
+N1	Reference T1 wiki:4225631	HiSilicon Technologies
+N2	Reference T2 wiki:908840	Huawei
+N3	Reference T3 wiki:49514	ARM (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

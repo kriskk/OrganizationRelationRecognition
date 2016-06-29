@@ -1,0 +1,9 @@
+T1	Organization 0 13	Росэнергоатом
+T2	Organization 261 275	Атомэнергопром
+T3	Organization 317 324	Росатом
+N1	Reference T1 wiki:138779	Росэнергоатом
+N2	Reference T2 wiki:1402114	Атомэнергопром
+N3	Reference T3 wiki:1299917	Росатом (государственная корпорация)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

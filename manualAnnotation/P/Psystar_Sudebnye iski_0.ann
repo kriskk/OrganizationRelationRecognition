@@ -1,0 +1,10 @@
+T1	Organization 0 7	Psystar
+T2	Organization 160 165	Apple
+T3	Organization 326 331	Apple
+N1	Reference T1 wiki:1790028	Psystar
+N2	Reference T2 wiki:39726	Apple
+N3	Reference T3 wiki:39726	Apple
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Other
+A4	TypeRel T3 Other

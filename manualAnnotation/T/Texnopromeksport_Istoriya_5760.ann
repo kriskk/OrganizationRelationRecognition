@@ -1,0 +1,5 @@
+T1	Organization 0 16	Технопромэкспорт
+T2	Organization 341 354	Ростехнологии
+N1	Reference T1 wiki:363638	Технопромэкспорт
+N2	Reference T2 wiki:915063	Ростехнологии
+A1	IsLink T2

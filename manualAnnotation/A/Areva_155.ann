@@ -1,0 +1,5 @@
+T1	Organization 0 5	Areva
+T2	Organization 165 179	Areva NP S.A.S
+N1	Reference T1 wiki:913165	Areva
+N2	Reference T2 wiki:913165	Areva NP
+A1	IsLink T2

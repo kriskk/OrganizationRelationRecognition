@@ -1,0 +1,10 @@
+T1	Organization 0 11	Lamborghini
+T2	Organization 253 261	Chrysler
+T3	Organization 455 462	Peugeot
+N1	Reference T1 wiki:65531	Lamborghini
+N2	Reference T2 wiki:223902	Chrysler
+N3	Reference T3 wiki:1650729	Peugeot
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+A4	TypeRel T3 Cooperator

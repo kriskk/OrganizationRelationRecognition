@@ -1,0 +1,14 @@
+T1	Organization 0 8	Nintendo
+T2	Organization 389 399	Matsushita
+T3	Organization 401 410	Panasonic
+T4	Organization 414 417	IBM
+N1	Reference T1 wiki:202486	Nintendo
+N2	Reference T2 wiki:307154	Matsushita
+N3	Reference T3 wiki:307154	Panasonic
+N4	Reference T4 wiki:11078	IBM
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

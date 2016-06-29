@@ -1,0 +1,5 @@
+T1	Organization 0 35	Таганрогский металлургический завод
+T2	Organization 213 224	«Альфа-Эко»
+N1	Reference T1 wiki:466093	Таганрогский металлургический завод
+N2	Reference T2 wiki:141637	Альфа-Групп
+A1	IsLink T2

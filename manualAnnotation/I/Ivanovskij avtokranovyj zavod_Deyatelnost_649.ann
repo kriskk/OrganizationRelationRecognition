@@ -1,0 +1,22 @@
+T1	Organization 0 29	Ивановский автокрановый завод
+T2	Organization 235 238	МАЗ
+T3	Organization 240 244	Урал
+T4	Organization 246 251	КамАЗ
+T5	Organization 253 257	МЗКТ
+T6	Organization 260 263	БАЗ
+N1	Reference T1 wiki:2586505	Ивановский автокрановый завод
+N2	Reference T2 wiki:33218	МАЗ
+N3	Reference T3 wiki:24935	Уральский автомобильный завод
+N4	Reference T4 wiki:169714	КамАЗ
+N5	Reference T5 wiki:167144	МЗКТ
+N6	Reference T6 wiki:3476308	Брянский автомобильный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 16	АМУР (автозавод)
+T2	Organization 221 224	ЗИЛ
+T3	Organization 250 269	Банк Северная Казна
+N1	Reference T1 wiki:2950886	АМУР (автозавод)
+N2	Reference T2 wiki:259988	ЗИЛ
+N3	Reference T3 wiki:373467	Северная казна
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

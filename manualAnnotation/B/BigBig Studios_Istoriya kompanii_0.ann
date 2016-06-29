@@ -1,0 +1,14 @@
+T1	Organization 0 14	BigBig Studios
+T2	Organization 134 145	Codemasters
+T3	Organization 331 348	Evolution Studios
+T4	Organization 399 432	Sony Computer Entertainment (SCE)
+T5	Organization 455 459	Sony
+N1	Reference T1 wiki:3214775	BigBig Studios
+N2	Reference T2 wiki:952362	Codemasters
+N3	Reference T3 wiki:2579092	Evolution Studios
+N4	Reference T4 wiki:1454994	Sony Computer Entertainment
+N5	Reference T5 wiki:73019	Sony
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

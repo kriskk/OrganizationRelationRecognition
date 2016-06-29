@@ -1,0 +1,5 @@
+T1	Organization 0 6	Туррис
+T2	Organization 209 216	Лейкари
+N1	Reference T1 wiki:1718317	Туррис
+N2	Reference T2 wiki:1718317	Лейкари
+A1	IsLink T2

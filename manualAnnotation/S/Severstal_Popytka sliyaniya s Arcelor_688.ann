@@ -1,0 +1,8 @@
+T1	Organization 0 10	Северсталь
+T2	Organization 415 427	Mittal Steel
+T3	Organization 678 691	ArcelorMittal
+N1	Reference T1 wiki:149218	Северсталь
+N2	Reference T2 wiki:142956	Mittal Steel
+N3	Reference T3 wiki:354086	ArcelorMittal
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,26 @@
+T1	Organization 0 12	Нафта Москва
+T2	Organization 146 153	Газпром
+T3	Organization 291 318	Национальные кабельные сети
+T4	Organization 488 498	Полиметалл
+T5	Organization 689 699	Ростелеком
+T6	Organization 711 721	группы ПИК
+T7	Organization 733 745	Полюс Золото
+N1	Reference T1 wiki:167016	Нафта Москва
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:2457510	Национальные кабельные сети
+N4	Reference T4 wiki:365296	Полиметалл
+N5	Reference T5 wiki:145844	Ростелеком
+N6	Reference T6 wiki:150428	ПИК (группа компаний)
+N7	Reference T7 wiki:160950	Полюс Золото
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Subsidiary
+A8	TypeRel T3 Subsidiary
+A9	TypeRel T4 Subsidiary
+A10	TypeRel T5 Subsidiary
+A11	TypeRel T6 Subsidiary
+A12	TypeRel T7 Subsidiary

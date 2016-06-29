@@ -1,0 +1,10 @@
+T1	Organization 0 14	Пензадизельмаш
+T2	Organization 272 298	Заводом им. В. А. Малышева
+T3	Organization 324 343	Коломенским заводом
+N1	Reference T1 wiki:289404	Пензадизельмаш
+N2	Reference T2 wiki:382782	Завод имени Малышева
+N3	Reference T3 wiki:125133	Коломенский завод
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

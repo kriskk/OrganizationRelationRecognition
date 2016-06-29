@@ -1,0 +1,9 @@
+T1	Organization 0 8	MediaTek
+T2	Organization 229 237	Qualcomm
+T3	Organization 446 465	Mstar Semiconductor
+N1	Reference T1 wiki:4128698	MediaTek
+N2	Reference T2 wiki:897305	Qualcomm
+N3	Reference T3 wiki:3413817	Mstar Semiconductor
+A2	IsLink T3
+A1	TypeRel T2 Competitor
+A3	TypeRel T3 Holder

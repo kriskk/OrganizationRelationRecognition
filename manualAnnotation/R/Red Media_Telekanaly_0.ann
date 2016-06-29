@@ -1,0 +1,5 @@
+T1	Organization 0 9	Ред Медиа
+T2	Organization 171 178	HD Life
+N1	Reference T1 wiki:1938031	Ред Медиа
+N2	Reference T2 wiki:1938031	HD Life
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 8	Jenoptik
+T2	Organization 155 160	Zeiss
+N1	Reference T1 wiki:166406	Jenoptik
+N2	Reference T2 wiki:1151084	Zeiss
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

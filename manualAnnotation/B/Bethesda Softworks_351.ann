@@ -1,0 +1,8 @@
+T1	Organization 0 18	Bethesda Softworks
+T2	Organization 188 201	ZeniMax Media
+T3	Organization 224 245	Bethesda Game Studios
+N1	Reference T1 wiki:178727	Bethesda Softworks
+N2	Reference T2 wiki:2147996	ZeniMax Media
+N3	Reference T3 wiki:3012953	Bethesda Game Studios
+A1	IsLink T2
+A2	IsLink T3

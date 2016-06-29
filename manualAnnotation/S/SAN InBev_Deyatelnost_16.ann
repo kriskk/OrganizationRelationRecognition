@@ -1,0 +1,8 @@
+T1	Organization 0 9	САН ИнБев
+T2	Organization 337 342	Десна
+T3	Organization 445 463	«Бизнес Аналитика»
+N1	Reference T1 wiki:460147	САН ИнБев
+N2	Reference T2 wiki:2313101	Десна (пивкомбинат)
+N3	Reference T3 wiki:1475551	Бизнес Аналитика
+A1	IsLink T2
+A2	IsLink T3

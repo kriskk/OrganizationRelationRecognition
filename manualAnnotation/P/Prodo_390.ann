@@ -1,0 +1,6 @@
+T1	Organization 0 5	Продо
+T2	Organization 171 193	PricewaterhouseCoopers
+N1	Reference T1 wiki:1023654	Продо
+N2	Reference T2 wiki:275101	PricewaterhouseCoopers
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

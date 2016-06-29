@@ -1,0 +1,5 @@
+T1	Organization 0 7	Chevron
+T2	Organization 111 121	ExxonMobil
+N1	Reference T1 wiki:420107	Chevron
+N2	Reference T2 wiki:176152	ExxonMobil
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 19	ADV/web-engineering
+T2	Organization 306 308	1С
+N1	Reference T1 wiki:1972961	ADV/web-engineering
+N2	Reference T2 wiki:34936	1С
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

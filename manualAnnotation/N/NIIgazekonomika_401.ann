@@ -1,0 +1,5 @@
+T1	Organization 0 15	НИИгазэкономика
+T2	Organization 243 256	ОАО «Газпром»
+N1	Reference T1 wiki:2994908	НИИгазэкономика
+N2	Reference T2 wiki:44754	ОАО «Газпром»
+A1	TypeRel T2 Holder

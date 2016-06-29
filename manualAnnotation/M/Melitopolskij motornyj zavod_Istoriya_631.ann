@@ -1,0 +1,8 @@
+T1	Organization 0 29	Мелитопольский моторный завод
+T2	Organization 236 245	«АвтоЗАЗ»
+T3	Organization 563 603	Запорожский автомобилестроительный завод
+N1	Reference T1 wiki:3439187	Мелитопольский моторный завод
+N2	Reference T2 wiki:683481	Запорожский автомобилестроительный завод
+N3	Reference T3 wiki:683481	Запорожский автомобилестроительный завод
+A2	IsLink T3
+A1	TypeRel T2 Holder

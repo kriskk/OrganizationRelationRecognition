@@ -1,0 +1,6 @@
+T1	Organization 0 7	Ильсанъ
+T2	Organization 178 194	The Ocean Resort
+N1	Reference T1 wiki:3548759	Ильсанъ
+N2	Reference T2 wiki:3540816	The Ocean Resort
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

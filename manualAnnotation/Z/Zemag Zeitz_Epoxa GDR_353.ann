@@ -1,0 +1,5 @@
+T1	Organization 0 11	Zemag Zeitz
+T2	Organization 339 345	TAKRAF
+N1	Reference T1 wiki:2495407	Zemag Zeitz
+N2	Reference T2 wiki:2494082	TAKRAF
+A1	TypeRel T2 Holder

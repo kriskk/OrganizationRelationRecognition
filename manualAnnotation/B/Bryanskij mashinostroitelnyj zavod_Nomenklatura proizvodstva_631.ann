@@ -1,0 +1,5 @@
+T1	Organization 0 33	Брянский машиностроительный завод
+T2	Organization 300 308	Wärtsilä
+N1	Reference T1 wiki:289532	Брянский машиностроительный завод
+N2	Reference T2 wiki:951949	Wärtsilä
+A1	IsLink T2

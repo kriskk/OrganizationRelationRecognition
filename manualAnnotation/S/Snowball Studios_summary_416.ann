@@ -1,0 +1,29 @@
+T1	Organization 0 16	Snowball Studios
+T2	Organization 250 252	1С
+T3	Organization 548 562	Amanita Design
+T4	Organization 635 645	CD Projekt
+T5	Organization 736 745	NovaLogic
+T6	Organization 773 792	Paradox Interactive
+T7	Organization 871 891	Stardock Corporation
+T8	Organization 915 929	Larian Studios
+T9	Organization 971 981	TaleWorlds
+T10	Organization 1124 1126	1С
+N1	Reference T1 wiki:992796	Snowball Studios
+N2	Reference T2 wiki:34936	1С
+N3	Reference T3 wiki:3235666	Amanita Design
+N4	Reference T4 wiki:1275736	CD Projekt
+N5	Reference T5 wiki:1920455	NovaLogic
+N6	Reference T6 wiki:322193	Paradox Interactive
+N7	Reference T7 wiki:2288328	Stardock
+N8	Reference T8 wiki:3224291	Larian Studios
+N9	Reference T9 wiki:2345580	TaleWorlds
+N10	Reference T10 wiki:34936	1С
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10

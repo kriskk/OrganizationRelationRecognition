@@ -1,0 +1,6 @@
+T1	Organization 0 19	Мегаплан (компания)
+T2	Organization 212 236	студией Артемия Лебедева
+N1	Reference T1 wiki:3259732	Мегаплан (компания)
+N2	Reference T2 wiki:156470	Студия Артемия Лебедева
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

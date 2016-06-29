@@ -1,0 +1,5 @@
+T1	Organization 0 38	Знамя Труда (машиностроительный завод)
+T2	Organization 71 74	МиГ
+N1	Reference T1 wiki:3001562	Знамя Труда (машиностроительный завод)
+N2	Reference T2 wiki:26999	МиГ (компания)
+A1	IsLink T2

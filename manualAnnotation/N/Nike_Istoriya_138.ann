@@ -1,0 +1,6 @@
+T1	Organization 0 4	Nike
+T2	Organization 309 314	ASICS
+N1	Reference T1 wiki:277297	Nike
+N2	Reference T2 wiki:3505282	ASICS
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

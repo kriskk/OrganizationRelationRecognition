@@ -1,0 +1,6 @@
+T1	Organization 0 5	Prada
+T2	Organization 191 195	Puig
+N1	Reference T1 wiki:1029013	Prada
+N2	Reference T2 wiki:4444545	Puig
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 24	Industrial Light & Magic
+T2	Organization 242 258	20th Century Fox
+N1	Reference T1 wiki:1796141	Industrial Light & Magic
+N2	Reference T2 wiki:272376	20th Century Fox
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 16	BFG Technologies
+T2	Organization 240 243	AMD
+N1	Reference T1 wiki:4131235	BFG Technologies
+N2	Reference T2 wiki:19981	AMD
+A1	IsLink T2

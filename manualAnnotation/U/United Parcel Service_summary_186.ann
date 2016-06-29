@@ -1,0 +1,6 @@
+T1	Organization 0 21	United Parcel Service
+T2	Organization 198 209	TNT Express
+N1	Reference T1 wiki:1122885	United Parcel Service
+N2	Reference T2 wiki:3269943	TNT Express
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

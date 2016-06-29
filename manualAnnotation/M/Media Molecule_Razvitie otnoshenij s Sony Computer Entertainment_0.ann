@@ -1,0 +1,10 @@
+T1	Organization 0 14	Media Molecule
+T2	Organization 232 259	Sony Computer Entertainment
+T3	Organization 401 428	Sony Computer Entertainment
+N1	Reference T1 wiki:2502541	Media Molecule
+N2	Reference T2 wiki:1454994	Sony Computer Entertainment
+N3	Reference T3 wiki:1454994	Sony Computer Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Holder

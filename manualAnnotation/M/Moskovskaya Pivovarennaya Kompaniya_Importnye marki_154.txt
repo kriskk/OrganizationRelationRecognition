@@ -1,0 +1,20 @@
+Московская Пивоваренная Компания
+@Торговые марки компании
+@Импортные марки
+1866,415,154
+
+	 Bombardier Premium Bitter, Англия
+	 Blanche des Neiges, Бельгия
+	 Spaten, Германия
+	 Schofferhofer, Германия
+	 Harp Lager, Ирландия
+	 Franziskaner, Германия
+	 Grimbergen, Бельгия
+	 Perrier, Франция
+	 Vittel, Германия
+	 San Pelligrino, Италия
+	 Pago, Австрия
+	 AriZona, США
+	 Contrex, Франция
+
+

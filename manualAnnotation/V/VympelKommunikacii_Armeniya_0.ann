@@ -1,0 +1,23 @@
+T1	Organization 0 19	Вымпел-Коммуникации
+T2	Organization 162 165	OTE
+T3	Organization 233 241	ArmenTel
+T4	Organization 320 328	ArmenTel
+T5	Organization 382 390	ArmenTel
+T6	Organization 437 445	ArmenTel
+T7	Organization 658 666	ArmenTel
+N1	Reference T1 wiki:70736	Вымпел-Коммуникации
+N2	Reference T2 wiki:3772734	OTE
+N3	Reference T3 wiki:1342341	ArmenTel
+N4	Reference T4 wiki:1342341	ArmenTel
+N5	Reference T5 wiki:1342341	ArmenTel
+N6	Reference T6 wiki:1342341	ArmenTel
+N7	Reference T7 wiki:1342341	ArmenTel
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Cooperator
+A8	TypeRel T3 Subsidiary
+A9	TypeRel T5 Subsidiary

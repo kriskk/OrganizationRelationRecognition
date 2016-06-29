@@ -1,0 +1,9 @@
+T1	Organization 0 4	ИДДК
+T2	Organization 191 211	Alawar Entertainment
+T3	Organization 417 422	ПРОМТ
+N1	Reference T1 wiki:1076789	ИДДК
+N2	Reference T2 wiki:263378	Alawar Entertainment
+N3	Reference T3 wiki:141716	ПРОМТ
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

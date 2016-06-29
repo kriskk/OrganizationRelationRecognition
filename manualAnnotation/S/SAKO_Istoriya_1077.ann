@@ -1,0 +1,10 @@
+T1	Organization 0 4	SAKO
+T2	Organization 275 282	«Нокиа»
+T3	Organization 552 561	«Беретта»
+N1	Reference T1 wiki:4085259	SAKO
+N2	Reference T2 wiki:56405	Nokia
+N3	Reference T3 wiki:918067	Beretta
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

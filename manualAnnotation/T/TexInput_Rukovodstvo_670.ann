@@ -1,0 +1,5 @@
+T1	Organization 0 8	ТехИнпут
+T2	Organization 206 216	ExxonMobil
+N1	Reference T1 wiki:4449031	ТехИнпут
+N2	Reference T2 wiki:176152	ExxonMobil
+A1	IsLink T2

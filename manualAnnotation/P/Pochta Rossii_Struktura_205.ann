@@ -1,0 +1,10 @@
+T1	Organization 0 12	Почта России
+T2	Organization 186 229	Главный центр магистральных перевозок почты
+T3	Organization 262 278	EMS Почта России
+N1	Reference T1 wiki:234849	Почта России
+N2	Reference T2 wiki:1267157	Главный центр магистральных перевозок почты
+N3	Reference T3 wiki:2901307	EMS Почта России
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

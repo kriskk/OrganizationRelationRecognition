@@ -1,0 +1,5 @@
+T1	Organization 0 19	PSA Peugeot Citroën
+T2	Organization 176 184	Faurecia
+N1	Reference T1 wiki:226616	PSA Peugeot Citroën
+N2	Reference T2 wiki:3836270	Faurecia
+A1	TypeRel T2 Subsidiary

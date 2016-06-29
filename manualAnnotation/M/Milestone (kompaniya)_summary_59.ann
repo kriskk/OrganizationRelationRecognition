@@ -1,0 +1,5 @@
+T1	Organization 0 20	Milestone (компания)
+T2	Organization 262 269	Compile
+N1	Reference T1 wiki:1719742	Milestone (компания)
+N2	Reference T2 wiki:1720936	Compile
+A1	TypeRel T2 Personnel

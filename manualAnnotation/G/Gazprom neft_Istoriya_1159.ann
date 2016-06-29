@@ -1,0 +1,9 @@
+T1	Organization 0 13	Газпром нефть
+T2	Organization 186 190	ЮКОС
+T3	Organization 331 338	Газпром
+N1	Reference T1 wiki:121955	Газпром нефть
+N2	Reference T2 wiki:6032	ЮКОС
+N3	Reference T3 wiki:44754	Газпром
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

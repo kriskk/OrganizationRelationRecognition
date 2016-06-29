@@ -1,0 +1,5 @@
+T1	Organization 0 20	Slightly Mad Studios
+T2	Organization 259 266	Ferrari
+N1	Reference T1 wiki:2347334	Slightly Mad Studios
+N2	Reference T2 wiki:124051	Ferrari
+A1	IsLink T2

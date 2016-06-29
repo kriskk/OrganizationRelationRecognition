@@ -1,0 +1,5 @@
+T1	Organization 0 8	Евросеть
+T2	Organization 520 527	МегаФон
+N1	Reference T1 wiki:168895	Евросеть
+N2	Reference T2 wiki:70933	МегаФон
+A1	IsLink T2

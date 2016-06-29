@@ -1,0 +1,6 @@
+T1	Organization 0 11	Icon Comics
+T2	Organization 98 111	Marvel Comics
+N1	Reference T1 wiki:2964326	Icon Comics
+N2	Reference T2 wiki:351306	Marvel Comics
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 13	Eesti Raudtee
+T2	Organization 212 226	Elektriraudtee
+N1	Reference T1 wiki:1109264	Eesti Raudtee
+N2	Reference T2 wiki:3720653	Elektriraudtee
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

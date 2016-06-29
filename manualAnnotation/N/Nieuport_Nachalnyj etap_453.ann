@@ -1,0 +1,6 @@
+T1	Organization 0 8	Nieuport
+T2	Organization 337 352	Блерио Эронотик
+N1	Reference T1 wiki:3288716	Nieuport
+N2	Reference T2 wiki:3392438	Blériot Aéronautique
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

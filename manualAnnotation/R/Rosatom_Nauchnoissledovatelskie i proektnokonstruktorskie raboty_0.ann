@@ -1,0 +1,5 @@
+T1	Organization 0 7	Росатом
+T2	Organization 255 275	ОАО «Атомэнергопром»
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:1402114	Атомэнергопром
+A1	TypeRel T2 Holder

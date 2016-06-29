@@ -1,0 +1,5 @@
+T1	Organization 0 11	TeliaSonera
+T2	Organization 236 243	Мегафон
+N1	Reference T1 wiki:177779	TeliaSonera
+N2	Reference T2 wiki:70933	МегаФон
+A1	IsLink T2

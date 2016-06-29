@@ -1,0 +1,5 @@
+T1	Organization 0 30	Межрегиональный Транзиттелеком
+T2	Organization 232 242	Ростелеком
+N1	Reference T1 wiki:638758	Межрегиональный Транзиттелеком
+N2	Reference T2 wiki:145844	Ростелеком
+A1	TypeRel T2 Competitor

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Днепргидроэнерго
+T2	Organization 49 60	Днепрэнерго
+N1	Reference T1 wiki:2609959	Днепргидроэнерго
+N2	Reference T2 wiki:2711493	Днепрэнерго
+A1	IsLink T2

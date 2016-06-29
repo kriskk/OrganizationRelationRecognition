@@ -1,0 +1,6 @@
+T1	Organization 0 9	Питеравто
+T2	Organization 345 350	ГолАЗ
+N1	Reference T1 wiki:709768	Питеравто
+N2	Reference T2 wiki:273404	ГолАЗ
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

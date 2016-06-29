@@ -1,0 +1,5 @@
+T1	Organization 0 7	Росатом
+T2	Organization 266 308	Балтийском заводе имени Серго Орджоникидзе
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:773298	Балтийский завод
+A1	IsLink T2

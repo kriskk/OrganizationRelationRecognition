@@ -1,0 +1,5 @@
+T1	Organization 0 6	Thales
+T2	Organization 187 198	Thomson-CSF
+N1	Reference T1 wiki:601175	Thales
+N2	Reference T2 wiki:601175	Thomson-CSF
+A1	IsLink T2

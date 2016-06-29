@@ -1,0 +1,5 @@
+T1	Organization 0 10	Группа ГАЗ
+T2	Organization 353 367	Renault Trucks
+N1	Reference T1 wiki:21473	Группа ГАЗ
+N2	Reference T2 wiki:318366	Renault Trucks
+A1	TypeRel T2 Cooperator

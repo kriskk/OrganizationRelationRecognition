@@ -1,0 +1,13 @@
+T1	Organization 0 10	Группа РТМ
+T2	Organization 132 150	Сибирского цемента
+T3	Organization 188 193	Финам
+T4	Organization 206 220	JPMorgan Chase
+N1	Reference T1 wiki:3028978	Группа РТМ
+N2	Reference T2 wiki:153788	Сибирский цемент
+N3	Reference T3 wiki:1527933	Финам
+N4	Reference T4 wiki:374499	JPMorgan Chase
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel
+A5	TypeRel T4 Personnel

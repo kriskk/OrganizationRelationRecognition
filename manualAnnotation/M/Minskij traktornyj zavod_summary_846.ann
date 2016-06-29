@@ -1,0 +1,6 @@
+T1	Organization 0 24	Минский тракторный завод
+T2	Organization 208 233	Минского моторного завода
+N1	Reference T1 wiki:103703	Минский тракторный завод
+N2	Reference T2 wiki:1077227	Минский моторный завод
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

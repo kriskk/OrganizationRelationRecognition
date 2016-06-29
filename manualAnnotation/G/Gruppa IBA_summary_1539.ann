@@ -1,0 +1,22 @@
+T1	Organization 0 10	Группа IBA
+T2	Organization 327 330	IBM
+T3	Organization 332 335	SAP
+T4	Organization 337 346	Microsoft
+T5	Organization 348 354	Novell
+T6	Organization 356 358	1С
+N1	Reference T1 wiki:941514	Группа IBA
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:81959	SAP
+N4	Reference T4 wiki:11987	Microsoft
+N5	Reference T5 wiki:21831	Novell
+N6	Reference T6 wiki:34936	1С
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

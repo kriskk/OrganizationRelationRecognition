@@ -1,0 +1,14 @@
+T1	Organization 0 33	Северодонецкая авторемонтная база
+T2	Organization 226 229	ЯМЗ
+T3	Organization 231 236	КамАЗ
+T4	Organization 334 337	ЗМЗ
+T5	Organization 349 353	КрАЗ
+N1	Reference T1 wiki:3522969	Северодонецкая авторемонтная база
+N2	Reference T2 wiki:916530	ЯМЗ
+N3	Reference T3 wiki:169714	КамАЗ
+N4	Reference T4 wiki:1006237	Заволжский моторный завод
+N5	Reference T5 wiki:606512	Кременчугский автомобильный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

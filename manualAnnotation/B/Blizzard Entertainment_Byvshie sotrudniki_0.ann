@@ -1,0 +1,8 @@
+T1	Organization 0 22	Blizzard Entertainment
+T2	Organization 167 183	Flagship Studios
+T3	Organization 301 309	ArenaNet
+N1	Reference T1 wiki:202669	Blizzard Entertainment
+N2	Reference T2 wiki:2501777	Flagship Studios
+N3	Reference T3 wiki:3970413	ArenaNet
+A1	IsLink T2
+A2	IsLink T3

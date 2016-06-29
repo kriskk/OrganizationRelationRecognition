@@ -1,0 +1,5 @@
+T1	Organization 0 11	Burger King
+T2	Organization 197 210	Goldman Sachs
+N1	Reference T1 wiki:196541	Burger King
+N2	Reference T2 wiki:144097	Goldman Sachs
+A1	IsLink T2

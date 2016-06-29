@@ -1,0 +1,6 @@
+T1	Organization 0 19	Kingston Technology
+T2	Organization 194 201	Lexmark
+N1	Reference T1 wiki:967056	Kingston Technology
+N2	Reference T2 wiki:1881753	Lexmark
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

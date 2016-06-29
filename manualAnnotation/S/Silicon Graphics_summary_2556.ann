@@ -1,0 +1,8 @@
+T1	Organization 0 16	Silicon Graphics
+T2	Organization 215 220	Intel
+T3	Organization 334 339	Intel
+N1	Reference T1 wiki:136151	Silicon Graphics
+N2	Reference T2 wiki:762172	Intel
+N3	Reference T3 wiki:762172	Intel
+A1	IsLink T2
+A2	IsLink T3

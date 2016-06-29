@@ -1,0 +1,5 @@
+T1	Organization 0 32	Ржевский краностроительный завод
+T2	Organization 232 251	Лейпцигской ярмарке
+N1	Reference T1 wiki:2545828	Ржевский краностроительный завод
+N2	Reference T2 wiki:1544794	Лейпцигская ярмарка
+A1	TypeRel T2 Other

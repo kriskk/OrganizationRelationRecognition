@@ -1,0 +1,5 @@
+T1	Organization 0 16	Nippon Animation
+T2	Organization 281 287	Ghibli
+N1	Reference T1 wiki:2363379	Nippon Animation
+N2	Reference T2 wiki:8977	Ghibli
+A1	TypeRel T2 Personnel

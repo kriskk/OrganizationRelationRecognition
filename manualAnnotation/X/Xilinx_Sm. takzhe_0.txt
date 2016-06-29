@@ -1,0 +1,18 @@
+Xilinx
+@См. также
+3071,0
+
+
+См. также
+
+ PicoBlaze
+	 MicroBlaze
+
+
+ Конкуренты Xilinx:
+	 Actel
+		 Altera
+		 Atmel
+		 Lattice semiconductor
+
+

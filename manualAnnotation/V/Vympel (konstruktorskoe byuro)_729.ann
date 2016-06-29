@@ -1,0 +1,6 @@
+T1	Organization 0 29	Вымпел (конструкторское бюро)
+T2	Organization 186 217	Тактическое ракетное вооружение
+N1	Reference T1 wiki:1491743	Вымпел (конструкторское бюро)
+N2	Reference T2 wiki:551806	Тактическое ракетное вооружение
+A1	IsLink T2
+A2	TypeRel T2 Holder

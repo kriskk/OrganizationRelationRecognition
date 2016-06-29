@@ -1,0 +1,5 @@
+T1	Organization 0 25	Минский Комаровский рынок
+T2	Organization 58 82	Минский Червенский рынок
+N1	Reference T1 wiki:1789297	Минский Комаровский рынок
+N2	Reference T2 wiki:3292664	Минский Червенский рынок
+A1	IsLink T2

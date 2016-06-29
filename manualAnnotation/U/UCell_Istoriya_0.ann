@@ -1,0 +1,8 @@
+T1	Organization 0 5	UCell
+T2	Organization 113 124	TeliaSonera
+T3	Organization 284 295	TeliaSonera
+N1	Reference T1 wiki:1722391	UCell
+N2	Reference T2 wiki:177779	TeliaSonera
+N3	Reference T3 wiki:177779	TeliaSonera
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,6 @@
+T1	Organization 0 23	Interplay Entertainment
+T2	Organization 279 294	Electronic Arts
+N1	Reference T1 wiki:87238	Interplay Entertainment
+N2	Reference T2 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 13	Уралоргсинтез
+T2	Organization 194 207	СИБУР Холдинг
+N1	Reference T1 wiki:3902517	Уралоргсинтез
+N2	Reference T2 wiki:144869	СИБУР
+A1	TypeRel T2 Holder

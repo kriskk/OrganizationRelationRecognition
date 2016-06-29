@@ -1,0 +1,5 @@
+T1	Organization 0 11	Рус-Рейтинг
+T2	Organization 244 254	Эксперт РА
+N1	Reference T1 wiki:4218591	Рус-Рейтинг
+N2	Reference T2 wiki:363296	Эксперт РА
+A1	IsLink T2

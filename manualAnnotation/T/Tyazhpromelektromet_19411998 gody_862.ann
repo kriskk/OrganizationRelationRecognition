@@ -1,0 +1,23 @@
+T1	Organization 0 17	Тяжпромэлектромет
+T2	Organization 329 349	Тяжпромэлектропроект
+T3	Organization 427 447	Тяжпромэлектропроект
+T4	Organization 669 689	Тяжпромэлектропроект
+T5	Organization 897 917	Тяжпромэлектропроект
+T6	Organization 1118 1138	Тяжпромэлектропроект
+T7	Organization 1324 1344	Тяжпромэлектропроект
+T8	Organization 1595 1615	Тяжпромэлектропроект
+N1	Reference T1 wiki:4192925	Тяжпромэлектромет
+N2	Reference T2 wiki:344790	Тяжпромэлектропроект
+N3	Reference T3 wiki:344790	Тяжпромэлектропроект
+N4	Reference T4 wiki:344790	Тяжпромэлектропроект
+N5	Reference T5 wiki:344790	Тяжпромэлектропроект
+N6	Reference T6 wiki:344790	Тяжпромэлектропроект
+N7	Reference T7 wiki:344790	Тяжпромэлектропроект
+N8	Reference T8 wiki:344790	Тяжпромэлектропроект
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

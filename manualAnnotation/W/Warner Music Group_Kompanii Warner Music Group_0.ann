@@ -1,0 +1,10 @@
+T1	Organization 0 18	Warner Music Group
+T2	Organization 86 106	Warner Bros. Records
+T3	Organization 158 180	Warner Music Nashville
+N1	Reference T1 wiki:197246	Warner Music Group
+N2	Reference T2 wiki:197246	Warner Bros. Records
+N3	Reference T3 wiki:197246	Warner Music Nashville
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

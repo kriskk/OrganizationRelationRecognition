@@ -1,0 +1,6 @@
+T1	Organization 0 17	Витязь (компания)
+T2	Organization 197 236	Челябинский тракторный завод — Уралтрак
+N1	Reference T1 wiki:1733545	Витязь (компания)
+N2	Reference T2 wiki:2404509	Челябинский тракторный завод — Уралтрак
+A1	IsLink T2
+A2	TypeRel T2 Holder

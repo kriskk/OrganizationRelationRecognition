@@ -1,0 +1,6 @@
+T1	Organization 0 20	Victor Entertainment
+T2	Organization 199 202	JVC
+N1	Reference T1 wiki:1061465	Victor Entertainment
+N2	Reference T2 wiki:294288	JVC
+A1	IsLink T2
+A2	TypeRel T2 Holder

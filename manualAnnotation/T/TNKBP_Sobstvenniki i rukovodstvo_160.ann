@@ -1,0 +1,17 @@
+T1	Organization 0 6	ТНК-BP
+T2	Organization 258 260	BP
+T3	Organization 282 293	Альфа-групп
+T4	Organization 354 360	Ренова
+T5	Organization 466 475	Славнефти
+T6	Organization 967 975	Роснефть
+N1	Reference T1 wiki:17252	ТНК-BP
+N2	Reference T2 wiki:189320	BP
+N3	Reference T3 wiki:141637	Альфа-групп
+N4	Reference T4 wiki:158879	Ренова
+N5	Reference T5 wiki:205107	Славнефть
+N6	Reference T6 wiki:139770	Роснефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

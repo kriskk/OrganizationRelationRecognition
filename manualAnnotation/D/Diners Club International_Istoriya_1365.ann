@@ -1,0 +1,11 @@
+T1	Organization 0 25	Diners Club International
+T2	Organization 323 332	CitiGroup
+T3	Organization 395 405	MasterCard
+T4	Organization 668 695	Discover Financial Services
+N1	Reference T1 wiki:3339710	Diners Club International
+N2	Reference T2 wiki:374508	Citigroup
+N3	Reference T3 wiki:36409	MasterCard
+N4	Reference T4 wiki:4439539	Discover Financial Services
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

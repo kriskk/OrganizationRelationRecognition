@@ -1,0 +1,5 @@
+T1	Organization 0 33	Южный инженерный центр энергетики
+T2	Organization 192 212	ОАО РАО «ЕЭС России»
+N1	Reference T1 wiki:2874218	Южный инженерный центр энергетики
+N2	Reference T2 wiki:1432138	РАО «ЕЭС России»
+A1	IsLink T2

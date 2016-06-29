@@ -1,0 +1,5 @@
+T1	Organization 0 51	Новосибирский металлургический завод имени Кузьмина
+T2	Organization 262 267	Эстар
+N1	Reference T1 wiki:4250701	Новосибирский металлургический завод имени Кузьмина
+N2	Reference T2 wiki:376151	Эстар
+A1	TypeRel T2 Holder

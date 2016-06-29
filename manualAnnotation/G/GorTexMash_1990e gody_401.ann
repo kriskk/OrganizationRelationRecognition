@@ -1,0 +1,6 @@
+T1	Organization 0 9	ГорТехМаш
+T2	Organization 324 337	ОАО «Уралмаш»
+N1	Reference T1 wiki:2695380	ГорТехМаш
+N2	Reference T2 wiki:270860	Уральский завод тяжёлого машиностроения
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

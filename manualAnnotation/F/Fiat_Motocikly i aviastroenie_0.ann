@@ -1,0 +1,8 @@
+T1	Organization 0 4	Fiat
+T2	Organization 136 143	Piaggio
+T3	Organization 411 418	Ferrari
+N1	Reference T1 wiki:91784	Fiat
+N2	Reference T2 wiki:981321	Piaggio
+N3	Reference T3 wiki:124051	Ferrari
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,9 @@
+T1	Organization 0 11	Газ Украины
+T2	Organization 96 112	Нефтегаз Украины
+T3	Organization 269 285	Нефтегаз Украины
+N1	Reference T1 wiki:129589	Газ Украины
+N2	Reference T2 wiki:128243	Нефтегаз Украины
+N3	Reference T3 wiki:128243	Нефтегаз Украины
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

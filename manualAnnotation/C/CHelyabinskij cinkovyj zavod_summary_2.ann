@@ -1,0 +1,8 @@
+T1	Organization 0 26	Челябинский цинковый завод
+T2	Organization 203 207	ЧТПЗ
+T3	Organization 245 249	УГМК
+N1	Reference T1 wiki:293963	Челябинский цинковый завод
+N2	Reference T2 wiki:224472	ЧТПЗ
+N3	Reference T3 wiki:171944	Уральская горно-металлургическая компания
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 9	En+ Group
+T2	Organization 165 184	Российский алюминий
+T3	Organization 186 199	ЕвроСибЭнерго
+N1	Reference T1 wiki:1909698	En+ Group
+N2	Reference T2 wiki:598084	Российский алюминий
+N3	Reference T3 wiki:1395741	ЕвроСибЭнерго
+A1	IsLink T2
+A2	IsLink T3

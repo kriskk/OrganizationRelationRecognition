@@ -1,0 +1,8 @@
+T1	Organization 0 7	Acronis
+T2	Organization 285 291	SWsoft
+T3	Organization 299 305	SWsoft
+N1	Reference T1 wiki:1578313	Acronis
+N2	Reference T2 wiki:1356173	SWsoft
+N3	Reference T3 wiki:1356173	SWsoft
+A1	IsLink T2
+A2	IsLink T3

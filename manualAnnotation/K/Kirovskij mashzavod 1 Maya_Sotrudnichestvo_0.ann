@@ -1,0 +1,10 @@
+T1	Organization 0 24	Кировский машзавод 1 Мая
+T2	Organization 112 115	РЖД
+T3	Organization 235 257	Железные дороги Якутии
+N1	Reference T1 wiki:1613313	Кировский машзавод 1 Мая
+N2	Reference T2 wiki:106901	РЖД
+N3	Reference T3 wiki:558408	Железные дороги Якутии
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

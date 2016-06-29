@@ -1,0 +1,8 @@
+T1	Organization 0 8	Ericsson
+T2	Organization 270 274	Sony
+T3	Organization 277 312	Sony Ericsson Mobile Communications
+N1	Reference T1 wiki:711402	Ericsson
+N2	Reference T2 wiki:73019	Sony
+N3	Reference T3 wiki:120852	Sony Ericsson Mobile Communications
+A1	IsLink T2
+A2	IsLink T3

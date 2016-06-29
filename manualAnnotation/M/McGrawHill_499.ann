@@ -1,0 +1,6 @@
+T1	Organization 0 11	McGraw-Hill
+T2	Organization 171 188	Standard & Poor's
+N1	Reference T1 wiki:757338	McGraw-Hill
+N2	Reference T2 wiki:198286	Standard & Poor's
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

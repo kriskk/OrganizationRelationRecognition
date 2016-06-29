@@ -1,0 +1,6 @@
+T1	Organization 0 27	Philip Morris International
+T2	Organization 237 249	Altria Group
+N1	Reference T1 wiki:3888163	Philip Morris International
+N2	Reference T2 wiki:774080	Altria Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

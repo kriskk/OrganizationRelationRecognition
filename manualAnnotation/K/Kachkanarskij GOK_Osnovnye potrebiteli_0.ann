@@ -1,0 +1,5 @@
+T1	Organization 0 16	Качканарский ГОК
+T2	Organization 115 147	Чусовской металлургический завод
+N1	Reference T1 wiki:153191	Качканарский ГОК
+N2	Reference T2 wiki:717044	Чусовской металлургический завод
+A1	TypeRel T2 Cooperator

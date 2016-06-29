@@ -1,0 +1,5 @@
+T1	Organization 0 25	Красносельский Ювелирпром
+T2	Organization 194 207	Алмаз-Холдинг
+N1	Reference T1 wiki:2687750	Красносельский Ювелирпром
+N2	Reference T2 wiki:2690904	Алмаз-Холдинг
+A1	TypeRel T2 Holder

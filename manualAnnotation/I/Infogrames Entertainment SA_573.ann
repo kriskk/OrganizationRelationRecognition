@@ -1,0 +1,5 @@
+T1	Organization 0 28	Infogrames Entertainment, SA
+T2	Organization 194 199	Atari
+N1	Reference T1 wiki:3469859	Infogrames Entertainment, SA
+N2	Reference T2 wiki:308218	Atari
+A1	TypeRel T2 Subsidiary

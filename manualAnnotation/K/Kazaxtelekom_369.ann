@@ -1,0 +1,5 @@
+T1	Organization 0 12	Казахтелеком
+T2	Organization 183 194	Ernst&Young
+N1	Reference T1 wiki:702503	Казахтелеком
+N2	Reference T2 wiki:385728	Ernst&Young
+A1	TypeRel T2 Cooperator

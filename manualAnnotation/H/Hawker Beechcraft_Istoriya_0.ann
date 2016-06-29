@@ -1,0 +1,18 @@
+T1	Organization 0 17	Hawker Beechcraft
+T2	Organization 96 122	Beech Aircraft Corporation
+T3	Organization 144 160	Raytheon Company
+T4	Organization 327 344	British Aerospace
+T5	Organization 401 411	Beechcraft
+N1	Reference T1 wiki:1116438	Hawker Beechcraft
+N2	Reference T2 wiki:643372	Beechcraft
+N3	Reference T3 wiki:769599	Raytheon
+N4	Reference T4 wiki:2452934	British Aerospace
+N5	Reference T5 wiki:643372	Beechcraft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Holder
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Alias

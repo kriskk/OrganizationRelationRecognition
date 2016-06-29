@@ -1,0 +1,12 @@
+T1	Organization 0 13	Mercedes-Benz
+T2	Organization 301 304	AMG
+T3	Organization 306 314	Carlsson
+T4	Organization 383 390	Porsche
+N1	Reference T1 wiki:40401	Mercedes-Benz
+N2	Reference T2 wiki:1316945	Mercedes-AMG GmbH
+N3	Reference T3 wiki:1453971	Carlsson
+N4	Reference T4 wiki:403194	Porsche
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T4 Cooperator

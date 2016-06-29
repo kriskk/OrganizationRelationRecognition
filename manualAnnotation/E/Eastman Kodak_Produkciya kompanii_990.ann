@@ -1,0 +1,14 @@
+T1	Organization 0 13	Eastman Kodak
+T2	Organization 205 213	Polaroid
+T3	Organization 420 437	Chinon Industries
+T4	Organization 607 614	Lexmark
+N1	Reference T1 wiki:313661	Eastman Kodak
+N2	Reference T2 wiki:1538598	Polaroid
+N3	Reference T3 wiki:1907596	Chinon Industries
+N4	Reference T4 wiki:1881753	Lexmark
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

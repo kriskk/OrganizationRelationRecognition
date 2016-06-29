@@ -1,0 +1,14 @@
+T1	Organization 0 9	Интерфакс
+T2	Organization 306 321	Интерфакс-Запад
+T3	Organization 429 436	Moody’s
+T4	Organization 551 567	Dun & Bradstreet
+N1	Reference T1 wiki:109215	Интерфакс
+N2	Reference T2 wiki:1569488	Интерфакс-Запад
+N3	Reference T3 wiki:363292	Moody’s
+N4	Reference T4 wiki:4301802	Dun & Bradstreet
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

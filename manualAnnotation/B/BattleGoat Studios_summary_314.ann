@@ -1,0 +1,5 @@
+T1	Organization 0 18	BattleGoat Studios
+T2	Organization 304 323	Paradox Interactive
+N1	Reference T1 wiki:1806524	BattleGoat Studios
+N2	Reference T2 wiki:322193	Paradox Interactive
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 11	Hudson Soft
+T2	Organization 313 321	Nintendo
+N1	Reference T1 wiki:1734514	Hudson Soft
+N2	Reference T2 wiki:202486	Nintendo
+A1	TypeRel T2 Cooperator

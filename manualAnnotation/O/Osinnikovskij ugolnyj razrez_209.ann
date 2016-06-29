@@ -1,0 +1,6 @@
+T1	Organization 0 29	Осинниковский угольный разрез
+T2	Organization 194 218	ОАО «Кузбассразрезуголь»
+N1	Reference T1 wiki:2266400	Осинниковский угольный разрез
+N2	Reference T2 wiki:171189	Кузбассразрезуголь
+A1	IsLink T2
+A2	TypeRel T2 Holder

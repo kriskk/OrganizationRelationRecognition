@@ -1,0 +1,10 @@
+T1	Organization 0 15	Хортица (завод)
+T2	Organization 194 202	Grundfos
+T3	Organization 215 221	Toyota
+N1	Reference T1 wiki:600936	Хортица (завод)
+N2	Reference T2 wiki:1428492	Grundfos
+N3	Reference T3 wiki:42689	Toyota
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

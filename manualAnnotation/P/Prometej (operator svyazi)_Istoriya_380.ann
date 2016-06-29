@@ -1,0 +1,5 @@
+T1	Organization 0 25	Прометей (оператор связи)
+T2	Organization 222 235	Juniper MX240
+N1	Reference T1 wiki:4181302	Прометей (оператор связи)
+N2	Reference T2 wiki:320144	Juniper
+A1	IsLink T2

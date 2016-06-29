@@ -1,0 +1,13 @@
+T1	Organization 0 9	ПрофМедиа
+T2	Organization 216 228	Выбери радио
+T3	Organization 374 397	Европейской медиагруппы
+T4	Organization 410 432	Сибирский деловой союз
+N1	Reference T1 wiki:179905	ПрофМедиа
+N2	Reference T2 wiki:4083207	Выбери радио
+N3	Reference T3 wiki:1494590	Европейская медиагруппа
+N4	Reference T4 wiki:4189812	Сибирский деловой союз
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T4 Cooperator

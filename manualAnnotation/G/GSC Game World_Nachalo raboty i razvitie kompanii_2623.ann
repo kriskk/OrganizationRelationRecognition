@@ -1,0 +1,9 @@
+T1	Organization 0 14	GSC Game World
+T2	Organization 359 362	THQ
+T3	Organization 632 639	Ubisoft
+N1	Reference T1 wiki:866334	GSC Game World
+N2	Reference T2 wiki:795069	THQ
+N3	Reference T3 wiki:650139	Ubisoft
+A1	IsLink T2
+A2	TypeRel T3 Cooperator
+A3	TypeRel T2 Cooperator

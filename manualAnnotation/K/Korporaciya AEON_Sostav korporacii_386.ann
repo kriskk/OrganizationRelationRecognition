@@ -1,0 +1,5 @@
+T1	Organization 0 15	Корпорация AEON
+T2	Organization 210 216	Boeing
+N1	Reference T1 wiki:2696279	Корпорация AEON
+N2	Reference T2 wiki:156398	Boeing
+A1	IsLink T2

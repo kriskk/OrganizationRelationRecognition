@@ -1,0 +1,11 @@
+T1	Organization 0 13	Japan Display
+T2	Organization 159 163	Sony
+T3	Organization 165 172	Hitachi
+T4	Organization 175 182	Toshiba
+N1	Reference T1 wiki:3903816	Japan Display
+N2	Reference T2 wiki:73019	Sony
+N3	Reference T3 wiki:141241	Hitachi
+N4	Reference T4 wiki:507269	Toshiba
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,5 @@
+T1	Organization 0 10	PetroChina
+T2	Organization 436 446	ExxonMobil
+N1	Reference T1 wiki:375875	PetroChina
+N2	Reference T2 wiki:176152	ExxonMobil
+A1	TypeRel T2 Competitor

@@ -1,0 +1,8 @@
+T1	Organization 0 21	Директмедиа Паблишинг
+T2	Organization 241 243	1С
+T3	Organization 388 410	«Комсомольская правда»
+N1	Reference T1 wiki:2272387	Директмедиа Паблишинг
+N2	Reference T2 wiki:34936	1С
+N3	Reference T3 wiki:2128863	Комсомольская правда (издательский дом)
+A1	IsLink T2
+A2	IsLink T3

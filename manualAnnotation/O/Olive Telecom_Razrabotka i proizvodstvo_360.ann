@@ -1,0 +1,6 @@
+T1	Organization 0 13	Olive Telecom
+T2	Organization 222 230	Qualcomm
+N1	Reference T1 wiki:2640333	Olive Telecom
+N2	Reference T2 wiki:897305	Qualcomm
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

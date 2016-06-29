@@ -1,0 +1,14 @@
+T1	Organization 0 8	Mary Kay
+T2	Organization 194 207	Mercedes-Benz
+T3	Organization 250 254	Ford
+T4	Organization 279 285	Toyota
+N1	Reference T1 wiki:4265516	Mary Kay
+N2	Reference T2 wiki:40401	Mercedes-Benz
+N3	Reference T3 wiki:153236	Ford
+N4	Reference T4 wiki:42689	Toyota
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Other
+A5	TypeRel T3 Other
+A6	TypeRel T4 Other

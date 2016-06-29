@@ -1,0 +1,6 @@
+T1	Organization 0 9	Osaka Gas
+T2	Organization 168 177	Tokyo Gas
+N1	Reference T1 wiki:2011744	Osaka Gas
+N2	Reference T2 wiki:2013438	Tokyo Gas
+A1	IsLink T2
+A2	TypeRel T2 Competitor

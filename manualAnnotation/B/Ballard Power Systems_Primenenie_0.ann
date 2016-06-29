@@ -1,0 +1,8 @@
+T1	Organization 0 21	Ballard Power Systems
+T2	Organization 149 153	Ford
+T3	Organization 166 181	DaimlerChrysler
+N1	Reference T1 wiki:391558	Ballard Power Systems
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:39716	DaimlerChrysler AG
+A1	IsLink T2
+A2	IsLink T3

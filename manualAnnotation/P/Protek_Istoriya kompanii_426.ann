@@ -1,0 +1,5 @@
+T1	Organization 0 6	Протек
+T2	Organization 217 222	Ригла
+N1	Reference T1 wiki:376904	Протек
+N2	Reference T2 wiki:3351142	Ригла
+A1	IsLink T2

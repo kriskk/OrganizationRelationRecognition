@@ -1,0 +1,10 @@
+T1	Organization 0 8	Верофарм
+T2	Organization 177 196	СИА ИНТЕРНЕЙШНЛ ЛТД
+T3	Organization 199 205	Протек
+N1	Reference T1 wiki:2685933	Верофарм
+N2	Reference T2 wiki:2684158	СИА ИНТЕРНЕЙШНЛ ЛТД
+N3	Reference T3 wiki:376904	Протек
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

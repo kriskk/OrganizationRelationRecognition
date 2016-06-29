@@ -1,0 +1,12 @@
+T1	Organization 0 9	Parallels
+T2	Organization 288 293	Apple
+T3	Organization 313 318	Intel
+T4	Organization 728 733	Apple
+N1	Reference T1 wiki:1356173	Parallels
+N2	Reference T2 wiki:39726	Apple
+N3	Reference T3 wiki:762172	Intel
+N4	Reference T4 wiki:39726	Apple
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Cooperator

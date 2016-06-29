@@ -1,0 +1,5 @@
+T1	Organization 0 6	БелСел
+T2	Organization 39 48	Скай Линк
+N1	Reference T1 wiki:386944	БелСел
+N2	Reference T2 wiki:145535	Скай Линк
+A1	IsLink T2

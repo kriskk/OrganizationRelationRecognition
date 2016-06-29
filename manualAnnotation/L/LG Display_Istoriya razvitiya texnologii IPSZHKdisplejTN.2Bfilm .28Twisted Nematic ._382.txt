@@ -1,0 +1,7 @@
+LG Display
+@История развития технологии IPS[[ЖК-дисплей#TN.2Bfilm .28Twisted Nematic .2B film.29]]
+8389,382
+
+ – разработаны матрицы S-IPS (Super IPS), с улучшенным временем отклика.
+	 2001 г. – основные производители панелей, основанных на технологии Hitachi Super-IPS - Hitachi, LG Display и NEC (у NEC эта технология называется иначе - Super Fine TFT).
+	 2002 г. – появились матрицы AS-IPS (Advanced Super-IPS) с улучшенным контрастом.

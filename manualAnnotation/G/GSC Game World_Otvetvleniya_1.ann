@@ -1,0 +1,6 @@
+T1	Organization 0 14	GSC Game World
+T2	Organization 195 203	4A Games
+N1	Reference T1 wiki:866334	GSC Game World
+N2	Reference T2 wiki:2512670	4A Games
+A1	IsLink T2
+A2	TypeRel T2 Personnel

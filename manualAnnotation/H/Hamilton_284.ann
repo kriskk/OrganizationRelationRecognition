@@ -1,0 +1,5 @@
+T1	Organization 0 8	Hamilton
+T2	Organization 173 194	The Swatch Group Ltd.
+N1	Reference T1 wiki:1062515	Hamilton
+N2	Reference T2 wiki:214233	Swatch Group
+A1	TypeRel T2 Holder

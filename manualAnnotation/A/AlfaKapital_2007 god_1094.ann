@@ -1,0 +1,11 @@
+T1	Organization 0 13	Альфа-Капитал
+T2	Organization 294 297	РБК
+T3	Organization 373 376	РБК
+T4	Organization 456 459	РБК
+N1	Reference T1 wiki:1699051	Альфа-Капитал
+N2	Reference T2 wiki:391746	РБК Информационные системы
+N3	Reference T3 wiki:391746	РБК Информационные системы
+N4	Reference T4 wiki:391746	РБК Информационные системы
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

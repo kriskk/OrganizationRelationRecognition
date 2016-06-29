@@ -1,0 +1,5 @@
+T1	Organization 0 8	Solon SE
+T2	Organization 163 182	Франкфуртской бирже
+N1	Reference T1 wiki:269080	Solon SE
+N2	Reference T2 wiki:181408	Deutsche Börse
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 14	Bob Bob Ricard
+T2	Organization 239 246	TimeOut
+N1	Reference T1 wiki:3366898	Bob Bob Ricard
+N2	Reference T2 wiki:3123405	TimeOut
+A1	IsLink T2

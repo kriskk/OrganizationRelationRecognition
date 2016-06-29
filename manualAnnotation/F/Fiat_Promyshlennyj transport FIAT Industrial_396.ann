@@ -1,0 +1,11 @@
+T1	Organization 0 4	Fiat
+T2	Organization 228 238	FIAT Group
+T3	Organization 261 266	IVECO
+T4	Organization 417 422	IVECO
+N1	Reference T1 wiki:91784	Fiat
+N2	Reference T2 wiki:91784	FIAT Group
+N3	Reference T3 wiki:272617	IVECO
+N4	Reference T4 wiki:272617	IVECO
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

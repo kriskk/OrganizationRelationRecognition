@@ -1,0 +1,5 @@
+T1	Organization 0 14	ТАИФ (холдинг)
+T2	Organization 285 293	Татнефть
+N1	Reference T1 wiki:1303554	ТАИФ (холдинг)
+N2	Reference T2 wiki:145661	Татнефть
+A1	IsLink T2

@@ -1,0 +1,11 @@
+T1	Organization 0 11	STX Finland
+T2	Organization 243 272	Royal Caribbean International
+T3	Organization 307 336	Royal Caribbean International
+T4	Organization 391 420	Royal Caribbean International
+N1	Reference T1 wiki:3464301	STX Finland
+N2	Reference T2 wiki:3430803	Royal Caribbean International
+N3	Reference T3 wiki:3430803	Royal Caribbean International
+N4	Reference T4 wiki:3430803	Royal Caribbean International
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

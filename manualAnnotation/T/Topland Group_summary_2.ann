@@ -1,0 +1,8 @@
+T1	Organization 0 13	Topland Group
+T2	Organization 199 204	Tesco
+T3	Organization 221 236	Marks & Spencer
+N1	Reference T1 wiki:749159	Topland Group
+N2	Reference T2 wiki:243169	Tesco
+N3	Reference T3 wiki:1931409	Marks & Spencer
+A1	IsLink T2
+A2	IsLink T3

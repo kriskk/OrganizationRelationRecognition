@@ -1,0 +1,5 @@
+T1	Organization 0 3	НСС
+T2	Organization 162 172	Ростелеком
+N1	Reference T1 wiki:2093483	НСС
+N2	Reference T2 wiki:145844	Ростелеком
+A1	TypeRel T2 Holder

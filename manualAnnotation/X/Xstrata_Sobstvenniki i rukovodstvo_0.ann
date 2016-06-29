@@ -1,0 +1,10 @@
+T1	Organization 0 7	Xstrata
+T2	Organization 92 114	Glencore International
+T3	Organization 286 308	Glencore International
+N1	Reference T1 wiki:205929	Xstrata
+N2	Reference T2 wiki:372443	Glencore International
+N3	Reference T3 wiki:372443	Glencore International
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Merge

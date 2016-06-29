@@ -1,0 +1,13 @@
+T1	Organization 0 18	Gallery (компания)
+T2	Organization 373 377	МЕГА
+T3	Organization 393 399	Магнит
+T4	Organization 486 503	Standard & Poor's
+N1	Reference T1 wiki:1683622	Gallery (компания)
+N2	Reference T2 wiki:259737	МЕГА
+N3	Reference T3 wiki:143658	Магнит (сеть магазинов)
+N4	Reference T4 wiki:198286	Standard & Poor's
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Other

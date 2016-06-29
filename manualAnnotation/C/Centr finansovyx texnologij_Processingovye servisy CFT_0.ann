@@ -1,0 +1,5 @@
+T1	Organization 0 27	Центр финансовых технологий
+T2	Organization 199 213	Золотая Корона
+N1	Reference T1 wiki:771907	Центр финансовых технологий
+N2	Reference T2 wiki:2114697	Золотая Корона
+A1	IsLink T2

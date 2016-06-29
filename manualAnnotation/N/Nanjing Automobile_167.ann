@@ -1,0 +1,6 @@
+T1	Organization 0 18	Nanjing Automobile
+T2	Organization 199 209	SAIC Motor
+N1	Reference T1 wiki:4048040	Nanjing Automobile
+N2	Reference T2 wiki:377731	SAIC Motor
+A1	IsLink T2
+A2	TypeRel T2 Holder

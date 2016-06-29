@@ -1,0 +1,14 @@
+T1	Organization 0 8	Kenworth
+T2	Organization 192 199	Cummins
+T3	Organization 241 246	EATON
+T4	Organization 279 292	Avrin Meritor
+N1	Reference T1 wiki:2477230	Kenworth
+N2	Reference T2 wiki:2407448	Cummins
+N3	Reference T3 wiki:1039999	Eaton Corporation
+N4	Reference T4 wiki:743730	Rockwell Automation
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

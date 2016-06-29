@@ -1,0 +1,10 @@
+T1	Organization 0 20	Газпроминвестхолдинг
+T2	Organization 196 205	Газметалл
+T3	Organization 222 265	Оскольский электрометаллургический комбинат
+N1	Reference T1 wiki:3880246	Газпроминвестхолдинг
+N2	Reference T2 wiki:301665	Газметалл
+N3	Reference T3 wiki:1547697	Оскольский электрометаллургический комбинат
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

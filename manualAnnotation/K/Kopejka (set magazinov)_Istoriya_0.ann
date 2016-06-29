@@ -1,0 +1,18 @@
+T1	Organization 0 24	Копейка (сеть магазинов)
+T2	Organization 116 123	Уралсиб
+T3	Organization 408 415	Уралсиб
+T4	Organization 687 702	X5 Retail Group
+T5	Organization 902 911	Пятёрочки
+N1	Reference T1 wiki:153659	Копейка (сеть магазинов)
+N2	Reference T2 wiki:237228	Уралсиб (ФК)
+N3	Reference T3 wiki:237228	Уралсиб (ФК)
+N4	Reference T4 wiki:353293	X5 Retail Group
+N5	Reference T5 wiki:132128	Пятёрочка (сеть магазинов)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Personnel
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Holder

@@ -1,0 +1,16 @@
+T1	Organization 0 14	Ижорский завод
+T2	Organization 69 107	Объединённые машиностроительные заводы
+T3	Organization 668 714	Союз производителей нефтегазового оборудования
+T4	Organization 730 737	Росатом
+T5	Organization 811 824	Атомэнергомаш
+N1	Reference T1 wiki:601241	Ижорский завод
+N2	Reference T2 wiki:149170	Объединённые машиностроительные заводы
+N3	Reference T3 wiki:1959491	Союз производителей нефтегазового оборудования
+N4	Reference T4 wiki:1299917	Росатом
+N5	Reference T5 wiki:2868760	Атомэнергомаш
+A1	IsLink T2
+A3	IsLink T4
+A4	IsLink T5
+A2	TypeRel T3 Holder
+A5	TypeRel T4 Holder
+A6	TypeRel T5 Holder

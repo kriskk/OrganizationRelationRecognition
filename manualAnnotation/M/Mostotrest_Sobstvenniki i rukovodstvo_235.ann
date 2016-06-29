@@ -1,0 +1,5 @@
+T1	Organization 0 10	Мостотрест
+T2	Organization 262 269	Н-Транс
+N1	Reference T1 wiki:424233	Мостотрест
+N2	Reference T2 wiki:631354	Н-Транс
+A1	TypeRel T2 Personnel

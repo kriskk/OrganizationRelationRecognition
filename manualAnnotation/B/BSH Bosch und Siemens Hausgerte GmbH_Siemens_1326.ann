@@ -1,0 +1,5 @@
+T1	Organization 0 37	BSH Bosch und Siemens Hausgeräte GmbH
+T2	Organization 307 321	Porsche Design
+N1	Reference T1 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
+N2	Reference T2 wiki:403185	Porsche Lizenz- und Handelsgesellschaft mbH & Co. KG
+A1	IsLink T2

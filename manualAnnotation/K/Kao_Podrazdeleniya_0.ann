@@ -1,0 +1,5 @@
+T1	Organization 0 3	Kao
+T2	Organization 51 69	Nivea-Kao Co, Ltd.
+N1	Reference T1 wiki:3122412	Kao
+N2	Reference T2 wiki:2535401	Nivea
+A1	TypeRel T2 Subsidiary

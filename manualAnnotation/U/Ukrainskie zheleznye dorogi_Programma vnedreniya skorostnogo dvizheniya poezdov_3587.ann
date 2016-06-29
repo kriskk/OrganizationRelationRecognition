@@ -1,0 +1,9 @@
+T1	Organization 0 26	Украинские железные дороги
+T2	Organization 290 293	РЖД
+T3	Organization 597 667	Тбилисским электровозостротельным заводом (АО «Электровозостроитель») 
+N1	Reference T1 wiki:384185	Украинские железные дороги
+N2	Reference T2 wiki:106901	РЖД
+N3	Reference T3 wiki:173493	Тбилисский электровозостроительный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

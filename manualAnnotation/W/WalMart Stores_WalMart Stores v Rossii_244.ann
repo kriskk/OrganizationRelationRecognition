@@ -1,0 +1,24 @@
+T1	Organization 0 15	Wal-Mart Stores
+T2	Organization 304 319	X5 Retail Group
+T3	Organization 348 356	Карусель
+T4	Organization 508 513	Лента
+T5	Organization 608 615	Копейка
+T6	Organization 667 679	ФК «Уралсиб»
+T7	Organization 1220 1235	X5 Retail Group
+N1	Reference T1 wiki:243093	Wal-Mart Stores
+N2	Reference T2 wiki:353293	X5 Retail Group
+N3	Reference T3 wiki:367164	Карусель (сеть магазинов)
+N4	Reference T4 wiki:162961	Лента (сеть магазинов)
+N5	Reference T5 wiki:153659	Копейка (сеть магазинов)
+N6	Reference T6 wiki:237228	Уралсиб (ФК)
+N7	Reference T7 wiki:353293	X5 Retail Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Cooperator
+A8	TypeRel T5 Subsidiary
+A9	TypeRel T7 Personnel
+A10	TypeRel T4 Subsidiary

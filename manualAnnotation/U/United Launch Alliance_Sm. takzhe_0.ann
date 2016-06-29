@@ -1,0 +1,8 @@
+T1	Organization 0 22	United Launch Alliance
+T2	Organization 82 87	Боинг
+T3	Organization 112 127	Lockheed Martin
+N1	Reference T1 wiki:2978288	United Launch Alliance
+N2	Reference T2 wiki:156398	Боинг
+N3	Reference T3 wiki:301268	Lockheed Martin
+A1	IsLink T2
+A2	IsLink T3

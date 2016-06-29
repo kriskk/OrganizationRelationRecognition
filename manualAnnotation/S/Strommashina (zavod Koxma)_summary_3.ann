@@ -1,0 +1,5 @@
+T1	Organization 0 26	Строммашина (завод, Кохма)
+T2	Organization 275 280	КамАЗ
+N1	Reference T1 wiki:2601014	Строммашина (завод, Кохма)
+N2	Reference T2 wiki:169714	КамАЗ
+A1	IsLink T2

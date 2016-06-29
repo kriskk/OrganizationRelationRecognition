@@ -1,0 +1,9 @@
+T1	Organization 0 6	Каскол
+T2	Organization 358 374	Балтийский завод
+T3	Organization 405 412	Лазурит
+N1	Reference T1 wiki:257701	Каскол
+N2	Reference T2 wiki:773298	Балтийский завод
+N3	Reference T3 wiki:3828879	Лазурит (конструкторское бюро)
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

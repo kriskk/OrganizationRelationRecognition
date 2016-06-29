@@ -1,0 +1,5 @@
+T1	Organization 0 12	China Unicom
+T2	Organization 200 232	Telefónica Internacional, S.A.U.
+N1	Reference T1 wiki:2862529	China Unicom
+N2	Reference T2 wiki:377249	Telefónica
+A1	IsLink T2

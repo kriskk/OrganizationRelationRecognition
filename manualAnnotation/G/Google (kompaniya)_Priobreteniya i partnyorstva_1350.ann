@@ -1,0 +1,19 @@
+T1	Organization 0 17	Google (компания)
+T2	Organization 340 356	Sun Microsystems
+T3	Organization 394 397	AOL
+T4	Organization 507 516	Microsoft
+T5	Organization 518 523	Nokia
+T6	Organization 526 534	Ericsson
+N1	Reference T1 wiki:265	Google (компания)
+N2	Reference T2 wiki:4777	Sun Microsystems
+N3	Reference T3 wiki:610576	AOL
+N4	Reference T4 wiki:11987	Microsoft
+N5	Reference T5 wiki:56405	Nokia
+N6	Reference T6 wiki:711402	Ericsson
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator

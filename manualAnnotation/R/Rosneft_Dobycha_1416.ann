@@ -1,0 +1,5 @@
+T1	Organization 0 8	Роснефть
+T2	Organization 242 249	Statoil
+N1	Reference T1 wiki:139770	Роснефть
+N2	Reference T2 wiki:308196	Statoil
+A1	TypeRel T2 Cooperator

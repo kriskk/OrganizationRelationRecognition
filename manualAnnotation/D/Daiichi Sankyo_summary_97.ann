@@ -1,0 +1,5 @@
+T1	Organization 0 14	Daiichi Sankyo
+T2	Organization 223 238	Astellas Pharma
+N1	Reference T1 wiki:3118834	Daiichi Sankyo
+N2	Reference T2 wiki:3113402	Astellas Pharma
+A1	IsLink T2

@@ -1,0 +1,27 @@
+Richemont
+@Компании группы
+@Список компаний, которыми владеет Compagnie Financière Richemont S.A.
+1202,18,1
+
+Список компаний, которыми владеет Compagnie Financière Richemont S.A.
+
+ A. Lange & Söhne — часы — Glashütte, Германия
+	 Alfred Dunhill, Ltd. — мужская одежда, часы, аксессуары из кожи — Лондон, Великобритания
+	 Baume et Mercier — часы — Женева, Швейцария
+	 Cartier — ювелирные украшения, часы — Париж, Франция
+	 Chloé — женская одежда — Париж, Франция
+	 IWC Schaffhausen — часы — Шаффхаузен, Швейцария
+	 Jaeger-LeCoultre — часы — Le Sentier, Швейцария
+	 James Purdey and Sons — оружие — Лондон, Великобритания
+	 Lancel — изделия из кожи — Париж, Франция
+	 Manufacture Roger Dubuis S.A. — (60 % собственности) часы — Женева, Швейцария
+	 Maison Azzedine Alaïa — женская одежда, Париж, Франция
+	 Montblanc International GmbH — письменные принадлежности, часы — Гамбург, Германия
+	 Net-a-Porter Ltd. — продажа одежды через Интернет — Лондон, Великобритания
+	 Officine Panerai — часы — Флоренция, Италия
+	 Piaget S.A. — ювелирные украшения, часы — Женева, Швейцария
+	 Shanghai Tang — мужская и женская мода — Гонг-Конг, Китай
+	 Vacheron Constantin — часы — Женева, Швейцария
+	 Van Cleef & Arpels S.A. — ювелирные украшения, часы — Париж, Франция
+
+

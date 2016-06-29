@@ -1,0 +1,23 @@
+T1	Organization 0 31	Скопинский автоагрегатный завод
+T2	Organization 230 233	ЗИЛ
+T3	Organization 250 253	ЛАЗ
+T4	Organization 257 261	ЛИАЗ
+T5	Organization 381 388	АВТОВАЗ
+T6	Organization 535 538	СОК
+T7	Organization 582 592	Оборонпром
+T8	Organization 630 643	Ростехнологии
+N1	Reference T1 wiki:1498788	Скопинский автоагрегатный завод
+N2	Reference T2 wiki:259988	ЗИЛ
+N3	Reference T3 wiki:546123	ЛАЗ
+N4	Reference T4 wiki:154271	ЛИАЗ
+N5	Reference T5 wiki:139276	АВТОВАЗ
+N6	Reference T6 wiki:148557	СОК (компания)
+N7	Reference T7 wiki:757437	Оборонпром
+N8	Reference T8 wiki:915063	Ростехнологии
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

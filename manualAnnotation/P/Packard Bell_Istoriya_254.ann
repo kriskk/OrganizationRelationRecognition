@@ -1,0 +1,13 @@
+T1	Organization 0 12	Packard Bell
+T2	Organization 224 227	NEC
+T3	Organization 251 263	Packard Bell
+T4	Organization 285 294	Acer Inc.
+N1	Reference T1 wiki:2383657	Packard Bell
+N2	Reference T2 wiki:232844	NEC
+N3	Reference T3 wiki:2383657	Packard Bell
+N4	Reference T4 wiki:326664	Acer Inc.
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T4 Holder

@@ -1,0 +1,9 @@
+T1	Organization 0 6	GoRail
+T2	Organization 25 31	GoRail
+T3	Organization 217 220	РЖД
+N1	Reference T1 wiki:3922121	GoRail
+N2	Reference T2 wiki:3922121	GoRail
+N3	Reference T3 wiki:106901	Российские железные дороги
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 5	Zynga
+T2	Organization 210 225	Electronic Arts
+T3	Organization 228 233	Maxis
+N1	Reference T1 wiki:2720154	Zynga
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:1292523	Maxis
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Other
+A4	TypeRel T3 Other

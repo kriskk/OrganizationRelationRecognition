@@ -1,0 +1,11 @@
+T1	Organization 0 20	Austin Motor Company
+T2	Organization 317 328	Rover Group
+T3	Organization 343 357	MG Rover Group
+T4	Organization 656 673	British Aerospace
+N1	Reference T1 wiki:4041862	Austin Motor Company
+N2	Reference T2 wiki:3186068	Rover Group
+N3	Reference T3 wiki:1503578	MG Rover Group
+N4	Reference T4 wiki:2452934	British Aerospace
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

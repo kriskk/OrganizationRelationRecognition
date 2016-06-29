@@ -1,0 +1,5 @@
+T1	Organization 0 9	En+ Group
+T2	Organization 77 92	Базовый элемент
+N1	Reference T1 wiki:1909698	En+ Group
+N2	Reference T2 wiki:156379	Базовый элемент
+A1	IsLink T2

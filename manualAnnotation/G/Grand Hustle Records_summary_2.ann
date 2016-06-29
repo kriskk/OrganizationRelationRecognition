@@ -1,0 +1,10 @@
+T1	Organization 0 20	Grand Hustle Records
+T2	Organization 257 275	Warner Music Group
+T3	Organization 332 348	Atlantic Records
+N1	Reference T1 wiki:3372000	Grand Hustle Records
+N2	Reference T2 wiki:197246	Warner Music Group
+N3	Reference T3 wiki:344750	Atlantic Records
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,14 @@
+T1	Organization 0 7	Газфонд
+T2	Organization 88 95	Газпром
+T3	Organization 148 170	Газпром добыча Уренгой
+T4	Organization 178 199	Газпром добыча Ямбург
+N1	Reference T1 wiki:1950122	Газфонд
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:3724139	Газпром добыча Уренгой
+N4	Reference T4 wiki:117978	Газпром добыча Ямбург
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

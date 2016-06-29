@@ -1,0 +1,11 @@
+T1	Organization 0 6	RECARO
+T2	Organization 195 207	Daimler-Benz
+T3	Organization 494 501	Porsche
+T4	Organization 793 796	BMW
+N1	Reference T1 wiki:2339563	RECARO
+N2	Reference T2 wiki:1384782	Daimler-Benz
+N3	Reference T3 wiki:403194	Porsche
+N4	Reference T4 wiki:40368	BMW
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

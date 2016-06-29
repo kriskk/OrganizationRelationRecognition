@@ -1,0 +1,17 @@
+T1	Organization 0 26	Ярославский моторный завод
+T2	Organization 213 216	МАЗ
+T3	Organization 218 222	КрАЗ
+T4	Organization 470 487	Минский автозавод
+T5	Organization 589 612	Кременчугский автозавод
+N1	Reference T1 wiki:916530	Ярославский моторный завод
+N2	Reference T2 wiki:33218	МАЗ
+N3	Reference T3 wiki:606512	Кременчугский автомобильный завод
+N4	Reference T4 wiki:33218	Минский автозавод
+N5	Reference T5 wiki:606512	Кременчугский автозавод
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator
+A7	TypeRel T5 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 6	Ducati
+T2	Organization 307 317	Termignoni
+T3	Organization 491 500	MV Agusta
+N1	Reference T1 wiki:1745457	Ducati
+N2	Reference T2 wiki:2755971	Termignoni
+N3	Reference T3 wiki:3239010	MV Agusta
+A1	IsLink T2
+A2	IsLink T3

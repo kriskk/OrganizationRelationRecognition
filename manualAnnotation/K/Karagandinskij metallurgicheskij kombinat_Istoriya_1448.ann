@@ -1,0 +1,10 @@
+T1	Organization 0 40	Карагандинский металлургический комбинат
+T2	Organization 307 319	Испат Кармет
+T3	Organization 347 367	Миттал Стил Темиртау
+N1	Reference T1 wiki:2339002	Карагандинский металлургический комбинат
+N2	Reference T2 wiki:2339002	Испат Кармет
+N3	Reference T3 wiki:2339002	Миттал Стил Темиртау
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+A4	TypeRel T3 Alias

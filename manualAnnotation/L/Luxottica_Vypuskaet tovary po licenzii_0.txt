@@ -1,0 +1,32 @@
+Luxottica
+@Выпускает товары по лицензии:
+1078,0
+
+
+Выпускает товары по лицензии:
+
+ Anne Klein
+	 Brooks Brothers
+	 Bulgari
+	 Burberry
+	 Chanel
+	 Chaps
+	 Club Monaco
+	 D&G
+	 Dolce&Gabbana
+	 DKNY
+	 Donna Karan
+	 LensCrafters
+	 Miu Miu
+	 Polo Ralph Lauren
+	 Paul Smith
+	 Prada 
+	 Ralph Lauren Purple Label
+	 Ralph
+	 Ralph Lauren
+	 Stella McCartney
+	 Tiffany & Co.
+	 Tory Burch
+	 Versus
+
+

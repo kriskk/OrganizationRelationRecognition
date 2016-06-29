@@ -1,0 +1,10 @@
+T1	Organization 0 40	Научно-производственный комплекс «Дедал»
+T2	Organization 211 266	Государственной корпорации по атомной энергии «Росатом»
+T3	Organization 274 294	ОАО «Атомэнергопром»
+N1	Reference T1 wiki:1950505	Научно-производственный комплекс «Дедал»
+N2	Reference T2 wiki:1299917	Росатом (государственная корпорация)
+N3	Reference T3 wiki:1402114	Атомэнергопром
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

@@ -1,0 +1,65 @@
+T1	Organization 0 5	Avaya
+T2	Organization 209 216	Gartner
+T3	Organization 291 311	магическом квадранте
+T4	Organization 460 470	Amazon.com
+T5	Organization 509 513	KPMG
+T6	Organization 515 517	GE
+T7	Organization 519 524	Intel
+T8	Organization 526 540	Telecom Italia
+T9	Organization 570 573	AXA
+T10	Organization 583 592	Citigroup
+T11	Organization 594 597	IBM
+T12	Organization 599 609	Telefónica
+T13	Organization 611 618	Samsung
+T14	Organization 638 644	Siebel
+T15	Organization 690 701	McGraw-Hill
+T16	Organization 720 728	Wal-Mart
+T17	Organization 763 766	EDS
+T18	Organization 768 782	France Télécom
+T19	Organization 842 846	Ford
+T20	Organization 848 852	AT&T
+T21	Organization 868 881	Merrill Lynch
+T22	Organization 897 913	Life:) (Украина)
+N1	Reference T1 wiki:685464	Avaya
+N2	Reference T2 wiki:2960363	Gartner
+N3	Reference T3 wiki:2960363	Магический квадрант
+N4	Reference T4 wiki:103623	Amazon.com
+N5	Reference T5 wiki:281743	KPMG
+N6	Reference T6 wiki:13762	General Electric
+N7	Reference T7 wiki:762172	Intel
+N8	Reference T8 wiki:358181	Telecom Italia
+N9	Reference T9 wiki:1710562	AXA
+N10	Reference T10 wiki:374508	Citigroup
+N11	Reference T11 wiki:11078	IBM
+N12	Reference T12 wiki:377249	Telefónica
+N13	Reference T13 wiki:125537	Samsung
+N14	Reference T14 wiki:3454107	Siebel
+N15	Reference T15 wiki:757338	McGraw-Hill
+N16	Reference T16 wiki:243093	Wal-Mart
+N17	Reference T17 wiki:1449756	Electronic Data Systems
+N18	Reference T18 wiki:373577	France Télécom
+N19	Reference T19 wiki:153236	Ford
+N20	Reference T20 wiki:162994	AT&T
+N21	Reference T21 wiki:177763	Merrill Lynch
+N22	Reference T22 wiki:88487	Life:) (Украина)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	IsLink T21
+A21	IsLink T22

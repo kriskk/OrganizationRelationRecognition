@@ -1,0 +1,6 @@
+T1	Organization 0 15	EMI Music Japan
+T2	Organization 179 182	EMI
+N1	Reference T1 wiki:2254321	EMI Music Japan
+N2	Reference T2 wiki:101046	EMI
+A1	IsLink T2
+A2	TypeRel T2 Holder

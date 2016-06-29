@@ -1,0 +1,8 @@
+T1	Organization 0 7	Рамстор
+T2	Organization 88 95	ЭНКА ТЦ
+T3	Organization 186 192	Migros
+N1	Reference T1 wiki:2936111	Рамстор
+N2	Reference T2 wiki:164197	ЭНКА ТЦ
+N3	Reference T3 wiki:253343	Migros
+A1	IsLink T2
+A2	TypeRel T3 Holder

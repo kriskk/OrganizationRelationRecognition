@@ -1,0 +1,5 @@
+T1	Organization 0 24	DreamWorks Animation SKG
+T2	Organization 289 303	20 Century Fox
+N1	Reference T1 wiki:3634563	DreamWorks Animation SKG
+N2	Reference T2 wiki:272376	20 Century Fox
+A1	IsLink T2

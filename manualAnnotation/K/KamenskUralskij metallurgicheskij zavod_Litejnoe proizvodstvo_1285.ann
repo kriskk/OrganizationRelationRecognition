@@ -1,0 +1,6 @@
+T1	Organization 0 40	Каменск-Уральский металлургический завод
+T2	Organization 337 354	ТЮФ Рейнланд Груп
+N1	Reference T1 wiki:1635181	Каменск-Уральский металлургический завод
+N2	Reference T2 wiki:3322872	ТЮФ Рейнланд Груп
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

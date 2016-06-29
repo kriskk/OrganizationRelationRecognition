@@ -1,0 +1,5 @@
+T1	Organization 0 23	Miles Gordon Technology
+T2	Organization 331 338	Amstrad
+N1	Reference T1 wiki:3641178	Miles Gordon Technology
+N2	Reference T2 wiki:1286413	Amstrad
+A1	IsLink T2

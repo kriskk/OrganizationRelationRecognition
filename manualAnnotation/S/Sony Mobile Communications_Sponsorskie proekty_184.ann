@@ -1,0 +1,5 @@
+T1	Organization 0 26	Sony Mobile Communications
+T2	Organization 232 245	Sony Pictures
+N1	Reference T1 wiki:120852	Sony Mobile Communications
+N2	Reference T2 wiki:1830946	Sony Pictures
+A1	IsLink T2

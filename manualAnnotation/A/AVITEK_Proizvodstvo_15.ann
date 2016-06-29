@@ -1,0 +1,5 @@
+T1	Organization 0 6	АВИТЕК
+T2	Organization 344 356	НПП «Звезда»
+N1	Reference T1 wiki:1119875	АВИТЕК
+N2	Reference T2 wiki:356369	НПП «Звезда»
+A1	IsLink T2

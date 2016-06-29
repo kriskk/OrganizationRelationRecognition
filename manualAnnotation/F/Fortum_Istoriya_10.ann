@@ -1,0 +1,5 @@
+T1	Organization 0 6	Фортум
+T2	Organization 282 288	Fortum
+N1	Reference T1 wiki:663365	Фортум
+N2	Reference T2 wiki:305740	Fortum
+A1	IsLink T2

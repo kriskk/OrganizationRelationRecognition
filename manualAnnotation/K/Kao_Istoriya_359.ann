@@ -1,0 +1,9 @@
+T1	Organization 0 3	Kao
+T2	Organization 219 229	Beiersdorf
+T3	Organization 266 271	Nivea
+N1	Reference T1 wiki:3122412	Kao
+N2	Reference T2 wiki:785151	Beiersdorf
+N3	Reference T3 wiki:2535401	Nivea
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

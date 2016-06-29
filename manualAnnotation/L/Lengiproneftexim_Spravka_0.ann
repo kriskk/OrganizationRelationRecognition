@@ -1,0 +1,6 @@
+T1	Organization 0 16	Ленгипронефтехим
+T2	Organization 120 140	ОАО «Сургутнефтегаз»
+N1	Reference T1 wiki:3480451	Ленгипронефтехим
+N2	Reference T2 wiki:143564	Сургутнефтегаз
+A1	IsLink T2
+A2	TypeRel T2 Holder

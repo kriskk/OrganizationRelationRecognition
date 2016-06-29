@@ -1,0 +1,6 @@
+T1	Organization 0 13	Иванами сётэн
+T2	Organization 567 574	Коданся
+N1	Reference T1 wiki:2783794	Иванами сётэн
+N2	Reference T2 wiki:200272	Коданся
+A1	IsLink T2
+A2	TypeRel T2 Competitor

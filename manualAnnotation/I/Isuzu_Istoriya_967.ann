@@ -1,0 +1,6 @@
+T1	Organization 0 5	Isuzu
+T2	Organization 200 219	Hino Motors Limited
+N1	Reference T1 wiki:177809	Isuzu
+N2	Reference T2 wiki:266538	Hino Motors
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,6 @@
+T1	Organization 0 16	Manitowoc Cranes
+T2	Organization 166 172	Potain
+N1	Reference T1 wiki:3744892	Manitowoc Cranes
+N2	Reference T2 wiki:3606950	Potain
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,8 @@
+T1	Organization 0 8	Kenworth
+T2	Organization 41 50	Peterbilt
+T3	Organization 59 64	GINAF
+N1	Reference T1 wiki:2477230	Kenworth
+N2	Reference T2 wiki:1704331	Peterbilt
+N3	Reference T3 wiki:424070	GINAF
+A1	IsLink T2
+A2	IsLink T3

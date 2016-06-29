@@ -1,0 +1,5 @@
+T1	Organization 0 10	Мостотрест
+T2	Organization 45 52	Сибмост
+N1	Reference T1 wiki:424233	Мостотрест
+N2	Reference T2 wiki:3155523	Сибмост
+A1	IsLink T2

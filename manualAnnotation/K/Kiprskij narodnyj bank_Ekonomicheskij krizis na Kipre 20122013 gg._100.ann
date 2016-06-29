@@ -1,0 +1,6 @@
+T1	Organization 0 22	Кипрский народный банк
+T2	Organization 272 282	Банк Кипра
+N1	Reference T1 wiki:4445758	Кипрский народный банк
+N2	Reference T2 wiki:375894	Банк Кипра
+A1	IsLink T2
+A2	TypeRel T2 Holder

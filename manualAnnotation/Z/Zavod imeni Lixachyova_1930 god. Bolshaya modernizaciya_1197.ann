@@ -1,0 +1,5 @@
+T1	Organization 0 20	Завод имени Лихачёва
+T2	Organization 338 366	First Automotive Works — FAW
+N1	Reference T1 wiki:259988	Завод имени Лихачёва
+N2	Reference T2 wiki:376864	First Automotive Works
+A1	TypeRel T2 Personnel

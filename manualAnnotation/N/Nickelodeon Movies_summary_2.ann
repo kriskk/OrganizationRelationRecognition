@@ -1,0 +1,6 @@
+T1	Organization 0 18	Nickelodeon Movies
+T2	Organization 335 353	Paramount Pictures
+N1	Reference T1 wiki:1304005	Nickelodeon Movies
+N2	Reference T2 wiki:398699	Paramount Pictures
+A1	IsLink T2
+A2	TypeRel T2 Holder

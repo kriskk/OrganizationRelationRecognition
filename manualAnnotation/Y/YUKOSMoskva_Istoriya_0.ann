@@ -1,0 +1,6 @@
+T1	Organization 0 11	ЮКОС-Москва
+T2	Organization 129 133	ЮКОС
+N1	Reference T1 wiki:901575	ЮКОС-Москва
+N2	Reference T2 wiki:6032	ЮКОС
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

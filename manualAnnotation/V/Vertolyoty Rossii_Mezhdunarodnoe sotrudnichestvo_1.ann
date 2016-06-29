@@ -1,0 +1,5 @@
+T1	Organization 0 16	Вертолёты России
+T2	Organization 228 241	Caterham Cars
+N1	Reference T1 wiki:899228	Вертолёты России
+N2	Reference T2 wiki:3721221	Caterham Cars
+A1	IsLink T2

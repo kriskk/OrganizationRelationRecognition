@@ -1,0 +1,5 @@
+T1	Organization 0 10	Leon Hatot
+T2	Organization 175 196	The Swatch Group Ltd.
+N1	Reference T1 wiki:4425489	Leon Hatot
+N2	Reference T2 wiki:214233	Swatch Group
+A1	TypeRel T2 Holder

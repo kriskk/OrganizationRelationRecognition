@@ -1,0 +1,5 @@
+T1	Organization 0 30	Энергомаш (группа предприятий)
+T2	Organization 238 259	«Энергомаш — Атоммаш»
+N1	Reference T1 wiki:1716207	Энергомаш (группа предприятий)
+N2	Reference T2 wiki:864073	Атоммаш
+A1	IsLink T2

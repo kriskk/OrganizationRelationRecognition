@@ -1,0 +1,30 @@
+T1	Organization 0 4	МЕГА
+T2	Organization 258 262	IKEA
+T3	Organization 264 268	Ашан
+T4	Organization 270 282	Leroy Merlin
+T5	Organization 284 291	М-Видео
+T6	Organization 293 304	Media Markt
+T7	Organization 306 309	OBI
+T8	Organization 311 319	Стокманн
+N1	Reference T1 wiki:259737	МЕГА
+N2	Reference T2 wiki:164679	IKEA
+N3	Reference T3 wiki:1324090	Ашан
+N4	Reference T4 wiki:342544	Leroy Merlin
+N5	Reference T5 wiki:370490	М-Видео
+N6	Reference T6 wiki:921209	Media Markt
+N7	Reference T7 wiki:149772	OBI
+N8	Reference T8 wiki:277515	Стокманн
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Subsidiary
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

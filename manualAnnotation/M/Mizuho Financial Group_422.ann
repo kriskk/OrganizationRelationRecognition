@@ -1,0 +1,6 @@
+T1	Organization 0 22	Mizuho Financial Group
+T2	Organization 182 193	Mizuho Bank
+N1	Reference T1 wiki:3115974	Mizuho Financial Group
+N2	Reference T2 wiki:1453711	Mizuho Bank
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

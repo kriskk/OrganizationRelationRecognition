@@ -1,0 +1,9 @@
+T1	Organization 0 41	Уральская горно-металлургическая компания
+T2	Organization 259 268	Сибкабель
+T3	Organization 284 317	Кольчугинский завод Электрокабель
+N1	Reference T1 wiki:171944	Уральская горно-металлургическая компания
+N2	Reference T2 wiki:20482	Сибкабель
+N3	Reference T3 wiki:4302520	Электрокабель (завод)
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

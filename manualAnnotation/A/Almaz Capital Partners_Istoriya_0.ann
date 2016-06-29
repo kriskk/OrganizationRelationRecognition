@@ -1,0 +1,8 @@
+T1	Organization 0 22	Almaz Capital Partners
+T2	Organization 149 154	Cisco
+T3	Organization 432 441	Parallels
+N1	Reference T1 wiki:1523571	Almaz Capital Partners
+N2	Reference T2 wiki:25014	Cisco
+N3	Reference T3 wiki:1356173	Parallels
+A1	IsLink T2
+A2	IsLink T3

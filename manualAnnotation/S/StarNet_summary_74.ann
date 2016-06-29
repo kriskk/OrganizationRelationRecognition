@@ -1,0 +1,5 @@
+T1	Organization 0 7	StarNet
+T2	Organization 220 231	Moldtelecom
+N1	Reference T1 wiki:541086	StarNet
+N2	Reference T2 wiki:384322	Moldtelecom
+A1	IsLink T2

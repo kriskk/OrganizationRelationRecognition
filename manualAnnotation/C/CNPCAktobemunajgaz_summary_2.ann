@@ -1,0 +1,5 @@
+T1	Organization 0 19	CNPC-Актобемунайгаз
+T2	Organization 314 318	CNPC
+N1	Reference T1 wiki:1529139	CNPC-Актобемунайгаз
+N2	Reference T2 wiki:355554	CNPC
+A1	IsLink T2

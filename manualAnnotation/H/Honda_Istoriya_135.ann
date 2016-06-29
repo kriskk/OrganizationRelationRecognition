@@ -1,0 +1,13 @@
+T1	Organization 0 5	Honda
+T2	Organization 196 202	Toyota
+T3	Organization 204 210	Nissan
+T4	Organization 213 223	Mitsubishi
+N1	Reference T1 wiki:121050	Honda
+N2	Reference T2 wiki:42689	Toyota
+N3	Reference T3 wiki:159586	Nissan
+N4	Reference T4 wiki:182989	Mitsubishi
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor
+A5	TypeRel T4 Competitor

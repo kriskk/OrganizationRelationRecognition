@@ -1,0 +1,5 @@
+T1	Organization 0 7	Кристис
+T2	Organization 95 101	Сотбис
+N1	Reference T1 wiki:872328	Кристис
+N2	Reference T2 wiki:507135	Сотбис
+A1	TypeRel T2 Competitor

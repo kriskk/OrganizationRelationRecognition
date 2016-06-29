@@ -1,0 +1,5 @@
+T1	Organization 0 12	ЦентрТелеком
+T2	Organization 348 356	Домолинк
+N1	Reference T1 wiki:142992	ЦентрТелеком
+N2	Reference T2 wiki:1387694	Домолинк
+A1	IsLink T2

@@ -1,0 +1,10 @@
+T1	Organization 0 29	Харьковский авиационный завод
+T2	Organization 265 272	Авиакор
+T3	Organization 451 457	Авиант
+N1	Reference T1 wiki:238174	Харьковский авиационный завод
+N2	Reference T2 wiki:480966	Авиакор
+N3	Reference T3 wiki:1417730	Авиант
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator
+A4	TypeRel T2 Cooperator

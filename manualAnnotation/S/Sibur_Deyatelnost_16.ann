@@ -1,0 +1,8 @@
+T1	Organization 0 5	Сибур
+T2	Organization 238 246	Тольятти
+T3	Organization 365 378	Томскнефтехим
+N1	Reference T1 wiki:144869	Сибур
+N2	Reference T2 wiki:1403271	Тольяттикаучук
+N3	Reference T3 wiki:291812	Томскнефтехим
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 18	Алмаз-Антей (ГСКБ)
+T2	Organization 271 302	ОАО «Концерн ПВО „Алмаз-Антей“»
+N1	Reference T1 wiki:662454	Алмаз-Антей (ГСКБ)
+N2	Reference T2 wiki:149639	Концерн ПВО «Алмаз-Антей»
+A1	IsLink T2

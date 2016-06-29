@@ -1,0 +1,20 @@
+T1	Organization 0 7	АвтоВАЗ
+T2	Organization 353 383	Белебеевский завод Автонормаль
+T3	Organization 387 424	Димитровградский автоагрегатный завод
+T4	Organization 428 459	Скопинский автоагрегатный завод
+T5	Organization 463 477	АвтоВАЗагрегат
+T6	Organization 789 803	General Motors
+T7	Organization 902 912	GM-AvtoVAZ
+N1	Reference T1 wiki:139276	АвтоВАЗ
+N2	Reference T2 wiki:1500641	Белебеевский завод Автонормаль
+N3	Reference T3 wiki:1498685	Димитровградский автоагрегатный завод
+N4	Reference T4 wiki:1498788	Скопинский автоагрегатный завод
+N5	Reference T5 wiki:721521	АвтоВАЗагрегат
+N6	Reference T6 wiki:17438	General Motors
+N7	Reference T7 wiki:18331	GM-AvtoVAZ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

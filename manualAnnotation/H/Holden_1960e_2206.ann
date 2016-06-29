@@ -1,0 +1,16 @@
+T1	Organization 0 6	Holden
+T2	Organization 225 233	Vauxhall
+T3	Organization 527 536	Chevrolet
+T4	Organization 539 546	Pontiac
+T5	Organization 674 683	Chevrolet
+N1	Reference T1 wiki:604803	Holden
+N2	Reference T2 wiki:1517064	Vauxhall
+N3	Reference T3 wiki:17631	Chevrolet
+N4	Reference T4 wiki:820144	Pontiac
+N5	Reference T5 wiki:17631	Chevrolet
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

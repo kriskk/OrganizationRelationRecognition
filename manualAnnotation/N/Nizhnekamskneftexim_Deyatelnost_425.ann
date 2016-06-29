@@ -1,0 +1,6 @@
+T1	Organization 0 18	Нижнекамскнефтехим
+T2	Organization 262 271	Татэнерго
+N1	Reference T1 wiki:359932	Нижнекамскнефтехим
+N2	Reference T2 wiki:1546422	Татэнерго
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

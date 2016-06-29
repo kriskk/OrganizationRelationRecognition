@@ -1,0 +1,31 @@
+T1	Organization 0 9	А-Айсберг
+T2	Organization 48 55	Samsung
+T3	Organization 57 62	Haier
+T4	Organization 64 71	Gorenje
+T5	Organization 73 75	LG
+T6	Organization 119 144	ООО «BSH-Бытовая техника»
+T7	Organization 146 158	ЗАО «Атлант»
+T8	Organization 160 175	ОАО «ВымпелКом»
+N1	Reference T1 wiki:1685274	А-Айсберг
+N2	Reference T2 wiki:125537	Samsung
+N3	Reference T3 wiki:717363	Haier
+N4	Reference T4 wiki:960895	Gorenje
+N5	Reference T5 wiki:135021	LG
+N6	Reference T6 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
+N7	Reference T7 wiki:120587	Минский завод холодильников
+N8	Reference T8 wiki:70736	Вымпел-Коммуникации
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator
+A15	TypeRel T2 Cooperator

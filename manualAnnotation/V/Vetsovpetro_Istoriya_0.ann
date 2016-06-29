@@ -1,0 +1,10 @@
+T1	Organization 0 12	Вьетсовпетро
+T2	Organization 146 158	PetroVietnam
+T3	Organization 192 204	Зарубежнефть
+N1	Reference T1 wiki:153084	Вьетсовпетро
+N2	Reference T2 wiki:2739564	PetroVietnam
+N3	Reference T3 wiki:167554	Зарубежнефть
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

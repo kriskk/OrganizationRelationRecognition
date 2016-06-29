@@ -1,0 +1,6 @@
+T1	Organization 0 19	Хлебный дом (бренд)
+T2	Organization 284 291	«Фацер»
+N1	Reference T1 wiki:3516954	Хлебный дом (бренд)
+N2	Reference T2 wiki:237215	Fazer
+A1	IsLink T2
+A2	TypeRel T2 Alias

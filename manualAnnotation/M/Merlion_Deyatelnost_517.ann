@@ -1,0 +1,6 @@
+T1	Organization 0 7	Merlion
+T2	Organization 302 310	Verysell
+N1	Reference T1 wiki:1695929	Merlion
+N2	Reference T2 wiki:577366	Verysell
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

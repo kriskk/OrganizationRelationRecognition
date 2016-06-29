@@ -1,0 +1,5 @@
+T1	Organization 0 11	TNT Express
+T2	Organization 184 190	PostNL
+N1	Reference T1 wiki:3269943	TNT Express
+N2	Reference T2 wiki:3271690	PostNL
+A1	IsLink T2

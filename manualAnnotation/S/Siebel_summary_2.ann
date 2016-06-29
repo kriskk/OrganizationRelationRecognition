@@ -1,0 +1,5 @@
+T1	Organization 0 6	Siebel
+T2	Organization 202 208	Oracle
+N1	Reference T1 wiki:3454107	Siebel
+N2	Reference T2 wiki:129227	Oracle
+A1	IsLink T2

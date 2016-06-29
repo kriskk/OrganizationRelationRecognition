@@ -1,0 +1,6 @@
+T1	Organization 0 5	Humyo
+T2	Organization 188 199	Trend Micro
+N1	Reference T1 wiki:2831353	Humyo
+N2	Reference T2 wiki:910403	Trend Micro
+A1	IsLink T2
+A2	TypeRel T2 Holder

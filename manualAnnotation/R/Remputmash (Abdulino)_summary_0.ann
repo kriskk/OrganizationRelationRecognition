@@ -1,0 +1,6 @@
+T1	Organization 0 21	Ремпутьмаш (Абдулино)
+T2	Organization 127 136	ОАО «РЖД»
+N1	Reference T1 wiki:2010800	Ремпутьмаш (Абдулино)
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2
+A2	TypeRel T2 Holder

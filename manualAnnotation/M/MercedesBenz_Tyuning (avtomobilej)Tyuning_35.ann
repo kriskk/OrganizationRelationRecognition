@@ -1,0 +1,5 @@
+T1	Organization 0 13	Mercedes-Benz
+T2	Organization 253 256	AMG
+N1	Reference T1 wiki:40401	Mercedes-Benz
+N2	Reference T2 wiki:1316945	Mercedes-AMG
+A1	TypeRel T2 Subsidiary

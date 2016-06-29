@@ -1,0 +1,5 @@
+Havok (компания)
+@summary
+590,2
+
+Havok — Частная компания, занимающаяся разработкой одноимённого физического движка «Havok». Компания Havok сотрудничает или сотрудничала со многими игровыми разработчиками и издателями, включая Activision, Electronic Arts, Nintendo, Microsoft, Sony и Ubisoft. Кросс-платформенный движок «Havok» доступен для множества платформ, включая персональные компьютеры, PlayStation 2, PlayStation 3, PlayStation Portable, Xbox, Xbox 360, Wii, GameCube.

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Berstorff
+T2	Organization 198 208	Mannesmann
+N1	Reference T1 wiki:289845	Berstorff
+N2	Reference T2 wiki:507916	Mannesmann
+A1	IsLink T2

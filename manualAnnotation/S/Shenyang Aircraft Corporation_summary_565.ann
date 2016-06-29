@@ -1,0 +1,5 @@
+T1	Organization 0 29	Shenyang Aircraft Corporation
+T2	Organization 221 227	Cessna
+N1	Reference T1 wiki:340433	Shenyang Aircraft Corporation
+N2	Reference T2 wiki:641669	Cessna
+A1	IsLink T2

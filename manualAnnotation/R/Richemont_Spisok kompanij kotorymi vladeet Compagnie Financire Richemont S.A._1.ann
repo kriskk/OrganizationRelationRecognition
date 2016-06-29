@@ -1,0 +1,25 @@
+T1	Organization 0 9	Richemont
+T2	Organization 320 336	Baume et Mercier
+T3	Organization 366 373	Cartier
+T4	Organization 463 479	IWC Schaffhausen
+T5	Organization 665 694	Manufacture Roger Dubuis S.A.
+T6	Organization 1010 1021	Piaget S.A.
+T7	Organization 1132 1151	Vacheron Constantin
+N1	Reference T1 wiki:3206803	Richemont
+N2	Reference T2 wiki:3118530	Baume et Mercier
+N3	Reference T3 wiki:1140234	Cartier
+N4	Reference T4 wiki:3197181	International Watch Company
+N5	Reference T5 wiki:4341613	Roger Dubuis
+N6	Reference T6 wiki:3208208	Piaget SA
+N7	Reference T7 wiki:1449773	Vacheron Constantin
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Subsidiary
+A7	TypeRel T3 Subsidiary
+A8	TypeRel T4 Subsidiary
+A9	TypeRel T5 Subsidiary
+A10	TypeRel T6 Subsidiary
+A11	TypeRel T7 Subsidiary

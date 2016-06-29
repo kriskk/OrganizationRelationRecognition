@@ -1,0 +1,5 @@
+T1	Organization 0 9	Peterbilt
+T2	Organization 357 369	Freightliner
+N1	Reference T1 wiki:1704331	Peterbilt
+N2	Reference T2 wiki:1371581	Freightliner
+A1	IsLink T2

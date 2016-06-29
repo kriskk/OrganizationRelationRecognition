@@ -1,0 +1,10 @@
+T1	Organization 0 19	Ремпутьмаш (Калуга)
+T2	Organization 170 206	Людиновский машиностроительный завод
+T3	Organization 353 363	Ремпутьмаш
+N1	Reference T1 wiki:1994657	Ремпутьмаш (Калуга)
+N2	Reference T2 wiki:2119206	Людиновский машиностроительный завод
+N3	Reference T3 wiki:1745196	Ремпутьмаш
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Holder

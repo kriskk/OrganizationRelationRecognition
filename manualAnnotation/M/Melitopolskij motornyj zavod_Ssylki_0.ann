@@ -1,0 +1,14 @@
+T1	Organization 0 29	Мелитопольский моторный завод
+T2	Organization 141 168	«Мелитопольских ведомостях»
+T3	Organization 216 243	«Мелитопольских ведомостях»
+T4	Organization 278 305	«Мелитопольских ведомостях»
+T5	Organization 383 410	«Мелитопольских ведомостях»
+N1	Reference T1 wiki:3439187	Мелитопольский моторный завод
+N2	Reference T2 wiki:3794372	Мелитопольские ведомости
+N3	Reference T3 wiki:3794372	Мелитопольские ведомости
+N4	Reference T4 wiki:3794372	Мелитопольские ведомости
+N5	Reference T5 wiki:3794372	Мелитопольские ведомости
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

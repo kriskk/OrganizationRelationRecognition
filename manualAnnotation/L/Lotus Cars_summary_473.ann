@@ -1,0 +1,9 @@
+T1	Organization 0 10	Lotus Cars
+T2	Organization 222 236	General Motors
+T3	Organization 504 510	Proton
+N1	Reference T1 wiki:748115	Lotus Cars
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:1795690	Proton Edar Sdr Holding
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

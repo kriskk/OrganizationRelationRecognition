@@ -1,0 +1,8 @@
+T1	Organization 0 18	Телекомпания СТРИМ
+T2	Organization 121 139	Система Масс-медиа
+T3	Organization 173 186	АФК «Система»
+N1	Reference T1 wiki:2230588	Телекомпания СТРИМ
+N2	Reference T2 wiki:629570	Система Масс-медиа
+N3	Reference T3 wiki:158888	АФК «Система»
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 30	Саранский завод автосамосвалов
+T2	Organization 419 429	Группа ГАЗ
+N1	Reference T1 wiki:2635895	Саранский завод автосамосвалов
+N2	Reference T2 wiki:21473	Группа ГАЗ
+A1	IsLink T2

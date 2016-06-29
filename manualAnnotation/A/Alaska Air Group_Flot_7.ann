@@ -1,0 +1,5 @@
+T1	Organization 0 16	Alaska Air Group
+T2	Organization 204 220	AirTran Holdings
+N1	Reference T1 wiki:2260543	Alaska Air Group
+N2	Reference T2 wiki:2466494	AirTran Holdings
+A1	IsLink T2

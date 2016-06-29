@@ -1,0 +1,5 @@
+T1	Organization 0 11	Токио Боэки
+T2	Organization 325 337	Nippon Steel
+N1	Reference T1 wiki:3194682	Токио Боэки
+N2	Reference T2 wiki:1686542	Nippon Steel
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 23	The Walt Disney Company
+T2	Organization 258 278	Marvel Entertainment
+N1	Reference T1 wiki:319365	The Walt Disney Company
+N2	Reference T2 wiki:351306	Marvel Comics
+A1	IsLink T2

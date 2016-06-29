@@ -1,0 +1,13 @@
+T1	Organization 0 26	Покупайка (сеть магазинов)
+T2	Organization 224 239	Х5 Retail Group
+T3	Organization 272 282	«Корзинка»
+T4	Organization 488 497	«Росинка»
+N1	Reference T1 wiki:1282393	Покупайка (сеть магазинов)
+N2	Reference T2 wiki:353293	Х5 Retail Group
+N3	Reference T3 wiki:1272042	Корзинка (сеть магазинов)
+N4	Reference T4 wiki:1416800	Росинка (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T4 Merge

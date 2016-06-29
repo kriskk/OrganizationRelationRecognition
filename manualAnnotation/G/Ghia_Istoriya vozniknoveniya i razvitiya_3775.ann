@@ -1,0 +1,24 @@
+T1	Organization 0 4	Ghia
+T2	Organization 315 326	Pininfarina
+T3	Organization 573 577	Ford
+T4	Organization 1062 1069	Bertone
+T5	Organization 1106 1115	Chevrolet
+T6	Organization 1423 1432	De Tomaso
+T7	Organization 1661 1666	Isuzu
+N1	Reference T1 wiki:1563416	Ghia
+N2	Reference T2 wiki:1574788	Pininfarina
+N3	Reference T3 wiki:153236	Ford
+N4	Reference T4 wiki:2836395	Bertone
+N5	Reference T5 wiki:17631	Chevrolet
+N6	Reference T6 wiki:2882688	De Tomaso
+N7	Reference T7 wiki:177809	Isuzu
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Personnel
+A7	TypeRel T3 Personnel
+A8	TypeRel T4 Personnel
+A9	TypeRel T6 Cooperator
+A10	TypeRel T7 Cooperator

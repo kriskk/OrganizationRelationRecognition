@@ -1,0 +1,5 @@
+T1	Organization 0 10	Группа IBA
+T2	Organization 257 260	IBM
+N1	Reference T1 wiki:941514	Группа IBA
+N2	Reference T2 wiki:11078	IBM
+A1	TypeRel T2 Cooperator

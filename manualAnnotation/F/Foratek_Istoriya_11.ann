@@ -1,0 +1,5 @@
+T1	Organization 0 7	Форатек
+T2	Organization 239 246	Siemens
+N1	Reference T1 wiki:3714726	Форатек
+N2	Reference T2 wiki:36510	Siemens
+A1	IsLink T2

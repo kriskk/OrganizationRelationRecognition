@@ -1,0 +1,5 @@
+T1	Organization 0 4	Tose
+T2	Organization 212 220	Sega-AM2
+N1	Reference T1 wiki:2527362	Tose
+N2	Reference T2 wiki:3297840	Sega-AM2
+A1	IsLink T2

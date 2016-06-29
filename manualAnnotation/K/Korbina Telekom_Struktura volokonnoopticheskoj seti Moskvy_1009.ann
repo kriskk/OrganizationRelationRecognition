@@ -1,0 +1,11 @@
+T1	Organization 0 15	Корбина Телеком
+T2	Organization 253 259	Level3
+T3	Organization 261 272	TeliaSonera
+T4	Organization 406 411	Cisco
+N1	Reference T1 wiki:128480	Корбина Телеком
+N2	Reference T2 wiki:1503317	Level3
+N3	Reference T3 wiki:177779	TeliaSonera
+N4	Reference T4 wiki:25014	Cisco
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

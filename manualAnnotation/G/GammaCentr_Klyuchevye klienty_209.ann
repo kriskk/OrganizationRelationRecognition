@@ -1,0 +1,26 @@
+T1	Organization 0 11	Гамма-Центр
+T2	Organization 360 389	ГУП «Московский метрополитен»
+T3	Organization 392 405	«Мосгортранс»
+T4	Organization 408 422	РАО ЕЭС России
+T5	Organization 425 438	ОАО «Газпром»
+T6	Organization 461 480	ФГУП «Почта России»
+T7	Organization 507 513	«Ашан»
+N1	Reference T1 wiki:3999423	Гамма-Центр
+N2	Reference T2 wiki:572006	ГУП «Московский метрополитен»
+N3	Reference T3 wiki:393941	Мосгортранс
+N4	Reference T4 wiki:1432138	РАО ЕЭС России
+N5	Reference T5 wiki:44754	ОАО «Газпром»
+N6	Reference T6 wiki:234849	Почта России
+N7	Reference T7 wiki:1324090	Ашан
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator

@@ -1,0 +1,5 @@
+Loki Software
+@summary
+1,1310
+
+ Loki Software также разработала несколько бесплатных инструментов, например Loki installer (также называемый Loki Setup), и поддерживала разработку Simple DirectMedia Layer. Она также начала проект звуковой библиотеки OpenAL (сейчас используется Creative Technology и Apple Computer). Книга Programming Linux Games, изданная Loki Software и R.Hall признана хорошим учебником для Simple DirectMedia Layer.

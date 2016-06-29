@@ -1,0 +1,5 @@
+T1	Organization 0 26	Улан-Удэнская сотовая сеть
+T2	Organization 97 112	«Сибирьтелеком»
+N1	Reference T1 wiki:1100872	Улан-Удэнская сотовая сеть
+N2	Reference T2 wiki:343967	Сибирьтелеком
+A1	TypeRel T2 Holder

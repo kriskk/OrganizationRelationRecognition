@@ -1,0 +1,29 @@
+T1	Organization 0 40	Каменск-Уральский металлургический завод
+T2	Organization 254 262	Туполева
+T3	Organization 274 280	Сухого
+T4	Organization 282 290	Антонова
+T5	Organization 292 299	Микояна
+T6	Organization 301 309	Яковлева
+T7	Organization 321 328	Макеева
+T8	Organization 330 336	Янгеля
+N1	Reference T1 wiki:1635181	Каменск-Уральский металлургический завод
+N2	Reference T2 wiki:55761	КБ Туполев
+N3	Reference T3 wiki:164779	Сухой (компания)
+N4	Reference T4 wiki:32271	КБ Антонов
+N5	Reference T5 wiki:26999	МиГ (компания)
+N6	Reference T6 wiki:55757	ОКБ имени Яковлева
+N7	Reference T7 wiki:34360	Государственный ракетный центр
+N8	Reference T8 wiki:77093	Южное (КБ)
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A1	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator

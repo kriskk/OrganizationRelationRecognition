@@ -1,0 +1,5 @@
+T1	Organization 0 24	Холмогортрубопроводстрой
+T2	Organization 56 77	Пурпетрубопроводстрой
+N1	Reference T1 wiki:4423459	Холмогортрубопроводстрой
+N2	Reference T2 wiki:4423497	Пурпетрубопроводстрой
+A1	IsLink T2

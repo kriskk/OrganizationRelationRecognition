@@ -1,0 +1,5 @@
+T1	Organization 0 9	Продимекс
+T2	Organization 176 186	Евросервис
+N1	Reference T1 wiki:294103	Продимекс
+N2	Reference T2 wiki:343278	Евросервис
+A1	TypeRel T2 Subsidiary

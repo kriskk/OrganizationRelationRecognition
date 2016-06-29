@@ -1,0 +1,5 @@
+T1	Organization 0 6	Rollei
+T2	Organization 216 226	Carl Zeiss
+N1	Reference T1 wiki:1848265	Rollei
+N2	Reference T2 wiki:1151084	Carl Zeiss
+A1	IsLink T2

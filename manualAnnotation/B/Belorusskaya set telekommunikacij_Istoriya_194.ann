@@ -1,0 +1,8 @@
+T1	Organization 0 33	Белорусская сеть телекоммуникаций
+T2	Organization 211 221	Белтелеком
+T3	Organization 474 482	Turkcell
+N1	Reference T1 wiki:500727	Белорусская сеть телекоммуникаций
+N2	Reference T2 wiki:758522	Белтелеком
+N3	Reference T3 wiki:177253	Turkcell
+A1	IsLink T2
+A2	IsLink T3

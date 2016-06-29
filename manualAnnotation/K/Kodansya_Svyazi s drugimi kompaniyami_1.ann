@@ -1,0 +1,6 @@
+T1	Organization 0 7	Коданся
+T2	Organization 201 234	Токийской телевещательной системы
+N1	Reference T1 wiki:200272	Коданся
+N2	Reference T2 wiki:3337741	Tokyo Broadcasting System
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,10 @@
+T1	Organization 0 6	Isdera
+T2	Organization 252 259	Porsche
+T3	Organization 262 275	Mercedes-Benz
+N1	Reference T1 wiki:3678695	Isdera
+N2	Reference T2 wiki:403194	Porsche
+N3	Reference T3 wiki:40401	Mercedes-Benz
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

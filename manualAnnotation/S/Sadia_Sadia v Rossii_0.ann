@@ -1,0 +1,5 @@
+T1	Organization 0 5	Sadia
+T2	Organization 113 121	Мираторг
+N1	Reference T1 wiki:258447	Sadia
+N2	Reference T2 wiki:744100	Мираторг
+A1	IsLink T2

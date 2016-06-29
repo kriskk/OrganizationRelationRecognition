@@ -1,0 +1,5 @@
+T1	Organization 0 19	MAXON Computer GmbH
+T2	Organization 236 249	Nemetschek AG
+N1	Reference T1 wiki:3410975	MAXON Computer GmbH
+N2	Reference T2 wiki:1113007	Nemetschek
+A1	TypeRel T2 Holder

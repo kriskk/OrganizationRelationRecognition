@@ -1,0 +1,5 @@
+T1	Organization 0 8	Clariant
+T2	Organization 190 208	Shin-Etsu Chemical
+N1	Reference T1 wiki:376394	Clariant
+N2	Reference T2 wiki:3117272	Shin-Etsu Chemical
+A1	IsLink T2

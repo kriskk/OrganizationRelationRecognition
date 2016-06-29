@@ -1,0 +1,26 @@
+T1	Organization 0 5	Intel
+T2	Organization 211 215	Acer
+T3	Organization 217 221	Dell
+T4	Organization 223 225	HP
+T5	Organization 227 233	Lenovo
+T6	Organization 236 239	NEC
+T7	Organization 349 352	AMD
+N1	Reference T1 wiki:762172	Intel
+N2	Reference T2 wiki:326664	Acer Inc.
+N3	Reference T3 wiki:124570	Dell
+N4	Reference T4 wiki:89988	Hewlett-Packard
+N5	Reference T5 wiki:666442	Lenovo
+N6	Reference T6 wiki:232844	NEC
+N7	Reference T7 wiki:19981	AMD
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Competitor

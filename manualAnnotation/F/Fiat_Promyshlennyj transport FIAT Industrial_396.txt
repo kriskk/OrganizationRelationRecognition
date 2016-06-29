@@ -1,0 +1,32 @@
+Fiat
+@Деятельность
+@Промышленный транспорт «FIAT Industrial»
+5850,2228,396
+
+ Экскаватор
+	 Грузовой автомобиль
+	 Автобус и Микроавтобус
+	 Фургон
+	 Комбайн
+
+оборот: 
+операционная прибыль: 
+чистая прибыль: 
+материнская компания:  «FIAT Group»
+дочерние компании: 
+ IVECO
+	 CNH Global
+	 Fiat Professional
+
+число сотрудников: 
+сайт:  www.fiatindustrial.com
+
+
+
+
+
+
+«Fiat Industrial» объединяет в себе три дочернии компании: «IVECO», «Fiat Professional» и «CNH Global».
+
+ «Fiat Professional» — производство фургонов Fiat Ducato
+

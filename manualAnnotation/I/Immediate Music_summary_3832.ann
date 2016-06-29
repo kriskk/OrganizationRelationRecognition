@@ -1,0 +1,34 @@
+T1	Organization 0 15	Immediate Music
+T2	Organization 200 218	Paramount Pictures
+T3	Organization 220 233	Sony Pictures
+T4	Organization 235 255	Walt Disney Pictures
+T5	Organization 257 273	20th Century Fox
+T6	Organization 275 290	Warner Brothers
+T7	Organization 292 302	DreamWorks
+T8	Organization 304 322	Universal Pictures
+T9	Organization 348 357	Lionsgate
+N1	Reference T1 wiki:2518660	Immediate Music
+N2	Reference T2 wiki:398699	Paramount Pictures
+N3	Reference T3 wiki:1830946	Sony Pictures Entertainment
+N4	Reference T4 wiki:323330	Walt Disney Pictures
+N5	Reference T5 wiki:272376	20th Century Fox
+N6	Reference T6 wiki:272386	Warner Brothers
+N7	Reference T7 wiki:755489	DreamWorks
+N8	Reference T8 wiki:702796	Universal Pictures
+N9	Reference T9 wiki:1671889	Lionsgate
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Hennessy
+T2	Organization 253 282	Louis Vuitton — Moët Hennessy
+N1	Reference T1 wiki:1124147	Hennessy
+N2	Reference T2 wiki:381313	LVMH
+A1	TypeRel T2 Holder

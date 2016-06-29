@@ -1,0 +1,29 @@
+T1	Organization 0 7	Gartner
+T2	Organization 288 303	Hewlett Packard
+T3	Organization 305 320	CA Technologies
+T4	Organization 322 325	IBM
+T5	Organization 327 336	Microsoft
+T6	Organization 338 344	Oracle
+T7	Organization 346 349	SAP
+T8	Organization 351 366	British Telecom
+N1	Reference T1 wiki:2960363	Gartner
+N2	Reference T2 wiki:89988	Hewlett Packard
+N3	Reference T3 wiki:2942546	CA Technologies
+N4	Reference T4 wiki:11078	IBM
+N5	Reference T5 wiki:11987	Microsoft
+N6	Reference T6 wiki:129227	Oracle
+N7	Reference T7 wiki:81959	SAP
+N8	Reference T8 wiki:14276	British Telecom
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A1	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator

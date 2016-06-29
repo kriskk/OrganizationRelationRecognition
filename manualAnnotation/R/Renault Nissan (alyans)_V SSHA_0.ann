@@ -1,0 +1,6 @@
+T1	Organization 0 23	Renault Nissan (альянс)
+T2	Organization 183 196	Mercedes-Benz
+N1	Reference T1 wiki:3937979	Renault Nissan (альянс)
+N2	Reference T2 wiki:40401	Mercedes-Benz
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

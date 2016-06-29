@@ -1,0 +1,11 @@
+T1	Organization 0 13	SAS Institute
+T2	Organization 294 303	ОАО «РЖД»
+T3	Organization 310 314	МГТС
+T4	Organization 316 328	Казахтелеком
+N1	Reference T1 wiki:1505964	SAS Institute
+N2	Reference T2 wiki:106901	Российские железные дороги
+N3	Reference T3 wiki:141210	Московская городская телефонная сеть
+N4	Reference T4 wiki:702503	Казахтелеком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,17 @@
+T1	Organization 0 9	De Tomaso
+T2	Organization 214 221	Ferrari
+T3	Organization 283 294	Lamborghini
+T4	Organization 343 347	Ghia
+T5	Organization 407 411	Ghia
+T6	Organization 517 525	Maserati
+N1	Reference T1 wiki:2882688	De Tomaso
+N2	Reference T2 wiki:124051	Ferrari
+N3	Reference T3 wiki:65531	Lamborghini
+N4	Reference T4 wiki:1563416	Ghia
+N5	Reference T5 wiki:1563416	Ghia
+N6	Reference T6 wiki:453192	Maserati
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

@@ -1,0 +1,5 @@
+T1	Organization 0 4	SNCF
+T2	Organization 53 59	Keolis
+N1	Reference T1 wiki:168588	SNCF
+N2	Reference T2 wiki:4387233	Keolis
+A1	TypeRel T2 Subsidiary

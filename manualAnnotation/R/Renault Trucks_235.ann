@@ -1,0 +1,5 @@
+T1	Organization 0 14	Renault Trucks
+T2	Organization 189 200	Volvo Group
+N1	Reference T1 wiki:318366	Renault Trucks
+N2	Reference T2 wiki:387781	Volvo Group
+A1	TypeRel T2 Holder

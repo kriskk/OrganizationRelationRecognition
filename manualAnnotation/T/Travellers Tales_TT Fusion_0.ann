@@ -1,0 +1,5 @@
+T1	Organization 0 17	Traveller’s Tales
+T2	Organization 125 163	Warner Bros. Interactive Entertainment
+N1	Reference T1 wiki:3396371	Traveller’s Tales
+N2	Reference T2 wiki:2184337	Warner Bros. Interactive Entertainment
+A1	IsLink T2

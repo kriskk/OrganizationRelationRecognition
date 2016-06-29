@@ -1,0 +1,9 @@
+T1	Organization 0 14	Уралвагонзавод
+T2	Organization 250 288	Харьковский паровозостроительный завод
+T3	Organization 290 318	Бежицкий сталелитейный завод
+N1	Reference T1 wiki:93093	Уралвагонзавод
+N2	Reference T2 wiki:382782	Харьковский завод транспортного машиностроения
+N3	Reference T3 wiki:305709	Бежицкий сталелитейный завод
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

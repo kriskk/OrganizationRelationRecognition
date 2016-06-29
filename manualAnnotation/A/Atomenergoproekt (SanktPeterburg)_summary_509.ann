@@ -1,0 +1,5 @@
+T1	Organization 0 34	Атомэнергопроект (Санкт-Петербург)
+T2	Organization 225 239	Атомэнергопром
+N1	Reference T1 wiki:2495336	Атомэнергопроект (Санкт-Петербург)
+N2	Reference T2 wiki:1402114	Атомэнергопром
+A1	IsLink T2

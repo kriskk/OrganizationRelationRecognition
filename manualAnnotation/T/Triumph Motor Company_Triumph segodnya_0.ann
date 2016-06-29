@@ -1,0 +1,14 @@
+T1	Organization 0 21	Triumph Motor Company
+T2	Organization 150 153	BMW
+T3	Organization 201 212	Rover Group
+T4	Organization 246 254	MG Rover
+T5	Organization 390 393	BMW
+N1	Reference T1 wiki:3022071	Triumph Motor Company
+N2	Reference T2 wiki:40368	BMW
+N3	Reference T3 wiki:3186068	Rover Group
+N4	Reference T4 wiki:1503578	MG Rover
+N5	Reference T5 wiki:40368	BMW
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,6 @@
+T1	Organization 0 4	ЮКОС
+T2	Organization 553 561	Сибнефти
+N1	Reference T1 wiki:6032	ЮКОС
+N2	Reference T2 wiki:121955	Сибнефть
+A1	IsLink T2
+A2	TypeRel T2 Merge

@@ -1,0 +1,5 @@
+T1	Organization 0 11	Basic Books
+T2	Organization 151 170	Perseus Books Group
+N1	Reference T1 wiki:2656858	Basic Books
+N2	Reference T2 wiki:3678705	Perseus Books Group
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 18	Trimble Navigation
+T2	Organization 249 256	РНИИ КП
+N1	Reference T1 wiki:29434	Trimble Navigation
+N2	Reference T2 wiki:722423	РНИИ КП
+A1	IsLink T2

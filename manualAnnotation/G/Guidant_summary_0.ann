@@ -1,0 +1,14 @@
+T1	Organization 0 7	Guidant
+T2	Organization 74 91	Boston Scientific
+T3	Organization 133 139	MAQUET
+T4	Organization 317 334	Johnson & Johnson
+N1	Reference T1 wiki:1682016	Guidant
+N2	Reference T2 wiki:1681986	Boston Scientific
+N3	Reference T3 wiki:964472	Maquet
+N4	Reference T4 wiki:608810	Johnson & Johnson
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Competitor

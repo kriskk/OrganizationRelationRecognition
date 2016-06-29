@@ -1,0 +1,6 @@
+T1	Organization 0 33	Электромеханический опытный завод
+T2	Organization 168 179	Мосгортранс
+N1	Reference T1 wiki:1733368	Электромеханический опытный завод
+N2	Reference T2 wiki:393941	Мосгортранс
+A1	IsLink T2
+A2	TypeRel T2 Holder

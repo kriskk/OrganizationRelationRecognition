@@ -1,0 +1,8 @@
+T1	Organization 0 4	Blyk
+T2	Organization 197 205	Vodafone
+T3	Organization 225 231	Orange
+N1	Reference T1 wiki:2231752	Blyk
+N2	Reference T2 wiki:213703	Vodafone
+N3	Reference T3 wiki:373554	Orange
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,30 @@
+T1	Organization 0 43	Московская областная энергосетевая компания
+T2	Organization 276 329	ОАО «Московская объединенная электросетевая компания»
+T3	Organization 332 375	ОАО энергетики и электрификации «Мосэнерго»
+T4	Organization 548 586	ОАО «Московская теплосетевая компания»
+T5	Organization 648 661	ОАО «ФСК ЕЭС»
+T6	Organization 664 708	ОАО «Федеральная гидрогенерирующая компания»
+T7	Organization 711 767	ОАО «1-я генерирующая компания оптового рынка э/энергии»
+T8	Organization 770 789	ОАО «Мосэнергосбыт»
+N1	Reference T1 wiki:4106341	Московская областная энергосетевая компания
+N2	Reference T2 wiki:1228488	Московская объединённая электросетевая компания
+N3	Reference T3 wiki:159522	Мосэнерго
+N4	Reference T4 wiki:2953166	Московская теплосетевая компания
+N5	Reference T5 wiki:138863	ФСК ЕЭС
+N6	Reference T6 wiki:344641	РусГидро
+N7	Reference T7 wiki:586231	Оптовая генерирующая компания № 1
+N8	Reference T8 wiki:2450397	Мосэнергосбыт
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

@@ -1,0 +1,13 @@
+MGM Holdings
+@Группы компаний, которыми владеет и управляет ''MGM''
+@Производство фильмов/дистрибуция и домашние развлечения
+1230,55,0
+
+
+Производство фильмов/дистрибуция и домашние развлечения
+
+Metro-Goldwyn-Mayer Pictures Inc.
+	United Artists Corporation
+	Orion Pictures Corporation
+	MGM Home Entertainment Distribution Corporation
+

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Балтимор-Холдинг
+T2	Organization 262 270	Unilever
+N1	Reference T1 wiki:1534678	Балтимор-Холдинг
+N2	Reference T2 wiki:198503	Unilever
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 13	China Telecom
+T2	Organization 260 263	SAP
+N1	Reference T1 wiki:3661466	China Telecom
+N2	Reference T2 wiki:81959	SAP
+A1	IsLink T2

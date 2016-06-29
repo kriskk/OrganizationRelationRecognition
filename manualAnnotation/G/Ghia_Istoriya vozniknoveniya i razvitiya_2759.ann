@@ -1,0 +1,9 @@
+T1	Organization 0 4	Ghia
+T2	Organization 375 381	Lancia
+T3	Organization 412 422	Alfa Romeo
+N1	Reference T1 wiki:1563416	Ghia
+N2	Reference T2 wiki:1503078	Lancia
+N3	Reference T3 wiki:371643	Alfa Romeo
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

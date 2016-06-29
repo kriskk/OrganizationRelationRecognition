@@ -1,0 +1,5 @@
+T1	Organization 0 6	Danone
+T2	Organization 371 378	Юнимилк
+N1	Reference T1 wiki:279435	Danone
+N2	Reference T2 wiki:213110	Юнимилк
+A1	IsLink T2

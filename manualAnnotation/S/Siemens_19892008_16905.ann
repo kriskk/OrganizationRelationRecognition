@@ -1,0 +1,5 @@
+T1	Organization 0 7	Siemens
+T2	Organization 404 413	Iberdrola
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:2102234	Iberdrola
+A1	IsLink T2

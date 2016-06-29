@@ -1,0 +1,14 @@
+T1	Organization 0 15	Базовый элемент
+T2	Organization 234 241	Strabag
+T3	Organization 248 267	Magna International
+T4	Organization 377 385	Hochtief
+T5	Organization 580 587	Strabag
+N1	Reference T1 wiki:156379	Базовый элемент
+N2	Reference T2 wiki:376579	Strabag
+N3	Reference T3 wiki:232905	Magna International
+N4	Reference T4 wiki:165402	Hochtief
+N5	Reference T5 wiki:376579	Strabag
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

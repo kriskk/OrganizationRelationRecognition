@@ -1,0 +1,7 @@
+Rainbow Security
+@summary
+370,1547
+
+К 2007 году Rainbow Technologies уже представляла наиболее полный спектр решений, способный удовлетворить большинство задач в области информационной безопасности. В продуктовый портфель входят системы следующих производителей: ActivIdentity, Entrust, Precise Biometrics, Raritan, SafeNet, Tumbleweed и WatchGuard Technologies.
+
+В 2009 году партнерская сеть Rainbow Technologies состоит из более чем 140-ка партнеров и является представителем восьми иностранных производителей: ActivIdentity, EEye, Entrust, Precise Biometrics, SafeNet, Sourcefire, WatchGuard и WIBU-SYSTEMS.

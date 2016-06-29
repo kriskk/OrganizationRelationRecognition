@@ -1,0 +1,6 @@
+T1	Organization 0 9	Yen Press
+T2	Organization 181 192	A.D. Vision
+N1	Reference T1 wiki:2146514	Yen Press
+N2	Reference T2 wiki:341542	A.D. Vision
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

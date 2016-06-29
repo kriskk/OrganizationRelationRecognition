@@ -1,0 +1,5 @@
+T1	Organization 0 5	Медси
+T2	Organization 194 204	Коммерсант
+N1	Reference T1 wiki:3268681	Медси
+N2	Reference T2 wiki:179871	Коммерсантъ (издательский дом)
+A1	IsLink T2

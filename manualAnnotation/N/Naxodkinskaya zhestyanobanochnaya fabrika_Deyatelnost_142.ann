@@ -1,0 +1,6 @@
+T1	Organization 0 36	Находкинская жестянобаночная фабрика
+T2	Organization 261 293	Холмской жестянобаночной фабрики
+N1	Reference T1 wiki:2708031	Находкинская жестянобаночная фабрика
+N2	Reference T2 wiki:3991344	Холмская жестянобаночная фабрика
+A1	IsLink T2
+A2	TypeRel T2 Competitor

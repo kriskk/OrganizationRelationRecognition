@@ -1,0 +1,10 @@
+T1	Organization 0 38	Warner Bros. Interactive Entertainment
+T2	Organization 194 211	Eidos Interactive
+T3	Organization 431 439	EA Games
+N1	Reference T1 wiki:2184337	Warner Bros. Interactive Entertainment
+N2	Reference T2 wiki:806750	Eidos Interactive
+N3	Reference T3 wiki:323143	EA Games
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

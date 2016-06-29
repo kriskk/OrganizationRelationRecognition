@@ -1,0 +1,5 @@
+T1	Organization 0 23	Завод аэропланов Анатра
+T2	Organization 207 213	Ньюпор
+N1	Reference T1 wiki:4395793	Завод аэропланов Анатра
+N2	Reference T2 wiki:3288716	Nieuport
+A1	TypeRel T2 Cooperator

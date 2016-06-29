@@ -1,0 +1,10 @@
+T1	Organization 0 7	Росатом
+T2	Organization 240 273	Ульбинский металлургический завод
+T3	Organization 424 454	Чепецкого механического завода
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:3198113	Ульбинский металлургический завод
+N3	Reference T3 wiki:4267822	Чепецкий механический завод
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

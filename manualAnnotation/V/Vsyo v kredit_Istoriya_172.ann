@@ -1,0 +1,13 @@
+T1	Organization 0 12	Всё в кредит
+T2	Organization 292 300	NetByNet
+T3	Organization 572 580	NetByNet
+T4	Organization 630 637	МегаФон
+N1	Reference T1 wiki:3908170	Всё в кредит
+N2	Reference T2 wiki:1635189	NetByNet
+N3	Reference T3 wiki:1635189	NetByNet
+N4	Reference T4 wiki:70933	МегаФон
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Personnel
+A5	TypeRel T3 Personnel

@@ -1,0 +1,10 @@
+T1	Organization 0 19	Étranges Libellules
+T2	Organization 141 151	Infogrames
+T3	Organization 154 159	Atari
+N1	Reference T1 wiki:2925408	Étranges Libellules
+N2	Reference T2 wiki:3469859	Infogrames
+N3	Reference T3 wiki:308218	Atari
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

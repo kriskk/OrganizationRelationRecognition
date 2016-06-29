@@ -1,0 +1,11 @@
+T1	Organization 0 10	Addventure
+T2	Organization 221 225	Бука
+T3	Organization 237 239	1С
+T4	Organization 386 397	Группы QIWI
+N1	Reference T1 wiki:3379535	Addventure
+N2	Reference T2 wiki:367355	Бука (компания)
+N3	Reference T3 wiki:34936	1С
+N4	Reference T4 wiki:2398238	QIWI
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

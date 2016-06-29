@@ -1,0 +1,6 @@
+T1	Organization 0 7	Газпром
+T2	Organization 76 89	Latvijas Gāze
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:1033566	Latvijas Gāze
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

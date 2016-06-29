@@ -1,0 +1,11 @@
+T1	Organization 0 9	Ред Медиа
+T2	Organization 155 163	Eutelsat
+T3	Organization 190 198	НТВ-Плюс
+T4	Organization 202 213	Триколор ТВ
+N1	Reference T1 wiki:1938031	Ред Медиа
+N2	Reference T2 wiki:167180	Eutelsat
+N3	Reference T3 wiki:723124	НТВ-Плюс
+N4	Reference T4 wiki:1320142	Триколор ТВ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

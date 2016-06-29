@@ -1,0 +1,5 @@
+T1	Organization 0 9	Пицца Хат
+T2	Organization 162 173	Yum! Brands
+N1	Reference T1 wiki:1270413	Пицца Хат
+N2	Reference T2 wiki:206472	Yum! Brands
+A1	TypeRel T2 Holder

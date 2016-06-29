@@ -1,0 +1,11 @@
+T1	Organization 0 5	Элсиб
+T2	Organization 154 166	НПО «Сатурн»
+T3	Organization 368 378	Транснефть
+T4	Organization 454 462	РусГидро
+N1	Reference T1 wiki:2868530	Элсиб
+N2	Reference T2 wiki:233902	Сатурн (НПО)
+N3	Reference T3 wiki:147540	Транснефть
+N4	Reference T4 wiki:344641	РусГидро
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

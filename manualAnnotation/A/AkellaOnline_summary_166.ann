@@ -1,0 +1,8 @@
+T1	Organization 0 13	Akella-Online
+T2	Organization 205 230	Sony Online Entertainment
+T3	Organization 233 248	Firefly Studios
+N1	Reference T1 wiki:4426975	Akella-Online
+N2	Reference T2 wiki:3228138	Sony Online Entertainment
+N3	Reference T3 wiki:1841259	Firefly Studios
+A1	IsLink T2
+A2	IsLink T3

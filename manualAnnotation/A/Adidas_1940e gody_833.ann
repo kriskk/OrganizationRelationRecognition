@@ -1,0 +1,5 @@
+T1	Organization 0 6	Adidas
+T2	Organization 270 274	Puma
+N1	Reference T1 wiki:243642	Adidas
+N2	Reference T2 wiki:258966	Puma AG
+A1	IsLink T2

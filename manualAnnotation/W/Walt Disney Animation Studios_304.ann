@@ -1,0 +1,6 @@
+T1	Organization 0 29	Walt Disney Animation Studios
+T2	Organization 190 213	The Walt Disney Company
+N1	Reference T1 wiki:345492	Walt Disney Animation Studios
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,8 @@
+T1	Organization 0 18	Square Enix Europe
+T2	Organization 112 128	Crystal Dynamics
+T3	Organization 244 258	IO Interactive
+N1	Reference T1 wiki:3623123	Square Enix Europe
+N2	Reference T2 wiki:1475200	Crystal Dynamics
+N3	Reference T3 wiki:591796	IO Interactive
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 4	Rába
+T2	Organization 197 200	MAN
+N1	Reference T1 wiki:298600	Rába
+N2	Reference T2 wiki:42703	MAN
+A1	TypeRel T2 Cooperator

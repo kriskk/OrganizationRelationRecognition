@@ -1,0 +1,5 @@
+T1	Organization 0 7	Bulgari
+T2	Organization 316 320	LVMH
+N1	Reference T1 wiki:2236312	Bulgari
+N2	Reference T2 wiki:381313	LVMH
+A1	IsLink T2

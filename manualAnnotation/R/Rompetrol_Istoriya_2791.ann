@@ -1,0 +1,5 @@
+T1	Organization 0 9	Rompetrol
+T2	Organization 179 182	OMV
+N1	Reference T1 wiki:376654	Rompetrol
+N2	Reference T2 wiki:209927	OMV
+A1	IsLink T2

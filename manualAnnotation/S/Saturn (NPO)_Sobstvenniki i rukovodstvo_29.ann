@@ -1,0 +1,8 @@
+T1	Organization 0 12	Сатурн (НПО)
+T2	Organization 238 248	Оборонпром
+T3	Organization 298 343	Объединённая двигателестроительная корпорация
+N1	Reference T1 wiki:233902	Сатурн (НПО)
+N2	Reference T2 wiki:757437	Оборонпром
+N3	Reference T3 wiki:2353507	Объединённая двигателестроительная корпорация
+A1	IsLink T2
+A2	IsLink T3

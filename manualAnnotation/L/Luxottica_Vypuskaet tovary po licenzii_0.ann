@@ -1,0 +1,37 @@
+T1	Organization 0 9	Luxottica
+T2	Organization 95 110	Brooks Brothers
+T3	Organization 113 120	Bulgari
+T4	Organization 123 131	Burberry
+T5	Organization 134 140	Chanel
+T6	Organization 165 168	D&G
+T7	Organization 171 184	Dolce&Gabbana
+T8	Organization 233 250	Polo Ralph Lauren
+T9	Organization 266 271	Prada
+T10	Organization 311 323	Ralph Lauren
+T11	Organization 345 358	Tiffany & Co.
+N1	Reference T1 wiki:2883102	Luxottica
+N2	Reference T2 wiki:3525175	Brooks Brothers
+N3	Reference T3 wiki:2236312	Bulgari
+N4	Reference T4 wiki:324756	Burberry
+N5	Reference T5 wiki:224214	Chanel
+N6	Reference T6 wiki:774074	D&G
+N7	Reference T7 wiki:774074	Dolce&Gabbana
+N8	Reference T8 wiki:654378	Polo Ralph Lauren
+N9	Reference T9 wiki:1029013	Prada
+N10	Reference T10 wiki:654378	Ralph Lauren
+N11	Reference T11 wiki:1909598	Tiffany & Co.
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	TypeRel T2 Subsidiary
+A12	TypeRel T3 Subsidiary
+A13	TypeRel T4 Subsidiary
+A14	TypeRel T5 Subsidiary
+A15	TypeRel T6 Subsidiary

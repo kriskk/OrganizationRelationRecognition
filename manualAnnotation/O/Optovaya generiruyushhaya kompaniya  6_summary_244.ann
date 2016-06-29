@@ -1,0 +1,5 @@
+T1	Organization 0 33	Оптовая генерирующая компания № 6
+T2	Organization 204 209	ОГК-2
+N1	Reference T1 wiki:741520	Оптовая генерирующая компания № 6
+N2	Reference T2 wiki:456796	Оптовая генерирующая компания № 2
+A1	TypeRel T2 Holder

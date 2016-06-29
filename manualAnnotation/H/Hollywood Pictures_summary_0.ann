@@ -1,0 +1,18 @@
+T1	Organization 0 18	Hollywood Pictures
+T2	Organization 102 123	компании Уолта Диснея
+T3	Organization 162 181	Touchstone Pictures
+T4	Organization 186 199	Miramax Films
+T5	Organization 264 284	Walt Disney Pictures
+T6	Organization 446 465	Touchstone Pictures
+N1	Reference T1 wiki:1398376	Hollywood Pictures
+N2	Reference T2 wiki:319365	The Walt Disney Company
+N3	Reference T3 wiki:348128	Touchstone Pictures
+N4	Reference T4 wiki:20301	Miramax Films
+N5	Reference T5 wiki:323330	Walt Disney Pictures
+N6	Reference T6 wiki:348128	Touchstone Pictures
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder

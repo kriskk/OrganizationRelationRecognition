@@ -1,0 +1,8 @@
+T1	Organization 0 5	Тасма
+T2	Organization 74 79	Свема
+T3	Organization 136 171	Казанский оптико-механический завод
+N1	Reference T1 wiki:3907149	Тасма
+N2	Reference T2 wiki:380761	Свема
+N3	Reference T3 wiki:2686514	Казанский оптико-механический завод
+A1	IsLink T2
+A2	IsLink T3

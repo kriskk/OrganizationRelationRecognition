@@ -1,0 +1,5 @@
+T1	Organization 0 37	Красногорский завод им. С. А. Зверева
+T2	Organization 308 321	Ростехнологии
+N1	Reference T1 wiki:104113	Красногорский завод им. С. А. Зверева
+N2	Reference T2 wiki:915063	Ростехнологии
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 42	ОАО «Волгодонский комбинат древесных плит»
+T2	Organization 278 294	 ООО «ИКЕА Торг»
+N1	Reference T1 wiki:3289018	ОАО «Волгодонский комбинат древесных плит»
+N2	Reference T2 wiki:164679	IKEA
+A1	TypeRel T2 Cooperator

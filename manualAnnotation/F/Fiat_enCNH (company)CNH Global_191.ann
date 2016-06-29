@@ -1,0 +1,11 @@
+T1	Organization 0 4	Fiat
+T2	Organization 291 298	Hitachi
+T3	Organization 450 466	Deere & Company.
+T4	Organization 574 581	Komatsu
+N1	Reference T1 wiki:91784	Fiat
+N2	Reference T2 wiki:141241	Hitachi, Ltd.
+N3	Reference T3 wiki:1958385	Deere & Company
+N4	Reference T4 wiki:744230	Komatsu
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

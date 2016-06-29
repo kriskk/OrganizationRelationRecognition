@@ -1,0 +1,6 @@
+T1	Organization 0 13	Infinity Ward
+T2	Organization 331 339	Treyarch
+N1	Reference T1 wiki:1692228	Infinity Ward
+N2	Reference T2 wiki:1692565	Treyarch
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

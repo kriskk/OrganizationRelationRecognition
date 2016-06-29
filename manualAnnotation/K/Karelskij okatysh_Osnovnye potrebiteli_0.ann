@@ -1,0 +1,13 @@
+T1	Organization 0 17	Карельский окатыш
+T2	Organization 73 83	Северсталь
+T3	Organization 88 101	ArcelorMittal
+T4	Organization 273 283	Северсталь
+N1	Reference T1 wiki:153136	Карельский окатыш
+N2	Reference T2 wiki:149218	Северсталь
+N3	Reference T3 wiki:354086	ArcelorMittal
+N4	Reference T4 wiki:149218	Северсталь
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

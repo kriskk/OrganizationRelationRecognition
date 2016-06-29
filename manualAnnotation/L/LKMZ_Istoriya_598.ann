@@ -1,0 +1,5 @@
+T1	Organization 0 4	ЛКМЗ
+T2	Organization 220 246	Индустриальную группу УПЭК
+N1	Reference T1 wiki:2025951	ЛКМЗ
+N2	Reference T2 wiki:3597216	Индустриальная группа УПЭК
+A1	TypeRel T2 Holder

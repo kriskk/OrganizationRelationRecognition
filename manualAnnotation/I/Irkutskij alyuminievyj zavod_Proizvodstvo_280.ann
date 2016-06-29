@@ -1,0 +1,5 @@
+T1	Organization 0 27	Иркутский алюминиевый завод
+T2	Organization 225 257	Ачинского глинозёмного комбината
+N1	Reference T1 wiki:2305798	Иркутский алюминиевый завод
+N2	Reference T2 wiki:1276781	Ачинский глинозёмный комбинат
+A1	TypeRel T2 Cooperator

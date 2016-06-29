@@ -1,0 +1,8 @@
+T1	Organization 0 25	Sony Online Entertainment
+T2	Organization 307 333	Warner Bros. Entertainment
+T3	Organization 495 530	Sony Computer Entertainment America
+N1	Reference T1 wiki:3228138	Sony Online Entertainment
+N2	Reference T2 wiki:272386	Warner Bros.
+N3	Reference T3 wiki:1454994	Sony Computer Entertainment
+A1	IsLink T2
+A2	IsLink T3

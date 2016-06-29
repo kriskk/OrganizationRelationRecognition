@@ -1,0 +1,6 @@
+T1	Organization 0 13	Исток-Система
+T2	Organization 189 200	НПП „Исток“
+N1	Reference T1 wiki:1756753	Исток-Система
+N2	Reference T2 wiki:2747216	Научно-производственное предприятие «Исток»
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

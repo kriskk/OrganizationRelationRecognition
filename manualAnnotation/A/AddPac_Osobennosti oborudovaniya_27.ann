@@ -1,0 +1,5 @@
+T1	Organization 0 6	AddPac
+T2	Organization 288 293	Cisco
+N1	Reference T1 wiki:1848381	AddPac
+N2	Reference T2 wiki:25014	Cisco
+A1	IsLink T2

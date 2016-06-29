@@ -1,0 +1,6 @@
+T1	Organization 0 14	People Can Fly
+T2	Organization 183 193	Epic Games
+N1	Reference T1 wiki:1892096	People Can Fly
+N2	Reference T2 wiki:2094890	Epic Games
+A1	IsLink T2
+A2	TypeRel T2 Holder

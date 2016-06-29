@@ -1,0 +1,6 @@
+T1	Organization 0 20	Газпром межрегионгаз
+T2	Organization 254 273	Межрегионэнергосбыт
+N1	Reference T1 wiki:2682262	Газпром межрегионгаз
+N2	Reference T2 wiki:2682166	Межрегионэнергосбыт
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

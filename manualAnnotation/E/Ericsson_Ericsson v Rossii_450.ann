@@ -1,0 +1,5 @@
+T1	Organization 0 8	Ericsson
+T2	Organization 253 273	завод «Красная Заря»
+N1	Reference T1 wiki:711402	Ericsson
+N2	Reference T2 wiki:3578277	Красная Заря (завод)
+A1	IsLink T2

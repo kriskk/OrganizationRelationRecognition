@@ -1,0 +1,14 @@
+T1	Organization 0 15	American Motors
+T2	Organization 286 310	Hudson Motor Car Company
+T3	Organization 615 629	General Motors
+T4	Organization 631 635	Ford
+T5	Organization 638 646	Chrysler
+N1	Reference T1 wiki:3346012	American Motors
+N2	Reference T2 wiki:3305044	Hudson Motor Car Company
+N3	Reference T3 wiki:17438	General Motors
+N4	Reference T4 wiki:153236	Ford
+N5	Reference T5 wiki:223902	Chrysler
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

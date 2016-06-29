@@ -1,0 +1,6 @@
+T1	Organization 0 36	Пермский моторостроительный комплекс
+T2	Organization 215 238	Пермский моторный завод
+N1	Reference T1 wiki:915035	Пермский моторостроительный комплекс
+N2	Reference T2 wiki:2283590	Пермский моторный завод
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

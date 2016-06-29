@@ -1,0 +1,6 @@
+T1	Organization 0 16	Lucas Industries
+T2	Organization 236 242	Austin
+N1	Reference T1 wiki:4032641	Lucas Industries
+N2	Reference T2 wiki:4041862	Austin Motor Company
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

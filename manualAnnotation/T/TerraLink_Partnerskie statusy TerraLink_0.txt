@@ -1,0 +1,16 @@
+ТерраЛинк
+@Партнерские статусы TerraLink
+1394,0
+
+
+Партнерские статусы TerraLink
+
+
+ Золотой партнер Microsoft;
+	 Прямой партнер EMC;
+	 Премьер-партнер Open Text;
+	 PartnerEdge, VAR SAP;
+	 Бизнес-партнер Oracle, HP, IBM, Panduit, Lenovo, Tandberg;
+	 Авторизованный дистрибьютор Dialogic, HID (Fargo), Plasmon, emFAST.
+
+

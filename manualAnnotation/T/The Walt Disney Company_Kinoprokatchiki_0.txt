@@ -1,0 +1,13 @@
+The Walt Disney Company
+@Подразделения
+@Развлекательное подразделение
+@Кинопрокатчики
+17598,22,18828,0
+
+
+Кинопрокатчики
+
+ WDSSPR (Walt Disney Studios Sony Pictures Releasing)
+	 BVSPR (Buena Vista Sony Pictures Releasing)
+
+

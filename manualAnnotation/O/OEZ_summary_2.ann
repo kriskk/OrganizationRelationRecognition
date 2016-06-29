@@ -1,0 +1,5 @@
+T1	Organization 0 3	OEZ
+T2	Organization 175 182	Siemens
+N1	Reference T1 wiki:4023791	OEZ
+N2	Reference T2 wiki:36510	Siemens
+A1	TypeRel T2 Holder

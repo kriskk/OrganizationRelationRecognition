@@ -1,0 +1,5 @@
+T1	Organization 0 12	Аксаковнефть
+T2	Organization 170 182	Ишимбайнефть
+N1	Reference T1 wiki:4120874	Аксаковнефть
+N2	Reference T2 wiki:3176390	Ишимбайнефть
+A1	IsLink T2

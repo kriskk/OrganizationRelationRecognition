@@ -1,0 +1,5 @@
+T1	Organization 0 9	Infowatch
+T2	Organization 215 222	Gartner
+N1	Reference T1 wiki:2098817	Infowatch
+N2	Reference T2 wiki:2960363	Gartner
+A1	TypeRel T2 Other

@@ -1,0 +1,9 @@
+T1	Organization 0 39	Егоров, Пугинский, Афанасьев и партнёры
+T2	Organization 425 437	Sibir Energy
+T3	Organization 492 500	Сибнефти
+N1	Reference T1 wiki:2882521	Егоров, Пугинский, Афанасьев и партнёры
+N2	Reference T2 wiki:629605	Sibir Energy
+N3	Reference T3 wiki:121955	Газпром нефть
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

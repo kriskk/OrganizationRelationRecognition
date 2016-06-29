@@ -1,0 +1,8 @@
+T1	Organization 0 14	Studio Proteus
+T2	Organization 250 259	Viz Media
+T3	Organization 334 344	Dark Horse
+N1	Reference T1 wiki:1306520	Studio Proteus
+N2	Reference T2 wiki:1037814	Viz Media
+N3	Reference T3 wiki:868962	Dark Horse Comics
+A1	IsLink T2
+A2	IsLink T3

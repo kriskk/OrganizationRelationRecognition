@@ -1,0 +1,6 @@
+T1	Organization 0 11	Yandex Labs
+T2	Organization 167 173	Яндекс
+N1	Reference T1 wiki:4420190	Yandex Labs
+N2	Reference T2 wiki:9744	Яндекс
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,10 @@
+T1	Organization 0 6	Ренова
+T2	Organization 224 232	ЭМАльянс
+T3	Organization 287 292	РЭМКО
+N1	Reference T1 wiki:158879	Ренова
+N2	Reference T2 wiki:423239	ЭМАльянс
+N3	Reference T3 wiki:1716174	РЭМКО
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Subsidiary

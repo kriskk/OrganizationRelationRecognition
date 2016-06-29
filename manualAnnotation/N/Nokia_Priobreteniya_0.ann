@@ -1,0 +1,12 @@
+T1	Organization 0 5	Nokia
+T2	Organization 124 128	Sega
+T3	Organization 479 486	Siemens
+T4	Organization 691 713	Nokia Siemens Networks
+N1	Reference T1 wiki:56405	Nokia
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:36510	Siemens
+N4	Reference T4 wiki:354923	Nokia Siemens Networks
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary
+A4	TypeRel T3 Cooperator

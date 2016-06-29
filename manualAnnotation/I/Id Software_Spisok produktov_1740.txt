@@ -1,0 +1,20 @@
+Id Software
+@Список продуктов
+6540,1740
+
+	 HeXen II: Portal of Praevus (1998)
+	 Quake (1996)
+	 Mission Pack 1: Scourge of Armagon (1997) (разработана компанией Hipnotic Interactive, позже ставшей называться Ritual Entertainment)
+		 Mission Pack 2: Dissolution of Eternity (1997) (разработана компанией Rogue Entertainment)
+	 Quake II (1997)
+	 Mission Pack 1: The Reckoning (1998) (разработана компанией Xatrix Entertainment, позже ставшей называться Gray Matter Interactive)
+		 Mission Pack 2: Ground Zero (1998) (разработана компанией Rogue Entertainment)
+	 DOOM 64 (1997) (разработан Midway Interactive для Nintendo 64)
+	 DOOM 64: The Outcast Levels (2005)
+	 Quake III Arena (1999)
+	 Expansion: Team Arena (2000)
+	 Return to Castle Wolfenstein (2001) (разработана компанией Gray Matter Interactive, мультиплеер разработан компанией Nerve Software)
+	 Wolfenstein: Enemy Territory (2003) (разработана компанией Splash Damage)
+	 Doom 3 (2004)
+	 Expansion: Resurrection of Evil (2005) (разработана компанией Nerve Software)
+	 Doom RPG (2005) (разработана id Software для Мобильных телефонов)

@@ -1,0 +1,6 @@
+T1	Organization 0 16	X-Com (компания)
+T2	Organization 246 249	OKI
+N1	Reference T1 wiki:3684168	X-Com (компания)
+N2	Reference T2 wiki:2753271	OKI
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

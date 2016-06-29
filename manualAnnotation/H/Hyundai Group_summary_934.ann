@@ -1,0 +1,5 @@
+T1	Organization 0 13	Hyundai Group
+T2	Organization 196 232	Hyundai Engineering and Construction
+N1	Reference T1 wiki:3106011	Hyundai Group
+N2	Reference T2 wiki:1707127	Hyundai Engineering and Construction
+A1	TypeRel T2 Holder

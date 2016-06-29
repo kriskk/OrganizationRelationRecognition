@@ -1,0 +1,8 @@
+T1	Organization 0 35	Петербургская транспортная компания
+T2	Organization 215 231	Волжанин-5270.06
+T3	Organization 572 580	ПАЗ-3205
+N1	Reference T1 wiki:676987	Петербургская транспортная компания
+N2	Reference T2 wiki:149679	Волжанин
+N3	Reference T3 wiki:97930	ПАЗ
+A1	IsLink T2
+A2	IsLink T3

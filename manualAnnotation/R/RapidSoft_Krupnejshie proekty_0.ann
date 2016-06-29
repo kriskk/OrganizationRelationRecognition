@@ -1,0 +1,8 @@
+T1	Organization 0 9	RapidSoft
+T2	Organization 170 173	РЖД
+T3	Organization 311 321	HeadHunter
+N1	Reference T1 wiki:4477668	RapidSoft
+N2	Reference T2 wiki:106901	РЖД
+N3	Reference T3 wiki:3939259	HeadHunter (компания)
+A1	IsLink T2
+A2	IsLink T3

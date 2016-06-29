@@ -1,0 +1,5 @@
+T1	Organization 0 5	SAGEM
+T2	Organization 172 178	SAFRAN
+N1	Reference T1 wiki:65325	SAGEM
+N2	Reference T2 wiki:1015576	SAFRAN
+A1	TypeRel T2 Holder

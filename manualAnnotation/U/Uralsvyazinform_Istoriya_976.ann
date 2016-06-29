@@ -1,0 +1,5 @@
+T1	Organization 0 15	Уралсвязьинформ
+T2	Organization 329 339	Ростелеком
+N1	Reference T1 wiki:91190	Уралсвязьинформ
+N2	Reference T2 wiki:145844	Ростелеком
+A1	TypeRel T2 Holder

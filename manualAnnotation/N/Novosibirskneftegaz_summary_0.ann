@@ -1,0 +1,5 @@
+T1	Organization 0 19	Новосибирскнефтегаз
+T2	Organization 87 107	ОАО «ТНК-ВР Холдинг»
+N1	Reference T1 wiki:577221	Новосибирскнефтегаз
+N2	Reference T2 wiki:17252	ТНК-ВР
+A1	TypeRel T2 Holder

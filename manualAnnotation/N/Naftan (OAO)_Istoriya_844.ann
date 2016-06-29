@@ -1,0 +1,9 @@
+T1	Organization 0 12	Нафтан (ОАО)
+T2	Organization 286 292	Нафтан
+T3	Organization 301 307	Лукойл
+N1	Reference T1 wiki:2434162	Нафтан (ОАО)
+N2	Reference T2 wiki:2434162	Нафтан
+N3	Reference T3 wiki:59354	Лукойл
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

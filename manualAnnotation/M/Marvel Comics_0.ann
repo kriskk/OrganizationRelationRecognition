@@ -1,0 +1,10 @@
+T1	Organization 0 13	Marvel Comics
+T2	Organization 90 96	Marvel
+T3	Organization 322 337	Activision Inc.
+N1	Reference T1 wiki:351306	Marvel Comics
+N2	Reference T2 wiki:3272761	Marvel Entertainment
+N3	Reference T3 wiki:307964	Activision
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

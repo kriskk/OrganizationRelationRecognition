@@ -1,0 +1,6 @@
+T1	Organization 0 5	Varus
+T2	Organization 175 192	BDO International
+N1	Reference T1 wiki:3529597	Varus
+N2	Reference T2 wiki:3179758	BDO International
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

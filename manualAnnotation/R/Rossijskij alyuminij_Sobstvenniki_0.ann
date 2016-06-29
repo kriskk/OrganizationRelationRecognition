@@ -1,0 +1,11 @@
+T1	Organization 0 19	Российский алюминий
+T2	Organization 117 120	En+
+T3	Organization 192 206	Группе ОНЭКСИМ
+T4	Organization 245 253	Glencore
+N1	Reference T1 wiki:598084	Российский алюминий
+N2	Reference T2 wiki:1909698	En+
+N3	Reference T3 wiki:1526001	Группа ОНЭКСИМ
+N4	Reference T4 wiki:372443	Glencore
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

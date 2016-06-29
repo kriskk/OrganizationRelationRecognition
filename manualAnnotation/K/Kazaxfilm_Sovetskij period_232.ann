@@ -1,0 +1,14 @@
+T1	Organization 0 10	Казахфильм
+T2	Organization 249 257	Мосфильм
+T3	Organization 342 350	Мосфильм
+T4	Organization 584 603	Рижской киностудией
+N1	Reference T1 wiki:356848	Казахфильм
+N2	Reference T2 wiki:25605	Мосфильм
+N3	Reference T3 wiki:25605	Мосфильм
+N4	Reference T4 wiki:301819	Рижская киностудия
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

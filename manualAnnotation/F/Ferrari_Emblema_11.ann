@@ -1,0 +1,5 @@
+T1	Organization 0 7	Ferrari
+T2	Organization 256 266	Alfa Romeo
+N1	Reference T1 wiki:124051	Ferrari
+N2	Reference T2 wiki:371643	Alfa Romeo
+A1	IsLink T2

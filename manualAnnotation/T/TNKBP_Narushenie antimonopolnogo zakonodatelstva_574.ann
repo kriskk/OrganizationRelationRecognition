@@ -1,0 +1,5 @@
+T1	Organization 0 6	ТНК-BP
+T2	Organization 230 242	Standard Oil
+N1	Reference T1 wiki:17252	ТНК-BP
+N2	Reference T2 wiki:1530444	Standard Oil
+A1	IsLink T2

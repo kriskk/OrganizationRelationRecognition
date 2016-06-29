@@ -1,0 +1,10 @@
+T1	Organization 0 7	Grolsch
+T2	Organization 243 252	SABMiller
+T3	Organization 354 368	Anheuser-Busch
+N1	Reference T1 wiki:746268	Grolsch
+N2	Reference T2 wiki:181056	SABMiller
+N3	Reference T3 wiki:489317	Anheuser-Busch
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator
+A4	TypeRel T2 Holder

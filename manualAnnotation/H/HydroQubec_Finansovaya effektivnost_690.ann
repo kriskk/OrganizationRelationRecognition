@@ -1,0 +1,14 @@
+T1	Organization 0 12	Hydro-Québec
+T2	Organization 277 284	Moody's
+T3	Organization 361 374	Fitch Ratings
+T4	Organization 396 413	Standard & Poor's
+N1	Reference T1 wiki:1817394	Hydro-Québec
+N2	Reference T2 wiki:363292	Moody's
+N3	Reference T3 wiki:2180281	Fitch Ratings
+N4	Reference T4 wiki:198286	Standard & Poor's
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Other
+A5	TypeRel T3 Other
+A6	TypeRel T4 Other

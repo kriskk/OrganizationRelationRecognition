@@ -1,0 +1,8 @@
+T1	Organization 0 8	Башнефть
+T2	Organization 265 271	Лукойл
+T3	Organization 437 446	РуссНефть
+N1	Reference T1 wiki:180383	Башнефть
+N2	Reference T2 wiki:59354	Лукойл
+N3	Reference T3 wiki:159970	РуссНефть
+A1	IsLink T2
+A2	IsLink T3

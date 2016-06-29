@@ -1,0 +1,6 @@
+T1	Organization 0 11	МРСК Сибири
+T2	Organization 287 303	РАО «ЕЭС России»
+N1	Reference T1 wiki:3436230	МРСК Сибири
+N2	Reference T2 wiki:1432138	ЕЭС России (компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

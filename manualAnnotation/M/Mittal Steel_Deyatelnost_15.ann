@@ -1,0 +1,6 @@
+T1	Organization 0 12	Mittal Steel
+T2	Organization 310 323	Криворожсталь
+N1	Reference T1 wiki:142956	Mittal Steel
+N2	Reference T2 wiki:95226	Криворожсталь
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Автотор
+T2	Organization 128 133	Chery
+N1	Reference T1 wiki:1096940	Автотор
+N2	Reference T2 wiki:378562	Chery Automobile
+A1	IsLink T2

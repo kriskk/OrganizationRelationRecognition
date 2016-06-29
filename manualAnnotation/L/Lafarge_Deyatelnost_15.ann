@@ -1,0 +1,10 @@
+T1	Organization 0 7	Lafarge
+T2	Organization 265 270	Cemex
+T3	Organization 272 288	HeidelbergCement
+N1	Reference T1 wiki:319568	Lafarge
+N2	Reference T2 wiki:375370	Cemex
+N3	Reference T3 wiki:245618	HeidelbergCement
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

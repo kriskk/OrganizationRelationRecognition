@@ -1,0 +1,8 @@
+T1	Organization 0 20	Sunstorm Interactive
+T2	Organization 333 342	3D Realms
+T3	Organization 462 467	Apple
+N1	Reference T1 wiki:3127997	Sunstorm Interactive
+N2	Reference T2 wiki:2349412	3D Realms
+N3	Reference T3 wiki:39726	Apple
+A1	IsLink T2
+A2	IsLink T3

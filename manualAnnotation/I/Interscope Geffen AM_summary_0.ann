@@ -1,0 +1,10 @@
+T1	Organization 0 21	Interscope Geffen A&M
+T2	Organization 119 140	Universal Music Group
+T3	Organization 259 262	UMG
+N1	Reference T1 wiki:1704035	Interscope Geffen A&M
+N2	Reference T2 wiki:203047	Universal Music Group
+N3	Reference T3 wiki:203047	Universal Music Group
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

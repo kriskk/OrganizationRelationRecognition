@@ -1,0 +1,6 @@
+T1	Organization 0 7	Нанолек
+T2	Organization 110 117	Роснано
+N1	Reference T1 wiki:4044324	Нанолек
+N2	Reference T2 wiki:728818	Роснано
+A1	IsLink T2
+A2	TypeRel T2 Holder

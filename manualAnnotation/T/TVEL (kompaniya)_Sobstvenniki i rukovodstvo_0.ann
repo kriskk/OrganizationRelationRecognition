@@ -1,0 +1,8 @@
+T1	Organization 0 15	ТВЭЛ (компания)
+T2	Organization 143 157	Атомэнергопром
+T3	Organization 176 185	Росатомом
+N1	Reference T1 wiki:214333	ТВЭЛ (компания)
+N2	Reference T2 wiki:1402114	Атомэнергопром
+N3	Reference T3 wiki:1299917	Росатом (государственная корпорация)
+A1	IsLink T2
+A2	IsLink T3

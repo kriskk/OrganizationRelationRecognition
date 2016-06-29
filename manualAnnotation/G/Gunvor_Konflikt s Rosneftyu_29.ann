@@ -1,0 +1,26 @@
+T1	Organization 0 6	Gunvor
+T2	Organization 344 352	Glencore
+T3	Organization 354 359	Vitol
+T4	Organization 362 367	Shell
+T5	Organization 406 409	Eni
+T6	Organization 411 416	Vitol
+T7	Organization 419 424	Shell
+N1	Reference T1 wiki:893402	Gunvor
+N2	Reference T2 wiki:372443	Glencore International
+N3	Reference T3 wiki:1703441	Vitol
+N4	Reference T4 wiki:167625	Royal Dutch Shell
+N5	Reference T5 wiki:180394	Eni
+N6	Reference T6 wiki:1703441	Vitol
+N7	Reference T7 wiki:167625	Royal Dutch Shell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Competitor
+A8	TypeRel T3 Competitor
+A9	TypeRel T4 Competitor
+A10	TypeRel T5 Competitor
+A11	TypeRel T6 Competitor
+A12	TypeRel T7 Competitor

@@ -1,0 +1,6 @@
+T1	Organization 0 5	Orbea
+T2	Organization 158 196	Мондрагонской кооперативной корпорации
+N1	Reference T1 wiki:2764996	Orbea
+N2	Reference T2 wiki:2292716	Мондрагонская кооперативная корпорация
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 5	Nivea
+T2	Organization 80 93	Beiersdorf AG
+N1	Reference T1 wiki:2535401	Nivea
+N2	Reference T2 wiki:785151	Beiersdorf AG
+A1	IsLink T2
+A2	TypeRel T2 Holder

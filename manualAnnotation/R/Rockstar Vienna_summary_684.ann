@@ -1,0 +1,8 @@
+T1	Organization 0 15	Rockstar Vienna
+T2	Organization 336 356	Take-Two Interactive
+T3	Organization 622 633	Deep Silver
+N1	Reference T1 wiki:2329608	Rockstar Vienna
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+N3	Reference T3 wiki:2009804	Deep Silver
+A1	IsLink T2
+A2	IsLink T3

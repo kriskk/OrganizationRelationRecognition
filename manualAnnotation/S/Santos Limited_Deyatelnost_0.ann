@@ -1,0 +1,5 @@
+T1	Organization 0 14	Santos Limited
+T2	Organization 81 99	Woodside Petroleum
+N1	Reference T1 wiki:1710625	Santos Limited
+N2	Reference T2 wiki:1710616	Woodside Petroleum
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 30	Коммерсантъ (издательский дом)
+T2	Organization 230 237	Газпром
+N1	Reference T1 wiki:179871	Коммерсантъ (издательский дом)
+N2	Reference T2 wiki:44754	Газпром
+A1	IsLink T2

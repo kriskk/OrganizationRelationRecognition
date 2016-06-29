@@ -1,0 +1,5 @@
+T1	Organization 0 5	Šariš
+T2	Organization 232 238	Topvar
+N1	Reference T1 wiki:4119174	Šariš
+N2	Reference T2 wiki:4119207	Topvar
+A1	IsLink T2

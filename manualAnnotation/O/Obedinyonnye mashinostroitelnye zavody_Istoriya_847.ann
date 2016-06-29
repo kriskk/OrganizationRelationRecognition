@@ -1,0 +1,14 @@
+T1	Organization 0 38	Объединённые машиностроительные заводы
+T2	Organization 318 328	Северсталь
+T3	Organization 546 561	Красное Сормово
+T4	Organization 614 650	Волгоградский судостроительный завод
+N1	Reference T1 wiki:149170	Объединённые машиностроительные заводы
+N2	Reference T2 wiki:149218	Северсталь
+N3	Reference T3 wiki:302938	Красное Сормово
+N4	Reference T4 wiki:376457	Волгоградский судостроительный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary
+A6	TypeRel T2 Cooperator

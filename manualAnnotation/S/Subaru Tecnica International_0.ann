@@ -1,0 +1,5 @@
+T1	Organization 0 28	Subaru Tecnica International
+T2	Organization 131 152	Fuji Heavy Industries
+N1	Reference T1 wiki:3052747	Subaru Tecnica International
+N2	Reference T2 wiki:737961	Fuji Heavy Industries
+A1	IsLink T2

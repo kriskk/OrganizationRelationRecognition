@@ -1,0 +1,26 @@
+T1	Organization 0 45	Объединённая двигателестроительная корпорация
+T2	Organization 203 209	Климов
+T3	Organization 437 460	Пермский моторный завод
+T4	Organization 686 701	Моторостроитель
+T5	Organization 726 737	НПО «Искра»
+T6	Organization 941 956	Пермские моторы
+T7	Organization 975 1031	Уфимское моторостроительное производственное объединение
+N1	Reference T1 wiki:2353507	Объединённая двигателестроительная корпорация
+N2	Reference T2 wiki:1147926	Климов (компания)
+N3	Reference T3 wiki:2283590	Пермский моторный завод
+N4	Reference T4 wiki:149669	Моторостроитель
+N5	Reference T5 wiki:1592011	НПО «Искра»
+N6	Reference T6 wiki:915035	Пермские моторы
+N7	Reference T7 wiki:1704059	Уфимское моторостроительное производственное объединение
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Subsidiary
+A8	TypeRel T3 Subsidiary
+A9	TypeRel T4 Subsidiary
+A10	TypeRel T5 Subsidiary
+A11	TypeRel T6 Subsidiary
+A12	TypeRel T7 Subsidiary

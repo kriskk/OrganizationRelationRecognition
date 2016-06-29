@@ -1,0 +1,6 @@
+T1	Organization 0 6	Gakken
+T2	Organization 169 182	Goldman Sachs
+N1	Reference T1 wiki:2416172	Gakken
+N2	Reference T2 wiki:144097	Goldman Sachs
+A1	IsLink T2
+A2	TypeRel T2 Holder

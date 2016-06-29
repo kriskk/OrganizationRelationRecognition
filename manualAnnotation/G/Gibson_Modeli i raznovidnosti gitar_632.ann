@@ -1,0 +1,9 @@
+T1	Organization 0 6	Gibson
+T2	Organization 251 259	Hamilton
+T3	Organization 273 279	Kramer
+N1	Reference T1 wiki:546422	Gibson
+N2	Reference T2 wiki:1062515	Hamilton
+N3	Reference T3 wiki:2774752	Kramer Guitars
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

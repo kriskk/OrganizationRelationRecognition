@@ -1,0 +1,5 @@
+T1	Organization 0 15	GlaxoSmithKline
+T2	Organization 92 98	Pfizer
+N1	Reference T1 wiki:300698	GlaxoSmithKline
+N2	Reference T2 wiki:275429	Pfizer
+A1	TypeRel T2 Competitor

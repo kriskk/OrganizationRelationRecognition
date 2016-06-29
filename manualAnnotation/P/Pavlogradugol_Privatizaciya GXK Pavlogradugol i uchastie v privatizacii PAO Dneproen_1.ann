@@ -1,0 +1,23 @@
+T1	Organization 0 14	Павлоградуголь
+T2	Organization 269 301	Авдеевский коксохимический завод
+T3	Organization 335 360	System Capital Management
+T4	Organization 388 413	System Capital Management
+T5	Organization 522 526	ДТЭК
+T6	Organization 553 578	System Capital Management
+T7	Organization 992 996	ДТЭК
+N1	Reference T1 wiki:641254	Павлоградуголь
+N2	Reference T2 wiki:501123	Авдеевский коксохимический завод
+N3	Reference T3 wiki:36184	System Capital Management
+N4	Reference T4 wiki:36184	System Capital Management
+N5	Reference T5 wiki:449602	ДТЭК
+N6	Reference T6 wiki:36184	System Capital Management
+N7	Reference T7 wiki:449602	ДТЭК
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Holder
+A8	TypeRel T4 Holder
+A9	TypeRel T5 Holder

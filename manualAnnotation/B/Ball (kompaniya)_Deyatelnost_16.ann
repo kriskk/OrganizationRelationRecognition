@@ -1,0 +1,14 @@
+T1	Organization 0 15	Ball (компания)
+T2	Organization 211 246	Ball Aerospace & Technologies Corp.
+T3	Organization 279 288	Sabmiller
+T4	Organization 290 297	PepsiCo
+T5	Organization 299 320	The Coca-Cola Company
+N1	Reference T1 wiki:942625	Ball (компания)
+N2	Reference T2 wiki:2709093	Ball Aerospace & Technologies Corp.
+N3	Reference T3 wiki:181056	Sabmiller
+N4	Reference T4 wiki:606214	PepsiCo
+N5	Reference T5 wiki:231920	The Coca-Cola Company
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

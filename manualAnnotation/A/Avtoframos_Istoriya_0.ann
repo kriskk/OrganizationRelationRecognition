@@ -1,0 +1,8 @@
+T1	Organization 0 10	Автофрамос
+T2	Organization 129 182	ОАО «Москвич» (бывший недостроенный завод двигателей)
+T3	Organization 569 576	АвтоВАЗ
+N1	Reference T1 wiki:387742	Автофрамос
+N2	Reference T2 wiki:120499	Москвич (завод)
+N3	Reference T3 wiki:139276	АвтоВАЗ
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,10 @@
+T1	Organization 0 8	Gainward
+T2	Organization 242 250	Gigabyte
+T3	Organization 253 256	PNY
+N1	Reference T1 wiki:1367186	Gainward
+N2	Reference T2 wiki:1265773	GIGABYTE Technology
+N3	Reference T3 wiki:1536292	PNY
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

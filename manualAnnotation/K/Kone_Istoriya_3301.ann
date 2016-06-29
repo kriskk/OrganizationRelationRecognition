@@ -1,0 +1,6 @@
+T1	Organization 0 4	Kone
+T2	Organization 201 219	Schindler Elevator
+N1	Reference T1 wiki:1840978	Kone
+N2	Reference T2 wiki:1959158	Schindler
+A1	IsLink T2
+A2	TypeRel T2 Competitor

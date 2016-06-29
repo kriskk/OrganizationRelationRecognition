@@ -1,0 +1,5 @@
+T1	Organization 0 8	Unilever
+T2	Organization 226 234	Gillette
+N1	Reference T1 wiki:198503	Unilever
+N2	Reference T2 wiki:1155203	Gillette
+A1	IsLink T2

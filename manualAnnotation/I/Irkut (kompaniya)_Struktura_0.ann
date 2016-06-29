@@ -1,0 +1,5 @@
+T1	Organization 0 16	Иркут (компания)
+T2	Organization 162 179	ТАНТК им. Бериева
+N1	Reference T1 wiki:143159	Иркут (компания)
+N2	Reference T2 wiki:107173	ТАНТК им. Бериева
+A1	TypeRel T2 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 15	CBS Corporation
+T2	Organization 170 176	Viacom
+N1	Reference T1 wiki:1345414	CBS Corporation
+N2	Reference T2 wiki:399829	Viacom
+A1	IsLink T2

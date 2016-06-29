@@ -1,0 +1,5 @@
+T1	Organization 0 11	Bridgestone
+T2	Organization 256 262	Nokian
+N1	Reference T1 wiki:299590	Bridgestone
+N2	Reference T2 wiki:285375	Nokian
+A1	IsLink T2

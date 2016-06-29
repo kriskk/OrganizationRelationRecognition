@@ -1,0 +1,15 @@
+Volvo
+@Деятельность
+@Торговые марки
+3465,200,1
+
+Торговые марки
+
+Торговая марка «Volvo» принадлежит одновременно концерну Volvo и компании Volvo Personvagnar AB. Кроме того, концерну Volvo принадлежат марки:
+ Renault Trucks
+	 Mack
+	 Nissan Diesel
+	 Prevost
+	 Nova Bus
+
+

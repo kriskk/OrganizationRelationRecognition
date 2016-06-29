@@ -1,0 +1,22 @@
+T1	Organization 0 14	Вазинтерсервис
+T2	Organization 183 190	АВТОВАЗ
+T3	Organization 273 277	Lada
+T4	Organization 330 340	Группа СОК
+T5	Organization 541 554	Ростехнологии
+T6	Organization 711 724	ОАО «АвтоВАЗ»
+T7	Organization 793 810	ОАО "ПСА "Бронто"
+N1	Reference T1 wiki:1435439	Вазинтерсервис
+N2	Reference T2 wiki:139276	АВТОВАЗ
+N3	Reference T3 wiki:139277	Лада (автомобиль)
+N4	Reference T4 wiki:148557	СОК (группа)
+N5	Reference T5 wiki:915063	Ростехнологии
+N6	Reference T6 wiki:139276	ОАО «АвтоВАЗ»
+N7	Reference T7 wiki:3432303	Бронто
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Cooperator
+A7	TypeRel T4 Holder
+A8	TypeRel T6 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 3	BMW
+T2	Organization 220 232	мотоцикл BMW
+N1	Reference T1 wiki:40368	BMW
+N2	Reference T2 wiki:282106	BMW Motorrad
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 10	Группа АДВ
+T2	Organization 84 99	Arena Magic Box
+N1	Reference T1 wiki:3128900	Группа АДВ
+N2	Reference T2 wiki:1328453	Magic Box
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

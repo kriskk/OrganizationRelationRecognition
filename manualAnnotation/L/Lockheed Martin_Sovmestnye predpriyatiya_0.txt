@@ -1,0 +1,16 @@
+Lockheed Martin
+@Структура
+@Совместные предприятия
+1453,1180,0
+
+
+Совместные предприятия
+
+ International Launch Services (с Хруничевым, РКК Энергия)
+	 Lockheed Martin Alenia Tactical Transport Systems (с Alenia, сейчас завершилось)
+	 MEADS International (с EADS и MBDA)
+	 Space Imaging (46 %)
+	 United Launch Alliance (с Боингом)
+	 United Space Alliance (с Боингом)
+	 Kelly Aviation Center (с GE и Роллс-Ройсом)
+	 Protector USV — беспилотное плавательное средство с RAFAEL Armament Development Authority и BAE Systems

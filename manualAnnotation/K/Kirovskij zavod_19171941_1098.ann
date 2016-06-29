@@ -1,0 +1,5 @@
+T1	Organization 0 15	Кировский завод
+T2	Organization 287 290	ЗИС
+N1	Reference T1 wiki:208146	Кировский завод
+N2	Reference T2 wiki:259988	ЗИС
+A1	IsLink T2

@@ -1,0 +1,32 @@
+Daimler
+@Подразделения и марки
+4153,1
+
+Подразделения и марки
+
+В состав Daimler AG входят следующие подразделения:
+
+ Mercedes-Benz Cars Group — занимается производством легковых автомобилей марок:
+	 Mercedes-Benz
+		 Mercedes-AMG
+		 Smart
+	 Daimler Trucks Group — занимается производством крупнотоннажных грузовых автомобилей (и, схожих по типу производства, автобусов), двигателей марок:
+	 Mercedes-Benz
+		 Daimler Trucks North America LLC
+			 Freightliner
+				 Freightliner Custom Chassis Corporation (FCCC)
+				 Daimler Trucks Remarketing Corporation (DTRC)
+				 Daimler Trucks Government Vehicles
+				 Detroit Diesel
+				 Sterling Trucks
+				 Thomas Built Buses
+				 Western Star Trucks
+		 Mitsubishi Fuso Truck and Bus Corporation
+	 Mercedes-Benz Vans Group — занимается производством малотоннажных грузовых автомобилей марок:
+	 Mercedes-Benz
+	 Daimler Buses Group — занимается производством автобусов марок:
+	 Mercedes-Benz
+		 Orion Bus Industries
+		 Setra
+	 Daimler Financial Services — занимается финансированием проектов группы:
+	 Mercedes-Benz Bank AG

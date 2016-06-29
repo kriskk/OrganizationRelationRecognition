@@ -1,0 +1,13 @@
+T1	Organization 0 41	Уральская горно-металлургическая компания
+T2	Organization 110 121	Гайский ГОК
+T3	Organization 169 183	Учалинский ГОК
+T4	Organization 244 276	Башкирский медно-серный комбинат
+N1	Reference T1 wiki:171944	Уральская горно-металлургическая компания
+N2	Reference T2 wiki:3882103	Гайский ГОК
+N3	Reference T3 wiki:1600216	Учалинский ГОК
+N4	Reference T4 wiki:871945	Башкирский медно-серный комбинат
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary

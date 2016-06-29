@@ -1,0 +1,6 @@
+T1	Organization 0 7	Lagonda
+T2	Organization 162 174	Aston Martin
+N1	Reference T1 wiki:3656046	Lagonda
+N2	Reference T2 wiki:451029	Aston Martin
+A1	IsLink T2
+A2	TypeRel T2 Merge

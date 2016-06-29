@@ -1,0 +1,5 @@
+T1	Organization 0 9	Schibsted
+T2	Organization 42 74	Норвежское телеграфное агентство
+N1	Reference T1 wiki:307198	Schibsted
+N2	Reference T2 wiki:2199242	Норвежское телеграфное агентство
+A1	IsLink T2

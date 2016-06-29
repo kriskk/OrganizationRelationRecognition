@@ -1,0 +1,8 @@
+T1	Organization 0 6	ASRock
+T2	Organization 320 323	MSI
+T3	Organization 477 485	Gigabyte
+N1	Reference T1 wiki:2493967	ASRock
+N2	Reference T2 wiki:516860	Micro-Star International
+N3	Reference T3 wiki:1265773	Gigabyte Technology
+A1	IsLink T2
+A2	IsLink T3

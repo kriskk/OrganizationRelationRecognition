@@ -1,0 +1,5 @@
+T1	Organization 0 6	Tengen
+T2	Organization 39 44	Atari
+N1	Reference T1 wiki:3149045	Tengen
+N2	Reference T2 wiki:308218	Atari
+A1	IsLink T2

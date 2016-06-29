@@ -1,0 +1,5 @@
+T1	Organization 0 8	Кордиант
+T2	Organization 292 316	Ярославский шинный завод
+N1	Reference T1 wiki:1622512	Кордиант
+N2	Reference T2 wiki:312699	Ярославский шинный завод
+A1	IsLink T2

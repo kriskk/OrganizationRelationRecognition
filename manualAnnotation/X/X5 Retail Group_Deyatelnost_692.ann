@@ -1,0 +1,14 @@
+T1	Organization 0 15	X5 Retail Group
+T2	Organization 270 281	«Пятерочка»
+T3	Organization 329 340	Перекресток
+T4	Organization 420 427	Копейка
+N1	Reference T1 wiki:353293	X5 Retail Group
+N2	Reference T2 wiki:132128	Пятёрочка (сеть магазинов)
+N3	Reference T3 wiki:176082	Перекрёсток (сеть магазинов)
+N4	Reference T4 wiki:153659	Копейка (сеть магазинов)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

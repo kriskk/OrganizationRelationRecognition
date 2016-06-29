@@ -1,0 +1,6 @@
+T1	Organization 0 15	Корпорация AEON
+T2	Organization 204 214	Эксперт РА
+N1	Reference T1 wiki:2696279	Корпорация AEON
+N2	Reference T2 wiki:363296	Эксперт РА
+A1	IsLink T2
+A2	TypeRel T2 Other

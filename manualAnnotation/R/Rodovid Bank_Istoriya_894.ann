@@ -1,0 +1,15 @@
+T1	Organization 0 12	Родовид Банк
+T2	Organization 184 188	ПФТС
+T3	Organization 405 409	VISA
+T4	Organization 412 422	MasterCard
+T5	Organization 460 467	Moody’s
+N1	Reference T1 wiki:1532909	Родовид Банк
+N2	Reference T2 wiki:769045	ПФТС
+N3	Reference T3 wiki:36386	VISA
+N4	Reference T4 wiki:36409	MasterCard
+N5	Reference T5 wiki:363292	Moody’s
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T5 Other

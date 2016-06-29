@@ -1,0 +1,9 @@
+T1	Organization 0 61	Комсомольский-на-Амуре авиационный завод имени Ю. А. Гагарина
+T2	Organization 235 275	Авиационной Холдинговой Компании «Сухой»
+T3	Organization 808 826	корпорации «Боинг»
+N1	Reference T1 wiki:386682	Комсомольский-на-Амуре авиационный завод имени Ю. А. Гагарина
+N2	Reference T2 wiki:164779	Сухой (компания)
+N3	Reference T3 wiki:156398	Boeing
+A1	IsLink T2
+A2	TypeRel T3 Cooperator
+A3	TypeRel T2 Holder

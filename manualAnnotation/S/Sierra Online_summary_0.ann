@@ -1,0 +1,8 @@
+T1	Organization 0 13	Sierra Online
+T2	Organization 61 75	Sierra On-Line
+T3	Organization 81 101	Sierra Entertainment
+N1	Reference T1 wiki:1695980	Sierra Online
+N2	Reference T2 wiki:1561521	Sierra On-Line
+N3	Reference T3 wiki:1561521	Sierra Entertainment
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 10	Sonic Team
+T2	Organization 324 335	Naughty Dog
+N1	Reference T1 wiki:2721227	Sonic Team
+N2	Reference T2 wiki:2550773	Naughty Dog
+A1	IsLink T2

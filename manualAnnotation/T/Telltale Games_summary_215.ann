@@ -1,0 +1,5 @@
+T1	Organization 0 14	Telltale Games
+T2	Organization 190 199	LucasArts
+N1	Reference T1 wiki:4209901	Telltale Games
+N2	Reference T2 wiki:367933	LucasArts
+A1	IsLink T2

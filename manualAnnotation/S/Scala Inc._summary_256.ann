@@ -1,0 +1,26 @@
+T1	Organization 0 11	Scala, Inc.
+T2	Organization 185 189	IKEA
+T3	Organization 213 224	Burger King
+T4	Organization 226 234	T-Mobile
+T5	Organization 280 290	McDonald’s
+T6	Organization 292 304	Warner Bros.
+T7	Organization 306 311	Shell
+T8	Organization 313 317	Esso
+T9	Organization 319 327	Ericsson
+N1	Reference T1 wiki:2272404	Scala, Inc.
+N2	Reference T2 wiki:164679	IKEA
+N3	Reference T3 wiki:196541	Burger King
+N4	Reference T4 wiki:138787	T-Mobile
+N5	Reference T5 wiki:3425	McDonald’s
+N6	Reference T6 wiki:272386	Warner Brothers
+N7	Reference T7 wiki:167625	Royal Dutch Shell
+N8	Reference T8 wiki:176152	ExxonMobil
+N9	Reference T9 wiki:711402	Ericsson
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9

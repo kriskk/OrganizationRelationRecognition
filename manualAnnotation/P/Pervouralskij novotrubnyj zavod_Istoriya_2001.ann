@@ -1,0 +1,6 @@
+T1	Organization 0 32	Первоуральский новотрубный завод
+T2	Organization 247 258	Группу ЧТПЗ
+N1	Reference T1 wiki:245650	Первоуральский новотрубный завод
+N2	Reference T2 wiki:224472	Группа ЧТПЗ
+A1	IsLink T2
+A2	TypeRel T2 Holder

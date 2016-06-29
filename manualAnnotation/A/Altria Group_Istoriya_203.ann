@@ -1,0 +1,8 @@
+T1	Organization 0 12	Altria Group
+T2	Organization 186 197	Kraft Foods
+T3	Organization 252 279	Philip Morris International
+N1	Reference T1 wiki:774080	Altria Group
+N2	Reference T2 wiki:243189	Kraft Foods
+N3	Reference T3 wiki:3888163	Philip Morris
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 31	Friedrich Krupp AG Hoesch-Krupp
+T2	Organization 264 281	«ThyssenKrupp AG»
+N1	Reference T1 wiki:2422779	Friedrich Krupp AG Hoesch-Krupp
+N2	Reference T2 wiki:166657	ThyssenKrupp
+A1	IsLink T2

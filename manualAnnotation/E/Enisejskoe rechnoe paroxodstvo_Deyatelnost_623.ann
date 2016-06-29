@@ -1,0 +1,5 @@
+T1	Organization 0 29	Енисейское речное пароходство
+T2	Organization 215 232	Норильский Никель
+N1	Reference T1 wiki:92249	Енисейское речное пароходство
+N2	Reference T2 wiki:73395	Норильский Никель
+A1	IsLink T2

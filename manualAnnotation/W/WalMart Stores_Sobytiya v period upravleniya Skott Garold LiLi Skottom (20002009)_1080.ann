@@ -1,0 +1,9 @@
+T1	Organization 0 15	Wal-Mart Stores
+T2	Organization 339 350	Metro Group
+T3	Organization 619 623	Real
+N1	Reference T1 wiki:243093	Wal-Mart Stores
+N2	Reference T2 wiki:166780	Metro Group
+N3	Reference T3 wiki:1480648	Real
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 6	Ренова
+T2	Organization 277 291	ВОАО «Химпром»
+N1	Reference T1 wiki:158879	Ренова
+N2	Reference T2 wiki:735942	Химпром (Волгоград)
+A1	TypeRel T2 Subsidiary

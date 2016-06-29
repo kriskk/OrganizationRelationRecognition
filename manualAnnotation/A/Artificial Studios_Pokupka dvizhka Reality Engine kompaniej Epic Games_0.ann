@@ -1,0 +1,5 @@
+T1	Organization 0 18	Artificial Studios
+T2	Organization 184 194	Epic Games
+N1	Reference T1 wiki:2481449	Artificial Studios
+N2	Reference T2 wiki:2094890	Epic Games
+A1	IsLink T2

@@ -1,0 +1,17 @@
+T1	Organization 0 4	DEAC
+T2	Organization 163 172	Microsoft
+T3	Organization 174 178	DELL
+T4	Organization 180 183	APC
+T5	Organization 185 191	VMware
+T6	Organization 193 196	EMC
+N1	Reference T1 wiki:2636726	DEAC
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:124570	DELL
+N4	Reference T4 wiki:298746	American Power Conversion
+N5	Reference T5 wiki:205509	VMware
+N6	Reference T6 wiki:541503	EMC
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

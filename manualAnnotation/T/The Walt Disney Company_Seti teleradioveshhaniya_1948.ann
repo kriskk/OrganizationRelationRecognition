@@ -1,0 +1,5 @@
+T1	Organization 0 23	The Walt Disney Company
+T2	Organization 275 284	Lucasfilm
+N1	Reference T1 wiki:319365	The Walt Disney Company
+N2	Reference T2 wiki:2544735	Lucasfilm
+A1	IsLink T2

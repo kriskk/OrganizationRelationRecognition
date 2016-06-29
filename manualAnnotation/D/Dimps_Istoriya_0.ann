@@ -1,0 +1,8 @@
+T1	Organization 0 5	Dimps
+T2	Organization 101 107	Capcom
+T3	Organization 386 404	Namco Tales Studio
+N1	Reference T1 wiki:3373217	Dimps
+N2	Reference T2 wiki:714415	Capcom
+N3	Reference T3 wiki:327777	Namco
+A1	IsLink T2
+A2	IsLink T3

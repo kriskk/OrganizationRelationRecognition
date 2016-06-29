@@ -1,0 +1,6 @@
+T1	Organization 0 3	HTC
+T2	Organization 233 238	Nokia
+N1	Reference T1 wiki:619547	HTC
+N2	Reference T2 wiki:56405	Nokia
+A1	IsLink T2
+A2	TypeRel T2 Competitor

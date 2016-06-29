@@ -1,0 +1,6 @@
+T1	Organization 0 7	Газпром
+T2	Organization 82 96	Nord Stream AG
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:322571	Nord Stream AG
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

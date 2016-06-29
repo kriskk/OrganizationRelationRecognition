@@ -1,0 +1,14 @@
+T1	Organization 0 18	Hearst Corporation
+T2	Organization 203 226	The Walt Disney Company
+T3	Organization 229 242	NBC Universal
+T4	Organization 324 346	Hearst Television Inc.
+N1	Reference T1 wiki:2733693	Hearst Corporation
+N2	Reference T2 wiki:319365	The Walt Disney Company
+N3	Reference T3 wiki:2263018	NBC Universal
+N4	Reference T4 wiki:2736748	Hearst Television
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

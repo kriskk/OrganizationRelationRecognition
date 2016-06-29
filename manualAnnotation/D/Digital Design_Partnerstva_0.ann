@@ -1,0 +1,26 @@
+T1	Organization 0 14	Digital Design
+T2	Organization 85 94	Microsoft
+T3	Organization 96 99	IBM
+T4	Organization 101 103	HP
+T5	Organization 105 111	Citrix
+T6	Organization 113 119	VMWare
+T7	Organization 133 141	Symantec
+T8	Organization 143 166	Лаборатория Касперского
+T9	Organization 201 206	ABBYY
+N1	Reference T1 wiki:2585790	Digital Design
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:89988	Hewlett-Packard
+N5	Reference T5 wiki:1903941	Citrix
+N6	Reference T6 wiki:205509	VMware
+N7	Reference T7 wiki:157841	Symantec
+N8	Reference T8 wiki:72700	Лаборатория Касперского
+N9	Reference T9 wiki:127166	ABBYY
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9

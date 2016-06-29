@@ -1,0 +1,14 @@
+T1	Organization 0 40	Ковдорский горно-обогатительный комбинат
+T2	Organization 271 278	Komatsu
+T3	Organization 304 311	БелАЗов
+T4	Organization 558 565	Еврохим
+N1	Reference T1 wiki:3029611	Ковдорский горно-обогатительный комбинат
+N2	Reference T2 wiki:744230	Komatsu
+N3	Reference T3 wiki:104850	Белорусский автомобильный завод
+N4	Reference T4 wiki:376551	ЕвроХим
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T4 Holder
+A5	TypeRel T3 Cooperator
+A6	TypeRel T2 Cooperator

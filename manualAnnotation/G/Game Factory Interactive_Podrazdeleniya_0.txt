@@ -1,0 +1,14 @@
+Game Factory Interactive
+@Подразделения
+896,0
+
+
+Подразделения
+
+ GFI Baltic
+	 GFI Black Sea (Сочи)
+	 GFI Russia (Зеленоград)
+	 GFI UA (Киев)
+	 GFI Mobile (игры и приложения для мобильных телефонов)
+
+

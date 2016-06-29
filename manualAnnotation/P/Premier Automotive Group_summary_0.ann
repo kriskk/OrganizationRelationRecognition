@@ -1,0 +1,41 @@
+T1	Organization 0 24	Premier Automotive Group
+T2	Organization 96 114	Ford Motor Company
+T3	Organization 174 180	Jaguar
+T4	Organization 181 188	Daimler
+T5	Organization 190 195	Volvo
+T6	Organization 197 207	Land Rover
+T7	Organization 242 254	Aston Martin
+T8	Organization 275 279	LVMH
+T9	Organization 449 461	Aston Martin
+T10	Organization 651 662	Tata Motors
+T11	Organization 676 686	Volvo Cars
+T12	Organization 729 734	Geely
+N1	Reference T1 wiki:504342	Premier Automotive Group
+N2	Reference T2 wiki:153236	Ford Motor Company
+N3	Reference T3 wiki:431514	Jaguar
+N4	Reference T4 wiki:294683	Daimler Motor Company
+N5	Reference T5 wiki:1921582	Volvo Personvagnar
+N6	Reference T6 wiki:683379	Land Rover
+N7	Reference T7 wiki:451029	Aston Martin
+N8	Reference T8 wiki:381313	LVMH
+N9	Reference T9 wiki:451029	Aston Martin
+N10	Reference T10 wiki:962083	Tata Motors
+N11	Reference T11 wiki:1921582	Volvo Cars
+N12	Reference T12 wiki:380153	Geely
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	TypeRel T2 Holder
+A13	TypeRel T3 Subsidiary
+A14	TypeRel T4 Subsidiary
+A15	TypeRel T5 Subsidiary
+A16	TypeRel T6 Subsidiary
+A17	TypeRel T7 Subsidiary

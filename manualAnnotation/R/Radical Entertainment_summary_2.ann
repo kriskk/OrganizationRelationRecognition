@@ -1,0 +1,17 @@
+T1	Organization 0 21	Radical Entertainment
+T2	Organization 209 212	THQ
+T3	Organization 214 223	Microsoft
+T4	Organization 272 282	Activision
+T5	Organization 332 351	Activision Blizzard
+N1	Reference T1 wiki:2061618	Radical Entertainment
+N2	Reference T2 wiki:795069	THQ
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:307964	Activision
+N5	Reference T5 wiki:954541	Activision Blizzard
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Holder
+A7	TypeRel T5 Holder

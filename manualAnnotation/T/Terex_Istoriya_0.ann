@@ -1,0 +1,5 @@
+T1	Organization 0 5	Terex
+T2	Organization 91 105	General Motors
+N1	Reference T1 wiki:1484491	Terex
+N2	Reference T2 wiki:17438	General Motors
+A1	IsLink T2

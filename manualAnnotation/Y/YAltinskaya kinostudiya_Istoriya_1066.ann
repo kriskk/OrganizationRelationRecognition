@@ -1,0 +1,10 @@
+T1	Organization 0 20	Ялтинская киностудия
+T2	Organization 237 247	Востоккино
+T3	Organization 315 323	Мосфильм
+N1	Reference T1 wiki:1628367	Ялтинская киностудия
+N2	Reference T2 wiki:3820558	Востоккино
+N3	Reference T3 wiki:25605	Мосфильм
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

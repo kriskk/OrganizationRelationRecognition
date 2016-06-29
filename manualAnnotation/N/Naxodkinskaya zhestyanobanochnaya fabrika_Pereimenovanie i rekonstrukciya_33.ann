@@ -1,0 +1,5 @@
+T1	Organization 0 36	Находкинская жестянобаночная фабрика
+T2	Organization 388 406	Терминал Астафьева
+N1	Reference T1 wiki:2708031	Находкинская жестянобаночная фабрика
+N2	Reference T2 wiki:4356569	Терминал Астафьева
+A1	TypeRel T2 Alias

@@ -1,0 +1,11 @@
+T1	Organization 0 11	Core Design
+T2	Organization 218 234	Gremlin Graphics
+T3	Organization 356 365	Rebellion
+T4	Organization 367 372	Eidos
+N1	Reference T1 wiki:1464367	Core Design
+N2	Reference T2 wiki:3591181	Gremlin Graphics
+N3	Reference T3 wiki:2510548	Rebellion Developments
+N4	Reference T4 wiki:806750	Eidos Interactive
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

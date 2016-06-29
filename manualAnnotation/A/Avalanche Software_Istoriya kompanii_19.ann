@@ -1,0 +1,5 @@
+T1	Organization 0 18	Avalanche Software
+T2	Organization 303 326	The Walt Disney Company
+N1	Reference T1 wiki:2719931	Avalanche Software
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	IsLink T2

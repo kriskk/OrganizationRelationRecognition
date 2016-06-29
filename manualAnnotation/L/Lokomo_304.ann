@@ -1,0 +1,6 @@
+T1	Organization 0 6	Lokomo
+T2	Organization 176 181	Metso
+N1	Reference T1 wiki:2115053	Lokomo
+N2	Reference T2 wiki:3539984	Metso
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

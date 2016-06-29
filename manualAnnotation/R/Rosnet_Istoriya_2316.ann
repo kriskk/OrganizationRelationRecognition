@@ -1,0 +1,11 @@
+T1	Organization 0 6	Роснет
+T2	Organization 191 199	Ericsson
+T3	Organization 351 354	МТТ
+T4	Organization 363 375	СЦС Совинтел
+N1	Reference T1 wiki:3618523	Роснет
+N2	Reference T2 wiki:711402	Ericsson
+N3	Reference T3 wiki:638758	МТТ
+N4	Reference T4 wiki:3929111	СЦС Совинтел
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

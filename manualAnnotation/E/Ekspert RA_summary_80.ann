@@ -1,0 +1,6 @@
+T1	Organization 0 10	Эксперт РА
+T2	Organization 212 216	АК&М
+N1	Reference T1 wiki:363296	Эксперт РА
+N2	Reference T2 wiki:1106420	Рейтинговое агентство АК&M
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

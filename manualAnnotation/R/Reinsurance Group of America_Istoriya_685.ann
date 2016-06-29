@@ -1,0 +1,5 @@
+T1	Organization 0 28	Reinsurance Group of America
+T2	Organization 210 245	Metropolitan Life Insurance Company
+N1	Reference T1 wiki:3824870	Reinsurance Group of America
+N2	Reference T2 wiki:3612482	MetLife Alico
+A1	IsLink T2

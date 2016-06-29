@@ -1,0 +1,5 @@
+T1	Organization 0 31	Ульяновский автомобильный завод
+T2	Organization 207 220	ОАО «Соллерс»
+N1	Reference T1 wiki:84571	Ульяновский автомобильный завод
+N2	Reference T2 wiki:159017	Соллерс (компания)
+A1	TypeRel T2 Holder

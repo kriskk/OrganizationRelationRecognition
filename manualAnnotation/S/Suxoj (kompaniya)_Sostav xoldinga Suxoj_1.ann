@@ -1,0 +1,17 @@
+T1	Organization 0 16	Сухой (компания)
+T2	Organization 201 232	ОАО «КнААПО им. Ю. А. Гагарина»
+T3	Organization 270 286	НАПО им. Чкалова
+T4	Organization 316 343	Гражданские самолеты Сухого
+T5	Organization 359 377	Корпорация „Иркут“
+T6	Organization 404 427	ТАНТК им. Г. М. Бериева
+N1	Reference T1 wiki:164779	Сухой (компания)
+N2	Reference T2 wiki:386682	Комсомольское на Амуре авиационное производственное объединение
+N3	Reference T3 wiki:2388976	НАПО им. Чкалова
+N4	Reference T4 wiki:768840	Гражданские самолеты Сухого
+N5	Reference T5 wiki:143159	Иркут (корпорация)
+N6	Reference T6 wiki:107173	ТАНТК им. Бериева
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

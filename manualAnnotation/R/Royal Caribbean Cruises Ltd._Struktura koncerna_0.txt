@@ -1,0 +1,15 @@
+Royal Caribbean Cruises Ltd.
+@Структура концерна
+2350,0
+
+
+Структура концерна
+
+ Azamara Club Cruises
+	 CDF Croisières de France
+	 Celebrity Cruises
+	 Pullmantur Cruises
+	 Royal Caribbean International
+	 TUI Cruises
+
+

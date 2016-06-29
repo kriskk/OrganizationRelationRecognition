@@ -1,0 +1,10 @@
+T1	Organization 0 19	Почтовая служба США
+T2	Organization 216 237	United Parcel Service
+T3	Organization 246 251	FedEx
+N1	Reference T1 wiki:1728001	Почтовая служба США
+N2	Reference T2 wiki:1122885	United Parcel Service
+N3	Reference T3 wiki:773762	FedEx
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

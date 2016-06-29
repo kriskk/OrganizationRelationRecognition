@@ -1,0 +1,5 @@
+T1	Organization 0 22	Absolute Entertainment
+T2	Organization 368 380	Imagineering
+N1	Reference T1 wiki:2872281	Absolute Entertainment
+N2	Reference T2 wiki:2872477	Imagineering
+A1	IsLink T2

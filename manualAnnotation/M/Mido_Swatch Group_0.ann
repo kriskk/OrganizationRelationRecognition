@@ -1,0 +1,5 @@
+T1	Organization 0 4	Mido
+T2	Organization 93 105	Swatch Group
+N1	Reference T1 wiki:1054457	Mido
+N2	Reference T2 wiki:214233	Swatch Group
+A1	TypeRel T2 Holder

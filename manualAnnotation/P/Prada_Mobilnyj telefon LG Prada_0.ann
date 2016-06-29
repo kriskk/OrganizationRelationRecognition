@@ -1,0 +1,6 @@
+T1	Organization 0 5	Prada
+T2	Organization 144 158	LG Electronics
+N1	Reference T1 wiki:1029013	Prada
+N2	Reference T2 wiki:135944	LG Electronics
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

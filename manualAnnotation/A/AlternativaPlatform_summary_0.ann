@@ -1,0 +1,5 @@
+T1	Organization 0 19	AlternativaPlatform
+T2	Organization 136 141	Adobe
+N1	Reference T1 wiki:3599685	AlternativaPlatform
+N2	Reference T2 wiki:42937	Adobe
+A1	IsLink T2

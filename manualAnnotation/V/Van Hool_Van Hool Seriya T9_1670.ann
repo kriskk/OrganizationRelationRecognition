@@ -1,0 +1,6 @@
+T1	Organization 0 8	Van Hool
+T2	Organization 210 216	Scania
+N1	Reference T1 wiki:258539	Van Hool
+N2	Reference T2 wiki:252348	Scania
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

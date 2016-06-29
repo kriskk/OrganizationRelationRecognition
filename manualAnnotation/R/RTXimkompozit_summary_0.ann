@@ -1,0 +1,6 @@
+T1	Organization 0 14	РТ-Химкомпозит
+T2	Organization 102 108	Ростех
+N1	Reference T1 wiki:4480877	РТ-Химкомпозит
+N2	Reference T2 wiki:915063	Ростех
+A1	IsLink T2
+A2	TypeRel T2 Holder

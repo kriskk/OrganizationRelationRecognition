@@ -1,0 +1,10 @@
+T1	Organization 0 5	G.rev
+T2	Organization 169 186	Taito Corporation
+T3	Organization 586 594	Treasure
+N1	Reference T1 wiki:1725520	G.rev
+N2	Reference T2 wiki:1711320	Taito Corporation
+N3	Reference T3 wiki:1641019	Treasure Co. Ltd
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator
+A4	TypeRel T2 Personnel

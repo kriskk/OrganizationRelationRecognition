@@ -1,0 +1,8 @@
+T1	Organization 0 27	Алтын Асыр (оператор связи)
+T2	Organization 271 277	Huawei
+T3	Organization 279 301	Nokia Siemens Networks
+N1	Reference T1 wiki:2534369	Алтын Асыр (оператор связи)
+N2	Reference T2 wiki:908840	Huawei
+N3	Reference T3 wiki:354923	Nokia Siemens Networks
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Cryo Interactive
+T2	Organization 188 212	Dreamcatcher Interactive
+N1	Reference T1 wiki:920901	Cryo Interactive
+N2	Reference T2 wiki:2520370	Dreamcatcher Interactive
+A1	IsLink T2

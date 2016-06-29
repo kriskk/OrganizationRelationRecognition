@@ -1,0 +1,6 @@
+T1	Organization 0 7	Молвест
+T2	Organization 222 232	Arla Foods
+N1	Reference T1 wiki:3431748	Молвест
+N2	Reference T2 wiki:615859	Arla Foods
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

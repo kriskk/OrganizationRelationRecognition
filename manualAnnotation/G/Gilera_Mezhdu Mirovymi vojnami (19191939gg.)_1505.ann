@@ -1,0 +1,5 @@
+T1	Organization 0 6	Gilera
+T2	Organization 248 255	Caproni
+N1	Reference T1 wiki:3317262	Gilera
+N2	Reference T2 wiki:2763542	Caproni
+A1	TypeRel T2 Subsidiary

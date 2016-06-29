@@ -1,0 +1,8 @@
+T1	Organization 0 6	Tilera
+T2	Organization 135 143	Broadcom
+T3	Organization 351 359	Broadcom
+N1	Reference T1 wiki:2557880	Tilera
+N2	Reference T2 wiki:1125099	Broadcom
+N3	Reference T3 wiki:1125099	Broadcom
+A1	IsLink T2
+A2	IsLink T3

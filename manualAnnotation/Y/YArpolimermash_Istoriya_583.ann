@@ -1,0 +1,6 @@
+T1	Organization 0 12	Ярполимермаш
+T2	Organization 223 231	Татнефть
+N1	Reference T1 wiki:2640970	Ярполимермаш
+N2	Reference T2 wiki:145661	Татнефть
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,14 @@
+T1	Organization 0 18	Система (компания)
+T2	Organization 274 308	Комстар — Объединённые ТелеСистемы
+T3	Organization 312 348	Московская городская телефонная сеть
+T4	Organization 351 354	МТТ
+T5	Organization 385 394	Скай Линк
+N1	Reference T1 wiki:158888	Система (компания)
+N2	Reference T2 wiki:150442	Комстар — Объединённые ТелеСистемы
+N3	Reference T3 wiki:141210	Московская городская телефонная сеть
+N4	Reference T4 wiki:638758	МТТ
+N5	Reference T5 wiki:145535	Скай Линк
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,24 @@
+CompTek
+@Дистрибуция
+1038,0
+
+
+Дистрибуция
+
+
+Компания распространяет в России и странах бывшего СССР продукты:
+ Cisco (в 2006 и 2007 годах — лучший дистрибьютор на территории СССР);
+	 Avaya (согласно сайту КомпТек, со статусом Diamond Partner);
+	 Alcatel-Lucent (согласно сайту КомпТек, со статусом Value-Added Distributor);
+	 EMC;
+	 Dialogic (со статусом Value-Added Distributor, до 2006 года — единственный официальный распространитель продукции Dialogic в России),
+	 CommScope
+	 Dell
+	 F5 Networks
+	 Fluke Networks
+	 LifeSize
+	 AudioCodes
+	 Ubiquity
+	 Crestron
+	 Extron Electronics
+	 Siklu

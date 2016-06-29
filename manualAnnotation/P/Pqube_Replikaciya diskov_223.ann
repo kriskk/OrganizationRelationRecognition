@@ -1,0 +1,10 @@
+T1	Organization 0 5	Pqube
+T2	Organization 242 247	Tesco
+T3	Organization 249 254	Shell
+N1	Reference T1 wiki:2519681	Pqube
+N2	Reference T2 wiki:243169	Tesco
+N3	Reference T3 wiki:167625	Shell
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

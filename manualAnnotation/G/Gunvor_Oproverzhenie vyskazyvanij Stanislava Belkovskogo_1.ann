@@ -1,0 +1,10 @@
+T1	Organization 0 6	Gunvor
+T2	Organization 245 252	Газпром
+T3	Organization 269 283	Сургутнефтегаз
+N1	Reference T1 wiki:893402	Gunvor
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:143564	Сургутнефтегаз
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

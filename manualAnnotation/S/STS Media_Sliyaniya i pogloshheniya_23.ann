@@ -1,0 +1,5 @@
+T1	Organization 0 9	СТС Медиа
+T2	Organization 219 237	Modern Times Group
+N1	Reference T1 wiki:168242	СТС Медиа
+N2	Reference T2 wiki:1401899	Modern Times Group
+A1	IsLink T2

@@ -1,0 +1,14 @@
+T1	Organization 0 22	Assicurazioni Generali
+T2	Organization 304 307	AXA
+T3	Organization 309 316	Allianz
+T4	Organization 318 327	ING Group
+T5	Organization 330 358	American International Group
+N1	Reference T1 wiki:1784912	Assicurazioni Generali
+N2	Reference T2 wiki:1710562	AXA
+N3	Reference T3 wiki:50998	Allianz
+N4	Reference T4 wiki:555591	ING Groep N.V.
+N5	Reference T5 wiki:158473	American International Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

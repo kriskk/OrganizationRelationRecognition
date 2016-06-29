@@ -1,0 +1,22 @@
+T1	Organization 0 16	Ленгипронефтехим
+T2	Organization 327 347	ОАО «Сургутнефтегаз»
+T3	Organization 349 361	ОАО «Лукойл»
+T4	Organization 363 375	ОАО «ТНК-BP»
+T5	Organization 377 397	ОАО "НГК «Славнефть»
+T6	Organization 399 417	ОАО "НК «Роснефть»
+N1	Reference T1 wiki:3480451	Ленгипронефтехим
+N2	Reference T2 wiki:143564	Сургутнефтегаз
+N3	Reference T3 wiki:59354	Лукойл
+N4	Reference T4 wiki:17252	ТНК-BP
+N5	Reference T5 wiki:205107	Славнефть
+N6	Reference T6 wiki:139770	Роснефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

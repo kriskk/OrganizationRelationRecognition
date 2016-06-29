@@ -1,0 +1,8 @@
+T1	Organization 0 17	Wang Laboratories
+T2	Organization 189 192	DEC
+T3	Organization 581 584	IBM
+N1	Reference T1 wiki:500229	Wang Laboratories
+N2	Reference T2 wiki:176483	DEC
+N3	Reference T3 wiki:11078	IBM
+A1	IsLink T2
+A2	IsLink T3

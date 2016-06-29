@@ -1,0 +1,5 @@
+T1	Organization 0 14	LG Electronics
+T2	Organization 347 355	LG Group
+N1	Reference T1 wiki:135944	LG Electronics
+N2	Reference T2 wiki:135021	LG Group
+A1	IsLink T2

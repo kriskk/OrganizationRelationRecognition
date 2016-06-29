@@ -1,0 +1,10 @@
+T1	Organization 0 8	Raytheon
+T2	Organization 225 233	Lockheed
+T3	Organization 369 377	Lockheed
+N1	Reference T1 wiki:769599	Raytheon
+N2	Reference T2 wiki:1523502	Lockheed
+N3	Reference T3 wiki:1523502	Lockheed
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

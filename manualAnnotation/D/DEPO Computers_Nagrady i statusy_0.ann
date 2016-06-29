@@ -1,0 +1,23 @@
+T1	Organization 0 14	DEPO Computers
+T2	Organization 83 88	Intel
+T3	Organization 255 264	Microsoft
+T4	Organization 558 563	Intel
+T5	Organization 739 744	Cisco
+T6	Organization 829 835	VMware
+T7	Organization 867 875	Symantec
+T8	Organization 904 910	NetApp
+N1	Reference T1 wiki:1761645	DEPO Computers
+N2	Reference T2 wiki:762172	Intel
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:762172	Intel
+N5	Reference T5 wiki:25014	Cisco
+N6	Reference T6 wiki:205509	VMware
+N7	Reference T7 wiki:157841	Symantec
+N8	Reference T8 wiki:1497705	NetApp
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

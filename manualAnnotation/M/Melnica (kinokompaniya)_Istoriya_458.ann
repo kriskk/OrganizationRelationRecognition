@@ -1,0 +1,5 @@
+T1	Organization 0 23	Мельница (кинокомпания)
+T2	Organization 208 220	Леннаучфильм
+N1	Reference T1 wiki:372456	Мельница (кинокомпания)
+N2	Reference T2 wiki:1724901	Леннаучфильм
+A1	TypeRel T2 Cooperator

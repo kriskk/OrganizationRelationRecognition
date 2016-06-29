@@ -1,0 +1,5 @@
+T1	Organization 0 13	Веста (завод)
+T2	Organization 195 210	RNT Media Group
+N1	Reference T1 wiki:2167712	Веста (завод)
+N2	Reference T2 wiki:1645010	RNT Media Group
+A1	IsLink T2

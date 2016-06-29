@@ -1,0 +1,20 @@
+T1	Organization 0 12	Aérospatiale
+T2	Organization 332 335	ATR
+T3	Organization 627 652	Daimler-Benz Aerospace AG
+T4	Organization 654 658	DASA
+T5	Organization 732 742	Eurocopter
+T6	Organization 796 819	Matra Haute Technologie
+T7	Organization 956 960	EADS
+N1	Reference T1 wiki:1606272	Aérospatiale
+N2	Reference T2 wiki:2085217	Avions de Transport Regional
+N3	Reference T3 wiki:930545	Daimler-Benz Aerospace AG
+N4	Reference T4 wiki:930545	DASA
+N5	Reference T5 wiki:1469492	Eurocopter
+N6	Reference T6 wiki:1910462	Matra
+N7	Reference T7 wiki:39833	EADS
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

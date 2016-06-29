@@ -1,0 +1,9 @@
+T1	Organization 0 12	Платформа HD
+T2	Organization 309 318	High Life
+T3	Organization 473 484	Триколор ТВ
+N1	Reference T1 wiki:2134350	Платформа HD
+N2	Reference T2 wiki:2776818	High Life
+N3	Reference T3 wiki:1320142	Триколор ТВ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

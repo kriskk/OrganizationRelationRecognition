@@ -1,0 +1,6 @@
+T1	Organization 0 12	Neptun Werft
+T2	Organization 246 257	Meyer Werft
+N1	Reference T1 wiki:4407818	Neptun Werft
+N2	Reference T2 wiki:2053678	Meyer Werft
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 12	Video System
+T2	Organization 328 334	Psikyo
+N1	Reference T1 wiki:1716538	Video System
+N2	Reference T2 wiki:1716387	Psikyo
+A1	IsLink T2

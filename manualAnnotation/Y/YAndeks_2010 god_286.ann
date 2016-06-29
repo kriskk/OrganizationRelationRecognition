@@ -1,0 +1,6 @@
+T1	Organization 0 6	Яндекс
+T2	Organization 349 363	ГИС Технологии
+N1	Reference T1 wiki:9744	Яндекс
+N2	Reference T2 wiki:3451335	ГИС Технологии
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

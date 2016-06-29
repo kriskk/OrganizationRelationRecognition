@@ -1,0 +1,8 @@
+T1	Organization 0 6	ASRock
+T2	Organization 82 86	Asus
+T3	Organization 148 155	Foxconn
+N1	Reference T1 wiki:2493967	ASRock
+N2	Reference T2 wiki:118273	Asus
+N3	Reference T3 wiki:2020893	Foxconn
+A1	IsLink T2
+A2	IsLink T3

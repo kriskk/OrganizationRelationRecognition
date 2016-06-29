@@ -1,0 +1,5 @@
+T1	Organization 0 18	Artificial Studios
+T2	Organization 227 232	Ageia
+N1	Reference T1 wiki:2481449	Artificial Studios
+N2	Reference T2 wiki:1289996	Ageia
+A1	IsLink T2

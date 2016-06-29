@@ -1,0 +1,10 @@
+T1	Organization 0 7	OpenDNS
+T2	Organization 256 265	PhishTank
+T3	Organization 355 361	DynDNS
+N1	Reference T1 wiki:1601966	OpenDNS
+N2	Reference T2 wiki:615623	PhishTank
+N3	Reference T3 wiki:2444312	DynDNS
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Cooperator

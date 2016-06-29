@@ -1,0 +1,45 @@
+Asus
+@Расшифровка маркировок моделей материнских плат
+2499,461
+
+ также имеется указание на дополнительное комплектование платы модулем WiFi.
+
+
+Далее, в сводном списке, указаны «расшифровки» сегментов, используемых в названиях материнских плат.
+
+ Процессор
+	 P9 Intel LGA2011
+		 P8 Intel LGA1155
+		 P7 Intel LGA1156
+		 P6 Intel LGA1366
+		 P5 Intel LGA775
+		 P4 Intel LGA775 и Socket 478
+		 M5 AMD AM3+
+		 M4 AMD AM3
+		 M3 AMD AM2+/AM2
+		 M2 AMD AM2
+		 F1 AMD FM1
+
+
+ Чипсет
+	 В последующих моделях материнских плат место буквы указана модель чипсета
+		 T Intel X58
+		 E Intel X48/X38/G35/Q35
+		 Q Intel P45/G45/Q45
+		 QL Intel P43/G43
+		 QPL Intel P41/G41
+		 K Intel P35/G33
+		 KPL Intel G31
+		 N Nvidia
+		 S SIS
+		 V VIA
+		 Axx AMD
+
+
+ Special Feature
+	 T DDR3(только на платформе AMD)
+		 C DDR3+DDR2
+
+
+ Графика
+	 -EM Интегрированое решение, высокий класс

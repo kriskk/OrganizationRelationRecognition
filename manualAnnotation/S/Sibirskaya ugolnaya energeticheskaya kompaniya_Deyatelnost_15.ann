@@ -1,0 +1,17 @@
+T1	Organization 0 42	Сибирская угольная энергетическая компания
+T2	Organization 221 232	Бородинский
+T3	Organization 247 258	Березовский
+T4	Organization 485 498	Кузбассэнерго
+T5	Organization 532 538	ТГК-13
+T6	Organization 905 941	Мурманского морского торгового порта
+N1	Reference T1 wiki:162787	Сибирская угольная энергетическая компания
+N2	Reference T2 wiki:389701	Разрез Бородинский
+N3	Reference T3 wiki:389749	Разрез Березовский-1
+N4	Reference T4 wiki:197901	Кузбассэнерго
+N5	Reference T5 wiki:885479	ТГК-13
+N6	Reference T6 wiki:3022119	Мурманский морской торговый порт
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

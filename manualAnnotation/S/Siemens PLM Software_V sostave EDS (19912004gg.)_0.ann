@@ -1,0 +1,8 @@
+T1	Organization 0 20	Siemens PLM Software
+T2	Organization 139 156	McDonnell Douglas
+T3	Organization 204 207	EDS
+N1	Reference T1 wiki:554885	Siemens PLM Software
+N2	Reference T2 wiki:87592	McDonnell Douglas
+N3	Reference T3 wiki:1449756	Electronic Data Systems
+A1	IsLink T2
+A2	IsLink T3

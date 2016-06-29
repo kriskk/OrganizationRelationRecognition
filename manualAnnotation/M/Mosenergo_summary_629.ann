@@ -1,0 +1,6 @@
+T1	Organization 0 9	Мосэнерго
+T2	Organization 184 189	ОГК-2
+N1	Reference T1 wiki:159522	Мосэнерго
+N2	Reference T2 wiki:456796	ОГК-2
+A1	IsLink T2
+A2	TypeRel T2 Competitor

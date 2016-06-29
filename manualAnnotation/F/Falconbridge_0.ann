@@ -1,0 +1,5 @@
+T1	Organization 0 12	Falconbridge
+T2	Organization 120 127	Xstrata
+N1	Reference T1 wiki:205882	Falconbridge
+N2	Reference T2 wiki:205929	Xstrata
+A1	IsLink T2

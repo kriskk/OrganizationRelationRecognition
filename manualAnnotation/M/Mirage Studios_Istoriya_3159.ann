@@ -1,0 +1,5 @@
+T1	Organization 0 14	Mirage Studios
+T2	Organization 197 203	Viacom
+N1	Reference T1 wiki:4195599	Mirage Studios
+N2	Reference T2 wiki:399829	Viacom
+A1	IsLink T2

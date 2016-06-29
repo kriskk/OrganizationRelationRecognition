@@ -1,0 +1,5 @@
+T1	Organization 0 37	Лыткаринский завод оптического стекла
+T2	Organization 286 299	Ростехнологии
+N1	Reference T1 wiki:1711392	Лыткаринский завод оптического стекла
+N2	Reference T2 wiki:915063	Ростехнологии
+A1	IsLink T2

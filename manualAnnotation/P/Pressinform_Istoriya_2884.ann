@@ -1,0 +1,25 @@
+T1	Organization 0 11	Прессинформ
+T2	Organization 234 247	Axel Springer
+T3	Organization 249 257	Gameland
+T4	Organization 454 467	ОАО «Газпром»
+T5	Organization 469 489	ОАО «Силовые машины»
+T6	Organization 491 512	ОАО «Красный октябрь»
+T7	Organization 538 547	ОАО «РЖД»
+N1	Reference T1 wiki:4466956	Прессинформ
+N2	Reference T2 wiki:480607	Axel Springer AG
+N3	Reference T3 wiki:1526156	Gameland
+N4	Reference T4 wiki:44754	Газпром
+N5	Reference T5 wiki:143652	Силовые машины
+N6	Reference T6 wiki:1696333	Красный Октябрь (кондитерская фабрика)
+N7	Reference T7 wiki:106901	Российские железные дороги
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator
+A11	TypeRel T7 Cooperator

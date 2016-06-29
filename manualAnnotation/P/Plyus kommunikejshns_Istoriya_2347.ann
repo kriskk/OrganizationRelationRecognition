@@ -1,0 +1,29 @@
+T1	Organization 0 18	Плюс коммуникейшнс
+T2	Organization 287 290	APC
+T3	Organization 292 299	Juniper
+T4	Organization 301 303	HP
+T5	Organization 305 309	Dell
+T6	Organization 498 528	Межрегиональный ТранзитТелеком
+T7	Organization 742 752	ЗАО «БеСТ»
+T8	Organization 992 996	КРОК
+N1	Reference T1 wiki:3628134	Плюс коммуникейшнс
+N2	Reference T2 wiki:298746	American Power Conversion
+N3	Reference T3 wiki:320144	Juniper
+N4	Reference T4 wiki:89988	Hewlett-Packard
+N5	Reference T5 wiki:124570	Dell
+N6	Reference T6 wiki:638758	Межрегиональный ТранзитТелеком
+N7	Reference T7 wiki:500727	Белорусская сеть телекоммуникаций
+N8	Reference T8 wiki:1739391	КРОК инкорпорейтед
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator

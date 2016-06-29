@@ -1,0 +1,10 @@
+T1	Organization 0 54	Завод счётно-аналитических машин имени В. Д. Калмыкова
+T2	Organization 247 262	Siemens Nixdorf
+T3	Organization 472 475	РЖД
+N1	Reference T1 wiki:2890656	Завод счётно-аналитических машин имени В. Д. Калмыкова
+N2	Reference T2 wiki:261477	Siemens Nixdorf Informationssysteme
+N3	Reference T3 wiki:106901	РЖД
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

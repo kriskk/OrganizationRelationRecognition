@@ -1,0 +1,16 @@
+T1	Organization 0 13	Infinity Ward
+T2	Organization 234 249	Electronic Arts
+T3	Organization 261 271	Activision
+T4	Organization 613 623	Activision
+T5	Organization 732 742	Activision
+N1	Reference T1 wiki:1692228	Infinity Ward
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:307964	Activision
+N4	Reference T4 wiki:307964	Activision
+N5	Reference T5 wiki:307964	Activision
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+R1	Competition Arg1:T2 Arg2:T3	
+A5	TypeRel T5 Cooperator

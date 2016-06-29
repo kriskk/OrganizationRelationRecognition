@@ -1,0 +1,5 @@
+T1	Organization 0 27	Garford Motor Truck Company
+T2	Organization 233 252	Путиловским заводом
+N1	Reference T1 wiki:3136244	Garford Motor Truck Company
+N2	Reference T2 wiki:208146	Путиловский завод
+A1	IsLink T2

@@ -1,0 +1,14 @@
+T1	Organization 0 7	Газпром
+T2	Organization 193 221	Hermitage Capital Management
+T3	Organization 458 466	Роснефть
+T4	Organization 658 662	ЮКОС
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:2557636	Hermitage Capital Management
+N3	Reference T3 wiki:139770	Роснефть
+N4	Reference T4 wiki:6032	ЮКОС
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Personnel
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

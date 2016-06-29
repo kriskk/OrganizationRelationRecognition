@@ -1,0 +1,8 @@
+T1	Organization 0 43	Transports publics de la région Lausannoise
+T2	Organization 248 267	Solaris Bus & Coach
+T3	Organization 269 276	Neoplan
+N1	Reference T1 wiki:3895925	Transports publics de la région Lausannoise
+N2	Reference T2 wiki:264279	Solaris Bus & Coach
+N3	Reference T3 wiki:897505	Neoplan
+A1	IsLink T2
+A2	IsLink T3

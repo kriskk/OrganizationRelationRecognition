@@ -1,0 +1,5 @@
+T1	Organization 0 12	Капитал Груп
+T2	Organization 243 252	Интерфакс
+N1	Reference T1 wiki:3068535	Капитал Груп
+N2	Reference T2 wiki:109215	Интерфакс
+A1	IsLink T2

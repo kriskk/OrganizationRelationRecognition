@@ -1,0 +1,6 @@
+T1	Organization 0 6	IRobot
+T2	Organization 162 177	Deere & Company
+N1	Reference T1 wiki:1623924	IRobot
+N2	Reference T2 wiki:1958385	Deere & Company
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

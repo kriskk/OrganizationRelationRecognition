@@ -1,0 +1,9 @@
+T1	Organization 0 44	Корпорация Урал Промышленный - Урал Полярный
+T2	Organization 274 293	Корпорация Развития
+T3	Organization 520 533	Deutsche Bahn
+N1	Reference T1 wiki:3444028	Корпорация Урал Промышленный - Урал Полярный
+N2	Reference T2 wiki:3444028	Корпорация развития (УрФО)
+N3	Reference T3 wiki:321840	Deutsche Bahn
+A2	IsLink T3
+A1	TypeRel T2 Alias
+A3	TypeRel T3 Cooperator

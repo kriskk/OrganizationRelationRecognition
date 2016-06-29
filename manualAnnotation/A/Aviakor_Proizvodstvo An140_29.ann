@@ -1,0 +1,8 @@
+T1	Organization 0 7	Авиакор
+T2	Organization 290 320	Харьковском авиазаводе (ХГАПП)
+T3	Organization 499 558	Авиационный научно-технический комплекс (АНТК) им. Антонова
+N1	Reference T1 wiki:480966	Авиакор
+N2	Reference T2 wiki:238174	Харьковский авиационный завод
+N3	Reference T3 wiki:32271	КБ Антонов
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 21	ЕЭС России (компания)
+T2	Organization 272 302	Администратор торговой системы
+T3	Organization 367 380	Росэнергоатом
+N1	Reference T1 wiki:1432138	ЕЭС России (компания)
+N2	Reference T2 wiki:463894	Администратор торговой системы (компания)
+N3	Reference T3 wiki:138779	Росэнергоатом
+A1	IsLink T2
+A2	IsLink T3

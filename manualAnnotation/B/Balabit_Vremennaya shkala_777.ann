@@ -1,0 +1,5 @@
+T1	Organization 0 7	Balabit
+T2	Organization 203 219	SUN Microsystems
+N1	Reference T1 wiki:3372555	Balabit
+N2	Reference T2 wiki:4777	SUN
+A1	IsLink T2

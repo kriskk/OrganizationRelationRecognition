@@ -1,0 +1,5 @@
+T1	Organization 0 6	Афинса
+T2	Organization 509 515	NASDAQ
+N1	Reference T1 wiki:1490853	Афинса
+N2	Reference T2 wiki:63813	NASDAQ
+A1	IsLink T2

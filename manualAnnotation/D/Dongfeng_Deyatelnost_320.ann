@@ -1,0 +1,5 @@
+T1	Organization 0 8	Dongfeng
+T2	Organization 223 230	Cummins
+N1	Reference T1 wiki:1018683	Dongfeng
+N2	Reference T2 wiki:2407448	Cummins
+A1	IsLink T2

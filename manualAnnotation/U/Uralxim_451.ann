@@ -1,0 +1,6 @@
+T1	Organization 0 7	Уралхим
+T2	Organization 188 196	Deloitte
+N1	Reference T1 wiki:1628752	Уралхим
+N2	Reference T2 wiki:143428	Deloitte
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,9 @@
+T1	Organization 0 29	Hillman (автомобильная марка)
+T2	Organization 231 237	Humber
+T3	Organization 361 367	Humber
+N1	Reference T1 wiki:4154653	Hillman (автомобильная марка)
+N2	Reference T2 wiki:2287343	Humber (автомобильная марка)
+N3	Reference T3 wiki:2287343	Humber (автомобильная марка)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary

@@ -1,0 +1,34 @@
+T1	Organization 0 6	Oracle
+T2	Organization 170 179	Microsoft
+T3	Organization 359 362	IBM
+T4	Organization 479 486	Gartner
+T5	Organization 598 601	IBM
+T6	Organization 741 744	SAP
+T7	Organization 1120 1123	IBM
+T8	Organization 1125 1140	Hewlett-Packard
+T9	Organization 1143 1147	Dell
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:2960363	Gartner
+N5	Reference T5 wiki:11078	IBM
+N6	Reference T6 wiki:81959	SAP
+N7	Reference T7 wiki:11078	IBM
+N8	Reference T8 wiki:89988	Hewlett-Packard
+N9	Reference T9 wiki:124570	Dell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Competitor
+A10	TypeRel T3 Competitor
+A11	TypeRel T4 Other
+A12	TypeRel T5 Competitor
+A13	TypeRel T6 Competitor
+A14	TypeRel T7 Competitor
+A15	TypeRel T8 Competitor
+A16	TypeRel T9 Competitor

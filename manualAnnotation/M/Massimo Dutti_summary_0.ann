@@ -1,0 +1,5 @@
+T1	Organization 0 13	Massimo Dutti
+T2	Organization 107 114	Inditex
+N1	Reference T1 wiki:1790010	Massimo Dutti
+N2	Reference T2 wiki:144190	Inditex
+A1	TypeRel T2 Holder

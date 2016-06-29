@@ -1,0 +1,5 @@
+T1	Organization 0 24	Первая грузовая компания
+T2	Organization 57 81	Вторая грузовая компания
+N1	Reference T1 wiki:1544779	Первая грузовая компания
+N2	Reference T2 wiki:2731142	Вторая грузовая компания
+A1	IsLink T2

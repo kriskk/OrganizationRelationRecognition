@@ -1,0 +1,34 @@
+T1	Organization 0 14	Уралвагонзавод
+T2	Organization 187 199	Уралтрансмаш
+T3	Organization 208 216	Завод №9
+T4	Organization 225 260	Рубцовский машиностроительный завод
+T5	Organization 269 301	Каменск-Уральский литейный завод
+T6	Organization 310 349	Челябинский тракторный завод — Уралтрак
+T7	Organization 358 394	Машиностроительная компания „Витязь“
+T8	Organization 429 440	Уралкриомаш
+T9	Organization 529 594	ОАО «Центральный научно-исследовательский институт „Буревестник“»
+N1	Reference T1 wiki:93093	Уралвагонзавод
+N2	Reference T2 wiki:3665427	Уралтрансмаш
+N3	Reference T3 wiki:3025109	Завод №9
+N4	Reference T4 wiki:3925081	Рубцовский машиностроительный завод
+N5	Reference T5 wiki:3925089	Каменск-Уральский литейный завод
+N6	Reference T6 wiki:2404509	Челябинский тракторный завод — Уралтрак
+N7	Reference T7 wiki:1733545	Витязь (компания)
+N8	Reference T8 wiki:3925108	Уралкриомаш
+N9	Reference T9 wiki:3858354	Буревестник (ЦНИИ)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Subsidiary
+A10	TypeRel T3 Subsidiary
+A11	TypeRel T4 Subsidiary
+A12	TypeRel T5 Subsidiary
+A13	TypeRel T6 Subsidiary
+A14	TypeRel T7 Subsidiary
+A15	TypeRel T8 Subsidiary
+A16	TypeRel T9 Subsidiary

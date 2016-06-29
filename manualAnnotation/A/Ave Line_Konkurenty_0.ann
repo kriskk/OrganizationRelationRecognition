@@ -1,0 +1,14 @@
+T1	Organization 0 8	Ave Line
+T2	Organization 44 51	Tallink
+T3	Organization 231 242	Viking Line
+T4	Organization 353 364	Eckerö Line
+T5	Organization 494 508	St. Peter Line
+N1	Reference T1 wiki:4107619	Ave Line
+N2	Reference T2 wiki:509782	Tallink
+N3	Reference T3 wiki:1238257	Viking Line
+N4	Reference T4 wiki:3446525	Eckerö Line
+N5	Reference T5 wiki:3444896	St. Peter Line
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

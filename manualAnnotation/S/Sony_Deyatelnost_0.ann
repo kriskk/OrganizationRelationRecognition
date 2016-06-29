@@ -1,0 +1,17 @@
+T1	Organization 0 4	Sony
+T2	Organization 86 102	Sony Corporation
+T3	Organization 190 217	Sony Computer Entertainment
+T4	Organization 271 298	Sony Pictures Entertainment
+T5	Organization 482 506	Sony Music Entertainment
+T6	Organization 609 635	Sony Mobile Communications
+N1	Reference T1 wiki:73019	Sony
+N2	Reference T2 wiki:73019	Sony Corporation
+N3	Reference T3 wiki:1454994	Sony Computer Entertainment
+N4	Reference T4 wiki:1830946	Sony Pictures Entertainment
+N5	Reference T5 wiki:2770369	Sony Music Entertainment
+N6	Reference T6 wiki:120852	Sony Mobile Communications
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

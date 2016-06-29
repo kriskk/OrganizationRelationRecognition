@@ -1,0 +1,5 @@
+T1	Organization 0 10	Futuremark
+T2	Organization 221 226	Rovio
+N1	Reference T1 wiki:1524556	Futuremark
+N2	Reference T2 wiki:3324044	Rovio Mobile
+A1	IsLink T2

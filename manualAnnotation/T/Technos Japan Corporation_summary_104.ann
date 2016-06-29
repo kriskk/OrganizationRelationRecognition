@@ -1,0 +1,5 @@
+T1	Organization 0 25	Technos Japan Corporation
+T2	Organization 269 278	Data East
+N1	Reference T1 wiki:400883	Technos Japan Corporation
+N2	Reference T2 wiki:1639521	Data East
+A1	IsLink T2

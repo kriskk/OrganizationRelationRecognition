@@ -1,0 +1,6 @@
+T1	Organization 0 13	Miramax Films
+T2	Organization 234 252	Paramount Pictures
+N1	Reference T1 wiki:20301	Miramax Films
+N2	Reference T2 wiki:398699	Paramount Pictures
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

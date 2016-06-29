@@ -1,0 +1,10 @@
+T1	Organization 0 5	ИНМАН
+T2	Organization 80 88	Татнефть
+T3	Organization 151 159	Башнефть
+N1	Reference T1 wiki:2851833	ИНМАН
+N2	Reference T2 wiki:145661	Татнефть
+N3	Reference T3 wiki:180383	Башнефть
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

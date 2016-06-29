@@ -1,0 +1,6 @@
+T1	Organization 0 24	Липецкий цементный завод
+T2	Organization 133 148	Евроцемент груп
+N1	Reference T1 wiki:1288883	Липецкий цементный завод
+N2	Reference T2 wiki:172003	Евроцемент груп
+A1	IsLink T2
+A2	TypeRel T2 Holder

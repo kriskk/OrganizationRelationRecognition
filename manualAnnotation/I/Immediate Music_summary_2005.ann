@@ -1,0 +1,21 @@
+T1	Organization 0 15	Immediate Music
+T2	Organization 399 411	Disney Pixar
+T3	Organization 808 814	Toyota
+T4	Organization 816 820	Ford
+T5	Organization 831 837	Amstel
+T6	Organization 839 846	Hitachi
+N1	Reference T1 wiki:2518660	Immediate Music
+N2	Reference T2 wiki:125032	Pixar
+N3	Reference T3 wiki:42689	Toyota
+N4	Reference T4 wiki:153236	Ford
+N5	Reference T5 wiki:1571367	Amstel (компания)
+N6	Reference T6 wiki:141241	Hitachi
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator
+A9	TypeRel T6 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 18	Черкасский автобус
+T2	Organization 141 146	ISUZU
+T3	Organization 236 241	ISUZU
+N1	Reference T1 wiki:546122	Черкасский автобус
+N2	Reference T2 wiki:177809	Isuzu
+N3	Reference T3 wiki:177809	Isuzu
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,6 @@
+T1	Organization 0 15	Posten (Швеция)
+T2	Organization 208 220	Post Danmark
+N1	Reference T1 wiki:2136611	Posten (Швеция)
+N2	Reference T2 wiki:2136647	Post Danmark
+A1	IsLink T2
+A2	TypeRel T2 Merge

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Hitachi
+T2	Organization 172 189	Clarion Co., Ltd.
+N1	Reference T1 wiki:141241	Hitachi
+N2	Reference T2 wiki:511356	Clarion Co., Ltd.
+A1	TypeRel T2 Subsidiary

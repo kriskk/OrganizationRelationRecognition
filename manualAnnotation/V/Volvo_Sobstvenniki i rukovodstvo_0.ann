@@ -1,0 +1,6 @@
+T1	Organization 0 5	Volvo
+T2	Organization 175 187	Renault S.A.
+N1	Reference T1 wiki:387781	Volvo
+N2	Reference T2 wiki:586472	Renault S.A.
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 7	SafeNet
+T2	Organization 40 56	Rainbow Security
+N1	Reference T1 wiki:3730802	SafeNet
+N2	Reference T2 wiki:2456327	Rainbow Security
+A1	IsLink T2

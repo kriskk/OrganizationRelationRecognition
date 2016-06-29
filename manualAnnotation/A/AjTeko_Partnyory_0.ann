@@ -1,0 +1,68 @@
+T1	Organization 0 7	Ай-Теко
+T2	Organization 91 100	Microsoft
+T3	Organization 218 224	Oracle
+T4	Organization 242 244	HP
+T5	Organization 449 455	NetApp
+T6	Organization 458 464	VMware
+T7	Organization 482 487	Cisco
+T8	Organization 686 704	Schneider Electric
+T9	Organization 706 711	Avaya
+T10	Organization 713 720	Brocade
+T11	Organization 735 741	Citrix
+T12	Organization 743 746	EMC
+T13	Organization 748 755	Fujitsu
+T14	Organization 756 763	Siemens
+T15	Organization 765 777	GFI Software
+T16	Organization 779 786	Hitachi
+T17	Organization 788 791	IBM
+T18	Organization 800 806	McAfee
+T19	Organization 808 815	Red Hat
+T20	Organization 817 823	SAP AG
+T21	Organization 830 838	Symantec
+T22	Organization 840 845	ZyXEL
+T23	Organization 848 871	Лаборатория Касперского
+N1	Reference T1 wiki:1770919	Ай-Теко
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:129227	Oracle
+N4	Reference T4 wiki:89988	Hewlett-Packard
+N5	Reference T5 wiki:1497705	NetApp
+N6	Reference T6 wiki:205509	VMware
+N7	Reference T7 wiki:25014	Cisco
+N8	Reference T8 wiki:267613	Schneider Electric
+N9	Reference T9 wiki:685464	Avaya
+N10	Reference T10 wiki:823053	Brocade
+N11	Reference T11 wiki:1903941	Citrix
+N12	Reference T12 wiki:541503	EMC
+N13	Reference T13 wiki:571996	Fujitsu
+N14	Reference T14 wiki:36510	Siemens
+N15	Reference T15 wiki:553851	GFI Software
+N16	Reference T16 wiki:141241	Hitachi
+N17	Reference T17 wiki:11078	IBM
+N18	Reference T18 wiki:1269265	McAfee
+N19	Reference T19 wiki:10874	Red Hat
+N20	Reference T20 wiki:81959	SAP AG
+N21	Reference T21 wiki:157841	Symantec
+N22	Reference T22 wiki:268064	ZyXEL
+N23	Reference T23 wiki:72700	Лаборатория Касперского
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	IsLink T21
+A21	IsLink T22
+A22	IsLink T23

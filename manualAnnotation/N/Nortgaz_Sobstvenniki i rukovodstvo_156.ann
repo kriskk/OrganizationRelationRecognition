@@ -1,0 +1,5 @@
+T1	Organization 0 7	Нортгаз
+T2	Organization 223 230	Новатэк
+N1	Reference T1 wiki:144896	Нортгаз
+N2	Reference T2 wiki:172027	Новатэк
+A1	TypeRel T2 Personnel

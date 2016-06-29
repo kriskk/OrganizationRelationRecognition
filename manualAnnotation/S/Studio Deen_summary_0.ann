@@ -1,0 +1,5 @@
+T1	Organization 0 11	Studio Deen
+T2	Organization 109 116	Sunrise
+N1	Reference T1 wiki:681386	Studio Deen
+N2	Reference T2 wiki:373049	Sunrise (студия)
+A1	IsLink T2

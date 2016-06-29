@@ -1,0 +1,14 @@
+T1	Organization 0 8	Синтерра
+T2	Organization 282 289	МегаФон
+T3	Organization 525 532	МегаФон
+T4	Organization 572 579	МегаФон
+T5	Organization 724 731	МегаФон
+N1	Reference T1 wiki:1399604	Синтерра
+N2	Reference T2 wiki:70933	МегаФон
+N3	Reference T3 wiki:70933	МегаФон
+N4	Reference T4 wiki:70933	МегаФон
+N5	Reference T5 wiki:70933	МегаФон
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

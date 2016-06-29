@@ -1,0 +1,5 @@
+T1	Organization 0 10	АвтоКубань
+T2	Organization 217 220	ГАЗ
+N1	Reference T1 wiki:3057359	АвтоКубань
+N2	Reference T2 wiki:25060	Горьковский автомобильный завод
+A1	IsLink T2

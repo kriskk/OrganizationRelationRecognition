@@ -1,0 +1,6 @@
+T1	Organization 0 52	Porsche Lizenz- und Handelsgesellschaft mbH & Co. KG
+T2	Organization 212 240	Porsche Automobil Holding SE
+N1	Reference T1 wiki:403185	Porsche Lizenz- und Handelsgesellschaft mbH & Co. KG
+N2	Reference T2 wiki:1972003	Porsche Automobil Holding SE
+A1	IsLink T2
+A2	TypeRel T2 Holder

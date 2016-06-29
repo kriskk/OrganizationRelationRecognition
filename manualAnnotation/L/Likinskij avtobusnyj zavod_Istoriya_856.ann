@@ -1,0 +1,9 @@
+T1	Organization 0 26	Ликинский автобусный завод
+T2	Organization 208 213	Камаз
+T3	Organization 429 439	группу ГАЗ
+N1	Reference T1 wiki:154271	Ликинский автобусный завод
+N2	Reference T2 wiki:169714	Камаз
+N3	Reference T3 wiki:21473	Группа ГАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

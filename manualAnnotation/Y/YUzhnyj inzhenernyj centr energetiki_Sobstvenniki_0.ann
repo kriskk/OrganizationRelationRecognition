@@ -1,0 +1,12 @@
+T1	Organization 0 33	Южный инженерный центр энергетики
+T2	Organization 207 225	ОАО «Холдинг МРСК»
+T3	Organization 331 351	ОАО РАО «ЕЭС России»
+T4	Organization 413 433	ОАО РАО «ЕЭС России»
+N1	Reference T1 wiki:2874218	Южный инженерный центр энергетики
+N2	Reference T2 wiki:2040314	Холдинг МРСК
+N3	Reference T3 wiki:1432138	РАО «ЕЭС России»
+N4	Reference T4 wiki:1432138	РАО «ЕЭС России»
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T3 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 7	К-Раута
+T2	Organization 114 119	Kesko
+N1	Reference T1 wiki:1495383	К-Раута
+N2	Reference T2 wiki:271694	Kesko
+A1	TypeRel T2 Holder

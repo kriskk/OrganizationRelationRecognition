@@ -1,0 +1,5 @@
+T1	Organization 0 8	KDE e.V.
+T2	Organization 202 211	Trolltech
+N1	Reference T1 wiki:1250860	KDE e.V.
+N2	Reference T2 wiki:567361	Trolltech
+A1	TypeRel T2 Cooperator

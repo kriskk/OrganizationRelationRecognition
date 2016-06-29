@@ -1,0 +1,6 @@
+T1	Organization 0 10	Handspring
+T2	Organization 53 63	Palm, Inc.
+N1	Reference T1 wiki:131326	Handspring
+N2	Reference T2 wiki:128188	Palm, Inc.
+A1	IsLink T2
+A2	TypeRel T2 Alias

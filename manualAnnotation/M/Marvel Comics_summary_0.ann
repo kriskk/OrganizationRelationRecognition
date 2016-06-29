@@ -1,0 +1,14 @@
+T1	Organization 0 13	Marvel Comics
+T2	Organization 132 152	Marvel Entertainment
+T3	Organization 685 694	DC Comics
+T4	Organization 837 860	The Walt Disney Company
+N1	Reference T1 wiki:351306	Marvel Comics
+N2	Reference T2 wiki:3272761	Marvel Entertainment
+N3	Reference T3 wiki:1742414	DC Comics
+N4	Reference T4 wiki:319365	The Walt Disney Company
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Holder

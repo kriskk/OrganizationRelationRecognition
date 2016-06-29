@@ -1,0 +1,8 @@
+T1	Organization 0 30	Metronom Eisenbahngesellschaft
+T2	Organization 154 156	DB
+T3	Organization 461 471	Bombardier
+N1	Reference T1 wiki:2691932	Metronom Eisenbahngesellschaft
+N2	Reference T2 wiki:321840	Deutsche Bahn
+N3	Reference T3 wiki:168782	Bombardier
+A1	IsLink T2
+A2	TypeRel T3 Cooperator

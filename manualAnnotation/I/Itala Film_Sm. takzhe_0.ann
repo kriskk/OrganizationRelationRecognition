@@ -1,0 +1,11 @@
+T1	Organization 0 10	Itala Film
+T2	Organization 43 47	Пате
+T3	Organization 50 71	Компания кинопатентов
+T4	Organization 74 83	Вайтограф
+N1	Reference T1 wiki:1049429	Itala Film
+N2	Reference T2 wiki:1000945	Pathé
+N3	Reference T3 wiki:1016531	Компания кинопатентов
+N4	Reference T4 wiki:1016619	Вайтограф
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

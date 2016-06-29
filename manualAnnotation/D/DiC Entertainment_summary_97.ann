@@ -1,0 +1,5 @@
+T1	Organization 0 17	DiC Entertainment
+T2	Organization 269 278	RTL Group
+N1	Reference T1 wiki:1984738	DiC Entertainment
+N2	Reference T2 wiki:1987028	RTL Group
+A1	IsLink T2

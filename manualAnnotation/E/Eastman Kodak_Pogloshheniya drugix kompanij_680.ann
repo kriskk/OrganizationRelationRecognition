@@ -1,0 +1,6 @@
+T1	Organization 0 13	Eastman Kodak
+T2	Organization 214 234	Виктором Хассельблад
+N1	Reference T1 wiki:313661	Eastman Kodak
+N2	Reference T2 wiki:1204530	Victor Hasselblad
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

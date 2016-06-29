@@ -1,0 +1,16 @@
+T1	Organization 0 19	Хлебный дом (бренд)
+T2	Organization 299 304	Fazer
+T3	Organization 399 404	Fazer
+T4	Organization 704 709	Fazer
+T5	Organization 804 809	Fazer
+N1	Reference T1 wiki:3516954	Хлебный дом (бренд)
+N2	Reference T2 wiki:237215	Fazer
+N3	Reference T3 wiki:237215	Fazer
+N4	Reference T4 wiki:237215	Fazer
+N5	Reference T5 wiki:237215	Fazer
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T4 Cooperator
+A6	TypeRel T5 Cooperator

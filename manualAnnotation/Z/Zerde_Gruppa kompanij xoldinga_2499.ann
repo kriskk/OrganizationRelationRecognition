@@ -1,0 +1,6 @@
+T1	Organization 0 5	Зерде
+T2	Organization 251 278	Центр электронной коммерции
+N1	Reference T1 wiki:2291462	Зерде
+N2	Reference T2 wiki:2379646	Центр электронной коммерции
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

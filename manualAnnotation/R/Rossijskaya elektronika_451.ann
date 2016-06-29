@@ -1,0 +1,5 @@
+T1	Organization 0 22	Российская электроника
+T2	Organization 181 194	Ростехнологии
+N1	Reference T1 wiki:1037436	Российская электроника
+N2	Reference T2 wiki:915063	Ростехнологии
+A1	IsLink T2

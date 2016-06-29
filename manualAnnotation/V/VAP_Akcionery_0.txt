@@ -1,0 +1,12 @@
+VAP
+@Акционеры
+806,0
+
+
+Акционеры
+
+ Mitsubishi
+	 Nippon Television Network
+	 Akita Broadcasting System
+	 Sapporo Television Broadcasting
+	 Yamagata Broadcasting Company Limited

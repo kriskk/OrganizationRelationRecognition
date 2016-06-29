@@ -1,0 +1,6 @@
+T1	Organization 0 54	Завод счётно-аналитических машин имени В. Д. Калмыкова
+T2	Organization 284 291	Siemens
+N1	Reference T1 wiki:2890656	Завод счётно-аналитических машин имени В. Д. Калмыкова
+N2	Reference T2 wiki:36510	Siemens
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

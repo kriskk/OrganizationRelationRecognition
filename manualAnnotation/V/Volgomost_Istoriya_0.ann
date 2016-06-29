@@ -1,0 +1,5 @@
+T1	Organization 0 9	Волгомост
+T2	Organization 167 198	самарская группа компаний «СОК»
+N1	Reference T1 wiki:865625	Волгомост
+N2	Reference T2 wiki:148557	СОК (группа)
+A1	TypeRel T2 Holder

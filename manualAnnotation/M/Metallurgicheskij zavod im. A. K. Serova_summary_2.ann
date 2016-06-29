@@ -1,0 +1,6 @@
+T1	Organization 0 39	Металлургический завод им. А. К. Серова
+T2	Organization 225 239	холдинг «УГМК»
+N1	Reference T1 wiki:1212563	Металлургический завод им. А. К. Серова
+N2	Reference T2 wiki:171944	Уральская горно-металлургическая компания
+A1	IsLink T2
+A2	TypeRel T2 Holder

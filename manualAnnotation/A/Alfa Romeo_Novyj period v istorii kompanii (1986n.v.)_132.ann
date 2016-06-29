@@ -1,0 +1,11 @@
+T1	Organization 0 10	Alfa Romeo
+T2	Organization 291 295	Ford
+T3	Organization 298 301	BMW
+T4	Organization 409 415	ФИАТом
+N1	Reference T1 wiki:371643	Alfa Romeo
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:40368	BMW
+N4	Reference T4 wiki:91784	FIAT
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

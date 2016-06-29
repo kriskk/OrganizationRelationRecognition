@@ -1,0 +1,9 @@
+T1	Organization 0 24	Компания Полярное Сияние
+T2	Organization 123 137	ConocoPhillips
+T3	Organization 140 148	Роснефть
+N1	Reference T1 wiki:1660138	Компания Полярное Сияние
+N2	Reference T2 wiki:171985	ConocoPhillips
+N3	Reference T3 wiki:139770	Роснефть
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

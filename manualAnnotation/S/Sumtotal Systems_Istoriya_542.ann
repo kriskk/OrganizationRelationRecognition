@@ -1,0 +1,5 @@
+T1	Organization 0 16	Sumtotal Systems
+T2	Organization 256 262	NASDAQ
+N1	Reference T1 wiki:3103179	Sumtotal Systems
+N2	Reference T2 wiki:63813	NASDAQ
+A1	IsLink T2

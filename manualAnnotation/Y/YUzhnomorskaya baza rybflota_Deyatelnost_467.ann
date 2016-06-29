@@ -1,0 +1,10 @@
+T1	Organization 0 25	Южноморская база рыбфлота
+T2	Organization 352 357	НБАМР
+T3	Organization 361 376	Дальморепродукт
+N1	Reference T1 wiki:2849722	Южноморская база рыбфлота
+N2	Reference T2 wiki:142928	Находкинская база активного морского рыболовства
+N3	Reference T3 wiki:4199706	Дальморепродукт
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

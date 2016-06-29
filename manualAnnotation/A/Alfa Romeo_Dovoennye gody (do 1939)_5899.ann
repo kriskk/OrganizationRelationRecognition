@@ -1,0 +1,5 @@
+T1	Organization 0 10	Alfa Romeo
+T2	Organization 301 307	Lancia
+N1	Reference T1 wiki:371643	Alfa Romeo
+N2	Reference T2 wiki:1503078	Lancia
+A1	IsLink T2

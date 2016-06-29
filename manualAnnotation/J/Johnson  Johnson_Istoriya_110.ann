@@ -1,0 +1,6 @@
+T1	Organization 0 17	Johnson & Johnson
+T2	Organization 264 270	Pfizer
+N1	Reference T1 wiki:608810	Johnson & Johnson
+N2	Reference T2 wiki:275429	Pfizer
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

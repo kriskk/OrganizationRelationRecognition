@@ -1,0 +1,5 @@
+T1	Organization 0 15	Transocean Ltd.
+T2	Organization 397 405	Anadarko
+N1	Reference T1 wiki:2429340	Transocean Ltd.
+N2	Reference T2 wiki:242424	Anadarko
+A1	IsLink T2

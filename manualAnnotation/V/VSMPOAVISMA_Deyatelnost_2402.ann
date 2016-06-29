@@ -1,0 +1,6 @@
+T1	Organization 0 12	ВСМПО-АВИСМА
+T2	Organization 193 199	Ависма
+N1	Reference T1 wiki:140530	ВСМПО-АВИСМА
+N2	Reference T2 wiki:140530	Ависма
+A1	IsLink T2
+A2	TypeRel T2 Alias

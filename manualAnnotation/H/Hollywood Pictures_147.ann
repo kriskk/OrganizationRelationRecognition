@@ -1,0 +1,5 @@
+T1	Organization 0 18	Hollywood Pictures
+T2	Organization 177 200	The Walt Disney Company
+N1	Reference T1 wiki:1398376	Hollywood Pictures
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	TypeRel T2 Holder

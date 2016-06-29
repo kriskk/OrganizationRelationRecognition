@@ -1,0 +1,5 @@
+T1	Organization 0 12	ИФД КапиталЪ
+T2	Organization 228 234	Лукойл
+N1	Reference T1 wiki:160398	ИФД КапиталЪ
+N2	Reference T2 wiki:59354	Лукойл
+A1	TypeRel T2 Personnel

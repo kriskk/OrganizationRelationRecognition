@@ -1,0 +1,5 @@
+T1	Organization 0 25	Arctech Helsinki Shipyard
+T2	Organization 58 77	Nordic Yards Wismar
+N1	Reference T1 wiki:4277541	Arctech Helsinki Shipyard
+N2	Reference T2 wiki:3540711	Nordic Yards Wismar
+A1	IsLink T2

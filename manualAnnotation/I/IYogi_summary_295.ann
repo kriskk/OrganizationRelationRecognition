@@ -1,0 +1,10 @@
+T1	Organization 0 5	IYogi
+T2	Organization 222 227	Apple
+T3	Organization 424 432	Deloitte
+N1	Reference T1 wiki:4095247	IYogi
+N2	Reference T2 wiki:39726	Apple
+N3	Reference T3 wiki:143428	Deloitte
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Other

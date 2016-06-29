@@ -1,0 +1,9 @@
+T1	Organization 0 13	Ульяновск-GSM
+T2	Organization 174 177	НСС
+T3	Organization 365 377	ВолгаТелеком
+N1	Reference T1 wiki:1975186	Ульяновск-GSM
+N2	Reference T2 wiki:2093483	НСС
+N3	Reference T3 wiki:162608	ВолгаТелеком
+A1	IsLink T2
+A2	TypeRel T3 Holder
+A3	TypeRel T2 Holder

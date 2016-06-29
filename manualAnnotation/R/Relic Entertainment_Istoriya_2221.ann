@@ -1,0 +1,6 @@
+T1	Organization 0 19	Relic Entertainment
+T2	Organization 360 364	Sega
+N1	Reference T1 wiki:1577183	Relic Entertainment
+N2	Reference T2 wiki:92589	Sega
+A1	IsLink T2
+A2	TypeRel T2 Holder

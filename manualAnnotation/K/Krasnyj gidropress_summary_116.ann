@@ -1,0 +1,9 @@
+T1	Organization 0 18	Красный гидропресс
+T2	Organization 263 276	ОКБ «Новатор»
+T3	Organization 278 301	ОАО «КБ машиностроения»
+N1	Reference T1 wiki:3776988	Красный гидропресс
+N2	Reference T2 wiki:620163	ОКБ «Новатор»
+N3	Reference T3 wiki:2057571	КБ машиностроения (Москва)
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

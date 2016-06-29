@@ -1,0 +1,6 @@
+T1	Organization 0 39	Липецкое станкостроительное предприятие
+T2	Organization 122 158	Липецкого станкостроительного завода
+N1	Reference T1 wiki:1930300	Липецкое станкостроительное предприятие
+N2	Reference T2 wiki:1325721	Липецкий станкостроительный завод
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

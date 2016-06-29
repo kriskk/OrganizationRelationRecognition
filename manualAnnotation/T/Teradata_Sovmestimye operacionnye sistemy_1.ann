@@ -1,0 +1,11 @@
+T1	Organization 0 8	Teradata
+T2	Organization 231 235	AT&T
+T3	Organization 238 247	Microsoft
+T4	Organization 324 329	Intel
+N1	Reference T1 wiki:1885190	Teradata
+N2	Reference T2 wiki:162994	AT&T
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:762172	Intel
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

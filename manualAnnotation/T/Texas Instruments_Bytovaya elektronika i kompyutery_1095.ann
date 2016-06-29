@@ -1,0 +1,11 @@
+T1	Organization 0 17	Texas Instruments
+T2	Organization 412 418	Compaq
+T3	Organization 609 624	Hewlett-Packard
+T4	Organization 823 844	Acer Computer Company
+N1	Reference T1 wiki:429235	Texas Instruments
+N2	Reference T2 wiki:343420	Compaq
+N3	Reference T3 wiki:89988	Hewlett-Packard
+N4	Reference T4 wiki:326664	Acer
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

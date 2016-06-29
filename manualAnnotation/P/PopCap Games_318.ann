@@ -1,0 +1,5 @@
+T1	Organization 0 12	PopCap Games
+T2	Organization 169 184	Electronic Arts
+N1	Reference T1 wiki:1925534	PopCap Games
+N2	Reference T2 wiki:323143	Electronic Arts
+A1	TypeRel T2 Holder

@@ -1,0 +1,14 @@
+T1	Organization 0 8	Heineken
+T2	Organization 206 211	Сябар
+T3	Organization 492 502	Речицапиво
+T4	Organization 729 738	«Криница»
+N1	Reference T1 wiki:248758	Heineken
+N2	Reference T2 wiki:1030243	Сябар (пивоваренная компания)
+N3	Reference T3 wiki:1030195	Речицапиво
+N4	Reference T4 wiki:1027888	Криница (пивоваренный завод)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Competitor

@@ -1,0 +1,6 @@
+T1	Organization 0 9	MicroLink
+T2	Organization 254 267	Eesti Telekom
+N1	Reference T1 wiki:2494169	MicroLink
+N2	Reference T2 wiki:375927	Eesti Telekom
+A1	IsLink T2
+A2	TypeRel T2 Holder

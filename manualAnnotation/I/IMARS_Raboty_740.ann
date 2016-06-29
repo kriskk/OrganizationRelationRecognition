@@ -1,0 +1,10 @@
+T1	Organization 0 5	IMARS
+T2	Organization 236 249	Газпром нефть
+T3	Organization 418 433	Трансмашхолдинг
+N1	Reference T1 wiki:2753107	IMARS
+N2	Reference T2 wiki:121955	Газпром нефть
+N3	Reference T3 wiki:168333	Трансмашхолдинг
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

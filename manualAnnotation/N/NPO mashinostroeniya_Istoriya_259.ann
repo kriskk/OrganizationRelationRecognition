@@ -1,0 +1,6 @@
+T1	Organization 0 18	НПО машиностроения
+T2	Organization 257 290	«Тактическое ракетное вооружение»
+N1	Reference T1 wiki:347931	НПО машиностроения
+N2	Reference T2 wiki:551806	Тактическое ракетное вооружение (компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

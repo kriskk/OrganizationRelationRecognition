@@ -1,0 +1,5 @@
+T1	Organization 0 18	Rockstar San Diego
+T2	Organization 116 119	N64
+N1	Reference T1 wiki:2327583	Rockstar San Diego
+N2	Reference T2 wiki:202486	Nintendo
+A1	IsLink T2

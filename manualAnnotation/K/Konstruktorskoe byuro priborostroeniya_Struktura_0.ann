@@ -1,0 +1,6 @@
+T1	Organization 0 36	Конструкторское бюро приборостроения
+T2	Organization 167 180	Ростехнологии
+N1	Reference T1 wiki:308070	Конструкторское бюро приборостроения
+N2	Reference T2 wiki:915063	Ростехнологии
+A1	IsLink T2
+A2	TypeRel T2 Holder

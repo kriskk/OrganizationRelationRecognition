@@ -1,0 +1,8 @@
+T1	Organization 0 7	Toshiba
+T2	Organization 221 225	Acer
+T3	Organization 228 232	Asus
+N1	Reference T1 wiki:507269	Toshiba
+N2	Reference T2 wiki:326664	Acer
+N3	Reference T3 wiki:118273	Asus
+A1	IsLink T2
+A2	IsLink T3

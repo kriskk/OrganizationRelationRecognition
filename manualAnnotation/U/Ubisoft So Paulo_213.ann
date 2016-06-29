@@ -1,0 +1,6 @@
+T1	Organization 0 17	Ubisoft São Paulo
+T2	Organization 206 213	Ubisoft
+N1	Reference T1 wiki:2564395	Ubisoft São Paulo
+N2	Reference T2 wiki:650139	Ubisoft
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,8 @@
+T1	Organization 0 6	ТриМоб
+T2	Organization 205 213	Киевстар
+T3	Organization 331 339	Билайном
+N1	Reference T1 wiki:1807420	ТриМоб
+N2	Reference T2 wiki:88220	Киевстар
+N3	Reference T3 wiki:1030941	Украинские радиосистемы
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,14 @@
+T1	Organization 0 12	Oberon Media
+T2	Organization 255 264	Microsoft
+T3	Organization 266 270	AT&T
+T4	Organization 280 295	Electronic Arts
+N1	Reference T1 wiki:3143353	Oberon Media
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:162994	AT&T
+N4	Reference T4 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

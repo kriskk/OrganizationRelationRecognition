@@ -1,0 +1,5 @@
+T1	Organization 0 21	Коммерсантъ Картотека
+T2	Organization 254 286	Издательского дома «Коммерсантъ»
+N1	Reference T1 wiki:3845104	Коммерсантъ Картотека
+N2	Reference T2 wiki:179871	Коммерсантъ (издательский дом)
+A1	TypeRel T2 Holder

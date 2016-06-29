@@ -1,0 +1,5 @@
+T1	Organization 0 8	Monforts
+T2	Organization 41 74	Кировский завод (Санкт-Петербург)
+N1	Reference T1 wiki:2192280	Monforts
+N2	Reference T2 wiki:208146	Кировский завод (Санкт-Петербург)
+A1	IsLink T2

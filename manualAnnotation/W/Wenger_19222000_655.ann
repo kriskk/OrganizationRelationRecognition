@@ -1,0 +1,5 @@
+T1	Organization 0 6	Wenger
+T2	Organization 237 244	Porsche
+N1	Reference T1 wiki:2226251	Wenger
+N2	Reference T2 wiki:403194	Porsche
+A1	TypeRel T2 Cooperator

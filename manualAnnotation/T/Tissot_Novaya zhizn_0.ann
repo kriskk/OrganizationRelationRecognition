@@ -1,0 +1,5 @@
+T1	Organization 0 6	Tissot
+T2	Organization 135 152	Swatch Group Ltd.
+N1	Reference T1 wiki:177171	Tissot
+N2	Reference T2 wiki:214233	Swatch Group
+A1	IsLink T2

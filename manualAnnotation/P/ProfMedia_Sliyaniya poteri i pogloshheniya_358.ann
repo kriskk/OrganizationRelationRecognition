@@ -1,0 +1,6 @@
+T1	Organization 0 9	ПрофМедиа
+T2	Organization 314 353	Издательский дом «Комсомольская правда»
+N1	Reference T1 wiki:179905	ПрофМедиа
+N2	Reference T2 wiki:2128863	Издательский дом «Комсомольская правда»
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

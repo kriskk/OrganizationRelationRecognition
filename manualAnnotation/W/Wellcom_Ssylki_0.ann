@@ -1,0 +1,8 @@
+T1	Organization 0 7	Wellcom
+T2	Organization 63 66	ЕТК
+T3	Organization 99 112	Байкалвестком
+N1	Reference T1 wiki:404283	Wellcom
+N2	Reference T2 wiki:355733	ЕТК
+N3	Reference T3 wiki:252007	Байкалвестком
+A1	IsLink T2
+A2	IsLink T3

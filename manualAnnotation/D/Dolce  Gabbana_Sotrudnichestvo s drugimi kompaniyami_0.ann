@@ -1,0 +1,5 @@
+T1	Organization 0 15	Dolce & Gabbana
+T2	Organization 150 163	Sony Ericsson
+N1	Reference T1 wiki:774074	Dolce & Gabbana
+N2	Reference T2 wiki:120852	Sony Ericsson
+A1	IsLink T2

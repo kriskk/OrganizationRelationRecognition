@@ -1,0 +1,5 @@
+T1	Organization 0 6	Danone
+T2	Organization 307 322	Вимм-Билль-Данн
+N1	Reference T1 wiki:279435	Danone
+N2	Reference T2 wiki:160926	Вимм-Билль-Данн
+A1	IsLink T2

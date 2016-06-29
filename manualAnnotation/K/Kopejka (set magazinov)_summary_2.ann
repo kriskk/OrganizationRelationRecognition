@@ -1,0 +1,10 @@
+T1	Organization 0 24	Копейка (сеть магазинов)
+T2	Organization 191 206	X5 Retail Group
+T3	Organization 271 282	Перекрёсток
+N1	Reference T1 wiki:153659	Копейка (сеть магазинов)
+N2	Reference T2 wiki:353293	X5 Retail Group
+N3	Reference T3 wiki:176082	Перекрёсток (сеть магазинов)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

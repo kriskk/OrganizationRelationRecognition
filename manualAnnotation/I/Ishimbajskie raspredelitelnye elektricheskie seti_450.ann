@@ -1,0 +1,6 @@
+T1	Organization 0 48	Ишимбайские распределительные электрические сети
+T2	Organization 205 217	Башкирэнерго
+N1	Reference T1 wiki:3610242	Ишимбайские распределительные электрические сети
+N2	Reference T2 wiki:1398589	Башкирэнерго
+A1	IsLink T2
+A2	TypeRel T2 Holder

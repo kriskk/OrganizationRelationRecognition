@@ -1,0 +1,32 @@
+Imagination Technologies
+@Планшетные компьютеры и КПК
+4439,240
+
+ Ниже указаны наиболее популярные планшетные компьютеры и КПК в которых применяется видеоядро PowerVR.
+ PowerVR Series 4 / PowerVR VXD
+
+
+Apple iPad
+
+Samsung Galaxy Tab
+
+HP iPaq 11x/21x
+
+ PowerVR Series5 / PowerVR SGX
+
+Apple iPad
+
+Samsung Galaxy Tab
+
+Barnes & Noble Nook Color/Nook Tablet
+
+Amazon Kindle Fire (все версии)
+
+Archos 101 G10
+
+ PowerVR Series 5XT / PowerVR SGXMP
+
+
+Apple iPad 2
+
+Apple iPad mini

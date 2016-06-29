@@ -1,0 +1,5 @@
+T1	Organization 0 19	Private Media Group
+T2	Organization 219 225	NASDAQ
+N1	Reference T1 wiki:2131931	Private Media Group
+N2	Reference T2 wiki:63813	NASDAQ
+A1	TypeRel T2 Other

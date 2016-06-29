@@ -1,0 +1,8 @@
+T1	Organization 0 5	Rexam
+T2	Organization 244 247	En+
+T3	Organization 261 276	Базовый элемент
+N1	Reference T1 wiki:285460	Rexam
+N2	Reference T2 wiki:1909698	En+
+N3	Reference T3 wiki:156379	Базовый элемент
+A2	IsLink T3
+A1	TypeRel T2 Cooperator

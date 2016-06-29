@@ -1,0 +1,17 @@
+Gumpert
+@Партнеры
+503,74
+
+thumb Завод The Gumpert Sportwagenmanufaktur.
+ Apollo Germany Limited (Краски и ремонт)
+	 ATS Group (разработка и производство колес)
+	 BFFT (Автомобильная электроника)
+	 Bosch Group (автомобильные компоненты и системы, в том числе ABS/TCS системы)
+	 Eibach (разработка спортивных шасси)
+	 HS Genion (автомобильная электроника)
+	 KBF Kabelbaumfertigung 
+	 KW Automotive 
+	 Mero TSK (выхлопная система)
+	 Pirelli (дорожные и спортные колеса)
+	 TRW (активная и пассивная безопасность)
+	 Technical University of Munich 

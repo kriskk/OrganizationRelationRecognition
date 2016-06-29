@@ -1,0 +1,20 @@
+T1	Organization 0 7	Siemens
+T2	Organization 381 387	MAQUET
+T3	Organization 563 577	Chrysler Group
+T4	Organization 688 693	Dodge
+T5	Organization 695 699	Jeep
+T6	Organization 702 710	Chrysler
+T7	Organization 784 800	Bonus Energy A/S
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:964472	MAQUET
+N3	Reference T3 wiki:223902	Chrysler Corporation
+N4	Reference T4 wiki:41485	Dodge
+N5	Reference T5 wiki:41489	Jeep
+N6	Reference T6 wiki:223902	Chrysler
+N7	Reference T7 wiki:2113560	Bonus Energy A/S
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

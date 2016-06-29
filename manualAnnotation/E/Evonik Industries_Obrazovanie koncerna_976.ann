@@ -1,0 +1,8 @@
+T1	Organization 0 17	Evonik Industries
+T2	Organization 268 284	Blackstone Group
+T3	Organization 287 294	Газпром
+N1	Reference T1 wiki:922033	Evonik Industries
+N2	Reference T2 wiki:706484	Blackstone Group
+N3	Reference T3 wiki:44754	Газпром
+A1	IsLink T2
+A2	IsLink T3

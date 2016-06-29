@@ -1,0 +1,14 @@
+T1	Organization 0 37	Шахтинский авиационно-ремонтный завод
+T2	Organization 68 85	АНТК им. Антонова
+T3	Organization 87 103	ОКБ им. Яковлева
+T4	Organization 124 154	Воронежский механический завод
+N1	Reference T1 wiki:3145057	Шахтинский авиационно-ремонтный завод
+N2	Reference T2 wiki:32271	АНТК им. Антонова
+N3	Reference T3 wiki:55757	ОКБ им. Яковлева
+N4	Reference T4 wiki:304186	Воронежский механический завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

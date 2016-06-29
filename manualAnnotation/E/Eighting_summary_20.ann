@@ -1,0 +1,15 @@
+T1	Organization 0 8	Eighting
+T2	Organization 280 287	Toaplan
+T3	Organization 404 408	Cave
+T4	Organization 410 416	Takumi
+T5	Organization 710 717	Compile
+N1	Reference T1 wiki:1718274	Eighting
+N2	Reference T2 wiki:1639366	Toaplan
+N3	Reference T3 wiki:1716901	Cave (компания)
+N4	Reference T4 wiki:1734797	Takumi Corporation
+N5	Reference T5 wiki:1720936	Compile
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Personnel

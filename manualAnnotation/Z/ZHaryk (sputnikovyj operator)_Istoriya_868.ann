@@ -1,0 +1,9 @@
+T1	Organization 0 28	Жарык (спутниковый оператор)
+T2	Organization 251 259	Inmarsat
+T3	Organization 354 362	Inmarsat
+N1	Reference T1 wiki:3000301	Жарык (спутниковый оператор)
+N2	Reference T2 wiki:192915	Inmarsat
+N3	Reference T3 wiki:192915	Inmarsat
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

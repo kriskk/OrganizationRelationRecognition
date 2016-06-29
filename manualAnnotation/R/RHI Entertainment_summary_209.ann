@@ -1,0 +1,5 @@
+T1	Organization 0 17	RHI Entertainment
+T2	Organization 314 321	Apple's
+N1	Reference T1 wiki:3481491	RHI Entertainment
+N2	Reference T2 wiki:39726	Apple
+A1	TypeRel T2 Cooperator

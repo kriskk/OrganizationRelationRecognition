@@ -1,0 +1,11 @@
+T1	Organization 0 11	Time Warner
+T2	Organization 184 193	Time Inc.
+T3	Organization 195 221	Warner Bros. Entertainment
+T4	Organization 242 245	CNN
+N1	Reference T1 wiki:741342	Time Warner
+N2	Reference T2 wiki:889335	Time Inc.
+N3	Reference T3 wiki:272386	Warner Bros. Entertainment
+N4	Reference T4 wiki:256238	CNN
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

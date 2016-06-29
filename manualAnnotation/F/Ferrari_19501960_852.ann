@@ -1,0 +1,5 @@
+T1	Organization 0 7	Ferrari
+T2	Organization 253 264	Пининфарина
+N1	Reference T1 wiki:124051	Ferrari
+N2	Reference T2 wiki:1574788	Pininfarina
+A1	IsLink T2

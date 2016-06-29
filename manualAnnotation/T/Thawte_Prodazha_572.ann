@@ -1,0 +1,5 @@
+T1	Organization 0 6	Thawte
+T2	Organization 248 256	Symantec
+N1	Reference T1 wiki:4084649	Thawte
+N2	Reference T2 wiki:157841	Symantec
+A1	IsLink T2

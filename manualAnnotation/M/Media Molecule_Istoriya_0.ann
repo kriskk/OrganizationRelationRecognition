@@ -1,0 +1,6 @@
+T1	Organization 0 14	Media Molecule
+T2	Organization 119 135	Lionhead Studios
+N1	Reference T1 wiki:2502541	Media Molecule
+N2	Reference T2 wiki:1105978	Lionhead Studios
+A1	IsLink T2
+A2	TypeRel T2 Personnel

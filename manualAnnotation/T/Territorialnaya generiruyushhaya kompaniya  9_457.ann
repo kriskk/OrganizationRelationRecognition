@@ -1,0 +1,8 @@
+T1	Organization 0 41	Территориальная генерирующая компания № 9
+T2	Organization 205 209	КПМГ
+T3	Organization 225 247	PricewaterhouseCoopers
+N1	Reference T1 wiki:655405	Территориальная генерирующая компания № 9
+N2	Reference T2 wiki:281743	КПМГ
+N3	Reference T3 wiki:275101	PricewaterhouseCoopers
+A1	IsLink T2
+A2	IsLink T3

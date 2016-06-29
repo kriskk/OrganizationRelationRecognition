@@ -1,0 +1,9 @@
+T1	Organization 0 12	ВСМПО-АВИСМА
+T2	Organization 267 274	Ростеха
+T3	Organization 311 318	Ростеха
+N1	Reference T1 wiki:140530	ВСМПО-АВИСМА
+N2	Reference T2 wiki:915063	Ростехнологии
+N3	Reference T3 wiki:915063	Ростехнологии
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

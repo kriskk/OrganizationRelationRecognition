@@ -1,0 +1,5 @@
+T1	Organization 0 34	Восточная нефтехимическая компания
+T2	Organization 199 207	Роснефть
+N1	Reference T1 wiki:2709666	Восточная нефтехимическая компания
+N2	Reference T2 wiki:139770	Роснефть
+A1	TypeRel T2 Holder

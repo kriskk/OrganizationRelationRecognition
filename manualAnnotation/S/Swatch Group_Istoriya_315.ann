@@ -1,0 +1,74 @@
+T1	Organization 0 12	Swatch Group
+T2	Organization 182 188	Tissot
+T3	Organization 225 230	Omega
+T4	Organization 319 327	Longines
+T5	Organization 330 334	Rado
+T6	Organization 631 638	Breguet
+T7	Organization 640 649	Blancpain
+T8	Organization 671 682	Jaquet Droz
+T9	Organization 684 694	Léon Hatot
+T10	Organization 696 701	Omega
+T11	Organization 703 707	Rado
+T12	Organization 709 717	Longines
+T13	Organization 740 746	Tissot
+T14	Organization 748 755	Certina
+T15	Organization 757 772	UNION Glashütte
+T16	Organization 774 781	Balmain
+T17	Organization 815 823	Hamilton
+T18	Organization 825 829	Mido
+T19	Organization 831 837	Endura
+T20	Organization 859 868	Flik Flak
+T21	Organization 871 877	Swatch
+T22	Organization 963 966	ETA
+T23	Organization 1069 1076	Lémania
+T24	Organization 1407 1414	Comadur
+T25	Organization 1455 1462	Nivarox
+N1	Reference T1 wiki:214233	Swatch Group
+N2	Reference T2 wiki:177171	Tissot
+N3	Reference T3 wiki:1047157	Omega (компания)
+N4	Reference T4 wiki:1057852	Longines
+N5	Reference T5 wiki:1052474	Rado
+N6	Reference T6 wiki:1072056	Breguet
+N7	Reference T7 wiki:1075077	Blancpain
+N8	Reference T8 wiki:1087555	Jaquet Droz
+N9	Reference T9 wiki:4425489	Leon Hatot
+N10	Reference T10 wiki:1047157	Omega (компания)
+N11	Reference T11 wiki:1052474	Rado
+N12	Reference T12 wiki:1057852	Longines
+N13	Reference T13 wiki:177171	Tissot
+N14	Reference T14 wiki:1052953	Certina
+N15	Reference T15 wiki:1056926	UNION
+N16	Reference T16 wiki:1056860	Balmain
+N17	Reference T17 wiki:1062515	Hamilton
+N18	Reference T18 wiki:1054457	Mido
+N19	Reference T19 wiki:1081446	Endura
+N20	Reference T20 wiki:1046759	Flik Flak
+N21	Reference T21 wiki:1046759	Swatch
+N22	Reference T22 wiki:1080471	ETA (фабрика)
+N23	Reference T23 wiki:1064610	Lemania
+N24	Reference T24 wiki:1070421	Comadur
+N25	Reference T25 wiki:1071276	Nivarox
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	IsLink T21
+A21	IsLink T22
+A22	IsLink T23
+A23	IsLink T24
+A24	IsLink T25

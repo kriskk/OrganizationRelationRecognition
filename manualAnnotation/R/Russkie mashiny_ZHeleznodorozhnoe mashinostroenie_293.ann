@@ -1,0 +1,8 @@
+T1	Organization 0 14	Русские машины
+T2	Organization 274 294	ОАО «Абаканвагонмаш»
+T3	Organization 511 526	ОАО «Рузхиммаш»
+N1	Reference T1 wiki:2023713	Русские машины
+N2	Reference T2 wiki:154209	Абаканвагонмаш
+N3	Reference T3 wiki:164614	Рузхиммаш
+A1	IsLink T2
+A2	IsLink T3

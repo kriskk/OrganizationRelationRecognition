@@ -1,0 +1,10 @@
+T1	Organization 0 20	Инженерный центр ЕЭС
+T2	Organization 406 426	ОАО РАО «ЕЭС России»
+T3	Organization 631 651	ОАО РАО «ЕЭС России»
+N1	Reference T1 wiki:2832480	Инженерный центр ЕЭС
+N2	Reference T2 wiki:1432138	РАО «ЕЭС России»
+N3	Reference T3 wiki:1432138	РАО «ЕЭС России»
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

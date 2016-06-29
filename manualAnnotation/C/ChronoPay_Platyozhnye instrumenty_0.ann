@@ -1,0 +1,14 @@
+T1	Organization 0 9	ChronoPay
+T2	Organization 155 159	VISA
+T3	Organization 161 171	MasterCard
+T4	Organization 173 176	JCB
+T5	Organization 179 190	Diners Club
+N1	Reference T1 wiki:1706860	ChronoPay
+N2	Reference T2 wiki:36386	VISA
+N3	Reference T3 wiki:36409	MasterCard
+N4	Reference T4 wiki:2389831	JCB
+N5	Reference T5 wiki:3339710	Diners Club
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

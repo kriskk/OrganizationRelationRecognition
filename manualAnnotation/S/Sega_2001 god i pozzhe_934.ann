@@ -1,0 +1,38 @@
+T1	Organization 0 4	Sega
+T2	Organization 269 273	SIMS
+T3	Organization 352 369	Creative Assembly
+T4	Organization 417 432	Visual Concepts
+T5	Organization 456 476	Take-Two Interactive
+T6	Organization 511 529	Sports Interactive
+T7	Organization 684 706	Obsidian Entertainment
+T8	Organization 708 724	Gearbox Software
+T9	Organization 727 734	BioWare
+T10	Organization 837 847	Sonic Team
+T11	Organization 965 976	Codemasters
+T12	Organization 1317 1343	New Entertainment R&D Dept
+T13	Organization 1440 1459	Relic Entertainment
+N1	Reference T1 wiki:92589	Sega
+N2	Reference T2 wiki:2485476	SIMS Co., Ltd.
+N3	Reference T3 wiki:1324113	Creative Assembly
+N4	Reference T4 wiki:3430606	Visual Concepts
+N5	Reference T5 wiki:2783863	Take-Two Interactive
+N6	Reference T6 wiki:3464655	Sports Interactive
+N7	Reference T7 wiki:501253	Obsidian Entertainment
+N8	Reference T8 wiki:541955	Gearbox Software
+N9	Reference T9 wiki:546996	BioWare
+N10	Reference T10 wiki:2721227	Sonic Team
+N11	Reference T11 wiki:952362	Codemasters
+N12	Reference T12 wiki:3258249	Amusement Vision
+N13	Reference T13 wiki:1577183	Relic Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13

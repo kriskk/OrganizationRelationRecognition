@@ -1,0 +1,6 @@
+T1	Organization 0 14	Matrix Telecom
+T2	Organization 238 245	МегаФон
+N1	Reference T1 wiki:1963031	Matrix Telecom
+N2	Reference T2 wiki:70933	МегаФон
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

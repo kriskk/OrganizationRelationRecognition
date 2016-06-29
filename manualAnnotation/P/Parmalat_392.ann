@@ -1,0 +1,6 @@
+T1	Organization 0 8	Parmalat
+T2	Organization 194 202	Lactalis
+N1	Reference T1 wiki:470215	Parmalat
+N2	Reference T2 wiki:3451053	Lactalis
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 15	Корбина Телеком
+T2	Organization 308 313	Cisco
+N1	Reference T1 wiki:128480	Корбина Телеком
+N2	Reference T2 wiki:25014	Cisco
+A1	TypeRel T2 Cooperator

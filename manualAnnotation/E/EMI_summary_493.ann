@@ -1,0 +1,13 @@
+T1	Organization 0 3	EMI
+T2	Organization 240 251	EMI Records
+T3	Organization 517 538	Universal Music Group
+T4	Organization 541 565	Sony Music Entertainment
+N1	Reference T1 wiki:101046	EMI
+N2	Reference T2 wiki:101046	EMI Records
+N3	Reference T3 wiki:203047	Universal Music Group
+N4	Reference T4 wiki:2770369	Sony Music Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T2 Holder

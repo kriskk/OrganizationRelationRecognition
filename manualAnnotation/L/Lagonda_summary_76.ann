@@ -1,0 +1,5 @@
+T1	Organization 0 7	Lagonda
+T2	Organization 254 266	Aston Martin
+N1	Reference T1 wiki:3656046	Lagonda
+N2	Reference T2 wiki:451029	Aston Martin
+A1	TypeRel T2 Holder

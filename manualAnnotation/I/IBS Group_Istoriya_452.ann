@@ -1,0 +1,10 @@
+T1	Organization 0 9	IBS Group
+T2	Organization 262 279	British Petroleum
+T3	Organization 328 331	AIG
+N1	Reference T1 wiki:345272	IBS Group
+N2	Reference T2 wiki:189320	British Petroleum
+N3	Reference T3 wiki:158473	AIG
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

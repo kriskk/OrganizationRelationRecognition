@@ -1,0 +1,5 @@
+T1	Organization 0 21	Otsuka Pharmaceutical
+T2	Organization 206 227	Takeda Pharmaceutical
+N1	Reference T1 wiki:3122778	Otsuka Pharmaceutical
+N2	Reference T2 wiki:3116139	Takeda Pharmaceutical
+A1	TypeRel T2 Competitor

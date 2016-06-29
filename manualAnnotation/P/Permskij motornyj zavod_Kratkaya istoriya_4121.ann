@@ -1,0 +1,14 @@
+T1	Organization 0 23	Пермский моторный завод
+T2	Organization 391 401	ОАО «УМПО»
+T3	Organization 403 420	ОАО "НПО «Сатурн»
+T4	Organization 422 440	ФГУП "ММПП «Салют»
+N1	Reference T1 wiki:2283590	Пермский моторный завод
+N2	Reference T2 wiki:1704059	Уфимское моторостроительное производственное объединение
+N3	Reference T3 wiki:233902	НПО Сатурн
+N4	Reference T4 wiki:335632	НПЦ газотурбостроения «Салют»
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

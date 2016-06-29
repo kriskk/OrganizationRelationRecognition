@@ -1,0 +1,8 @@
+T1	Organization 0 7	Agrokor
+T2	Organization 134 141	Jamnica
+T3	Organization 337 343	Konzum
+N1	Reference T1 wiki:4258261	Agrokor
+N2	Reference T2 wiki:4264320	Jamnica
+N3	Reference T3 wiki:4255822	Konzum
+A1	IsLink T2
+A2	IsLink T3

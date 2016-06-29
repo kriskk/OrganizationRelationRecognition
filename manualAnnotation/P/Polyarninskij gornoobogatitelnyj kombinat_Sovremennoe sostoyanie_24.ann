@@ -1,0 +1,10 @@
+T1	Organization 0 42	Полярнинский горно-обогатительный комбинат
+T2	Organization 262 270	Полярная
+T3	Organization 272 278	Шахтёр
+N1	Reference T1 wiki:3468744	Полярнинский горно-обогатительный комбинат
+N2	Reference T2 wiki:4015587	Артель старателей «Полярная»
+N3	Reference T3 wiki:3945991	Артель старателей «Шахтёр»
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

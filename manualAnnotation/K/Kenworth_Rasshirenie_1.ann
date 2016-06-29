@@ -1,0 +1,9 @@
+T1	Organization 0 8	Kenworth
+T2	Organization 184 187	DAF
+T3	Organization 374 383	Peterbilt
+N1	Reference T1 wiki:2477230	Kenworth
+N2	Reference T2 wiki:1570257	DAF Trucks
+N3	Reference T3 wiki:1704331	Peterbilt
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

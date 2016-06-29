@@ -1,0 +1,10 @@
+T1	Organization 0 6	ИжАвто
+T2	Organization 176 181	Ижмаш
+T3	Organization 199 206	АвтоВАЗ
+N1	Reference T1 wiki:39731	ИжАвто
+N2	Reference T2 wiki:963537	Ижмаш
+N3	Reference T3 wiki:139276	АвтоВАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

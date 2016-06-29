@@ -1,0 +1,11 @@
+T1	Organization 0 9	Free-Will
+T2	Organization 172 182	Avex Group
+T3	Organization 183 213	Sony Music Entertainment Japan
+T4	Organization 214 235	Universal Music Group
+N1	Reference T1 wiki:2307062	Free-Will
+N2	Reference T2 wiki:3292401	Avex Group
+N3	Reference T3 wiki:3103736	Sony Music Entertainment Japan
+N4	Reference T4 wiki:203047	Universal Music Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

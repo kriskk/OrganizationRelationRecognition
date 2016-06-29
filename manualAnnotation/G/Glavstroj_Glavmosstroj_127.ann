@@ -1,0 +1,20 @@
+T1	Organization 0 9	Главстрой
+T2	Organization 236 248	Главмосстрой
+T3	Organization 320 332	Главмосстрой
+T4	Organization 374 386	Главмосстрой
+T5	Organization 579 591	Главмосстрой
+T6	Organization 751 763	Главмосстрой
+T7	Organization 898 910	Главмосстроя
+N1	Reference T1 wiki:655957	Главстрой
+N2	Reference T2 wiki:164189	Главмосстрой
+N3	Reference T3 wiki:164189	Главмосстрой
+N4	Reference T4 wiki:164189	Главмосстрой
+N5	Reference T5 wiki:164189	Главмосстрой
+N6	Reference T6 wiki:164189	Главмосстрой
+N7	Reference T7 wiki:164189	Главмосстрой
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

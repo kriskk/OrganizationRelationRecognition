@@ -1,0 +1,15 @@
+Freescale Semiconductor
+@Конкуренты
+2267,0
+
+
+Конкуренты
+
+ NEC Electronics
+	 NXP Semiconductors
+	 Micron Technology
+	 Infineon
+	 STMicroelectronics
+	 Texas Instruments
+
+

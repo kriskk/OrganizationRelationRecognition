@@ -1,0 +1,5 @@
+T1	Organization 0 11	TeliaSonera
+T2	Organization 124 132	Turkcell
+N1	Reference T1 wiki:177779	TeliaSonera
+N2	Reference T2 wiki:177253	Turkcell
+A1	IsLink T2

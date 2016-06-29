@@ -1,0 +1,5 @@
+T1	Organization 0 7	Авиакор
+T2	Organization 174 188	Русские машины
+N1	Reference T1 wiki:480966	Авиакор
+N2	Reference T2 wiki:2023713	Русские машины
+A1	IsLink T2

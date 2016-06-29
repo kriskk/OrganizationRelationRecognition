@@ -1,0 +1,14 @@
+T1	Organization 0 9	Славнефть
+T2	Organization 224 237	Мозырский НПЗ
+T3	Organization 252 267	НПЗ в Ярославле
+T4	Organization 393 401	Сибнефти
+T5	Organization 405 432	Тюменской нефтяной компании
+N1	Reference T1 wiki:205107	Славнефть
+N2	Reference T2 wiki:1142963	Мозырский НПЗ
+N3	Reference T3 wiki:1731070	Новоярославский НПЗ
+N4	Reference T4 wiki:121955	Газпром нефть
+N5	Reference T5 wiki:17252	ТНК-ВР
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,6 @@
+T1	Organization 0 11	НТЦ Альфа-1
+T2	Organization 199 217	NXP Semiconductors
+N1	Reference T1 wiki:985606	НТЦ Альфа-1
+N2	Reference T2 wiki:984265	NXP Semiconductors
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

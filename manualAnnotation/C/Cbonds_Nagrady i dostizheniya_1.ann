@@ -1,0 +1,5 @@
+T1	Organization 0 6	Cbonds
+T2	Organization 189 199	Медиалогии
+N1	Reference T1 wiki:3333114	Cbonds
+N2	Reference T2 wiki:2849968	Медиалогия
+A1	IsLink T2

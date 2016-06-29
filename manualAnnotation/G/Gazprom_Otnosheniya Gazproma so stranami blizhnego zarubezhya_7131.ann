@@ -1,0 +1,5 @@
+T1	Organization 0 7	Газпром
+T2	Organization 356 373	Нафтогаза Украины
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:128243	Нафтогаз Украины
+A1	TypeRel T2 Cooperator

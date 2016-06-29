@@ -1,0 +1,14 @@
+T1	Organization 0 9	ГорТехМаш
+T2	Organization 225 265	«Объединённые машиностроительные заводы»
+T3	Organization 657 673	ООО «ИЗ-КАРТЭКС»
+T4	Organization 675 685	группа ОМЗ
+N1	Reference T1 wiki:2695380	ГорТехМаш
+N2	Reference T2 wiki:149170	Объединённые машиностроительные заводы
+N3	Reference T3 wiki:601241	Ижорский завод
+N4	Reference T4 wiki:149170	Объединённые машиностроительные заводы
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

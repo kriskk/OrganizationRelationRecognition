@@ -1,0 +1,9 @@
+T1	Organization 0 19	Johnny & Associates
+T2	Organization 166 188	Johnny's Entertainment
+T3	Organization 190 197	J Storm
+N1	Reference T1 wiki:3292340	Johnny & Associates
+N2	Reference T2 wiki:3292349	Johnny's Entertainment
+N3	Reference T3 wiki:3292353	J Storm
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

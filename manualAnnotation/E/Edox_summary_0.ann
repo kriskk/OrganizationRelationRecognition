@@ -1,0 +1,5 @@
+T1	Organization 0 4	Edox
+T2	Organization 106 110	EDOX
+N1	Reference T1 wiki:3333246	Edox
+N2	Reference T2 wiki:3333246	EDOX
+A1	IsLink T2

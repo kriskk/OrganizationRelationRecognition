@@ -1,0 +1,5 @@
+T1	Organization 0 5	ИНПАС
+T2	Organization 171 202	ITG (INLINE Technologies Group)
+N1	Reference T1 wiki:2421189	ИНПАС
+N2	Reference T2 wiki:3136302	ITG (INLINE Technologies Group)
+A1	TypeRel T2 Holder

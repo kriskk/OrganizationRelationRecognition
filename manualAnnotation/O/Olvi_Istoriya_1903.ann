@@ -1,0 +1,15 @@
+T1	Organization 0 4	Olvi
+T2	Organization 339 347	Olvi PLC
+T3	Organization 373 385	Лидское пиво
+T4	Organization 400 409	A. Le Coq
+T5	Organization 420 429	Cesu alus
+N1	Reference T1 wiki:3408246	Olvi
+N2	Reference T2 wiki:3408246	Olvi
+N3	Reference T3 wiki:1030340	Лидское пиво
+N4	Reference T4 wiki:280813	A. Le Coq
+N5	Reference T5 wiki:3301677	Cesu alus
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T3 Subsidiary

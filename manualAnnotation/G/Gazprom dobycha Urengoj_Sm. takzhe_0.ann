@@ -1,0 +1,10 @@
+T1	Organization 0 22	Газпром добыча Уренгой
+T2	Organization 54 81	ООО «Газпром добыча Ямбург»
+T3	Organization 83 109	ООО «Газпром добыча Надым»
+N1	Reference T1 wiki:3724139	Газпром добыча Уренгой
+N2	Reference T2 wiki:117978	Газпром добыча Ямбург
+N3	Reference T3 wiki:972645	Газпром добыча Надым
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+A4	TypeRel T3 Alias

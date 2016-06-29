@@ -1,0 +1,5 @@
+T1	Organization 0 31	Sumitomo Light Metal Industries
+T2	Organization 246 281	Sumitomo Metal Industries Co., Ltd.
+N1	Reference T1 wiki:3783032	Sumitomo Light Metal Industries
+N2	Reference T2 wiki:1835225	Sumitomo Metal Industries
+A1	IsLink T2

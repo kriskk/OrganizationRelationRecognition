@@ -1,0 +1,11 @@
+T1	Organization 0 14	Studio Pierrot
+T2	Organization 107 127	Tatsunoko Production
+T3	Organization 250 267	Mushi Productions
+T4	Organization 283 303	Tatsunoko Production
+N1	Reference T1 wiki:1112049	Studio Pierrot
+N2	Reference T2 wiki:3007966	Tatsunoko Production
+N3	Reference T3 wiki:2689263	Mushi Productions
+N4	Reference T4 wiki:3007966	Tatsunoko Production
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

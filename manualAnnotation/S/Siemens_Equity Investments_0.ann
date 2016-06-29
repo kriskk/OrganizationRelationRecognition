@@ -1,0 +1,8 @@
+T1	Organization 0 7	Siemens
+T2	Organization 192 229	BSH Bosch und Siemens Hausgeräte GmbH
+T3	Organization 265 290	Nokia Siemens Networks BV
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
+N3	Reference T3 wiki:354923	Nokia Siemens Networks
+A1	IsLink T2
+A2	IsLink T3

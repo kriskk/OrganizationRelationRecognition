@@ -1,0 +1,21 @@
+T1	Organization 0 9	Prometric
+T2	Organization 178 187	Microsoft
+T3	Organization 189 192	IBM
+T4	Organization 194 199	Apple
+T5	Organization 201 206	Canon
+T6	Organization 208 216	Symantec
+N1	Reference T1 wiki:4205378	Prometric
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:39726	Apple
+N5	Reference T5 wiki:53435	Canon
+N6	Reference T6 wiki:157841	Symantec
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator
+A9	TypeRel T6 Cooperator

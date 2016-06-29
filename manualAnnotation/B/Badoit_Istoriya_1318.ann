@@ -1,0 +1,8 @@
+T1	Organization 0 6	Badoit
+T2	Organization 250 255	Evian
+T3	Organization 411 417	Danone
+N1	Reference T1 wiki:2278239	Badoit
+N2	Reference T2 wiki:1976223	Evian
+N3	Reference T3 wiki:279435	Danone
+A1	IsLink T2
+A2	IsLink T3

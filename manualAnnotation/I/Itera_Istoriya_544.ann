@@ -1,0 +1,14 @@
+T1	Organization 0 5	Итера
+T2	Organization 256 263	Новатэк
+T3	Organization 466 472	ТНК-BP
+T4	Organization 579 587	Роснефть
+N1	Reference T1 wiki:156662	Итера
+N2	Reference T2 wiki:172027	Новатэк
+N3	Reference T3 wiki:17252	ТНК-BP
+N4	Reference T4 wiki:139770	Роснефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

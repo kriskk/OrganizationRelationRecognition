@@ -1,0 +1,6 @@
+T1	Organization 0 25	Montreal Locomotive Works
+T2	Organization 359 369	Bombardier
+N1	Reference T1 wiki:2107702	Montreal Locomotive Works
+N2	Reference T2 wiki:168782	Bombardier
+A1	IsLink T2
+A2	TypeRel T2 Holder

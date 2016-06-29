@@ -1,0 +1,17 @@
+T1	Organization 0 7	StarBev
+T2	Organization 222 242	Anheuser-Busch InBev
+T3	Organization 507 518	Staropramen
+T4	Organization 808 819	Staropramen
+T5	Organization 965 970	Jelen
+T6	Organization 973 982	Apatinsko
+N1	Reference T1 wiki:4114777	StarBev
+N2	Reference T2 wiki:3199376	Anheuser-Busch InBev
+N3	Reference T3 wiki:1168330	Staropramen
+N4	Reference T4 wiki:1168330	Staropramen
+N5	Reference T5 wiki:4116194	Апатинская пивоварня
+N6	Reference T6 wiki:4116194	Апатинская пивоварня
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

@@ -1,0 +1,19 @@
+T1	Organization 0 7	Nivarox
+T2	Organization 207 212	Omega
+T3	Organization 214 221	Breguet
+T4	Organization 223 232	Blancpain
+T5	Organization 278 283	Rolex
+T6	Organization 285 299	Patek Philippe
+T7	Organization 302 317	Audemars Piguet
+N1	Reference T1 wiki:1071276	Nivarox
+N2	Reference T2 wiki:1047157	Omega (компания)
+N3	Reference T3 wiki:1072056	Breguet
+N4	Reference T4 wiki:1075077	Blancpain
+N5	Reference T5 wiki:321708	Rolex
+N6	Reference T6 wiki:916331	Patek Philippe
+N7	Reference T7 wiki:4359155	Audemars Piguet
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

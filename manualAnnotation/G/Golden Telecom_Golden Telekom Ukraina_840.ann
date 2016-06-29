@@ -1,0 +1,6 @@
+T1	Organization 0 14	Golden Telecom
+T2	Organization 348 367	Вымпел-Коммуникации
+N1	Reference T1 wiki:2196953	Golden Telecom
+N2	Reference T2 wiki:70736	Вымпел-Коммуникации
+A1	IsLink T2
+A2	TypeRel T2 Holder

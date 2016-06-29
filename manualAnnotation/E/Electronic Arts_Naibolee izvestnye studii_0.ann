@@ -1,0 +1,62 @@
+T1	Organization 0 15	Electronic Arts
+T2	Organization 80 98	Criterion Software
+T3	Organization 214 234	Digital Illusions CE
+T4	Organization 293 305	EA Black Box
+T5	Organization 326 335	EA Canada
+T6	Organization 365 379	EA Los Angeles
+T7	Organization 428 439	EA Montreal
+T8	Organization 487 507	Mythic Entertainment
+T9	Organization 568 582	Visceral Games
+T10	Organization 677 682	Maxis
+T11	Organization 714 725	EA Phenomic
+T12	Organization 760 770	EA Tiburon
+T13	Organization 813 819	PopCap
+T14	Organization 955 962	BioWare
+T15	Organization 997 1013	Pandemic Studios
+N1	Reference T1 wiki:323143	Electronic Arts
+N2	Reference T2 wiki:1519023	Criterion Software
+N3	Reference T3 wiki:1142775	Digital Illusions CE
+N4	Reference T4 wiki:2306009	EA Black Box
+N5	Reference T5 wiki:2306102	EA Canada
+N6	Reference T6 wiki:2301649	EA Los Angeles
+N7	Reference T7 wiki:2309473	EA Montreal
+N8	Reference T8 wiki:1969660	Mythic Entertainment
+N9	Reference T9 wiki:2309684	Visceral Games
+N10	Reference T10 wiki:1292523	Maxis
+N11	Reference T11 wiki:2309533	EA Phenomic
+N12	Reference T12 wiki:2309507	EA Tiburon
+N13	Reference T13 wiki:1925534	PopCap
+N14	Reference T14 wiki:546996	BioWare
+N15	Reference T15 wiki:2316640	Pandemic Studios
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	TypeRel T2 Subsidiary
+A16	TypeRel T3 Subsidiary
+A17	TypeRel T4 Subsidiary
+A18	TypeRel T5 Subsidiary
+A19	TypeRel T6 Subsidiary
+A20	TypeRel T6 Subsidiary
+A21	TypeRel T7 Subsidiary
+A22	TypeRel T7 Subsidiary
+A23	TypeRel T8 Subsidiary
+A24	TypeRel T8 Subsidiary
+A25	TypeRel T9 Subsidiary
+A26	TypeRel T2 Subsidiary
+A27	TypeRel T2 Subsidiary
+A28	TypeRel T3 Subsidiary
+A29	TypeRel T3 Subsidiary
+A30	TypeRel T4 Subsidiary
+A31	TypeRel T5 Subsidiary
+A32	TypeRel T4 Subsidiary

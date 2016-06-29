@@ -1,0 +1,16 @@
+T1	Organization 0 5	Volvo
+T2	Organization 108 126	Volvo Personvagnar
+T3	Organization 413 431	Volvo Personvagnar
+T4	Organization 441 445	Ford
+T5	Organization 486 491	Geely
+N1	Reference T1 wiki:387781	Volvo
+N2	Reference T2 wiki:1921582	Volvo Personvagnar
+N3	Reference T3 wiki:1921582	Volvo Personvagnar
+N4	Reference T4 wiki:153236	Ford
+N5	Reference T5 wiki:380153	Geely Automobile
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Cooperator

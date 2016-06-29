@@ -1,0 +1,5 @@
+T1	Organization 0 38	Нижегородский машиностроительный завод
+T2	Organization 134 145	Алмаз-Антей
+N1	Reference T1 wiki:929895	Нижегородский машиностроительный завод
+N2	Reference T2 wiki:149639	Алмаз-Антей
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Роснано
+T2	Organization 265 282	Норильский никель
+N1	Reference T1 wiki:728818	Роснано
+N2	Reference T2 wiki:73395	Норильский никель
+A1	TypeRel T2 Personnel

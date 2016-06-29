@@ -1,0 +1,5 @@
+T1	Organization 0 4	LEGO
+T2	Organization 48 59	Mega Brands
+N1	Reference T1 wiki:183996	LEGO
+N2	Reference T2 wiki:3675849	Mega Brands
+A1	IsLink T2

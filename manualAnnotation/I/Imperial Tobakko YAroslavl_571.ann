@@ -1,0 +1,10 @@
+T1	Organization 0 26	Империал Тобакко Ярославль
+T2	Organization 211 227	Imperial Tobacco
+T3	Organization 267 287	ПрайсвотерхаусКуперс
+N1	Reference T1 wiki:2618758	Империал Тобакко Ярославль
+N2	Reference T2 wiki:2619120	Imperial Tobacco
+N3	Reference T3 wiki:275101	ПрайсвотерхаусКуперс
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

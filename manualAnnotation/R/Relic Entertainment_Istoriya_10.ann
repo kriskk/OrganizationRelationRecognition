@@ -1,0 +1,15 @@
+T1	Organization 0 19	Relic Entertainment
+T2	Organization 230 249	Barking Dog Studios
+T3	Organization 416 425	Microsoft
+T4	Organization 595 598	THQ
+T5	Organization 738 752	Games Workshop
+N1	Reference T1 wiki:1577183	Relic Entertainment
+N2	Reference T2 wiki:2102172	Barking Dog Studios
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:795069	THQ
+N5	Reference T5 wiki:1491650	Games Workshop
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T4 Holder

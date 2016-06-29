@@ -1,0 +1,6 @@
+T1	Organization 0 6	Qiagen
+T2	Organization 335 341	Nasdaq
+N1	Reference T1 wiki:2519998	Qiagen
+N2	Reference T2 wiki:63813	Nasdaq
+A1	IsLink T2
+A2	TypeRel T2 Other

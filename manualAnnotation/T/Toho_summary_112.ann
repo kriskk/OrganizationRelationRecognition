@@ -1,0 +1,5 @@
+T1	Organization 0 4	Toho
+T2	Organization 214 227	Studio Ghibli
+N1	Reference T1 wiki:3182840	Toho
+N2	Reference T2 wiki:8977	Studio Ghibli
+A1	IsLink T2

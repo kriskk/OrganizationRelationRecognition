@@ -1,0 +1,5 @@
+T1	Organization 0 5	Kofax
+T2	Organization 232 234	1C
+N1	Reference T1 wiki:4375972	Kofax
+N2	Reference T2 wiki:34936	1C
+A1	TypeRel T2 Cooperator

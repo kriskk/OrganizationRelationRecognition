@@ -1,0 +1,9 @@
+T1	Organization 0 25	ГалоПолимер Кирово-Чепецк
+T2	Organization 280 287	Уралхим
+T3	Organization 633 644	ГалоПолимер
+N1	Reference T1 wiki:3189750	ГалоПолимер Кирово-Чепецк
+N2	Reference T2 wiki:1628752	Уралхим
+N3	Reference T3 wiki:3189454	ГалоПолимер
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Alias

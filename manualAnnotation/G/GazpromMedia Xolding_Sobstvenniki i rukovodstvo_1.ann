@@ -1,0 +1,10 @@
+T1	Organization 0 21	Газпром-Медиа Холдинг
+T2	Organization 231 238	Газпром
+T3	Organization 270 277	Газфонд
+N1	Reference T1 wiki:189268	Газпром-Медиа Холдинг
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:1950122	Газфонд
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

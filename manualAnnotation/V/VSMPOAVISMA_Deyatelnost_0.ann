@@ -1,0 +1,32 @@
+T1	Organization 0 12	ВСМПО-АВИСМА
+T2	Organization 131 137	Boeing
+T3	Organization 139 145	Airbus
+T4	Organization 147 153	SNECMA
+T5	Organization 168 181	Pratt&Whitney
+T6	Organization 462 468	Airbus
+T7	Organization 536 542	Boeing
+T8	Organization 723 727	EADS
+T9	Organization 737 744	Embraer
+N1	Reference T1 wiki:140530	ВСМПО-АВИСМА
+N2	Reference T2 wiki:156398	Boeing
+N3	Reference T3 wiki:212269	Airbus
+N4	Reference T4 wiki:776933	SNECMA
+N5	Reference T5 wiki:807790	Pratt&Whitney
+N6	Reference T6 wiki:212269	Airbus SAS
+N7	Reference T7 wiki:156398	Boeing
+N8	Reference T8 wiki:39833	EADS
+N9	Reference T9 wiki:345325	Embraer
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T8 Cooperator
+A14	TypeRel T9 Cooperator

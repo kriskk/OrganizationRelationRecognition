@@ -1,0 +1,5 @@
+T1	Organization 0 6	Badoit
+T2	Organization 91 97	Danone
+N1	Reference T1 wiki:2278239	Badoit
+N2	Reference T2 wiki:279435	Danone
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 18	Пикалёвский цемент
+T2	Organization 230 245	ЕВРОЦЕМЕНТ груп
+N1	Reference T1 wiki:4178866	Пикалёвский цемент
+N2	Reference T2 wiki:172003	Евроцемент груп
+A1	TypeRel T2 Holder

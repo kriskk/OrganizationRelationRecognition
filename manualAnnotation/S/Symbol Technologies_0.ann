@@ -1,0 +1,5 @@
+T1	Organization 0 19	Symbol Technologies
+T2	Organization 113 121	Motorola
+N1	Reference T1 wiki:1829698	Symbol Technologies
+N2	Reference T2 wiki:134384	Motorola
+A1	IsLink T2

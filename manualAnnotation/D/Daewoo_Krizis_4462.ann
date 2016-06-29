@@ -1,0 +1,5 @@
+T1	Organization 0 6	Daewoo
+T2	Organization 248 253	Total
+N1	Reference T1 wiki:794769	Daewoo
+N2	Reference T2 wiki:159658	Total
+A1	IsLink T2

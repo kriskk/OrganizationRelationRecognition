@@ -1,0 +1,5 @@
+T1	Organization 0 8	Кордиант
+T2	Organization 169 174	Сибур
+N1	Reference T1 wiki:1622512	Кордиант
+N2	Reference T2 wiki:144869	Сибур
+A1	TypeRel T2 Cooperator

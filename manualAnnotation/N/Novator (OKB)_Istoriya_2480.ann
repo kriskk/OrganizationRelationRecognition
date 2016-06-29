@@ -1,0 +1,5 @@
+T1	Organization 0 13	Новатор (ОКБ)
+T2	Organization 212 238	Концерна ПВО «Алмаз-Антей»
+N1	Reference T1 wiki:620163	Новатор (ОКБ)
+N2	Reference T2 wiki:149639	Алмаз-Антей
+A1	TypeRel T2 Holder

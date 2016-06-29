@@ -1,0 +1,21 @@
+T1	Organization 0 9	P.A. Semi
+T2	Organization 198 203	Apple
+T3	Organization 205 208	IBM
+T4	Organization 210 218	Motorola
+T5	Organization 219 228	Freescale
+T6	Organization 274 291	Texas Instruments
+T7	Organization 515 520	Apple
+N1	Reference T1 wiki:4191847	P.A. Semi
+N2	Reference T2 wiki:39726	Apple
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:134384	Motorola
+N5	Reference T5 wiki:1614887	Freescale
+N6	Reference T6 wiki:429235	Texas Instruments
+N7	Reference T7 wiki:39726	Apple
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A6	IsLink T7
+A5	TypeRel T6 Cooperator
+A7	TypeRel T7 Cooperator

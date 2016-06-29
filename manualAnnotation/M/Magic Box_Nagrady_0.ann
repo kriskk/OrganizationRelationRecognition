@@ -1,0 +1,5 @@
+T1	Organization 0 9	Magic Box
+T2	Organization 149 159	Ростелеком
+N1	Reference T1 wiki:1328453	Magic Box
+N2	Reference T2 wiki:145844	Ростелеком
+A1	TypeRel T2 Cooperator

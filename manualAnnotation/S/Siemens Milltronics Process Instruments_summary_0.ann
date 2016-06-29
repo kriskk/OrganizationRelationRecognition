@@ -1,0 +1,5 @@
+T1	Organization 0 39	Siemens Milltronics Process Instruments
+T2	Organization 160 170	Siemens AG
+N1	Reference T1 wiki:2094086	Siemens Milltronics Process Instruments
+N2	Reference T2 wiki:36510	Siemens AG
+A1	IsLink T2

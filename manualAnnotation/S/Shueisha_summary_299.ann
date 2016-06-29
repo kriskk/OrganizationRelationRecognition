@@ -1,0 +1,8 @@
+T1	Organization 0 8	Shueisha
+T2	Organization 304 314	Hakusensha
+T3	Organization 418 427	Viz Media
+N1	Reference T1 wiki:204996	Shueisha
+N2	Reference T2 wiki:206069	Hakusensha
+N3	Reference T3 wiki:1037814	Viz Media
+A1	IsLink T2
+A2	IsLink T3

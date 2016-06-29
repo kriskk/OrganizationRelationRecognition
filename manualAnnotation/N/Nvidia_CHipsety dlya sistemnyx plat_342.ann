@@ -1,0 +1,5 @@
+T1	Organization 0 6	Nvidia
+T2	Organization 203 208	Intel
+N1	Reference T1 wiki:1548156	Nvidia
+N2	Reference T2 wiki:762172	Intel
+A1	TypeRel T2 Cooperator

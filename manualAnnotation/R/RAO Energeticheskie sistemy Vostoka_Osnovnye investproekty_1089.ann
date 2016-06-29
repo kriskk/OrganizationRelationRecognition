@@ -1,0 +1,5 @@
+T1	Organization 0 34	РАО Энергетические системы Востока
+T2	Organization 255 269	РАО ЭС Востока
+N1	Reference T1 wiki:2671340	РАО Энергетические системы Востока
+N2	Reference T2 wiki:2671340	РАО ЭС Востока
+A1	TypeRel T2 Alias

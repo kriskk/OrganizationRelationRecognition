@@ -1,0 +1,5 @@
+T1	Organization 0 9	LDV Group
+T2	Organization 174 184	SAIC Motor
+N1	Reference T1 wiki:1791283	LDV Group
+N2	Reference T2 wiki:377731	SAIC Motor
+A1	TypeRel T2 Holder

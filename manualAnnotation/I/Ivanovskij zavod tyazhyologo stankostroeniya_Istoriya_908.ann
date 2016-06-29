@@ -1,0 +1,10 @@
+T1	Organization 0 40	Ивановский завод тяжёлого станкостроения
+T2	Organization 240 243	ЗИЛ
+T3	Organization 247 250	ГАЗ
+N1	Reference T1 wiki:3522014	Ивановский завод тяжёлого станкостроения
+N2	Reference T2 wiki:259988	Завод имени Лихачёва
+N3	Reference T3 wiki:25060	Горьковский автомобильный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

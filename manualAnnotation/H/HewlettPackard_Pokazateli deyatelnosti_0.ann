@@ -1,0 +1,38 @@
+T1	Organization 0 15	Hewlett-Packard
+T2	Organization 116 123	Gartner
+T3	Organization 255 260	Canon
+T4	Organization 271 276	Epson
+T5	Organization 287 294	Brother
+T6	Organization 305 312	Samsung
+T7	Organization 721 727	Lenovo
+T8	Organization 729 733	Dell
+T9	Organization 735 739	Acer
+T10	Organization 742 746	Asus
+N1	Reference T1 wiki:89988	Hewlett-Packard
+N2	Reference T2 wiki:2960363	Gartner
+N3	Reference T3 wiki:53435	Canon
+N4	Reference T4 wiki:129399	Epson
+N5	Reference T5 wiki:1981285	Brother
+N6	Reference T6 wiki:125537	Samsung
+N7	Reference T7 wiki:666442	Lenovo
+N8	Reference T8 wiki:124570	Dell
+N9	Reference T9 wiki:326664	Acer
+N10	Reference T10 wiki:118273	Asus
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T2 Other
+A11	TypeRel T3 Competitor
+A12	TypeRel T4 Competitor
+A13	TypeRel T5 Competitor
+A14	TypeRel T6 Competitor
+A15	TypeRel T7 Competitor
+A16	TypeRel T8 Competitor
+A17	TypeRel T9 Competitor
+A18	TypeRel T10 Competitor

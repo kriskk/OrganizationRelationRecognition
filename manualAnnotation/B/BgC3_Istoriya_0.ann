@@ -1,0 +1,8 @@
+T1	Organization 0 4	BgC3
+T2	Organization 42 51	Microsoft
+T3	Organization 170 179	Microsoft
+N1	Reference T1 wiki:1456327	BgC3
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3

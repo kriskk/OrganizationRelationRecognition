@@ -1,0 +1,5 @@
+T1	Organization 0 10	BFGoodrich
+T2	Organization 86 94	Michelin
+N1	Reference T1 wiki:2428781	BFGoodrich
+N2	Reference T2 wiki:214287	Michelin
+A1	IsLink T2

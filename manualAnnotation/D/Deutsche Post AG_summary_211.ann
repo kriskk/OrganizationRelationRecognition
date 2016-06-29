@@ -1,0 +1,14 @@
+T1	Organization 0 16	Deutsche Post AG
+T2	Organization 219 236	Deutsche Post DHL
+T3	Organization 413 416	DHL
+T4	Organization 450 467	Deutsche Post DHL
+T5	Organization 479 502	Deutsche Post World Net
+N1	Reference T1 wiki:170102	Deutsche Post AG
+N2	Reference T2 wiki:287521	Deutsche Post DHL
+N3	Reference T3 wiki:209951	DHL
+N4	Reference T4 wiki:287521	Deutsche Post DHL
+N5	Reference T5 wiki:287521	Deutsche Post World Net
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

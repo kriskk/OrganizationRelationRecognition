@@ -1,0 +1,6 @@
+T1	Organization 0 31	Горьковский автомобильный завод
+T2	Organization 251 256	Bosch
+N1	Reference T1 wiki:25060	Горьковский автомобильный завод
+N2	Reference T2 wiki:166006	Bosch
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,14 @@
+T1	Organization 0 11	ПрограмБанк
+T2	Organization 148 155	Диасофт
+T3	Organization 157 172	R-Style Softlab
+T4	Organization 174 177	ЦФТ
+N1	Reference T1 wiki:2056012	ПрограмБанк
+N2	Reference T2 wiki:2055790	Диасофт
+N3	Reference T3 wiki:351663	R-Style Softlab
+N4	Reference T4 wiki:771907	ЦФТ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor

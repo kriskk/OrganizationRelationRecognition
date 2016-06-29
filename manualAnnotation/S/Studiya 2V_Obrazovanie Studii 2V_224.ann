@@ -1,0 +1,5 @@
+T1	Organization 0 9	Студия 2В
+T2	Organization 197 203	Леан-М
+N1	Reference T1 wiki:1288018	Студия 2В
+N2	Reference T2 wiki:1883827	Леан-М
+A1	IsLink T2

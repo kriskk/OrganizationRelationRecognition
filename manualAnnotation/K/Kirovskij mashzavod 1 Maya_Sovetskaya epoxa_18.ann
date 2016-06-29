@@ -1,0 +1,6 @@
+T1	Organization 0 24	Кировский машзавод 1 Мая
+T2	Organization 325 364	Одесского завода тяжёлого краностроения
+N1	Reference T1 wiki:1613313	Кировский машзавод 1 Мая
+N2	Reference T2 wiki:2484355	Одесский завод тяжелого краностроения
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

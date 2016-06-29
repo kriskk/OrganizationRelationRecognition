@@ -1,0 +1,5 @@
+T1	Organization 0 14	CD Projekt RED
+T2	Organization 192 213	CD Projekt Investment
+N1	Reference T1 wiki:1571245	CD Projekt RED
+N2	Reference T2 wiki:2107400	CD Projekt Investment
+A1	IsLink T2

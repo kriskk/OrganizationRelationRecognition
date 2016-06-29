@@ -1,0 +1,10 @@
+T1	Organization 0 10	EA Tiburon
+T2	Organization 81 96	Electronic Arts
+T3	Organization 125 146	Tiburon Entertainment
+N1	Reference T1 wiki:2309507	EA Tiburon
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:2309507	Tiburon Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Alias

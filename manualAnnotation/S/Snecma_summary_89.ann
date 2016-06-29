@@ -1,0 +1,8 @@
+T1	Organization 0 6	Snecma
+T2	Organization 257 262	SAGEM
+T3	Organization 282 288	SAFRAN
+N1	Reference T1 wiki:776933	Snecma
+N2	Reference T2 wiki:65325	SAGEM
+N3	Reference T3 wiki:1015576	SAFRAN
+A1	IsLink T2
+A2	IsLink T3

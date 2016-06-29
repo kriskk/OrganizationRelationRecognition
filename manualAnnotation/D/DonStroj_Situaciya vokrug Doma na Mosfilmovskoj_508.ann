@@ -1,0 +1,5 @@
+T1	Organization 0 9	Дон-Строй
+T2	Organization 410 450	Новолипецким металлургическим комбинатом
+N1	Reference T1 wiki:317156	Дон-Строй
+N2	Reference T2 wiki:143594	Новолипецкий металлургический комбинат
+A1	IsLink T2

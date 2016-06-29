@@ -1,0 +1,11 @@
+T1	Organization 0 25	Daimler-Benz Aerospace AG
+T2	Organization 261 271	Daimler AG
+T3	Organization 491 509	Aerospatiale-Matra
+T4	Organization 564 568	EADS
+N1	Reference T1 wiki:930545	Daimler-Benz Aerospace AG
+N2	Reference T2 wiki:39716	Daimler AG
+N3	Reference T3 wiki:1606272	Aérospatiale
+N4	Reference T4 wiki:39833	EADS
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

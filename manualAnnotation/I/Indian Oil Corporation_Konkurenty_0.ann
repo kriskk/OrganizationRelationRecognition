@@ -1,0 +1,6 @@
+T1	Organization 0 22	Indian Oil Corporation
+T2	Organization 100 116	Bharat Petroleum
+N1	Reference T1 wiki:2067240	Indian Oil Corporation
+N2	Reference T2 wiki:2081785	Bharat Petroleum
+A1	IsLink T2
+A2	TypeRel T2 Competitor

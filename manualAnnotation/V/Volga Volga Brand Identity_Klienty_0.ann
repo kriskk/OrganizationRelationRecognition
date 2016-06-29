@@ -1,0 +1,30 @@
+T1	Organization 0 26	Volga Volga Brand Identity
+T2	Organization 143 151	Роснефть
+T3	Organization 192 202	Ингосстрах
+T4	Organization 219 229	Транснефть
+T5	Organization 231 241	Полиметалл
+T6	Organization 333 341	Синтерра
+T7	Organization 343 350	ФСК ЕЭС
+T8	Organization 352 362	Группа ЛСР
+N1	Reference T1 wiki:4354526	Volga Volga Brand Identity
+N2	Reference T2 wiki:139770	Роснефть
+N3	Reference T3 wiki:139838	Ингосстрах
+N4	Reference T4 wiki:147540	Транснефть
+N5	Reference T5 wiki:365296	Полиметалл
+N6	Reference T6 wiki:1399604	Синтерра
+N7	Reference T7 wiki:138863	ФСК ЕЭС
+N8	Reference T8 wiki:177298	Группа ЛСР
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 14	НИИМЭ и Микрон
+T2	Organization 192 211	НПО «Научный центр»
+N1	Reference T1 wiki:257881	НИИМЭ и Микрон
+N2	Reference T2 wiki:238818	НПО «Научный центр»
+A1	TypeRel T2 Holder

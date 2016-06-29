@@ -1,0 +1,18 @@
+T1	Organization 0 19	Кузнецов (компания)
+T2	Organization 303 315	НПО «Сатурн»
+T3	Organization 322 337	Пермские моторы
+T4	Organization 345 402	Казанское моторостроительное производственное объединение
+T5	Organization 602 609	Газпром
+N1	Reference T1 wiki:149669	Кузнецов (компания)
+N2	Reference T2 wiki:233902	НПО «Сатурн»
+N3	Reference T3 wiki:915035	Пермские моторы
+N4	Reference T4 wiki:3245490	Казанское моторостроительное производственное объединение
+N5	Reference T5 wiki:44754	Газпром
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T5 Cooperator
+A6	TypeRel T2 Competitor
+A7	TypeRel T3 Competitor
+A8	TypeRel T4 Competitor

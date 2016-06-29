@@ -1,0 +1,5 @@
+T1	Organization 0 18	Цифровая экспансия
+T2	Organization 376 385	ВымпелКом
+N1	Reference T1 wiki:1009597	Цифровая экспансия
+N2	Reference T2 wiki:70736	Вымпел-Коммуникации
+A1	IsLink T2

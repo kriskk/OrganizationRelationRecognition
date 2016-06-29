@@ -1,0 +1,10 @@
+ActiveState
+0
+
+
+карточка компании
+тип:  Подразделение Sophos
+название:  ActiveState Tool
+логотип:   
+деятельность:  Инструментальное программное обеспечение
+девиз:  Dynamic Tools for Dynamic Language

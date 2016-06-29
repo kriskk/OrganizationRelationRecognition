@@ -1,0 +1,5 @@
+T1	Organization 0 10	Mag Garden
+T2	Organization 184 191	IG Port
+N1	Reference T1 wiki:1960228	Mag Garden
+N2	Reference T2 wiki:9179	IG Port
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 13	Caterham Cars
+T2	Organization 142 152	Lotus Cars
+N1	Reference T1 wiki:3721221	Caterham Cars
+N2	Reference T2 wiki:748115	Lotus Cars
+A1	IsLink T2

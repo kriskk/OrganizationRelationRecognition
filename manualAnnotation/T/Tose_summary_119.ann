@@ -1,0 +1,5 @@
+T1	Organization 0 4	Tose
+T2	Organization 173 181	Nintendo
+N1	Reference T1 wiki:2527362	Tose
+N2	Reference T2 wiki:202486	Nintendo
+A1	IsLink T2

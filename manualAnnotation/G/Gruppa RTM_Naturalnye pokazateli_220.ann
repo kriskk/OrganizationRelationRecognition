@@ -1,0 +1,25 @@
+T1	Organization 0 10	Группа РТМ
+T2	Organization 260 271	METRO Group
+T3	Organization 274 285	Media Markt
+T4	Organization 287 292	Billa
+T5	Organization 307 314	Мосмарт
+T6	Organization 316 327	Спортмастер
+T7	Organization 329 338	Техносила
+N1	Reference T1 wiki:3028978	Группа РТМ
+N2	Reference T2 wiki:166780	Metro AG
+N3	Reference T3 wiki:921209	Media Markt
+N4	Reference T4 wiki:1959686	Billa
+N5	Reference T5 wiki:1134100	Мосмарт
+N6	Reference T6 wiki:175562	Спортмастер
+N7	Reference T7 wiki:191431	Техносила
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator
+A11	TypeRel T7 Cooperator

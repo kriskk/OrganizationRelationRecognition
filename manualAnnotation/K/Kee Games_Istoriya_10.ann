@@ -1,0 +1,5 @@
+T1	Organization 0 9	Kee Games
+T2	Organization 205 210	Atari
+N1	Reference T1 wiki:380650	Kee Games
+N2	Reference T2 wiki:308218	Atari
+A1	TypeRel T2 Personnel

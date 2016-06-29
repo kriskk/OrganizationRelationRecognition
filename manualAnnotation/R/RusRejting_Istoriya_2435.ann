@@ -1,0 +1,11 @@
+T1	Organization 0 11	Рус-Рейтинг
+T2	Organization 214 227	Fitch Ratings
+T3	Organization 229 246	Standard & Poor's
+T4	Organization 249 256	Moody’s
+N1	Reference T1 wiki:4218591	Рус-Рейтинг
+N2	Reference T2 wiki:2180281	Fitch Ratings
+N3	Reference T3 wiki:198286	Standard & Poor's
+N4	Reference T4 wiki:363292	Moody’s
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

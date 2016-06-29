@@ -1,0 +1,5 @@
+T1	Organization 0 7	Siemens
+T2	Organization 287 320	Общество электрического освещения
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:962114	Ленэнерго
+A1	IsLink T2

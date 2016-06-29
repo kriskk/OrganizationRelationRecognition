@@ -1,0 +1,10 @@
+T1	Organization 0 3	AEG
+T2	Organization 150 163	AB Electrolux
+T3	Organization 165 176	Atlas Copco
+N1	Reference T1 wiki:294609	AEG
+N2	Reference T2 wiki:153686	AB Electrolux
+N3	Reference T3 wiki:294626	Atlas Copco
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 22	Shimmer Women Athletes
+T2	Organization 292 305	Ring of Honor
+N1	Reference T1 wiki:4422917	Shimmer Women Athletes
+N2	Reference T2 wiki:4072703	Ring of Honor
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 23	Ультра (сеть магазинов)
+T2	Organization 85 93	Евросеть
+N1	Reference T1 wiki:167660	Ультра (сеть магазинов)
+N2	Reference T2 wiki:168895	Евросеть
+A1	IsLink T2
+A2	TypeRel T2 Holder

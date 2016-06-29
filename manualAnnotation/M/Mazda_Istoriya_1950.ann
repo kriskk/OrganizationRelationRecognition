@@ -1,0 +1,10 @@
+T1	Organization 0 5	Mazda
+T2	Organization 243 253	Ford Motor
+T3	Organization 730 734	Ford
+N1	Reference T1 wiki:182354	Mazda
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:153236	Ford
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

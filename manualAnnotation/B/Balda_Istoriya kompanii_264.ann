@@ -1,0 +1,8 @@
+T1	Organization 0 5	Balda
+T2	Organization 322 332	Carl Zeiss
+T3	Organization 371 390	Schneider Kreuznach
+N1	Reference T1 wiki:1901720	Balda
+N2	Reference T2 wiki:1151084	Carl Zeiss
+N3	Reference T3 wiki:1891834	Schneider Kreuznach
+A1	IsLink T2
+A2	IsLink T3

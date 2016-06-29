@@ -1,0 +1,10 @@
+T1	Organization 0 16	Irrational Games
+T2	Organization 223 231	2K Marin
+T3	Organization 359 367	2K Marin
+N1	Reference T1 wiki:2311392	Irrational Games
+N2	Reference T2 wiki:2342138	2K Marin
+N3	Reference T3 wiki:2342138	2K Marin
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

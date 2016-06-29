@@ -1,0 +1,5 @@
+T1	Organization 0 16	Digital Extremes
+T2	Organization 354 372	Starbreeze Studios
+N1	Reference T1 wiki:2190646	Digital Extremes
+N2	Reference T2 wiki:1368957	Starbreeze Studios
+A1	IsLink T2

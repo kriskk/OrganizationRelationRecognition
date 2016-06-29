@@ -1,0 +1,10 @@
+T1	Organization 0 7	ГРАНТУМ
+T2	Organization 167 175	ABN AMRO
+T3	Organization 483 491	ABN AMRO
+N1	Reference T1 wiki:3197634	ГРАНТУМ
+N2	Reference T2 wiki:486433	ABN AMRO
+N3	Reference T3 wiki:486433	ABN AMRO
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Subsidiary

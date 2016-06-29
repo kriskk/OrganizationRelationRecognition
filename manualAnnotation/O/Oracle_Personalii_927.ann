@@ -1,0 +1,13 @@
+T1	Organization 0 6	Oracle
+T2	Organization 235 241	Siebel
+T3	Organization 472 486	Salesforce.com
+T4	Organization 645 648	SAP
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:3454107	Siebel
+N3	Reference T3 wiki:3070933	Salesforce.com
+N4	Reference T4 wiki:81959	SAP
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Personnel
+A5	TypeRel T3 Personnel

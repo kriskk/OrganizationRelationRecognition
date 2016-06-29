@@ -1,0 +1,9 @@
+T1	Organization 0 19	Mozilla Corporation
+T2	Organization 87 105	Mozilla Foundation
+T3	Organization 299 316	Mozilla Messaging
+N1	Reference T1 wiki:889466	Mozilla Corporation
+N2	Reference T2 wiki:589524	Mozilla Foundation
+N3	Reference T3 wiki:1122814	Mozilla Messaging
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

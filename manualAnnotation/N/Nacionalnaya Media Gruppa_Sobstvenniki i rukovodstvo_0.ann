@@ -1,0 +1,14 @@
+T1	Organization 0 25	Национальная Медиа Группа
+T2	Organization 138 154	Северсталь-групп
+T3	Organization 168 182	Сургутнефтегаз
+T4	Organization 213 222	RTL Group
+N1	Reference T1 wiki:1780879	Национальная Медиа Группа
+N2	Reference T2 wiki:149218	Северсталь-групп
+N3	Reference T3 wiki:143564	Сургутнефтегаз
+N4	Reference T4 wiki:1987028	RTL Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

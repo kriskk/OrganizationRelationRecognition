@@ -1,0 +1,5 @@
+T1	Organization 0 5	Mitel
+T2	Organization 260 267	Alcatel
+N1	Reference T1 wiki:14273	Mitel
+N2	Reference T2 wiki:294657	Alcatel
+A1	IsLink T2

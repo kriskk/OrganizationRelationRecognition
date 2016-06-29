@@ -1,0 +1,5 @@
+T1	Organization 0 12	Midas Kapiti
+T2	Organization 529 533	AT&T
+N1	Reference T1 wiki:3039241	Midas Kapiti
+N2	Reference T2 wiki:162994	AT&T
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 15	Silicon Knights
+T2	Organization 244 250	Konami
+T3	Organization 265 273	Nintendo
+N1	Reference T1 wiki:1836113	Silicon Knights
+N2	Reference T2 wiki:747952	Konami
+N3	Reference T3 wiki:202486	Nintendo
+A1	IsLink T2
+A2	IsLink T3

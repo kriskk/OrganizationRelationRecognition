@@ -1,0 +1,5 @@
+T1	Organization 0 23	Kill Time Communication
+T2	Organization 205 218	Core Magazine
+N1	Reference T1 wiki:2380107	Kill Time Communication
+N2	Reference T2 wiki:2635731	Core Magazine
+A1	TypeRel T2 Competitor

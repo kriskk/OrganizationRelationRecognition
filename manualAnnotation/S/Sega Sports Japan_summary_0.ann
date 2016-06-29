@@ -1,0 +1,8 @@
+T1	Organization 0 17	Sega Sports Japan
+T2	Organization 98 102	Sega
+T3	Organization 179 183	Sega
+N1	Reference T1 wiki:2790169	Sega Sports Japan
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:92589	Sega
+A1	IsLink T2
+A2	IsLink T3

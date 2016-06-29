@@ -1,0 +1,6 @@
+T1	Organization 0 13	Eastman Kodak
+T2	Organization 213 230	Chinon Industries
+N1	Reference T1 wiki:313661	Eastman Kodak
+N2	Reference T2 wiki:1907596	Chinon Industries
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

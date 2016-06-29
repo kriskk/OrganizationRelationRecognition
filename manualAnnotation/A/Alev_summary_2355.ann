@@ -1,0 +1,5 @@
+T1	Organization 0 4	Алев
+T2	Organization 619 628	Tetra Pak
+N1	Reference T1 wiki:3451119	Алев
+N2	Reference T2 wiki:285491	Tetra Pak
+A1	IsLink T2

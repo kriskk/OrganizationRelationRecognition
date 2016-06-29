@@ -1,0 +1,5 @@
+T1	Organization 0 21	Стелла (кинокомпания)
+T2	Organization 185 193	Мосфильм
+N1	Reference T1 wiki:2094399	Стелла (кинокомпания)
+N2	Reference T2 wiki:25605	Мосфильм
+A1	IsLink T2

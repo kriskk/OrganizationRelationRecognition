@@ -1,0 +1,6 @@
+T1	Organization 0 11	1С-СофтКлаб
+T2	Organization 184 186	1C
+N1	Reference T1 wiki:1010483	1С-СофтКлаб
+N2	Reference T2 wiki:34936	1C
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 8	Казпочта
+T2	Organization 287 305	Visa International
+T3	Organization 419 439	MasterCard Worldwide
+N1	Reference T1 wiki:1257078	Казпочта
+N2	Reference T2 wiki:36386	Visa International
+N3	Reference T3 wiki:36409	MasterCard Worldwide
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator
+A4	TypeRel T2 Cooperator

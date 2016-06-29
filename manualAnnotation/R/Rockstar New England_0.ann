@@ -1,0 +1,6 @@
+T1	Organization 0 20	Rockstar New England
+T2	Organization 99 113	Rockstar Games
+N1	Reference T1 wiki:2337034	Rockstar New England
+N2	Reference T2 wiki:650156	Rockstar Games
+A1	IsLink T2
+A2	TypeRel T2 Holder

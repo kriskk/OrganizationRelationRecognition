@@ -1,0 +1,6 @@
+T1	Organization 0 4	Lada
+T2	Organization 80 87	АвтоВАЗ
+N1	Reference T1 wiki:139277	Lada
+N2	Reference T2 wiki:139276	АвтоВАЗ
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 15	Илим (компания)
+T2	Organization 299 318	International Paper
+N1	Reference T1 wiki:128667	Илим (компания)
+N2	Reference T2 wiki:127928	International Paper
+A1	TypeRel T2 Holder

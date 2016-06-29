@@ -1,0 +1,5 @@
+T1	Organization 0 8	Daihatsu
+T2	Organization 123 129	Toyota
+N1	Reference T1 wiki:237199	Daihatsu
+N2	Reference T2 wiki:42689	Toyota
+A1	IsLink T2

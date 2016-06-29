@@ -1,0 +1,6 @@
+T1	Organization 0 6	Heroku
+T2	Organization 292 299	Gartner
+N1	Reference T1 wiki:4112351	Heroku
+N2	Reference T2 wiki:2960363	Gartner
+A1	IsLink T2
+A2	TypeRel T2 Other

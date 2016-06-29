@@ -1,0 +1,17 @@
+T1	Organization 0 19	Samsung Electronics
+T2	Organization 137 141	Sony
+T3	Organization 205 215	Interbrand
+T4	Organization 446 454	Motorola
+T5	Organization 708 715	Siemens
+T6	Organization 724 739	Hewlett-Packard
+N1	Reference T1 wiki:125553	Samsung Electronics
+N2	Reference T2 wiki:73019	Sony
+N3	Reference T3 wiki:2387724	Interbrand
+N4	Reference T4 wiki:134384	Motorola
+N5	Reference T5 wiki:36510	Siemens
+N6	Reference T6 wiki:89988	Hewlett-Packard
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

@@ -1,0 +1,8 @@
+T1	Organization 0 25	Систем Кэпитал Менеджмент
+T2	Organization 256 264	Лемтранс
+T3	Organization 268 284	HarvEast Holding
+N1	Reference T1 wiki:36184	Систем Кэпитал Менеджмент
+N2	Reference T2 wiki:4357823	Лемтранс
+N3	Reference T3 wiki:3598684	HarvEast Holding
+A1	IsLink T2
+A2	IsLink T3

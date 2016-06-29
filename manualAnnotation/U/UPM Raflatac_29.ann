@@ -1,0 +1,5 @@
+T1	Organization 0 12	UPM Raflatac
+T2	Organization 179 182	UPM
+N1	Reference T1 wiki:985218	UPM Raflatac
+N2	Reference T2 wiki:661794	UPM
+A1	TypeRel T2 Holder

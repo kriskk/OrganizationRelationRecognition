@@ -1,0 +1,10 @@
+T1	Organization 0 12	Петер-Сервис
+T2	Organization 213 234	ОАО «Уралсвязьинформ»
+T3	Organization 414 423	PEOPLEnet
+N1	Reference T1 wiki:1870153	Петер-Сервис
+N2	Reference T2 wiki:91190	Уралсвязьинформ
+N3	Reference T3 wiki:512015	PEOPLEnet
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

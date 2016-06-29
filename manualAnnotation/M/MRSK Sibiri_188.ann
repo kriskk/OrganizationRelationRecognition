@@ -1,0 +1,6 @@
+T1	Organization 0 11	МРСК Сибири
+T2	Organization 201 219	ОАО «Холдинг МРСК»
+N1	Reference T1 wiki:3436230	МРСК Сибири
+N2	Reference T2 wiki:2040314	Холдинг МРСК
+A1	IsLink T2
+A2	TypeRel T2 Holder

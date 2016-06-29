@@ -1,0 +1,9 @@
+T1	Organization 0 28	Роснефть-Находканефтепродукт
+T2	Organization 297 303	Альянс
+T3	Organization 375 383	Роснефть
+N1	Reference T1 wiki:2710999	Роснефть-Находканефтепродукт
+N2	Reference T2 wiki:237175	Альянс (компания)
+N3	Reference T3 wiki:139770	Роснефть
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

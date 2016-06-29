@@ -1,0 +1,5 @@
+T1	Organization 0 18	Связной (компания)
+T2	Organization 238 242	ЮКОС
+N1	Reference T1 wiki:371774	Связной (компания)
+N2	Reference T2 wiki:6032	ЮКОС
+A1	IsLink T2

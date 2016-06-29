@@ -1,0 +1,9 @@
+T1	Organization 0 8	Unilever
+T2	Organization 337 350	ОАО «Инмарко»
+T3	Organization 459 469	«Балтимор»
+N1	Reference T1 wiki:198503	Unilever
+N2	Reference T2 wiki:1635286	Инмарко
+N3	Reference T3 wiki:1534678	Балтимор-Холдинг
+A1	IsLink T2
+A2	TypeRel T3 Subsidiary
+A3	TypeRel T2 Subsidiary

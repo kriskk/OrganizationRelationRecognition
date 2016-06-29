@@ -1,0 +1,14 @@
+T1	Organization 0 17	Universal Studios
+T2	Organization 324 333	Paramount
+T3	Organization 578 581	MGM
+T4	Organization 696 712	20th Century Fox
+N1	Reference T1 wiki:702796	Universal Studios
+N2	Reference T2 wiki:398699	Paramount Pictures
+N3	Reference T3 wiki:208697	MGM
+N4	Reference T4 wiki:272376	20th Century Fox
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

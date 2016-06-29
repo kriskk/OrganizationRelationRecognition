@@ -1,0 +1,11 @@
+T1	Organization 0 12	Schlumberger
+T2	Organization 86 90	ЮКОС
+T3	Organization 94 107	Газпром нефть
+T4	Organization 448 456	Роснефти
+N1	Reference T1 wiki:246264	Schlumberger
+N2	Reference T2 wiki:6032	ЮКОС
+N3	Reference T3 wiki:121955	Газпром нефть
+N4	Reference T4 wiki:139770	Роснефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

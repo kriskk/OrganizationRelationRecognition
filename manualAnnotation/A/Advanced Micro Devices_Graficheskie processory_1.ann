@@ -1,0 +1,8 @@
+T1	Organization 0 22	Advanced Micro Devices
+T2	Organization 236 242	Nvidia
+T3	Organization 536 541	Intel
+N1	Reference T1 wiki:19981	Advanced Micro Devices
+N2	Reference T2 wiki:1548156	Nvidia
+N3	Reference T3 wiki:762172	Intel
+A1	IsLink T2
+A2	IsLink T3

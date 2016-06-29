@@ -1,0 +1,5 @@
+T1	Organization 0 24	Voith Turbo BHS Getriebe
+T2	Organization 202 210	Voith AG
+N1	Reference T1 wiki:1338847	Voith Turbo BHS Getriebe
+N2	Reference T2 wiki:1339842	Voith AG
+A1	TypeRel T2 Holder

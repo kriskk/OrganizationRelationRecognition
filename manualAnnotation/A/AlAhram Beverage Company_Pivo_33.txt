@@ -1,0 +1,12 @@
+Al-Ahram Beverage Company
+@Ассортимент продукции
+@Пиво
+1759,25,33
+
+ Основной пивной бренд компании.
+	 Sakara Gold Алк.: 4,0 %.
+	 Sakara King Алк.: 10,0 %.
+	 Meister Max Алк.: 8,0 %.
+	 Heineken Lager Beer Алк.: 5,0 %. По лицензии Heineken N.V..
+
+

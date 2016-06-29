@@ -1,0 +1,8 @@
+T1	Organization 0 9	Ред Медиа
+T2	Organization 245 253	Кухня ТВ
+T3	Organization 319 329	ТВ Бульвар
+N1	Reference T1 wiki:1938031	Ред Медиа
+N2	Reference T2 wiki:1938031	Кухня ТВ
+N3	Reference T3 wiki:1938031	ТВ Бульвар
+A1	IsLink T2
+A2	IsLink T3

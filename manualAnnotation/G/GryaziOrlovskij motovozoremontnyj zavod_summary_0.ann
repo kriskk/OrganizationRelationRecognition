@@ -1,0 +1,5 @@
+T1	Organization 0 39	Грязи-Орловский мотовозоремонтный завод
+T2	Organization 106 136	ОАО Российские железные дороги
+N1	Reference T1 wiki:1764888	Грязи-Орловский мотовозоремонтный завод
+N2	Reference T2 wiki:106901	РЖД
+A1	TypeRel T2 Holder

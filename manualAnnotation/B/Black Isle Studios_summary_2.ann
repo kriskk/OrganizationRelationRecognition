@@ -1,0 +1,14 @@
+T1	Organization 0 18	Black Isle Studios
+T2	Organization 190 213	Interplay Entertainment
+T3	Organization 549 571	Obsidian Entertainment
+T4	Organization 573 585	Troika Games
+T5	Organization 588 595	BioWare
+N1	Reference T1 wiki:85409	Black Isle Studios
+N2	Reference T2 wiki:87238	Interplay Entertainment
+N3	Reference T3 wiki:501253	Obsidian Entertainment
+N4	Reference T4 wiki:951015	Troika Games
+N5	Reference T5 wiki:546996	BioWare
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

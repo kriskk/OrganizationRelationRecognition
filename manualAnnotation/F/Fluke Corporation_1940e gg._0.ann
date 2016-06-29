@@ -1,0 +1,5 @@
+T1	Organization 0 17	Fluke Corporation
+T2	Organization 63 79	Корпорация Fluke
+N1	Reference T1 wiki:2889180	Fluke Corporation
+N2	Reference T2 wiki:2889180	Корпорация Fluke
+A1	IsLink T2

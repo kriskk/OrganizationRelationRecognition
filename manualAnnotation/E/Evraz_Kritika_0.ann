@@ -1,0 +1,5 @@
+T1	Organization 0 5	Евраз
+T2	Organization 68 71	РЖД
+N1	Reference T1 wiki:77382	Евраз
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2

@@ -1,0 +1,9 @@
+T1	Organization 0 11	Jaquet Droz
+T2	Organization 329 336	Breguet
+T3	Organization 391 403	Swatch Group
+N1	Reference T1 wiki:1087555	Jaquet Droz
+N2	Reference T2 wiki:1072056	Breguet
+N3	Reference T3 wiki:214233	Swatch Group
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Peltonen
+T2	Organization 120 142	Rapala VMC Corporation
+N1	Reference T1 wiki:1687126	Peltonen
+N2	Reference T2 wiki:1672814	Rapala
+A1	TypeRel T2 Holder

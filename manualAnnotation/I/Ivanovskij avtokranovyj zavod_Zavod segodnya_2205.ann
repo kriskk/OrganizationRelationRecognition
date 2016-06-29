@@ -1,0 +1,6 @@
+T1	Organization 0 29	Ивановский автокрановый завод
+T2	Organization 275 278	БАЗ
+N1	Reference T1 wiki:2586505	Ивановский автокрановый завод
+N2	Reference T2 wiki:3476308	Брянский автомобильный завод
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,9 @@
+T1	Organization 0 5	E-TEN
+T2	Organization 204 208	Acer
+T3	Organization 591 594	HTC
+N1	Reference T1 wiki:1287255	E-TEN
+N2	Reference T2 wiki:326664	Acer
+N3	Reference T3 wiki:619547	High Tech Computer Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Competitor

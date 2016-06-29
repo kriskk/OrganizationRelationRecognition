@@ -1,0 +1,5 @@
+T1	Organization 0 11	Arbor House
+T2	Organization 223 241	Hearst Corporation
+N1	Reference T1 wiki:2718195	Arbor House
+N2	Reference T2 wiki:2733693	Hearst Corporation
+A1	IsLink T2

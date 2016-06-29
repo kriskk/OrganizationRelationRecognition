@@ -1,0 +1,8 @@
+T1	Organization 0 11	Ultra Games
+T2	Organization 108 125	Konami of America
+T3	Organization 191 210	Nintendo of America
+N1	Reference T1 wiki:1619864	Ultra Games
+N2	Reference T2 wiki:747952	Konami
+N3	Reference T3 wiki:202486	Nintendo
+A2	IsLink T3
+A1	TypeRel T2 Holder

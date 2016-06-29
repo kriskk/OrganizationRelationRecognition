@@ -1,0 +1,6 @@
+T1	Organization 0 12	Ишимбайнефть
+T2	Organization 200 208	Башнефть
+N1	Reference T1 wiki:3176390	Ишимбайнефть
+N2	Reference T2 wiki:180383	Башнефть
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

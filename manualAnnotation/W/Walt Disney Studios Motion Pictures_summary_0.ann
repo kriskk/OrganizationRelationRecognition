@@ -1,0 +1,20 @@
+T1	Organization 0 35	Walt Disney Studios Motion Pictures
+T2	Organization 186 209	The Walt Disney Company
+T3	Organization 351 371	Walt Disney Pictures
+T4	Organization 373 392	Touchstone Pictures
+T5	Organization 395 409	Marvel Studios
+T6	Organization 456 476	Marvel Entertainment
+N1	Reference T1 wiki:4300493	Walt Disney Studios Motion Pictures
+N2	Reference T2 wiki:319365	The Walt Disney Company
+N3	Reference T3 wiki:323330	Walt Disney Pictures
+N4	Reference T4 wiki:348128	Touchstone Pictures
+N5	Reference T5 wiki:3271320	Marvel Studios
+N6	Reference T6 wiki:3272761	Marvel Entertainment
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Holder
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator

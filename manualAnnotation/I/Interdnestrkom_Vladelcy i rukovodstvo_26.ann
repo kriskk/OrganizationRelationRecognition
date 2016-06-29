@@ -1,0 +1,10 @@
+T1	Organization 0 14	Интерднестрком
+T2	Organization 223 235	Интертелеком
+T3	Organization 266 271	Шериф
+N1	Reference T1 wiki:1303019	Интерднестрком
+N2	Reference T2 wiki:1816044	Интертелеком
+N3	Reference T3 wiki:393414	Шериф (холдинг)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

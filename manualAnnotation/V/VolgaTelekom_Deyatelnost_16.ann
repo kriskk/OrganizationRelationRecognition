@@ -1,0 +1,6 @@
+T1	Organization 0 12	ВолгаТелеком
+T2	Organization 186 189	НСС
+N1	Reference T1 wiki:162608	ВолгаТелеком
+N2	Reference T2 wiki:2093483	НСС
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

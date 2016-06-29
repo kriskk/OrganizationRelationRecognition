@@ -1,0 +1,14 @@
+T1	Organization 0 31	Шадринский автоагрегатный завод
+T2	Organization 151 170	завода им. Лихачёва
+T3	Organization 299 330	«Завод им. И. В. Сталина» (ЗиС)
+T4	Organization 689 693	УГМК
+N1	Reference T1 wiki:3709862	Шадринский автоагрегатный завод
+N2	Reference T2 wiki:259988	Завод имени Лихачёва
+N3	Reference T3 wiki:259988	Завод имени Лихачёва
+N4	Reference T4 wiki:171944	Уральская горно-металлургическая компания
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Alias
+A6	TypeRel T4 Holder

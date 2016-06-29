@@ -1,0 +1,5 @@
+T1	Organization 0 21	Otis Elevator Company
+T2	Organization 208 227	United Technologies
+N1	Reference T1 wiki:1955231	Otis Elevator Company
+N2	Reference T2 wiki:257086	United Technologies
+A1	TypeRel T2 Holder

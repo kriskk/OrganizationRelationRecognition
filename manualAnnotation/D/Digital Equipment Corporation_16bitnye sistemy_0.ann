@@ -1,0 +1,5 @@
+T1	Organization 0 29	Digital Equipment Corporation
+T2	Organization 149 161	Data General
+N1	Reference T1 wiki:176483	Digital Equipment Corporation
+N2	Reference T2 wiki:3999696	Data General
+A1	IsLink T2

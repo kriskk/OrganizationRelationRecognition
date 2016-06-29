@@ -1,0 +1,5 @@
+T1	Organization 0 15	Вимм-Билль-Данн
+T2	Organization 294 300	Danone
+N1	Reference T1 wiki:160926	Вимм-Билль-Данн
+N2	Reference T2 wiki:279435	Danone
+A1	TypeRel T2 Holder

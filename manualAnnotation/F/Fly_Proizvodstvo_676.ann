@@ -1,0 +1,17 @@
+T1	Organization 0 3	Fly
+T2	Organization 205 210	Sagem
+T3	Organization 249 255	Lenovo
+T4	Organization 257 264	Toshiba
+T5	Organization 266 276	Mitsubishi
+T6	Organization 278 282	ASUS
+N1	Reference T1 wiki:1621364	Fly
+N2	Reference T2 wiki:65325	Sagem
+N3	Reference T3 wiki:666442	Lenovo
+N4	Reference T4 wiki:507269	Toshiba
+N5	Reference T5 wiki:182989	Mitsubishi
+N6	Reference T6 wiki:118273	ASUS
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

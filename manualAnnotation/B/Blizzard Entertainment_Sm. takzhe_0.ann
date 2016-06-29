@@ -1,0 +1,5 @@
+T1	Organization 0 22	Blizzard Entertainment
+T2	Organization 67 81	Blizzard North
+N1	Reference T1 wiki:202669	Blizzard Entertainment
+N2	Reference T2 wiki:1704379	Blizzard North
+A1	IsLink T2

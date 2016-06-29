@@ -1,0 +1,10 @@
+T1	Organization 0 7	Vivendi
+T2	Organization 364 385	Universal Music Group
+T3	Organization 405 424	Activision Blizzard
+N1	Reference T1 wiki:1695856	Vivendi
+N2	Reference T2 wiki:203047	Universal Music Group
+N3	Reference T3 wiki:954541	Activision Blizzard
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

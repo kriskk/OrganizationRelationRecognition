@@ -1,0 +1,22 @@
+T1	Organization 0 38	Warner Bros. Interactive Entertainment
+T2	Organization 94 114	Monolith Productions
+T3	Organization 181 200	NetherRealm Studios
+T4	Organization 280 292	Midway Games
+T5	Organization 326 344	Rocksteady Studios
+T6	Organization 516 524	TT Games
+N1	Reference T1 wiki:2184337	Warner Bros. Interactive Entertainment
+N2	Reference T2 wiki:1344649	Monolith Productions
+N3	Reference T3 wiki:3311099	NetherRealm Studios
+N4	Reference T4 wiki:2428144	Midway Games
+N5	Reference T5 wiki:3050753	Rocksteady Studios
+N6	Reference T6 wiki:3396371	TT Games
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Subsidiary
+A7	TypeRel T3 Subsidiary
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Subsidiary
+A10	TypeRel T6 Subsidiary

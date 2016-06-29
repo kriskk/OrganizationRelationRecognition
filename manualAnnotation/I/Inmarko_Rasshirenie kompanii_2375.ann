@@ -1,0 +1,5 @@
+T1	Organization 0 7	Инмарко
+T2	Organization 399 407	Юнилевер
+N1	Reference T1 wiki:1635286	Инмарко
+N2	Reference T2 wiki:198503	Юнилевер
+A1	TypeRel T2 Holder

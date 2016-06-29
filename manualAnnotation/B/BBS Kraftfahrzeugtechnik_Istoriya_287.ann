@@ -1,0 +1,18 @@
+T1	Organization 0 24	BBS Kraftfahrzeugtechnik
+T2	Organization 247 256	Штутгарта
+T3	Organization 348 364	Daimler-Chrysler
+T4	Organization 366 373	Porsche
+T5	Organization 375 377	VW
+N1	Reference T1 wiki:950737	BBS Kraftfahrzeugtechnik
+N2	Reference T2 wiki:379037	Штутгартская фондовая биржа
+N3	Reference T3 wiki:39716	Daimler-Chrysler
+N4	Reference T4 wiki:403194	Porsche
+N5	Reference T5 wiki:750217	VW
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Other
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator

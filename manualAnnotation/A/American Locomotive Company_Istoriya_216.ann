@@ -1,0 +1,5 @@
+T1	Organization 0 27	American Locomotive Company
+T2	Organization 204 229	Richmond Locomotive Works
+N1	Reference T1 wiki:1851708	American Locomotive Company
+N2	Reference T2 wiki:1910130	Richmond Locomotive Works
+A1	IsLink T2

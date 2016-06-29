@@ -1,0 +1,6 @@
+T1	Organization 0 8	НТВ-Плюс
+T2	Organization 110 120	Медиа-Мост
+N1	Reference T1 wiki:723124	НТВ-Плюс
+N2	Reference T2 wiki:2400048	Медиа-Мост
+A1	IsLink T2
+A2	TypeRel T2 Holder

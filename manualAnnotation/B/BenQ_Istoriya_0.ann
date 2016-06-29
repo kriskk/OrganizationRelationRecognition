@@ -1,0 +1,11 @@
+T1	Organization 0 4	BenQ
+T2	Organization 86 90	Acer
+T3	Organization 303 307	Acer
+T4	Organization 444 448	Acer
+N1	Reference T1 wiki:326551	BenQ
+N2	Reference T2 wiki:326664	Acer
+N3	Reference T3 wiki:326664	Acer
+N4	Reference T4 wiki:326664	Acer
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,6 @@
+T1	Organization 0 13	Melesta Games
+T2	Organization 224 232	Невософт
+N1	Reference T1 wiki:4391279	Melesta Games
+N2	Reference T2 wiki:2269478	Невософт
+A1	IsLink T2
+A2	TypeRel T2 Other

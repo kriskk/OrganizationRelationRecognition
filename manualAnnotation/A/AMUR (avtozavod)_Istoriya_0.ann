@@ -1,0 +1,6 @@
+T1	Organization 0 16	АМУР (автозавод)
+T2	Organization 129 132	ЗИЛ
+N1	Reference T1 wiki:2950886	АМУР (автозавод)
+N2	Reference T2 wiki:259988	ЗИЛ
+A1	IsLink T2
+A2	TypeRel T2 Holder

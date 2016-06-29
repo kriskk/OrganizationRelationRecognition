@@ -1,0 +1,5 @@
+T1	Organization 0 7	Heinkel
+T2	Organization 153 156	BMW
+N1	Reference T1 wiki:2764154	Heinkel
+N2	Reference T2 wiki:40368	BMW
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 20	Konarka Technologies
+T2	Organization 194 201	Chevron
+N1	Reference T1 wiki:1540929	Konarka Technologies
+N2	Reference T2 wiki:420107	Chevron
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Bertrandt
+T2	Organization 179 207	Porsche Automobil Holding SE
+N1	Reference T1 wiki:2053625	Bertrandt
+N2	Reference T2 wiki:1972003	Porsche Automobil Holding SE
+A1	IsLink T2

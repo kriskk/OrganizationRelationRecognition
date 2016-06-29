@@ -1,0 +1,6 @@
+T1	Organization 0 26	КБ машиностроения (Москва)
+T2	Organization 389 420	Тактическое ракетное вооружение
+N1	Reference T1 wiki:2057571	КБ машиностроения (Москва)
+N2	Reference T2 wiki:551806	Тактическое ракетное вооружение
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 29	ThinkWare Systems Corporation
+T2	Organization 308 314	Яндекс
+N1	Reference T1 wiki:1394120	ThinkWare Systems Corporation
+N2	Reference T2 wiki:9744	Яндекс
+A1	IsLink T2

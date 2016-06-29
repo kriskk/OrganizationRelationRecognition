@@ -1,0 +1,5 @@
+T1	Organization 0 16	Авангард (завод)
+T2	Organization 318 369	Военно-промышленной корпорации «НПО машиностроения»
+N1	Reference T1 wiki:3946864	Авангард (завод)
+N2	Reference T2 wiki:347931	НПО машиностроения
+A1	IsLink T2

@@ -1,0 +1,10 @@
+T1	Organization 0 29	Общество пароходства по Волге
+T2	Organization 286 304	Сормовскому заводу
+T3	Organization 530 537	Сормове
+N1	Reference T1 wiki:3360747	Общество пароходства по Волге
+N2	Reference T2 wiki:302938	Красное Сормово
+N3	Reference T3 wiki:302938	Красное Сормово
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

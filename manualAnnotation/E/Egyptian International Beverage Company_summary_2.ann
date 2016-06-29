@@ -1,0 +1,6 @@
+T1	Organization 0 39	Egyptian International Beverage Company
+T2	Organization 241 266	Al-Ahram Beverage Company
+N1	Reference T1 wiki:4119257	Egyptian International Beverage Company
+N2	Reference T2 wiki:4119244	Al-Ahram Beverage Company
+A1	IsLink T2
+A2	TypeRel T2 Competitor

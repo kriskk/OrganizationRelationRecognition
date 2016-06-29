@@ -1,0 +1,5 @@
+T1	Organization 0 16	Pandemic Studios
+T2	Organization 49 63	EA Los Angeles
+N1	Reference T1 wiki:2316640	Pandemic Studios
+N2	Reference T2 wiki:2301649	EA Los Angeles
+A1	IsLink T2

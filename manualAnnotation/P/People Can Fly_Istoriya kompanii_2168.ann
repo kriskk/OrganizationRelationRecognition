@@ -1,0 +1,9 @@
+T1	Organization 0 14	People Can Fly
+T2	Organization 200 211	The Farm 51
+T3	Organization 358 373	Electronic Arts
+N1	Reference T1 wiki:1892096	People Can Fly
+N2	Reference T2 wiki:4118807	The Farm 51
+N3	Reference T3 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

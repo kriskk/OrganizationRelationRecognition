@@ -1,0 +1,40 @@
+T1	Organization 0 18	Плюс коммуникейшнс
+T2	Organization 217 230	U.S. Robotics
+T3	Organization 232 240	Motorola
+T4	Organization 242 265	RAD Data Communications
+T5	Organization 267 280	Cisco Systems
+T6	Organization 342 355	U.S. Robotics
+T7	Organization 380 388	Motorola
+T8	Organization 413 436	RAD Data Communications
+T9	Organization 457 470	Cisco Systems
+T10	Organization 831 840	IBS Group
+T11	Organization 898 906	АМТ-Груп
+N1	Reference T1 wiki:3628134	Плюс коммуникейшнс
+N2	Reference T2 wiki:626416	U.S. Robotics
+N3	Reference T3 wiki:134384	Motorola
+N4	Reference T4 wiki:2456076	RAD Data Communications
+N5	Reference T5 wiki:25014	Cisco Systems
+N6	Reference T6 wiki:626416	U.S. Robotics
+N7	Reference T7 wiki:134384	Motorola
+N8	Reference T8 wiki:2456076	RAD Data Communications
+N9	Reference T9 wiki:25014	Cisco Systems
+N10	Reference T10 wiki:345272	IBS Group
+N11	Reference T11 wiki:2782529	АМТ-Груп
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	TypeRel T2 Cooperator
+A12	TypeRel T3 Cooperator
+A13	TypeRel T4 Cooperator
+A14	TypeRel T5 Cooperator
+A15	TypeRel T6 Cooperator
+A16	TypeRel T7 Cooperator
+A17	TypeRel T8 Cooperator
+A18	TypeRel T9 Cooperator

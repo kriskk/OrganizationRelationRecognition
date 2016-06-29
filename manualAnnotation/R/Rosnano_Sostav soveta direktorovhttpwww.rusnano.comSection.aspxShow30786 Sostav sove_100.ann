@@ -1,0 +1,21 @@
+T1	Organization 0 7	Роснано
+T2	Organization 321 350	Российская венчурная компания
+T3	Organization 746 753	Росатом
+T4	Organization 1052 1092	Объединённая авиастроительная корпорация
+T5	Organization 1140 1154	Группа ОНЭКСИМ
+T6	Organization 1329 1342	Ростехнологии
+N1	Reference T1 wiki:728818	Роснано
+N2	Reference T2 wiki:1744718	Российская венчурная компания
+N3	Reference T3 wiki:1299917	Росатом
+N4	Reference T4 wiki:163405	Объединённая авиастроительная корпорация
+N5	Reference T5 wiki:1526001	ОНЭКСИМ (группа)
+N6	Reference T6 wiki:915063	Ростехнологии
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Personnel
+A7	TypeRel T4 Personnel
+A8	TypeRel T5 Personnel
+A9	TypeRel T6 Personnel

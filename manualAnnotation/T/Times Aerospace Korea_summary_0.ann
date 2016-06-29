@@ -1,0 +1,5 @@
+T1	Organization 0 21	Times Aerospace Korea
+T2	Organization 154 167	Sikorsky S-61
+N1	Reference T1 wiki:3550656	Times Aerospace Korea
+N2	Reference T2 wiki:650530	Sikorsky Aircraft
+A1	IsLink T2

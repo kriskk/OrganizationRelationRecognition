@@ -1,0 +1,10 @@
+T1	Organization 0 23	Gray Matter Interactive
+T2	Organization 232 242	Activision
+T3	Organization 514 522	Treyarch
+N1	Reference T1 wiki:2257924	Gray Matter Interactive
+N2	Reference T2 wiki:307964	Activision
+N3	Reference T3 wiki:1692565	Treyarch
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,9 @@
+T1	Organization 0 5	Giant
+T2	Organization 222 229	Colnago
+T3	Organization 348 354	Merida
+N1	Reference T1 wiki:1675504	Giant
+N2	Reference T2 wiki:2763948	Colnago
+N3	Reference T3 wiki:1907031	Merida
+A1	IsLink T2
+A2	TypeRel T3 Competitor
+A3	TypeRel T2 Cooperator

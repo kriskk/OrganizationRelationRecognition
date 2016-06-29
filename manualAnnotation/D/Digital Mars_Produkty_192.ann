@@ -1,0 +1,5 @@
+T1	Organization 0 12	Digital Mars
+T2	Organization 269 277	Symantec
+N1	Reference T1 wiki:266283	Digital Mars
+N2	Reference T2 wiki:157841	Symantec
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 47	Чебоксарская пивоваренная фирма «Букет Чувашии»
+T2	Organization 243 252	Krones AG
+N1	Reference T1 wiki:1499434	Чебоксарская пивоваренная фирма «Букет Чувашии»
+N2	Reference T2 wiki:154992	Krones AG
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 18	Woodside Petroleum
+T2	Organization 366 376	ExxonMobil
+N1	Reference T1 wiki:1710616	Woodside Petroleum
+N2	Reference T2 wiki:176152	ExxonMobil
+A1	TypeRel T2 Cooperator

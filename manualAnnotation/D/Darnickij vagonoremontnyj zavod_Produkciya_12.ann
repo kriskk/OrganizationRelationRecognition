@@ -1,0 +1,5 @@
+T1	Organization 0 31	Дарницкий вагоноремонтный завод
+T2	Organization 219 243	заводом им. Егорова, СПб
+N1	Reference T1 wiki:1788516	Дарницкий вагоноремонтный завод
+N2	Reference T2 wiki:983646	Вагонмаш
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 21	The Coca-Cola Company
+T2	Organization 272 278	Nestle
+T3	Organization 308 317	Schweppes
+N1	Reference T1 wiki:231920	The Coca-Cola Company
+N2	Reference T2 wiki:121355	Nestle
+N3	Reference T3 wiki:2161106	Schweppes
+A1	IsLink T2
+A2	IsLink T3

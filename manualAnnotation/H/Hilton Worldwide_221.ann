@@ -1,0 +1,6 @@
+T1	Organization 0 16	Hilton Worldwide
+T2	Organization 240 256	Blackstone Group
+N1	Reference T1 wiki:909097	Hilton Worldwide
+N2	Reference T2 wiki:706484	Blackstone Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

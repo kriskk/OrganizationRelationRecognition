@@ -1,0 +1,17 @@
+T1	Organization 0 8	Spectrol
+T2	Organization 357 360	ТНК
+T3	Organization 362 368	Лукойл
+T4	Organization 370 374	Юкос
+T5	Organization 402 409	Castrol
+T6	Organization 411 416	Shell
+N1	Reference T1 wiki:4121264	Spectrol
+N2	Reference T2 wiki:17252	ТНК-BP
+N3	Reference T3 wiki:59354	Лукойл
+N4	Reference T4 wiki:6032	Юкос
+N5	Reference T5 wiki:3628301	Castrol
+N6	Reference T6 wiki:167625	Royal Dutch Shell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

@@ -1,0 +1,10 @@
+T1	Organization 0 7	Märklin
+T2	Organization 312 316	Roco
+T3	Organization 354 365	Fleischmann
+N1	Reference T1 wiki:910071	Märklin
+N2	Reference T2 wiki:1026915	Roco
+N3	Reference T3 wiki:910958	Fleischmann
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

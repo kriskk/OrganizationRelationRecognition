@@ -1,0 +1,5 @@
+T1	Organization 0 17	TMS Entertainment
+T2	Organization 232 264	Walt Disney Television Animation
+N1	Reference T1 wiki:2785501	TMS Entertainment
+N2	Reference T2 wiki:1388980	Walt Disney Television Animation
+A1	IsLink T2

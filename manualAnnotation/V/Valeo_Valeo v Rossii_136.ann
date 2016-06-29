@@ -1,0 +1,13 @@
+T1	Organization 0 5	Valeo
+T2	Organization 206 225	PSA Peugeot-Citroen
+T3	Organization 227 234	Renault
+T4	Organization 237 244	АвтоВАЗ
+N1	Reference T1 wiki:640908	Valeo
+N2	Reference T2 wiki:226616	PSA Peugeot-Citroen
+N3	Reference T3 wiki:586472	Renault
+N4	Reference T4 wiki:139276	АвтоВАЗ
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

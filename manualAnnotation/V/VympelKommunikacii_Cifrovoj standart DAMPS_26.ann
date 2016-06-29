@@ -1,0 +1,6 @@
+T1	Organization 0 19	Вымпел-Коммуникации
+T2	Organization 365 378	АФК «Система»
+N1	Reference T1 wiki:70736	Вымпел-Коммуникации
+N2	Reference T2 wiki:158888	Система (компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,9 @@
+T1	Organization 0 7	Lemania
+T2	Organization 234 241	Breguet
+T3	Organization 273 285	Swatch Group
+N1	Reference T1 wiki:1064610	Lemania
+N2	Reference T2 wiki:1072056	Breguet
+N3	Reference T3 wiki:214233	Swatch Group
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

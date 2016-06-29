@@ -1,0 +1,6 @@
+T1	Organization 0 20	Wizards of the Coast
+T2	Organization 181 187	Hasbro
+N1	Reference T1 wiki:362220	Wizards of the Coast
+N2	Reference T2 wiki:2724676	Hasbro
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,9 @@
+T1	Organization 0 15	Газпром ВНИИГАЗ
+T2	Organization 168 181	ОАО «Газпром»
+T3	Organization 265 278	ОАО «Газпром»
+N1	Reference T1 wiki:166360	Газпром ВНИИГАЗ
+N2	Reference T2 wiki:44754	ОАО «Газпром»
+N3	Reference T3 wiki:44754	ОАО «Газпром»
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary

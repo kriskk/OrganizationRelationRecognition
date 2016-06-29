@@ -1,0 +1,6 @@
+T1	Organization 0 15	GlobalFoundries
+T2	Organization 257 260	AMD
+N1	Reference T1 wiki:3522370	GlobalFoundries
+N2	Reference T2 wiki:19981	AMD
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

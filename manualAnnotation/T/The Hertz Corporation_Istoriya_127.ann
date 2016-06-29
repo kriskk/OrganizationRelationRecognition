@@ -1,0 +1,5 @@
+T1	Organization 0 21	The Hertz Corporation
+T2	Organization 286 300	General Motors
+N1	Reference T1 wiki:1663224	The Hertz Corporation
+N2	Reference T2 wiki:17438	General Motors Corporation
+A1	IsLink T2

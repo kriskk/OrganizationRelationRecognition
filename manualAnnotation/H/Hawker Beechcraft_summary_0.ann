@@ -1,0 +1,14 @@
+T1	Organization 0 17	Hawker Beechcraft
+T2	Organization 115 128	Goldman Sachs
+T3	Organization 201 209	Raytheon
+T4	Organization 211 221	Beechcraft
+N1	Reference T1 wiki:1116438	Hawker Beechcraft
+N2	Reference T2 wiki:144097	Goldman Sachs
+N3	Reference T3 wiki:769599	Raytheon
+N4	Reference T4 wiki:643372	Beechcraft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary
+A6	TypeRel T2 Alias

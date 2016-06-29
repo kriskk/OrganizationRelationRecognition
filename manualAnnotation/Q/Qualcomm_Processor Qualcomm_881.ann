@@ -1,0 +1,5 @@
+T1	Organization 0 8	Qualcomm
+T2	Organization 388 391	ATI
+N1	Reference T1 wiki:897305	Qualcomm
+N2	Reference T2 wiki:1155771	ATI
+A1	IsLink T2

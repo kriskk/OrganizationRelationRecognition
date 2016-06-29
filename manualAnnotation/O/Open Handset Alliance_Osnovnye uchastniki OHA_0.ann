@@ -1,0 +1,14 @@
+T1	Organization 0 21	Open Handset Alliance
+T2	Organization 112 117	Nokia
+T3	Organization 185 188	Sun
+T4	Organization 275 280	Apple
+T5	Organization 292 301	Microsoft
+N1	Reference T1 wiki:917308	Open Handset Alliance
+N2	Reference T2 wiki:56405	Nokia
+N3	Reference T3 wiki:4777	Sun Microsystems
+N4	Reference T4 wiki:39726	Apple
+N5	Reference T5 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

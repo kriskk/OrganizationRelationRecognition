@@ -1,0 +1,5 @@
+T1	Organization 0 10	Автофрамос
+T2	Organization 140 147	Renault
+N1	Reference T1 wiki:387742	Автофрамос
+N2	Reference T2 wiki:586472	Renault
+A1	IsLink T2

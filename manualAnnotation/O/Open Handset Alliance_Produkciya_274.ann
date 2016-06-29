@@ -1,0 +1,5 @@
+T1	Organization 0 21	Open Handset Alliance
+T2	Organization 245 252	Wistron
+N1	Reference T1 wiki:917308	Open Handset Alliance
+N2	Reference T2 wiki:3573039	Wistron
+A1	TypeRel T2 Cooperator

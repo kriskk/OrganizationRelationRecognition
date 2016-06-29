@@ -1,0 +1,5 @@
+T1	Organization 0 4	Аллё
+T2	Organization 325 340	X5 Retail Group
+N1	Reference T1 wiki:2802955	Аллё
+N2	Reference T2 wiki:353293	X5 Retail Group
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 16	3dfx Interactive
+T2	Organization 305 311	Nvidia
+T3	Organization 569 585	ATI Technologies
+N1	Reference T1 wiki:239320	3dfx Interactive
+N2	Reference T2 wiki:1548156	Nvidia
+N3	Reference T3 wiki:1155771	ATI Technologies
+A1	IsLink T2
+A2	IsLink T3

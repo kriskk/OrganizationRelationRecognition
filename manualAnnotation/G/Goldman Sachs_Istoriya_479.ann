@@ -1,0 +1,22 @@
+T1	Organization 0 13	Goldman Sachs
+T2	Organization 225 234	Microsoft
+T3	Organization 243 247	Ford
+T4	Organization 249 251	GE
+T5	Organization 310 318	Роснефти
+T6	Organization 398 409	Burger King
+N1	Reference T1 wiki:144097	Goldman Sachs
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:153236	Ford
+N4	Reference T4 wiki:13762	GE
+N5	Reference T5 wiki:139770	Роснефть
+N6	Reference T6 wiki:196541	Burger King
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T6 Subsidiary
+A7	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator

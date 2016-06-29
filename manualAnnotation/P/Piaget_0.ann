@@ -1,0 +1,6 @@
+T1	Organization 0 6	Piaget
+T2	Organization 160 169	Richemont
+N1	Reference T1 wiki:3208208	Piaget
+N2	Reference T2 wiki:3206803	Richemont
+A1	IsLink T2
+A2	TypeRel T2 Holder

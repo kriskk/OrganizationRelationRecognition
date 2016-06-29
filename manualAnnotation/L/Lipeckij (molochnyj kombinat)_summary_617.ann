@@ -1,0 +1,6 @@
+T1	Organization 0 28	Липецкий (молочный комбинат)
+T2	Organization 302 309	Юнимилк
+N1	Reference T1 wiki:3537623	Липецкий (молочный комбинат)
+N2	Reference T2 wiki:213110	Юнимилк
+A1	IsLink T2
+A2	TypeRel T2 Holder

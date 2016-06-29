@@ -1,0 +1,17 @@
+T1	Organization 0 27	Восточная нефтяная компания
+T2	Organization 225 233	Роснефти
+T3	Organization 263 275	Ачинский НПЗ
+T4	Organization 277 288	Томский НХК
+T5	Organization 534 538	ЮКОС
+N1	Reference T1 wiki:980642	Восточная нефтяная компания
+N2	Reference T2 wiki:139770	Роснефть
+N3	Reference T3 wiki:1063821	Ачинский нефтеперерабатывающий завод
+N4	Reference T4 wiki:291812	Томскнефтехим
+N5	Reference T5 wiki:6032	ЮКОС
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T5 Holder
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary

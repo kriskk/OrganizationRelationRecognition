@@ -1,0 +1,6 @@
+T1	Organization 0 18	РБК (медиахолдинг)
+T2	Organization 192 199	Онэксим
+N1	Reference T1 wiki:391746	РБК (медиахолдинг)
+N2	Reference T2 wiki:1526001	ОНЭКСИМ (группа)
+A1	IsLink T2
+A2	TypeRel T2 Holder

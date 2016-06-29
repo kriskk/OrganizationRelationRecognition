@@ -1,0 +1,16 @@
+T1	Organization 0 7	Netezza
+T2	Organization 283 289	Oracle
+T3	Organization 292 295	IBM
+T4	Organization 515 522	Gartner
+T5	Organization 647 668	магического квадранта
+N1	Reference T1 wiki:3952151	Netezza
+N2	Reference T2 wiki:129227	Oracle
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:2960363	Gartner
+N5	Reference T5 wiki:2960363	Магический квадрант
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Other

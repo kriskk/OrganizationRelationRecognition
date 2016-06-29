@@ -1,0 +1,5 @@
+T1	Organization 0 6	Danone
+T2	Organization 235 240	Evian
+N1	Reference T1 wiki:279435	Danone
+N2	Reference T2 wiki:1976223	Evian
+A1	IsLink T2

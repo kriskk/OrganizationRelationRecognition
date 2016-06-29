@@ -1,0 +1,32 @@
+T1	Organization 0 15	Apollo Computer
+T2	Organization 200 208	Motorola
+T3	Organization 800 803	DEC
+T4	Organization 806 822	Sun Microsystems
+T5	Organization 835 837	HP
+T6	Organization 840 843	IBM
+T7	Organization 881 896	Mentor Graphics
+T8	Organization 898 912	General Motors
+T9	Organization 914 918	Ford
+T10	Organization 920 928	Chrysler
+T11	Organization 931 937	Boeing
+N1	Reference T1 wiki:342140	Apollo Computer
+N2	Reference T2 wiki:134384	Motorola
+N3	Reference T3 wiki:176483	DEC
+N4	Reference T4 wiki:4777	Sun Microsystems
+N5	Reference T5 wiki:89988	Hewlett-Packard
+N6	Reference T6 wiki:11078	IBM
+N7	Reference T7 wiki:2096027	Mentor Graphics
+N8	Reference T8 wiki:17438	General Motors
+N9	Reference T9 wiki:153236	Ford
+N10	Reference T10 wiki:223902	Chrysler
+N11	Reference T11 wiki:156398	Boeing
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11

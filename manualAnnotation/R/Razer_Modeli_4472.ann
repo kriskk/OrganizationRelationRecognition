@@ -1,0 +1,5 @@
+T1	Organization 0 5	Razer
+T2	Organization 191 194	THX
+N1	Reference T1 wiki:893945	Razer
+N2	Reference T2 wiki:728867	THX
+A1	IsLink T2

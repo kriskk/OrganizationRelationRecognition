@@ -1,0 +1,17 @@
+T1	Organization 0 19	Activision Blizzard
+T2	Organization 126 136	Activision
+T3	Organization 244 257	Vivendi Games
+T4	Organization 351 361	Activision
+T5	Organization 364 386	Blizzard Entertainment
+T6	Organization 408 421	Vivendi Games
+N1	Reference T1 wiki:954541	Activision Blizzard
+N2	Reference T2 wiki:307964	Activision
+N3	Reference T3 wiki:954541	Vivendi Games
+N4	Reference T4 wiki:307964	Activision
+N5	Reference T5 wiki:202669	Blizzard Entertainment
+N6	Reference T6 wiki:954541	Vivendi Games
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

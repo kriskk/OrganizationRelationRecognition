@@ -1,0 +1,6 @@
+T1	Organization 0 11	EA Montreal
+T2	Organization 142 149	Ubisoft
+N1	Reference T1 wiki:2309473	EA Montreal
+N2	Reference T2 wiki:650139	Ubisoft
+A1	IsLink T2
+A2	TypeRel T2 Personnel

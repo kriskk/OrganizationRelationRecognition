@@ -1,0 +1,5 @@
+T1	Organization 0 33	Вологодский вагоноремонтный завод
+T2	Organization 250 282	ОАО «Российские железные дороги»
+N1	Reference T1 wiki:1340579	Вологодский вагоноремонтный завод
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2

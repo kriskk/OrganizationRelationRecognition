@@ -1,0 +1,5 @@
+T1	Organization 0 14	Мобильные ГТЭС
+T2	Organization 188 199	Совет рынка
+N1	Reference T1 wiki:2494483	Мобильные ГТЭС
+N2	Reference T2 wiki:2049211	Совет рынка
+A1	IsLink T2

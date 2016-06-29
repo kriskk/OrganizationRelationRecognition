@@ -1,0 +1,5 @@
+T1	Organization 0 22	Siemens Wind Power A/S
+T2	Organization 117 127	Siemens AG
+N1	Reference T1 wiki:2113560	Siemens Wind Power A/S
+N2	Reference T2 wiki:36510	Siemens AG
+A1	IsLink T2

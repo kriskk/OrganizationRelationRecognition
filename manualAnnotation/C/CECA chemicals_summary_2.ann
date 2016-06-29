@@ -1,0 +1,5 @@
+T1	Organization 0 14	CECA chemicals
+T2	Organization 229 234	Total
+N1	Reference T1 wiki:282948	CECA chemicals
+N2	Reference T2 wiki:159658	Total
+A1	IsLink T2

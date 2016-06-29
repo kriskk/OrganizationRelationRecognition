@@ -1,0 +1,5 @@
+T1	Organization 0 17	McDonnell Douglas
+T2	Organization 219 225	Boeing
+N1	Reference T1 wiki:87592	McDonnell Douglas
+N2	Reference T2 wiki:156398	Boeing
+A1	TypeRel T2 Merge

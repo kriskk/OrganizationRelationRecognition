@@ -1,0 +1,9 @@
+T1	Organization 0 25	INLINE Technologies Group
+T2	Organization 289 308	INLINE Technologies
+T3	Organization 310 315	ИНПАС
+N1	Reference T1 wiki:3136302	INLINE Technologies Group
+N2	Reference T2 wiki:2870798	INLINE Technologies
+N3	Reference T3 wiki:2421189	ИНПАС
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

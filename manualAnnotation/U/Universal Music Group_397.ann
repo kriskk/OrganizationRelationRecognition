@@ -1,0 +1,10 @@
+T1	Organization 0 21	Universal Music Group
+T2	Organization 231 241	Vivendi SA
+T3	Organization 318 339	Interscope-Geffen-A&M
+N1	Reference T1 wiki:203047	Universal Music Group
+N2	Reference T2 wiki:1695856	Vivendi SA
+N3	Reference T3 wiki:1704035	Interscope-Geffen-A&M
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Subsidiary

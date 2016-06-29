@@ -1,0 +1,8 @@
+T1	Organization 0 13	Mercedes-Benz
+T2	Organization 284 289	Dodge
+T3	Organization 302 314	Freightliner
+N1	Reference T1 wiki:40401	Mercedes-Benz
+N2	Reference T2 wiki:41485	Dodge
+N3	Reference T3 wiki:1371581	Freightliner
+A2	IsLink T3
+A1	TypeRel T2 Cooperator

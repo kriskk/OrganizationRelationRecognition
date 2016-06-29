@@ -1,0 +1,8 @@
+T1	Organization 0 7	Siemens
+T2	Organization 517 520	AEG
+T3	Organization 689 711	Siemens-Schuckertwerke
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:294609	AEG
+N3	Reference T3 wiki:198667	Siemens-Schuckertwerke
+A1	IsLink T2
+A2	IsLink T3

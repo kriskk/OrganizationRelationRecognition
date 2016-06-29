@@ -1,0 +1,11 @@
+T1	Organization 0 18	Система (компания)
+T2	Organization 309 312	РЖД
+T3	Organization 314 338	Первой грузовой компании
+T4	Organization 386 390	НЛМК
+N1	Reference T1 wiki:158888	Система (компания)
+N2	Reference T2 wiki:106901	Российские железные дороги
+N3	Reference T3 wiki:1544779	Первая грузовая компания
+N4	Reference T4 wiki:143594	Новолипецкий металлургический комбинат
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

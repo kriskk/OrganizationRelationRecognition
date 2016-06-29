@@ -1,0 +1,5 @@
+T1	Organization 0 13	Watson-Marlow
+T2	Organization 202 226	Spirax-Sarco Engineering
+N1	Reference T1 wiki:2397665	Watson-Marlow
+N2	Reference T2 wiki:1353686	Spirax-Sarco Engineering
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 31	Schunk Sintermetalltechnik GmbH
+T2	Organization 246 249	БМВ
+N1	Reference T1 wiki:2788689	Schunk Sintermetalltechnik GmbH
+N2	Reference T2 wiki:40368	БМВ
+A1	IsLink T2

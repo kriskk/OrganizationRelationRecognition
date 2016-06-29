@@ -1,0 +1,26 @@
+T1	Organization 0 11	Fincantieri
+T2	Organization 141 162	Carnival Cruise Lines
+T3	Organization 304 318	Costa Crociere
+T4	Organization 476 487	Cunard Line
+T5	Organization 622 631	Finnlines
+T6	Organization 1125 1145	Holland America Line
+T7	Organization 1419 1431	Minoan Lines
+T8	Organization 1800 1811	P&O Ferries
+T9	Organization 2023 2030	Tallink
+N1	Reference T1 wiki:3498785	Fincantieri
+N2	Reference T2 wiki:3219423	Carnival Cruise Lines
+N3	Reference T3 wiki:3024057	Costa Cruises
+N4	Reference T4 wiki:293774	Cunard Line
+N5	Reference T5 wiki:4388612	Finnlines
+N6	Reference T6 wiki:1379544	Holland America Line
+N7	Reference T7 wiki:4397409	Minoan Lines
+N8	Reference T8 wiki:3613825	P&O Ferries
+N9	Reference T9 wiki:509782	Tallink
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9

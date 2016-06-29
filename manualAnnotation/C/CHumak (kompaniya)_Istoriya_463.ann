@@ -1,0 +1,5 @@
+T1	Organization 0 16	Чумак (компания)
+T2	Organization 198 207	Tetra Pak
+N1	Reference T1 wiki:536652	Чумак (компания)
+N2	Reference T2 wiki:285491	Tetra Pak
+A1	IsLink T2

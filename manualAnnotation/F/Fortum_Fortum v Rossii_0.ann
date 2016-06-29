@@ -1,0 +1,5 @@
+T1	Organization 0 6	Fortum
+T2	Organization 128 170	Территориальной генерирующей компании № 10
+N1	Reference T1 wiki:305740	Fortum
+N2	Reference T2 wiki:663365	Территориальная генерирующая компания № 10
+A1	IsLink T2

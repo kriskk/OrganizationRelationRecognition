@@ -1,0 +1,5 @@
+T1	Organization 0 20	Lockheed Corporation
+T2	Organization 53 59	Boeing
+N1	Reference T1 wiki:1523502	Lockheed Corporation
+N2	Reference T2 wiki:156398	Boeing
+A1	IsLink T2

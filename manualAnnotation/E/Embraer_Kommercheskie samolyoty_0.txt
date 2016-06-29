@@ -1,0 +1,17 @@
+Embraer
+@Продукция
+@Коммерческие самолёты
+2061,12,0
+
+
+Коммерческие самолёты
+
+ Embraer EMB 110 Bandeirante
+	 Embraer EMB 120 Brasilia
+	 Embraer EMB 121 Xingu
+	 Embraer/FMA CBA 123 Vector (совместно с FMA)
+	 Embraer ERJ, в том числе:
+	 Embraer ERJ 135
+		 Embraer ERJ 140
+		 Embraer ERJ 145
+	 Embraer E-Jet, в том числе:

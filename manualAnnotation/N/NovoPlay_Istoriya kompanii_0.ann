@@ -1,0 +1,5 @@
+T1	Organization 0 9	Novo-Play
+T2	Organization 130 168	Западно-Европейского Финансового Союза
+N1	Reference T1 wiki:4456914	Novo-Play
+N2	Reference T2 wiki:4451566	Западно-Европейский Финансовый Союз
+A1	TypeRel T2 Holder

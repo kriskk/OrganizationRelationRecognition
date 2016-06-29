@@ -1,0 +1,10 @@
+T1	Organization 0 23	Магнит (сеть магазинов)
+T2	Organization 358 361	MAN
+T3	Organization 364 371	Renault
+N1	Reference T1 wiki:143658	Магнит (сеть магазинов)
+N2	Reference T2 wiki:42703	MAN
+N3	Reference T3 wiki:318366	Renault Trucks
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 27	ЛПК Континенталь Менеджмент
+T2	Organization 205 220	Базовый Элемент
+N1	Reference T1 wiki:129328	ЛПК Континенталь Менеджмент
+N2	Reference T2 wiki:156379	Базовый элемент
+A1	IsLink T2
+A2	TypeRel T2 Holder

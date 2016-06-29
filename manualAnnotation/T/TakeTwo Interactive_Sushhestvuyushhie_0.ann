@@ -1,0 +1,62 @@
+T1	Organization 0 20	Take-Two Interactive
+T2	Organization 73 87	Rockstar Games
+T3	Organization 146 160	Rockstar North
+T4	Organization 211 225	Rockstar Leeds
+T5	Organization 301 315	Rockstar Japan
+T6	Organization 357 372	Rockstar London
+T7	Organization 438 456	Rockstar Vancouver
+T8	Organization 522 540	Rockstar San Diego
+T9	Organization 592 608	Rockstar Toronto
+T10	Organization 662 678	Rockstar Lincoln
+T11	Organization 752 772	Rockstar New England
+T12	Organization 836 854	Take-Two Licensing
+T13	Organization 894 902	2K Games
+T14	Organization 950 958	2K China
+T15	Organization 999 1007	2K Czech
+T16	Organization 1046 1054	2K Marin
+T17	Organization 1144 1151	2K Play
+T18	Organization 1195 1204	2K Sports
+T19	Organization 1258 1271	Firaxis Games
+T20	Organization 1395 1411	Irrational Games
+T21	Organization 1461 1476	Visual Concepts
+N1	Reference T1 wiki:2783863	Take-Two Interactive
+N2	Reference T2 wiki:650156	Rockstar Games
+N3	Reference T3 wiki:662662	Rockstar North
+N4	Reference T4 wiki:2325802	Rockstar Leeds
+N5	Reference T5 wiki:2327403	Rockstar Japan
+N6	Reference T6 wiki:2327715	Rockstar London
+N7	Reference T7 wiki:2102172	Rockstar Vancouver
+N8	Reference T8 wiki:2327583	Rockstar San Diego
+N9	Reference T9 wiki:2336518	Rockstar Toronto
+N10	Reference T10 wiki:2327437	Rockstar Lincoln
+N11	Reference T11 wiki:2337034	Rockstar New England
+N12	Reference T12 wiki:3064472	Take-Two Licensing
+N13	Reference T13 wiki:2386194	2K Games
+N14	Reference T14 wiki:2365313	2K China
+N15	Reference T15 wiki:2161805	2K Czech
+N16	Reference T16 wiki:2342138	2K Marin
+N17	Reference T17 wiki:2834760	2K Play
+N18	Reference T18 wiki:2924825	2K Sports
+N19	Reference T19 wiki:2726696	Firaxis Games
+N20	Reference T20 wiki:2311392	Irrational Games
+N21	Reference T21 wiki:3430606	Visual Concepts
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	IsLink T21

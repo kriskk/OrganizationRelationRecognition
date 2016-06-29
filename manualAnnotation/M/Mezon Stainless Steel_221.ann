@@ -1,0 +1,6 @@
+T1	Organization 0 21	Mezon Stainless Steel
+T2	Organization 182 202	Sumitomo Corporation
+N1	Reference T1 wiki:3771296	Mezon Stainless Steel
+N2	Reference T2 wiki:2076372	Sumitomo Corporation
+A1	IsLink T2
+A2	TypeRel T2 Holder

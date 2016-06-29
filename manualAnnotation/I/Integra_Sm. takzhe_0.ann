@@ -1,0 +1,5 @@
+T1	Organization 0 7	Integra
+T2	Organization 40 45	Onkyo
+N1	Reference T1 wiki:3052251	Integra
+N2	Reference T2 wiki:2852717	Onkyo
+A1	IsLink T2

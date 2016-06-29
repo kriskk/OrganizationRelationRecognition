@@ -1,0 +1,9 @@
+T1	Organization 0 16	Irrational Games
+T2	Organization 102 123	Looking Glass Studios
+T3	Organization 158 179	Looking Glass Studios
+N1	Reference T1 wiki:2311392	Irrational Games
+N2	Reference T2 wiki:2044456	Looking Glass Studios
+N3	Reference T3 wiki:2044456	Looking Glass Studios
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

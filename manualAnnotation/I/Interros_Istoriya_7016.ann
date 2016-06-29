@@ -1,0 +1,9 @@
+T1	Organization 0 8	Интеррос
+T2	Organization 238 279	Новолипецкого металлургического комбината
+T3	Organization 538 552	Силовые машины
+N1	Reference T1 wiki:147366	Интеррос
+N2	Reference T2 wiki:143594	Новолипецкий металлургический комбинат
+N3	Reference T3 wiki:143652	Силовые машины
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

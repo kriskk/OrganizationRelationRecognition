@@ -1,0 +1,11 @@
+T1	Organization 0 13	Day 1 Studios
+T2	Organization 198 213	Electronic Arts
+T3	Organization 282 292	Activision
+T4	Organization 630 650	Monolith Productions
+N1	Reference T1 wiki:2413131	Day 1 Studios
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:307964	Activision
+N4	Reference T4 wiki:1344649	Monolith Productions
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

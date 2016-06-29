@@ -1,0 +1,6 @@
+T1	Organization 0 7	Газпром
+T2	Organization 135 151	Брестгазоаппарат
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:120606	Брестгазоаппарат
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

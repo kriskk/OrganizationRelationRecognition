@@ -1,0 +1,5 @@
+T1	Organization 0 20	Take-Two Interactive
+T2	Organization 322 337	Electronic Arts
+N1	Reference T1 wiki:2783863	Take-Two Interactive
+N2	Reference T2 wiki:323143	Electronic Arts
+A1	IsLink T2

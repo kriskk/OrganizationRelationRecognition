@@ -1,0 +1,11 @@
+T1	Organization 0 14	Совам Телепорт
+T2	Organization 278 292	Голден Телеком
+T3	Organization 344 352	Совинтел
+T4	Organization 630 636	NASDAQ
+N1	Reference T1 wiki:3455613	Совам Телепорт
+N2	Reference T2 wiki:2196953	Голден Телеком
+N3	Reference T3 wiki:3929111	Совинтел
+N4	Reference T4 wiki:63813	NASDAQ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

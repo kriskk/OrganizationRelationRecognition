@@ -1,0 +1,10 @@
+T1	Organization 0 4	Jeep
+T2	Organization 386 401	Willys-Overland
+T3	Organization 404 418	Ford Motor Co.
+N1	Reference T1 wiki:41489	Jeep
+N2	Reference T2 wiki:3630721	Willys-Overland
+N3	Reference T3 wiki:153236	Ford
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Enercon
+T2	Organization 230 245	REpower Systems
+N1	Reference T1 wiki:986690	Enercon
+N2	Reference T2 wiki:984262	REpower Systems
+A1	IsLink T2

@@ -1,0 +1,14 @@
+T1	Organization 0 8	Патэрсон
+T2	Organization 231 246	X5 Retail Group
+T3	Organization 484 495	Перекрёсток
+T4	Organization 505 514	Пятёрочка
+N1	Reference T1 wiki:173803	Патэрсон
+N2	Reference T2 wiki:353293	X5 Retail Group
+N3	Reference T3 wiki:176082	Перекрёсток (сеть магазинов)
+N4	Reference T4 wiki:132128	Пятёрочка (сеть магазинов)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

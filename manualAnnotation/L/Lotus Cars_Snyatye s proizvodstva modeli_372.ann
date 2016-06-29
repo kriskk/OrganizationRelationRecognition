@@ -1,0 +1,5 @@
+T1	Organization 0 10	Lotus Cars
+T2	Organization 309 322	Caterham Cars
+N1	Reference T1 wiki:748115	Lotus Cars
+N2	Reference T2 wiki:3721221	Caterham Cars
+A1	TypeRel T2 Holder

@@ -1,0 +1,13 @@
+T1	Organization 0 19	Почтовая служба США
+T2	Organization 213 221	Wal-Mart
+T3	Organization 466 475	Chevrolet
+T4	Organization 496 500	Ford
+N1	Reference T1 wiki:1728001	Почтовая служба США
+N2	Reference T2 wiki:243093	Wal-Mart
+N3	Reference T3 wiki:17631	Chevrolet
+N4	Reference T4 wiki:153236	Ford
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

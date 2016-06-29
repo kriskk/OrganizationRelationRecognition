@@ -1,0 +1,10 @@
+T1	Organization 0 6	NCSoft
+T2	Organization 126 140	Innova Systems
+T3	Organization 257 271	Innova Systems
+N1	Reference T1 wiki:707386	NCSoft
+N2	Reference T2 wiki:1532698	Innova Systems
+N3	Reference T3 wiki:1532698	Innova Systems
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

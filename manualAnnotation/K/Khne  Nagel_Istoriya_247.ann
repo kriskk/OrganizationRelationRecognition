@@ -1,0 +1,5 @@
+T1	Organization 0 13	Kühne + Nagel
+T2	Organization 220 236	Kühne & Nagel AG
+N1	Reference T1 wiki:3686941	Kühne + Nagel
+N2	Reference T2 wiki:3686941	Kühne & Nagel AG
+A1	IsLink T2

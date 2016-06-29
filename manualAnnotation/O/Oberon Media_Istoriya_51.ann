@@ -1,0 +1,10 @@
+T1	Organization 0 12	Oberon Media
+T2	Organization 262 275	Goldman Sachs
+T3	Organization 302 317	Lehman Brothers
+N1	Reference T1 wiki:3143353	Oberon Media
+N2	Reference T2 wiki:144097	Goldman Sachs
+N3	Reference T3 wiki:223523	Lehman Brothers
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

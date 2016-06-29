@@ -1,0 +1,5 @@
+T1	Organization 0 10	FN Herstal
+T2	Organization 294 301	Walther
+N1	Reference T1 wiki:2278032	FN Herstal
+N2	Reference T2 wiki:1577380	Walther
+A1	IsLink T2

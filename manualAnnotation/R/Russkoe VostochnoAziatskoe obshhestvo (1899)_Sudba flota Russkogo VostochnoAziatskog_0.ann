@@ -1,0 +1,8 @@
+T1	Organization 0 42	Русское Восточно-Азиатское общество (1899)
+T2	Organization 181 208	Восточно-Азиатская компания
+T3	Organization 380 391	Cunard Line
+N1	Reference T1 wiki:1621788	Русское Восточно-Азиатское общество (1899)
+N2	Reference T2 wiki:1620698	Восточно-Азиатская компания (Дания)
+N3	Reference T3 wiki:293774	Cunard Line
+A1	IsLink T2
+A2	IsLink T3

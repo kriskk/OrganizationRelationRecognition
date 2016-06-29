@@ -1,0 +1,6 @@
+T1	Organization 0 18	ZEBRA (киностудия)
+T2	Organization 208 219	Walt Disney
+N1	Reference T1 wiki:3729595	ZEBRA (киностудия)
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

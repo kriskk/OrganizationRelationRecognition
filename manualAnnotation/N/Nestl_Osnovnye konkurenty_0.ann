@@ -1,0 +1,22 @@
+T1	Organization 0 6	Nestlé
+T2	Organization 98 106	Unilever
+T3	Organization 108 115	PepsiCo
+T4	Organization 117 121	Mars
+T5	Organization 123 134	Kraft Foods
+T6	Organization 137 150	Groupe Danone
+N1	Reference T1 wiki:121355	Nestlé
+N2	Reference T2 wiki:198503	Unilever
+N3	Reference T3 wiki:606214	PepsiCo
+N4	Reference T4 wiki:172056	Mars
+N5	Reference T5 wiki:243189	Kraft Foods
+N6	Reference T6 wiki:279435	Groupe Danone
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Competitor
+A7	TypeRel T3 Competitor
+A8	TypeRel T4 Competitor
+A9	TypeRel T5 Competitor
+A10	TypeRel T6 Competitor

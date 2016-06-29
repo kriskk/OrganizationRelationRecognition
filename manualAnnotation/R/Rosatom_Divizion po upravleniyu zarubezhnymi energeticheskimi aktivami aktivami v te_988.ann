@@ -1,0 +1,9 @@
+T1	Organization 0 7	Росатом
+T2	Organization 361 377	РАО «ЕЭС России»
+T3	Organization 511 534	концерн «Росэнергоатом»
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:1432138	РАО ЕЭС
+N3	Reference T3 wiki:138779	Росэнергоатом
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

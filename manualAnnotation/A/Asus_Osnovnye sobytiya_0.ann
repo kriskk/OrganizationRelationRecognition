@@ -1,0 +1,17 @@
+T1	Organization 0 4	Asus
+T2	Organization 89 95	ASRock
+T3	Organization 240 245	Ageia
+T4	Organization 265 271	NVIDIA
+T5	Organization 435 446	Lamborghini
+T6	Organization 583 590	Samsung
+N1	Reference T1 wiki:118273	Asus
+N2	Reference T2 wiki:2493967	ASRock
+N3	Reference T3 wiki:1289996	Ageia
+N4	Reference T4 wiki:1548156	NVIDIA
+N5	Reference T5 wiki:65531	Lamborghini
+N6	Reference T6 wiki:125537	Samsung
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

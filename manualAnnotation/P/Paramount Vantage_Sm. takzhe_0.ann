@@ -1,0 +1,5 @@
+T1	Organization 0 17	Paramount Vantage
+T2	Organization 49 67	Paramount Pictures
+N1	Reference T1 wiki:4203142	Paramount Vantage
+N2	Reference T2 wiki:398699	Paramount Pictures
+A1	IsLink T2

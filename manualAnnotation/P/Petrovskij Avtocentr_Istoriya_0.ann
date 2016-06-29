@@ -1,0 +1,6 @@
+T1	Organization 0 20	Петровский Автоцентр
+T2	Organization 92 99	Renault
+N1	Reference T1 wiki:2419209	Петровский Автоцентр
+N2	Reference T2 wiki:586472	Renault
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

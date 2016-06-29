@@ -1,0 +1,38 @@
+T1	Organization 0 23	RAD Data Communications
+T2	Organization 366 370	AT&T
+T3	Organization 372 374	BT
+T4	Organization 376 388	China Mobile
+T5	Organization 405 421	Deutsche Telecom
+T6	Organization 423 437	France Telecom
+T7	Organization 439 445	Orange
+T8	Organization 464 474	Telefonica
+T9	Organization 483 491	T-Mobile
+T10	Organization 507 514	Verizon
+N1	Reference T1 wiki:2456076	RAD Data Communications
+N2	Reference T2 wiki:162994	AT&T
+N3	Reference T3 wiki:14276	BT Group
+N4	Reference T4 wiki:248178	China Mobile
+N5	Reference T5 wiki:169094	Deutsche Telecom
+N6	Reference T6 wiki:373577	France Telecom
+N7	Reference T7 wiki:373554	Orange
+N8	Reference T8 wiki:377249	Telefonica
+N9	Reference T9 wiki:138787	T-Mobile
+N10	Reference T10 wiki:251493	Verizon
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T2 Cooperator
+A11	TypeRel T3 Cooperator
+A12	TypeRel T4 Cooperator
+A13	TypeRel T5 Cooperator
+A14	TypeRel T6 Cooperator
+A15	TypeRel T7 Cooperator
+A16	TypeRel T8 Cooperator
+A17	TypeRel T9 Cooperator
+A18	TypeRel T10 Cooperator

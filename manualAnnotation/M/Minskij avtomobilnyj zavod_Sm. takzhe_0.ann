@@ -1,0 +1,8 @@
+T1	Organization 0 27	Минский автомобильный завод
+T2	Organization 61 92	Белорусский автомобильный завод
+T3	Organization 103 115	Белкоммунмаш
+N1	Reference T1 wiki:33218	Минский автомобильный завод
+N2	Reference T2 wiki:104850	Белорусский автомобильный завод
+N3	Reference T3 wiki:154763	Белкоммунмаш
+A1	IsLink T2
+A2	IsLink T3

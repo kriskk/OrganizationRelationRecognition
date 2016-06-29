@@ -1,0 +1,5 @@
+T1	Organization 0 15	Вобис Компьютер
+T2	Organization 339 345	Navteq
+N1	Reference T1 wiki:3201662	Вобис Компьютер
+N2	Reference T2 wiki:177344	Navteq
+A1	TypeRel T2 Cooperator

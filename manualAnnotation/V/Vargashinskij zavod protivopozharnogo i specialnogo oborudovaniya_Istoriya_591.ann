@@ -1,0 +1,10 @@
+T1	Organization 0 63	Варгашинский завод противопожарного и специального оборудования
+T2	Organization 237 249	Горьковского
+T3	Organization 252 276	Ульяновского автозаводов
+N1	Reference T1 wiki:4048456	Варгашинский завод противопожарного и специального оборудования
+N2	Reference T2 wiki:25060	Горьковский автомобильный завод
+N3	Reference T3 wiki:84571	Ульяновский автомобильный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

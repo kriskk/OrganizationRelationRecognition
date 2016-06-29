@@ -1,0 +1,18 @@
+T1	Organization 0 21	Газпром-Медиа Холдинг
+T2	Organization 69 76	Газпром
+T3	Organization 397 407	Медиа-Мост
+T4	Organization 569 577	НТВ-Плюс
+T5	Organization 642 670	Издательский дом «Семь дней»
+N1	Reference T1 wiki:189268	Газпром-Медиа Холдинг
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:2400048	Медиа-Мост
+N4	Reference T4 wiki:723124	НТВ-Плюс
+N5	Reference T5 wiki:3577803	Издательский дом «Семь дней»
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary

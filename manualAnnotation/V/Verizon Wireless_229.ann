@@ -1,0 +1,10 @@
+T1	Organization 0 16	Verizon Wireless
+T2	Organization 208 230	Verizon Communications
+T3	Organization 237 251	Vodafone Group
+N1	Reference T1 wiki:373572	Verizon Wireless
+N2	Reference T2 wiki:251493	Verizon Communications
+N3	Reference T3 wiki:213703	Vodafone Group
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

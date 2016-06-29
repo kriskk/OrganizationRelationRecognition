@@ -1,0 +1,14 @@
+Red Digital Cinema Camera Company
+@Кинокамеры RED Epic
+@Epic FF35
+3944,1668,0
+
+
+Epic FF35
+
+ 6k Mysterium Monstro сенсор (Full Frame 35, 36×24 mm. 6000 x 4000, 24Мп).
+	 возможно применение объективов PL, RED, mini-RED, C, B4, Nikon, Canon.
+	 рабочие разрешения:
+	 6K — до 100 кадров в секунду
+		 5K — до 125 кадров в секунду
+		 4K — до 150 кадров в секунду

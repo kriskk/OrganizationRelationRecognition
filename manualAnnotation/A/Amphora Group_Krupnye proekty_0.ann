@@ -1,0 +1,17 @@
+T1	Organization 0 13	Amphora Group
+T2	Organization 160 175	ОАО "Вымпелком"
+T3	Organization 364 371	MegaCom
+T4	Organization 720 736	РАО "ЕЭС России"
+T5	Organization 792 798	ТНК-BP
+T6	Organization 861 881	X5 Retail Group N.V.
+N1	Reference T1 wiki:3052468	Amphora Group
+N2	Reference T2 wiki:70736	Вымпелком
+N3	Reference T3 wiki:1434616	MegaCom
+N4	Reference T4 wiki:1432138	РАО "ЕЭС России"
+N5	Reference T5 wiki:17252	ТНК-BP
+N6	Reference T6 wiki:353293	X5 Retail Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

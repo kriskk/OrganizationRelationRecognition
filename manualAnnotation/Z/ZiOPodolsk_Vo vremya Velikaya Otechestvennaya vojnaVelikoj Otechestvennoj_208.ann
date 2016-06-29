@@ -1,0 +1,9 @@
+T1	Organization 0 12	ЗиО-Подольск
+T2	Organization 338 353	«Уралтрансмаша»
+T3	Organization 638 655	Красный котельщик
+N1	Reference T1 wiki:864177	ЗиО-Подольск
+N2	Reference T2 wiki:3665427	Уралтрансмаш
+N3	Reference T3 wiki:1063755	Красный котельщик
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

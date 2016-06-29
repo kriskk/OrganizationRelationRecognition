@@ -1,0 +1,14 @@
+T1	Organization 0 9	2K Sports
+T2	Organization 54 62	2K Games
+T3	Organization 95 129	Take-Two Interactive Software, Inc
+T4	Organization 176 191	Visual Concepts
+T5	Organization 229 233	Sega
+N1	Reference T1 wiki:2924825	2K Sports
+N2	Reference T2 wiki:2386194	2K Games
+N3	Reference T3 wiki:2783863	Take-Two Interactive
+N4	Reference T4 wiki:3430606	Visual Concepts
+N5	Reference T5 wiki:92589	Sega
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

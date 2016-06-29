@@ -1,0 +1,6 @@
+T1	Organization 0 8	РЖДстрой
+T2	Organization 190 199	ОАО «РЖД»
+N1	Reference T1 wiki:3297253	РЖДстрой
+N2	Reference T2 wiki:106901	Российские железные дороги
+A1	IsLink T2
+A2	TypeRel T2 Personnel

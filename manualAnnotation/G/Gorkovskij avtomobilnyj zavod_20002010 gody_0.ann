@@ -1,0 +1,13 @@
+T1	Organization 0 31	Горьковский автомобильный завод
+T2	Organization 161 176	Базовый элемент
+T3	Organization 267 278	РусПромАвто
+T4	Organization 366 376	Группа ГАЗ
+N1	Reference T1 wiki:25060	Горьковский автомобильный завод
+N2	Reference T2 wiki:156379	Базовый элемент
+N3	Reference T3 wiki:21473	Группа ГАЗ
+N4	Reference T4 wiki:21473	Группа ГАЗ
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T3 Holder
+A5	TypeRel T4 Holder

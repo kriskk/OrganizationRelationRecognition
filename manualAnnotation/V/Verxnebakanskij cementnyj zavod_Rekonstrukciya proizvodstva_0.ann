@@ -1,0 +1,6 @@
+T1	Organization 0 31	Верхнебаканский цементный завод
+T2	Organization 122 134	ЗАО «ИНТЕКО»
+N1	Reference T1 wiki:1614647	Верхнебаканский цементный завод
+N2	Reference T2 wiki:162923	Интеко
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

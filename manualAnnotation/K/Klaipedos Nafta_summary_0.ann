@@ -1,0 +1,5 @@
+T1	Organization 0 15	Klaipedos Nafta
+T2	Organization 150 167	Клайпедском порту
+N1	Reference T1 wiki:455652	Klaipedos Nafta
+N2	Reference T2 wiki:455656	Клайпедский порт
+A1	TypeRel T2 Cooperator

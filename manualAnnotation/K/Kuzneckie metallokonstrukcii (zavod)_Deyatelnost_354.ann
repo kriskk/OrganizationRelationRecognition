@@ -1,0 +1,22 @@
+T1	Organization 0 36	Кузнецкие металлоконструкции (завод)
+T2	Organization 217 230	«Евраз групп»
+T3	Organization 233 249	«Компания Русал»
+T4	Organization 252 268	РАО «ЕЭС России»
+T5	Organization 276 286	Северсталь
+T6	Organization 290 299	ОАО «ММК»
+N1	Reference T1 wiki:1225240	Кузнецкие металлоконструкции (завод)
+N2	Reference T2 wiki:77382	Евраз
+N3	Reference T3 wiki:144729	Русский алюминий
+N4	Reference T4 wiki:1432138	ЕЭС России (компания)
+N5	Reference T5 wiki:149218	Северсталь
+N6	Reference T6 wiki:54824	Магнитогорский металлургический комбинат
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

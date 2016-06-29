@@ -1,0 +1,6 @@
+T1	Organization 0 19	Nordic Yards Wismar
+T2	Organization 175 187	Nordic Yards
+N1	Reference T1 wiki:3540711	Nordic Yards Wismar
+N2	Reference T2 wiki:3543132	Nordic Yards
+A1	IsLink T2
+A2	TypeRel T2 Holder

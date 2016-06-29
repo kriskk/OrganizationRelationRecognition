@@ -1,0 +1,6 @@
+T1	Organization 0 17	Экстернаты Москвы
+T2	Organization 192 238	НОУ "Центр интенсивных технологий образования"
+N1	Reference T1 wiki:4490612	Экстернаты Москвы
+N2	Reference T2 wiki:4490418	Центр интенсивных технологий образования
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

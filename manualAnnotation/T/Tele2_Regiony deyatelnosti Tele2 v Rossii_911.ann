@@ -1,0 +1,17 @@
+T1	Organization 0 5	Tele2
+T2	Organization 420 426	Билайн
+T3	Organization 430 437	МегаФон
+T4	Organization 451 476	Новая Телефонная Компания
+T5	Organization 480 484	Utel
+T6	Organization 639 646	МегаФон
+N1	Reference T1 wiki:162980	Tele2
+N2	Reference T2 wiki:70736	Вымпелком
+N3	Reference T3 wiki:70933	МегаФон
+N4	Reference T4 wiki:259656	Новая Телефонная Компания
+N5	Reference T5 wiki:91190	Уралсвязьинформ
+N6	Reference T6 wiki:70933	МегаФон
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

@@ -1,0 +1,8 @@
+T1	Organization 0 25	Новая телефонная компания
+T2	Organization 219 224	TELE2
+T3	Organization 392 401	ВымпелКом
+N1	Reference T1 wiki:259656	Новая телефонная компания
+N2	Reference T2 wiki:162980	TELE2
+N3	Reference T3 wiki:70736	ВымпелКом
+A1	IsLink T2
+A2	IsLink T3

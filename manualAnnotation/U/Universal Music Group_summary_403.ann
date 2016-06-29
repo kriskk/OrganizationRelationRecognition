@@ -1,0 +1,5 @@
+T1	Organization 0 21	Universal Music Group
+T2	Organization 208 218	Vivendi SA
+N1	Reference T1 wiki:203047	Universal Music Group
+N2	Reference T2 wiki:1695856	Vivendi SA
+A1	IsLink T2

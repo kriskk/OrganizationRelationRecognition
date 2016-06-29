@@ -1,0 +1,20 @@
+T1	Organization 0 10	DreamWorks
+T2	Organization 199 208	Universal
+T3	Organization 242 257	Electronic Arts
+T4	Organization 416 430	EA Los Angeles
+T5	Organization 620 641	Universal Music Group
+T6	Organization 941 961	DreamWorks Animation
+T7	Organization 1390 1395	Pixar
+N1	Reference T1 wiki:755489	DreamWorks
+N2	Reference T2 wiki:702796	Universal Pictures
+N3	Reference T3 wiki:323143	Electronic Arts
+N4	Reference T4 wiki:2301649	EA Los Angeles
+N5	Reference T5 wiki:203047	Universal Music Group
+N6	Reference T6 wiki:3634563	DreamWorks Animation
+N7	Reference T7 wiki:125032	Pixar Animation Studios
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

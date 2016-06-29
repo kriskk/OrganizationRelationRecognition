@@ -1,0 +1,32 @@
+T1	Organization 0 33	Инженерный центр энергетики Урала
+T2	Organization 136 169	ООО "Инжиниринговый центр Энерго"
+T3	Organization 290 308	ОАО «Холдинг МРСК»
+T4	Organization 794 814	ОАО РАО «ЕЭС России»
+T5	Organization 971 1002	ОАО «Энергостройинвест-Холдинг»
+T6	Organization 1248 1263	ОАО «Группа Е4»
+T7	Organization 1282 1301	ООО «Евросибэнерго»
+T8	Organization 1542 1562	ОАО РАО «ЕЭС России»
+T9	Organization 1650 1668	ОАО «Холдинг МРСК»
+N1	Reference T1 wiki:2692040	Инженерный центр энергетики Урала
+N2	Reference T2 wiki:4406136	Энергостройинвест-Холдинг
+N3	Reference T3 wiki:2040314	Холдинг МРСК
+N4	Reference T4 wiki:1432138	РАО «ЕЭС России»
+N5	Reference T5 wiki:4406136	Энергостройинвест-Холдинг
+N6	Reference T6 wiki:726651	Группа Е4
+N7	Reference T7 wiki:1395741	ЕвроСибЭнерго
+N8	Reference T8 wiki:1432138	РАО «ЕЭС России»
+N9	Reference T9 wiki:2040314	Холдинг МРСК
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Holder
+A9	TypeRel T3 Holder
+A10	TypeRel T4 Holder
+A11	TypeRel T6 Holder
+A12	TypeRel T7 Holder
+A13	TypeRel T8 Holder
+A14	TypeRel T9 Holder

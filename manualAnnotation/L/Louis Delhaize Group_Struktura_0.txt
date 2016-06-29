@@ -1,0 +1,19 @@
+Louis Delhaize Group
+@Структура
+934,0
+
+
+Структура
+
+ Cora (Гипермаркеты)
+	 Albinuta (Супермаркеты)
+		 Animalis (Зоомагазины)
+		 Cora Travel (Турагентство)
+		 Ecomax (дискаунтеры)
+		 Houra
+		 Match (Супермаркеты)
+		 Profi (дискаунтеры)
+		 Sovena
+		 Truffaut (садовые магазины)
+	 Delitraiteur
+	 Houra.

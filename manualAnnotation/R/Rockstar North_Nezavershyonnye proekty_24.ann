@@ -1,0 +1,5 @@
+T1	Organization 0 14	Rockstar North
+T2	Organization 311 321	Epic Games
+N1	Reference T1 wiki:662662	Rockstar North
+N2	Reference T2 wiki:2094890	Epic Games
+A1	IsLink T2

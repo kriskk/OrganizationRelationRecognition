@@ -1,0 +1,5 @@
+T1	Organization 0 12	Alliance Oil
+T2	Organization 226 241	Хабаровский НПЗ
+N1	Reference T1 wiki:2421242	Alliance Oil
+N2	Reference T2 wiki:1650978	Хабаровский НПЗ
+A1	IsLink T2

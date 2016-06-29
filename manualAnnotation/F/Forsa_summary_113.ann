@@ -1,0 +1,5 @@
+T1	Organization 0 5	Forsa
+T2	Organization 276 282	NVidia
+N1	Reference T1 wiki:1389312	Forsa
+N2	Reference T2 wiki:1548156	NVidia
+A1	IsLink T2

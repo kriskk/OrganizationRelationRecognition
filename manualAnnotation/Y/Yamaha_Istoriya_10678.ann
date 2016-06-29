@@ -1,0 +1,6 @@
+T1	Organization 0 6	Yamaha
+T2	Organization 254 258	Korg
+N1	Reference T1 wiki:696518	Yamaha
+N2	Reference T2 wiki:2884601	Korg
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

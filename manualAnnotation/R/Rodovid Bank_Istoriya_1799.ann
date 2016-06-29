@@ -1,0 +1,6 @@
+T1	Organization 0 12	Родовид Банк
+T2	Organization 190 203	Fitch Ratings
+N1	Reference T1 wiki:1532909	Родовид Банк
+N2	Reference T2 wiki:2180281	Fitch Ratings
+A1	IsLink T2
+A2	TypeRel T2 Other

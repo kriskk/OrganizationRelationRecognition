@@ -1,0 +1,8 @@
+T1	Organization 0 6	Airbus
+T2	Organization 39 45	Boeing
+T3	Organization 124 139	Lockheed Martin
+N1	Reference T1 wiki:212269	Airbus
+N2	Reference T2 wiki:156398	Boeing
+N3	Reference T3 wiki:301268	Lockheed Martin
+A1	IsLink T2
+A2	IsLink T3

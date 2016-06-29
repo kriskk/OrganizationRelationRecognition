@@ -1,0 +1,21 @@
+T1	Organization 0 28	Infogrames Entertainment, SA
+T2	Organization 256 270	Ocean Software
+T3	Organization 410 429	Gremlin Interactive
+T4	Organization 579 587	Accolade
+T5	Organization 747 752	Atari
+T6	Organization 1063 1069	NASDAQ
+N1	Reference T1 wiki:3469859	Infogrames Entertainment, SA
+N2	Reference T2 wiki:2055563	Ocean Software
+N3	Reference T3 wiki:3591181	Gremlin Interactive
+N4	Reference T4 wiki:3475308	Accolade
+N5	Reference T5 wiki:308218	Atari
+N6	Reference T6 wiki:63813	NASDAQ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Subsidiary
+A7	TypeRel T3 Subsidiary
+A8	TypeRel T4 Subsidiary
+A9	TypeRel T5 Subsidiary

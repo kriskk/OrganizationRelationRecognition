@@ -1,0 +1,5 @@
+T1	Organization 0 15	Telenor Denmark
+T2	Organization 185 192	Telenor
+N1	Reference T1 wiki:787065	Telenor Denmark
+N2	Reference T2 wiki:321300	Telenor
+A1	IsLink T2

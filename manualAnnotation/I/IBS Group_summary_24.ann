@@ -1,0 +1,5 @@
+T1	Organization 0 9	IBS Group
+T2	Organization 215 221	Luxoft
+N1	Reference T1 wiki:345272	IBS Group
+N2	Reference T2 wiki:176126	Luxoft
+A1	TypeRel T2 Subsidiary

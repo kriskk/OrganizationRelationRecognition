@@ -1,0 +1,6 @@
+T1	Organization 0 8	QlikView
+T2	Organization 258 267	Tetra Pak
+N1	Reference T1 wiki:3706230	QlikView
+N2	Reference T2 wiki:285491	Tetra Pak
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

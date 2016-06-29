@@ -1,0 +1,6 @@
+T1	Organization 0 3	NEC
+T2	Organization 235 243	Sumitomo
+N1	Reference T1 wiki:232844	NEC
+N2	Reference T2 wiki:1813036	Sumitomo Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

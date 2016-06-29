@@ -1,0 +1,5 @@
+T1	Organization 0 8	Gillette
+T2	Organization 286 291	Braun
+N1	Reference T1 wiki:1155203	Gillette
+N2	Reference T2 wiki:934704	Braun
+A1	TypeRel T2 Subsidiary

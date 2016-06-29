@@ -1,0 +1,5 @@
+T1	Organization 0 8	Club Med
+T2	Organization 213 226	Robinson Club
+N1	Reference T1 wiki:1104437	Club Med
+N2	Reference T2 wiki:1705806	Robinson Club
+A1	IsLink T2

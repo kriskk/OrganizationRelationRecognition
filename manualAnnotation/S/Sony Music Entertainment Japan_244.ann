@@ -1,0 +1,8 @@
+T1	Organization 0 30	Sony Music Entertainment Japan
+T2	Organization 195 199	Sony
+T3	Organization 346 353	Aniplex
+N1	Reference T1 wiki:3103736	Sony Music Entertainment Japan
+N2	Reference T2 wiki:73019	Sony
+N3	Reference T3 wiki:1888311	Aniplex
+A1	IsLink T2
+A2	IsLink T3

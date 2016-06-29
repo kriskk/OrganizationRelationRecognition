@@ -1,0 +1,9 @@
+T1	Organization 0 12	Куйбышевазот
+T2	Organization 181 185	ТоАЗ
+T3	Organization 203 214	Трансаммиак
+N1	Reference T1 wiki:987301	Куйбышевазот
+N2	Reference T2 wiki:161128	ТоАЗ
+N3	Reference T3 wiki:1456017	Трансаммиак
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

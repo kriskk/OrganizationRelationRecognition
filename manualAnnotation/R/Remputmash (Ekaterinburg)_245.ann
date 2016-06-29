@@ -1,0 +1,6 @@
+T1	Organization 0 25	Ремпутьмаш (Екатеринбург)
+T2	Organization 198 208	Ремпутьмаш
+N1	Reference T1 wiki:2811412	Ремпутьмаш (Екатеринбург)
+N2	Reference T2 wiki:1745196	Ремпутьмаш
+A1	IsLink T2
+A2	TypeRel T2 Holder

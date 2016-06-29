@@ -1,0 +1,6 @@
+T1	Organization 0 21	ПИК (группа компаний)
+T2	Organization 345 363	ООО "Нафта Москва"
+N1	Reference T1 wiki:150428	ПИК (группа компаний)
+N2	Reference T2 wiki:167016	Нафта Москва
+A1	IsLink T2
+A2	TypeRel T2 Personnel

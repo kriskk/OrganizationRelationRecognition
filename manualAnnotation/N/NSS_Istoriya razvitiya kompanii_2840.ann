@@ -1,0 +1,5 @@
+T1	Organization 0 3	НСС
+T2	Organization 408 413	CBOSS
+N1	Reference T1 wiki:2093483	НСС
+N2	Reference T2 wiki:144923	CBOSS
+A1	TypeRel T2 Cooperator

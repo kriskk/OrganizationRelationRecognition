@@ -1,0 +1,5 @@
+T1	Organization 0 21	Carnival Cruise Lines
+T2	Organization 310 331	Norwegian Cruise Line
+N1	Reference T1 wiki:3219423	Carnival Cruise Lines
+N2	Reference T2 wiki:3372560	Norwegian Cruise Line
+A1	IsLink T2

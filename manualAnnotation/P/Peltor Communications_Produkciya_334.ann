@@ -1,0 +1,5 @@
+T1	Organization 0 21	Peltor Communications
+T2	Organization 243 245	3M
+N1	Reference T1 wiki:4212424	Peltor Communications
+N2	Reference T2 wiki:159044	3M
+A1	IsLink T2

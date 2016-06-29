@@ -1,0 +1,8 @@
+T1	Organization 0 52	Макеевский металлургический завод имени С. М. Кирова
+T2	Organization 309 315	Динамо
+T3	Organization 341 349	Скороход
+N1	Reference T1 wiki:2753590	Макеевский металлургический завод имени С. М. Кирова
+N2	Reference T2 wiki:1818022	Динамо (завод)
+N3	Reference T3 wiki:1609813	Скороход (фабрика)
+A1	IsLink T2
+A2	IsLink T3

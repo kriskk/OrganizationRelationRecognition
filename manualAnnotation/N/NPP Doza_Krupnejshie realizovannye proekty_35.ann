@@ -1,0 +1,5 @@
+T1	Organization 0 10	НПП «Доза»
+T2	Organization 229 253	концерна «Росэнергоатом»
+N1	Reference T1 wiki:2811131	НПП «Доза»
+N2	Reference T2 wiki:138779	Концерн Росэнергоатом
+A1	TypeRel T2 Cooperator

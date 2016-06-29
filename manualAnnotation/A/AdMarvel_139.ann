@@ -1,0 +1,5 @@
+T1	Organization 0 8	AdMarvel
+T2	Organization 224 238	Opera Software
+N1	Reference T1 wiki:3238822	AdMarvel
+N2	Reference T2 wiki:95896	Opera Software
+A1	IsLink T2

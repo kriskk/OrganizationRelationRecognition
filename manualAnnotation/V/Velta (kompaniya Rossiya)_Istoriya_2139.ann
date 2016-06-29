@@ -1,0 +1,6 @@
+T1	Organization 0 24	Велта (компания, Россия)
+T2	Organization 256 273	Форвард (Forward)
+N1	Reference T1 wiki:4427820	Велта (компания, Россия)
+N2	Reference T2 wiki:3317863	Forward (компания)
+A1	IsLink T2
+A2	TypeRel T2 Personnel

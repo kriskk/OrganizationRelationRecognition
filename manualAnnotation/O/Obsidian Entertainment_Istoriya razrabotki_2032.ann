@@ -1,0 +1,5 @@
+T1	Organization 0 22	Obsidian Entertainment
+T2	Organization 236 254	Black Isle Studios
+N1	Reference T1 wiki:501253	Obsidian Entertainment
+N2	Reference T2 wiki:85409	Black Isle Studios
+A1	IsLink T2

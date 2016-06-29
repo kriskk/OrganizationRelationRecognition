@@ -1,0 +1,9 @@
+T1	Organization 0 3	MAN
+T2	Organization 302 308	Scania
+T3	Organization 311 316	Volvo
+N1	Reference T1 wiki:42703	MAN
+N2	Reference T2 wiki:252348	Scania
+N3	Reference T3 wiki:387781	Volvo
+A2	IsLink T3
+A1	TypeRel T2 Competitor
+A3	TypeRel T3 Competitor

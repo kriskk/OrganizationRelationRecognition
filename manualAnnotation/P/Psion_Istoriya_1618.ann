@@ -1,0 +1,17 @@
+T1	Organization 0 5	Psion
+T2	Organization 198 203	Nokia
+T3	Organization 205 213	Ericsson
+T4	Organization 216 224	Motorola
+T5	Organization 450 454	Palm
+N1	Reference T1 wiki:353769	Psion
+N2	Reference T2 wiki:56405	Nokia
+N3	Reference T3 wiki:711402	Ericsson
+N4	Reference T4 wiki:134384	Motorola
+N5	Reference T5 wiki:128188	Palm (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator

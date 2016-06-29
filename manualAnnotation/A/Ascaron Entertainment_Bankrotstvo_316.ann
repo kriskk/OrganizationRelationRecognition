@@ -1,0 +1,8 @@
+T1	Organization 0 21	Ascaron Entertainment
+T2	Organization 213 226	Kalypso Media
+T3	Organization 521 532	Deep Silver
+N1	Reference T1 wiki:4117420	Ascaron Entertainment
+N2	Reference T2 wiki:4039457	Kalypso Media
+N3	Reference T3 wiki:2009804	Deep Silver
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,17 @@
+T1	Organization 0 20	Завод имени Лихачёва
+T2	Organization 305 313	Sinotruk
+T3	Organization 338 342	FIAT
+T4	Organization 360 370	DAF Trucks
+T5	Organization 523 534	Tata Motors
+N1	Reference T1 wiki:259988	Завод имени Лихачёва
+N2	Reference T2 wiki:3433242	Sinotruk
+N3	Reference T3 wiki:91784	FIAT
+N4	Reference T4 wiki:1570257	DAF Trucks
+N5	Reference T5 wiki:962083	Tata Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator

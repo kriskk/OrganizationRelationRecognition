@@ -1,0 +1,5 @@
+T1	Organization 0 29	Ball Aerospace & Technologies
+T2	Organization 241 245	Болл
+N1	Reference T1 wiki:2709093	Ball Aerospace & Technologies
+N2	Reference T2 wiki:942625	Ball (компания)
+A1	IsLink T2

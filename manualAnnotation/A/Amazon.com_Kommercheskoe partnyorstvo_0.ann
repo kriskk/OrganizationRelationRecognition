@@ -1,0 +1,8 @@
+T1	Organization 0 10	Amazon.com
+T2	Organization 194 203	DC Comics
+T3	Organization 461 475	Barnes & Noble
+N1	Reference T1 wiki:103623	Amazon.com
+N2	Reference T2 wiki:1742414	DC Comics
+N3	Reference T3 wiki:3395931	Barnes & Noble
+A1	IsLink T2
+A2	IsLink T3

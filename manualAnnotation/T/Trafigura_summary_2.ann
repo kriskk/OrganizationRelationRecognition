@@ -1,0 +1,11 @@
+T1	Organization 0 9	Trafigura
+T2	Organization 190 202	Marc Rich AG
+T3	Organization 341 349	Glencore
+T4	Organization 352 357	Vitol
+N1	Reference T1 wiki:1703395	Trafigura
+N2	Reference T2 wiki:372443	Marc Rich AG
+N3	Reference T3 wiki:372443	Glencore
+N4	Reference T4 wiki:1703441	Vitol
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

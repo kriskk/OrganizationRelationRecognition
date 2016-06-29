@@ -1,0 +1,6 @@
+T1	Organization 0 14	Peabody Energy
+T2	Organization 176 189	Ernst & Young
+N1	Reference T1 wiki:1679982	Peabody Energy
+N2	Reference T2 wiki:385728	Ernst & Young
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

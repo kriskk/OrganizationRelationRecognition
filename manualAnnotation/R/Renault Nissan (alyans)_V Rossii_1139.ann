@@ -1,0 +1,9 @@
+T1	Organization 0 23	Renault Nissan (альянс)
+T2	Organization 298 304	Nissan
+T3	Organization 480 487	АВТОВАЗ
+N1	Reference T1 wiki:3937979	Renault Nissan (альянс)
+N2	Reference T2 wiki:159586	Nissan
+N3	Reference T3 wiki:139276	АВТОВАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary

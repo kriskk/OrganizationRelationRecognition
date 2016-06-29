@@ -1,0 +1,10 @@
+T1	Organization 0 33	Ижевский машиностроительный завод
+T2	Organization 293 300	Renault
+T3	Organization 748 754	ИжАвто
+N1	Reference T1 wiki:963537	Ижевский машиностроительный завод
+N2	Reference T2 wiki:586472	Renault
+N3	Reference T3 wiki:39731	ИжАвто
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Holder

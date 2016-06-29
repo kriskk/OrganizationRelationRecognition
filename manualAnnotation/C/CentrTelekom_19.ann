@@ -1,0 +1,5 @@
+T1	Organization 0 12	ЦентрТелеком
+T2	Organization 177 187	Ростелеком
+N1	Reference T1 wiki:142992	ЦентрТелеком
+N2	Reference T2 wiki:145844	Ростелеком
+A1	IsLink T2

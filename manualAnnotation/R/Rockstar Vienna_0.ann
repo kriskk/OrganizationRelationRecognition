@@ -1,0 +1,5 @@
+T1	Organization 0 15	Rockstar Vienna
+T2	Organization 89 103	Rockstar Games
+N1	Reference T1 wiki:2329608	Rockstar Vienna
+N2	Reference T2 wiki:650156	Rockstar Games
+A1	TypeRel T2 Holder

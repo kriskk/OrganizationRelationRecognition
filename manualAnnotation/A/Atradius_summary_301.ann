@@ -1,0 +1,5 @@
+T1	Organization 0 8	Atradius
+T2	Organization 284 301	Стандард энд Пурз
+N1	Reference T1 wiki:3802233	Atradius
+N2	Reference T2 wiki:198286	Standard & Poor's
+A1	IsLink T2

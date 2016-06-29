@@ -1,0 +1,5 @@
+T1	Organization 0 8	AzSamand
+T2	Organization 213 223	Иран Ходро
+N1	Reference T1 wiki:3132415	AzSamand
+N2	Reference T2 wiki:967461	Иран Ходро
+A1	IsLink T2

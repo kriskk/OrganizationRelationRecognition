@@ -1,0 +1,6 @@
+T1	Organization 0 8	Гидромаш
+T2	Organization 220 233	Мерседес-Бенц
+N1	Reference T1 wiki:661817	Гидромаш
+N2	Reference T2 wiki:40401	Мерседес-Бенц
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 18	Jupiter (компания)
+T2	Organization 167 175	Nintendo
+N1	Reference T1 wiki:3686023	Jupiter (компания)
+N2	Reference T2 wiki:202486	Nintendo
+A1	TypeRel T2 Cooperator

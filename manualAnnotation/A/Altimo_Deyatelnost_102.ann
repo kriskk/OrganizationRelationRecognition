@@ -1,0 +1,11 @@
+T1	Organization 0 6	Altimo
+T2	Organization 187 201	VimpelCom Ltd.
+T3	Organization 229 237	Киевстар
+T4	Organization 311 319	Turkcell
+N1	Reference T1 wiki:258465	Altimo
+N2	Reference T2 wiki:2492978	VimpelCom Ltd.
+N3	Reference T3 wiki:88220	Киевстар
+N4	Reference T4 wiki:177253	Turkcell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

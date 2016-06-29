@@ -1,0 +1,5 @@
+T1	Organization 0 4	Rado
+T2	Organization 168 189	The Swatch Group Ltd.
+N1	Reference T1 wiki:1052474	Rado
+N2	Reference T2 wiki:214233	Swatch Group
+A1	TypeRel T2 Holder

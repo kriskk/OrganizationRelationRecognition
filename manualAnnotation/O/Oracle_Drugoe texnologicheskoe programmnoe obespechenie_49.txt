@@ -1,0 +1,8 @@
+Oracle
+@Продукты и услуги
+@Технологическое программное обеспечение
+@Другое технологическое программное обеспечение
+21074,20,26342,49
+
+Также в продуктовой линейке корпорации присутствуют следующие технологические продукты:
+ Beehive, пришедший на смену Collaboration Suite — средство обеспечения совместной работы, основанное на Oracle Database и Fusion Middleware. В отличие от Collaboration Suite имеет не модульную архитектуру из разрозненных серверов (Messaging Server, Instant Messaging Server, Calendar Server, Mobile Synchronization Server), а монолитную;

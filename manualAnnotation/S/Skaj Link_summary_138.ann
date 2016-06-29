@@ -1,0 +1,8 @@
+T1	Organization 0 9	Скай Линк
+T2	Organization 317 331	Дельта Телеком
+T3	Organization 441 446	Сонет
+N1	Reference T1 wiki:145535	Скай Линк
+N2	Reference T2 wiki:1685534	Дельта Телеком
+N3	Reference T3 wiki:1485047	Сонет (сотовый оператор)
+A1	IsLink T2
+A2	IsLink T3

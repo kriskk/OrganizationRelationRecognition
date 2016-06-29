@@ -1,0 +1,6 @@
+T1	Organization 0 9	Parallels
+T2	Organization 242 248	SWsoft
+N1	Reference T1 wiki:1356173	Parallels
+N2	Reference T2 wiki:1356173	SWsoft
+A1	IsLink T2
+A2	TypeRel T2 Holder

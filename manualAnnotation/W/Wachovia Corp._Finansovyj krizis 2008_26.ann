@@ -1,0 +1,5 @@
+T1	Organization 0 14	Wachovia Corp.
+T2	Organization 207 218	Wells Fargo
+N1	Reference T1 wiki:785079	Wachovia Corp.
+N2	Reference T2 wiki:786087	Wells Fargo
+A1	TypeRel T2 Merge

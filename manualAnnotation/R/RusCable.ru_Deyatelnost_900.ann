@@ -1,0 +1,5 @@
+T1	Organization 0 11	RusCable.ru
+T2	Organization 236 239	РБК
+N1	Reference T1 wiki:1635399	RusCable.ru
+N2	Reference T2 wiki:391746	РБК
+A1	IsLink T2

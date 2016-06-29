@@ -1,0 +1,5 @@
+T1	Organization 0 33	Кременчугский автосборочный завод
+T2	Organization 206 222	Great Wall Hover
+N1	Reference T1 wiki:3337915	Кременчугский автосборочный завод
+N2	Reference T2 wiki:394622	Great Wall Motors
+A1	TypeRel T2 Cooperator

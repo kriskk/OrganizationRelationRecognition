@@ -1,0 +1,6 @@
+T1	Organization 0 3	HKS
+T2	Organization 80 100	Yamaha Motor Company
+N1	Reference T1 wiki:3284586	HKS
+N2	Reference T2 wiki:696518	Yamaha
+A1	IsLink T2
+A2	TypeRel T2 Personnel

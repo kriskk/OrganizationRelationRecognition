@@ -1,0 +1,10 @@
+T1	Organization 0 5	SAGEM
+T2	Organization 232 238	Snecma
+T3	Organization 258 264	SAFRAN
+N1	Reference T1 wiki:65325	SAGEM
+N2	Reference T2 wiki:776933	Snecma
+N3	Reference T3 wiki:1015576	SAFRAN
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Merge
+A4	TypeRel T3 Holder

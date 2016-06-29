@@ -1,0 +1,9 @@
+T1	Organization 0 18	Газпромбанк лизинг
+T2	Organization 189 199	Эксперт РА
+T3	Organization 354 364	Эксперт РА
+N1	Reference T1 wiki:4144328	Газпромбанк лизинг
+N2	Reference T2 wiki:363296	Эксперт РА
+N3	Reference T3 wiki:363296	Эксперт РА
+A2	IsLink T3
+A1	TypeRel T2 Other
+A3	TypeRel T3 Other

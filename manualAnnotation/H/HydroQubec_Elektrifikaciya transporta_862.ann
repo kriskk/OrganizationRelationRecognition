@@ -1,0 +1,6 @@
+T1	Organization 0 12	Hydro-Québec
+T2	Organization 326 343	Mitsubishi Motors
+N1	Reference T1 wiki:1817394	Hydro-Québec
+N2	Reference T2 wiki:423257	Mitsubishi Motors
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

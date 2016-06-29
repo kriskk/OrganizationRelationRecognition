@@ -1,0 +1,9 @@
+T1	Organization 0 16	Качканарский ГОК
+T2	Organization 67 108	Нижнетагильский металлургический комбинат
+T3	Organization 140 183	Западно-Сибирский металлургический комбинат
+N1	Reference T1 wiki:153191	Качканарский ГОК
+N2	Reference T2 wiki:154730	Нижнетагильский металлургический комбинат
+N3	Reference T3 wiki:35331	Западно-Сибирский металлургический комбинат
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

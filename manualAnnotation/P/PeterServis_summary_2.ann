@@ -1,0 +1,58 @@
+T1	Organization 0 12	Петер-Сервис
+T2	Organization 319 329	Ростелеком
+T3	Organization 333 341	СкайЛинк
+T4	Organization 345 352	МегаФон
+T5	Organization 381 411	Межрегиональный ТранзитТелеком
+T6	Organization 415 428	Сумма Телеком
+T7	Organization 497 508	Связьинвест
+T8	Organization 533 541	Киевстар
+T9	Organization 543 551	Vodafone
+T10	Organization 563 571	Turkcell
+T11	Organization 704 707	IBM
+T12	Organization 709 714	Intel
+T13	Organization 716 718	HP
+T14	Organization 720 726	Oracle
+T15	Organization 728 744	Sun Microsystems
+N1	Reference T1 wiki:1870153	Петер-Сервис
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:145535	СкайЛинк
+N4	Reference T4 wiki:70933	МегаФон
+N5	Reference T5 wiki:638758	Межрегиональный ТранзитТелеком
+N6	Reference T6 wiki:2589483	Сумма Телеком
+N7	Reference T7 wiki:145705	Связьинвест
+N8	Reference T8 wiki:88220	Киевстар
+N9	Reference T9 wiki:213703	Vodafone
+N10	Reference T10 wiki:177253	Turkcell
+N11	Reference T11 wiki:11078	IBM
+N12	Reference T12 wiki:762172	Intel
+N13	Reference T13 wiki:89988	Hewlett-Packard
+N14	Reference T14 wiki:129227	Oracle
+N15	Reference T15 wiki:4777	Sun Microsystems
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	TypeRel T2 Cooperator
+A16	TypeRel T3 Cooperator
+A17	TypeRel T4 Cooperator
+A18	TypeRel T5 Cooperator
+A19	TypeRel T6 Cooperator
+A20	TypeRel T7 Cooperator
+A21	TypeRel T8 Cooperator
+A22	TypeRel T9 Cooperator
+A23	TypeRel T10 Cooperator
+A24	TypeRel T11 Cooperator
+A25	TypeRel T12 Cooperator
+A26	TypeRel T13 Cooperator
+A27	TypeRel T14 Cooperator
+A28	TypeRel T15 Cooperator

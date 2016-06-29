@@ -1,0 +1,5 @@
+T1	Organization 0 19	Rockwell Automation
+T2	Organization 153 159	Boeing
+N1	Reference T1 wiki:743730	Rockwell Automation
+N2	Reference T2 wiki:156398	Boeing
+A1	IsLink T2

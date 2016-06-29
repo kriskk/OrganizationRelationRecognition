@@ -1,0 +1,6 @@
+T1	Organization 0 11	EA Phenomic
+T2	Organization 81 83	EA
+N1	Reference T1 wiki:2309533	EA Phenomic
+N2	Reference T2 wiki:323143	EA
+A1	IsLink T2
+A2	TypeRel T2 Holder

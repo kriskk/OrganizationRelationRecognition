@@ -1,0 +1,24 @@
+Paccar
+@Дочерние предприятия
+616,0
+
+
+Дочерние предприятия
+
+ Kenworth
+	 Kenworth Австралия
+		 Kenworth Mexicana Мексика
+	 Peterbilt
+	 DAF Trucks
+	 Leyland Trucks
+	 Winch (Braden, Carco and Germatic)
+	 PacLease
+	 Paccar Parts
+	 Paccar Financial Corp
+	 Paccar International
+	 Paccar ITD (Information Technology Division)
+	 Dynacraft
+	 Paccar Technical Center
+	Так же носителями двигателей PACCAR являются автомобили GINAF,Автобусы BOVA и VDL .
+
+

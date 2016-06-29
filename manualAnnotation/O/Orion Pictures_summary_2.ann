@@ -1,0 +1,10 @@
+T1	Organization 0 14	Orion Pictures
+T2	Organization 245 257	Warner Bros.
+T3	Organization 288 302	United Artists
+N1	Reference T1 wiki:4265842	Orion Pictures
+N2	Reference T2 wiki:272386	Warner Bros.
+N3	Reference T3 wiki:1450113	United Artists
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Personnel

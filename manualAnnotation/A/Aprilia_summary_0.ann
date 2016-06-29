@@ -1,0 +1,5 @@
+T1	Organization 0 7	Aprilia
+T2	Organization 105 112	Piaggio
+N1	Reference T1 wiki:3375640	Aprilia
+N2	Reference T2 wiki:981321	Piaggio
+A1	IsLink T2

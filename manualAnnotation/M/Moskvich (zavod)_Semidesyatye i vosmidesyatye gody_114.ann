@@ -1,0 +1,5 @@
+T1	Organization 0 15	Москвич (завод)
+T2	Organization 336 340	Фиат
+N1	Reference T1 wiki:120499	Москвич (завод)
+N2	Reference T2 wiki:91784	Фиат
+A1	TypeRel T2 Cooperator

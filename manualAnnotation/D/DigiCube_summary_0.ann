@@ -1,0 +1,5 @@
+T1	Organization 0 8	DigiCube
+T2	Organization 109 119	Square Co.
+N1	Reference T1 wiki:3895077	DigiCube
+N2	Reference T2 wiki:278305	Square Co.
+A1	IsLink T2

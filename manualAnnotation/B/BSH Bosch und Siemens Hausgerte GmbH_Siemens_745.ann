@@ -1,0 +1,8 @@
+T1	Organization 0 37	BSH Bosch und Siemens Hausgeräte GmbH
+T2	Organization 264 283	Siemens & Halske AG
+T3	Organization 341 366	Siemens-Schuckertwerke AG
+N1	Reference T1 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
+N2	Reference T2 wiki:762874	Siemens & Halske AG
+N3	Reference T3 wiki:198667	Сименс-Шуккерт
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 4	Aiwa
+T2	Organization 259 263	Sony
+T3	Organization 362 378	Sony Corporation
+N1	Reference T1 wiki:3741150	Aiwa
+N2	Reference T2 wiki:73019	Sony Corporation
+N3	Reference T3 wiki:73019	Sony Corporation
+A1	IsLink T2
+A2	IsLink T3

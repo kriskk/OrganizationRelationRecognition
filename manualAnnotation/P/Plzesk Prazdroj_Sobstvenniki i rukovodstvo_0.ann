@@ -1,0 +1,6 @@
+T1	Organization 0 17	Plzeňský Prazdroj
+T2	Organization 117 130	SABMiller plc
+N1	Reference T1 wiki:1594472	Plzeňský Prazdroj
+N2	Reference T2 wiki:181056	SABMiller
+A1	IsLink T2
+A2	TypeRel T2 Holder

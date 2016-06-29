@@ -1,0 +1,5 @@
+T1	Organization 0 12	Сеиль Трэвел
+T2	Organization 351 374	Карлсон Вагонлит Трэвел
+N1	Reference T1 wiki:3506681	Сеиль Трэвел
+N2	Reference T2 wiki:3506700	Карлсон Вагонлит Трэвел
+A1	IsLink T2

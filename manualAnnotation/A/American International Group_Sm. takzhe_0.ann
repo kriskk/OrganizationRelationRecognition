@@ -1,0 +1,5 @@
+T1	Organization 0 28	American International Group
+T2	Organization 60 65	Aetna
+N1	Reference T1 wiki:158473	American International Group
+N2	Reference T2 wiki:1910664	Aetna
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 22	Giant Records (Warner)
+T2	Organization 127 147	Warner Bros. Records
+N1	Reference T1 wiki:2770462	Giant Records (Warner)
+N2	Reference T2 wiki:197246	Warner Bros. Records
+A1	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 25	Завод пусковых двигателей
+T2	Organization 245 273	Липецкого тракторного завода
+N1	Reference T1 wiki:1641337	Завод пусковых двигателей
+N2	Reference T2 wiki:1095862	Липецкий трактор
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 31	Горьковский автомобильный завод
+T2	Organization 309 318	LDV Group
+N1	Reference T1 wiki:25060	Горьковский автомобильный завод
+N2	Reference T2 wiki:1791283	LDV Group
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

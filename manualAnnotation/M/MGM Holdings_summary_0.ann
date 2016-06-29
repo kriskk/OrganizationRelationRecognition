@@ -1,0 +1,13 @@
+T1	Organization 0 12	MGM Holdings
+T2	Organization 131 150	Metro-Goldwyn-Mayer
+T3	Organization 341 357	Sony Corporation
+T4	Organization 766 785	Metro-Goldwyn-Mayer
+N1	Reference T1 wiki:3947611	MGM Holdings
+N2	Reference T2 wiki:208697	Metro-Goldwyn-Mayer
+N3	Reference T3 wiki:73019	Sony Corporation
+N4	Reference T4 wiki:208697	Metro-Goldwyn-Mayer
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Holder

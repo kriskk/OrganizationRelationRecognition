@@ -1,0 +1,8 @@
+T1	Organization 0 16	Silicon Graphics
+T2	Organization 271 277	Google
+T3	Organization 447 453	NASDAQ
+N1	Reference T1 wiki:136151	Silicon Graphics
+N2	Reference T2 wiki:265	Google (компания)
+N3	Reference T3 wiki:63813	NASDAQ
+A1	IsLink T2
+A2	IsLink T3

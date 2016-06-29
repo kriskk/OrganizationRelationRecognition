@@ -1,0 +1,5 @@
+T1	Organization 0 6	Нетрис
+T2	Organization 168 180	Казахтелеком
+N1	Reference T1 wiki:1390809	Нетрис
+N2	Reference T2 wiki:702503	Казахтелеком
+A1	IsLink T2

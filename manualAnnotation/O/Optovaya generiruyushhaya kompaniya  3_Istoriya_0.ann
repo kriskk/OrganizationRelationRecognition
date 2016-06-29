@@ -1,0 +1,5 @@
+T1	Organization 0 33	Оптовая генерирующая компания № 3
+T2	Organization 169 177	Интеррос
+N1	Reference T1 wiki:189290	Оптовая генерирующая компания № 3
+N2	Reference T2 wiki:147366	Интеррос
+A1	TypeRel T2 Cooperator

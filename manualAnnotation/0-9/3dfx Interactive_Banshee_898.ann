@@ -1,0 +1,11 @@
+T1	Organization 0 16	3dfx Interactive
+T2	Organization 200 206	Matrox
+T3	Organization 208 214	Nvidia
+T4	Organization 217 220	ATI
+N1	Reference T1 wiki:239320	3dfx Interactive
+N2	Reference T2 wiki:278575	Matrox
+N3	Reference T3 wiki:1548156	Nvidia
+N4	Reference T4 wiki:1155771	ATI
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

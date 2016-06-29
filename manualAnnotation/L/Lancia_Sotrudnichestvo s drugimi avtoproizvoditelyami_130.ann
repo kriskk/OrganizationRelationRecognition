@@ -1,0 +1,6 @@
+T1	Organization 0 6	Lancia
+T2	Organization 245 249	Saab
+N1	Reference T1 wiki:1503078	Lancia
+N2	Reference T2 wiki:301314	Saab Automobile AB
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 8	LeaseWeb
+T2	Organization 317 325	Heineken
+T3	Organization 327 336	Starbucks
+N1	Reference T1 wiki:4346485	LeaseWeb
+N2	Reference T2 wiki:248758	Heineken
+N3	Reference T3 wiki:205133	Starbucks
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

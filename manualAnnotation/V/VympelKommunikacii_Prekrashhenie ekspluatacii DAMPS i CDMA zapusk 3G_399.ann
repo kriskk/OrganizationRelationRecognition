@@ -1,0 +1,14 @@
+T1	Organization 0 19	Вымпел-Коммуникации
+T2	Organization 317 331	Голден Телеком
+T3	Organization 336 351	Корбина Телеком
+T4	Organization 470 476	Huawei
+N1	Reference T1 wiki:70736	Вымпел-Коммуникации
+N2	Reference T2 wiki:2196953	Голден Телеком
+N3	Reference T3 wiki:128480	Корбина Телеком
+N4	Reference T4 wiki:908840	Huawei
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Cooperator

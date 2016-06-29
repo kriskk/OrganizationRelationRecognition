@@ -1,0 +1,11 @@
+T1	Organization 0 23	Carlson Wagonlit Travel
+T2	Organization 311 316	Accor
+T3	Organization 361 366	Accor
+T4	Organization 648 662	JPMorgan Chase
+N1	Reference T1 wiki:3506700	Carlson Wagonlit Travel
+N2	Reference T2 wiki:176595	Accor
+N3	Reference T3 wiki:176595	Accor
+N4	Reference T4 wiki:374499	JPMorgan Chase
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

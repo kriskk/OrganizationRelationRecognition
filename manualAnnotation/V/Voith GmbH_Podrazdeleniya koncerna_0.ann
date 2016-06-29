@@ -1,0 +1,10 @@
+T1	Organization 0 10	Voith GmbH
+T2	Organization 83 102	Voith Siemens Hydro
+T3	Organization 105 116	Voith Turbo
+N1	Reference T1 wiki:1339842	Voith GmbH
+N2	Reference T2 wiki:572169	Voith Siemens Hydro Power Generation
+N3	Reference T3 wiki:1341331	Voith Turbo
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

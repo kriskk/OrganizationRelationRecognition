@@ -1,0 +1,5 @@
+T1	Organization 0 13	Pernod Ricard
+T2	Organization 256 270	Baskin Robbins
+N1	Reference T1 wiki:202441	Pernod Ricard
+N2	Reference T2 wiki:2575798	Baskin Robbins
+A1	IsLink T2

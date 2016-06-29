@@ -1,0 +1,10 @@
+T1	Organization 0 17	Ultra Electronics
+T2	Organization 352 359	Санрайз
+T3	Organization 381 387	Юлмарт
+N1	Reference T1 wiki:594783	Ultra Electronics
+N2	Reference T2 wiki:1501664	Санрайз
+N3	Reference T3 wiki:3325913	Юлмарт
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

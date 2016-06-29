@@ -1,0 +1,5 @@
+T1	Organization 0 5	ИНМАН
+T2	Organization 246 258	Palfinger AG
+N1	Reference T1 wiki:2851833	ИНМАН
+N2	Reference T2 wiki:806778	Palfinger
+A1	TypeRel T2 Holder

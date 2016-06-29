@@ -1,0 +1,9 @@
+T1	Organization 0 38	Объединённые машиностроительные заводы
+T2	Organization 395 407	ЗиО-Подольск
+T3	Organization 416 432	Атомстройэкспорт
+N1	Reference T1 wiki:149170	Объединённые машиностроительные заводы
+N2	Reference T2 wiki:864177	ЗиО-Подольск
+N3	Reference T3 wiki:149194	Атомстройэкспорт
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

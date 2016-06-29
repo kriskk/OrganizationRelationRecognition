@@ -1,0 +1,17 @@
+T1	Organization 0 18	Стройгазконсалтинг
+T2	Organization 274 281	Газпром
+T3	Organization 307 317	Транснефть
+T4	Organization 326 332	Лукойл
+T5	Organization 335 349	Nord Stream AG
+T6	Organization 432 463	Российские автомобильные дороги
+N1	Reference T1 wiki:1488313	Стройгазконсалтинг
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:147540	Транснефть
+N4	Reference T4 wiki:59354	Лукойл
+N5	Reference T5 wiki:322571	Nord Stream AG
+N6	Reference T6 wiki:1886325	Российские автомобильные дороги
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

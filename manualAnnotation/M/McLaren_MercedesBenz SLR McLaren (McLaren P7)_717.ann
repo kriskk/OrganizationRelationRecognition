@@ -1,0 +1,5 @@
+T1	Organization 0 7	McLaren
+T2	Organization 243 256	Mercedes-Benz
+N1	Reference T1 wiki:167783	McLaren
+N2	Reference T2 wiki:40401	Mercedes-Benz
+A1	TypeRel T2 Cooperator

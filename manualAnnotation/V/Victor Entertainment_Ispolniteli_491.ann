@@ -1,0 +1,5 @@
+T1	Organization 0 20	Victor Entertainment
+T2	Organization 203 214	Pony Canyon
+N1	Reference T1 wiki:1061465	Victor Entertainment
+N2	Reference T2 wiki:3292342	Pony Canyon
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 36	Никопольский краностроительный завод
+T2	Organization 245 277	Ржевский краностроительный завод
+N1	Reference T1 wiki:2053078	Никопольский краностроительный завод
+N2	Reference T2 wiki:2545828	Ржевский краностроительный завод
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

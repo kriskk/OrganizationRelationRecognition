@@ -1,0 +1,11 @@
+T1	Organization 0 15	Бука (компания)
+T2	Organization 218 222	Sega
+T3	Organization 224 232	Nintendo
+T4	Organization 234 238	Sony
+N1	Reference T1 wiki:367355	Бука (компания)
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:202486	Nintendo
+N4	Reference T4 wiki:73019	Sony
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

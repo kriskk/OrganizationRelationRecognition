@@ -1,0 +1,5 @@
+T1	Organization 0 7	Налогия
+T2	Organization 331 340	Microsoft
+N1	Reference T1 wiki:3333647	Налогия
+N2	Reference T2 wiki:11987	Microsoft
+A1	TypeRel T2 Cooperator

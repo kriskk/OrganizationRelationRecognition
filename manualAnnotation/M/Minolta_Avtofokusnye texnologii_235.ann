@@ -1,0 +1,6 @@
+T1	Organization 0 7	Minolta
+T2	Organization 300 309	Honeywell
+N1	Reference T1 wiki:286279	Minolta
+N2	Reference T2 wiki:94822	Honeywell
+A1	IsLink T2
+A2	TypeRel T2 Other

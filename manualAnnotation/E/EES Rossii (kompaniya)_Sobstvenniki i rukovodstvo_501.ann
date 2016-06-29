@@ -1,0 +1,22 @@
+T1	Organization 0 21	ЕЭС России (компания)
+T2	Organization 260 284	ЗАО «ИНГ Банк (Евразия)»
+T3	Organization 396 434	ЗАО «Депозитарно-клиринговая компания»
+T4	Organization 544 551	Газпром
+T5	Organization 564 581	Норильский никель
+T6	Organization 621 625	СУЭК
+N1	Reference T1 wiki:1432138	ЕЭС России (компания)
+N2	Reference T2 wiki:555591	ING Groep N.V.
+N3	Reference T3 wiki:521857	Депозитарно-клиринговая компания
+N4	Reference T4 wiki:44754	Газпром
+N5	Reference T5 wiki:73395	Норильский никель
+N6	Reference T6 wiki:162787	СУЭК
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder
+A7	TypeRel T3 Holder
+A8	TypeRel T4 Holder
+A9	TypeRel T5 Holder
+A10	TypeRel T6 Holder

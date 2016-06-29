@@ -1,0 +1,5 @@
+T1	Organization 0 41	Центральное телевидение Гостелерадио СССР
+T2	Organization 300 303	ВИD
+N1	Reference T1 wiki:772734	Центральное телевидение Гостелерадио СССР
+N2	Reference T2 wiki:691511	ВИD
+A1	IsLink T2

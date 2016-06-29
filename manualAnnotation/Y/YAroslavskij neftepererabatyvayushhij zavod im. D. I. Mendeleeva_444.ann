@@ -1,0 +1,6 @@
+T1	Organization 0 60	Ярославский нефтеперерабатывающий завод им. Д. И. Менделеева
+T2	Organization 276 285	Славнефть
+N1	Reference T1 wiki:1732330	Ярославский нефтеперерабатывающий завод им. Д. И. Менделеева
+N2	Reference T2 wiki:205107	Славнефть
+A1	IsLink T2
+A2	TypeRel T2 Holder

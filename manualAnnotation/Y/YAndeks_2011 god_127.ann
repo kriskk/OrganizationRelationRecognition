@@ -1,0 +1,6 @@
+T1	Organization 0 6	Яндекс
+T2	Organization 291 297	NASDAQ
+N1	Reference T1 wiki:9744	Яндекс
+N2	Reference T2 wiki:63813	NASDAQ
+A1	IsLink T2
+A2	TypeRel T2 Other

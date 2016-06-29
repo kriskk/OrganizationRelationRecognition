@@ -1,0 +1,6 @@
+T1	Organization 0 5	Vertu
+T2	Organization 96 101	Nokia
+N1	Reference T1 wiki:281232	Vertu
+N2	Reference T2 wiki:56405	Nokia
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 15	Корпорация AEON
+T2	Organization 132 140	Новапорт
+N1	Reference T1 wiki:2696279	Корпорация AEON
+N2	Reference T2 wiki:868246	Новапорт
+A1	TypeRel T2 Subsidiary

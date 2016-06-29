@@ -1,0 +1,5 @@
+T1	Organization 0 16	Атомредметзолото
+T2	Organization 135 149	Атомэнергопром
+N1	Reference T1 wiki:1402137	Атомредметзолото
+N2	Reference T2 wiki:1402114	Атомэнергопром
+A1	IsLink T2

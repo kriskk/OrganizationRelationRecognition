@@ -1,0 +1,10 @@
+T1	Organization 0 18	United Front Games
+T2	Organization 259 286	Sony Computer Entertainment
+T3	Organization 556 570	Media Molecule
+N1	Reference T1 wiki:4383006	United Front Games
+N2	Reference T2 wiki:1454994	Sony Computer Entertainment
+N3	Reference T3 wiki:2502541	Media Molecule
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

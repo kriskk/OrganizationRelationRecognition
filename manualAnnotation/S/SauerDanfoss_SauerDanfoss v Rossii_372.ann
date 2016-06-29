@@ -1,0 +1,14 @@
+T1	Organization 0 13	Sauer-Danfoss
+T2	Organization 283 310	концерн «Тракторные заводы»
+T3	Organization 312 366	ЗАО «Петербургский тракторный завод» (Кировский завод)
+T4	Organization 466 490	Минский тракторный завод
+T5	Organization 492 497	БЕЛАЗ
+N1	Reference T1 wiki:2036979	Sauer-Danfoss
+N2	Reference T2 wiki:165385	Тракторные заводы
+N3	Reference T3 wiki:208146	Кировский завод (предприятие, Санкт-Петербург)
+N4	Reference T4 wiki:103703	Минский тракторный завод
+N5	Reference T5 wiki:104850	БЕЛАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

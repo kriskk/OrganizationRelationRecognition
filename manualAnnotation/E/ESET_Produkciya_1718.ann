@@ -1,0 +1,5 @@
+T1	Organization 0 4	ESET
+T2	Organization 314 319	Intel
+N1	Reference T1 wiki:1840625	ESET
+N2	Reference T2 wiki:762172	Intel
+A1	IsLink T2

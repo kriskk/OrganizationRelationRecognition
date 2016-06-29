@@ -1,0 +1,5 @@
+T1	Organization 0 23	Мельница (кинокомпания)
+T2	Organization 247 259	Мастер-фильм
+N1	Reference T1 wiki:372456	Мельница (кинокомпания)
+N2	Reference T2 wiki:1910726	Мастер-фильм
+A1	IsLink T2

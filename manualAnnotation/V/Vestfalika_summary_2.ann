@@ -1,0 +1,6 @@
+T1	Organization 0 10	Вестфалика
+T2	Organization 211 223	Обувь России
+N1	Reference T1 wiki:2832268	Вестфалика
+N2	Reference T2 wiki:1378604	Обувь России (группа компаний)
+A1	IsLink T2
+A2	TypeRel T2 Holder

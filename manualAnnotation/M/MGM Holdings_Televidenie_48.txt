@@ -1,0 +1,11 @@
+MGM Holdings
+@Группы компаний, которыми владеет и управляет ''MGM''
+@Телевидение
+1230,253,48
+
+	MGM International Television Distribution
+	MGM Networks Inc.
+	MGM Channel (MGM HD)
+		THIS Network LLC (Совместное предприятие с Weigel Broadcasting)
+		Epix (Совместное предприятие с  Viacom & Lions Gate Entertainment)
+

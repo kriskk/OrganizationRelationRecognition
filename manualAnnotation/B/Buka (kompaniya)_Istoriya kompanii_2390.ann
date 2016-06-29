@@ -1,0 +1,5 @@
+T1	Organization 0 15	Бука (компания)
+T2	Organization 220 222	1C
+N1	Reference T1 wiki:367355	Бука (компания)
+N2	Reference T2 wiki:34936	1C
+A1	TypeRel T2 Subsidiary

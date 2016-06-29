@@ -1,0 +1,9 @@
+T1	Organization 0 43	Западно-Сибирский металлургический комбинат
+T2	Organization 92 104	Евразхолдинг
+T3	Organization 174 186	Евразхолдинг
+N1	Reference T1 wiki:35331	Западно-Сибирский металлургический комбинат
+N2	Reference T2 wiki:77382	Евразхолдинг
+N3	Reference T3 wiki:77382	Евразхолдинг
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

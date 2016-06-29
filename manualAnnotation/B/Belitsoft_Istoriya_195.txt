@@ -1,0 +1,5 @@
+Belitsoft
+@История
+625,195
+
+ Благодаря опыту работы с системой управления контентом Joomla!, компания создала систему дистанционного обучения (СДО) JoomlaLMS. Позднее появившаяся платформа Microsoft SharePoint была использована Belitsoft для создания второй СДО SharePointLMS для компании ElearningForce International.

@@ -1,0 +1,11 @@
+T1	Organization 0 15	Крошка-картошка
+T2	Organization 58 68	McDonald’s
+T3	Organization 71 77	Subway
+T4	Organization 80 91	Burger King
+N1	Reference T1 wiki:1716955	Крошка-картошка
+N2	Reference T2 wiki:3425	McDonald’s
+N3	Reference T3 wiki:463082	Subway (сеть ресторанов)
+N4	Reference T4 wiki:196541	Burger King
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

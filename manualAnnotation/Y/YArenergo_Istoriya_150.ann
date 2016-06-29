@@ -1,0 +1,13 @@
+T1	Organization 0 8	Ярэнерго
+T2	Organization 207 234	Ярославского шинного завода
+T3	Organization 318 347	Ярославского моторного завода
+T4	Organization 432 478	Новоярославского нефтеперерабатывающего завода
+N1	Reference T1 wiki:2694016	Ярэнерго
+N2	Reference T2 wiki:312699	Ярославский шинный завод
+N3	Reference T3 wiki:916530	Ярославский моторный завод
+N4	Reference T4 wiki:1731070	Новоярославский нефтеперерабатывающий завод
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

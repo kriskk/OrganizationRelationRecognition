@@ -1,0 +1,8 @@
+T1	Organization 0 6	СУ-155
+T2	Organization 188 230	ООО «Одинцовский машиностроительный завод»
+T3	Organization 413 442	ЗАО «Домодедовский завод ЖБИ»
+N1	Reference T1 wiki:167163	СУ-155
+N2	Reference T2 wiki:2597507	Одинцовский машиностроительный завод
+N3	Reference T3 wiki:167163	Домодедовский завод ЖБИ
+A1	IsLink T2
+A2	IsLink T3

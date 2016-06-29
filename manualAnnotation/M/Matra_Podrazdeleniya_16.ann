@@ -1,0 +1,14 @@
+T1	Organization 0 5	Matra
+T2	Organization 259 276	British Aerospace
+T3	Organization 400 404	EADS
+T4	Organization 405 412	Astrium
+T5	Organization 479 485	Nortel
+N1	Reference T1 wiki:1910462	Matra
+N2	Reference T2 wiki:2452934	British Aerospace
+N3	Reference T3 wiki:39833	EADS
+N4	Reference T4 wiki:4352315	Astrium
+N5	Reference T5 wiki:311902	Nortel
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

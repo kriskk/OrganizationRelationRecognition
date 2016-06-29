@@ -1,0 +1,5 @@
+T1	Organization 0 31	Балтика (пивоваренная компания)
+T2	Organization 238 244	Лукойл
+N1	Reference T1 wiki:164789	Балтика (пивоваренная компания)
+N2	Reference T2 wiki:59354	Лукойл
+A1	IsLink T2

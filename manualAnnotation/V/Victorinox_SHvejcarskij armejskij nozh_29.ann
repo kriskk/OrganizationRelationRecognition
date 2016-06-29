@@ -1,0 +1,5 @@
+T1	Organization 0 10	Victorinox
+T2	Organization 265 271	Wenger
+N1	Reference T1 wiki:1167460	Victorinox
+N2	Reference T2 wiki:2226251	Wenger
+A1	IsLink T2

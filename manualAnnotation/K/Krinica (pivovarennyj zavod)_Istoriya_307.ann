@@ -1,0 +1,5 @@
+T1	Organization 0 28	Криница (пивоваренный завод)
+T2	Organization 208 243	ОАО «Пивоваренная компания Балтика»
+N1	Reference T1 wiki:1027888	Криница (пивоваренный завод)
+N2	Reference T2 wiki:164789	Балтика (пивоваренная компания)
+A1	TypeRel T2 Holder

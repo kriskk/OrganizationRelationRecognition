@@ -1,0 +1,5 @@
+T1	Organization 0 5	КамАЗ
+T2	Organization 253 268	Северсталь-Авто
+N1	Reference T1 wiki:169714	КамАЗ
+N2	Reference T2 wiki:159017	Северсталь-Авто
+A1	TypeRel T2 Cooperator

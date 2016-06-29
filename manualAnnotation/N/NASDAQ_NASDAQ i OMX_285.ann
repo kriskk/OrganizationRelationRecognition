@@ -1,0 +1,18 @@
+T1	Organization 0 6	NASDAQ
+T2	Organization 237 253	NASDAQ OMX Group
+T3	Organization 389 394	Volvo
+T4	Organization 396 401	Nokia
+T5	Organization 404 413	Microsoft
+N1	Reference T1 wiki:63813	NASDAQ
+N2	Reference T2 wiki:1036854	NASDAQ OMX Group
+N3	Reference T3 wiki:387781	Volvo
+N4	Reference T4 wiki:56405	Nokia
+N5	Reference T5 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Alias
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary

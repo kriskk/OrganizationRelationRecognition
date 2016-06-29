@@ -1,0 +1,5 @@
+T1	Organization 0 30	Экран (творческое объединение)
+T2	Organization 127 141	Союзмультфильм
+N1	Reference T1 wiki:372131	Экран (творческое объединение)
+N2	Reference T2 wiki:137785	Союзмультфильм
+A1	IsLink T2

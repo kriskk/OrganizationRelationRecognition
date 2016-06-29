@@ -1,0 +1,5 @@
+T1	Organization 0 8	Bjørnøen
+T2	Organization 188 197	Kings Bay
+N1	Reference T1 wiki:3556909	Bjørnøen
+N2	Reference T2 wiki:3564238	Kings Bay
+A1	IsLink T2

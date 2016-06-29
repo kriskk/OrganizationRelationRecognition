@@ -1,0 +1,18 @@
+T1	Organization 0 5	ОНАКО
+T2	Organization 214 224	«Роснефти»
+T3	Organization 319 322	ТНК
+T4	Organization 408 418	«Сибнефти»
+T5	Organization 506 512	ТНК-ВР
+N1	Reference T1 wiki:980679	ОНАКО
+N2	Reference T2 wiki:139770	Роснефть
+N3	Reference T3 wiki:17252	Тюменская нефтяная компания
+N4	Reference T4 wiki:121955	Сибнефть
+N5	Reference T5 wiki:17252	ТНК-ВР
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Holder
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Holder

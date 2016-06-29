@@ -1,0 +1,5 @@
+T1	Organization 0 13	Финэкспертиза
+T2	Organization 121 156	рейтингового агентства «Эксперт РА»
+N1	Reference T1 wiki:3214343	Финэкспертиза
+N2	Reference T2 wiki:363296	Эксперт РА
+A1	IsLink T2

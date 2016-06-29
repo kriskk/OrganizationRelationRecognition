@@ -1,0 +1,8 @@
+T1	Organization 0 25	Arctech Helsinki Shipyard
+T2	Organization 157 168	STX Finland
+T3	Organization 178 218	Объединённой судостроительной корпорации
+N1	Reference T1 wiki:4277541	Arctech Helsinki Shipyard
+N2	Reference T2 wiki:3464301	STX Finland
+N3	Reference T3 wiki:590392	Объединённая судостроительная корпорация
+A1	IsLink T2
+A2	IsLink T3

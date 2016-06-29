@@ -1,0 +1,5 @@
+T1	Organization 0 36	Смелянский электромеханический завод
+T2	Organization 218 225	Siemens
+N1	Reference T1 wiki:2478930	Смелянский электромеханический завод
+N2	Reference T2 wiki:36510	Siemens
+A1	IsLink T2

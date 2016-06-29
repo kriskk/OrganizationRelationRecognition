@@ -1,0 +1,5 @@
+T1	Organization 0 14	Elektriraudtee
+T2	Organization 211 246	Рижского вагоностроительного завода
+N1	Reference T1 wiki:3720653	Elektriraudtee
+N2	Reference T2 wiki:267635	Рижский вагоностроительный завод
+A1	IsLink T2

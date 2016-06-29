@@ -1,0 +1,7 @@
+Scala, Inc.
+@summary
+298,256
+
+Возможности мультимедийных программных платформ компании используются тысячами цифровых лейблов во всём мире, включая такие известные бренды как Rabobank, IKEA, Bloomberg Television, Burger King, T-Mobile, Virgin Megastores, Disneyland Resort Paris, McDonald’s, Warner Bros., Shell, Esso, Ericsson и The Life Channel.
+
+В феврале 1999 года, Scala была номинирована известным журналом Animation Magazine среди 13 лучших компаний производящих двухмерную графику.

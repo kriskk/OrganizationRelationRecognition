@@ -1,0 +1,11 @@
+T1	Organization 0 5	CITIC
+T2	Organization 294 304	PetroChina
+T3	Organization 306 313	Sinopec
+T4	Organization 316 321	CNOOC
+N1	Reference T1 wiki:349701	CITIC
+N2	Reference T2 wiki:375875	PetroChina
+N3	Reference T3 wiki:375879	Sinopec
+N4	Reference T4 wiki:2448098	China National Offshore Oil Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

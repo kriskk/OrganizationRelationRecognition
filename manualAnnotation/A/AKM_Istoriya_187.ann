@@ -1,0 +1,6 @@
+T1	Organization 0 4	АК&M
+T2	Organization 367 393	Рейтинговое агентство АК&M
+N1	Reference T1 wiki:2296077	АК&M
+N2	Reference T2 wiki:1106420	Рейтинговое агентство АК&M
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,34 @@
+T1	Organization 0 16	Rockstar Toronto
+T2	Organization 123 137	Rockstar North
+T3	Organization 178 192	Bungie Studios
+T4	Organization 239 259	Remedy Entertainment
+T5	Organization 261 276	Rockstar Vienna
+T6	Organization 279 293	Rockstar Leeds
+T7	Organization 532 547	Rockstar London
+T8	Organization 618 636	Rockstar Vancouver
+T9	Organization 639 659	Rockstar New England
+N1	Reference T1 wiki:2336518	Rockstar Toronto
+N2	Reference T2 wiki:662662	Rockstar North
+N3	Reference T3 wiki:1066312	Bungie Studios
+N4	Reference T4 wiki:1464463	Remedy Entertainment
+N5	Reference T5 wiki:2329608	Rockstar Vienna
+N6	Reference T6 wiki:2325802	Rockstar Leeds
+N7	Reference T7 wiki:2327715	Rockstar London
+N8	Reference T8 wiki:2102172	Rockstar Vancouver
+N9	Reference T9 wiki:2337034	Rockstar New England
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 10	Termignoni
+T2	Organization 177 183	Ducati
+T3	Organization 186 191	Honda
+N1	Reference T1 wiki:2755971	Termignoni
+N2	Reference T2 wiki:1745457	Ducati
+N3	Reference T3 wiki:121050	Honda
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,6 @@
+T1	Organization 0 18	Павловский автобус
+T2	Organization 209 219	Группа ГАЗ
+N1	Reference T1 wiki:97930	Павловский автобус
+N2	Reference T2 wiki:21473	Группа ГАЗ
+A1	IsLink T2
+A2	TypeRel T2 Holder

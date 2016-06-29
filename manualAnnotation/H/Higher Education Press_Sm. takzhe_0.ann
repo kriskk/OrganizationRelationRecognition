@@ -1,0 +1,5 @@
+T1	Organization 0 22	Higher Education Press
+T2	Organization 66 74	Elsevier
+N1	Reference T1 wiki:2671041	Higher Education Press
+N2	Reference T2 wiki:1291005	Elsevier
+A1	TypeRel T2 Alias

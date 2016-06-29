@@ -1,0 +1,5 @@
+T1	Organization 0 14	Bentley Motors
+T2	Organization 102 118	Volkswagen Group
+N1	Reference T1 wiki:41442	Bentley Motors
+N2	Reference T2 wiki:750217	Volkswagen Group
+A1	IsLink T2

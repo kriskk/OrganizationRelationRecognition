@@ -1,0 +1,10 @@
+T1	Organization 0 15	GlobalFoundries
+T2	Organization 289 296	Gartner
+T3	Organization 562 566	TSMC
+N1	Reference T1 wiki:3522370	GlobalFoundries
+N2	Reference T2 wiki:2960363	Gartner
+N3	Reference T3 wiki:755389	TSMC
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Other
+A4	TypeRel T3 Competitor

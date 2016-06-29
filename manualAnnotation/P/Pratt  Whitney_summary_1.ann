@@ -1,0 +1,12 @@
+T1	Organization 0 15	Pratt & Whitney
+T2	Organization 182 201	United Technologies
+T3	Organization 277 288	Rolls-Royce
+T4	Organization 291 307	General Electric
+N1	Reference T1 wiki:807790	Pratt & Whitney
+N2	Reference T2 wiki:257086	United Technologies
+N3	Reference T3 wiki:303399	Rolls-Royce Group plc
+N4	Reference T4 wiki:13762	General Electric
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder

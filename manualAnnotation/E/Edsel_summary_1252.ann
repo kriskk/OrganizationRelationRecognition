@@ -1,0 +1,8 @@
+T1	Organization 0 5	Edsel
+T2	Organization 250 257	Mercury
+T3	Organization 259 266	Lincoln
+N1	Reference T1 wiki:667260	Edsel
+N2	Reference T2 wiki:1286329	Mercury (автомобильная марка)
+N3	Reference T3 wiki:1063025	Lincoln (автомобильная марка)
+A1	IsLink T2
+A2	IsLink T3

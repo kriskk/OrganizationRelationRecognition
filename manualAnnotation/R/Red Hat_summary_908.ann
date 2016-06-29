@@ -1,0 +1,5 @@
+T1	Organization 0 7	Red Hat
+T2	Organization 262 268	S&P500
+N1	Reference T1 wiki:10874	Red Hat
+N2	Reference T2 wiki:198286	S&P
+A1	TypeRel T2 Other

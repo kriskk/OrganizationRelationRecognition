@@ -1,0 +1,6 @@
+T1	Organization 0 26	Ульяновский моторный завод
+T2	Organization 163 166	УАЗ
+N1	Reference T1 wiki:3980242	Ульяновский моторный завод
+N2	Reference T2 wiki:84571	УАЗ
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

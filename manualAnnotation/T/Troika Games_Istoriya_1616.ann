@@ -1,0 +1,35 @@
+T1	Organization 0 12	Troika Games
+T2	Organization 198 220	Blizzard Entertainment
+T3	Organization 242 269	Sony Computer Entertainment
+T4	Organization 282 304	Obsidian Entertainment
+T5	Organization 336 346	Activision
+T6	Organization 349 362	Point of View
+T7	Organization 365 385	Mythic Entertainment
+T8	Organization 451 456	Maxis
+T9	Organization 472 478	Capcom
+T10	Organization 493 512	Turtle Rock Studios
+T11	Organization 546 554	Treyarch
+T12	Organization 557 573	Lionhead Studios
+N1	Reference T1 wiki:951015	Troika Games
+N2	Reference T2 wiki:202669	Blizzard Entertainment
+N3	Reference T3 wiki:1454994	Sony Computer Entertainment
+N4	Reference T4 wiki:501253	Obsidian Entertainment
+N5	Reference T5 wiki:307964	Activision
+N6	Reference T6 wiki:3334774	Point of View
+N7	Reference T7 wiki:1969660	Mythic Entertainment
+N8	Reference T8 wiki:1292523	Maxis
+N9	Reference T9 wiki:714415	Capcom
+N10	Reference T10 wiki:1665713	Turtle Rock Studios
+N11	Reference T11 wiki:1692565	Treyarch
+N12	Reference T12 wiki:1105978	Lionhead Studios
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12

@@ -1,0 +1,9 @@
+T1	Organization 0 10	P.A. Works
+T2	Organization 193 207	Production I.G
+T3	Organization 210 219	Bee Train
+N1	Reference T1 wiki:3545782	P.A. Works
+N2	Reference T2 wiki:9179	Production I.G
+N3	Reference T3 wiki:294080	Bee Train
+A2	IsLink T3
+A1	TypeRel T2 Personnel
+A3	TypeRel T3 Personnel

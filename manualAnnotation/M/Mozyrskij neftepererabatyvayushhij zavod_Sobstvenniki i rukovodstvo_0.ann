@@ -1,0 +1,5 @@
+T1	Organization 0 37	Мозырский нефтеперерабатывающий завод
+T2	Organization 216 235	ОАО НГК «Славнефть»
+N1	Reference T1 wiki:1142963	Мозырский нефтеперерабатывающий завод
+N2	Reference T2 wiki:205107	Славнефть
+A1	TypeRel T2 Holder

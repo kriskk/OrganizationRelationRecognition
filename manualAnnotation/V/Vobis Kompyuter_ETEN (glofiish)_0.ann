@@ -1,0 +1,13 @@
+T1	Organization 0 15	Вобис Компьютер
+T2	Organization 157 162	E-TEN
+T3	Organization 170 178	Glofiish
+T4	Organization 264 272	Glofiish
+N1	Reference T1 wiki:3201662	Вобис Компьютер
+N2	Reference T2 wiki:1287255	E-TEN
+N3	Reference T3 wiki:1287255	Glofiish
+N4	Reference T4 wiki:1287255	Glofiish
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A6	TypeRel T4 Cooperator

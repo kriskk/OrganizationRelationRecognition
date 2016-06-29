@@ -1,0 +1,9 @@
+T1	Organization 0 5	Metso
+T2	Organization 75 81	Lokomo
+T3	Organization 471 478	Porsche
+N1	Reference T1 wiki:3539984	Metso
+N2	Reference T2 wiki:2115053	Lokomo
+N3	Reference T3 wiki:403194	Porsche
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 32	Карачаганак Петролиум Оперейтинг
+T2	Organization 282 285	Eni
+N1	Reference T1 wiki:2181611	Карачаганак Петролиум Оперейтинг
+N2	Reference T2 wiki:180394	Eni
+A1	TypeRel T2 Holder

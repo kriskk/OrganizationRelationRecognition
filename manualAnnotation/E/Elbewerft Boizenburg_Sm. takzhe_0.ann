@@ -1,0 +1,8 @@
+T1	Organization 0 20	Elbewerft Boizenburg
+T2	Organization 53 65	Blohm + Voss
+T3	Organization 68 87	Nordic Yards Wismar
+N1	Reference T1 wiki:3415780	Elbewerft Boizenburg
+N2	Reference T2 wiki:933856	Blohm + Voss
+N3	Reference T3 wiki:3540711	Nordic Yards Wismar
+A1	IsLink T2
+A2	IsLink T3

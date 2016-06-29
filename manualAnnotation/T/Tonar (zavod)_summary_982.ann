@@ -1,0 +1,8 @@
+T1	Organization 0 13	Тонар (завод)
+T2	Organization 201 206	КАМАЗ
+T3	Organization 209 214	НефАЗ
+N1	Reference T1 wiki:3070798	Тонар (завод)
+N2	Reference T2 wiki:169714	КАМАЗ
+N3	Reference T3 wiki:404943	НефАЗ
+A1	IsLink T2
+A2	IsLink T3

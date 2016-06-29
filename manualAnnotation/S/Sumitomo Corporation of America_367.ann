@@ -1,0 +1,8 @@
+T1	Organization 0 31	Sumitomo Corporation of America
+T2	Organization 193 213	Sumitomo Corporation
+T3	Organization 283 287	KPMG
+N1	Reference T1 wiki:3755439	Sumitomo Corporation of America
+N2	Reference T2 wiki:2076372	Sumitomo Corporation
+N3	Reference T3 wiki:281743	KPMG
+A1	IsLink T2
+A2	IsLink T3

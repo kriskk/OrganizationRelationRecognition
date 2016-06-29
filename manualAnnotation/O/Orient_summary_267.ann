@@ -1,0 +1,6 @@
+T1	Organization 0 6	Orient
+T2	Organization 296 307	Seiko Epson
+N1	Reference T1 wiki:303022	Orient
+N2	Reference T2 wiki:129399	Seiko Epson
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

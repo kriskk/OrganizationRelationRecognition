@@ -1,0 +1,5 @@
+T1	Organization 0 33	Österreichische Schiffswerften AG
+T2	Organization 266 277	Voestalpine
+N1	Reference T1 wiki:3426511	Österreichische Schiffswerften AG
+N2	Reference T2 wiki:1295186	Voestalpine
+A1	IsLink T2

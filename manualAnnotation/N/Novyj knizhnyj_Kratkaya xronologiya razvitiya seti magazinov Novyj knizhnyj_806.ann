@@ -1,0 +1,6 @@
+T1	Organization 0 13	Новый книжный
+T2	Organization 389 400	Читай-город
+N1	Reference T1 wiki:4002873	Новый книжный
+N2	Reference T2 wiki:4074524	Читай-город
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

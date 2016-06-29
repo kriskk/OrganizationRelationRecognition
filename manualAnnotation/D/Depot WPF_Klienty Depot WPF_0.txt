@@ -1,0 +1,33 @@
+Depot WPF
+@Клиенты Depot WPF
+1099,0
+
+
+Клиенты Depot WPF
+
+Nestle
+	Unilever
+	Philips
+	X5 Retail Group
+	36,6
+	Билайн
+	Kaspersky
+	Xerox
+	Myllyn Paras
+	Danone
+	Campbells
+	Юнимилк
+	Тануки
+	Автомир
+	JFC, бренд Bonanza
+	Мултон, бренды Rich, Добрый
+	Много.ру
+	Сады Придонья
+	Ola!
+	Technologies Francaises Alimentaires (T.F.A.), бренд Maitre de The
+	Forester
+	Газпромнефть-СМ
+	Rockwool
+	Riston
+
+

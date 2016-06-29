@@ -1,0 +1,14 @@
+T1	Organization 0 16	Электроточприбор
+T2	Organization 213 220	НИИ-885
+T3	Organization 364 374	КБ «Южмаш»
+T4	Organization 465 475	КБ «Южмаш»
+N1	Reference T1 wiki:3959447	Электроточприбор
+N2	Reference T2 wiki:3219521	Научно-производственный центр автоматики и приборостроения имени академика Н. А. Пилюгина
+N3	Reference T3 wiki:656973	Южмаш
+N4	Reference T4 wiki:656973	Южмаш
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

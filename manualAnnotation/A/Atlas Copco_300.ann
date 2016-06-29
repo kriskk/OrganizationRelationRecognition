@@ -1,0 +1,5 @@
+T1	Organization 0 11	Atlas Copco
+T2	Organization 304 321	Chicago Pneumatic
+N1	Reference T1 wiki:294626	Atlas Copco
+N2	Reference T2 wiki:3779646	Chicago Pneumatic
+A1	IsLink T2

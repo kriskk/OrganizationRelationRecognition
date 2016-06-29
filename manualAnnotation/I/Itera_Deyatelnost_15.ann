@@ -1,0 +1,6 @@
+T1	Organization 0 5	Итера
+T2	Organization 268 275	Новатэк
+N1	Reference T1 wiki:156662	Итера
+N2	Reference T2 wiki:172027	Новатэк
+A1	IsLink T2
+A2	TypeRel T2 Holder

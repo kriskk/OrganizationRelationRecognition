@@ -1,0 +1,5 @@
+T1	Organization 0 34	Нижегородский завод шампанских вин
+T2	Organization 144 163	Абрау-Дюрсо (завод)
+N1	Reference T1 wiki:671876	Нижегородский завод шампанских вин
+N2	Reference T2 wiki:1785422	Абрау-Дюрсо (завод)
+A1	IsLink T2

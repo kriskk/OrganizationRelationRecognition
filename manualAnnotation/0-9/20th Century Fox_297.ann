@@ -1,0 +1,14 @@
+T1	Organization 0 16	20th Century Fox
+T2	Organization 198 214	News Corporation
+T3	Organization 234 258	Fox Searchlight Pictures
+T4	Organization 322 338	Blue Sky Studios
+T5	Organization 372 392	DreamWorks Animation
+N1	Reference T1 wiki:272376	20th Century Fox
+N2	Reference T2 wiki:636692	News Corporation
+N3	Reference T3 wiki:1692150	Fox Searchlight Pictures
+N4	Reference T4 wiki:2750258	Blue Sky Studios
+N5	Reference T5 wiki:3634563	DreamWorks Animation
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

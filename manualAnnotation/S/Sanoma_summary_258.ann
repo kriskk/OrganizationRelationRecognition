@@ -1,0 +1,5 @@
+T1	Organization 0 6	Sanoma
+T2	Organization 250 258	R-kioski
+N1	Reference T1 wiki:68457	Sanoma
+N2	Reference T2 wiki:3756529	R-kioski
+A1	IsLink T2

@@ -1,0 +1,11 @@
+T1	Organization 0 28	Холмский судоремонтный завод
+T2	Organization 142 151	торгового
+T3	Organization 154 178	Западного морских портов
+T4	Organization 388 403	Западного порта
+N1	Reference T1 wiki:4049406	Холмский судоремонтный завод
+N2	Reference T2 wiki:3893812	Холмский морской торговый порт
+N3	Reference T3 wiki:1994128	Сахалинский Западный морской порт
+N4	Reference T4 wiki:1994128	Сахалинский Западный морской порт
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

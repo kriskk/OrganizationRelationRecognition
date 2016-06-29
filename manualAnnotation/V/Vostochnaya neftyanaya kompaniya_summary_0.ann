@@ -1,0 +1,6 @@
+T1	Organization 0 27	Восточная нефтяная компания
+T2	Organization 187 191	ЮКОС
+N1	Reference T1 wiki:980642	Восточная нефтяная компания
+N2	Reference T2 wiki:6032	ЮКОС
+A1	IsLink T2
+A2	TypeRel T2 Holder

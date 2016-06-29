@@ -1,0 +1,5 @@
+T1	Organization 0 4	Ardo
+T2	Organization 37 44	Indesit
+N1	Reference T1 wiki:882050	Ardo
+N2	Reference T2 wiki:306721	Indesit
+A1	IsLink T2

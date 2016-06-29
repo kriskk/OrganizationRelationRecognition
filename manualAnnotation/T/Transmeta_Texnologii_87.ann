@@ -1,0 +1,5 @@
+T1	Organization 0 9	Transmeta
+T2	Organization 287 290	Sun
+N1	Reference T1 wiki:99423	Transmeta
+N2	Reference T2 wiki:4777	Sun Microsystems
+A1	IsLink T2

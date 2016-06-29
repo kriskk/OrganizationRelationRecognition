@@ -1,0 +1,9 @@
+T1	Organization 0 10	Группа ГМС
+T2	Organization 239 248	JP Morgan
+T3	Organization 250 264	Morgan Stanley
+N1	Reference T1 wiki:3021800	Группа ГМС
+N2	Reference T2 wiki:374499	JPMorgan Chase
+N3	Reference T3 wiki:612532	Morgan Stanley
+A2	IsLink T3
+A1	TypeRel T2 Other
+A3	TypeRel T3 Other

@@ -1,0 +1,5 @@
+T1	Organization 0 24	Кристалл (завод, Москва)
+T2	Organization 223 236	Металлоинвест
+N1	Reference T1 wiki:532281	Кристалл (завод, Москва)
+N2	Reference T2 wiki:301665	Металлоинвест
+A1	TypeRel T2 Personnel

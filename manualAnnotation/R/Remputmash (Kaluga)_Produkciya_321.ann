@@ -1,0 +1,5 @@
+T1	Organization 0 19	Ремпутьмаш (Калуга)
+T2	Organization 209 241	ОАО «Российские железные дороги»
+N1	Reference T1 wiki:1994657	Ремпутьмаш (Калуга)
+N2	Reference T2 wiki:106901	РЖД
+A1	TypeRel T2 Holder

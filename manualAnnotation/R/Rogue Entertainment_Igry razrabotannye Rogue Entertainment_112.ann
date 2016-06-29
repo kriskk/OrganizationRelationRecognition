@@ -1,0 +1,6 @@
+T1	Organization 0 19	Rogue Entertainment
+T2	Organization 237 253	Gearbox Software
+N1	Reference T1 wiki:1302207	Rogue Entertainment
+N2	Reference T2 wiki:541955	Gearbox Software
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

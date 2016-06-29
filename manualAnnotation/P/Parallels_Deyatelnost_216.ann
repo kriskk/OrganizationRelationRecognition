@@ -1,0 +1,9 @@
+T1	Organization 0 9	Parallels
+T2	Organization 196 204	Русоникс
+T3	Organization 269 275	REG.RU
+N1	Reference T1 wiki:1356173	Parallels
+N2	Reference T2 wiki:231688	Русоникс
+N3	Reference T3 wiki:2554405	REG.RU
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

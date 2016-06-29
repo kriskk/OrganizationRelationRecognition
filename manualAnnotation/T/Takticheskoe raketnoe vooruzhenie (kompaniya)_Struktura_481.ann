@@ -1,0 +1,8 @@
+T1	Organization 0 42	Тактическое ракетное вооружение (компания)
+T2	Organization 237 252	ГосМКБ «Вымпел»
+T3	Organization 293 308	ГосМКБ «Радуга»
+N1	Reference T1 wiki:551806	Тактическое ракетное вооружение (компания)
+N2	Reference T2 wiki:1491743	ГосМКБ «Вымпел»
+N3	Reference T3 wiki:431463	ГосМКБ «Радуга»
+A1	IsLink T2
+A2	IsLink T3

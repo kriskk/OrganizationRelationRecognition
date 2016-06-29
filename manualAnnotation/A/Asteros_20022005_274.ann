@@ -1,0 +1,23 @@
+T1	Organization 0 7	Астерос
+T2	Organization 195 198	IBM
+T3	Organization 200 206	Oracle
+T4	Organization 208 228	Hitachi Data Systems
+T5	Organization 230 233	APC
+T6	Organization 243 249	Citrix
+T7	Organization 251 256	Xerox
+T8	Organization 258 264	Nortel
+N1	Reference T1 wiki:2210966	Астерос
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:129227	Oracle
+N4	Reference T4 wiki:141241	Hitachi
+N5	Reference T5 wiki:298746	American Power Conversion
+N6	Reference T6 wiki:1903941	Citrix
+N7	Reference T7 wiki:257571	Xerox
+N8	Reference T8 wiki:311902	Nortel Networks
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

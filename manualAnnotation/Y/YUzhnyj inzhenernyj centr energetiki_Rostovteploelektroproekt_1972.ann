@@ -1,0 +1,5 @@
+T1	Organization 0 33	Южный инженерный центр энергетики
+T2	Organization 248 257	Мосэнерго
+N1	Reference T1 wiki:2874218	Южный инженерный центр энергетики
+N2	Reference T2 wiki:159522	Мосэнерго
+A1	IsLink T2

@@ -1,0 +1,9 @@
+T1	Organization 0 5	Zotac
+T2	Organization 296 315	Sapphire Technology
+T3	Organization 503 508	ZOTAC
+N1	Reference T1 wiki:2071071	Zotac
+N2	Reference T2 wiki:1014101	Sapphire Technology
+N3	Reference T3 wiki:2071071	ZOTAC
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Alias

@@ -1,0 +1,5 @@
+T1	Organization 0 5	Alcoa
+T2	Organization 255 261	DuPont
+N1	Reference T1 wiki:527770	Alcoa
+N2	Reference T2 wiki:206423	DuPont
+A1	IsLink T2

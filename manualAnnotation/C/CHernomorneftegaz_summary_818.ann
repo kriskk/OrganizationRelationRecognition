@@ -1,0 +1,5 @@
+T1	Organization 0 16	Черноморнефтегаз
+T2	Organization 227 243	Нефтегаз Украины
+N1	Reference T1 wiki:1874201	Черноморнефтегаз
+N2	Reference T2 wiki:128243	Нефтегаз Украины
+A1	IsLink T2

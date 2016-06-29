@@ -1,0 +1,5 @@
+T1	Organization 0 35	Новосибирский завод химконцентратов
+T2	Organization 219 226	Росатом
+N1	Reference T1 wiki:2157947	Новосибирский завод химконцентратов
+N2	Reference T2 wiki:1299917	Росатом (государственная корпорация)
+A1	TypeRel T2 Holder

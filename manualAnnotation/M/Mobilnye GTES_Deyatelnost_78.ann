@@ -1,0 +1,6 @@
+T1	Organization 0 14	Мобильные ГТЭС
+T2	Organization 329 335	СО ЕЭС
+N1	Reference T1 wiki:2494483	Мобильные ГТЭС
+N2	Reference T2 wiki:1371111	СО ЕЭС
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

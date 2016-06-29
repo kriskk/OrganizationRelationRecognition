@@ -1,0 +1,22 @@
+T1	Organization 0 21	Газпром-Медиа Холдинг
+T2	Organization 131 139	НТВ-Плюс
+T3	Organization 278 306	Издательский дом «Семь дней»
+T4	Organization 442 464	Comedy Club Production
+T5	Organization 543 549	RuTube
+T6	Organization 714 727	Газпром-Медиа
+N1	Reference T1 wiki:189268	Газпром-Медиа Холдинг
+N2	Reference T2 wiki:723124	НТВ-Плюс
+N3	Reference T3 wiki:3577803	Семь дней (издательский дом)
+N4	Reference T4 wiki:1986601	Comedy Club Production
+N5	Reference T5 wiki:726090	RuTube
+N6	Reference T6 wiki:189268	Газпром-Медиа
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Subsidiary
+A7	TypeRel T3 Subsidiary
+A8	TypeRel T4 Subsidiary
+A9	TypeRel T5 Subsidiary
+A10	TypeRel T6 Subsidiary

@@ -1,0 +1,9 @@
+T1	Organization 0 4	LVMH
+T2	Organization 171 184	Louis Vuitton
+T3	Organization 231 239	Hennessy
+N1	Reference T1 wiki:381313	LVMH
+N2	Reference T2 wiki:920125	Louis Vuitton
+N3	Reference T3 wiki:1124147	Hennessy
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

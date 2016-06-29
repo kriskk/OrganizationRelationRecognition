@@ -1,0 +1,13 @@
+T1	Organization 0 30	Инвестиционный капитал Украина
+T2	Organization 372 411	Первой фондовой торговой системы (ПФТС)
+T3	Organization 651 655	ПФТС
+T4	Organization 834 840	Cbonds
+N1	Reference T1 wiki:3321088	Инвестиционный капитал Украина
+N2	Reference T2 wiki:769045	Фондовая биржа ПФТС
+N3	Reference T3 wiki:769045	ПФТС
+N4	Reference T4 wiki:3333114	Cbonds
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Other
+A4	TypeRel T3 Other
+A5	TypeRel T4 Other

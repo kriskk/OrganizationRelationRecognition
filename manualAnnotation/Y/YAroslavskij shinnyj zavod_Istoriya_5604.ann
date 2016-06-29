@@ -1,0 +1,5 @@
+T1	Organization 0 24	Ярославский шинный завод
+T2	Organization 339 346	«Сибур»
+N1	Reference T1 wiki:312699	Ярославский шинный завод
+N2	Reference T2 wiki:144869	Сибур
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 14	Orange Moldova
+T2	Organization 53 59	Orange
+T3	Organization 62 76	France Télécom
+N1	Reference T1 wiki:342150	Orange Moldova
+N2	Reference T2 wiki:373554	Orange
+N3	Reference T3 wiki:373577	France Télécom
+A1	IsLink T2
+A2	IsLink T3

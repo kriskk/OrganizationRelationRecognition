@@ -1,0 +1,34 @@
+T1	Organization 0 8	QlikView
+T2	Organization 295 303	Ericsson
+T3	Organization 354 362	Best Buy
+T4	Organization 364 377	Campbell Soup
+T5	Organization 379 384	Canon
+T6	Organization 386 389	ING
+T7	Organization 402 411	Panasonic
+T8	Organization 413 421	Qualcomm
+T9	Organization 423 428	Shell
+N1	Reference T1 wiki:3706230	QlikView
+N2	Reference T2 wiki:711402	Ericsson
+N3	Reference T3 wiki:770538	Best Buy
+N4	Reference T4 wiki:726593	Campbell Soup
+N5	Reference T5 wiki:53435	Canon
+N6	Reference T6 wiki:555591	ING Groep N.V.
+N7	Reference T7 wiki:307154	Panasonic
+N8	Reference T8 wiki:897305	Qualcomm
+N9	Reference T9 wiki:167625	Royal Dutch Shell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

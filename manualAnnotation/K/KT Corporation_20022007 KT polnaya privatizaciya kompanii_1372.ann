@@ -1,0 +1,5 @@
+T1	Organization 0 14	KT Corporation
+T2	Organization 301 304	НТК
+N1	Reference T1 wiki:2881825	KT Corporation
+N2	Reference T2 wiki:259656	Новая телефонная компания
+A1	TypeRel T2 Subsidiary

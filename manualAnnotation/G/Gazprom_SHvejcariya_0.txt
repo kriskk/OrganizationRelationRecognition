@@ -1,0 +1,14 @@
+Газпром
+@Деятельность
+@Активы
+@[[Швейцария]]
+14232,7123,15921,0
+
+
+[[Швейцария]]
+
+ Nord Stream AG (51 %)
+	 South Stream AG (50 %)
+	 South Stream Serbia AG (51 %)
+	 Shtokman Development AG (75 %)
+	 RosUkrEnergo AG (50 %)

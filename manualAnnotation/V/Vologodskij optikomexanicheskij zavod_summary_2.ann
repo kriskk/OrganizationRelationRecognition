@@ -1,0 +1,5 @@
+T1	Organization 0 37	Вологодский оптико-механический завод
+T2	Organization 281 294	Ростехнологии
+N1	Reference T1 wiki:2575131	Вологодский оптико-механический завод
+N2	Reference T2 wiki:915063	Ростехнологии
+A1	IsLink T2

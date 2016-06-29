@@ -1,0 +1,5 @@
+T1	Organization 0 16	Брестгазоаппарат
+T2	Organization 196 207	ОАО ГАЗПРОМ
+N1	Reference T1 wiki:120606	Брестгазоаппарат
+N2	Reference T2 wiki:44754	Газпром
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 6	Medion
+T2	Organization 205 211	Lenovo
+N1	Reference T1 wiki:166401	Medion
+N2	Reference T2 wiki:666442	Lenovo
+A1	IsLink T2
+A2	TypeRel T2 Holder

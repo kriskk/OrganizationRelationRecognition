@@ -1,0 +1,6 @@
+T1	Organization 0 3	SAP
+T2	Organization 380 386	Sybase
+N1	Reference T1 wiki:81959	SAP
+N2	Reference T2 wiki:204161	Sybase
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

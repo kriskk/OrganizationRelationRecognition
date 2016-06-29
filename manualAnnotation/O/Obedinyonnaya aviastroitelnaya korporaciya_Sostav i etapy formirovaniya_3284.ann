@@ -1,0 +1,46 @@
+T1	Organization 0 40	Объединённая авиастроительная корпорация
+T2	Organization 252 324	Казанское авиационное производственное объединение имени С. П. Горбунова
+T3	Organization 340 388	Российская самолётостроительная корпорация «МиГ»
+T4	Organization 491 536	"Нижегородский авиастроительный завод «Сокол»
+T5	Organization 553 566	«Авиастар-СП»
+T6	Organization 583 603	«Ильюшин Финанс Ко.»
+T7	Organization 620 675	«Воронежское акционерное самолётостроительное общество»
+T8	Organization 738 786	«Опытно-конструкторское бюро им. А. С. Яковлева»
+T9	Organization 859 931	«Таганрогский авиационный научно-технический комплекс им. Г. М. Бериева»
+T10	Organization 947 956	«Туполев»
+T11	Organization 972 1015	"Научно-производственная корпорация «Иркут»
+T12	Organization 1065 1072	«Сухой»
+N1	Reference T1 wiki:163405	Объединённая авиастроительная корпорация
+N2	Reference T2 wiki:1233100	Казанское авиационное производственное объединение имени С. П. Горбунова
+N3	Reference T3 wiki:26999	МиГ (компания)
+N4	Reference T4 wiki:144095	Сокол (авиастроительный завод)
+N5	Reference T5 wiki:746275	Авиастар-СП
+N6	Reference T6 wiki:741422	Ильюшин Финанс Ко
+N7	Reference T7 wiki:143197	Воронежское акционерное самолётостроительное общество
+N8	Reference T8 wiki:55757	ОКБ имени Яковлева
+N9	Reference T9 wiki:107173	Таганрогский авиационный научно-технический комплекс имени Г. М. Бериева
+N10	Reference T10 wiki:55761	КБ Туполев
+N11	Reference T11 wiki:143159	Иркут (компания)
+N12	Reference T12 wiki:164779	Сухой (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	TypeRel T2 Subsidiary
+A13	TypeRel T3 Subsidiary
+A14	TypeRel T4 Subsidiary
+A15	TypeRel T5 Subsidiary
+A16	TypeRel T6 Subsidiary
+A17	TypeRel T7 Subsidiary
+A18	TypeRel T8 Subsidiary
+A19	TypeRel T9 Subsidiary
+A20	TypeRel T10 Subsidiary
+A21	TypeRel T11 Subsidiary
+A22	TypeRel T12 Subsidiary

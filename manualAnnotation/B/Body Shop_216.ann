@@ -1,0 +1,5 @@
+T1	Organization 0 9	Body Shop
+T2	Organization 200 207	L'Oréal
+N1	Reference T1 wiki:2168038	Body Shop
+N2	Reference T2 wiki:164733	L'Oréal
+A1	IsLink T2

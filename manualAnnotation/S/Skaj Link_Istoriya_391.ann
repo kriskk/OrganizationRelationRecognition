@@ -1,0 +1,5 @@
+T1	Organization 0 9	Скай Линк
+T2	Organization 252 266	Дельта Телеком
+N1	Reference T1 wiki:145535	Скай Линк
+N2	Reference T2 wiki:1685534	Дельта Телеком
+A1	IsLink T2

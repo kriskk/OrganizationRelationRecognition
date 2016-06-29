@@ -1,0 +1,29 @@
+T1	Organization 0 15	Кристалл Сервис
+T2	Organization 272 279	«О’Кей»
+T3	Organization 281 288	«Лента»
+T4	Organization 290 297	«Дикси»
+T5	Organization 299 307	«Вестер»
+T6	Organization 309 319	«Виктория»
+T7	Organization 321 341	X5 Retail Group N.V.
+T8	Organization 343 347	SPAR
+N1	Reference T1 wiki:1733897	Кристалл Сервис
+N2	Reference T2 wiki:960973	О’КЕЙ (сеть гипермаркетов)
+N3	Reference T3 wiki:162961	Лента (сеть магазинов)
+N4	Reference T4 wiki:153144	Дикси (торговая сеть)
+N5	Reference T5 wiki:1419203	Вестер
+N6	Reference T6 wiki:382848	Виктория (сеть магазинов)
+N7	Reference T7 wiki:353293	X5 Retail Group
+N8	Reference T8 wiki:201708	SPAR
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A1	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator

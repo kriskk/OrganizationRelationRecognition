@@ -1,0 +1,14 @@
+T1	Organization 0 19	Вымпел-Коммуникации
+T2	Organization 285 291	Altimo
+T3	Organization 485 491	Unitel
+T4	Organization 657 663	Unitel
+T5	Organization 689 695	Unitel
+N1	Reference T1 wiki:70736	Вымпел-Коммуникации
+N2	Reference T2 wiki:258465	Altimo
+N3	Reference T3 wiki:1436579	Unitel
+N4	Reference T4 wiki:1436579	Unitel
+N5	Reference T5 wiki:1436579	Unitel
+A1	IsLink T2
+A3	IsLink T4
+A4	IsLink T5
+A2	TypeRel T3 Subsidiary

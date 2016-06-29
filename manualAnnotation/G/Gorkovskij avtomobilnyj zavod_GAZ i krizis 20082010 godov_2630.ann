@@ -1,0 +1,6 @@
+T1	Organization 0 31	Горьковский автомобильный завод
+T2	Organization 314 321	Daimler
+N1	Reference T1 wiki:25060	Горьковский автомобильный завод
+N2	Reference T2 wiki:39716	Daimler
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

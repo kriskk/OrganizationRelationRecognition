@@ -1,0 +1,6 @@
+T1	Organization 0 9	НЛМК-Сорт
+T2	Organization 182 186	НЛМК
+N1	Reference T1 wiki:3222357	НЛМК-Сорт
+N2	Reference T2 wiki:143594	НЛМК
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

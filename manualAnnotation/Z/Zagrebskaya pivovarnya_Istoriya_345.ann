@@ -1,0 +1,9 @@
+T1	Organization 0 20	Загребская пивоварня
+T2	Organization 340 360	Anheuser-Busch InBev
+T3	Organization 623 630	StarBev
+N1	Reference T1 wiki:4114742	Загребская пивоварня
+N2	Reference T2 wiki:3199376	Anheuser-Busch InBev
+N3	Reference T3 wiki:4114777	StarBev
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

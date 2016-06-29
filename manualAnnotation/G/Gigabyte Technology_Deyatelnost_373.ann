@@ -1,0 +1,13 @@
+T1	Organization 0 19	Gigabyte Technology
+T2	Organization 199 215	Asustek Computer
+T3	Organization 217 241	Micro-Star International
+T4	Organization 249 256	Foxconn
+N1	Reference T1 wiki:1265773	Gigabyte Technology
+N2	Reference T2 wiki:118273	Asus
+N3	Reference T3 wiki:516860	Micro-Star International
+N4	Reference T4 wiki:2020893	Foxconn
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor
+A5	TypeRel T4 Competitor

@@ -1,0 +1,35 @@
+T1	Organization 0 14	ARM (компания)
+T2	Organization 348 353	Apple
+T3	Organization 355 360	Atmel
+T4	Organization 362 370	Broadcom
+T5	Organization 372 381	Freescale
+T6	Organization 385 391	Nvidia
+T7	Organization 393 401	Qualcomm
+T8	Organization 403 410	Samsung
+T9	Organization 412 429	Texas Instruments
+T10	Organization 431 434	VIA
+T11	Organization 436 443	Миландр
+T12	Organization 445 463	STMicroelectronics
+N1	Reference T1 wiki:49514	ARM (компания)
+N2	Reference T2 wiki:39726	Apple
+N3	Reference T3 wiki:885876	Atmel
+N4	Reference T4 wiki:1125099	Broadcom
+N5	Reference T5 wiki:1614887	Freescale
+N6	Reference T6 wiki:1548156	Nvidia
+N7	Reference T7 wiki:897305	Qualcomm
+N8	Reference T8 wiki:125537	Samsung
+N9	Reference T9 wiki:429235	Texas Instruments
+N10	Reference T10 wiki:912279	VIA Technologies
+N11	Reference T11 wiki:3253496	Миландр
+N12	Reference T12 wiki:1118011	STMicroelectronics
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12

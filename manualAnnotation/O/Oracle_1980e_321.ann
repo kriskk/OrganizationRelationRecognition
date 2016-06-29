@@ -1,0 +1,5 @@
+T1	Organization 0 6	Oracle
+T2	Organization 224 230	NASDAQ
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:63813	NASDAQ
+A1	TypeRel T2 Other

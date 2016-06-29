@@ -1,0 +1,9 @@
+T1	Organization 0 12	SCS Software
+T2	Organization 249 269	Sunstorm Interactive
+T3	Organization 628 648	Sunstorm Interactive
+N1	Reference T1 wiki:2550804	SCS Software
+N2	Reference T2 wiki:3127997	Sunstorm Interactive
+N3	Reference T3 wiki:3127997	Sunstorm Interactive
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

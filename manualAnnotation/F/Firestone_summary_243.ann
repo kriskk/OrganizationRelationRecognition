@@ -1,0 +1,5 @@
+T1	Organization 0 9	Firestone
+T2	Organization 245 249	Ford
+N1	Reference T1 wiki:2852451	Firestone
+N2	Reference T2 wiki:153236	Ford
+A1	IsLink T2

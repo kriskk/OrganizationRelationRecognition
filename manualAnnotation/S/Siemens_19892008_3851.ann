@@ -1,0 +1,20 @@
+T1	Organization 0 7	Siemens
+T2	Organization 429 437	Vodafone
+T3	Organization 457 470	Mannesmann AG
+T4	Organization 926 943	Robert Bosch GmbH
+T5	Organization 1088 1091	KKR
+T6	Organization 1158 1188	Demag Cranes & Components GmbH
+T7	Organization 1351 1380	Gottwald Port Technology GmbH
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:213703	Vodafone
+N3	Reference T3 wiki:507916	Mannesmann AG
+N4	Reference T4 wiki:166006	Robert Bosch GmbH
+N5	Reference T5 wiki:604929	KKR
+N6	Reference T6 wiki:2164010	Demag Cranes AG
+N7	Reference T7 wiki:2164010	Demag Cranes AG
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

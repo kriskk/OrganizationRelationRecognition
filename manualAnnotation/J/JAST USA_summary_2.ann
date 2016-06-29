@@ -1,0 +1,8 @@
+T1	Organization 0 8	JAST USA
+T2	Organization 199 212	G-Collections
+T3	Organization 475 488	G-Collections
+N1	Reference T1 wiki:2226225	JAST USA
+N2	Reference T2 wiki:1733134	G-Collections
+N3	Reference T3 wiki:1733134	G-Collections
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

@@ -1,0 +1,6 @@
+Imagination Technologies
+@Положение на рынке
+1189,2735
+
+ Большинство современных переносных высокопроизводительных устройств содержит видеоядро разработанное Imagination Technologies. Лицензиатами компании являются Apple, Samsung, Intel, Broadcom, Freescale, Marvell, Renesas, Texas Instruments, NEC, Sigma Designs, Trident Microsystems, MediaTek, Sony и многие другие. Разработки Imagination Technologies можно встретить в настольных компьютерах, ноутбуках, игровых аркадных автоматах, сотовых телефонах, смартфонах, планшетных компьютерах, телевизорах, портативных мультимедийных проигрывателях. Знаменитые Apple iPhone, Apple iPad, Apple TV, всевозможные Samsung Galaxy, игровая приставка Sony PlayStation Vita, некоторые процессоры Intel содержат графическое ядро Imagination Technologies.
+

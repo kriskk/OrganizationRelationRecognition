@@ -1,0 +1,5 @@
+T1	Organization 0 20	Hummel International
+T2	Organization 209 214	Рибок
+N1	Reference T1 wiki:2755131	Hummel International
+N2	Reference T2 wiki:399359	Рибок
+A1	TypeRel T2 Cooperator

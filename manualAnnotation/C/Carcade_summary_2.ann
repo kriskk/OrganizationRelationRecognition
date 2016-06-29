@@ -1,0 +1,5 @@
+T1	Organization 0 7	Carcade
+T2	Organization 179 198	Getin Holding S. A.
+N1	Reference T1 wiki:3791569	Carcade
+N2	Reference T2 wiki:3791400	Getin Holding
+A1	IsLink T2

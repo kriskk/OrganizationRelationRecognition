@@ -1,0 +1,6 @@
+T1	Organization 0 22	GS Group (Джи Эс Груп)
+T2	Organization 246 254	НТВ-Плюс
+N1	Reference T1 wiki:4482446	GS Group (Джи Эс Груп)
+N2	Reference T2 wiki:723124	НТВ-Плюс
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

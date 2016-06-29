@@ -1,0 +1,5 @@
+T1	Organization 0 5	Edsel
+T2	Organization 87 105	Ford Motor Company
+N1	Reference T1 wiki:667260	Edsel
+N2	Reference T2 wiki:153236	Ford Motor Company
+A1	IsLink T2

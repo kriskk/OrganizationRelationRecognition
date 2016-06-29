@@ -1,0 +1,5 @@
+T1	Organization 0 9	Топ-книга
+T2	Organization 204 211	Копейка
+N1	Reference T1 wiki:508069	Топ-книга
+N2	Reference T2 wiki:153659	Копейка (сеть магазинов)
+A1	IsLink T2

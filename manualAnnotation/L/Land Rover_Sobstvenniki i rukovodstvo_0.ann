@@ -1,0 +1,25 @@
+T1	Organization 0 10	Land Rover
+T2	Organization 92 105	Rover Company
+T3	Organization 217 228	Rover Group
+T4	Organization 246 263	British Aerospace
+T5	Organization 281 284	BMW
+T6	Organization 302 320	Ford Motor Company
+T7	Organization 336 347	Tata Motors
+N1	Reference T1 wiki:683379	Land Rover
+N2	Reference T2 wiki:2199395	Rover Company
+N3	Reference T3 wiki:3186068	Rover Group
+N4	Reference T4 wiki:2452934	British Aerospace
+N5	Reference T5 wiki:40368	BMW
+N6	Reference T6 wiki:153236	Ford
+N7	Reference T7 wiki:962083	Tata Motors
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Holder
+A7	TypeRel T3 Holder
+A8	TypeRel T4 Holder
+A9	TypeRel T5 Holder
+A10	TypeRel T6 Holder
+A11	TypeRel T7 Holder

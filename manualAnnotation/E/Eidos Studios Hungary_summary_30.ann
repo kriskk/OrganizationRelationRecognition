@@ -1,0 +1,9 @@
+T1	Organization 0 21	Eidos Studios Hungary
+T2	Organization 378 395	Eidos Interactive
+T3	Organization 462 480	Square Enix Europe
+N1	Reference T1 wiki:2608977	Eidos Studios Hungary
+N2	Reference T2 wiki:806750	Eidos Interactive
+N3	Reference T3 wiki:288255	Square Enix
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

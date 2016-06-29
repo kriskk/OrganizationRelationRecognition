@@ -1,0 +1,11 @@
+T1	Organization 0 11	Trend Micro
+T2	Organization 234 242	Symantec
+T3	Organization 245 251	McAfee
+T4	Organization 303 308	Humyo
+N1	Reference T1 wiki:910403	Trend Micro
+N2	Reference T2 wiki:157841	Symantec
+N3	Reference T3 wiki:1269265	McAfee
+N4	Reference T4 wiki:2831353	Humyo
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

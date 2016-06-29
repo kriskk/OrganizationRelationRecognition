@@ -1,0 +1,5 @@
+T1	Organization 0 11	RusCable.ru
+T2	Organization 236 242	Яндекс
+N1	Reference T1 wiki:1635399	RusCable.ru
+N2	Reference T2 wiki:9744	Яндекс
+A1	IsLink T2

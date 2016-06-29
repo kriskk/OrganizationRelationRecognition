@@ -1,0 +1,8 @@
+T1	Organization 0 14	Ижорский завод
+T2	Organization 190 228	Объединённые машиностроительные заводы
+T3	Organization 259 281	Ижорский трубный завод
+N1	Reference T1 wiki:601241	Ижорский завод
+N2	Reference T2 wiki:149170	Объединённые машиностроительные заводы
+N3	Reference T3 wiki:1063879	Ижорский трубный завод
+A1	IsLink T2
+A2	IsLink T3

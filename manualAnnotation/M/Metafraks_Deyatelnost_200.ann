@@ -1,0 +1,6 @@
+T1	Organization 0 9	Метафракс
+T2	Organization 219 231	Тольяттиазот
+N1	Reference T1 wiki:2325613	Метафракс
+N2	Reference T2 wiki:161128	Тольяттиазот
+A1	IsLink T2
+A2	TypeRel T2 Competitor

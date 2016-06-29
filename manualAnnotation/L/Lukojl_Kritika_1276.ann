@@ -1,0 +1,8 @@
+T1	Organization 0 6	Лукойл
+T2	Organization 201 215	Mažeikių nafta
+T3	Organization 248 252	ЮКОС
+N1	Reference T1 wiki:59354	Лукойл
+N2	Reference T2 wiki:176035	Mažeikių nafta
+N3	Reference T3 wiki:6032	ЮКОС
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 15	Safari Software
+T2	Organization 194 208	Epic MegaGames
+T3	Organization 543 551	Manaccom
+N1	Reference T1 wiki:765044	Safari Software
+N2	Reference T2 wiki:2094890	Epic Games
+N3	Reference T3 wiki:764833	Manaccom
+A1	IsLink T2
+A2	IsLink T3

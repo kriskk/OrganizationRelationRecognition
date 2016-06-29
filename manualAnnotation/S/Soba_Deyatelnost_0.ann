@@ -1,0 +1,5 @@
+T1	Organization 0 4	Soba
+T2	Organization 133 140	Kenwood
+N1	Reference T1 wiki:2293142	Soba
+N2	Reference T2 wiki:1470441	Kenwood
+A1	IsLink T2

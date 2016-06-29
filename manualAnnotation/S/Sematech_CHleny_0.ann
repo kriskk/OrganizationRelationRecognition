@@ -1,0 +1,26 @@
+T1	Organization 0 8	Sematech
+T2	Organization 76 91	GlobalFoundries
+T3	Organization 94 109	Hewlett Packard
+T4	Organization 112 115	IBM
+T5	Organization 118 123	Intel
+T6	Organization 126 133	Samsung
+T7	Organization 142 146	TSMC
+T8	Organization 163 169	Micron
+T9	Organization 202 209	Toshiba
+N1	Reference T1 wiki:3613510	Sematech
+N2	Reference T2 wiki:3522370	GlobalFoundries
+N3	Reference T3 wiki:89988	Hewlett Packard
+N4	Reference T4 wiki:11078	IBM
+N5	Reference T5 wiki:762172	Intel
+N6	Reference T6 wiki:125537	Samsung
+N7	Reference T7 wiki:755389	TSMC
+N8	Reference T8 wiki:2416494	Micron
+N9	Reference T9 wiki:507269	Toshiba
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9

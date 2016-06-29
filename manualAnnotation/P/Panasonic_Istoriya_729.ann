@@ -1,0 +1,10 @@
+T1	Organization 0 9	Panasonic
+T2	Organization 256 275	Philips Electronics
+T3	Organization 357 360	JVC
+N1	Reference T1 wiki:307154	Panasonic
+N2	Reference T2 wiki:204179	Philips
+N3	Reference T3 wiki:294288	JVC
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

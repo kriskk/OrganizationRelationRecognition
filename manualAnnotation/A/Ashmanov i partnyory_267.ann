@@ -1,0 +1,5 @@
+T1	Organization 0 18	Ашманов и партнёры
+T2	Organization 196 209	Наносемантика
+N1	Reference T1 wiki:2022164	Ашманов и партнёры
+N2	Reference T2 wiki:2753451	Наносемантика
+A1	IsLink T2

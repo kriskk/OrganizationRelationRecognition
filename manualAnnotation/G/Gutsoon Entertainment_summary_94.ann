@@ -1,0 +1,6 @@
+T1	Organization 0 22	Gutsoon! Entertainment
+T2	Organization 278 288	Shinchosha
+N1	Reference T1 wiki:2956962	Gutsoon! Entertainment
+N2	Reference T2 wiki:2777021	Shinchosha
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

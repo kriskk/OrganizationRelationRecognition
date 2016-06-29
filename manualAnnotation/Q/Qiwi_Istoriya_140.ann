@@ -1,0 +1,13 @@
+T1	Organization 0 4	Qiwi
+T2	Organization 370 383	Группы e-port
+T3	Organization 751 764	Mail.Ru Group
+T4	Organization 857 871	Mitsui Fudosan
+N1	Reference T1 wiki:2398238	Qiwi
+N2	Reference T2 wiki:2061450	E-port
+N3	Reference T3 wiki:2276649	Mail.Ru Group
+N4	Reference T4 wiki:1017229	Mitsui Fudosan
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Holder
+A5	TypeRel T4 Holder

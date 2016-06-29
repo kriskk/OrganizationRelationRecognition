@@ -1,0 +1,6 @@
+Nvidia
+@Чипсеты для системных плат
+4380,342
+
+	 nForce5 — Поддерживает процессоры AMD на платформе Socket AM3 (при обновлении BIOS, вероятно не всегда), Socket AM2 (Athlon 64, 64-FX, 64-Х2, Sempron 64) и Intel (Core 2, Pentium 4 Prescott, Pentium 4 EE, Pentium D, Celeron D).
+	 nForce6 — Поддерживает процессоры AMD на платформе Socket AM2 (Athlon QuadFX) и Intel (Intel Core 2, Core 2 Extreme, Pentium 4 Prescott, Pentium 4 EE, Pentium 4 D, Celeron D).

@@ -1,0 +1,6 @@
+T1	Organization 0 11	Kaga Create
+T2	Organization 129 140	Hudson Soft
+N1	Reference T1 wiki:1736086	Kaga Create
+N2	Reference T2 wiki:1734514	Hudson Soft
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

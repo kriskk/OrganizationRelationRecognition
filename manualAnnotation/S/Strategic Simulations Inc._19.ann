@@ -1,0 +1,5 @@
+T1	Organization 0 27	Strategic Simulations, Inc.
+T2	Organization 188 195	Ubisoft
+N1	Reference T1 wiki:897400	Strategic Simulations, Inc.
+N2	Reference T2 wiki:650139	Ubisoft
+A1	IsLink T2

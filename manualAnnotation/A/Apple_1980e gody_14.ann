@@ -1,0 +1,5 @@
+T1	Organization 0 5	Apple
+T2	Organization 228 232	Ford
+N1	Reference T1 wiki:39726	Apple
+N2	Reference T2 wiki:153236	Ford
+A1	IsLink T2

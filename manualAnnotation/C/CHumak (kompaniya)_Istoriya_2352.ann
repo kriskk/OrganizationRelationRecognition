@@ -1,0 +1,5 @@
+T1	Organization 0 16	Чумак (компания)
+T2	Organization 224 232	Unilever
+N1	Reference T1 wiki:536652	Чумак (компания)
+N2	Reference T2 wiki:198503	Unilever
+A1	IsLink T2

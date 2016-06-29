@@ -1,0 +1,21 @@
+T1	Organization 0 16	VIA Technologies
+T2	Organization 257 263	NVIDIA
+T3	Organization 408 419	S3 Graphics
+T4	Organization 681 686	Intel
+T5	Organization 688 691	AMD
+T6	Organization 694 700	NVIDIA
+N1	Reference T1 wiki:912279	VIA Technologies
+N2	Reference T2 wiki:1548156	NVIDIA
+N3	Reference T3 wiki:2293590	S3 Graphics
+N4	Reference T4 wiki:762172	Intel
+N5	Reference T5 wiki:19981	AMD
+N6	Reference T6 wiki:1548156	NVIDIA
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Competitor
+A8	TypeRel T5 Competitor
+A9	TypeRel T6 Competitor

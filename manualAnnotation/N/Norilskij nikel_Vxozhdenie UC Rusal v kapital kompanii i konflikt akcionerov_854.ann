@@ -1,0 +1,6 @@
+T1	Organization 0 17	Норильский никель
+T2	Organization 380 388	Интеррос
+N1	Reference T1 wiki:73395	Норильский никель
+N2	Reference T2 wiki:147366	Интеррос
+A1	IsLink T2
+A2	TypeRel T2 Personnel

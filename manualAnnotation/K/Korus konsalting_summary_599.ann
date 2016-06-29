@@ -1,0 +1,33 @@
+T1	Organization 0 16	Корус консалтинг
+T2	Organization 315 324	Microsoft
+T3	Organization 326 332	Oracle
+T4	Organization 334 337	SAP
+T5	Organization 339 342	EMC
+T6	Organization 344 349	Cisco
+T7	Organization 351 366	Hewlett-Packard
+T8	Organization 368 371	IBM
+T9	Organization 373 381	Motorola
+N1	Reference T1 wiki:1771969	Корус консалтинг
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:129227	Oracle
+N4	Reference T4 wiki:81959	SAP
+N5	Reference T5 wiki:541503	EMC
+N6	Reference T6 wiki:25014	Cisco
+N7	Reference T7 wiki:89988	Hewlett-Packard
+N8	Reference T8 wiki:11078	IBM
+N9	Reference T9 wiki:134384	Motorola
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator
+A15	TypeRel T9 Cooperator

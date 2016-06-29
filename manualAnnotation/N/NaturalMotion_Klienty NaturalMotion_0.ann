@@ -1,0 +1,42 @@
+T1	Organization 0 13	NaturalMotion
+T2	Organization 195 199	Sony
+T3	Organization 211 226	Electronic Arts
+T4	Organization 252 258	Konami
+T5	Organization 260 266	Capcom
+T6	Organization 268 272	Sega
+T7	Organization 274 277	THQ
+T8	Organization 279 293	Rockstar Games
+T9	Organization 295 303	Autodesk
+T10	Organization 492 501	LucasArts
+T11	Organization 659 673	Rockstar Games
+N1	Reference T1 wiki:1770668	NaturalMotion
+N2	Reference T2 wiki:73019	Sony
+N3	Reference T3 wiki:323143	Electronic Arts
+N4	Reference T4 wiki:747952	Konami
+N5	Reference T5 wiki:714415	Capcom
+N6	Reference T6 wiki:92589	Sega
+N7	Reference T7 wiki:795069	THQ
+N8	Reference T8 wiki:650156	Rockstar Games
+N9	Reference T9 wiki:699040	Autodesk
+N10	Reference T10 wiki:367933	LucasArts
+N11	Reference T11 wiki:650156	Rockstar Games
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	TypeRel T2 Cooperator
+A12	TypeRel T3 Cooperator
+A13	TypeRel T4 Cooperator
+A14	TypeRel T5 Cooperator
+A15	TypeRel T6 Cooperator
+A16	TypeRel T7 Cooperator
+A17	TypeRel T8 Cooperator
+A18	TypeRel T9 Cooperator
+A19	TypeRel T10 Cooperator
+A20	TypeRel T11 Cooperator

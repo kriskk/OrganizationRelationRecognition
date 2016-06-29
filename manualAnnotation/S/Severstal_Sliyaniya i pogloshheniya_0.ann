@@ -1,0 +1,14 @@
+T1	Organization 0 10	Северсталь
+T2	Organization 160 171	Ульяновский
+T3	Organization 259 276	«Северсталь-авто»
+T4	Organization 440 447	Sollers
+T5	Organization 776 789	ArcelorMittal
+N1	Reference T1 wiki:149218	Северсталь
+N2	Reference T2 wiki:84571	Ульяновский автомобильный завод
+N3	Reference T3 wiki:159017	Северсталь-авто
+N4	Reference T4 wiki:159017	Соллерс (компания)
+N5	Reference T5 wiki:354086	ArcelorMittal
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

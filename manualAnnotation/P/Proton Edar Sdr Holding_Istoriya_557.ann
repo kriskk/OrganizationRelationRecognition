@@ -1,0 +1,6 @@
+T1	Organization 0 23	Proton Edar Sdr Holding
+T2	Organization 294 304	Lotus Cars
+N1	Reference T1 wiki:1795690	Proton Edar Sdr Holding
+N2	Reference T2 wiki:748115	Lotus Cars
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

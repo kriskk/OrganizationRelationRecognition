@@ -1,0 +1,6 @@
+T1	Organization 0 10	Unity Line
+T2	Organization 174 195	Polska Żegluga Morska
+N1	Reference T1 wiki:4387385	Unity Line
+N2	Reference T2 wiki:4387350	Polsteam
+A1	IsLink T2
+A2	TypeRel T2 Holder

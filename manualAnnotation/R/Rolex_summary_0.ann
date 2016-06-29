@@ -1,0 +1,5 @@
+T1	Organization 0 5	Rolex
+T2	Organization 150 156	Ролекс
+N1	Reference T1 wiki:321708	Rolex
+N2	Reference T2 wiki:321708	Ролекс (торговая марка)
+A1	TypeRel T2 Subsidiary

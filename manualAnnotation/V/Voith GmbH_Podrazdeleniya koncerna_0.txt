@@ -1,0 +1,13 @@
+Voith GmbH
+@Подразделения концерна
+1069,0
+
+
+Подразделения концерна
+
+ Voith Paper
+	 Voith Siemens Hydro
+	 Voith Turbo
+	 Voith Indust. Services
+
+

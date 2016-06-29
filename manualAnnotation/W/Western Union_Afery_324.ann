@@ -1,0 +1,5 @@
+T1	Organization 0 13	Western Union
+T2	Organization 341 345	Ebay
+N1	Reference T1 wiki:397765	Western Union
+N2	Reference T2 wiki:130673	Ebay
+A1	TypeRel T2 Other

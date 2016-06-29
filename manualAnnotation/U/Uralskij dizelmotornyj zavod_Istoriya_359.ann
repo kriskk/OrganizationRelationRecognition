@@ -1,0 +1,14 @@
+T1	Organization 0 31	Уральский дизель-моторный завод
+T2	Organization 205 210	БелАЗ
+T3	Organization 299 330	Челябинского тракторного завода
+T4	Organization 609 622	Группы Синара
+N1	Reference T1 wiki:1753172	Уральский дизель-моторный завод
+N2	Reference T2 wiki:104850	Белорусский автомобильный завод
+N3	Reference T3 wiki:306580	Челябинский тракторный завод
+N4	Reference T4 wiki:2398160	Группа Синара
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Holder

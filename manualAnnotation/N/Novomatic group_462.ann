@@ -1,0 +1,6 @@
+T1	Organization 0 15	Novomatic group
+T2	Organization 186 206	Novomatic AG Holding
+N1	Reference T1 wiki:1659024	Novomatic group
+N2	Reference T2 wiki:1669481	Novomatic AG Holding
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,10 @@
+T1	Organization 0 8	NetSuite
+T2	Organization 389 411	Level 3 Communications
+T3	Organization 540 547	Gartner
+N1	Reference T1 wiki:1304057	NetSuite
+N2	Reference T2 wiki:1503317	Level 3 Communications
+N3	Reference T3 wiki:2960363	Gartner
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Other

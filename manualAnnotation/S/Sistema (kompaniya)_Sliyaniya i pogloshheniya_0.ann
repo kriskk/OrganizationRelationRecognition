@@ -1,0 +1,11 @@
+T1	Organization 0 18	Система (компания)
+T2	Organization 195 209	Shyam Telelink
+T3	Organization 457 489	Межрегионального Транзиттелекома
+T4	Organization 884 918	Комстар — Объединённые ТелеСистемы
+N1	Reference T1 wiki:158888	Система (компания)
+N2	Reference T2 wiki:2125924	Sistema Shyam Teleservices
+N3	Reference T3 wiki:638758	Межрегиональный Транзиттелеком
+N4	Reference T4 wiki:150442	Комстар — Объединённые ТелеСистемы
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,5 @@
+T1	Organization 0 27	Алтын Асыр (оператор связи)
+T2	Organization 248 264	МТС-Туркменистан
+N1	Reference T1 wiki:2534369	Алтын Асыр (оператор связи)
+N2	Reference T2 wiki:1608351	МТС-Туркменистан
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 12	Finmeccanica
+T2	Organization 81 99	Alenia Aeronautica
+T3	Organization 233 245	AnsaldoBreda
+N1	Reference T1 wiki:1108041	Finmeccanica
+N2	Reference T2 wiki:1764819	Alenia Aeronautica
+N3	Reference T3 wiki:2212181	AnsaldoBreda
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,10 @@
+T1	Organization 0 9	MV Agusta
+T2	Organization 267 273	Proton
+T3	Organization 481 496	Harley-Davidson
+N1	Reference T1 wiki:3239010	MV Agusta
+N2	Reference T2 wiki:1795690	Proton Edar Sdr Holding
+N3	Reference T3 wiki:670179	Harley-Davidson
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder
+A4	TypeRel T2 Holder

@@ -1,0 +1,8 @@
+T1	Organization 0 17	Тяжпромэлектромет
+T2	Organization 265 282	Дженерал Электрик
+T3	Organization 378 419	Ново-Тагильского металлургического завода
+N1	Reference T1 wiki:4192925	Тяжпромэлектромет
+N2	Reference T2 wiki:13762	Дженерал Электрик
+N3	Reference T3 wiki:154730	Ново-Тагильский металлургический завод
+A1	IsLink T2
+A2	IsLink T3

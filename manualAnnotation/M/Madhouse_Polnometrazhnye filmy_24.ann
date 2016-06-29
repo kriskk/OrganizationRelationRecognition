@@ -1,0 +1,9 @@
+T1	Organization 0 8	Madhouse
+T2	Organization 231 237	Sanrio
+T3	Organization 558 571	Studio Ghibli
+N1	Reference T1 wiki:871335	Madhouse
+N2	Reference T2 wiki:3261870	Sanrio
+N3	Reference T3 wiki:8977	Studio Ghibli
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Personnel

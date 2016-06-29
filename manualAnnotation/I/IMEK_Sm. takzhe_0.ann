@@ -1,0 +1,5 @@
+T1	Organization 0 4	ИМЕК
+T2	Organization 37 45	SEMATECH
+N1	Reference T1 wiki:1858919	ИМЕК
+N2	Reference T2 wiki:3613510	SEMATECH
+A1	IsLink T2

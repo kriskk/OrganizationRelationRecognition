@@ -1,0 +1,22 @@
+T1	Organization 0 8	Heineken
+T2	Organization 206 226	Anheuser-Busch InBev
+T3	Organization 229 238	SABMiller
+T4	Organization 524 530	Amstel
+T5	Organization 605 613	Paulaner
+T6	Organization 675 692	Krušovice Brewery
+N1	Reference T1 wiki:248758	Heineken
+N2	Reference T2 wiki:3199376	Anheuser-Busch InBev
+N3	Reference T3 wiki:181056	SABMiller
+N4	Reference T4 wiki:1571367	Amstel (компания)
+N5	Reference T5 wiki:2780385	Paulaner
+N6	Reference T6 wiki:700617	Krusovice (пивовар)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Competitor
+A7	TypeRel T3 Competitor
+A8	TypeRel T4 Competitor
+A9	TypeRel T5 Holder
+A10	TypeRel T6 Subsidiary

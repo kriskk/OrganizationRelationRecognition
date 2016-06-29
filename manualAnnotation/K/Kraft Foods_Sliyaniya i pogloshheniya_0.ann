@@ -1,0 +1,5 @@
+T1	Organization 0 11	Kraft Foods
+T2	Organization 176 183	Cadbury
+N1	Reference T1 wiki:243189	Kraft Foods
+N2	Reference T2 wiki:192535	Cadbury
+A1	TypeRel T2 Subsidiary

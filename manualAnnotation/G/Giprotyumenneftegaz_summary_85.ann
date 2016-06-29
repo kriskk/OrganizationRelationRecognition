@@ -1,0 +1,26 @@
+T1	Organization 0 18	Гипротюменнефтегаз
+T2	Organization 199 211	«Группу ГМС»
+T3	Organization 557 572	«Газпром нефть»
+T4	Organization 574 580	ТНК-ВР
+T5	Organization 582 592	«Роснефть»
+T6	Organization 594 603	«НОВАТЭК»
+T7	Organization 605 612	«РИТЭК»
+N1	Reference T1 wiki:1615645	Гипротюменнефтегаз
+N2	Reference T2 wiki:3021800	Группа ГМС
+N3	Reference T3 wiki:121955	Газпром нефть
+N4	Reference T4 wiki:17252	TNK-BP
+N5	Reference T5 wiki:139770	Роснефть
+N6	Reference T6 wiki:172027	НОВАТЭК
+N7	Reference T7 wiki:312725	РИТЭК
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Holder
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator

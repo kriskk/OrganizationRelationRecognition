@@ -1,0 +1,10 @@
+T1	Organization 0 7	Maybach
+T2	Organization 379 390	Rolls-Royce
+T3	Organization 414 417	BMW
+N1	Reference T1 wiki:40392	Maybach
+N2	Reference T2 wiki:40384	Rolls-Royce Motor Cars
+N3	Reference T3 wiki:40368	BMW
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

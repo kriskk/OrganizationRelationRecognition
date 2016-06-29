@@ -1,0 +1,8 @@
+T1	Organization 0 10	Казахфильм
+T2	Organization 192 200	Ленфильм
+T3	Organization 548 556	Мосфильм
+N1	Reference T1 wiki:356848	Казахфильм
+N2	Reference T2 wiki:175417	Ленфильм
+N3	Reference T3 wiki:25605	Мосфильм
+A1	IsLink T2
+A2	TypeRel T3 Merge

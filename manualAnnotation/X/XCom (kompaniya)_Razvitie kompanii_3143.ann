@@ -1,0 +1,6 @@
+T1	Organization 0 16	X-Com (компания)
+T2	Organization 566 572	D-Link
+N1	Reference T1 wiki:3684168	X-Com (компания)
+N2	Reference T2 wiki:936030	D-Link
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

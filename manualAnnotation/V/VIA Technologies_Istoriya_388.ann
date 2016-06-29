@@ -1,0 +1,16 @@
+T1	Organization 0 16	VIA Technologies
+T2	Organization 276 281	Cyrix
+T3	Organization 305 327	National Semiconductor
+T4	Organization 355 383	Integrated Device Technology
+T5	Organization 588 599	S3 Graphics
+N1	Reference T1 wiki:912279	VIA Technologies
+N2	Reference T2 wiki:209856	Cyrix
+N3	Reference T3 wiki:3532914	National Semiconductor
+N4	Reference T4 wiki:2323942	Integrated Device Technology
+N5	Reference T5 wiki:2293590	S3 Graphics
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T5 Cooperator

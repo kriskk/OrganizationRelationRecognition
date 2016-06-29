@@ -1,0 +1,5 @@
+T1	Organization 0 7	Allianz
+T2	Organization 256 259	IBM
+N1	Reference T1 wiki:50998	Allianz
+N2	Reference T2 wiki:11078	IBM
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 17	Siber Systems Inc
+T2	Organization 263 274	Morningstar
+N1	Reference T1 wiki:3042012	Siber Systems Inc
+N2	Reference T2 wiki:447023	Morningstar
+A1	IsLink T2

@@ -1,0 +1,11 @@
+T1	Organization 0 14	Сумма (группа)
+T2	Organization 92 128	Новороссийский морской торговый порт
+T3	Organization 137 172	Дальневосточное морское пароходство
+T4	Organization 287 300	Сумма Телеком
+N1	Reference T1 wiki:3409706	Сумма (группа)
+N2	Reference T2 wiki:308992	Новороссийский морской торговый порт
+N3	Reference T3 wiki:149752	Дальневосточное морское пароходство
+N4	Reference T4 wiki:2589483	Сумма Телеком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

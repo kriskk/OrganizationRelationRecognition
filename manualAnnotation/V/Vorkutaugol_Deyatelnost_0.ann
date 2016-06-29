@@ -1,0 +1,14 @@
+T1	Organization 0 12	Воркутауголь
+T2	Organization 171 181	Северсталь
+T3	Organization 188 192	НЛМК
+T4	Organization 232 243	Алчевсккокс
+N1	Reference T1 wiki:1284228	Воркутауголь
+N2	Reference T2 wiki:149218	Северсталь
+N3	Reference T3 wiki:143594	НЛМК
+N4	Reference T4 wiki:510769	Алчевсккокс
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 10	McDonald’s
+T2	Organization 211 225	студией Диснея
+N1	Reference T1 wiki:3425	McDonald’s
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	TypeRel T2 Cooperator

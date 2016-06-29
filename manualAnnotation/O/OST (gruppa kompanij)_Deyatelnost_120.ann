@@ -1,0 +1,5 @@
+T1	Organization 0 21	ОСТ (группа компаний)
+T2	Organization 229 236	PepsiCo
+N1	Reference T1 wiki:153812	ОСТ (группа компаний)
+N2	Reference T2 wiki:606214	PepsiCo
+A1	IsLink T2

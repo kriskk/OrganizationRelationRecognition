@@ -1,0 +1,10 @@
+T1	Organization 0 15	Москвич (завод)
+T2	Organization 187 191	Ford
+T3	Organization 476 479	ГАЗ
+N1	Reference T1 wiki:120499	Москвич (завод)
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:25060	Горьковский автомобильный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Holder

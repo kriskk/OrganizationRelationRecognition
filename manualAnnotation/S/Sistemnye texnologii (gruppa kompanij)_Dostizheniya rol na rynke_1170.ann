@@ -1,0 +1,8 @@
+T1	Organization 0 38	Системные технологии (группа компаний)
+T2	Organization 276 289	Dirol Cadbury
+T3	Organization 416 423	Сандора
+N1	Reference T1 wiki:2440614	Системные технологии (группа компаний)
+N2	Reference T2 wiki:192535	Cadbury
+N3	Reference T3 wiki:761095	Сандора
+A1	IsLink T2
+A2	IsLink T3

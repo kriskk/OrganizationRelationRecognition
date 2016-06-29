@@ -1,0 +1,6 @@
+T1	Organization 0 18	Rockstar Vancouver
+T2	Organization 188 202	Rockstar Games
+N1	Reference T1 wiki:2102172	Rockstar Vancouver
+N2	Reference T2 wiki:650156	Rockstar Games
+A1	IsLink T2
+A2	TypeRel T2 Holder

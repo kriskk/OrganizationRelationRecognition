@@ -1,0 +1,6 @@
+T1	Organization 0 3	IBM
+T2	Organization 216 225	Microsoft
+N1	Reference T1 wiki:11078	IBM
+N2	Reference T2 wiki:11987	Microsoft
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

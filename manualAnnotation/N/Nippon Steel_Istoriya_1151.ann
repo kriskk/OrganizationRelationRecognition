@@ -1,0 +1,6 @@
+T1	Organization 0 12	Nippon Steel
+T2	Organization 202 227	Sumitomo Metal Industries
+N1	Reference T1 wiki:1686542	Nippon Steel
+N2	Reference T2 wiki:1835225	Sumitomo Metal Industries
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 15	Rolls-Royce plc
+T2	Organization 70 92	Rolls-Royce Motor Cars
+N1	Reference T1 wiki:303399	Rolls-Royce plc
+N2	Reference T2 wiki:40384	Rolls-Royce Motor Cars
+A1	IsLink T2

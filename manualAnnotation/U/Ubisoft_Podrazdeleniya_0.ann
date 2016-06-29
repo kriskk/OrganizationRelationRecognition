@@ -1,0 +1,88 @@
+T1	Organization 0 7	Ubisoft
+T2	Organization 48 61	Ubisoft Tiwak
+T3	Organization 64 83	Ubisoft Montpellier
+T4	Organization 86 99	Ubisoft Paris
+T5	Organization 102 116	Ubisoft Annecy
+T6	Organization 119 132	Ubisoft Milan
+T7	Organization 135 151	Ubisoft Montreal
+T8	Organization 154 168	Ubisoft Quebec
+T9	Organization 171 188	Ubisoft Vancouver
+T10	Organization 191 207	Ubisoft Shanghai
+T11	Organization 210 225	Ubisoft Chengdu
+T12	Organization 228 245	Ubisoft Singapore
+T13	Organization 401 416	Ubisoft Romania
+T14	Organization 437 451	Ubisoft Poland
+T15	Organization 454 471	Ubisoft São Paulo
+T16	Organization 474 491	Ubisoft Barcelona
+T17	Organization 691 699	Gameloft
+T18	Organization 731 749	Ubisoft Casablanca
+T19	Organization 783 796	барселонского
+T20	Organization 986 1001	Ubisoft Toronto
+T21	Organization 1044 1061	Ubisoft Red Storm
+T22	Organization 1082 1099	Ubisoft Blue Byte
+T23	Organization 1102 1107	Nadeo
+N1	Reference T1 wiki:650139	Ubisoft
+N2	Reference T2 wiki:2428143	Ubisoft Tiwak
+N3	Reference T3 wiki:2644860	Ubisoft Montpellier
+N4	Reference T4 wiki:2525102	Ubisoft Paris
+N5	Reference T5 wiki:2650347	Ubisoft Annecy
+N6	Reference T6 wiki:2621586	Ubisoft Milan
+N7	Reference T7 wiki:1357432	Ubisoft Montreal
+N8	Reference T8 wiki:2654740	Ubisoft Quebec
+N9	Reference T9 wiki:2659289	Ubisoft Vancouver
+N10	Reference T10 wiki:2522700	Ubisoft Shanghai
+N11	Reference T11 wiki:2523242	Ubisoft Chengdu
+N12	Reference T12 wiki:2663742	Ubisoft Singapore
+N13	Reference T13 wiki:2366620	Ubisoft Romania
+N14	Reference T14 wiki:2529560	Ubisoft Poland
+N15	Reference T15 wiki:2564395	Ubisoft São Paulo
+N16	Reference T16 wiki:2672740	Ubisoft Barcelona
+N17	Reference T17 wiki:729121	Gameloft
+N18	Reference T18 wiki:2680405	Ubisoft Casablanca
+N19	Reference T19 wiki:2672740	Ubisoft Barcelona
+N20	Reference T20 wiki:4305646	Ubisoft Toronto
+N21	Reference T21 wiki:4305713	Ubisoft Red Storm
+N22	Reference T22 wiki:908152	Ubisoft Blue Byte
+N23	Reference T23 wiki:2518990	Nadeo
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	IsLink T21
+A21	IsLink T22
+A22	IsLink T23
+A1	TypeRel T2 Subsidiary
+A23	TypeRel T3 Subsidiary
+A24	TypeRel T4 Subsidiary
+A25	TypeRel T5 Subsidiary
+A26	TypeRel T6 Subsidiary
+A27	TypeRel T7 Subsidiary
+A28	TypeRel T8 Subsidiary
+A29	TypeRel T9 Subsidiary
+A30	TypeRel T10 Subsidiary
+A31	TypeRel T11 Subsidiary
+A32	TypeRel T12 Subsidiary
+A33	TypeRel T13 Subsidiary
+A34	TypeRel T14 Subsidiary
+A35	TypeRel T15 Subsidiary
+A36	TypeRel T16 Subsidiary
+A37	TypeRel T18 Subsidiary
+A38	TypeRel T20 Subsidiary
+A39	TypeRel T19 Subsidiary
+A40	TypeRel T21 Subsidiary
+A41	TypeRel T22 Subsidiary
+A42	TypeRel T23 Subsidiary

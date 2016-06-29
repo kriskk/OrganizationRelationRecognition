@@ -1,0 +1,5 @@
+T1	Organization 0 6	Holden
+T2	Organization 125 139	General Motors
+N1	Reference T1 wiki:604803	Holden
+N2	Reference T2 wiki:17438	General Motors
+A1	IsLink T2

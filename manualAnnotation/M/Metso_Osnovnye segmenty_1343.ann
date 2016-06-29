@@ -1,0 +1,10 @@
+T1	Organization 0 5	Metso
+T2	Organization 195 215	ОАО «Сургутнефтегаз»
+T3	Organization 237 253	РАО «ЕЭС России»
+N1	Reference T1 wiki:3539984	Metso
+N2	Reference T2 wiki:143564	Сургутнефтегаз
+N3	Reference T3 wiki:1432138	РАО «ЕЭС России»
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

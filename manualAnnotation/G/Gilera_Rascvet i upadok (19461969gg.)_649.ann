@@ -1,0 +1,5 @@
+T1	Organization 0 6	Gilera
+T2	Organization 226 235	MV Agusta
+N1	Reference T1 wiki:3317262	Gilera
+N2	Reference T2 wiki:3239010	MV Agusta
+A1	TypeRel T2 Personnel

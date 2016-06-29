@@ -1,0 +1,11 @@
+T1	Organization 0 15	Baume & Mercier
+T2	Organization 190 199	Richemont
+T3	Organization 201 208	Cartier
+T4	Organization 210 216	Piaget
+N1	Reference T1 wiki:3118530	Baume & Mercier
+N2	Reference T2 wiki:3206803	Richemont
+N3	Reference T3 wiki:1140234	Cartier
+N4	Reference T4 wiki:3208208	Piaget
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,10 @@
+T1	Organization 0 7	Leadtek
+T2	Organization 230 236	NVIDIA
+T3	Organization 243 246	SiS
+N1	Reference T1 wiki:2359690	Leadtek
+N2	Reference T2 wiki:1548156	NVIDIA
+N3	Reference T3 wiki:2346936	SiS
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 6	Mousel
+T2	Organization 218 223	InBev
+N1	Reference T1 wiki:2499599	Mousel
+N2	Reference T2 wiki:203867	InBev
+A1	IsLink T2
+A2	TypeRel T2 Holder

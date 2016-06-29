@@ -1,0 +1,42 @@
+T1	Organization 0 18	Плюс коммуникейшнс
+T2	Organization 458 463	Cisco
+T3	Organization 465 481	Extreme Networks
+T4	Organization 483 490	Juniper
+T5	Organization 492 498	D-Link
+T6	Organization 509 513	Dell
+T7	Organization 515 520	Avaya
+T8	Organization 522 528	VMware
+T9	Organization 530 537	Polycom
+T10	Organization 539 547	Tandberg
+T11	Organization 971 976	Cisco
+N1	Reference T1 wiki:3628134	Плюс коммуникейшнс
+N2	Reference T2 wiki:25014	Cisco Systems
+N3	Reference T3 wiki:1619817	Extreme Networks
+N4	Reference T4 wiki:320144	Juniper
+N5	Reference T5 wiki:936030	D-Link
+N6	Reference T6 wiki:124570	Dell
+N7	Reference T7 wiki:685464	Avaya
+N8	Reference T8 wiki:205509	VMware
+N9	Reference T9 wiki:2173201	Polycom
+N10	Reference T10 wiki:1683710	Tandberg
+N11	Reference T11 wiki:25014	Cisco
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	TypeRel T2 Cooperator
+A12	TypeRel T3 Cooperator
+A13	TypeRel T4 Cooperator
+A14	TypeRel T5 Cooperator
+A15	TypeRel T6 Cooperator
+A16	TypeRel T7 Cooperator
+A17	TypeRel T8 Cooperator
+A18	TypeRel T9 Cooperator
+A19	TypeRel T10 Cooperator
+A20	TypeRel T11 Cooperator

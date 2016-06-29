@@ -1,0 +1,9 @@
+T1	Organization 0 4	GOME
+T2	Organization 165 179	JPMorgan Chase
+T3	Organization 191 205	Morgan Stanley
+N1	Reference T1 wiki:1524176	GOME
+N2	Reference T2 wiki:374499	JPMorgan Chase
+N3	Reference T3 wiki:612532	Morgan Stanley
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

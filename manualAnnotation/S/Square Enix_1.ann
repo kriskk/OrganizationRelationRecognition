@@ -1,0 +1,8 @@
+T1	Organization 0 11	Square Enix
+T2	Organization 181 185	Enix
+T3	Organization 207 217	Square Co.
+N1	Reference T1 wiki:288255	Square Enix
+N2	Reference T2 wiki:2414804	Enix
+N3	Reference T3 wiki:278305	Square Co.
+A1	IsLink T2
+A2	IsLink T3

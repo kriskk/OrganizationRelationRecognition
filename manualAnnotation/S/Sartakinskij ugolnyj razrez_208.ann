@@ -1,0 +1,5 @@
+T1	Organization 0 28	Сартакинский угольный разрез
+T2	Organization 193 217	ОАО «Кузбассразрезуголь»
+N1	Reference T1 wiki:2266272	Сартакинский угольный разрез
+N2	Reference T2 wiki:171189	Кузбассразрезуголь
+A1	IsLink T2

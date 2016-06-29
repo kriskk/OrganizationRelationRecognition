@@ -1,0 +1,6 @@
+T1	Organization 0 15	Heliopark Group
+T2	Organization 110 136	Heliopark Hotels & Resorts
+N1	Reference T1 wiki:612984	Heliopark Group
+N2	Reference T2 wiki:612984	Heliopark Hotels & Resorts
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

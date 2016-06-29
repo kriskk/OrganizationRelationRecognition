@@ -1,0 +1,6 @@
+T1	Organization 0 25	Qt Development Frameworks
+T2	Organization 211 216	Nokia
+N1	Reference T1 wiki:567361	Qt Development Frameworks
+N2	Reference T2 wiki:56405	Nokia
+A1	IsLink T2
+A2	TypeRel T2 Holder

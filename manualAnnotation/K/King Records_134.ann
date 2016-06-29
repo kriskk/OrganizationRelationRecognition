@@ -1,0 +1,5 @@
+T1	Organization 0 12	King Records
+T2	Organization 181 188	Коданся
+N1	Reference T1 wiki:2307207	King Records
+N2	Reference T2 wiki:200272	Коданся
+A1	TypeRel T2 Holder

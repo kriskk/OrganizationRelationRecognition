@@ -1,0 +1,8 @@
+T1	Organization 0 9	Banpresto
+T2	Organization 259 263	Sega
+T3	Organization 346 352	Bandai
+N1	Reference T1 wiki:1818805	Banpresto
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:393686	Bandai
+A1	IsLink T2
+A2	IsLink T3

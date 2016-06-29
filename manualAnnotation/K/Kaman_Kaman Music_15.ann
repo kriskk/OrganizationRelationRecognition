@@ -1,0 +1,9 @@
+T1	Organization 0 5	Kaman
+T2	Organization 358 364	Sabian
+T3	Organization 550 556	Fender
+N1	Reference T1 wiki:944678	Kaman
+N2	Reference T2 wiki:3038569	Sabian
+N3	Reference T3 wiki:387353	Fender
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

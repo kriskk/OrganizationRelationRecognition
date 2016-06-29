@@ -1,0 +1,5 @@
+T1	Organization 0 5	Atari
+T2	Organization 180 185	Apple
+N1	Reference T1 wiki:308218	Atari
+N2	Reference T2 wiki:39726	Apple
+A1	IsLink T2

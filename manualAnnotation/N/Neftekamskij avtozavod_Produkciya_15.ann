@@ -1,0 +1,5 @@
+T1	Organization 0 22	Нефтекамский автозавод
+T2	Organization 193 214	пассажирские автобусы
+N1	Reference T1 wiki:404943	Нефтекамский автозавод
+N2	Reference T2 wiki:404943	Автобусы НефАЗ
+A1	IsLink T2

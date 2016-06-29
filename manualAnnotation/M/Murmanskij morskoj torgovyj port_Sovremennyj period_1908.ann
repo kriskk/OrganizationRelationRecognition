@@ -1,0 +1,13 @@
+T1	Organization 0 32	Мурманский морской торговый порт
+T2	Organization 241 265	порта в Санкт-Петербурге
+T3	Organization 297 304	ЕвроХим
+T4	Organization 428 432	СУЭК
+N1	Reference T1 wiki:3022119	Мурманский морской торговый порт
+N2	Reference T2 wiki:1521992	Большой порт Санкт-Петербург
+N3	Reference T3 wiki:376551	ЕвроХим
+N4	Reference T4 wiki:162787	Сибирская угольная энергетическая компания
+A1	IsLink T2
+A3	IsLink T4
+A2	TypeRel T3 Holder
+A4	TypeRel T2 Competitor
+A5	TypeRel T4 Holder

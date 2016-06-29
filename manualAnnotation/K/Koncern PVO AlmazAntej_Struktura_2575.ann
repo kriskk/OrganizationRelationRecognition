@@ -1,0 +1,18 @@
+T1	Organization 0 25	Концерн ПВО «Алмаз-Антей»
+T2	Organization 223 300	Машиностроительное конструкторское бюро „Факел“ имени академика П. Д. Грушина
+T3	Organization 366 396	Нижегородский НИИ радиотехники
+T4	Organization 533 555	Оборонительные системы
+T5	Organization 651 673	Оборонительные системы
+N1	Reference T1 wiki:149639	Концерн ПВО «Алмаз-Антей»
+N2	Reference T2 wiki:1280435	Машиностроительное конструкторское бюро Факел имени академика П. Д. Грушина
+N3	Reference T3 wiki:661428	Нижегородский НИИ радиотехники
+N4	Reference T4 wiki:2848714	Оборонительные системы
+N5	Reference T5 wiki:2848714	Оборонительные системы
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary

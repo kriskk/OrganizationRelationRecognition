@@ -1,0 +1,5 @@
+T1	Organization 0 12	Dow Chemical
+T2	Organization 142 146	BASF
+N1	Reference T1 wiki:189244	Dow Chemical
+N2	Reference T2 wiki:122826	BASF
+A1	IsLink T2

@@ -1,0 +1,10 @@
+T1	Organization 0 14	VimpelCom Ltd.
+T2	Organization 122 129	Telenor
+T3	Organization 160 166	Altimo
+N1	Reference T1 wiki:2492978	VimpelCom Ltd.
+N2	Reference T2 wiki:321300	Telenor
+N3	Reference T3 wiki:258465	Altimo
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

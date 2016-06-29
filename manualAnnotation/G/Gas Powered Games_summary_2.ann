@@ -1,0 +1,12 @@
+T1	Organization 0 17	Gas Powered Games
+T2	Organization 264 273	Wargaming
+T3	Organization 322 335	Wargaming.net
+T4	Organization 435 444	Wargaming
+N1	Reference T1 wiki:1752011	Gas Powered Games
+N2	Reference T2 wiki:1420577	Wargaming.net
+N3	Reference T3 wiki:1420577	Wargaming.net
+N4	Reference T4 wiki:1420577	Wargaming.net
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T3 Holder

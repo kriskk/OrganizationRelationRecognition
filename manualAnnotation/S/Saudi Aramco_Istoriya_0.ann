@@ -1,0 +1,5 @@
+T1	Organization 0 12	Saudi Aramco
+T2	Organization 167 193	Standard Oil of California
+N1	Reference T1 wiki:385690	Saudi Aramco
+N2	Reference T2 wiki:420107	Standard Oil of California
+A1	IsLink T2

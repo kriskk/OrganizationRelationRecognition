@@ -1,0 +1,6 @@
+T1	Organization 0 7	КомиТЭК
+T2	Organization 181 187	Лукойл
+N1	Reference T1 wiki:980737	КомиТЭК
+N2	Reference T2 wiki:59354	Лукойл
+A1	IsLink T2
+A2	TypeRel T2 Holder

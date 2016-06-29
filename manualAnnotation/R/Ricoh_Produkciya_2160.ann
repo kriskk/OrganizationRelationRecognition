@@ -1,0 +1,5 @@
+T1	Organization 0 5	Ricoh
+T2	Organization 231 237	Mamiya
+N1	Reference T1 wiki:847182	Ricoh
+N2	Reference T2 wiki:1846663	Mamiya
+A1	IsLink T2

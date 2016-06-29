@@ -1,0 +1,5 @@
+T1	Organization 0 18	Square Enix Europe
+T2	Organization 97 107	Rocksteady
+N1	Reference T1 wiki:3623123	Square Enix Europe
+N2	Reference T2 wiki:3050753	Rocksteady Studios
+A1	IsLink T2

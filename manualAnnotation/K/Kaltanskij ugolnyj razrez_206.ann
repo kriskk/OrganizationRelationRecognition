@@ -1,0 +1,5 @@
+T1	Organization 0 26	Калтанский угольный разрез
+T2	Organization 191 215	ОАО «Кузбассразрезуголь»
+N1	Reference T1 wiki:2266387	Калтанский угольный разрез
+N2	Reference T2 wiki:171189	Кузбассразрезуголь
+A1	TypeRel T2 Holder

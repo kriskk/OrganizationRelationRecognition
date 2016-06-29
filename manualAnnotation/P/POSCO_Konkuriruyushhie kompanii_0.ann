@@ -1,0 +1,14 @@
+T1	Organization 0 5	POSCO
+T2	Organization 64 77	ArcelorMittal
+T3	Organization 80 92	Nippon Steel
+T4	Organization 95 104	JFE Group
+N1	Reference T1 wiki:2717623	POSCO
+N2	Reference T2 wiki:354086	ArcelorMittal
+N3	Reference T3 wiki:1686542	Nippon Steel
+N4	Reference T4 wiki:3113465	JFE Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor

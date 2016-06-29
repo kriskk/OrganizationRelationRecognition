@@ -1,0 +1,5 @@
+T1	Organization 0 26	Sony Mobile Communications
+T2	Organization 101 109	Vodafone
+N1	Reference T1 wiki:120852	Sony Mobile Communications
+N2	Reference T2 wiki:213703	Vodafone
+A1	IsLink T2

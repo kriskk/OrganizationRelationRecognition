@@ -1,0 +1,6 @@
+T1	Organization 0 36	Харьковский электротехнический завод
+T2	Organization 121 147	Индустриальная группа УПЭК
+N1	Reference T1 wiki:3597185	Харьковский электротехнический завод
+N2	Reference T2 wiki:3597216	УПЭК
+A1	IsLink T2
+A2	TypeRel T2 Holder

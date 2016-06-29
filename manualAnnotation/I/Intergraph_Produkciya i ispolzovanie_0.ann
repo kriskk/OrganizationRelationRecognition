@@ -1,0 +1,10 @@
+T1	Organization 0 10	Intergraph
+T2	Organization 111 116	Intel
+T3	Organization 159 175	Silicon Graphics
+N1	Reference T1 wiki:1516535	Intergraph
+N2	Reference T2 wiki:762172	Intel
+N3	Reference T3 wiki:136151	Silicon Graphics
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

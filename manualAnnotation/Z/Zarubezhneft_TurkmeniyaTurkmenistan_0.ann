@@ -1,0 +1,6 @@
+T1	Organization 0 12	Зарубежнефть
+T2	Organization 162 174	Туркменнефть
+N1	Reference T1 wiki:167554	Зарубежнефть
+N2	Reference T2 wiki:1877484	Туркменнефть
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

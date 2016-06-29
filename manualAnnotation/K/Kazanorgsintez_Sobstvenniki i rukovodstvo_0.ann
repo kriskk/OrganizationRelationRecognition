@@ -1,0 +1,9 @@
+T1	Organization 0 15	Казаньоргсинтез
+T2	Organization 117 121	ТАИФ
+T3	Organization 133 152	Связьинвестнефтехим
+N1	Reference T1 wiki:1929545	Казаньоргсинтез
+N2	Reference T2 wiki:1303554	ТАИФ
+N3	Reference T3 wiki:347225	Связьинвестнефтехим
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

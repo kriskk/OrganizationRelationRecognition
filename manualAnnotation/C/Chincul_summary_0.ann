@@ -1,0 +1,5 @@
+T1	Organization 0 7	Chincul
+T2	Organization 116 130	Piper Aircraft
+N1	Reference T1 wiki:3602311	Chincul
+N2	Reference T2 wiki:2360788	Piper Aircraft
+A1	IsLink T2

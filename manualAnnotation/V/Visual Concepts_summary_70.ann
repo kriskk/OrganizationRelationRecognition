@@ -1,0 +1,18 @@
+T1	Organization 0 15	Visual Concepts
+T2	Organization 218 222	Sega
+T3	Organization 288 298	Kush Games
+T4	Organization 320 328	Take Two
+T5	Organization 382 390	2K Games
+N1	Reference T1 wiki:3430606	Visual Concepts
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:2818782	Kush Games
+N4	Reference T4 wiki:2783863	Take-Two Interactive
+N5	Reference T5 wiki:2386194	2K Games
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Holder

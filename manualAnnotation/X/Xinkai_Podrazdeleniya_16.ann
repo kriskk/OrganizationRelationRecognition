@@ -1,0 +1,6 @@
+T1	Organization 0 6	Xinkai
+T2	Organization 300 313	Mercedes-Benz
+N1	Reference T1 wiki:4496402	Xinkai
+N2	Reference T2 wiki:40401	Mercedes-Benz
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

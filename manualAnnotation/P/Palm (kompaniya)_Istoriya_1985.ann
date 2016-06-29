@@ -1,0 +1,14 @@
+T1	Organization 0 15	Palm (компания)
+T2	Organization 288 298	Майкрософт
+T3	Organization 519 529	Palm, Inc.
+T4	Organization 757 767	Palm, Inc.
+N1	Reference T1 wiki:128188	Palm (компания)
+N2	Reference T2 wiki:11987	Майкрософт
+N3	Reference T3 wiki:128188	Palm, Inc.
+N4	Reference T4 wiki:128188	Palm, Inc.
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Alias
+A6	TypeRel T4 Alias

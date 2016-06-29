@@ -1,0 +1,5 @@
+Heroku
+@Награды и достижения
+2083,24
+
+Heroku утверждает, что предоставляет наибольшее количество разнообразных решений NoSQL на рынке информационных технологий, а также считается «платформой-полиглотом». Heroku оказалась в списке «Dow Jones FASTech 50 Start-ups to Watch». В апреле 2010 года Gartner присвоил Heroku статус «Cool Vendor in Application Platforms as a Service». Heroku также попала в список «Top 10 Cloud Computing Services for 2010», опубликованный  не переведено	 есть: :en:  надо: ReadWriteWeb .

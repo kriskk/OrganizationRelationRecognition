@@ -1,0 +1,14 @@
+T1	Organization 0 14	Bang & Olufsen
+T2	Organization 287 291	Audi
+T3	Organization 293 305	Aston Martin
+T4	Organization 307 320	Mercedes-Benz
+T5	Organization 322 325	BMW
+N1	Reference T1 wiki:2829873	Bang & Olufsen
+N2	Reference T2 wiki:41025	Audi
+N3	Reference T3 wiki:451029	Aston Martin
+N4	Reference T4 wiki:40401	Mercedes-Benz
+N5	Reference T5 wiki:40368	BMW
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,14 @@
+T1	Organization 0 31	Costruzioni Aeronautiche Tecnam
+T2	Organization 212 219	Douglas
+T3	Organization 221 227	Boeing
+T4	Organization 229 235	Agusta
+T5	Organization 254 261	Dornier
+N1	Reference T1 wiki:3053119	Costruzioni Aeronautiche Tecnam
+N2	Reference T2 wiki:87592	McDonnell Douglas
+N3	Reference T3 wiki:156398	Boeing
+N4	Reference T4 wiki:604719	Agusta
+N5	Reference T5 wiki:3916377	Dornier
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

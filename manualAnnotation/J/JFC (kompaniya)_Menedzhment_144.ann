@@ -1,0 +1,6 @@
+T1	Organization 0 14	JFC (компания)
+T2	Organization 278 291	Газпром-медиа
+N1	Reference T1 wiki:803994	JFC (компания)
+N2	Reference T2 wiki:189268	Газпром-медиа
+A1	IsLink T2
+A2	TypeRel T2 Personnel

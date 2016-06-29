@@ -1,0 +1,65 @@
+Canadian Pacific Railway
+@Локомотивы
+@Дизельные локомотивы
+3488,15,492
+
+		 GP39-2
+		 FP7Au
+		 EMD FP9A, F9B
+		 SW900M
+		 F9B
+		 F7B
+		 SD40-2F
+		 EMD GP40-2 (DM&E, ex-IC&E)
+		 EMD SD40-3 (DM&E, ex-IC&E, ex-I&M Rail Link)
+
+
+ Montreal Locomotive Works
+	 FA-1
+		 FPA-2
+		 RSD-17
+		 RSD-8
+		 RSD-2
+		 RS-23
+		 Boosters
+		 C-424
+		 Hump Braking Unit (based on GP9)
+		 C-630M
+		 M-630
+		 S-3
+		 RS-10
+		 S-11m
+		 M-636
+		 M-640
+		 RS18, RS18u
+		 RSD-17
+
+
+ CLC
+	 44H44A1
+		 H16-44
+		 H24-66
+		 CFA16-4
+		 CFB16-4
+		 CPA16-4
+		 CPB16-4
+
+
+ GE
+	 AC4400CW
+		 ES44AC
+
+
+ Railpower Technologies
+	 GG20B (returned to Railpower)
+
+
+ ALCO
+	 S-2
+
+
+ BLW
+	 DRS4-4-1000
+		 DS4-4-1000
+
+

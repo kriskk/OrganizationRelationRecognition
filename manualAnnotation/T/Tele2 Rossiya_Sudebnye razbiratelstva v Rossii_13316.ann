@@ -1,0 +1,8 @@
+T1	Organization 0 12	Tele2 Россия
+T2	Organization 234 243	Скай Линк
+T3	Organization 245 248	НСС
+N1	Reference T1 wiki:4159008	Tele2 Россия
+N2	Reference T2 wiki:145535	Скай Линк
+N3	Reference T3 wiki:2093483	НСС
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 17	САН ИнБев Украина
+T2	Organization 124 144	Anheuser-Busch InBev
+N1	Reference T1 wiki:2313184	САН ИнБев Украина
+N2	Reference T2 wiki:3199376	Anheuser-Busch InBev
+A1	TypeRel T2 Holder

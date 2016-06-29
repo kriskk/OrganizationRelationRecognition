@@ -1,0 +1,14 @@
+T1	Organization 0 18	Take-Two Licensing
+T2	Organization 102 110	Take-Two
+T3	Organization 147 158	Global Star
+T4	Organization 188 199	Global Star
+T5	Organization 385 405	Take-Two Interactive
+N1	Reference T1 wiki:3064472	Take-Two Licensing
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+N3	Reference T3 wiki:2834760	2K Play
+N4	Reference T4 wiki:2834760	2K Play
+N5	Reference T5 wiki:2783863	Take-Two Interactive
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

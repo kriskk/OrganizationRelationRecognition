@@ -1,0 +1,5 @@
+T1	Organization 0 9	Valuehost
+T2	Organization 296 320	студией Артемия Лебедева
+N1	Reference T1 wiki:2156335	Valuehost
+N2	Reference T2 wiki:156470	Студия Артемия Лебедева
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 4	АйТи
+T2	Organization 223 245	БОСС. Кадровые системы
+T3	Organization 298 313	ПингВин Софтвер
+N1	Reference T1 wiki:1771956	АйТи
+N2	Reference T2 wiki:2784431	БОСС. Кадровые системы
+N3	Reference T3 wiki:4202373	ПингВин Софтвер
+A1	IsLink T2
+A2	IsLink T3

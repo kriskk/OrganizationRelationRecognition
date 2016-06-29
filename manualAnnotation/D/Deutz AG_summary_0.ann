@@ -1,0 +1,5 @@
+T1	Organization 0 8	Deutz AG
+T2	Organization 153 160	Magirus
+N1	Reference T1 wiki:3459570	Deutz AG
+N2	Reference T2 wiki:897451	Magirus
+A1	IsLink T2

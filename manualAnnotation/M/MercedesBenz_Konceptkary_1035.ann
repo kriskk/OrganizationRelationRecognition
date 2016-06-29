@@ -1,0 +1,6 @@
+T1	Organization 0 13	Mercedes-Benz
+T2	Organization 339 354	DaimlerChrysler
+N1	Reference T1 wiki:40401	Mercedes-Benz
+N2	Reference T2 wiki:39716	DaimlerChrysler
+A1	IsLink T2
+A2	TypeRel T2 Other

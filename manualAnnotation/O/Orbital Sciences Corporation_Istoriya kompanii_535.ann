@@ -1,0 +1,6 @@
+T1	Organization 0 28	Orbital Sciences Corporation
+T2	Organization 228 244	General Dynamics
+N1	Reference T1 wiki:3019510	Orbital Sciences Corporation
+N2	Reference T2 wiki:1015376	General Dynamics
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

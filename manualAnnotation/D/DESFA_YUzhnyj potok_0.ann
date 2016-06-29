@@ -1,0 +1,5 @@
+T1	Organization 0 5	DESFA
+T2	Organization 86 93	Газпром
+N1	Reference T1 wiki:3771021	DESFA
+N2	Reference T2 wiki:44754	Газпром
+A1	IsLink T2

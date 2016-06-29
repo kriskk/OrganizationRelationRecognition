@@ -1,0 +1,5 @@
+T1	Organization 0 8	Qualcomm
+T2	Organization 112 115	ARM
+N1	Reference T1 wiki:897305	Qualcomm
+N2	Reference T2 wiki:49514	ARM (компания)
+A1	TypeRel T2 Cooperator

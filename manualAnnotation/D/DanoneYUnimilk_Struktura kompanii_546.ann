@@ -1,0 +1,5 @@
+T1	Organization 0 14	Danone-Юнимилк
+T2	Organization 224 254	Молочный комбинат „Шадринский“
+N1	Reference T1 wiki:213110	Danone-Юнимилк
+N2	Reference T2 wiki:3908466	Шадринский молочно-консервный комбинат
+A1	IsLink T2

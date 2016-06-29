@@ -1,0 +1,11 @@
+T1	Organization 0 11	Токио Боэки
+T2	Organization 204 221	Mitsubishi Motors
+T3	Organization 262 284	Mitsubishi Corporation
+T4	Organization 349 360	Asahi Glass
+N1	Reference T1 wiki:3194682	Токио Боэки
+N2	Reference T2 wiki:423257	Mitsubishi Motors
+N3	Reference T3 wiki:423258	Mitsubishi Corporation
+N4	Reference T4 wiki:429828	Asahi Glass
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

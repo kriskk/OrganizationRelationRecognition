@@ -1,0 +1,30 @@
+T1	Organization 0 3	R&I
+T2	Organization 215 222	Cadbury
+T3	Organization 224 229	Apple
+T4	Organization 231 242	Ford Motors
+T5	Organization 244 251	Ferrero
+T6	Organization 253 258	Fazer
+T7	Organization 260 269	Carlsberg
+T8	Organization 280 287	Siemens
+N1	Reference T1 wiki:3145089	R&I
+N2	Reference T2 wiki:192535	Cadbury
+N3	Reference T3 wiki:39726	Apple
+N4	Reference T4 wiki:153236	Ford
+N5	Reference T5 wiki:3022773	Ferrero
+N6	Reference T6 wiki:237215	Fazer
+N7	Reference T7 wiki:787801	Carlsberg
+N8	Reference T8 wiki:36510	Siemens
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

@@ -1,0 +1,22 @@
+T1	Organization 0 22	Mizuho Financial Group
+T2	Organization 226 237	Mizuho Bank
+T3	Organization 362 366	MUFG
+T4	Organization 369 373	SMFG
+T5	Organization 542 572	Mitsubishi UFJ Financial Group
+T6	Organization 575 606	Sumitomo Mitsui Financial Group
+N1	Reference T1 wiki:3115974	Mizuho Financial Group
+N2	Reference T2 wiki:1453711	Mizuho Bank
+N3	Reference T3 wiki:3117167	MUFG
+N4	Reference T4 wiki:3117483	SMFG
+N5	Reference T5 wiki:3117167	Mitsubishi UFJ Financial Group
+N6	Reference T6 wiki:3117483	Sumitomo Mitsui Financial Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Subsidiary
+A7	TypeRel T3 Competitor
+A8	TypeRel T4 Competitor
+A9	TypeRel T5 Competitor
+A10	TypeRel T6 Competitor

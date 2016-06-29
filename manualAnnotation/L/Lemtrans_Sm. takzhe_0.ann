@@ -1,0 +1,5 @@
+T1	Organization 0 8	Лемтранс
+T2	Organization 41 66	Систем Кэпитал Менеджмент
+N1	Reference T1 wiki:4357823	Лемтранс
+N2	Reference T2 wiki:36184	Систем Кэпитал Менеджмент
+A1	IsLink T2

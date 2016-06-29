@@ -1,0 +1,5 @@
+T1	Organization 0 20	Volkswagen (концерн)
+T2	Organization 638 648	Группа ГАЗ
+N1	Reference T1 wiki:750217	Volkswagen (концерн)
+N2	Reference T2 wiki:21473	Группа ГАЗ
+A1	TypeRel T2 Cooperator

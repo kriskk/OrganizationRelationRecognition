@@ -1,0 +1,9 @@
+T1	Organization 0 6	Ximian
+T2	Organization 217 223	Novell
+T3	Organization 499 508	Microsoft
+N1	Reference T1 wiki:260469	Ximian
+N2	Reference T2 wiki:21831	Novell
+N3	Reference T3 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

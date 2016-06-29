@@ -1,0 +1,9 @@
+T1	Organization 0 16	Rogue (компания)
+T2	Organization 183 201	Universal Pictures
+T3	Organization 271 285	Focus Features
+N1	Reference T1 wiki:4201651	Rogue (компания)
+N2	Reference T2 wiki:702796	Universal Pictures
+N3	Reference T3 wiki:1926366	Focus Features
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 8	FUN Labs
+T2	Organization 191 209	Sand Grain Studios
+N1	Reference T1 wiki:2980951	FUN Labs
+N2	Reference T2 wiki:2992678	Sand Grain Studios
+A1	IsLink T2

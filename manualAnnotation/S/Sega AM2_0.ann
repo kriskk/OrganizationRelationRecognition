@@ -1,0 +1,5 @@
+T1	Organization 0 8	Sega AM2
+T2	Organization 89 93	Sega
+N1	Reference T1 wiki:3297840	Sega AM2
+N2	Reference T2 wiki:92589	Sega
+A1	IsLink T2

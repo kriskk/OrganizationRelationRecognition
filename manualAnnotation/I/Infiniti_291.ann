@@ -1,0 +1,6 @@
+T1	Organization 0 8	Infiniti
+T2	Organization 173 185	Nissan Motor
+N1	Reference T1 wiki:682238	Infiniti
+N2	Reference T2 wiki:159586	Nissan Motor
+A1	IsLink T2
+A2	TypeRel T2 Holder

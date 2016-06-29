@@ -1,0 +1,5 @@
+T1	Organization 0 8	Nintendo
+T2	Organization 245 254	Universal
+N1	Reference T1 wiki:202486	Nintendo
+N2	Reference T2 wiki:702796	Universal Pictures
+A1	TypeRel T2 Other

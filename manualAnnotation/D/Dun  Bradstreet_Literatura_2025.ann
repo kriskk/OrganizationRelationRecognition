@@ -1,0 +1,5 @@
+T1	Organization 0 16	Dun & Bradstreet
+T2	Organization 226 235	Dow Jones
+N1	Reference T1 wiki:4301802	Dun & Bradstreet
+N2	Reference T2 wiki:1948907	Dow Jones
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 11	Wintershall
+T2	Organization 193 200	BASF SE
+N1	Reference T1 wiki:188113	Wintershall
+N2	Reference T2 wiki:122826	BASF
+A1	IsLink T2
+A2	TypeRel T2 Holder

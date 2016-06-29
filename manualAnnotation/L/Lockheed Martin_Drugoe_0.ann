@@ -1,0 +1,8 @@
+T1	Organization 0 15	Lockheed Martin
+T2	Organization 74 111	Lockheed Martin Aircraft Argentina SA
+T3	Organization 120 146	Fabrica Militar de Aviones
+N1	Reference T1 wiki:301268	Lockheed Martin
+N2	Reference T2 wiki:3786822	FAdeA
+N3	Reference T3 wiki:3786822	Fabrica Militar de Aviones
+A1	IsLink T2
+A2	IsLink T3

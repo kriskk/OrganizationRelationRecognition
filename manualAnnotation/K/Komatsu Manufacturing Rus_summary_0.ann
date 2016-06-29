@@ -1,0 +1,6 @@
+T1	Organization 0 25	Komatsu Manufacturing Rus
+T2	Organization 182 189	Komatsu
+N1	Reference T1 wiki:3637749	Komatsu Manufacturing Rus
+N2	Reference T2 wiki:744230	Komatsu
+A1	IsLink T2
+A2	TypeRel T2 Holder

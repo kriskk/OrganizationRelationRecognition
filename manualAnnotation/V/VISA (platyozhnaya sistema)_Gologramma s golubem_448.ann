@@ -1,0 +1,5 @@
+T1	Organization 0 24	VISA (платёжная система)
+T2	Organization 257 267	MasterCard
+N1	Reference T1 wiki:36386	VISA (платёжная система)
+N2	Reference T2 wiki:36409	MasterCard
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 45	Улан-Удэнский локомотивовагоноремонтный завод
+T2	Organization 124 136	Желдорреммаш
+N1	Reference T1 wiki:148863	Улан-Удэнский локомотивовагоноремонтный завод
+N2	Reference T2 wiki:2647229	Желдорреммаш
+A1	IsLink T2
+A2	TypeRel T2 Holder

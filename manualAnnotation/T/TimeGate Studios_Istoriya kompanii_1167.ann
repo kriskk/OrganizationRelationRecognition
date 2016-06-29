@@ -1,0 +1,5 @@
+T1	Organization 0 16	TimeGate Studios
+T2	Organization 275 295	Monolith Productions
+N1	Reference T1 wiki:3101500	TimeGate Studios
+N2	Reference T2 wiki:1344649	Monolith Productions
+A1	IsLink T2

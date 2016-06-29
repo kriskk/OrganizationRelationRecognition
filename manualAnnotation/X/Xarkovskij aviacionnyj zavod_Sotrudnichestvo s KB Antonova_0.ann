@@ -1,0 +1,6 @@
+T1	Organization 0 29	Харьковский авиационный завод
+T2	Organization 195 218	АНТК им. О. К. Антонова
+N1	Reference T1 wiki:238174	Харьковский авиационный завод
+N2	Reference T2 wiki:32271	КБ Антонов
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

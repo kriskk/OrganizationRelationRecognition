@@ -1,0 +1,13 @@
+T1	Organization 0 4	KPMG
+T2	Organization 168 176	Deloitte
+T3	Organization 178 191	Ernst & Young
+T4	Organization 194 197	PwC
+N1	Reference T1 wiki:281743	KPMG
+N2	Reference T2 wiki:143428	Deloitte
+N3	Reference T3 wiki:385728	Ernst & Young
+N4	Reference T4 wiki:275101	PwC
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor
+A5	TypeRel T4 Competitor

@@ -1,0 +1,5 @@
+T1	Organization 0 6	Suzuki
+T2	Organization 185 194	Chevrolet
+N1	Reference T1 wiki:690514	Suzuki
+N2	Reference T2 wiki:17631	Chevrolet
+A1	IsLink T2

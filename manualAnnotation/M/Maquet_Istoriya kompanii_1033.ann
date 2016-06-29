@@ -1,0 +1,32 @@
+T1	Organization 0 6	Maquet
+T2	Organization 275 282	Siemens
+T3	Organization 396 402	Jostra
+T4	Organization 698 715	Boston Scientific
+T5	Organization 768 777	Datascope
+T6	Organization 904 912	Polystan
+T7	Organization 914 921	Guidant
+T8	Organization 938 947	Datascope
+T9	Organization 975 992	Boston Scientific
+N1	Reference T1 wiki:964472	Maquet
+N2	Reference T2 wiki:36510	Siemens
+N3	Reference T3 wiki:1742983	Jostra
+N4	Reference T4 wiki:1681986	Boston Scientific
+N5	Reference T5 wiki:1682050	Datascope
+N6	Reference T6 wiki:1683433	Polystan
+N7	Reference T7 wiki:1682016	Guidant
+N8	Reference T8 wiki:1682050	Datascope
+N9	Reference T9 wiki:1681986	Boston Scientific
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Subsidiary
+A11	TypeRel T5 Subsidiary
+A12	TypeRel T6 Subsidiary
+A13	TypeRel T7 Subsidiary
+A14	TypeRel T8 Subsidiary

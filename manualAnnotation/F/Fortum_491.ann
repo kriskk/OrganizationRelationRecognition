@@ -1,0 +1,8 @@
+T1	Organization 0 6	Фортум
+T2	Organization 169 175	Fortum
+T3	Organization 191 207	Делойт и Туш СНГ
+N1	Reference T1 wiki:663365	Фортум
+N2	Reference T2 wiki:305740	Fortum
+N3	Reference T3 wiki:143428	Делойт и Туш СНГ
+A1	IsLink T2
+A2	IsLink T3

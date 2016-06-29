@@ -1,0 +1,5 @@
+T1	Organization 0 6	ЛитРес
+T2	Organization 265 289	Центр Речевых Технологий
+N1	Reference T1 wiki:2647985	ЛитРес
+N2	Reference T2 wiki:1476790	Центр Речевых Технологий
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 26	William Denny and Brothers
+T2	Organization 279 296	Harland and Wolff
+N1	Reference T1 wiki:4413651	William Denny and Brothers
+N2	Reference T2 wiki:1027856	Harland and Wolff
+A1	IsLink T2

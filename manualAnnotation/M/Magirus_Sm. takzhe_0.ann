@@ -1,0 +1,11 @@
+T1	Organization 0 7	Magirus
+T2	Organization 61 66	Iveco
+T3	Organization 75 81	Barkas
+T4	Organization 84 92	Multicar
+N1	Reference T1 wiki:897451	Magirus
+N2	Reference T2 wiki:272617	Iveco
+N3	Reference T3 wiki:884960	Barkas
+N4	Reference T4 wiki:897748	Multicar
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

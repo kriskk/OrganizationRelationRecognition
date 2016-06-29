@@ -1,0 +1,18 @@
+T1	Organization 0 26	Queensland Alumina Limited
+T2	Organization 198 213	Rio Tinto Alcan
+T3	Organization 561 569	ОК РУСАЛ
+T4	Organization 577 592	Rio Tinto Alcan
+T5	Organization 624 631	РУСАЛом
+N1	Reference T1 wiki:1478739	Queensland Alumina Limited
+N2	Reference T2 wiki:728716	Rio Tinto Alcan
+N3	Reference T3 wiki:144729	Русский алюминий
+N4	Reference T4 wiki:728716	Rio Tinto Alcan
+N5	Reference T5 wiki:144729	Русский алюминий
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Holder
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Holder

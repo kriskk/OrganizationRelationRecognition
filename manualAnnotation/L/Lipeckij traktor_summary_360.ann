@@ -1,0 +1,6 @@
+T1	Organization 0 16	Липецкий трактор
+T2	Organization 198 215	Тракторные заводы
+N1	Reference T1 wiki:1095862	Липецкий трактор
+N2	Reference T2 wiki:165385	Тракторные заводы
+A1	IsLink T2
+A2	TypeRel T2 Holder

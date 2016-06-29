@@ -1,0 +1,5 @@
+T1	Organization 0 7	Н-Транс
+T2	Organization 315 342	Новая перевозочная компания
+N1	Reference T1 wiki:631354	Н-Транс
+N2	Reference T2 wiki:377817	Новая перевозочная компания
+A1	IsLink T2

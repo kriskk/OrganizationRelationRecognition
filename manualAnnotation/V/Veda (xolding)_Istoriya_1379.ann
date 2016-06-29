@@ -1,0 +1,6 @@
+T1	Organization 0 14	Веда (холдинг)
+T2	Organization 243 253	«Синергия»
+N1	Reference T1 wiki:935157	Веда (холдинг)
+N2	Reference T2 wiki:880485	Синергия (компания)
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

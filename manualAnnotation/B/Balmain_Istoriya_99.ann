@@ -1,0 +1,5 @@
+T1	Organization 0 7	Balmain
+T2	Organization 329 341	Swatch Group
+N1	Reference T1 wiki:1056860	Balmain
+N2	Reference T2 wiki:214233	Swatch Group
+A1	IsLink T2

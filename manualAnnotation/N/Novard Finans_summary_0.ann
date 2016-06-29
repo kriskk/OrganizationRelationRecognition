@@ -1,0 +1,5 @@
+T1	Organization 0 13	Новард Финанс
+T2	Organization 148 154	Новард
+N1	Reference T1 wiki:2783963	Новард Финанс
+N2	Reference T2 wiki:2654272	Новард
+A1	IsLink T2

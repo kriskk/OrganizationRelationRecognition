@@ -1,0 +1,5 @@
+T1	Organization 0 18	Schneider Electric
+T2	Organization 236 264	Самарского завода Электрощит
+N1	Reference T1 wiki:267613	Schneider Electric
+N2	Reference T2 wiki:3039049	Электрощит - Самара
+A1	IsLink T2

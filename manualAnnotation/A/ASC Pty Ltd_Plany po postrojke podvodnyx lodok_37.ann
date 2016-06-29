@@ -1,0 +1,5 @@
+T1	Organization 0 11	ASC Pty Ltd
+T2	Organization 268 314	Австралийский институт стратегической политики
+N1	Reference T1 wiki:4424829	ASC Pty Ltd
+N2	Reference T2 wiki:4426253	Австралийский институт стратегической политики
+A1	IsLink T2

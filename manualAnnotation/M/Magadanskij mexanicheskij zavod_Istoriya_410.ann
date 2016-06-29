@@ -1,0 +1,6 @@
+T1	Organization 0 30	Магаданский механический завод
+T2	Organization 372 390	Северовостокзолото
+N1	Reference T1 wiki:3355075	Магаданский механический завод
+N2	Reference T2 wiki:4387073	Северовостокзолото
+A1	IsLink T2
+A2	TypeRel T2 Holder

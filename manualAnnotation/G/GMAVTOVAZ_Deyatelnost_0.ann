@@ -1,0 +1,6 @@
+T1	Organization 0 10	GM-АВТОВАЗ
+T2	Organization 88 97	Chevrolet
+N1	Reference T1 wiki:18331	GM-АВТОВАЗ
+N2	Reference T2 wiki:17631	Chevrolet
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

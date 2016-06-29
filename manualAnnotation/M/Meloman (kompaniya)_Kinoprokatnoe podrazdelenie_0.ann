@@ -1,0 +1,6 @@
+T1	Organization 0 18	Меломан (компания)
+T2	Organization 204 258	Walt Disney Studios Sony Pictures Releasing Kazakhstan
+N1	Reference T1 wiki:2249659	Меломан (компания)
+N2	Reference T2 wiki:3938922	Walt Disney Studios Sony Pictures Releasing Kazakhstan
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

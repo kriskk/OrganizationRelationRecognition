@@ -1,0 +1,10 @@
+T1	Organization 0 6	Oracle
+T2	Organization 455 471	Sun Microsystems
+T3	Organization 749 754	Apple
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:4777	Sun Microsystems
+N3	Reference T3 wiki:39726	Apple
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Personnel

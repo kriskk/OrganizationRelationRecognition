@@ -1,0 +1,5 @@
+T1	Organization 0 9	Стеклонит
+T2	Organization 210 239	Группу компаний «РУСКОМПОЗИТ»
+N1	Reference T1 wiki:2577874	Стеклонит
+N2	Reference T2 wiki:3811892	РУСКОМПОЗИТ
+A1	IsLink T2

@@ -1,0 +1,13 @@
+T1	Organization 0 14	Рет (компания)
+T2	Organization 126 131	Intel
+T3	Organization 226 233	Merlion
+T4	Organization 486 527	сети супермаркетов цифровой техники «КЕЙ»
+N1	Reference T1 wiki:3720497	Рет (компания)
+N2	Reference T2 wiki:762172	Intel
+N3	Reference T3 wiki:1695929	Merlion
+N4	Reference T4 wiki:2448387	КЕЙ (сеть магазинов)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator

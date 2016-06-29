@@ -1,0 +1,10 @@
+T1	Organization 0 7	Югфильм
+T2	Organization 270 277	Мегафон
+T3	Organization 281 286	Tele2
+N1	Reference T1 wiki:2094525	Югфильм
+N2	Reference T2 wiki:70933	Мегафон (оператор сотовой связи)
+N3	Reference T3 wiki:162980	Tele2
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

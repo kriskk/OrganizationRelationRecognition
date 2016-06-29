@@ -1,0 +1,9 @@
+T1	Organization 0 6	Jostra
+T2	Organization 104 110	MAQUET
+T3	Organization 150 156	MAQUET
+N1	Reference T1 wiki:1742983	Jostra
+N2	Reference T2 wiki:964472	MAQUET
+N3	Reference T3 wiki:964472	MAQUET
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

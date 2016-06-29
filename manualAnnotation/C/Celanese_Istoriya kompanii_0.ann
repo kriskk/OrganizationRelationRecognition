@@ -1,0 +1,11 @@
+T1	Organization 0 8	Celanese
+T2	Organization 61 71	Hoechst AG
+T3	Organization 194 201	Hoechst
+T4	Organization 292 300	Clariant
+N1	Reference T1 wiki:1423173	Celanese
+N2	Reference T2 wiki:1433713	Hoechst AG
+N3	Reference T3 wiki:1433713	Hoechst
+N4	Reference T4 wiki:376394	Clariant
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

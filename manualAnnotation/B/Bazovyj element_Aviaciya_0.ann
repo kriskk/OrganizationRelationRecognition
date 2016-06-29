@@ -1,0 +1,5 @@
+T1	Organization 0 15	Базовый элемент
+T2	Organization 63 73	Базэл Аэро
+N1	Reference T1 wiki:156379	Базовый элемент
+N2	Reference T2 wiki:3254854	Базэл Аэро
+A1	IsLink T2

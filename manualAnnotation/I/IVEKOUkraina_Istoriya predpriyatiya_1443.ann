@@ -1,0 +1,6 @@
+T1	Organization 0 13	ИВЕКО-Украина
+T2	Organization 232 247	ИВЕКО-Мотор Сич
+N1	Reference T1 wiki:3578286	ИВЕКО-Украина
+N2	Reference T2 wiki:3578376	ИВЕКО-Мотор Сич
+A1	IsLink T2
+A2	TypeRel T2 Other

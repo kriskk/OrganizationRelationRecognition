@@ -1,0 +1,8 @@
+T1	Organization 0 8	Symantec
+T2	Organization 41 56	Huawei Symantec
+T3	Organization 91 97	Huawei
+N1	Reference T1 wiki:157841	Symantec
+N2	Reference T2 wiki:1635595	Huawei Symantec
+N3	Reference T3 wiki:908840	Huawei
+A1	IsLink T2
+A2	IsLink T3

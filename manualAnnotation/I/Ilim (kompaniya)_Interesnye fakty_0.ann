@@ -1,0 +1,13 @@
+T1	Organization 0 15	Илим (компания)
+T2	Organization 147 162	Котласского ЦБК
+T3	Organization 400 417	Базовым элементом
+T4	Organization 508 513	EPA&P
+N1	Reference T1 wiki:128667	Илим (компания)
+N2	Reference T2 wiki:128668	Котласский целлюлозно-бумажный комбинат
+N3	Reference T3 wiki:156379	Базовый элемент
+N4	Reference T4 wiki:2882521	Егоров, Пугинский, Афанасьев и партнёры
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T4 Other

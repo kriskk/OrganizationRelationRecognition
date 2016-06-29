@@ -1,0 +1,14 @@
+T1	Organization 0 42	Донецкая автобаза треста «Главдонбасстрой»
+T2	Organization 317 350	Северодонецкой авторемонтной базе
+T3	Organization 634 667	Северодонецкой авторемонтной базы
+T4	Organization 805 818	Северодонецке
+T5	Organization 1027 1031	ГАЗа
+N1	Reference T1 wiki:3543605	Донецкая автобаза треста «Главдонбасстрой»
+N2	Reference T2 wiki:3522969	Северодонецкая авторемонтная база
+N3	Reference T3 wiki:3522969	Северодонецкая авторемонтная база
+N4	Reference T4 wiki:3522969	Северодонецкая авторемонтная база
+N5	Reference T5 wiki:25060	Горьковский автомобильный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

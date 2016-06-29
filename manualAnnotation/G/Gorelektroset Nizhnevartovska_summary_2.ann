@@ -1,0 +1,5 @@
+T1	Organization 0 29	Горэлектросеть Нижневартовска
+T2	Organization 342 358	«Корпорация СТС»
+N1	Reference T1 wiki:3548118	Горэлектросеть Нижневартовска
+N2	Reference T2 wiki:3482210	Корпорация СТС
+A1	TypeRel T2 Holder

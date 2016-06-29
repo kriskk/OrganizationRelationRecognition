@@ -1,0 +1,5 @@
+T1	Organization 0 16	Crystal Dynamics
+T2	Organization 316 327	Core Design
+N1	Reference T1 wiki:1475200	Crystal Dynamics
+N2	Reference T2 wiki:1464367	Core Design
+A1	IsLink T2

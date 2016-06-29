@@ -1,0 +1,6 @@
+T1	Organization 0 9	Якутуголь
+T2	Organization 108 113	Мечел
+N1	Reference T1 wiki:158730	Якутуголь
+N2	Reference T2 wiki:148493	Мечел
+A1	IsLink T2
+A2	TypeRel T2 Holder

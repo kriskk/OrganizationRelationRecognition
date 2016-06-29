@@ -1,0 +1,6 @@
+T1	Organization 0 16	EMS Почта России
+T2	Organization 61 135	Федерального государственного унитарного предприятия (ФГУП) «Почта России»
+N1	Reference T1 wiki:2901307	EMS Почта России
+N2	Reference T2 wiki:234849	Почта России
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,11 @@
+T1	Organization 0 8	Accolade
+T2	Organization 241 251	Activision
+T3	Organization 417 422	Atari
+T4	Organization 440 447	Acclaim
+N1	Reference T1 wiki:3475308	Accolade
+N2	Reference T2 wiki:307964	Activision
+N3	Reference T3 wiki:308218	Atari
+N4	Reference T4 wiki:3487700	Acclaim
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,6 @@
+T1	Organization 0 9	Rompetrol
+T2	Organization 204 215	КазМунайГаз
+N1	Reference T1 wiki:376654	Rompetrol
+N2	Reference T2 wiki:294591	КазМунайГаз
+A1	IsLink T2
+A2	TypeRel T2 Holder

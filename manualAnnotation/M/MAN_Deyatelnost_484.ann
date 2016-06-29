@@ -1,0 +1,6 @@
+T1	Organization 0 3	MAN
+T2	Organization 234 239	CEPSA
+N1	Reference T1 wiki:42703	MAN
+N2	Reference T2 wiki:3065878	CEPSA
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

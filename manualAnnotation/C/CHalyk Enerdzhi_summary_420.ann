@@ -1,0 +1,5 @@
+T1	Organization 0 13	Чалык Энерджи
+T2	Organization 186 189	Eni
+N1	Reference T1 wiki:2054155	Чалык Энерджи
+N2	Reference T2 wiki:180394	Eni
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 10	Северсталь
+T2	Organization 160 167	Arcelor
+N1	Reference T1 wiki:149218	Северсталь
+N2	Reference T2 wiki:142970	Arcelor
+A1	IsLink T2

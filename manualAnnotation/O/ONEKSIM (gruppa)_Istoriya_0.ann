@@ -1,0 +1,19 @@
+T1	Organization 0 16	ОНЭКСИМ (группа)
+T2	Organization 114 122	Интеррос
+T3	Organization 204 222	Норильского никеля
+T4	Organization 252 272	Российского алюминия
+T5	Organization 625 632	Оптоган
+T6	Organization 673 695	Госкорпорацией Роснано
+N1	Reference T1 wiki:1526001	ОНЭКСИМ (группа)
+N2	Reference T2 wiki:147366	Интеррос
+N3	Reference T3 wiki:73395	Норильский никель
+N4	Reference T4 wiki:598084	Российский алюминий
+N5	Reference T5 wiki:2369197	Оптоган
+N6	Reference T6 wiki:728818	Российская корпорация нанотехнологий
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T5 Subsidiary
+A7	TypeRel T6 Cooperator

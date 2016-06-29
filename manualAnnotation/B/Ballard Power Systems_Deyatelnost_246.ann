@@ -1,0 +1,14 @@
+T1	Organization 0 21	Ballard Power Systems
+T2	Organization 276 280	Ford
+T3	Organization 283 290	Daimler
+T4	Organization 310 314	Ford
+T5	Organization 317 324	Daimler
+N1	Reference T1 wiki:391558	Ballard Power Systems
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:39716	Daimler
+N4	Reference T4 wiki:153236	Ford
+N5	Reference T5 wiki:39716	Daimler
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,14 @@
+T1	Organization 0 11	Аверс-Центр
+T2	Organization 247 255	Cadillac
+T3	Organization 257 266	Chevrolet
+T4	Organization 268 281	Mercedes-Benz
+T5	Organization 283 289	Toyota
+N1	Reference T1 wiki:3748583	Аверс-Центр
+N2	Reference T2 wiki:571883	Cadillac
+N3	Reference T3 wiki:17631	Chevrolet
+N4	Reference T4 wiki:40401	Mercedes-Benz
+N5	Reference T5 wiki:42689	Toyota
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,5 @@
+T1	Organization 0 44	Днепропетровский завод бурового оборудования
+T2	Organization 214 225	Atlas Copco
+N1	Reference T1 wiki:2050290	Днепропетровский завод бурового оборудования
+N2	Reference T2 wiki:294626	Atlas Copco
+A1	IsLink T2

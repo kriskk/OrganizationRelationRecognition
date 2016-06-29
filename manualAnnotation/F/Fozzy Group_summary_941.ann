@@ -1,0 +1,5 @@
+T1	Organization 0 11	Fozzy Group
+T2	Organization 186 192	Сильпо
+N1	Reference T1 wiki:165751	Fozzy Group
+N2	Reference T2 wiki:165751	Сильпо
+A1	IsLink T2

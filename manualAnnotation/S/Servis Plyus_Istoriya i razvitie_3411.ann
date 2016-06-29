@@ -1,0 +1,8 @@
+T1	Organization 0 11	Сервис Плюс
+T2	Organization 286 292	Oracle
+T3	Organization 436 444	«Магнит»
+N1	Reference T1 wiki:1788611	Сервис Плюс
+N2	Reference T2 wiki:129227	Oracle
+N3	Reference T3 wiki:143658	Магнит (сеть магазинов)
+A1	IsLink T2
+A2	IsLink T3

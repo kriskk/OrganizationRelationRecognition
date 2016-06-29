@@ -1,0 +1,13 @@
+Рейтер
+@Конкуренты
+3677,0
+
+
+Конкуренты
+
+ Bloomberg
+	 Dow Jones
+	 Factiva
+	 ISI Securities
+
+

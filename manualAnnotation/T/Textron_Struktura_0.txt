@@ -1,0 +1,16 @@
+Textron
+@Структура
+1043,0
+
+
+Структура
+
+ Bell
+	 Bell Helicopter Textron
+		 Textron Systems
+		 Lycoming Engines
+	 Cessna
+	 Cessna
+	 Textron Financial Corporation
+	 Industrial
+	 E-Z-GO (производство вспомогательных автомобилей, машин для Гольфа)

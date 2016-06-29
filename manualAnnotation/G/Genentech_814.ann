@@ -1,0 +1,5 @@
+T1	Organization 0 9	Genentech
+T2	Organization 166 183	Hoffmann-La Roche
+N1	Reference T1 wiki:2681606	Genentech
+N2	Reference T2 wiki:1761800	Roche
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 6	Atomic
+T2	Organization 275 286	Amer Sports
+N1	Reference T1 wiki:1286996	Atomic
+N2	Reference T2 wiki:398920	Amer Sports
+A1	IsLink T2

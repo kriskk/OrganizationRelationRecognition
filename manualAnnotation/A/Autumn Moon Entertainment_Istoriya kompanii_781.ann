@@ -1,0 +1,8 @@
+T1	Organization 0 25	Autumn Moon Entertainment
+T2	Organization 290 311	The Adventure Company
+T3	Organization 356 362	Акелла
+N1	Reference T1 wiki:2808815	Autumn Moon Entertainment
+N2	Reference T2 wiki:2520425	The Adventure Company
+N3	Reference T3 wiki:654463	Акелла
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 11	Связьинвест
+T2	Organization 149 159	Ростелеком
+N1	Reference T1 wiki:145705	Связьинвест
+N2	Reference T2 wiki:145844	Ростелеком
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 17	High Moon Studios
+T2	Organization 282 298	Arc System Works
+N1	Reference T1 wiki:699262	High Moon Studios
+N2	Reference T2 wiki:695830	Arc System Works
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

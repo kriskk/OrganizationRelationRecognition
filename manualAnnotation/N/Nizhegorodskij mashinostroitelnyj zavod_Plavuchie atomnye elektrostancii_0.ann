@@ -1,0 +1,8 @@
+T1	Organization 0 38	Нижегородский машиностроительный завод
+T2	Organization 136 149	Росэнергоатом
+T3	Organization 154 160	Севмаш
+N1	Reference T1 wiki:929895	Нижегородский машиностроительный завод
+N2	Reference T2 wiki:138779	Росэнергоатом
+N3	Reference T3 wiki:268382	Севмаш
+A1	IsLink T2
+A2	IsLink T3

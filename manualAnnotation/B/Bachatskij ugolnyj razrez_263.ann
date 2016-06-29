@@ -1,0 +1,5 @@
+T1	Organization 0 25	Бачатский угольный разрез
+T2	Organization 227 251	ОАО «Кузбассразрезуголь»
+N1	Reference T1 wiki:212378	Бачатский угольный разрез
+N2	Reference T2 wiki:171189	Кузбассразрезуголь
+A1	IsLink T2

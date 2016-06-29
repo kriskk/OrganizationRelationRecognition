@@ -1,0 +1,26 @@
+T1	Organization 0 18	МРСК Северо-Запада
+T2	Organization 47 56	Архэнерго
+T3	Organization 59 72	Вологдаэнерго
+T4	Organization 90 99	Колэнерго
+T5	Organization 102 112	Комиэнерго
+T6	Organization 115 129	Новгородэнерго
+T7	Organization 132 143	Псковэнерго
+N1	Reference T1 wiki:3386065	МРСК Северо-Запада
+N2	Reference T2 wiki:3385840	Архэнерго
+N3	Reference T3 wiki:3385443	Вологдаэнерго
+N4	Reference T4 wiki:3019506	Колэнерго
+N5	Reference T5 wiki:3386002	Комиэнерго
+N6	Reference T6 wiki:3386050	Новгородэнерго
+N7	Reference T7 wiki:3387161	Псковэнерго
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Subsidiary
+A8	TypeRel T3 Subsidiary
+A9	TypeRel T4 Subsidiary
+A10	TypeRel T5 Subsidiary
+A11	TypeRel T6 Subsidiary
+A12	TypeRel T7 Subsidiary

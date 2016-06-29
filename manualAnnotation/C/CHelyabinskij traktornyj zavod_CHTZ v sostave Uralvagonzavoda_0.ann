@@ -1,0 +1,11 @@
+T1	Organization 0 28	Челябинский тракторный завод
+T2	Organization 172 186	Уралвагонзавод
+T3	Organization 246 260	Уралвагонзавод
+T4	Organization 423 437	Уралвагонзавод
+N1	Reference T1 wiki:306580	Челябинский тракторный завод
+N2	Reference T2 wiki:93093	Уралвагонзавод
+N3	Reference T3 wiki:93093	Уралвагонзавод
+N4	Reference T4 wiki:93093	Уралвагонзавод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

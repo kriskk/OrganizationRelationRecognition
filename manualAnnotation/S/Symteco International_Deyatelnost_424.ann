@@ -1,0 +1,23 @@
+T1	Organization 0 21	Symteco International
+T2	Organization 202 221	Chevron Corporation
+T3	Organization 223 229	Boeing
+T4	Organization 231 244	China Telecom
+T5	Organization 259 269	Mitsubishi
+T6	Organization 271 278	Toshiba
+T7	Organization 280 296	Deutsche Telekom
+T8	Organization 328 331	BMW
+N1	Reference T1 wiki:2941978	Symteco International
+N2	Reference T2 wiki:420107	Chevron Corporation
+N3	Reference T3 wiki:156398	Boeing
+N4	Reference T4 wiki:3661466	China Telecom
+N5	Reference T5 wiki:182989	Mitsubishi
+N6	Reference T6 wiki:507269	Toshiba
+N7	Reference T7 wiki:169094	Deutsche Telekom
+N8	Reference T8 wiki:40368	BMW
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

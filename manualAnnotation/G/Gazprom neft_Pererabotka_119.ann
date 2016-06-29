@@ -1,0 +1,9 @@
+T1	Organization 0 13	Газпром нефть
+T2	Organization 272 316	ОАО «Славнефть-Ярославнефтеоргсинтез» (ЯНОС)
+T3	Organization 346 349	NIS
+N1	Reference T1 wiki:121955	Газпром нефть
+N2	Reference T2 wiki:1731070	Ярославнефтеоргсинтез
+N3	Reference T3 wiki:305756	Нафтна индустрија Србије
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

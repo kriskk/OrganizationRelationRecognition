@@ -1,0 +1,6 @@
+T1	Organization 0 7	Level-5
+T2	Organization 173 180	Sunrise
+N1	Reference T1 wiki:3337439	Level-5
+N2	Reference T2 wiki:373049	Sunrise (компания)
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

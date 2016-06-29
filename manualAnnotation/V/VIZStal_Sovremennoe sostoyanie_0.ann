@@ -1,0 +1,14 @@
+T1	Organization 0 9	ВИЗ-Сталь
+T2	Organization 158 170	Nippon Steel
+T3	Organization 181 193	ThyssenKrupp
+T4	Organization 207 223	AK Steel Holding
+N1	Reference T1 wiki:1758411	ВИЗ-Сталь
+N2	Reference T2 wiki:1686542	Nippon Steel
+N3	Reference T3 wiki:166657	ThyssenKrupp
+N4	Reference T4 wiki:629000	AK Steel Holding
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor

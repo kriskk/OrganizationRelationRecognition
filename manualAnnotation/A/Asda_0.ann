@@ -1,0 +1,8 @@
+T1	Organization 0 4	Asda
+T2	Organization 105 113	Wal-Mart
+T3	Organization 257 265	Wal-Mart
+N1	Reference T1 wiki:370271	Asda
+N2	Reference T2 wiki:243093	Wal-Mart
+N3	Reference T3 wiki:243093	Wal-Mart
+A1	IsLink T2
+A2	IsLink T3

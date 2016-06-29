@@ -1,0 +1,21 @@
+T1	Organization 0 6	Holden
+T2	Organization 191 195	Ford
+T3	Organization 419 423	Ford
+T4	Organization 425 435	Mitsubishi
+T5	Organization 437 443	Toyota
+T6	Organization 445 451	Nissan
+N1	Reference T1 wiki:604803	Holden
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:153236	Ford
+N4	Reference T4 wiki:182989	Mitsubishi
+N5	Reference T5 wiki:42689	Toyota
+N6	Reference T6 wiki:159586	Nissan
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T3 Competitor
+A7	TypeRel T4 Competitor
+A8	TypeRel T5 Competitor
+A9	TypeRel T6 Competitor

@@ -1,0 +1,6 @@
+T1	Organization 0 15	Kyoto Animation
+T2	Organization 237 240	Key
+N1	Reference T1 wiki:1841803	Kyoto Animation
+N2	Reference T2 wiki:3063829	Key
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 18	Hollywood Pictures
+T2	Organization 110 130	Amblin Entertainment
+N1	Reference T1 wiki:1398376	Hollywood Pictures
+N2	Reference T2 wiki:3297664	Amblin Entertainment
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 11	Blue Origin
+T2	Organization 232 242	Amazon.com
+N1	Reference T1 wiki:404900	Blue Origin
+N2	Reference T2 wiki:103623	Amazon.com
+A1	IsLink T2

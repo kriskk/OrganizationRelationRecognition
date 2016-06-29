@@ -1,0 +1,6 @@
+T1	Organization 0 25	Richmond Locomotive Works
+T2	Organization 229 263	Американской локомотивной компании
+N1	Reference T1 wiki:1910130	Richmond Locomotive Works
+N2	Reference T2 wiki:1851708	American Locomotive Company
+A1	IsLink T2
+A2	TypeRel T2 Holder

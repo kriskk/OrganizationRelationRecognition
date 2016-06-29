@@ -1,0 +1,5 @@
+T1	Organization 0 6	Tamron
+T2	Organization 39 56	Sigma Corporation
+N1	Reference T1 wiki:753267	Tamron
+N2	Reference T2 wiki:703772	Sigma Corporation
+A1	IsLink T2

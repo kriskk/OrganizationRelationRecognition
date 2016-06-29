@@ -1,0 +1,5 @@
+T1	Organization 0 13	Infinity Ward
+T2	Organization 148 167	Activision Blizzard
+N1	Reference T1 wiki:1692228	Infinity Ward
+N2	Reference T2 wiki:954541	Activision Blizzard
+A1	TypeRel T2 Holder

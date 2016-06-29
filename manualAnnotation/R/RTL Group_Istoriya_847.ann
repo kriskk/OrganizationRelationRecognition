@@ -1,0 +1,16 @@
+T1	Organization 0 9	RTL Group
+T2	Organization 198 201	НМГ
+T3	Organization 400 403	НМГ
+T4	Organization 440 443	НМГ
+T5	Organization 484 487	НМГ
+N1	Reference T1 wiki:1987028	RTL Group
+N2	Reference T2 wiki:1780879	Национальная Медиа Группа
+N3	Reference T3 wiki:1780879	Национальная Медиа Группа
+N4	Reference T4 wiki:1780879	Национальная Медиа Группа
+N5	Reference T5 wiki:1780879	Национальная Медиа Группа
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator

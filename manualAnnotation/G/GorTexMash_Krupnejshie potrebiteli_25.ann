@@ -1,0 +1,34 @@
+T1	Organization 0 9	ГорТехМаш
+T2	Organization 281 292	АК «АЛРОСА»
+T3	Organization 296 314	ОАО «Полюс Золото»
+T4	Organization 318 329	ОАО «Мечел»
+T5	Organization 331 350	ОАО «ХК «Якутуголь»
+T6	Organization 373 395	ОАО «Коршуновский ГОК»
+T7	Organization 400 428	ОАО «УК «Кузбассразрезуголь»
+T8	Organization 432 442	ОАО «СУЭК»
+T9	Organization 446 455	ОАО «РЖД»
+N1	Reference T1 wiki:2695380	ГорТехМаш
+N2	Reference T2 wiki:147338	АЛРОСА
+N3	Reference T3 wiki:160950	Полюс Золото
+N4	Reference T4 wiki:148493	Мечел (компания)
+N5	Reference T5 wiki:158730	Якутуголь
+N6	Reference T6 wiki:636514	Коршуновский горно-обогатительный комбинат
+N7	Reference T7 wiki:171189	Кузбассразрезуголь
+N8	Reference T8 wiki:162787	Сибирская угольная энергетическая компания
+N9	Reference T9 wiki:106901	Российские железные дороги
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

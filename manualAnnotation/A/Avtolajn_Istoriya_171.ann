@@ -1,0 +1,17 @@
+T1	Organization 0 8	Автолайн
+T2	Organization 289 295	Scania
+T3	Organization 340 345	Isuzu
+T4	Organization 349 354	Iveco
+T5	Organization 358 366	Mercedes
+T6	Organization 395 403	Mercedes
+N1	Reference T1 wiki:816326	Автолайн
+N2	Reference T2 wiki:252348	Scania
+N3	Reference T3 wiki:177809	Isuzu
+N4	Reference T4 wiki:272617	Iveco
+N5	Reference T5 wiki:40401	Mercedes
+N6	Reference T6 wiki:40401	Mercedes
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

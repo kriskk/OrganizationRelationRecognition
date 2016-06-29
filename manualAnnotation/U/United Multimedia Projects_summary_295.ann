@@ -1,0 +1,14 @@
+T1	Organization 0 26	United Multimedia Projects
+T2	Organization 320 326	Леан-М
+T3	Organization 328 355	Sony Pictures Entertainment
+T4	Organization 357 363	Амедиа
+N1	Reference T1 wiki:2303316	United Multimedia Projects
+N2	Reference T2 wiki:1883827	Леан-М
+N3	Reference T3 wiki:1830946	Sony Pictures Entertainment
+N4	Reference T4 wiki:20040	Амедиа
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

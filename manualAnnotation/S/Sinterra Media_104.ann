@@ -1,0 +1,5 @@
+T1	Organization 0 14	Синтерра Медиа
+T2	Organization 175 182	МегаФон
+N1	Reference T1 wiki:2599146	Синтерра Медиа
+N2	Reference T2 wiki:70933	МегаФон
+A1	IsLink T2

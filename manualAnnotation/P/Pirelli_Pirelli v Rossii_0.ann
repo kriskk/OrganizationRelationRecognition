@@ -1,0 +1,5 @@
+T1	Organization 0 7	Pirelli
+T2	Organization 135 148	Ростехнологии
+N1	Reference T1 wiki:461196	Pirelli
+N2	Reference T2 wiki:915063	Ростехнологии
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,14 @@
+T1	Organization 0 16	Westwood Studios
+T2	Organization 196 211	Electronic Arts
+T3	Organization 278 285	Infocom
+T4	Organization 288 311	The Walt Disney Company
+N1	Reference T1 wiki:70907	Westwood Studios
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:103108	Infocom
+N4	Reference T4 wiki:319365	The Walt Disney Company
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

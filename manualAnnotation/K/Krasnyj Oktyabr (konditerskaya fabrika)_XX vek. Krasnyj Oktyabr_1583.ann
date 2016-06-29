@@ -1,0 +1,8 @@
+T1	Organization 0 38	Красный Октябрь (кондитерская фабрика)
+T2	Organization 268 283	ОАО «Бабаевский
+T3	Organization 331 346	ОАО «Рот Фронт»
+N1	Reference T1 wiki:1696333	Красный Октябрь (кондитерская фабрика)
+N2	Reference T2 wiki:534969	Бабаевский (концерн)
+N3	Reference T3 wiki:1691601	Рот Фронт (фабрика)
+A1	IsLink T2
+A2	IsLink T3

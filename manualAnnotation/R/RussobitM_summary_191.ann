@@ -1,0 +1,5 @@
+T1	Organization 0 10	Руссобит-М
+T2	Organization 299 302	GFI
+N1	Reference T1 wiki:992525	Руссобит-М
+N2	Reference T2 wiki:774390	Game Factory Interactive
+A1	IsLink T2

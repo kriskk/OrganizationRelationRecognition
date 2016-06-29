@@ -1,0 +1,8 @@
+T1	Organization 0 16	Балтийский завод
+T2	Organization 369 382	Росэнергоатом
+T3	Organization 545 586	Российского морского регистра судоходства
+N1	Reference T1 wiki:773298	Балтийский завод
+N2	Reference T2 wiki:138779	Росэнергоатом
+N3	Reference T3 wiki:2022136	Российский морской регистр судоходства
+A1	IsLink T2
+A2	IsLink T3

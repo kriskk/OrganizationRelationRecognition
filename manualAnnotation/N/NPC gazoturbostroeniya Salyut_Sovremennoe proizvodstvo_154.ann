@@ -1,0 +1,5 @@
+T1	Organization 0 29	НПЦ газотурбостроения «Салют»
+T2	Organization 258 269	«Мотор-Сiч»
+N1	Reference T1 wiki:335632	НПЦ газотурбостроения «Салют»
+N2	Reference T2 wiki:40365	Мотор Сич
+A1	TypeRel T2 Cooperator

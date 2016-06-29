@@ -1,0 +1,10 @@
+T1	Organization 0 9	РТКомм.РУ
+T2	Organization 75 85	Ростелеком
+T3	Organization 379 387	Синтерра
+N1	Reference T1 wiki:1399213	РТКомм.РУ
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:1399604	Синтерра
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Subsidiary

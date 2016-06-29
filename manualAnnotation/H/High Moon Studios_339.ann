@@ -1,0 +1,6 @@
+T1	Organization 0 17	High Moon Studios
+T2	Organization 185 205	Sierra Entertainment
+N1	Reference T1 wiki:699262	High Moon Studios
+N2	Reference T2 wiki:1561521	Sierra Entertainment
+A1	IsLink T2
+A2	TypeRel T2 Alias

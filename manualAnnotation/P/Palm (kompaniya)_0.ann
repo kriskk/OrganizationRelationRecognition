@@ -1,0 +1,6 @@
+T1	Organization 0 15	Palm (компания)
+T2	Organization 136 138	HP
+N1	Reference T1 wiki:128188	Palm (компания)
+N2	Reference T2 wiki:89988	Hewlett-Packard
+A1	IsLink T2
+A2	TypeRel T2 Holder

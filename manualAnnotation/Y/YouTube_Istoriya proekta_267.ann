@@ -1,0 +1,9 @@
+T1	Organization 0 7	YouTube
+T2	Organization 272 278	Google
+T3	Organization 328 334	Google
+N1	Reference T1 wiki:275424	YouTube
+N2	Reference T2 wiki:265	Google (компания)
+N3	Reference T3 wiki:265	Google (компания)
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

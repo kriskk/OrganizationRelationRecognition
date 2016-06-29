@@ -1,0 +1,6 @@
+T1	Organization 0 9	White Fox
+T2	Organization 69 78	OLM, Inc.
+N1	Reference T1 wiki:3552518	White Fox
+N2	Reference T2 wiki:3545780	OLM, Inc.
+A1	IsLink T2
+A2	TypeRel T2 Holder

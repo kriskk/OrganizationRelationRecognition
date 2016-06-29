@@ -1,0 +1,11 @@
+T1	Organization 0 9	DC Comics
+T2	Organization 354 375	Warner Communications
+T3	Organization 391 400	Time Inc.
+T4	Organization 443 454	Time Warner
+N1	Reference T1 wiki:1742414	DC Comics
+N2	Reference T2 wiki:272386	Warner Bros.
+N3	Reference T3 wiki:889335	Time Inc.
+N4	Reference T4 wiki:741342	Time Warner
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

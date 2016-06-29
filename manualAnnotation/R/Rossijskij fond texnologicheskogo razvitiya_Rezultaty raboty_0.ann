@@ -1,0 +1,8 @@
+T1	Organization 0 41	Российский фонд технологического развития
+T2	Organization 213 219	НТ-МДТ
+T3	Organization 299 329	ЗАО "Светлана-Оптоэлектроника"
+N1	Reference T1 wiki:3979890	Российский фонд технологического развития
+N2	Reference T2 wiki:1788884	Нанотехнология МДТ
+N3	Reference T3 wiki:3662577	ЗАО "Светлана-Оптоэлектроника"
+A1	IsLink T2
+A2	IsLink T3

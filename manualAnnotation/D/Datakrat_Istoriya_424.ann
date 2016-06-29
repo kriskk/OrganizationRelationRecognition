@@ -1,0 +1,5 @@
+T1	Organization 0 8	Датакрат
+T2	Organization 373 388	Уралэлектромедь
+N1	Reference T1 wiki:2572015	Датакрат
+N2	Reference T2 wiki:604842	Уралэлектромедь
+A1	IsLink T2

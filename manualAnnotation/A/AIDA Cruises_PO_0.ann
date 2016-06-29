@@ -1,0 +1,10 @@
+T1	Organization 0 12	AIDA Cruises
+T2	Organization 110 113	P&O
+T3	Organization 426 429	TUI
+N1	Reference T1 wiki:1099280	AIDA Cruises
+N2	Reference T2 wiki:1761759	P&O
+N3	Reference T3 wiki:3442705	TUI Cruises
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T2 Holder

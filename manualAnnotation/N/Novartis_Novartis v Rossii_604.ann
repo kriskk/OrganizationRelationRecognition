@@ -1,0 +1,5 @@
+T1	Organization 0 8	Novartis
+T2	Organization 215 229	Sanofi-Aventis
+N1	Reference T1 wiki:1018931	Novartis
+N2	Reference T2 wiki:1469482	Sanofi-Aventis
+A1	TypeRel T2 Competitor

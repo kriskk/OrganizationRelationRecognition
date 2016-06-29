@@ -1,0 +1,5 @@
+T1	Organization 0 31	Алчевский коксохимический завод
+T2	Organization 206 209	ИСД
+N1	Reference T1 wiki:510769	Алчевский коксохимический завод
+N2	Reference T2 wiki:535207	ИСД
+A1	IsLink T2

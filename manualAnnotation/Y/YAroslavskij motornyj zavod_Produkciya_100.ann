@@ -1,0 +1,22 @@
+T1	Organization 0 26	Ярославский моторный завод
+T2	Organization 231 257	Автомобильный завод «Урал»
+T3	Organization 265 268	МАЗ
+T4	Organization 276 280	ЛиАЗ
+T5	Organization 287 295	АвтоКрАЗ
+T6	Organization 304 309	БелАЗ
+N1	Reference T1 wiki:916530	Ярославский моторный завод
+N2	Reference T2 wiki:24935	Автомобильный завод «Урал»
+N3	Reference T3 wiki:33218	МАЗ
+N4	Reference T4 wiki:154271	ЛиАЗ
+N5	Reference T5 wiki:606512	АвтоКрАЗ
+N6	Reference T6 wiki:104850	БелАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 9	STADA CIS
+T2	Organization 197 205	Hemofarm
+N1	Reference T1 wiki:3824198	STADA CIS
+N2	Reference T2 wiki:2418397	Hemofarm
+A1	IsLink T2

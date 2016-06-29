@@ -1,0 +1,8 @@
+T1	Organization 0 11	Hino Motors
+T2	Organization 207 224	Tokyo Gas Company
+T3	Organization 227 247	Tokyo Electric Power
+N1	Reference T1 wiki:266538	Hino Motors
+N2	Reference T2 wiki:2013438	Tokyo Gas
+N3	Reference T3 wiki:1984193	Tokyo Electric Power
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,20 @@
+T1	Organization 0 6	Epicor
+T2	Organization 115 119	Sage
+T3	Organization 128 131	IFS
+T4	Organization 133 136	QAD
+T5	Organization 251 254	SAP
+T6	Organization 256 262	Oracle
+T7	Organization 265 274	Microsoft
+N1	Reference T1 wiki:1893900	Epicor
+N2	Reference T2 wiki:3004892	Sage Group
+N3	Reference T3 wiki:1575903	Industrial and Financial Systems
+N4	Reference T4 wiki:1916298	QAD
+N5	Reference T5 wiki:81959	SAP
+N6	Reference T6 wiki:129227	Oracle
+N7	Reference T7 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

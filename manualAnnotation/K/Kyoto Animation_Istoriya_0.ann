@@ -1,0 +1,6 @@
+T1	Organization 0 15	Kyoto Animation
+T2	Organization 128 144	Mushi Production
+N1	Reference T1 wiki:1841803	Kyoto Animation
+N2	Reference T2 wiki:2689263	Mushi Production
+A1	IsLink T2
+A2	TypeRel T2 Personnel

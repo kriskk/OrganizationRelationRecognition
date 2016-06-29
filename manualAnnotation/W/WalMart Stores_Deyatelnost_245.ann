@@ -1,0 +1,18 @@
+T1	Organization 0 15	Wal-Mart Stores
+T2	Organization 219 229	Home Depot
+T3	Organization 231 237	Kroger
+T4	Organization 267 273	Costco
+T5	Organization 276 282	Target
+N1	Reference T1 wiki:243093	Wal-Mart Stores
+N2	Reference T2 wiki:369981	Home Depot
+N3	Reference T3 wiki:369991	Kroger
+N4	Reference T4 wiki:1961360	Costco
+N5	Reference T5 wiki:369962	Target Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Competitor
+A6	TypeRel T3 Competitor
+A7	TypeRel T4 Competitor
+A8	TypeRel T5 Competitor

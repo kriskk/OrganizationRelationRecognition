@@ -1,0 +1,5 @@
+T1	Organization 0 11	Bell & Ross
+T2	Organization 228 234	Chanel
+N1	Reference T1 wiki:3195352	Bell & Ross
+N2	Reference T2 wiki:224214	Chanel
+A1	IsLink T2

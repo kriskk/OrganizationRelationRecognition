@@ -1,0 +1,5 @@
+T1	Organization 0 27	Continental Automotive GmbH
+T2	Organization 183 197	Continental AG
+N1	Reference T1 wiki:974849	Continental Automotive GmbH
+N2	Reference T2 wiki:169785	Continental AG
+A1	IsLink T2

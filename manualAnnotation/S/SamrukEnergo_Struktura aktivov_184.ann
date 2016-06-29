@@ -1,0 +1,5 @@
+T1	Organization 0 13	Самрук-Энерго
+T2	Organization 219 239	ТОО «Богатырь Комир»
+N1	Reference T1 wiki:3224658	Самрук-Энерго
+N2	Reference T2 wiki:1611865	Богатырь (угольный разрез)
+A1	IsLink T2

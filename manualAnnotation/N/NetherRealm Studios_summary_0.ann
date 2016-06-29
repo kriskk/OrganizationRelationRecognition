@@ -1,0 +1,10 @@
+T1	Organization 0 19	NetherRealm Studios
+T2	Organization 180 186	Midway
+T3	Organization 274 312	Warner Bros. Interactive Entertainment
+N1	Reference T1 wiki:3311099	NetherRealm Studios
+N2	Reference T2 wiki:2428144	Midway Games
+N3	Reference T3 wiki:2184337	Warner Bros. Interactive Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

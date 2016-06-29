@@ -1,0 +1,5 @@
+T1	Organization 0 18	Vickers-Armstrongs
+T2	Organization 290 309	Armstrong Whitworth
+N1	Reference T1 wiki:983337	Vickers-Armstrongs
+N2	Reference T2 wiki:1256860	Armstrong Whitworth
+A1	TypeRel T2 Subsidiary

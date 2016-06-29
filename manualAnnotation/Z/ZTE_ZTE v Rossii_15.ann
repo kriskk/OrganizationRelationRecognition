@@ -1,0 +1,6 @@
+T1	Organization 0 3	ZTE
+T2	Organization 363 372	ВымпелКом
+N1	Reference T1 wiki:2100056	ZTE
+N2	Reference T2 wiki:70736	ВымпелКом
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

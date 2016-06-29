@@ -1,0 +1,8 @@
+T1	Organization 0 13	Sprint Nextel
+T2	Organization 215 228	AT&T Mobility
+T3	Organization 231 247	Verizon Wireless
+N1	Reference T1 wiki:373558	Sprint Nextel
+N2	Reference T2 wiki:373569	AT&T Mobility
+N3	Reference T3 wiki:373572	Verizon Wireless
+A1	IsLink T2
+A2	IsLink T3

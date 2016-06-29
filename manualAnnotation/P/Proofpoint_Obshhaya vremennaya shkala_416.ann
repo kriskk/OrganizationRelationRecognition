@@ -1,0 +1,6 @@
+T1	Organization 0 10	Proofpoint
+T2	Organization 237 244	Гартнер
+N1	Reference T1 wiki:2797625	Proofpoint
+N2	Reference T2 wiki:2960363	Gartner
+A1	IsLink T2
+A2	TypeRel T2 Other

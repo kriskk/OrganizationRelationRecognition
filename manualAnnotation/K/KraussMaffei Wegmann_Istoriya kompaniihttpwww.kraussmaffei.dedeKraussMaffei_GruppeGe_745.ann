@@ -1,0 +1,9 @@
+T1	Organization 0 21	Krauss-Maffei Wegmann
+T2	Organization 352 379	Siemens-Schuckertwerke GmbH
+T3	Organization 382 385	AEG
+N1	Reference T1 wiki:1115943	Krauss-Maffei Wegmann
+N2	Reference T2 wiki:198667	Siemens-Schuckertwerke GmbH
+N3	Reference T3 wiki:294609	AEG
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

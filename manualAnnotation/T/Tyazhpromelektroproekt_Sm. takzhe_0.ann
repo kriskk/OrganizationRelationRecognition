@@ -1,0 +1,5 @@
+T1	Organization 0 20	Тяжпромэлектропроект
+T2	Organization 52 82	Тяжпромэлектропроект Волгоград
+N1	Reference T1 wiki:344790	Тяжпромэлектропроект
+N2	Reference T2 wiki:344841	Тяжпромэлектропроект Волгоград
+A1	IsLink T2

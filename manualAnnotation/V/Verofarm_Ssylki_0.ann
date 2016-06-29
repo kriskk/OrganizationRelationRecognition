@@ -1,0 +1,5 @@
+T1	Organization 0 8	Верофарм
+T2	Organization 80 83	РБК
+N1	Reference T1 wiki:2685933	Верофарм
+N2	Reference T2 wiki:391746	РБК
+A1	TypeRel T2 Other

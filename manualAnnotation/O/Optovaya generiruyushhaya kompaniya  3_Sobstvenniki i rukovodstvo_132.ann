@@ -1,0 +1,6 @@
+T1	Organization 0 33	Оптовая генерирующая компания № 3
+T2	Organization 251 256	ОГК-4
+N1	Reference T1 wiki:189290	Оптовая генерирующая компания № 3
+N2	Reference T2 wiki:275389	ОГК-4
+A1	IsLink T2
+A2	TypeRel T2 Personnel

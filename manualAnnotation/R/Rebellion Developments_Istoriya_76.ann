@@ -1,0 +1,10 @@
+T1	Organization 0 22	Rebellion Developments
+T2	Organization 208 219	Core Design
+T3	Organization 243 261	Empire Interactive
+N1	Reference T1 wiki:2510548	Rebellion Developments
+N2	Reference T2 wiki:1464367	Core Design
+N3	Reference T3 wiki:1270433	Empire Interactive
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

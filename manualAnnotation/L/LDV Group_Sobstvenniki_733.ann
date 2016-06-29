@@ -1,0 +1,10 @@
+T1	Organization 0 9	LDV Group
+T2	Organization 188 210	PricewaterhouseCoopers
+T3	Organization 275 285	SAIC Motor
+N1	Reference T1 wiki:1791283	LDV Group
+N2	Reference T2 wiki:275101	PricewaterhouseCoopers
+N3	Reference T3 wiki:377731	SAIC Motor
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

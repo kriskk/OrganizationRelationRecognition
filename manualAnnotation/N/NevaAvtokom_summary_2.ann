@@ -1,0 +1,6 @@
+T1	Organization 0 12	Нева-Автоком
+T2	Organization 262 275	Volkswagen AG
+N1	Reference T1 wiki:2977944	Нева-Автоком
+N2	Reference T2 wiki:750217	Volkswagen AG
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

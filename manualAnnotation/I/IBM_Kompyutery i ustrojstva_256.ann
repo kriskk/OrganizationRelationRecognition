@@ -1,0 +1,10 @@
+T1	Organization 0 3	IBM
+T2	Organization 217 229	Lenovo Group
+T3	Organization 334 341	Hitachi
+N1	Reference T1 wiki:11078	IBM
+N2	Reference T2 wiki:666442	Lenovo
+N3	Reference T3 wiki:141241	Hitachi, Ltd.
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

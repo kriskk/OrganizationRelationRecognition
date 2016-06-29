@@ -1,0 +1,6 @@
+T1	Organization 0 6	NedCar
+T2	Organization 52 69	Mitsubishi Motors
+N1	Reference T1 wiki:1572227	NedCar
+N2	Reference T2 wiki:423257	Mitsubishi Motors
+A1	IsLink T2
+A2	TypeRel T2 Holder

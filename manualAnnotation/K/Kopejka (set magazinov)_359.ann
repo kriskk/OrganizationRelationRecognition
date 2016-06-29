@@ -1,0 +1,6 @@
+T1	Organization 0 24	Копейка (сеть магазинов)
+T2	Organization 195 210	X5 Retail Group
+N1	Reference T1 wiki:153659	Копейка (сеть магазинов)
+N2	Reference T2 wiki:353293	X5 Retail Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

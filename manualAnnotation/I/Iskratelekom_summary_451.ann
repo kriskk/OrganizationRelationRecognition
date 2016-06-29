@@ -1,0 +1,10 @@
+T1	Organization 0 12	Искрателеком
+T2	Organization 191 204	Cisco Systems
+T3	Organization 233 241	ВестКолл
+N1	Reference T1 wiki:2381253	Искрателеком
+N2	Reference T2 wiki:25014	Cisco Systems
+N3	Reference T3 wiki:1349162	ВестКолл
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder
+A4	TypeRel T2 Cooperator

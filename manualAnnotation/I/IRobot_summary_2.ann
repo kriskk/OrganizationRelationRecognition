@@ -1,0 +1,5 @@
+T1	Organization 0 6	IRobot
+T2	Organization 330 336	NASDAQ
+N1	Reference T1 wiki:1623924	IRobot
+N2	Reference T2 wiki:63813	NASDAQ
+A1	TypeRel T2 Other

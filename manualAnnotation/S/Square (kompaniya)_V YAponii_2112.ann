@@ -1,0 +1,17 @@
+T1	Organization 0 17	Square (компания)
+T2	Organization 258 266	Nintendo
+T3	Organization 295 299	Enix
+T4	Organization 389 400	Square Enix
+T5	Organization 490 495	Taito
+T6	Organization 576 593	Taito Corporation
+N1	Reference T1 wiki:278305	Square (компания)
+N2	Reference T2 wiki:202486	Nintendo
+N3	Reference T3 wiki:2414804	Enix
+N4	Reference T4 wiki:288255	Square Enix
+N5	Reference T5 wiki:1711320	Taito
+N6	Reference T6 wiki:1711320	Taito Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

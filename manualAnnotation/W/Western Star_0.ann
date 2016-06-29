@@ -1,0 +1,10 @@
+T1	Organization 0 12	Western Star
+T2	Organization 132 139	Daimler
+T3	Organization 386 393	Daimler
+N1	Reference T1 wiki:4338148	Western Star
+N2	Reference T2 wiki:39716	Daimler
+N3	Reference T3 wiki:39716	Daimler
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

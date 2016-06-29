@@ -1,0 +1,5 @@
+T1	Organization 0 9	Брянск.ru
+T2	Organization 152 158	Яндекс
+N1	Reference T1 wiki:1040743	Брянск.ru
+N2	Reference T2 wiki:9744	Яндекс
+A1	IsLink T2

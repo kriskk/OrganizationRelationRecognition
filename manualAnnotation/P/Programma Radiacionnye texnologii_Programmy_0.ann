@@ -1,0 +1,6 @@
+T1	Organization 0 35	Программа "Радиационные технологии"
+T2	Organization 68 80	В/О «Изотоп»
+N1	Reference T1 wiki:4346106	Программа "Радиационные технологии"
+N2	Reference T2 wiki:4346170	Изотоп (объединение)
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

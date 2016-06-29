@@ -1,0 +1,5 @@
+T1	Organization 0 9	Интерпайп
+T2	Organization 233 237	ПФТС
+N1	Reference T1 wiki:652297	Интерпайп
+N2	Reference T2 wiki:769045	ПФТС
+A1	TypeRel T2 Other

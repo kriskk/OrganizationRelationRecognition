@@ -1,0 +1,14 @@
+BASF
+@Продукция BASF по сегментам рынка
+@Дочерние компании
+2249,2000,0
+
+
+Дочерние компании
+
+ нет источников в разделе	 дата: 2013-02-17 
+ Wintershall
+	 PCI (Poly-Chemie-Ingenieurgesellschaft)
+	 BASF Wall Systems GmbH & Co. KG
+	 BASF Coatings GmbH
+	 BASF Performance Flooring

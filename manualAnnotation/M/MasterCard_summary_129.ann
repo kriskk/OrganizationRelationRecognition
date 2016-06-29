@@ -1,0 +1,10 @@
+T1	Organization 0 10	MasterCard
+T2	Organization 182 186	VISA
+T3	Organization 203 217	China UnionPay
+N1	Reference T1 wiki:36409	MasterCard
+N2	Reference T2 wiki:36386	VISA
+N3	Reference T3 wiki:4155557	China UnionPay
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

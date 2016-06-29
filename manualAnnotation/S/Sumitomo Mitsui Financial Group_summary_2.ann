@@ -1,0 +1,11 @@
+T1	Organization 0 31	Sumitomo Mitsui Financial Group
+T2	Organization 284 298	Sumitomo Group
+T3	Organization 374 404	Mitsubishi UFJ Financial Group
+T4	Organization 407 429	Mizuho Financial Group
+N1	Reference T1 wiki:3117483	Sumitomo Mitsui Financial Group
+N2	Reference T2 wiki:1813036	Sumitomo Group
+N3	Reference T3 wiki:3117167	Mitsubishi UFJ Financial Group
+N4	Reference T4 wiki:3115974	Mizuho Financial Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,5 @@
+T1	Organization 0 11	Aegis Group
+T2	Organization 125 136	Aegis Media
+N1	Reference T1 wiki:2685548	Aegis Group
+N2	Reference T2 wiki:3334127	Aegis Media
+A1	IsLink T2

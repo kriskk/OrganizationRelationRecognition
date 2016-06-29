@@ -1,0 +1,6 @@
+T1	Organization 0 19	Reliance Industries
+T2	Organization 250 264	LyondellBasell
+N1	Reference T1 wiki:2113267	Reliance Industries
+N2	Reference T2 wiki:652346	LyondellBasell
+A1	IsLink T2
+A2	TypeRel T2 Personnel

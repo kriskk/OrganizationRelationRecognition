@@ -1,0 +1,5 @@
+T1	Organization 0 4	SEAT
+T2	Organization 213 229	Volkswagen Group
+N1	Reference T1 wiki:41437	SEAT
+N2	Reference T2 wiki:750217	Volkswagen Group
+A1	TypeRel T2 Cooperator

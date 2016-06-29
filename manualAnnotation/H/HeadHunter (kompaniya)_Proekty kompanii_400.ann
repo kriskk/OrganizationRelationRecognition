@@ -1,0 +1,6 @@
+T1	Organization 0 21	HeadHunter (компания)
+T2	Organization 203 216	Mail.Ru Group
+N1	Reference T1 wiki:3939259	HeadHunter (компания)
+N2	Reference T2 wiki:2276649	Mail.Ru Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

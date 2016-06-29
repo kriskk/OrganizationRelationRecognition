@@ -1,0 +1,5 @@
+T1	Organization 0 14	Continental AG
+T2	Organization 236 241	Bayer
+N1	Reference T1 wiki:169785	Continental AG
+N2	Reference T2 wiki:166035	Bayer
+A1	IsLink T2

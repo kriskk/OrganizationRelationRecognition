@@ -1,0 +1,6 @@
+T1	Organization 0 9	Quantcast
+T2	Organization 221 234	Cisco Systems
+N1	Reference T1 wiki:3634620	Quantcast
+N2	Reference T2 wiki:25014	Cisco Systems
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,12 @@
+T1	Organization 0 6	Lenovo
+T2	Organization 190 193	IBM
+T3	Organization 463 466	NEC
+T4	Organization 685 691	Medion
+N1	Reference T1 wiki:666442	Lenovo
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:232844	NEC
+N4	Reference T4 wiki:166401	Medion
+A1	IsLink T2
+A3	IsLink T4
+A2	TypeRel T3 Cooperator
+A4	TypeRel T4 Subsidiary

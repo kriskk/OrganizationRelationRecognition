@@ -1,0 +1,8 @@
+T1	Organization 0 6	Ikarus
+T2	Organization 284 291	Renault
+T3	Organization 294 299	Iveco
+N1	Reference T1 wiki:243306	Ikarus
+N2	Reference T2 wiki:586472	Renault
+N3	Reference T3 wiki:272617	Iveco
+A1	IsLink T2
+A2	IsLink T3

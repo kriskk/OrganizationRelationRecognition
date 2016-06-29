@@ -1,0 +1,34 @@
+T1	Organization 0 34	Угличский машиностроительный завод
+T2	Organization 182 185	МАЗ
+T3	Organization 187 192	КАМАЗ
+T4	Organization 195 199	Урал
+T5	Organization 257 260	МАЗ
+T6	Organization 380 383	МАЗ
+T7	Organization 410 413	МАЗ
+T8	Organization 458 462	Урал
+T9	Organization 543 546	МАЗ
+N1	Reference T1 wiki:2599810	Угличский машиностроительный завод
+N2	Reference T2 wiki:33218	МАЗ
+N3	Reference T3 wiki:169714	КАМАЗ
+N4	Reference T4 wiki:24935	Уральский автомобильный завод
+N5	Reference T5 wiki:33218	МАЗ
+N6	Reference T6 wiki:33218	МАЗ
+N7	Reference T7 wiki:33218	МАЗ
+N8	Reference T8 wiki:24935	Уральский автомобильный завод
+N9	Reference T9 wiki:33218	МАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

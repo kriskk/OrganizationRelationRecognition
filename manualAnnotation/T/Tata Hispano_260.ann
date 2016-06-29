@@ -1,0 +1,5 @@
+T1	Organization 0 12	Tata Hispano
+T2	Organization 183 202	Tata Motors Limited
+N1	Reference T1 wiki:284586	Tata Hispano
+N2	Reference T2 wiki:962083	Tata Motors
+A1	IsLink T2

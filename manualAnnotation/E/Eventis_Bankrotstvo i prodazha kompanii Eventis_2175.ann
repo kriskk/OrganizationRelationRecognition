@@ -1,0 +1,11 @@
+T1	Organization 0 7	Eventis
+T2	Organization 212 220	T-Mobile
+T3	Organization 232 237	Tele2
+T4	Organization 265 274	ВымпелКом
+N1	Reference T1 wiki:745225	Eventis
+N2	Reference T2 wiki:138787	T-Mobile
+N3	Reference T3 wiki:162980	Tele2
+N4	Reference T4 wiki:70736	ВымпелКом
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

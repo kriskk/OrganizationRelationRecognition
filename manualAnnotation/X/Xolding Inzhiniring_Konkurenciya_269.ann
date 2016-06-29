@@ -1,0 +1,11 @@
+T1	Organization 0 18	Холдинг Инжиниринг
+T2	Organization 213 224	FL Technics
+T3	Organization 536 538	ТУ
+T4	Organization 544 546	ЯК
+N1	Reference T1 wiki:4238417	Холдинг Инжиниринг
+N2	Reference T2 wiki:3411462	FL Technics
+N3	Reference T3 wiki:55761	КБ Туполев
+N4	Reference T4 wiki:55757	ЯК
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Competitor

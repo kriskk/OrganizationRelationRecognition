@@ -1,0 +1,5 @@
+T1	Organization 0 10	КБ Туполев
+T2	Organization 234 240	Boeing
+N1	Reference T1 wiki:55761	КБ Туполев
+N2	Reference T2 wiki:156398	Boeing
+A1	TypeRel T2 Cooperator

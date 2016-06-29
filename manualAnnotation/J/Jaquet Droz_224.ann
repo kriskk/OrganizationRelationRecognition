@@ -1,0 +1,5 @@
+T1	Organization 0 11	Jaquet Droz
+T2	Organization 167 188	The Swatch Group Ltd.
+N1	Reference T1 wiki:1087555	Jaquet Droz
+N2	Reference T2 wiki:214233	Swatch Group
+A1	TypeRel T2 Holder

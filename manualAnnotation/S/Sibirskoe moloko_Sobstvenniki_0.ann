@@ -1,0 +1,5 @@
+T1	Organization 0 16	Сибирское молоко
+T2	Organization 132 147	Вимм-Билль-Данн
+N1	Reference T1 wiki:4246679	Сибирское молоко
+N2	Reference T2 wiki:160926	Вимм-Билль-Данн
+A1	IsLink T2

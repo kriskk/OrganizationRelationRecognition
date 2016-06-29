@@ -1,0 +1,11 @@
+T1	Organization 0 6	Atomic
+T2	Organization 200 206	Wilson
+T3	Organization 216 223	Salomon
+T4	Organization 260 266	Adidas
+N1	Reference T1 wiki:1286996	Atomic
+N2	Reference T2 wiki:2560143	Wilson Sporting Goods
+N3	Reference T3 wiki:398645	Salomon
+N4	Reference T4 wiki:243642	Adidas
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

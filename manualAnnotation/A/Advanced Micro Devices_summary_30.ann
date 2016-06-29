@@ -1,0 +1,50 @@
+T1	Organization 0 22	Advanced Micro Devices
+T2	Organization 243 259	ATI Technologies
+T3	Organization 506 521	GlobalFoundries
+T4	Organization 524 528	TSMC
+T5	Organization 728 732	Acer
+T6	Organization 734 741	Fujitsu
+T7	Organization 743 771	Fujitsu Technology Solutions
+T8	Organization 774 777	IBM
+T9	Organization 839 844	Cisco
+T10	Organization 884 898	Alcatel-Lucent
+T11	Organization 900 904	AT&T
+T12	Organization 906 914	Ericsson
+T13	Organization 916 919	NEC
+T14	Organization 921 931	Siemens AG
+T15	Organization 933 937	Sony
+T16	Organization 983 988	Intel
+T17	Organization 991 997	Nvidia
+N1	Reference T1 wiki:19981	Advanced Micro Devices
+N2	Reference T2 wiki:1155771	Ati
+N3	Reference T3 wiki:3522370	GlobalFoundries
+N4	Reference T4 wiki:755389	TSMC
+N5	Reference T5 wiki:326664	Acer
+N6	Reference T6 wiki:571996	Fujitsu
+N7	Reference T7 wiki:2005446	Fujitsu Technology Solutions
+N8	Reference T8 wiki:11078	IBM
+N9	Reference T9 wiki:25014	Cisco
+N10	Reference T10 wiki:542818	Alcatel-Lucent
+N11	Reference T11 wiki:162994	AT&T
+N12	Reference T12 wiki:711402	Ericsson
+N13	Reference T13 wiki:232844	NEC
+N14	Reference T14 wiki:36510	Siemens AG
+N15	Reference T15 wiki:73019	Sony
+N16	Reference T16 wiki:762172	Intel
+N17	Reference T17 wiki:1548156	Nvidia
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17

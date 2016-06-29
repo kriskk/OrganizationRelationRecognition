@@ -1,0 +1,9 @@
+T1	Organization 0 13	Groupe Canal+
+T2	Organization 105 115	Vivendi SA
+T3	Organization 301 312	StudioCanal
+N1	Reference T1 wiki:2487118	Groupe Canal+
+N2	Reference T2 wiki:1695856	Vivendi SA
+N3	Reference T3 wiki:2485883	StudioCanal
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Subsidiary

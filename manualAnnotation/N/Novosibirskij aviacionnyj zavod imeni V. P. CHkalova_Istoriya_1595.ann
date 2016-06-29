@@ -1,0 +1,6 @@
+T1	Organization 0 51	Новосибирский авиационный завод имени В. П. Чкалова
+T2	Organization 303 325	ОКБ им. О. К. Антонова
+N1	Reference T1 wiki:2388976	Новосибирский авиационный завод имени В. П. Чкалова
+N2	Reference T2 wiki:32271	ОКБ Антонова
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

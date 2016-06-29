@@ -1,0 +1,14 @@
+T1	Organization 0 17	Fluke Corporation
+T2	Organization 207 214	Philips
+T3	Organization 277 284	Philips
+T4	Organization 396 403	Philips
+T5	Organization 535 542	Philips
+N1	Reference T1 wiki:2889180	Fluke Corporation
+N2	Reference T2 wiki:204179	Philips
+N3	Reference T3 wiki:204179	Philips
+N4	Reference T4 wiki:204179	Philips
+N5	Reference T5 wiki:204179	Philips
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

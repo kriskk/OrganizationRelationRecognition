@@ -1,0 +1,11 @@
+T1	Organization 0 3	TDC
+T2	Organization 190 200	Blackstone
+T3	Organization 227 230	KKR
+T4	Organization 519 523	Aldi
+N1	Reference T1 wiki:3201784	TDC
+N2	Reference T2 wiki:706484	Blackstone Group
+N3	Reference T3 wiki:604929	Kohlberg Kravis Roberts
+N4	Reference T4 wiki:166756	Aldi
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

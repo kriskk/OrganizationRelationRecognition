@@ -1,0 +1,8 @@
+T1	Organization 0 13	Байкалвестком
+T2	Organization 197 223	Улан-Удэнская сотовая сеть
+T3	Organization 286 312	Улан-Удэнская сотовая сеть
+N1	Reference T1 wiki:252007	Байкалвестком
+N2	Reference T2 wiki:1100872	Улан-Удэнская сотовая сеть
+N3	Reference T3 wiki:1100872	Улан-Удэнская сотовая сеть
+A1	IsLink T2
+A2	IsLink T3

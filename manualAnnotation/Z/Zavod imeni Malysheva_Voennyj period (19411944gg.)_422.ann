@@ -1,0 +1,15 @@
+T1	Organization 0 20	Завод имени Малышева
+T2	Organization 307 321	Уралвагонзавод
+T3	Organization 442 494	Мариупольский металлургический комбинат имени Ильича
+T4	Organization 579 615	Уральский танковый завод (УТЗ) № 183
+T5	Organization 678 715	Челябинского тракторного завода (ЧТЗ)
+N1	Reference T1 wiki:382782	Завод имени Малышева
+N2	Reference T2 wiki:93093	Уралвагонзавод
+N3	Reference T3 wiki:123990	Мариупольский металлургический комбинат имени Ильича
+N4	Reference T4 wiki:93093	Уралвагонзавод
+N5	Reference T5 wiki:306580	Челябинский тракторный завод
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T5 Cooperator

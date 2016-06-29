@@ -1,0 +1,10 @@
+T1	Organization 0 10	Востоккино
+T2	Organization 129 138	Чувашкино
+T3	Organization 589 610	Ялтинская кинофабрика
+N1	Reference T1 wiki:3820558	Востоккино
+N2	Reference T2 wiki:1983629	Чувашкино
+N3	Reference T3 wiki:1628367	Ялтинская киностудия
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

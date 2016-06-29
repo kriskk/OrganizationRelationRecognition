@@ -1,0 +1,38 @@
+T1	Organization 0 6	Genser
+T2	Organization 86 92	Nissan
+T3	Organization 94 102	Infiniti
+T4	Organization 104 113	Chevrolet
+T5	Organization 115 119	Opel
+T6	Organization 121 129	Cadillac
+T7	Organization 139 143	Saab
+T8	Organization 145 150	Mazda
+T9	Organization 152 156	Ford
+T10	Organization 158 165	Hyundai
+N1	Reference T1 wiki:1541947	Genser
+N2	Reference T2 wiki:159586	Nissan
+N3	Reference T3 wiki:682238	Infiniti
+N4	Reference T4 wiki:17631	Chevrolet
+N5	Reference T5 wiki:562302	Opel
+N6	Reference T6 wiki:571883	Cadillac
+N7	Reference T7 wiki:301314	Saab Automobile AB
+N8	Reference T8 wiki:182354	Mazda
+N9	Reference T9 wiki:153236	Ford
+N10	Reference T10 wiki:176625	Hyundai Motor
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T2 Cooperator
+A11	TypeRel T3 Cooperator
+A12	TypeRel T4 Cooperator
+A13	TypeRel T5 Cooperator
+A14	TypeRel T6 Cooperator
+A15	TypeRel T7 Cooperator
+A16	TypeRel T8 Cooperator
+A17	TypeRel T9 Cooperator
+A18	TypeRel T10 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Гидромаш
+T2	Organization 354 362	Liebherr
+N1	Reference T1 wiki:661817	Гидромаш
+N2	Reference T2 wiki:248091	Liebherr
+A1	TypeRel T2 Cooperator

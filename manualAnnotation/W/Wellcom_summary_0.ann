@@ -1,0 +1,8 @@
+T1	Organization 0 7	Wellcom
+T2	Organization 62 72	Ростелеком
+T3	Organization 127 140	Сибирьтелеком
+N1	Reference T1 wiki:404283	Wellcom
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:343967	Сибирьтелеком
+A2	IsLink T3
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Ред Медиа
+T2	Organization 209 222	Интересное ТВ
+N1	Reference T1 wiki:1938031	Ред Медиа
+N2	Reference T2 wiki:1938031	Интересное ТВ
+A1	TypeRel T2 Subsidiary

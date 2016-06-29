@@ -1,0 +1,10 @@
+T1	Organization 0 11	Kraft Foods
+T2	Organization 125 137	Altria Group
+T3	Organization 183 201	Berkshire Hathaway
+N1	Reference T1 wiki:243189	Kraft Foods
+N2	Reference T2 wiki:774080	Altria Group
+N3	Reference T3 wiki:201051	Berkshire Hathaway
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

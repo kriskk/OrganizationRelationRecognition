@@ -1,0 +1,6 @@
+T1	Organization 0 30	Императорский фарфоровый завод
+T2	Organization 203 213	«Уралсиба»
+N1	Reference T1 wiki:40028	Императорский фарфоровый завод
+N2	Reference T2 wiki:237228	Уралсиб (ФК)
+A1	IsLink T2
+A2	TypeRel T2 Personnel

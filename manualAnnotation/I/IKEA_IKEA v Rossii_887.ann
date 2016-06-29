@@ -1,0 +1,9 @@
+T1	Organization 0 4	IKEA
+T2	Organization 233 241	«Шатура»
+T3	Organization 244 254	ОАО «ВКДП»
+N1	Reference T1 wiki:164679	IKEA
+N2	Reference T2 wiki:2750418	Шатура (компания)
+N3	Reference T3 wiki:3289018	ОАО «Волгодонский комбинат древесных плит»
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

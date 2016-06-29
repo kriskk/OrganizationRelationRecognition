@@ -1,0 +1,6 @@
+T1	Organization 0 28	Одесский автосборочный завод
+T2	Organization 334 339	КамАЗ
+N1	Reference T1 wiki:3223507	Одесский автосборочный завод
+N2	Reference T2 wiki:169714	КамАЗ
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

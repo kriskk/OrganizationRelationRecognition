@@ -1,0 +1,5 @@
+T1	Organization 0 29	Lincoln (автомобильная марка)
+T2	Organization 158 166	Cadillac
+N1	Reference T1 wiki:1063025	Lincoln (автомобильная марка)
+N2	Reference T2 wiki:571883	Cadillac
+A1	TypeRel T2 Personnel

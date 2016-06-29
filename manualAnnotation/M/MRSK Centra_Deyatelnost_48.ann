@@ -1,0 +1,8 @@
+T1	Organization 0 11	МРСК Центра
+T2	Organization 194 205	Тверьэнерго
+T3	Organization 210 218	Ярэнерго
+N1	Reference T1 wiki:2321689	МРСК Центра
+N2	Reference T2 wiki:1245479	Тверьэнерго
+N3	Reference T3 wiki:2694016	Ярэнерго
+A1	IsLink T2
+A2	IsLink T3

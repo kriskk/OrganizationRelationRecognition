@@ -1,0 +1,5 @@
+T1	Organization 0 8	ВодоходЪ
+T2	Organization 191 205	Волга-Флот-Тур
+N1	Reference T1 wiki:743367	ВодоходЪ
+N2	Reference T2 wiki:3422874	Волга-Флот-Тур
+A1	TypeRel T2 Subsidiary

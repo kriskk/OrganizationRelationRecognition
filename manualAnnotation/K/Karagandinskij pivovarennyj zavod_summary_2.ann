@@ -1,0 +1,5 @@
+T1	Organization 0 33	Карагандинский пивоваренный завод
+T2	Organization 311 330	Efes Beverage Group
+N1	Reference T1 wiki:1490238	Карагандинский пивоваренный завод
+N2	Reference T2 wiki:720902	Efes Beverage Group
+A1	TypeRel T2 Holder

@@ -1,0 +1,13 @@
+T1	Organization 0 14	Raven Software
+T2	Organization 245 255	Activision
+T3	Organization 330 341	Id Software
+T4	Organization 385 387	id
+N1	Reference T1 wiki:676782	Raven Software
+N2	Reference T2 wiki:307964	Activision
+N3	Reference T3 wiki:80386	Id Software
+N4	Reference T4 wiki:80386	Id Software
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator

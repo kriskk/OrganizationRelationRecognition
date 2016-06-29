@@ -1,0 +1,5 @@
+T1	Organization 0 30	Nippon Telegraph and Telephone
+T2	Organization 183 193	NTT DoCoMo
+N1	Reference T1 wiki:1788654	Nippon Telegraph and Telephone
+N2	Reference T2 wiki:56175	NTT DoCoMo
+A1	TypeRel T2 Subsidiary

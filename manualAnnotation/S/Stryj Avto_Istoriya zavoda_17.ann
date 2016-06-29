@@ -1,0 +1,8 @@
+T1	Organization 0 10	Стрый Авто
+T2	Organization 220 223	ЗИЛ
+T3	Organization 233 237	Rába
+N1	Reference T1 wiki:3335568	Стрый Авто
+N2	Reference T2 wiki:259988	ЗИЛ
+N3	Reference T3 wiki:298600	Rába
+A1	IsLink T2
+A2	IsLink T3

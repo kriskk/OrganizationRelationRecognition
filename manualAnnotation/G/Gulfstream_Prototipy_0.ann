@@ -1,0 +1,5 @@
+T1	Organization 0 10	Gulfstream
+T2	Organization 99 110	ОКБ «Сухой»
+N1	Reference T1 wiki:650855	Gulfstream
+N2	Reference T2 wiki:164779	Сухой (компания)
+A1	TypeRel T2 Cooperator

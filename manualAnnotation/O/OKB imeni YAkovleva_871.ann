@@ -1,0 +1,6 @@
+T1	Organization 0 18	ОКБ имени Яковлева
+T2	Organization 174 191	ОАО «НПК „Иркут“»
+N1	Reference T1 wiki:55757	ОКБ имени Яковлева
+N2	Reference T2 wiki:143159	Иркут (компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

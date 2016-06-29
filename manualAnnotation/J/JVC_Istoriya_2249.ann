@@ -1,0 +1,5 @@
+T1	Organization 0 3	JVC
+T2	Organization 283 287	Sony
+N1	Reference T1 wiki:294288	JVC
+N2	Reference T2 wiki:73019	Sony
+A1	TypeRel T2 Competitor

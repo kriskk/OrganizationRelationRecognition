@@ -1,0 +1,32 @@
+T1	Organization 0 8	Motorola
+T2	Organization 226 243	Motorola Mobility
+T3	Organization 404 427	Freescale Semiconductor
+T4	Organization 514 533	Blackstone Group LP
+T5	Organization 663 685	Nokia Siemens Networks
+T6	Organization 954 972	Motorola Solutions
+T7	Organization 975 992	Motorola Mobility
+T8	Organization 1077 1094	Motorola Mobility
+T9	Organization 1107 1113	Google
+N1	Reference T1 wiki:134384	Motorola
+N2	Reference T2 wiki:3420650	Motorola Mobility
+N3	Reference T3 wiki:1614887	Freescale Semiconductor
+N4	Reference T4 wiki:706484	Blackstone Group
+N5	Reference T5 wiki:354923	Nokia Siemens Networks
+N6	Reference T6 wiki:134384	Motorola Solutions
+N7	Reference T7 wiki:3420650	Motorola Mobility
+N8	Reference T8 wiki:3420650	Motorola Mobility
+N9	Reference T9 wiki:265	Google (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Holder
+A10	TypeRel T3 Holder
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Holder
+A13	TypeRel T7 Holder
+A14	TypeRel T9 Cooperator

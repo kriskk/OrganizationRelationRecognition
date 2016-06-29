@@ -1,0 +1,10 @@
+T1	Organization 0 25	Network Computing Devices
+T2	Organization 114 123	Microsoft
+T3	Organization 318 327	Tektronix
+N1	Reference T1 wiki:2977579	Network Computing Devices
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:911683	Tektronix
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

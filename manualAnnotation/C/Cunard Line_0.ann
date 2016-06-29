@@ -1,0 +1,8 @@
+T1	Organization 0 11	Cunard Line
+T2	Organization 88 100	Carnival plc
+T3	Organization 350 362	Carnival plc
+N1	Reference T1 wiki:293774	Cunard Line
+N2	Reference T2 wiki:1099139	Carnival plc
+N3	Reference T3 wiki:1099139	Carnival plc
+A1	IsLink T2
+A2	IsLink T3

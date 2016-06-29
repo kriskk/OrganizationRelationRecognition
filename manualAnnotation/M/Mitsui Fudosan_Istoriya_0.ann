@@ -1,0 +1,6 @@
+T1	Organization 0 14	Mitsui Fudosan
+T2	Organization 138 144	Mitsui
+N1	Reference T1 wiki:1017229	Mitsui Fudosan
+N2	Reference T2 wiki:3113519	Mitsui
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

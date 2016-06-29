@@ -1,0 +1,6 @@
+T1	Organization 0 8	Pterodon
+T2	Organization 269 287	Illusion Softworks
+N1	Reference T1 wiki:2168965	Pterodon
+N2	Reference T2 wiki:2161805	2K Czech
+A1	IsLink T2
+A2	TypeRel T2 Merge

@@ -1,0 +1,9 @@
+T1	Organization 0 16	Life:) (Украина)
+T2	Organization 261 269	Turkcell
+T3	Organization 285 310	System Capital Management
+N1	Reference T1 wiki:88487	Life:) (Украина)
+N2	Reference T2 wiki:177253	Turkcell
+N3	Reference T3 wiki:36184	System Capital Management
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

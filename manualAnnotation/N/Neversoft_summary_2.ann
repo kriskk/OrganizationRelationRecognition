@@ -1,0 +1,6 @@
+T1	Organization 0 9	Neversoft
+T2	Organization 285 295	Activision
+N1	Reference T1 wiki:1693970	Neversoft
+N2	Reference T2 wiki:307964	Activision
+A1	IsLink T2
+A2	TypeRel T2 Holder

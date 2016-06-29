@@ -1,0 +1,5 @@
+T1	Organization 0 14	Trigon Capital
+T2	Organization 175 197	PricewaterhouseCoopers
+N1	Reference T1 wiki:508084	Trigon Capital
+N2	Reference T2 wiki:275101	PricewaterhouseCoopers
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 16	Атомстройэкспорт
+T2	Organization 112 119	Росатом
+T3	Organization 209 213	ТВЭЛ
+N1	Reference T1 wiki:149194	Атомстройэкспорт
+N2	Reference T2 wiki:1299917	Росатом
+N3	Reference T3 wiki:214333	ТВЭЛ (компания)
+A1	IsLink T2
+A2	IsLink T3

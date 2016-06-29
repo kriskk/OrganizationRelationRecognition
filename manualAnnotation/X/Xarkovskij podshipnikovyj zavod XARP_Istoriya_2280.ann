@@ -1,0 +1,10 @@
+T1	Organization 0 36	Харьковский подшипниковый завод ХАРП
+T2	Organization 235 261	Индустриальная группу УПЭК
+T3	Organization 477 503	Индустриальную группу УПЭК
+N1	Reference T1 wiki:3592350	Харьковский подшипниковый завод ХАРП
+N2	Reference T2 wiki:3597216	Индустриальная группа УПЭК
+N3	Reference T3 wiki:3597216	Индустриальная группа УПЭК
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

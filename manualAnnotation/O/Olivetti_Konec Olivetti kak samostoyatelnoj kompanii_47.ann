@@ -1,0 +1,14 @@
+T1	Organization 0 8	Olivetti
+T2	Organization 235 242	Pirelli
+T3	Organization 245 259	Benetton Group
+T4	Organization 305 319	Telecom Italia
+N1	Reference T1 wiki:1770739	Olivetti
+N2	Reference T2 wiki:461196	Pirelli
+N3	Reference T3 wiki:2180199	Benetton Group
+N4	Reference T4 wiki:358181	Telecom Italia
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T4 Holder
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Holder

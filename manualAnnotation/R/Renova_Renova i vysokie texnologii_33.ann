@@ -1,0 +1,10 @@
+T1	Organization 0 6	Ренова
+T2	Organization 279 285	Sulzer
+T3	Organization 678 685	Роснано
+N1	Reference T1 wiki:158879	Ренова
+N2	Reference T2 wiki:3448830	Sulzer
+N3	Reference T3 wiki:728818	Роснано
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

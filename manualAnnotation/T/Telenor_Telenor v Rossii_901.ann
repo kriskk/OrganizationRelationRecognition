@@ -1,0 +1,5 @@
+T1	Organization 0 7	Telenor
+T2	Organization 289 303	VimpelCom Ltd.
+N1	Reference T1 wiki:321300	Telenor
+N2	Reference T2 wiki:70736	VimpelCom
+A1	IsLink T2

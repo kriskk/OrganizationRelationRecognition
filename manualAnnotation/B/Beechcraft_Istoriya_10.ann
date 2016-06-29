@@ -1,0 +1,14 @@
+T1	Organization 0 10	Beechcraft
+T2	Organization 182 188	Цессны
+T3	Organization 461 469	Raytheon
+T4	Organization 581 603	Hawker Beechcraft Inc.
+T5	Organization 675 688	Goldman Sachs
+N1	Reference T1 wiki:643372	Beechcraft
+N2	Reference T2 wiki:641669	Цессна
+N3	Reference T3 wiki:769599	Raytheon
+N4	Reference T4 wiki:1116438	Hawker Beechcraft
+N5	Reference T5 wiki:144097	Goldman Sachs
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

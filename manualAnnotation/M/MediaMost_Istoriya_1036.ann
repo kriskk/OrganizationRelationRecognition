@@ -1,0 +1,11 @@
+T1	Organization 0 10	Медиа-Мост
+T2	Organization 228 238	НТВ-Дизайн
+T3	Organization 312 320	НТВ-Плюс
+T4	Organization 346 356	НТВ-Профит
+N1	Reference T1 wiki:2400048	Медиа-Мост
+N2	Reference T2 wiki:1129457	НТВ-Дизайн
+N3	Reference T3 wiki:723124	НТВ-Плюс
+N4	Reference T4 wiki:1047825	НТВ-Профит
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

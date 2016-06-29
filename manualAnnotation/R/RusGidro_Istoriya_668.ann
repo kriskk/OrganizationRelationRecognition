@@ -1,0 +1,5 @@
+T1	Organization 0 8	РусГидро
+T2	Organization 297 331	РАО Энергетические системы Востока
+N1	Reference T1 wiki:344641	РусГидро
+N2	Reference T2 wiki:2671340	РАО Энергетические системы Востока
+A1	IsLink T2

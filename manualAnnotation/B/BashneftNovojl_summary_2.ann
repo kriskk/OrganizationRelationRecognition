@@ -1,0 +1,5 @@
+T1	Organization 0 15	Башнефть-Новойл
+T2	Organization 233 246	Уфимского НПЗ
+N1	Reference T1 wiki:3775226	Башнефть-Новойл
+N2	Reference T2 wiki:2185385	Уфимский нефтеперерабатывающий завод
+A1	IsLink T2

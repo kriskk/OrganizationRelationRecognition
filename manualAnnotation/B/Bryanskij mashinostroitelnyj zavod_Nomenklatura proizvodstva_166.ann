@@ -1,0 +1,5 @@
+T1	Organization 0 33	Брянский машиностроительный завод
+T2	Organization 306 309	MAN
+N1	Reference T1 wiki:289532	Брянский машиностроительный завод
+N2	Reference T2 wiki:42703	MAN
+A1	IsLink T2

@@ -1,0 +1,14 @@
+T1	Organization 0 29	Ивановский автокрановый завод
+T2	Organization 393 435	Курганского завода колёсных тягачей (КЗКТ)
+T3	Organization 628 632	МЗКТ
+T4	Organization 840 843	МАЗ
+N1	Reference T1 wiki:2586505	Ивановский автокрановый завод
+N2	Reference T2 wiki:2749426	Курганский завод колёсных тягачей
+N3	Reference T3 wiki:167144	Минский завод колёсных тягачей
+N4	Reference T4 wiki:33218	МАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

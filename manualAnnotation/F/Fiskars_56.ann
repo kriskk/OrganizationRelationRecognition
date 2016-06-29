@@ -1,0 +1,5 @@
+T1	Organization 0 7	Fiskars
+T2	Organization 170 177	Фискарс
+N1	Reference T1 wiki:767718	Fiskars
+N2	Reference T2 wiki:767718	Фискарс
+A1	IsLink T2

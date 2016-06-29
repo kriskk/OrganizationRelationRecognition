@@ -1,0 +1,17 @@
+T1	Organization 0 10	Mag Garden
+T2	Organization 123 127	Enix
+T3	Organization 129 140	Square Enix
+T4	Organization 286 300	Production I.G
+T5	Organization 332 339	IG Port
+N1	Reference T1 wiki:1960228	Mag Garden
+N2	Reference T2 wiki:2414804	Enix
+N3	Reference T3 wiki:288255	Square Enix
+N4	Reference T4 wiki:9179	Production I.G
+N5	Reference T5 wiki:9179	IG Port
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T4 Merge
+A7	TypeRel T5 Holder

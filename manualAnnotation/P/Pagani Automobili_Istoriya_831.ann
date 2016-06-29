@@ -1,0 +1,6 @@
+T1	Organization 0 17	Pagani Automobili
+T2	Organization 190 203	Mercedes-Benz
+N1	Reference T1 wiki:1759093	Pagani Automobili
+N2	Reference T2 wiki:40401	Mercedes-Benz
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

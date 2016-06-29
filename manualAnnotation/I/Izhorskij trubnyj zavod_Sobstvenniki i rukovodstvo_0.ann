@@ -1,0 +1,5 @@
+T1	Organization 0 22	Ижорский трубный завод
+T2	Organization 114 130	ОАО «Северсталь»
+N1	Reference T1 wiki:1063879	Ижорский трубный завод
+N2	Reference T2 wiki:149218	Северсталь
+A1	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 26	Электрические сети Армении
+T2	Organization 216 238	PriceWaterhouseCoopers
+N1	Reference T1 wiki:1840310	Электрические сети Армении
+N2	Reference T2 wiki:275101	PriceWaterhouseCoopers
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,11 @@
+T1	Organization 0 10	Intergraph
+T2	Organization 252 256	ESRI
+T3	Organization 364 370	Oracle
+T4	Organization 373 382	Microsoft
+N1	Reference T1 wiki:1516535	Intergraph
+N2	Reference T2 wiki:489219	ESRI
+N3	Reference T3 wiki:129227	Oracle
+N4	Reference T4 wiki:11987	Microsoft
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Competitor

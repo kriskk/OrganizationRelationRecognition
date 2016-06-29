@@ -1,0 +1,5 @@
+T1	Organization 0 8	CodeGear
+T2	Organization 231 255	Embarcadero Technologies
+N1	Reference T1 wiki:1408129	CodeGear
+N2	Reference T2 wiki:2429869	Embarcadero Technologies
+A1	IsLink T2

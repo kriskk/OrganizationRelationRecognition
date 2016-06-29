@@ -1,0 +1,5 @@
+T1	Organization 0 6	Capcom
+T2	Organization 203 211	Nintendo
+N1	Reference T1 wiki:714415	Capcom
+N2	Reference T2 wiki:202486	Nintendo
+A1	IsLink T2

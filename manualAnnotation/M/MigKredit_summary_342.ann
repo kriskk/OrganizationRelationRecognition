@@ -1,0 +1,5 @@
+T1	Organization 0 9	МигКредит
+T2	Organization 207 239	финансовая корпорация «Открытие»
+N1	Reference T1 wiki:4128442	МигКредит
+N2	Reference T2 wiki:919308	Открытие (финансовая корпорация)
+A1	TypeRel T2 Subsidiary

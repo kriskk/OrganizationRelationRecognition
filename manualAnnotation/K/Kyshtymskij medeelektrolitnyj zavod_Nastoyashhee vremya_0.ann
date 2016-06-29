@@ -1,0 +1,9 @@
+T1	Organization 0 34	Кыштымский медеэлектролитный завод
+T2	Organization 105 140	ЗАО «Русская медная компания» (РМК)
+T3	Organization 380 387	Outotec
+N1	Reference T1 wiki:3191026	Кыштымский медеэлектролитный завод
+N2	Reference T2 wiki:359916	Русская медная компания
+N3	Reference T3 wiki:3457251	Outotec
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Cooperator

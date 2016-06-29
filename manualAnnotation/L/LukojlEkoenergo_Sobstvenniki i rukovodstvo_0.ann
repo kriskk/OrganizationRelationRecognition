@@ -1,0 +1,5 @@
+T1	Organization 0 16	Лукойл-Экоэнерго
+T2	Organization 117 123	Лукойл
+N1	Reference T1 wiki:494109	Лукойл-Экоэнерго
+N2	Reference T2 wiki:59354	Лукойл
+A1	TypeRel T2 Holder

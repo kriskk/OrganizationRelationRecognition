@@ -1,0 +1,6 @@
+T1	Organization 0 8	Герофарм
+T2	Organization 195 201	Pfizer
+N1	Reference T1 wiki:4399602	Герофарм
+N2	Reference T2 wiki:275429	Pfizer
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

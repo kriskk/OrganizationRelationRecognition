@@ -1,0 +1,5 @@
+T1	Organization 0 33	Red Digital Cinema Camera Company
+T2	Organization 277 282	Adobe
+N1	Reference T1 wiki:1820204	Red Digital Cinema Camera Company
+N2	Reference T2 wiki:42937	Adobe Systems
+A1	IsLink T2

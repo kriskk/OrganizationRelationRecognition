@@ -1,0 +1,5 @@
+T1	Organization 0 5	Wyeth
+T2	Organization 209 215	Pfizer
+N1	Reference T1 wiki:1096523	Wyeth
+N2	Reference T2 wiki:275429	Pfizer
+A1	TypeRel T2 Holder

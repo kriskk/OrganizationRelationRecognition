@@ -1,0 +1,29 @@
+T1	Organization 0 9	Группа Е4
+T2	Organization 209 217	«Лукойл»
+T3	Organization 412 426	Группа ОНЭКСИМ
+T4	Organization 462 478	General Electric
+T5	Organization 830 838	«Лукойл»
+T6	Organization 875 885	Mitsubishi
+T7	Organization 1010 1015	МГТЭС
+T8	Organization 1026 1040	Мобильные ГТЭС
+N1	Reference T1 wiki:726651	Группа Е4
+N2	Reference T2 wiki:59354	Лукойл
+N3	Reference T3 wiki:1526001	ОНЭКСИМ (группа)
+N4	Reference T4 wiki:13762	General Electric
+N5	Reference T5 wiki:59354	Лукойл
+N6	Reference T6 wiki:182989	Mitsubishi
+N7	Reference T7 wiki:2494483	Мобильные ГТЭС
+N8	Reference T8 wiki:2494483	Мобильные ГТЭС
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T8 Cooperator

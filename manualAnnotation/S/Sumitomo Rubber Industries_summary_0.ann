@@ -1,0 +1,5 @@
+T1	Organization 0 26	Sumitomo Rubber Industries
+T2	Organization 94 102	Sumitomo
+N1	Reference T1 wiki:1821060	Sumitomo Rubber Industries
+N2	Reference T2 wiki:1813036	Sumitomo Group
+A1	IsLink T2

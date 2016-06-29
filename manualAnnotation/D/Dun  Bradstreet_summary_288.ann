@@ -1,0 +1,8 @@
+T1	Organization 0 16	Dun & Bradstreet
+T2	Organization 253 260	Moody’s
+T3	Organization 305 312	Gartner
+N1	Reference T1 wiki:4301802	Dun & Bradstreet
+N2	Reference T2 wiki:363292	Moody’s
+N3	Reference T3 wiki:2960363	Gartner
+A1	IsLink T2
+A2	IsLink T3

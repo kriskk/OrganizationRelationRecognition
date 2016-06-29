@@ -1,0 +1,5 @@
+T1	Organization 0 14	Рейтинг Рунета
+T2	Organization 330 336	Яндекс
+N1	Reference T1 wiki:3361636	Рейтинг Рунета
+N2	Reference T2 wiki:9744	Яндекс
+A1	IsLink T2

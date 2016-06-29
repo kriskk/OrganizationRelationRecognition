@@ -1,0 +1,5 @@
+T1	Organization 0 10	Судомаркет
+T2	Organization 290 303	Росагролизинг
+N1	Reference T1 wiki:3799423	Судомаркет
+N2	Reference T2 wiki:3245411	Росагролизинг
+A1	IsLink T2

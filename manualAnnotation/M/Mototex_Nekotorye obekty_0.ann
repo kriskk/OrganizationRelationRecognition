@@ -1,0 +1,30 @@
+T1	Organization 0 7	Мототех
+T2	Organization 56 65	Вымпелком
+T3	Organization 68 71	РЖД
+T4	Organization 74 87	Avon Products
+T5	Organization 90 107	Бронницкий ювелир
+T6	Organization 119 125	Toyota
+T7	Organization 128 138	Транснефть
+T8	Organization 141 153	Газпромнефть
+N1	Reference T1 wiki:4345775	Мототех
+N2	Reference T2 wiki:70736	Вымпелком
+N3	Reference T3 wiki:106901	РЖД
+N4	Reference T4 wiki:2298392	Avon Products
+N5	Reference T5 wiki:2051387	Бронницкий ювелир
+N6	Reference T6 wiki:42689	Toyota
+N7	Reference T7 wiki:147540	Транснефть
+N8	Reference T8 wiki:121955	Газпромнефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

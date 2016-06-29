@@ -1,0 +1,11 @@
+T1	Organization 0 17	Texas Instruments
+T2	Organization 284 307	Fairchild Semiconductor
+T3	Organization 834 839	Intel
+T4	Organization 1120 1131	Halliburton
+N1	Reference T1 wiki:429235	Texas Instruments
+N2	Reference T2 wiki:1074226	Fairchild Semiconductor
+N3	Reference T3 wiki:762172	Intel
+N4	Reference T4 wiki:794869	Halliburton
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

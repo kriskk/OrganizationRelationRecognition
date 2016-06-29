@@ -1,0 +1,5 @@
+T1	Organization 0 6	Endura
+T2	Organization 132 152	The Swatch Group Ltd
+N1	Reference T1 wiki:1081446	Endura
+N2	Reference T2 wiki:214233	Swatch Group
+A1	IsLink T2

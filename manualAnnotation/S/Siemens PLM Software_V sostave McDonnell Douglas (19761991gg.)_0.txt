@@ -1,0 +1,9 @@
+Siemens PLM Software
+@История компании
+@В составе [[McDonnell Douglas]] (1976—1991 гг.)
+3518,542,0
+
+
+В составе [[McDonnell Douglas]] (1976—1991 гг.)
+
+В 1976 году авиационная компания McDonnell Douglas (сейчас Boeing) приобрела United Computing, сделав ее своим новым CAD/CAM подразделением — Unigraphics Group — в составе группы Systems Integration. В этот период, в 1980 г. был выпущен программный продукт Unigraphics, ознаменовавший новое достижение компании в области автоматизированного 3D-конструирования. В 1988 г. McDonnell Douglas купила Shape Data Ltd. — компанию, создавшую ядро твердотельного моделирования Parasolid, в дальнейшем ставшего основой продуктов Unigraphics.

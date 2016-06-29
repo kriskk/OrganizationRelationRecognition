@@ -1,0 +1,5 @@
+T1	Organization 0 31	Уральский дизель-моторный завод
+T2	Organization 328 341	Группы Синара
+N1	Reference T1 wiki:1753172	Уральский дизель-моторный завод
+N2	Reference T2 wiki:2398160	Группа Синара
+A1	TypeRel T2 Holder

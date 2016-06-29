@@ -1,0 +1,9 @@
+T1	Organization 0 47	Московская объединённая энергетическая компания
+T2	Organization 505 514	Мосэнерго
+T3	Organization 965 998	Московской теплосетевой компанией
+N1	Reference T1 wiki:1208521	Московская объединённая энергетическая компания
+N2	Reference T2 wiki:159522	Мосэнерго
+N3	Reference T3 wiki:2953166	Московская теплосетевая компания
+A1	IsLink T2
+A2	TypeRel T3 Merge
+A3	TypeRel T2 Competitor

@@ -1,0 +1,5 @@
+T1	Organization 0 25	Porsche Automobil Holding
+T2	Organization 314 341	Dr. Ing. h.c. F. Porsche AG
+N1	Reference T1 wiki:1972003	Porsche Automobil Holding
+N2	Reference T2 wiki:403194	Porsche
+A1	IsLink T2

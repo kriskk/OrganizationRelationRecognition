@@ -1,0 +1,10 @@
+T1	Organization 0 7	Polycom
+T2	Organization 221 229	Tandberg
+T3	Organization 257 261	Sony
+N1	Reference T1 wiki:2173201	Polycom
+N2	Reference T2 wiki:1683710	Tandberg
+N3	Reference T3 wiki:73019	Sony
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

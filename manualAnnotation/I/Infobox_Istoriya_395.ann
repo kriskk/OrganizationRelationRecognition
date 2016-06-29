@@ -1,0 +1,5 @@
+T1	Organization 0 7	Infobox
+T2	Organization 232 241	Microsoft
+N1	Reference T1 wiki:2852033	Infobox
+N2	Reference T2 wiki:11987	Microsoft
+A1	TypeRel T2 Cooperator

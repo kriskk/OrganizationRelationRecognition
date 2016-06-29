@@ -1,0 +1,5 @@
+T1	Organization 0 7	PepsiCo
+T2	Organization 39 60	The Coca-Cola Company
+N1	Reference T1 wiki:606214	PepsiCo
+N2	Reference T2 wiki:231920	The Coca-Cola Company
+A1	IsLink T2

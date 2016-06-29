@@ -1,0 +1,5 @@
+T1	Organization 0 21	ПИК (группа компаний)
+T2	Organization 311 317	Интеко
+N1	Reference T1 wiki:150428	ПИК (группа компаний)
+N2	Reference T2 wiki:162923	Интеко
+A1	TypeRel T2 Cooperator

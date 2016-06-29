@@ -1,0 +1,9 @@
+T1	Organization 0 22	Peter Norton Computing
+T2	Organization 89 97	Symantec
+T3	Organization 209 217	Symantec
+N1	Reference T1 wiki:2454399	Peter Norton Computing
+N2	Reference T2 wiki:157841	Symantec
+N3	Reference T3 wiki:157841	Symantec
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

@@ -1,0 +1,11 @@
+T1	Organization 0 9	Chuang Yi
+T2	Organization 267 284	компании «Дисней»
+T3	Organization 632 641	DC Comics
+T4	Organization 644 657	Marvel Comics
+N1	Reference T1 wiki:4052916	Chuang Yi
+N2	Reference T2 wiki:319365	The Walt Disney Company
+N3	Reference T3 wiki:1742414	DC Comics
+N4	Reference T4 wiki:351306	Marvel Comics
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

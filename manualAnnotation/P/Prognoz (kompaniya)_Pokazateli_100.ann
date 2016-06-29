@@ -1,0 +1,5 @@
+T1	Organization 0 18	Прогноз (компания)
+T2	Organization 214 224	Эксперт РА
+N1	Reference T1 wiki:4087032	Прогноз (компания)
+N2	Reference T2 wiki:363296	Эксперт РА
+A1	TypeRel T2 Other

@@ -1,0 +1,5 @@
+T1	Organization 0 6	Holden
+T2	Organization 324 329	Isuzu
+N1	Reference T1 wiki:604803	Holden
+N2	Reference T2 wiki:177809	Isuzu
+A1	IsLink T2

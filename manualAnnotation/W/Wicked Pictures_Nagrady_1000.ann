@@ -1,0 +1,5 @@
+T1	Organization 0 15	Wicked Pictures
+T2	Organization 197 208	Marc Dorcel
+N1	Reference T1 wiki:3327029	Wicked Pictures
+N2	Reference T2 wiki:1538423	Дорсель, Марк
+A1	IsLink T2

@@ -1,0 +1,12 @@
+T1	Organization 0 28	Индустриальный союз Донбасса
+T2	Organization 395 402	Duferco
+T3	Organization 593 631	Новолипецкий металлургический комбинат
+T4	Organization 904 929	System Capital Management
+N1	Reference T1 wiki:535207	Индустриальный союз Донбасса
+N2	Reference T2 wiki:369754	Duferco
+N3	Reference T3 wiki:143594	Новолипецкий металлургический комбинат
+N4	Reference T4 wiki:36184	System Capital Management
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T4 Cooperator

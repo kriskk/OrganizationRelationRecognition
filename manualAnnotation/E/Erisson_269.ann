@@ -1,0 +1,5 @@
+T1	Organization 0 7	Erisson
+T2	Organization 187 195	Телебалт
+N1	Reference T1 wiki:1467358	Erisson
+N2	Reference T2 wiki:1467358	Телебалт
+A1	IsLink T2

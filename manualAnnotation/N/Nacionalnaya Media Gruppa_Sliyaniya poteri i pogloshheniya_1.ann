@@ -1,0 +1,30 @@
+T1	Organization 0 25	Национальная Медиа Группа
+T2	Organization 237 250	Газпром-Медиа
+T3	Organization 531 547	Видео Интернешнл
+T4	Organization 770 780	Ростелеком
+T5	Organization 1137 1146	СТС Медиа
+T6	Organization 1163 1174	Альфа-групп
+T7	Organization 1320 1329	RTL Group
+T8	Organization 1457 1476	Русская Медиагруппа
+N1	Reference T1 wiki:1780879	Национальная Медиа Группа
+N2	Reference T2 wiki:189268	Газпром-Медиа
+N3	Reference T3 wiki:464142	Видео Интернешнл
+N4	Reference T4 wiki:145844	Ростелеком
+N5	Reference T5 wiki:168242	СТС Медиа
+N6	Reference T6 wiki:141637	Альфа-групп
+N7	Reference T7 wiki:1987028	RTL Group
+N8	Reference T8 wiki:1702054	Русская Медиагруппа
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Subsidiary
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

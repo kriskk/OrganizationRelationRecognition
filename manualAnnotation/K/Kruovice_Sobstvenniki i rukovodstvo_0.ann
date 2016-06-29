@@ -1,0 +1,5 @@
+T1	Organization 0 9	Krušovice
+T2	Organization 100 113	Heineken N.V.
+N1	Reference T1 wiki:700617	Krušovice
+N2	Reference T2 wiki:248758	Heineken
+A1	TypeRel T2 Holder

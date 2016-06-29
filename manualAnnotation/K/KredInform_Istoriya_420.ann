@@ -1,0 +1,5 @@
+T1	Organization 0 10	КредИнформ
+T2	Organization 235 276	Ленинградскую торгово-промышленную палату
+N1	Reference T1 wiki:3719359	КредИнформ
+N2	Reference T2 wiki:3673945	Ленинградская торгово-промышленная палата
+A1	TypeRel T2 Holder

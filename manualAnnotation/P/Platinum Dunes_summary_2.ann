@@ -1,0 +1,6 @@
+T1	Organization 0 14	Platinum Dunes
+T2	Organization 296 314	Paramount Pictures
+N1	Reference T1 wiki:2209346	Platinum Dunes
+N2	Reference T2 wiki:398699	Paramount Pictures
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

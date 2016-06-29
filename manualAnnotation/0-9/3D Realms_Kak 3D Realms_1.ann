@@ -1,0 +1,47 @@
+T1	Organization 0 9	3D Realms
+T2	Organization 199 215	Terminal Reality
+T3	Organization 278 285	Eurocom
+T4	Organization 429 436	N-Space
+T5	Organization 484 491	Eurocom
+T6	Organization 598 605	N-Space
+T7	Organization 627 647	Remedy Entertainment
+T8	Organization 709 729	Sunstorm Interactive
+T9	Organization 837 857	Remedy Entertainment
+T10	Organization 1142 1160	Human Head Studios
+T11	Organization 1536 1556	Monolith Productions
+T12	Organization 1680 1689	Interplay
+T13	Organization 1773 1780	N-Space
+T14	Organization 1908 1926	Human Head Studios
+T15	Organization 1971 1987	Gearbox Software
+T16	Organization 2023 2031	2K Games
+N1	Reference T1 wiki:2349412	3D Realms
+N2	Reference T2 wiki:3175194	Terminal Reality
+N3	Reference T3 wiki:1326431	Eurocom
+N4	Reference T4 wiki:3564785	N-Space
+N5	Reference T5 wiki:1326431	Eurocom
+N6	Reference T6 wiki:3564785	N-Space
+N7	Reference T7 wiki:1464463	Remedy Entertainment
+N8	Reference T8 wiki:3127997	Sunstorm Interactive
+N9	Reference T9 wiki:1464463	Remedy Entertainment
+N10	Reference T10 wiki:767665	Human Head Studios
+N11	Reference T11 wiki:1344649	Monolith Productions
+N12	Reference T12 wiki:87238	Interplay Entertainment
+N13	Reference T13 wiki:3564785	N-Space
+N14	Reference T14 wiki:767665	Human Head Studios
+N15	Reference T15 wiki:541955	Gearbox Software
+N16	Reference T16 wiki:2386194	2K Games
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16

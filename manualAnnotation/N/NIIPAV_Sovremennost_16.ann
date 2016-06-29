@@ -1,0 +1,5 @@
+T1	Organization 0 6	НИИПАВ
+T2	Organization 261 266	Нэфис
+N1	Reference T1 wiki:3280064	НИИПАВ
+N2	Reference T2 wiki:3980048	Нэфис
+A1	TypeRel T2 Cooperator

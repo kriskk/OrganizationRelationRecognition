@@ -1,0 +1,6 @@
+T1	Organization 0 11	Norsk Hydro
+T2	Organization 317 324	Statoil
+N1	Reference T1 wiki:386662	Norsk Hydro
+N2	Reference T2 wiki:308196	Statoil
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

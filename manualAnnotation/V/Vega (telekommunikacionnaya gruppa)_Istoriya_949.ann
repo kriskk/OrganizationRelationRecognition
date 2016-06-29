@@ -1,0 +1,8 @@
+T1	Organization 0 34	Vega (телекоммуникационная группа)
+T2	Organization 265 290	Систем Кэпитал Менеджмент
+T3	Organization 537 547	группа СКМ
+N1	Reference T1 wiki:4331098	Vega (телекоммуникационная группа)
+N2	Reference T2 wiki:36184	Систем Кэпитал Менеджмент
+N3	Reference T3 wiki:36184	Систем Кэпитал Менеджмент
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,6 @@
+T1	Organization 0 23	White Birds Productions
+T2	Organization 313 318	Apple
+N1	Reference T1 wiki:3003998	White Birds Productions
+N2	Reference T2 wiki:39726	Apple
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 6	NexGen
+T2	Organization 374 379	Intel
+N1	Reference T1 wiki:3932667	NexGen
+N2	Reference T2 wiki:762172	Intel
+A1	IsLink T2
+A2	TypeRel T2 Competitor

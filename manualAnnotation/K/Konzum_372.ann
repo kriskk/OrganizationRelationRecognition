@@ -1,0 +1,5 @@
+T1	Organization 0 6	Konzum
+T2	Organization 182 189	Agrokor
+N1	Reference T1 wiki:4255822	Konzum
+N2	Reference T2 wiki:4258261	Agrokor
+A1	TypeRel T2 Holder

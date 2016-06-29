@@ -1,0 +1,5 @@
+T1	Organization 0 16	Omega (компания)
+T2	Organization 244 250	Tissot
+N1	Reference T1 wiki:1047157	Omega (компания)
+N2	Reference T2 wiki:177171	Tissot
+A1	TypeRel T2 Cooperator

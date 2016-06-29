@@ -1,0 +1,9 @@
+T1	Organization 0 5	InBev
+T2	Organization 168 173	AmBev
+T3	Organization 203 223	Anheuser-Busch InBev
+N1	Reference T1 wiki:203867	InBev
+N2	Reference T2 wiki:203867	AmBev
+N3	Reference T3 wiki:3199376	Anheuser-Busch InBev
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Holder

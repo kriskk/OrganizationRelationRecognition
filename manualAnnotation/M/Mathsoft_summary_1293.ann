@@ -1,0 +1,5 @@
+T1	Organization 0 8	Mathsoft
+T2	Organization 263 296	Parametric Technology Corporation
+N1	Reference T1 wiki:4145738	Mathsoft
+N2	Reference T2 wiki:2775933	Parametric Technology Corporation
+A1	TypeRel T2 Holder

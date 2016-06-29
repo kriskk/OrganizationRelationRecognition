@@ -1,0 +1,8 @@
+T1	Organization 0 30	Motion Picture Patents Company
+T2	Organization 147 158	Вильям Фокс
+T3	Organization 221 230	Юниверсал
+N1	Reference T1 wiki:1016531	Motion Picture Patents Company
+N2	Reference T2 wiki:272376	20th Century Fox
+N3	Reference T3 wiki:702796	Юниверсал
+A1	IsLink T2
+A2	IsLink T3

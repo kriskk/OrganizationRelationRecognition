@@ -1,0 +1,5 @@
+T1	Organization 0 11	Карабашмедь
+T2	Organization 157 180	Русская медная компания
+N1	Reference T1 wiki:3721621	Карабашмедь
+N2	Reference T2 wiki:359916	Русская медная компания
+A1	TypeRel T2 Holder

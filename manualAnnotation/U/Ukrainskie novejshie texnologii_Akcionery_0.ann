@@ -1,0 +1,6 @@
+T1	Organization 0 30	Украинские новейшие технологии
+T2	Organization 131 136	Intel
+N1	Reference T1 wiki:2165515	Украинские новейшие технологии
+N2	Reference T2 wiki:762172	Intel
+A1	IsLink T2
+A2	TypeRel T2 Holder

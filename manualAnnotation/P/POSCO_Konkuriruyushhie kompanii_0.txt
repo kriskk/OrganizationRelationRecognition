@@ -1,0 +1,15 @@
+POSCO
+@Конкурирующие компании
+5129,0
+
+
+Конкурирующие компании
+
+ ArcelorMittal
+	 Nippon Steel
+	 JFE Group
+	 Nucor Corporation
+	 Tata Steel
+	 Bhushan Steel
+
+

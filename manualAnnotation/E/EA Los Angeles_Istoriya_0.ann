@@ -1,0 +1,15 @@
+T1	Organization 0 14	EA Los Angeles
+T2	Organization 67 82	Electronic Arts
+T3	Organization 199 215	Westwood Studios
+T4	Organization 275 291	Westwood Pacific
+T5	Organization 483 499	Petroglyph Games
+N1	Reference T1 wiki:2301649	EA Los Angeles
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:70907	Westwood Studios
+N4	Reference T4 wiki:70907	Westwood Pacific
+N5	Reference T5 wiki:1973121	Petroglyph Games
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T3 Holder

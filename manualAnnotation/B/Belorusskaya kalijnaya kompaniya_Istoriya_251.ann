@@ -1,0 +1,5 @@
+T1	Organization 0 29	Белорусская калийная компания
+T2	Organization 213 222	Уралкалий
+N1	Reference T1 wiki:2448652	Белорусская калийная компания
+N2	Reference T2 wiki:153726	Уралкалий
+A1	IsLink T2

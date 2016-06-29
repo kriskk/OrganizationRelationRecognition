@@ -1,0 +1,5 @@
+T1	Organization 0 10	Dinkumware
+T2	Organization 192 201	Microsoft
+N1	Reference T1 wiki:3648308	Dinkumware
+N2	Reference T2 wiki:11987	Microsoft
+A1	IsLink T2

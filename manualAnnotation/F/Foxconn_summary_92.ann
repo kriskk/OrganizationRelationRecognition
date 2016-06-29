@@ -1,0 +1,38 @@
+T1	Organization 0 7	Foxconn
+T2	Organization 360 365	Canon
+T3	Organization 401 405	Sony
+T4	Organization 415 423	Nintendo
+T5	Organization 438 447	Microsoft
+T6	Organization 470 478	Motorola
+T7	Organization 480 485	Nokia
+T8	Organization 510 534	PocketBook International
+T9	Organization 573 578	Apple
+T10	Organization 597 602	Cisco
+T11	Organization 619 624	Intel
+T12	Organization 711 715	Dell
+T13	Organization 718 733	Hewlett-Packard
+N1	Reference T1 wiki:2020893	Foxconn
+N2	Reference T2 wiki:53435	Canon
+N3	Reference T3 wiki:73019	Sony
+N4	Reference T4 wiki:202486	Nintendo
+N5	Reference T5 wiki:11987	Microsoft
+N6	Reference T6 wiki:134384	Motorola
+N7	Reference T7 wiki:56405	Nokia
+N8	Reference T8 wiki:3248150	PocketBook International
+N9	Reference T9 wiki:39726	Apple
+N10	Reference T10 wiki:25014	Cisco
+N11	Reference T11 wiki:762172	Intel
+N12	Reference T12 wiki:124570	Dell
+N13	Reference T13 wiki:89988	Hewlett-Packard
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13

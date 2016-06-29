@@ -1,0 +1,6 @@
+T1	Organization 0 13	ПромТехИнвест
+T2	Organization 176 223	Союза производителей нефтегазового оборудования
+N1	Reference T1 wiki:2905336	ПромТехИнвест
+N2	Reference T2 wiki:1959491	Союз производителей нефтегазового оборудования
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 25	БелХард (группа компаний)
+T2	Organization 234 249	Hewlett-Packard
+N1	Reference T1 wiki:967421	БелХард (группа компаний)
+N2	Reference T2 wiki:89988	Hewlett-Packard
+A1	IsLink T2

@@ -1,0 +1,11 @@
+T1	Organization 0 11	Yum! Brands
+T2	Organization 269 278	Taco Bell
+T3	Organization 280 283	KFC
+T4	Organization 286 295	Pizza Hut
+N1	Reference T1 wiki:206472	Yum! Brands
+N2	Reference T2 wiki:1279345	Taco Bell
+N3	Reference T3 wiki:980997	Kentucky Fried Chicken
+N4	Reference T4 wiki:1270413	Pizza Hut
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

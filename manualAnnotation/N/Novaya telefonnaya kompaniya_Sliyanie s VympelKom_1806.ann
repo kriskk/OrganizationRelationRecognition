@@ -1,0 +1,5 @@
+T1	Organization 0 25	Новая телефонная компания
+T2	Organization 435 443	Киевстар
+N1	Reference T1 wiki:259656	Новая телефонная компания
+N2	Reference T2 wiki:88220	Киевстар
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 27	Гелиос (страховая компания)
+T2	Organization 280 290	Эксперт РА
+N1	Reference T1 wiki:3482430	Гелиос (страховая компания)
+N2	Reference T2 wiki:363296	Эксперт РА
+A1	IsLink T2
+A2	TypeRel T2 Other

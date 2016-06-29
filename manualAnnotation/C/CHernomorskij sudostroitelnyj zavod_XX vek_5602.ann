@@ -1,0 +1,5 @@
+T1	Organization 0 35	Черноморский судостроительный завод
+T2	Organization 239 257	Балтийским заводом
+N1	Reference T1 wiki:707710	Черноморский судостроительный завод
+N2	Reference T2 wiki:773298	Балтийский завод
+A1	IsLink T2

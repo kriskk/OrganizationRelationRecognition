@@ -1,0 +1,5 @@
+T1	Organization 0 15	Добропольеуголь
+T2	Organization 190 194	ДТЭК
+N1	Reference T1 wiki:462816	Добропольеуголь
+N2	Reference T2 wiki:449602	ДТЭК
+A1	IsLink T2

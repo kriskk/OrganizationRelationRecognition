@@ -1,0 +1,6 @@
+T1	Organization 0 12	Мордовцемент
+T2	Organization 523 539	General Electric
+N1	Reference T1 wiki:1485331	Мордовцемент
+N2	Reference T2 wiki:13762	General Electric
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

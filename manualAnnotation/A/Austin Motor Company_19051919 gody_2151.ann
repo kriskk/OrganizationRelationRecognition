@@ -1,0 +1,5 @@
+T1	Organization 0 20	Austin Motor Company
+T2	Organization 394 412	Путиловском заводе
+N1	Reference T1 wiki:4041862	Austin Motor Company
+N2	Reference T2 wiki:208146	Путиловский завод
+A1	IsLink T2

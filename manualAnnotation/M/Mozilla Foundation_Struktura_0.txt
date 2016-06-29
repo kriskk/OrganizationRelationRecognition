@@ -1,0 +1,13 @@
+Mozilla Foundation
+@Структура
+2671,0
+
+
+Структура
+
+;Mozilla Foundation (неофициально «MoFo»)
+ Mozilla Corporation («MoCo»)
+	 Mozilla Messaging (с 2008-02-14) («MoMo»)
+
+
+ 	  

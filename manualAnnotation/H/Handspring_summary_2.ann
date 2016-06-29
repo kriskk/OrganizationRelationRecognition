@@ -1,0 +1,14 @@
+T1	Organization 0 10	Handspring
+T2	Organization 230 244	Palm Computing
+T3	Organization 330 343	U.S. Robotics
+T4	Organization 686 693	PalmOne
+N1	Reference T1 wiki:131326	Handspring
+N2	Reference T2 wiki:128188	Palm, Inc.
+N3	Reference T3 wiki:626416	U.S. Robotics
+N4	Reference T4 wiki:128188	PalmOne
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Personnel
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Subsidiary

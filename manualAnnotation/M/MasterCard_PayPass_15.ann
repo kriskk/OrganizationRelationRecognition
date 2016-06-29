@@ -1,0 +1,18 @@
+T1	Organization 0 10	MasterCard
+T2	Organization 574 588	JPMorgan Chase
+T3	Organization 590 598	Citibank
+T4	Organization 780 785	Nokia
+T5	Organization 787 800	AT&T Mobility
+N1	Reference T1 wiki:36409	MasterCard
+N2	Reference T2 wiki:374499	JPMorgan Chase
+N3	Reference T3 wiki:681929	Citibank
+N4	Reference T4 wiki:56405	Nokia
+N5	Reference T5 wiki:373569	AT&T Mobility
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator

@@ -1,0 +1,30 @@
+T1	Organization 0 23	Лаборатория Касперского
+T2	Organization 508 517	Microsoft
+T3	Organization 519 522	IBM
+T4	Organization 524 529	Intel
+T5	Organization 531 544	Cisco Systems
+T6	Organization 546 553	Red Hat
+T7	Organization 555 569	Citrix Systems
+T8	Organization 571 577	Novell
+N1	Reference T1 wiki:72700	Лаборатория Касперского
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:762172	Intel
+N5	Reference T5 wiki:25014	Cisco Systems
+N6	Reference T6 wiki:10874	Red Hat
+N7	Reference T7 wiki:1903941	Citrix Systems
+N8	Reference T8 wiki:21831	Novell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 9	IBS Group
+T2	Organization 218 222	DEPO
+N1	Reference T1 wiki:345272	IBS Group
+N2	Reference T2 wiki:1761645	DEPO Computers
+A1	TypeRel T2 Subsidiary

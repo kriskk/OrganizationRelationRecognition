@@ -1,0 +1,21 @@
+T1	Organization 0 19	Micro Forté Studios
+T2	Organization 95 110	Electronic Arts
+T3	Organization 414 437	Strategic Studies Group
+T4	Organization 739 748	Panasonic
+T5	Organization 781 784	THQ
+T6	Organization 827 836	Interplay
+N1	Reference T1 wiki:1680611	Micro Forté Studios
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:766734	Strategic Studies Group
+N4	Reference T4 wiki:307154	Panasonic
+N5	Reference T5 wiki:795069	THQ
+N6	Reference T6 wiki:87238	Interplay
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator
+A9	TypeRel T6 Cooperator

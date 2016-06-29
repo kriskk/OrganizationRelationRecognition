@@ -1,0 +1,5 @@
+T1	Organization 0 7	YouTube
+T2	Organization 72 78	RuTube
+N1	Reference T1 wiki:275424	YouTube
+N2	Reference T2 wiki:726090	RuTube
+A1	IsLink T2

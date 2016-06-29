@@ -1,0 +1,5 @@
+T1	Organization 0 6	Barkas
+T2	Organization 175 186	Фольксваген
+N1	Reference T1 wiki:884960	Barkas
+N2	Reference T2 wiki:750217	Фольксваген
+A1	IsLink T2

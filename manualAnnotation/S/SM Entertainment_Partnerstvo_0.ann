@@ -1,0 +1,13 @@
+T1	Organization 0 16	SM Entertainment
+T2	Organization 97 115	Avex Entertainment
+T3	Organization 118 148	Sony Music Entertainment Japan
+T4	Organization 172 187	EMI Music Japan
+N1	Reference T1 wiki:1455965	SM Entertainment
+N2	Reference T2 wiki:3292401	Avex Entertainment
+N3	Reference T3 wiki:3103736	Sony Music Entertainment Japan
+N4	Reference T4 wiki:2254321	EMI Music Japan
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

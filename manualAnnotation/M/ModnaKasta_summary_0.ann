@@ -1,0 +1,9 @@
+T1	Organization 0 10	ModnaKasta
+T2	Organization 131 139	Aukro.ua
+T3	Organization 195 202	Naspers
+N1	Reference T1 wiki:4335960	ModnaKasta
+N2	Reference T2 wiki:3756872	Aukro.ua
+N3	Reference T3 wiki:296068	Naspers
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

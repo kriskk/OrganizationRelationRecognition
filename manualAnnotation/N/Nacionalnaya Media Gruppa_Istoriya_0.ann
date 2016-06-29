@@ -1,0 +1,8 @@
+T1	Organization 0 25	Национальная Медиа Группа
+T2	Organization 189 209	ОАО «Сургутнефтегаз»
+T3	Organization 413 422	RTL Group
+N1	Reference T1 wiki:1780879	Национальная Медиа Группа
+N2	Reference T2 wiki:143564	Сургутнефтегаз
+N3	Reference T3 wiki:1987028	RTL Group
+A1	IsLink T2
+A2	TypeRel T3 Subsidiary

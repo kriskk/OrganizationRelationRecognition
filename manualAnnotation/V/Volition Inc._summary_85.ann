@@ -1,0 +1,9 @@
+T1	Organization 0 14	Volition, Inc.
+T2	Organization 228 251	Interplay Entertainment
+T3	Organization 338 341	THQ
+N1	Reference T1 wiki:1817793	Volition, Inc.
+N2	Reference T2 wiki:87238	Interplay Entertainment
+N3	Reference T3 wiki:795069	THQ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

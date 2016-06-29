@@ -1,0 +1,29 @@
+T1	Organization 0 7	Daimler
+T2	Organization 198 211	Mercedes-Benz
+T3	Organization 215 227	Mercedes-AMG
+T4	Organization 389 402	Mercedes-Benz
+T5	Organization 443 455	Freightliner
+T6	Organization 624 639	Sterling Trucks
+T7	Organization 692 733	Mitsubishi Fuso Truck and Bus Corporation
+T8	Organization 832 845	Mercedes-Benz
+T9	Organization 914 927	Mercedes-Benz
+T10	Organization 931 951	Orion Bus Industries
+N1	Reference T1 wiki:39716	Daimler
+N2	Reference T2 wiki:40401	Mercedes-Benz
+N3	Reference T3 wiki:1316945	Mercedes-AMG
+N4	Reference T4 wiki:40401	Mercedes-Benz
+N5	Reference T5 wiki:1371581	Freightliner
+N6	Reference T6 wiki:41484	Sterling trucks
+N7	Reference T7 wiki:266596	Mitsubishi Fuso Truck and Bus Corporation
+N8	Reference T8 wiki:40401	Mercedes-Benz
+N9	Reference T9 wiki:40401	Mercedes-Benz
+N10	Reference T10 wiki:356657	Orion International
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10

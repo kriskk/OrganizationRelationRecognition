@@ -1,0 +1,25 @@
+T1	Organization 0 4	Jeep
+T2	Organization 87 109	Willys-Overland Motors
+T3	Organization 127 152	Kaiser-Frazer Corporation
+T4	Organization 216 243	American Motors Corporation
+T5	Organization 266 273	Renault
+T6	Organization 291 311	Chrysler Corporation
+T7	Organization 329 347	DaimlerChrysler AG
+N1	Reference T1 wiki:41489	Jeep
+N2	Reference T2 wiki:3630721	Willys-Overland Motors
+N3	Reference T3 wiki:3333285	Kaiser-Frazer Corporation
+N4	Reference T4 wiki:3346012	American Motors Corporation
+N5	Reference T5 wiki:586472	Renault
+N6	Reference T6 wiki:223902	Chrysler
+N7	Reference T7 wiki:39716	Daimler
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Holder
+A7	TypeRel T3 Holder
+A8	TypeRel T4 Holder
+A9	TypeRel T5 Holder
+A10	TypeRel T6 Holder
+A11	TypeRel T7 Holder

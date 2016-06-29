@@ -1,0 +1,10 @@
+T1	Organization 0 7	Piaggio
+T2	Organization 213 221	Olivetti
+T3	Organization 224 238	Telecom Italia
+N1	Reference T1 wiki:981321	Piaggio
+N2	Reference T2 wiki:1770739	Olivetti
+N3	Reference T3 wiki:358181	Telecom Italia
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

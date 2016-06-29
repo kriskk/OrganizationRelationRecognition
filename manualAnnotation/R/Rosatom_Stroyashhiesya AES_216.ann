@@ -1,0 +1,13 @@
+T1	Organization 0 7	Росатом
+T2	Organization 443 471	ОАО "Концерн «Росэнергоатом»
+T3	Organization 618 631	ОАО «СПб АЭП»
+T4	Organization 674 694	ОАО «Атомэнергопром»
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:138779	Росэнергоатом
+N3	Reference T3 wiki:2495336	Атомэнергопроект (Санкт-Петербург)
+N4	Reference T4 wiki:1402114	Атомэнергопром
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator

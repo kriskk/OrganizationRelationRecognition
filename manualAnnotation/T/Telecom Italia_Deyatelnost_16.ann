@@ -1,0 +1,5 @@
+T1	Organization 0 14	Telecom Italia
+T2	Organization 203 220	Telecom Argentina
+N1	Reference T1 wiki:358181	Telecom Italia
+N2	Reference T2 wiki:3603814	Telecom Argentina
+A1	IsLink T2

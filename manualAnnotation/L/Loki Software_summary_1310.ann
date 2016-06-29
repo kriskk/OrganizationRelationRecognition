@@ -1,0 +1,9 @@
+T1	Organization 0 13	Loki Software
+T2	Organization 278 297	Creative Technology
+T3	Organization 300 314	Apple Computer
+N1	Reference T1 wiki:1619684	Loki Software
+N2	Reference T2 wiki:234719	Creative Technology
+N3	Reference T3 wiki:39726	Apple Computer
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

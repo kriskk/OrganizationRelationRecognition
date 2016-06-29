@@ -1,0 +1,5 @@
+T1	Organization 0 14	Вазинтерсервис
+T2	Organization 313 323	Группа СОК
+N1	Reference T1 wiki:1435439	Вазинтерсервис
+N2	Reference T2 wiki:148557	СОК (компания)
+A1	IsLink T2

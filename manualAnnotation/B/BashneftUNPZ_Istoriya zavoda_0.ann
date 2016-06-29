@@ -1,0 +1,5 @@
+T1	Organization 0 13	Башнефть-УНПЗ
+T2	Organization 148 164	Ишимбайского НПЗ
+N1	Reference T1 wiki:2185385	Башнефть-УНПЗ
+N2	Reference T2 wiki:3287353	Ишимбайский нефтеперерабатывающий завод
+A1	IsLink T2

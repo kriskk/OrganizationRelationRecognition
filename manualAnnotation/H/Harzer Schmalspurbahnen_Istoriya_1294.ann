@@ -1,0 +1,5 @@
+T1	Organization 0 23	Harzer Schmalspurbahnen
+T2	Organization 213 226	Deutsche Bahn
+N1	Reference T1 wiki:1232719	Harzer Schmalspurbahnen
+N2	Reference T2 wiki:321840	Deutsche Bahn
+A1	IsLink T2

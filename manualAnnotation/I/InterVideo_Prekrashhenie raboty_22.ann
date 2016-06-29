@@ -1,0 +1,6 @@
+T1	Organization 0 10	InterVideo
+T2	Organization 253 266	Ulead Systems
+N1	Reference T1 wiki:4202185	InterVideo
+N2	Reference T2 wiki:951070	Ulead
+A1	IsLink T2
+A2	TypeRel T2 Alias

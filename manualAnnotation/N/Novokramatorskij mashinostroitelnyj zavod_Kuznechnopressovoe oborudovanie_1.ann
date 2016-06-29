@@ -1,0 +1,5 @@
+T1	Organization 0 41	Новокраматорский машиностроительный завод
+T2	Organization 250 285	Верхнесалдинского металлургического
+N1	Reference T1 wiki:1533221	Новокраматорский машиностроительный завод
+N2	Reference T2 wiki:140530	ВСМПО-АВИСМА
+A1	TypeRel T2 Cooperator

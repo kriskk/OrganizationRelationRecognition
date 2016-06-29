@@ -1,0 +1,16 @@
+T1	Organization 0 12	Кьюби Финанс
+T2	Organization 240 259	ОАО «Газпром Нефть»
+T3	Organization 396 406	HeadHunter
+T4	Organization 449 468	«Экопси консалтинг»
+T5	Organization 471 474	PwC
+N1	Reference T1 wiki:4399566	Кьюби Финанс
+N2	Reference T2 wiki:121955	Газпром нефть
+N3	Reference T3 wiki:3939259	HeadHunter (компания)
+N4	Reference T4 wiki:3339213	Экопси
+N5	Reference T5 wiki:275101	PwC
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Competitor
+A6	TypeRel T3 Other

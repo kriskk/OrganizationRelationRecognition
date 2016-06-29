@@ -1,0 +1,6 @@
+T1	Organization 0 19	PSA Peugeot Citroën
+T2	Organization 220 232	Peugeot S.A.
+N1	Reference T1 wiki:226616	PSA Peugeot Citroën
+N2	Reference T2 wiki:1650729	Peugeot
+A1	IsLink T2
+A2	TypeRel T2 Merge

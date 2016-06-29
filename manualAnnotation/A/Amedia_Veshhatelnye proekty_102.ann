@@ -1,0 +1,11 @@
+T1	Organization 0 6	Амедиа
+T2	Organization 201 211	Ростелеком
+T3	Organization 301 308	Мегафон
+T4	Organization 361 375	Орион Экспресс
+N1	Reference T1 wiki:20040	Амедиа
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:70933	МегаФон
+N4	Reference T4 wiki:1586468	Орион Экспресс
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

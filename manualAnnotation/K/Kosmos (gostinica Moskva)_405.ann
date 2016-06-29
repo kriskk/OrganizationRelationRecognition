@@ -1,0 +1,5 @@
+T1	Organization 0 26	Космос (гостиница, Москва)
+T2	Organization 193 201	Интурист
+N1	Reference T1 wiki:606916	Космос (гостиница, Москва)
+N2	Reference T2 wiki:606499	Интурист
+A1	TypeRel T2 Holder

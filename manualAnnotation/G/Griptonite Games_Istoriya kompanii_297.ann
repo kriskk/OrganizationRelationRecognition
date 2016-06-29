@@ -1,0 +1,10 @@
+T1	Organization 0 16	Griptonite Games
+T2	Organization 262 281	Amaze Entertainment
+T3	Organization 341 360	Amaze Entertainment
+N1	Reference T1 wiki:1895568	Griptonite Games
+N2	Reference T2 wiki:2184318	Amaze Entertainment
+N3	Reference T3 wiki:2184318	Amaze Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

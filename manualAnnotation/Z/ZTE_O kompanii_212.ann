@@ -1,0 +1,33 @@
+T1	Organization 0 3	ZTE
+T2	Organization 252 257	Intel
+T3	Organization 259 268	Microsoft
+T4	Organization 270 273	IBM
+T5	Organization 275 282	Alcatel
+T6	Organization 284 292	Qualcomm
+T7	Organization 310 319	Accenture
+T8	Organization 321 338	Texas Instruments
+T9	Organization 340 349	Freescale
+N1	Reference T1 wiki:2100056	ZTE
+N2	Reference T2 wiki:762172	Intel
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:11078	IBM
+N5	Reference T5 wiki:294657	Alcatel
+N6	Reference T6 wiki:897305	Qualcomm
+N7	Reference T7 wiki:2840493	Accenture
+N8	Reference T8 wiki:429235	Texas Instruments
+N9	Reference T9 wiki:1614887	Freescale
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator
+A15	TypeRel T9 Cooperator

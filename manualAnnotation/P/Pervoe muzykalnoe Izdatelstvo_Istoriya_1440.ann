@@ -1,0 +1,5 @@
+T1	Organization 0 31	Первое музыкальное Издательство
+T2	Organization 274 278	СОЮЗ
+N1	Reference T1 wiki:3480884	Первое музыкальное Издательство
+N2	Reference T2 wiki:1510178	Союз (концерн)
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Газфонд
+T2	Organization 280 288	КапиталЪ
+N1	Reference T1 wiki:1950122	Газфонд
+N2	Reference T2 wiki:160398	КапиталЪ
+A1	TypeRel T2 Holder

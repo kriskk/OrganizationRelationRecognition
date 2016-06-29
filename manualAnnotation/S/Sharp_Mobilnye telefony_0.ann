@@ -1,0 +1,5 @@
+T1	Organization 0 5	Sharp
+T2	Organization 61 78	Sharp Corporation
+N1	Reference T1 wiki:382668	Sharp
+N2	Reference T2 wiki:382668	Sharp Corporation
+A1	IsLink T2

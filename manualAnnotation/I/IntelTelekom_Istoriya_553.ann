@@ -1,0 +1,14 @@
+T1	Organization 0 12	ИнтелТелеком
+T2	Organization 273 282	Terrasoft
+T3	Organization 420 429	Terrasoft
+T4	Organization 545 549	«1С»
+N1	Reference T1 wiki:2951386	ИнтелТелеком
+N2	Reference T2 wiki:2324443	Terrasoft
+N3	Reference T3 wiki:2324443	Terrasoft
+N4	Reference T4 wiki:34936	1С
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

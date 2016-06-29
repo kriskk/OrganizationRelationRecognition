@@ -1,0 +1,5 @@
+T1	Organization 0 9	Колэнерго
+T2	Organization 319 335	РАО «ЕЭС России»
+N1	Reference T1 wiki:3019506	Колэнерго
+N2	Reference T2 wiki:1432138	РАО «ЕЭС России»
+A1	TypeRel T2 Holder

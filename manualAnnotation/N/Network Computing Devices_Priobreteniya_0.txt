@@ -1,0 +1,13 @@
+Network Computing Devices
+@Приобретения
+1769,0
+
+
+Приобретения
+
+
+ PCXware, которая реализовала X Window System для Microsoft Windows.
+	 В 1994 году куплена Z-Code Software, разработавшую кроссплатформенный Почтовый клиент Z-Mail на основе открытых стандартов. Z-Mail позднее был продан компании Netmanage.
+	 Выкупила у Tektronix линию Х-терминалов TekXPress.
+
+

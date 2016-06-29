@@ -1,0 +1,10 @@
+T1	Organization 0 18	Полигон (компания)
+T2	Organization 393 402	Вымпелком
+T3	Organization 417 427	Ростелеком
+N1	Reference T1 wiki:1626172	Полигон (компания)
+N2	Reference T2 wiki:70736	Вымпелком
+N3	Reference T3 wiki:145844	Ростелеком
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

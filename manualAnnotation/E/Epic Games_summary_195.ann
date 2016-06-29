@@ -1,0 +1,8 @@
+T1	Organization 0 10	Epic Games
+T2	Organization 230 244	People Can Fly
+T3	Organization 247 260	Titan Studios
+N1	Reference T1 wiki:2094890	Epic Games
+N2	Reference T2 wiki:1892096	People Can Fly
+N3	Reference T3 wiki:2682127	Titan Studios
+A1	IsLink T2
+A2	IsLink T3

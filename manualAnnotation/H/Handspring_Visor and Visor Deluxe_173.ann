@@ -1,0 +1,13 @@
+T1	Organization 0 10	Handspring
+T2	Organization 338 346	Motorola
+T3	Organization 349 358	Freescale
+T4	Organization 661 672	Springboard
+N1	Reference T1 wiki:131326	Handspring
+N2	Reference T2 wiki:134384	Motorola
+N3	Reference T3 wiki:1614887	Freescale Semiconductor
+N4	Reference T4 wiki:131326	Springboard (слот расширения)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator

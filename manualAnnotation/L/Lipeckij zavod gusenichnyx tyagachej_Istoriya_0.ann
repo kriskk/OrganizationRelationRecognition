@@ -1,0 +1,15 @@
+T1	Organization 0 33	Липецкий завод гусеничных тягачей
+T2	Organization 127 153	Липецком тракторном заводе
+T3	Organization 299 318	«Тракторные заводы»
+T4	Organization 354 376	ОАО «Липецкий трактор»
+T5	Organization 441 460	«Тракторные заводы»
+N1	Reference T1 wiki:2337513	Липецкий завод гусеничных тягачей
+N2	Reference T2 wiki:1095862	Липецкий трактор
+N3	Reference T3 wiki:165385	Тракторные заводы
+N4	Reference T4 wiki:1095862	Липецкий трактор
+N5	Reference T5 wiki:165385	Тракторные заводы
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T3 Holder

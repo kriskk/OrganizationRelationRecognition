@@ -1,0 +1,5 @@
+T1	Organization 0 8	Харверст
+T2	Organization 193 219	Индустриальной группы УПЭК
+N1	Reference T1 wiki:3604708	Харверст
+N2	Reference T2 wiki:3597216	УПЭК
+A1	TypeRel T2 Holder

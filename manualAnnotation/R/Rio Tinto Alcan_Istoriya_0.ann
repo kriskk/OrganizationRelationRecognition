@@ -1,0 +1,6 @@
+T1	Organization 0 15	Rio Tinto Alcan
+T2	Organization 105 110	Alcoa
+N1	Reference T1 wiki:728716	Rio Tinto Alcan
+N2	Reference T2 wiki:527770	Alcoa
+A1	IsLink T2
+A2	TypeRel T2 Holder

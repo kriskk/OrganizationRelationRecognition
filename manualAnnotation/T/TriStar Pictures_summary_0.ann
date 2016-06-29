@@ -1,0 +1,11 @@
+T1	Organization 0 16	TriStar Pictures
+T2	Organization 115 132	Columbia Pictures
+T3	Organization 149 186	Columbia TriStar Motion Picture Group
+T4	Organization 208 235	Sony Pictures Entertainment
+N1	Reference T1 wiki:3417260	TriStar Pictures
+N2	Reference T2 wiki:373564	Columbia Pictures
+N3	Reference T3 wiki:1830946	Sony Pictures Entertainment
+N4	Reference T4 wiki:1830946	Sony Pictures Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

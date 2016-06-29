@@ -1,0 +1,5 @@
+T1	Organization 0 19	Baltijas Džips Ltd.
+T2	Organization 217 222	IVECO
+N1	Reference T1 wiki:3970883	Baltijas Džips Ltd.
+N2	Reference T2 wiki:272617	Iveco
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 12	Volvo Trucks
+T2	Organization 182 185	SKF
+N1	Reference T1 wiki:1876689	Volvo Trucks
+N2	Reference T2 wiki:938417	SKF
+A1	TypeRel T2 Holder

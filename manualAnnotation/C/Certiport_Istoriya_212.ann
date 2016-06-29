@@ -1,0 +1,5 @@
+T1	Organization 0 9	Certiport
+T2	Organization 287 292	Adobe
+N1	Reference T1 wiki:4249769	Certiport
+N2	Reference T2 wiki:42937	Adobe
+A1	IsLink T2

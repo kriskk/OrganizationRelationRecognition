@@ -1,0 +1,9 @@
+T1	Organization 0 18	Волго-Донское ПМЭС
+T2	Organization 172 179	ФСК ЕЭС
+T3	Organization 183 193	МЭС Центра
+N1	Reference T1 wiki:1904948	Волго-Донское ПМЭС
+N2	Reference T2 wiki:138863	ФСК ЕЭС
+N3	Reference T3 wiki:1557515	МЭС Центра
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

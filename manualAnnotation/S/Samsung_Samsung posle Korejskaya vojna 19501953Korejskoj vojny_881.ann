@@ -1,0 +1,8 @@
+T1	Organization 0 7	Samsung
+T2	Organization 271 277	Daewoo
+T3	Organization 288 301	Goldstar (LG)
+N1	Reference T1 wiki:125537	Samsung
+N2	Reference T2 wiki:794769	Daewoo
+N3	Reference T3 wiki:135021	LG Group
+A1	IsLink T2
+A2	IsLink T3

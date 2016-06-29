@@ -1,0 +1,8 @@
+T1	Organization 0 9	Depot WPF
+T2	Organization 73 82	Depot WPF
+T3	Organization 241 250	Depot WPF
+N1	Reference T1 wiki:3535983	Depot WPF
+N2	Reference T2 wiki:3535983	Depot WPF
+N3	Reference T3 wiki:3535983	Depot WPF
+A1	IsLink T2
+A2	IsLink T3

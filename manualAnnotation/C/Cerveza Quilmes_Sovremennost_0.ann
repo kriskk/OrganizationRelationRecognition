@@ -1,0 +1,5 @@
+T1	Organization 0 15	Cerveza Quilmes
+T2	Organization 106 111	InBev
+N1	Reference T1 wiki:3615676	Cerveza Quilmes
+N2	Reference T2 wiki:203867	InBev
+A1	IsLink T2

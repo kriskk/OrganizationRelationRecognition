@@ -1,0 +1,8 @@
+T1	Organization 0 5	Adler
+T2	Organization 300 307	Grundig
+T3	Organization 319 327	Olivetti
+N1	Reference T1 wiki:3333895	Adler
+N2	Reference T2 wiki:571983	Grundig
+N3	Reference T3 wiki:1770739	Olivetti
+A1	IsLink T2
+A2	IsLink T3

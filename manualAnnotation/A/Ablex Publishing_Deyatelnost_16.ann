@@ -1,0 +1,5 @@
+T1	Organization 0 16	Ablex Publishing
+T2	Organization 282 290	Elsevier
+N1	Reference T1 wiki:2479658	Ablex Publishing
+N2	Reference T2 wiki:1291005	Elsevier
+A1	IsLink T2

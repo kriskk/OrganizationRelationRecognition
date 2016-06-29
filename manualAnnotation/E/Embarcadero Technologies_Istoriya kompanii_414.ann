@@ -1,0 +1,11 @@
+T1	Organization 0 24	Embarcadero Technologies
+T2	Organization 207 214	Borland
+T3	Organization 258 266	CodeGear
+T4	Organization 268 276	CodeGear
+N1	Reference T1 wiki:2429869	Embarcadero Technologies
+N2	Reference T2 wiki:35713	Borland
+N3	Reference T3 wiki:1408129	CodeGear
+N4	Reference T4 wiki:1408129	CodeGear
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

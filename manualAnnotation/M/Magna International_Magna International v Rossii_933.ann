@@ -1,0 +1,10 @@
+T1	Organization 0 19	Magna International
+T2	Organization 289 303	General Motors
+T3	Organization 318 322	Opel
+N1	Reference T1 wiki:232905	Magna International
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:562302	Opel
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Subsidiary

@@ -1,0 +1,6 @@
+T1	Organization 0 10	Нидан Соки
+T2	Organization 103 124	The Coca-Cola Company
+N1	Reference T1 wiki:1740175	Нидан Соки
+N2	Reference T2 wiki:231920	The Coca-Cola Company
+A1	IsLink T2
+A2	TypeRel T2 Holder

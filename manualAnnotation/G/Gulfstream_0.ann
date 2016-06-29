@@ -1,0 +1,10 @@
+T1	Organization 0 10	Gulfstream
+T2	Organization 154 170	General Dynamics
+T3	Organization 200 216	General Dynamics
+N1	Reference T1 wiki:650855	Gulfstream
+N2	Reference T2 wiki:1015376	General Dynamics
+N3	Reference T3 wiki:1015376	General Dynamics
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 3	IBM
+T2	Organization 178 195	Rational Software
+N1	Reference T1 wiki:11078	IBM
+N2	Reference T2 wiki:196954	Rational Software
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

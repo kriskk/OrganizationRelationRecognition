@@ -1,0 +1,14 @@
+T1	Organization 0 29	Белорусская нефтяная компания
+T2	Organization 205 253	РУП «Производственное Объединение «Белоруснефть»
+T3	Organization 256 268	ОАО «Нафтан»
+T4	Organization 271 290	ОАО «Мозырский НПЗ»
+T5	Organization 293 331	УП «Белорусский нефтяной торговый дом»
+N1	Reference T1 wiki:2448271	Белорусская нефтяная компания
+N2	Reference T2 wiki:2450131	Белоруснефть
+N3	Reference T3 wiki:2434162	Нафтан (ОАО)
+N4	Reference T4 wiki:1142963	Мозырский нефтеперерабатывающий завод
+N5	Reference T5 wiki:2511247	Белорусский нефтяной торговый дом
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

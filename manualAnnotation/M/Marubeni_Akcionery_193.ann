@@ -1,0 +1,5 @@
+T1	Organization 0 8	Marubeni
+T2	Organization 224 238	Aeon Co., Ltd.
+N1	Reference T1 wiki:2210137	Marubeni
+N2	Reference T2 wiki:3112986	Aeon
+A1	TypeRel T2 Holder

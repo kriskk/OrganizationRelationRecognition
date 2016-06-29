@@ -1,0 +1,5 @@
+T1	Organization 0 11	Ūkio bankas
+T2	Organization 63 69	Snoras
+N1	Reference T1 wiki:452831	Ūkio bankas
+N2	Reference T2 wiki:452919	Snoras
+A1	IsLink T2

@@ -1,0 +1,36 @@
+T1	Organization 0 5	CBOSS
+T2	Organization 197 212	Hewlett-Packard
+T3	Organization 214 232	Oracle Corporation
+T4	Organization 234 243	Microsoft
+T5	Organization 245 253	Symantec
+T6	Organization 255 268	Cisco Systems
+T7	Organization 270 287	Xerox Corporation
+T8	Organization 289 294	Avaya
+T9	Organization 334 341	Скартел
+T10	Organization 343 356	Байкалвестком
+T11	Organization 358 362	Акос
+T12	Organization 372 381	Дальсвязь
+N1	Reference T1 wiki:144923	CBOSS
+N2	Reference T2 wiki:89988	Hewlett-Packard
+N3	Reference T3 wiki:129227	Oracle Corporation
+N4	Reference T4 wiki:11987	Microsoft
+N5	Reference T5 wiki:157841	Symantec
+N6	Reference T6 wiki:25014	Cisco Systems
+N7	Reference T7 wiki:257571	Xerox Corporation
+N8	Reference T8 wiki:685464	Avaya
+N9	Reference T9 wiki:1460064	Скартел
+N10	Reference T10 wiki:252007	Байкалвестком
+N11	Reference T11 wiki:259579	Акос
+N12	Reference T12 wiki:242465	Дальсвязь
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	TypeRel T4 Cooperator

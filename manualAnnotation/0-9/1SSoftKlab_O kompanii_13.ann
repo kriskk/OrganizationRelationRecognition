@@ -1,0 +1,42 @@
+T1	Organization 0 11	1С-СофтКлаб
+T2	Organization 192 207	Electronic Arts
+T3	Organization 209 212	THQ
+T4	Organization 214 224	Activision
+T5	Organization 226 232	Konami
+T6	Organization 234 240	Capcom
+T7	Organization 242 246	Sega
+T8	Organization 280 284	Бука
+T9	Organization 286 296	Новый Диск
+T10	Organization 298 304	Акелла
+T11	Organization 306 316	Руссобит-М
+T12	Organization 318 321	GFI
+T13	Organization 348 350	1C
+T14	Organization 353 369	Snowball Studios
+N1	Reference T1 wiki:1010483	1С-СофтКлаб
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:795069	THQ
+N4	Reference T4 wiki:307964	Activision
+N5	Reference T5 wiki:747952	Konami
+N6	Reference T6 wiki:714415	Capcom
+N7	Reference T7 wiki:92589	Sega
+N8	Reference T8 wiki:367355	Бука (компания)
+N9	Reference T9 wiki:606365	Новый Диск
+N10	Reference T10 wiki:654463	Акелла
+N11	Reference T11 wiki:992525	Руссобит-М
+N12	Reference T12 wiki:774390	GFI
+N13	Reference T13 wiki:34936	1C
+N14	Reference T14 wiki:992796	Snowball Studios
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	TypeRel T5 Cooperator

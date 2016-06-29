@@ -1,0 +1,5 @@
+T1	Organization 0 12	АэроКомпозит
+T2	Organization 275 278	ОАК
+N1	Reference T1 wiki:3435338	АэроКомпозит
+N2	Reference T2 wiki:163405	Объединённая авиастроительная корпорация
+A1	IsLink T2

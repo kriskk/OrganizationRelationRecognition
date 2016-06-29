@@ -1,0 +1,17 @@
+T1	Organization 0 4	ЮКОС
+T2	Organization 278 292	Сургутнефтегаз
+T3	Organization 330 336	Лукойл
+T4	Organization 657 664	Сиданко
+T5	Organization 686 700	Сургутнефтегаз
+T6	Organization 716 724	Сибнефть
+N1	Reference T1 wiki:6032	ЮКОС
+N2	Reference T2 wiki:143564	Сургутнефтегаз
+N3	Reference T3 wiki:59354	Лукойл
+N4	Reference T4 wiki:980511	Сиданко
+N5	Reference T5 wiki:143564	Сургутнефтегаз
+N6	Reference T6 wiki:121955	Сибнефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

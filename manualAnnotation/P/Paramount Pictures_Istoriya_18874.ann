@@ -1,0 +1,8 @@
+T1	Organization 0 18	Paramount Pictures
+T2	Organization 256 266	DreamWorks
+T3	Organization 659 688	DreamWorks Animation SKG Inc.
+N1	Reference T1 wiki:398699	Paramount Pictures
+N2	Reference T2 wiki:755489	DreamWorks
+N3	Reference T3 wiki:3634563	DreamWorks Animation
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary

@@ -1,0 +1,6 @@
+T1	Organization 0 15	АИСТ (компания)
+T2	Organization 263 275	ВолгаТелеком
+N1	Reference T1 wiki:1460116	АИСТ (компания)
+N2	Reference T2 wiki:162608	ВолгаТелеком
+A1	IsLink T2
+A2	TypeRel T2 Competitor

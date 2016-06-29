@@ -1,0 +1,6 @@
+T1	Organization 0 15	R-Style Softlab
+T2	Organization 292 304	ФК «Уралсиб»
+N1	Reference T1 wiki:351663	R-Style Softlab
+N2	Reference T2 wiki:237228	Уралсиб (ФК)
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

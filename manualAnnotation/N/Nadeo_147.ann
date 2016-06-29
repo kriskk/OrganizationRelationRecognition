@@ -1,0 +1,6 @@
+T1	Organization 0 5	Nadeo
+T2	Organization 194 201	Ubisoft
+N1	Reference T1 wiki:2518990	Nadeo
+N2	Reference T2 wiki:650139	Ubisoft
+A1	IsLink T2
+A2	TypeRel T2 Holder

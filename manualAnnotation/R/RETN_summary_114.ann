@@ -1,0 +1,9 @@
+T1	Organization 0 4	RETN
+T2	Organization 278 291	Cisco Systems
+T3	Organization 293 300	Juniper
+N1	Reference T1 wiki:931484	RETN
+N2	Reference T2 wiki:25014	Cisco Systems
+N3	Reference T3 wiki:320144	Juniper
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

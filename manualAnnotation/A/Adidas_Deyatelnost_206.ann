@@ -1,0 +1,14 @@
+T1	Organization 0 6	Adidas
+T2	Organization 191 198	Salomon
+T3	Organization 337 365	Bonfire Snowboarding Company
+T4	Organization 464 470	Reebok
+T5	Organization 522 530	Rockport
+N1	Reference T1 wiki:243642	Adidas
+N2	Reference T2 wiki:398645	Salomon
+N3	Reference T3 wiki:1333660	Bonfire Snowboarding Company
+N4	Reference T4 wiki:399359	Reebok
+N5	Reference T5 wiki:1547251	Rockport
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

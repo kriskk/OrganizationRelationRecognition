@@ -1,0 +1,14 @@
+T1	Organization 0 7	RUSCICO
+T2	Organization 194 202	Мосфильм
+T3	Organization 274 282	Ленфильм
+T4	Organization 386 398	студии Гибли
+N1	Reference T1 wiki:2656375	RUSCICO
+N2	Reference T2 wiki:25605	Мосфильм
+N3	Reference T3 wiki:175417	Ленфильм
+N4	Reference T4 wiki:8977	Студия Гибли
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T4 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T2 Cooperator

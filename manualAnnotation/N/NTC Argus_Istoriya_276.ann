@@ -1,0 +1,6 @@
+T1	Organization 0 9	НТЦ Аргус
+T2	Organization 303 313	Ростелеком
+N1	Reference T1 wiki:1858701	НТЦ Аргус
+N2	Reference T2 wiki:145844	Ростелеком
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

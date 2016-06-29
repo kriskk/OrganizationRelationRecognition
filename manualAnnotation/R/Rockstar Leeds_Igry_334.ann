@@ -1,0 +1,34 @@
+T1	Organization 0 14	Rockstar Leeds
+T2	Organization 193 211	Rockstar San Diego
+T3	Organization 282 296	Rockstar North
+T4	Organization 364 378	Rockstar North
+T5	Organization 418 434	Rockstar Toronto
+T6	Organization 471 486	Rockstar London
+T7	Organization 489 503	Rockstar North
+T8	Organization 567 585	Rockstar San Diego
+T9	Organization 669 683	Rockstar North
+N1	Reference T1 wiki:2325802	Rockstar Leeds
+N2	Reference T2 wiki:2327583	Rockstar San Diego
+N3	Reference T3 wiki:662662	Rockstar North
+N4	Reference T4 wiki:662662	Rockstar North
+N5	Reference T5 wiki:2336518	Rockstar Toronto
+N6	Reference T6 wiki:2327715	Rockstar London
+N7	Reference T7 wiki:662662	Rockstar North
+N8	Reference T8 wiki:2327583	Rockstar San Diego
+N9	Reference T9 wiki:662662	Rockstar North
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 19	МАН (торговая сеть)
+T2	Organization 173 178	Радеж
+N1	Reference T1 wiki:1958951	МАН (торговая сеть)
+N2	Reference T2 wiki:1958919	Радеж (торговая сеть)
+A1	IsLink T2
+A2	TypeRel T2 Competitor

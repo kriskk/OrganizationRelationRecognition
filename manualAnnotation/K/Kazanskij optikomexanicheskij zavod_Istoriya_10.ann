@@ -1,0 +1,6 @@
+T1	Organization 0 35	Казанский оптико-механический завод
+T2	Organization 226 236	ОАО «ЛОМО»
+N1	Reference T1 wiki:2686514	Казанский оптико-механический завод
+N2	Reference T2 wiki:1164138	ЛОМО
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 10	Якутцемент
+T2	Organization 204 237	ЗАО Акционерная компания «АЛРОСА»
+T3	Organization 240 260	ОАО «Сургутнефтегаз»
+N1	Reference T1 wiki:2561491	Якутцемент
+N2	Reference T2 wiki:147338	АЛРОСА
+N3	Reference T3 wiki:143564	Сургутнефтегаз
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

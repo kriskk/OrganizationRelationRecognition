@@ -1,0 +1,10 @@
+T1	Organization 0 22	Оборонительные системы
+T2	Organization 523 534	ЦКБ "Алмаз"
+T3	Organization 742 750	Интеррос
+N1	Reference T1 wiki:2848714	Оборонительные системы
+N2	Reference T2 wiki:662454	Алмаз-Антей (ГСКБ)
+N3	Reference T3 wiki:147366	Интеррос
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder
+A4	TypeRel T2 Holder

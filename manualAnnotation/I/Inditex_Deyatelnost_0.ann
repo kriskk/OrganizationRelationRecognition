@@ -1,0 +1,6 @@
+T1	Organization 0 7	Inditex
+T2	Organization 147 160	Massimo Dutti
+N1	Reference T1 wiki:144190	Inditex
+N2	Reference T2 wiki:1790010	Massimo Dutti
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

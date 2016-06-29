@@ -1,0 +1,5 @@
+T1	Organization 0 20	Yamaha Motor Company
+T2	Organization 176 194	Yamaha Corporation
+N1	Reference T1 wiki:265326	Yamaha Motor Company
+N2	Reference T2 wiki:696518	Yamaha Corporation
+A1	TypeRel T2 Holder

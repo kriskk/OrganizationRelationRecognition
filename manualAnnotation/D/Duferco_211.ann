@@ -1,0 +1,5 @@
+T1	Organization 0 7	Duferco
+T2	Organization 167 171	НЛМК
+N1	Reference T1 wiki:369754	Duferco
+N2	Reference T2 wiki:143594	Новолипецкий металлургический комбинат
+A1	IsLink T2

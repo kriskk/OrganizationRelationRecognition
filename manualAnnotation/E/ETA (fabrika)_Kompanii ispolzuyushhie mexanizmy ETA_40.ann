@@ -1,0 +1,46 @@
+T1	Organization 0 13	ETA (фабрика)
+T2	Organization 272 278	Tissot
+T3	Organization 280 288	Hamilton
+T4	Organization 290 294	Mido
+T5	Organization 296 303	Certina
+T6	Organization 305 313	Longines
+T7	Organization 315 319	Rado
+T8	Organization 321 325	Oris
+T9	Organization 327 331	Epos
+T10	Organization 333 352	Frederique Constant
+T11	Organization 384 396	Raymond Weil
+T12	Organization 501 510	Breitling
+T13	Organization 512 519	Chopard
+T14	Organization 521 524	IWC
+T15	Organization 526 531	Omega
+N1	Reference T1 wiki:1080471	ETA (фабрика)
+N2	Reference T2 wiki:177171	Tissot
+N3	Reference T3 wiki:1062515	Hamilton
+N4	Reference T4 wiki:1054457	Mido
+N5	Reference T5 wiki:1052953	Certina
+N6	Reference T6 wiki:1057852	Longines
+N7	Reference T7 wiki:1052474	Rado
+N8	Reference T8 wiki:3271935	Oris
+N9	Reference T9 wiki:2150888	Epos
+N10	Reference T10 wiki:2786725	Frederique Constant
+N11	Reference T11 wiki:1500223	Raymond Weil
+N12	Reference T12 wiki:148153	Breitling
+N13	Reference T13 wiki:3206312	Chopard
+N14	Reference T14 wiki:3197181	IWC
+N15	Reference T15 wiki:1047157	Omega (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	TypeRel T8 Cooperator
+A16	TypeRel T8 Cooperator

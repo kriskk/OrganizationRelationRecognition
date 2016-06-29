@@ -1,0 +1,8 @@
+T1	Organization 0 12	Норд-капитал
+T2	Organization 186 189	НРА
+T3	Organization 801 835	Национальное рейтинговое агентство
+N1	Reference T1 wiki:4329247	Норд-капитал
+N2	Reference T2 wiki:886966	Национальное рейтинговое агентство
+N3	Reference T3 wiki:886966	Национальное рейтинговое агентство
+A1	IsLink T2
+A2	IsLink T3

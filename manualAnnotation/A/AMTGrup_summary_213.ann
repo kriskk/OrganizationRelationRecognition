@@ -1,0 +1,33 @@
+T1	Organization 0 8	АМТ-Груп
+T2	Organization 277 284	Alcatel
+T3	Organization 286 291	Avaya
+T4	Organization 300 305	Cisco
+T5	Organization 335 337	HP
+T6	Organization 339 346	Juniper
+T7	Organization 348 351	IBM
+T8	Organization 353 362	Microsoft
+T9	Organization 364 370	Oracle
+T10	Organization 372 379	Polycom
+T11	Organization 381 389	Tandberg
+N1	Reference T1 wiki:2782529	АМТ-Груп
+N2	Reference T2 wiki:294657	Alcatel
+N3	Reference T3 wiki:685464	Avaya
+N4	Reference T4 wiki:25014	Cisco
+N5	Reference T5 wiki:89988	Hewlett-Packard
+N6	Reference T6 wiki:320144	Juniper
+N7	Reference T7 wiki:11078	IBM
+N8	Reference T8 wiki:11987	Microsoft
+N9	Reference T9 wiki:129227	Oracle
+N10	Reference T10 wiki:2173201	Polycom
+N11	Reference T11 wiki:1683710	Tandberg
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	TypeRel T2 Cooperator

@@ -1,0 +1,14 @@
+T1	Organization 0 10	Reanimedia
+T2	Organization 217 225	XL Media
+T3	Organization 289 299	Мега-Аниме
+T4	Organization 351 361	Мега-Аниме
+N1	Reference T1 wiki:1349467	Reanimedia
+N2	Reference T2 wiki:137765	XL Media
+N3	Reference T3 wiki:191248	Мега-Аниме
+N4	Reference T4 wiki:191248	Мега-Аниме
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

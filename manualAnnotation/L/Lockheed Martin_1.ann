@@ -1,0 +1,6 @@
+T1	Organization 0 15	Lockheed Martin
+T2	Organization 183 203	Lockheed Corporation
+N1	Reference T1 wiki:301268	Lockheed Martin
+N2	Reference T2 wiki:1523502	Lockheed Corporation
+A1	IsLink T2
+A2	TypeRel T2 Alias

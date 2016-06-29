@@ -1,0 +1,8 @@
+T1	Organization 0 20	Автоспецоборудование
+T2	Organization 72 79	Bremach
+T3	Organization 82 90	Multicar
+N1	Reference T1 wiki:4033257	Автоспецоборудование
+N2	Reference T2 wiki:3905684	Bremach
+N3	Reference T3 wiki:897748	Multicar
+A1	IsLink T2
+A2	IsLink T3

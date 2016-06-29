@@ -1,0 +1,29 @@
+T1	Organization 0 13	VivaKi Russia
+T2	Organization 99 123	British American Tobacco
+T3	Organization 126 141	GlaxoSmithKline
+T4	Organization 144 154	Electrolux
+T5	Organization 157 161	Mars
+T6	Organization 164 177	Western Union
+T7	Organization 180 187	Wrigley
+T8	Organization 190 198	«Билайн»
+N1	Reference T1 wiki:2051834	VivaKi Russia
+N2	Reference T2 wiki:350239	British American Tobacco
+N3	Reference T3 wiki:300698	GlaxoSmithKline
+N4	Reference T4 wiki:153686	Electrolux
+N5	Reference T5 wiki:172056	Mars
+N6	Reference T6 wiki:397765	Western Union
+N7	Reference T7 wiki:454013	Wrigley
+N8	Reference T8 wiki:70736	Вымпел-Коммуникации
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A1	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator

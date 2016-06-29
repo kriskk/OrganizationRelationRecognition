@@ -1,0 +1,6 @@
+T1	Organization 0 8	Wärtsilä
+T2	Organization 227 237	STX Europe
+N1	Reference T1 wiki:951949	Wärtsilä
+N2	Reference T2 wiki:3434436	STX Europe
+A1	IsLink T2
+A2	TypeRel T2 Holder

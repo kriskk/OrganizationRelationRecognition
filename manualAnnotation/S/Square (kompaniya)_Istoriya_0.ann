@@ -1,0 +1,5 @@
+T1	Organization 0 17	Square (компания)
+T2	Organization 82 90	Nintendo
+N1	Reference T1 wiki:278305	Square (компания)
+N2	Reference T2 wiki:202486	Nintendo
+A1	IsLink T2

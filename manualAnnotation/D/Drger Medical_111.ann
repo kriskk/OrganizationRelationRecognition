@@ -1,0 +1,8 @@
+T1	Organization 0 14	Dräger Medical
+T2	Organization 183 196	Drägerwerk AG
+T3	Organization 220 230	Siemens AG
+N1	Reference T1 wiki:302641	Dräger Medical
+N2	Reference T2 wiki:1323345	Drägerwerk AG
+N3	Reference T3 wiki:36510	Siemens AG
+A1	IsLink T2
+A2	IsLink T3

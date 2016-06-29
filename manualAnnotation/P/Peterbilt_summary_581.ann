@@ -1,0 +1,10 @@
+T1	Organization 0 9	Peterbilt
+T2	Organization 195 200	Eaton
+T3	Organization 244 252	Kenworth
+N1	Reference T1 wiki:1704331	Peterbilt
+N2	Reference T2 wiki:1039999	Eaton
+N3	Reference T3 wiki:2477230	Kenworth
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator
+A4	TypeRel T2 Cooperator

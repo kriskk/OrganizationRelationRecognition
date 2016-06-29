@@ -1,0 +1,11 @@
+T1	Organization 0 12	Сакура-пресс
+T2	Organization 256 264	Kodansha
+T3	Organization 266 276	Shogakukan
+T4	Organization 279 287	Shueisha
+N1	Reference T1 wiki:713702	Сакура-пресс
+N2	Reference T2 wiki:200272	Kodansha
+N3	Reference T3 wiki:205001	Shogakukan
+N4	Reference T4 wiki:204996	Shueisha
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

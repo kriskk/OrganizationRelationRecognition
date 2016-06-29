@@ -1,0 +1,14 @@
+T1	Organization 0 21	Газпром энергохолдинг
+T2	Organization 127 132	ОГК-2
+T3	Organization 141 146	ОГК-6
+T4	Organization 156 165	Мосэнерго
+T5	Organization 176 181	ТГК-1
+N1	Reference T1 wiki:2691900	Газпром энергохолдинг
+N2	Reference T2 wiki:456796	ОГК-2
+N3	Reference T3 wiki:741520	ОГК-6
+N4	Reference T4 wiki:159522	Мосэнерго
+N5	Reference T5 wiki:257672	ТГК-1
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

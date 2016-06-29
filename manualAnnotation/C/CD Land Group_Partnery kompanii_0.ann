@@ -1,0 +1,26 @@
+T1	Organization 0 13	CD Land Group
+T2	Organization 62 83	Universal Music Group
+T3	Organization 86 104	Paramount Pictures
+T4	Organization 107 130	The Walt Disney Company
+T5	Organization 171 189	Warner Music Group
+T6	Organization 192 220	Sony BMG Music Entertainment
+T7	Organization 223 231	Мосфильм
+T8	Organization 234 253	Концерн группа Союз
+T9	Organization 256 270	Союзмультфильм
+N1	Reference T1 wiki:2812077	CD Land Group
+N2	Reference T2 wiki:203047	Universal Music Group
+N3	Reference T3 wiki:398699	Paramount Pictures
+N4	Reference T4 wiki:319365	The Walt Disney Company
+N5	Reference T5 wiki:197246	Warner Music Group
+N6	Reference T6 wiki:439628	Sony BMG
+N7	Reference T7 wiki:25605	Мосфильм
+N8	Reference T8 wiki:1510178	Союз (концерн)
+N9	Reference T9 wiki:137785	Союзмультфильм
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9

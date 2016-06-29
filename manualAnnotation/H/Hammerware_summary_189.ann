@@ -1,0 +1,9 @@
+T1	Organization 0 10	Hammerware
+T2	Organization 231 251	JoWooD Entertainment
+T3	Organization 302 304	1C
+N1	Reference T1 wiki:2634395	Hammerware
+N2	Reference T2 wiki:1800861	JoWooD Entertainment
+N3	Reference T3 wiki:34936	1C
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

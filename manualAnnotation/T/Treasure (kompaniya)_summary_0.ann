@@ -1,0 +1,5 @@
+T1	Organization 0 19	Treasure (компания)
+T2	Organization 135 141	Konami
+N1	Reference T1 wiki:1641019	Treasure (компания)
+N2	Reference T2 wiki:747952	Konami
+A1	IsLink T2

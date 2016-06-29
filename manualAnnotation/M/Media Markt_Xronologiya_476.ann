@@ -1,0 +1,5 @@
+T1	Organization 0 11	Media Markt
+T2	Organization 212 220	Metro AG
+N1	Reference T1 wiki:921209	Media Markt
+N2	Reference T2 wiki:166780	Metro AG
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 3	EMC
+T2	Organization 90 95	Intel
+N1	Reference T1 wiki:541503	EMC
+N2	Reference T2 wiki:762172	Intel
+A1	IsLink T2
+A2	TypeRel T2 Personnel

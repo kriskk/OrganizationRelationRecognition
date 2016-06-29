@@ -1,0 +1,6 @@
+T1	Organization 0 34	Национальный расчетный депозитарий
+T2	Organization 213 235	ЗАО «Делойт и Туш СНГ»
+N1	Reference T1 wiki:3747955	Национальный расчетный депозитарий
+N2	Reference T2 wiki:143428	Deloitte Touche Tohmatsu
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

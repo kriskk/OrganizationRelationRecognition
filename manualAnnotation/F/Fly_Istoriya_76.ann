@@ -1,0 +1,5 @@
+T1	Organization 0 3	Fly
+T2	Organization 202 216	Opera Software
+N1	Reference T1 wiki:1621364	Fly
+N2	Reference T2 wiki:95896	Opera Software
+A1	IsLink T2

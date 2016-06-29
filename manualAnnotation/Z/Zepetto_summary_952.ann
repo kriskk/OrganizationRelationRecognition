@@ -1,0 +1,5 @@
+T1	Organization 0 7	Zepetto
+T2	Organization 197 202	Apple
+N1	Reference T1 wiki:3199455	Zepetto
+N2	Reference T2 wiki:39726	Apple
+A1	IsLink T2

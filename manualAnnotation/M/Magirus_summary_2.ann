@@ -1,0 +1,5 @@
+T1	Organization 0 7	Magirus
+T2	Organization 244 251	Дойц АГ
+N1	Reference T1 wiki:897451	Magirus
+N2	Reference T2 wiki:3459570	Deutz AG
+A1	TypeRel T2 Holder

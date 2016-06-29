@@ -1,0 +1,6 @@
+T1	Organization 0 7	Логиком
+T2	Organization 234 270	Казахстанской Ассоциации IT-компаний
+N1	Reference T1 wiki:1938704	Логиком
+N2	Reference T2 wiki:3471765	ITK
+A1	IsLink T2
+A2	TypeRel T2 Holder

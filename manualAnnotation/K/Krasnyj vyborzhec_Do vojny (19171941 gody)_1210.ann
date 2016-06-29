@@ -1,0 +1,5 @@
+T1	Organization 0 16	Красный выборжец
+T2	Organization 288 336	художественно-монументальный бронзо-литейный цех
+N1	Reference T1 wiki:2248755	Красный выборжец
+N2	Reference T2 wiki:2906123	Монументскульптура
+A1	IsLink T2

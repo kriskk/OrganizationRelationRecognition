@@ -1,0 +1,6 @@
+T1	Organization 0 27	Институт научной информации
+T2	Organization 185 208	The Thomson Corporation
+N1	Reference T1 wiki:2569433	Институт научной информации
+N2	Reference T2 wiki:643688	The Thomson Corporation
+A1	IsLink T2
+A2	TypeRel T2 Holder

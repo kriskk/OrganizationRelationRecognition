@@ -1,0 +1,8 @@
+T1	Organization 0 10	Авиализинг
+T2	Organization 179 189	Эксперт РА
+T3	Organization 429 439	Эксперт РА
+N1	Reference T1 wiki:2264798	Авиализинг
+N2	Reference T2 wiki:363296	Эксперт РА
+N3	Reference T3 wiki:363296	Эксперт РА
+A1	IsLink T2
+A2	IsLink T3

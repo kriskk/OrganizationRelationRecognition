@@ -1,0 +1,14 @@
+T1	Organization 0 25	Новая телефонная компания
+T2	Organization 230 241	Связьинвест
+T3	Organization 263 272	ВымпелКом
+T4	Organization 439 446	МегаФон
+T5	Organization 451 456	TELE2
+N1	Reference T1 wiki:259656	Новая телефонная компания
+N2	Reference T2 wiki:145705	Связьинвест
+N3	Reference T3 wiki:70736	ВымпелКом
+N4	Reference T4 wiki:70933	МегаФон
+N5	Reference T5 wiki:162980	TELE2
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

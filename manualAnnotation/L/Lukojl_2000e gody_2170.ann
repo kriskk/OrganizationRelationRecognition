@@ -1,0 +1,17 @@
+T1	Organization 0 6	Лукойл
+T2	Organization 196 210	ConocoPhillips
+T3	Organization 267 280	Газпром нефть
+T4	Organization 338 341	ERG
+T5	Organization 513 520	Statoil
+N1	Reference T1 wiki:59354	Лукойл
+N2	Reference T2 wiki:171985	ConocoPhillips
+N3	Reference T3 wiki:121955	Газпром нефть
+N4	Reference T4 wiki:1275722	ERG
+N5	Reference T5 wiki:308196	Statoil
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator
+A7	TypeRel T5 Other

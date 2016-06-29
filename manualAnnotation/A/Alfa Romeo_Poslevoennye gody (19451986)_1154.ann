@@ -1,0 +1,5 @@
+T1	Organization 0 10	Alfa Romeo
+T2	Organization 277 288	Pininfarina
+N1	Reference T1 wiki:371643	Alfa Romeo
+N2	Reference T2 wiki:1574788	Pininfarina
+A1	IsLink T2

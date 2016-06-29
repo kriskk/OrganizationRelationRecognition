@@ -1,0 +1,6 @@
+T1	Organization 0 7	Xstrata
+T2	Organization 221 233	Falconbridge
+N1	Reference T1 wiki:205929	Xstrata
+N2	Reference T2 wiki:205882	Falconbridge
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

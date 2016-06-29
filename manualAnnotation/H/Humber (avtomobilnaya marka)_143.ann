@@ -1,0 +1,22 @@
+T1	Organization 0 28	Humber (автомобильная марка)
+T2	Organization 243 268	Hillman Motor Car Company
+T3	Organization 358 361	PSA
+T4	Organization 473 480	Hillman
+T5	Organization 489 495	Talbot
+T6	Organization 601 609	Chrysler
+N1	Reference T1 wiki:2287343	Humber (автомобильная марка)
+N2	Reference T2 wiki:4154653	Hillman
+N3	Reference T3 wiki:226616	PSA Peugeot Citroën
+N4	Reference T4 wiki:4154653	Hillman
+N5	Reference T5 wiki:830160	Talbot
+N6	Reference T6 wiki:223902	Chrysler
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Subsidiary
+A7	TypeRel T3 Holder
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Holder

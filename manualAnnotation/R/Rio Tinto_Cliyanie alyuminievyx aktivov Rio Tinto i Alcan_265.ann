@@ -1,0 +1,8 @@
+T1	Organization 0 9	Rio Tinto
+T2	Organization 370 385	Rio Tinto Alcan
+T3	Organization 508 527	Российский алюминий
+N1	Reference T1 wiki:144043	Rio Tinto
+N2	Reference T2 wiki:728716	Rio Tinto Alcan
+N3	Reference T3 wiki:598084	Российский алюминий
+A1	IsLink T2
+A2	TypeRel T3 Competitor

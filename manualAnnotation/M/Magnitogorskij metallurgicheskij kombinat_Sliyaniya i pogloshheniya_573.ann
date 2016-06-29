@@ -1,0 +1,5 @@
+T1	Organization 0 40	Магнитогорский металлургический комбинат
+T2	Organization 308 319	ОАО «Белон»
+N1	Reference T1 wiki:54824	Магнитогорский металлургический комбинат
+N2	Reference T2 wiki:171213	Белон
+A1	TypeRel T2 Subsidiary

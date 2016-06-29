@@ -1,0 +1,6 @@
+T1	Organization 0 26	Мальцовский портландцемент
+T2	Organization 155 170	Евроцемент груп
+N1	Reference T1 wiki:1288963	Мальцовский портландцемент
+N2	Reference T2 wiki:172003	Евроцемент груп
+A1	IsLink T2
+A2	TypeRel T2 Holder

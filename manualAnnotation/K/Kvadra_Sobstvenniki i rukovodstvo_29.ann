@@ -1,0 +1,6 @@
+T1	Organization 0 6	Квадра
+T2	Organization 195 209	Группа ОНЭКСИМ
+N1	Reference T1 wiki:786485	Квадра
+N2	Reference T2 wiki:1526001	Группа ОНЭКСИМ
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,17 @@
+T1	Organization 0 7	Daimler
+T2	Organization 221 262	Mitsubishi Fuso Truck and Bus Corporation
+T3	Organization 314 366	European Aeronautic Defence and Space Company (EADS)
+T4	Organization 395 400	КАМАЗ
+T5	Organization 410 422	Tesla Motors
+T6	Organization 431 446	Tata Motors Ltd
+N1	Reference T1 wiki:39716	Daimler
+N2	Reference T2 wiki:266596	Mitsubishi Fuso Truck and Bus Corporation
+N3	Reference T3 wiki:39833	EADS
+N4	Reference T4 wiki:169714	КАМАЗ
+N5	Reference T5 wiki:1884088	Tesla Motors
+N6	Reference T6 wiki:962083	Tata Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

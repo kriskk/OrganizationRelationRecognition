@@ -1,0 +1,5 @@
+T1	Organization 0 32	Салым Петролеум Девелопмент Н.В.
+T2	Organization 294 300	«Шелл»
+N1	Reference T1 wiki:3451909	Салым Петролеум Девелопмент Н.В.
+N2	Reference T2 wiki:167625	Royal Dutch Shell
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 31	Концерн «Моринформсистема-Агат»
+T2	Organization 411 424	Завод «Салют»
+N1	Reference T1 wiki:2335928	Концерн «Моринформсистема-Агат»
+N2	Reference T2 wiki:2531925	Научно-производственное предприятие «Салют»
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,10 @@
+T1	Organization 0 13	General Line!
+T2	Organization 99 102	РЖД
+T3	Organization 105 110	Alcoa
+N1	Reference T1 wiki:4268688	General Line!
+N2	Reference T2 wiki:106901	РЖД
+N3	Reference T3 wiki:527770	Alcoa
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

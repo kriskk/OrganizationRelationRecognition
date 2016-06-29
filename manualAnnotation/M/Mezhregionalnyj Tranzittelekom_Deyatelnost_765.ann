@@ -1,0 +1,6 @@
+T1	Organization 0 30	Межрегиональный Транзиттелеком
+T2	Organization 322 333	 Гипросвязь
+N1	Reference T1 wiki:638758	Межрегиональный Транзиттелеком
+N2	Reference T2 wiki:3983551	Гипросвязь
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

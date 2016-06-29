@@ -1,0 +1,5 @@
+T1	Organization 0 10	Macromedia
+T2	Organization 238 243	Adobe
+N1	Reference T1 wiki:42935	Macromedia
+N2	Reference T2 wiki:42937	Adobe
+A1	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 9	ВИЗ-Сталь
+T2	Organization 289 329	Новолипецким металлургическим комбинатом
+N1	Reference T1 wiki:1758411	ВИЗ-Сталь
+N2	Reference T2 wiki:143594	НЛМК
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 33	Ленинградский металлический завод
+T2	Organization 225 245	ОАО «Силовые машины»
+N1	Reference T1 wiki:754719	Ленинградский металлический завод
+N2	Reference T2 wiki:143652	Силовые машины
+A1	IsLink T2
+A2	TypeRel T2 Holder

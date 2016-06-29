@@ -1,0 +1,10 @@
+T1	Organization 0 13	Группа Синара
+T2	Organization 116 163	Уральский завод железнодорожного машиностроения
+T3	Organization 251 289	Уральский дизель-моторный завод (УДМЗ)
+N1	Reference T1 wiki:2398160	Группа Синара
+N2	Reference T2 wiki:3209622	Уральский завод железнодорожного машиностроения
+N3	Reference T3 wiki:1753172	Уральский дизель-моторный завод (УДМЗ)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

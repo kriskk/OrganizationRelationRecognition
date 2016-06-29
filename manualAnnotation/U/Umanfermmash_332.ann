@@ -1,0 +1,6 @@
+T1	Organization 0 12	Уманьферммаш
+T2	Organization 269 321	Мариупольский металлургический комбинат имени Ильича
+N1	Reference T1 wiki:2006697	Уманьферммаш
+N2	Reference T2 wiki:123990	Мариупольский металлургический комбинат имени Ильича
+A1	IsLink T2
+A2	TypeRel T2 Holder

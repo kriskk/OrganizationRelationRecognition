@@ -1,0 +1,10 @@
+T1	Organization 0 13	Криворожсталь
+T2	Organization 290 315	System Capital Management
+T3	Organization 358 367	Интерпайп
+N1	Reference T1 wiki:95226	Криворожсталь
+N2	Reference T2 wiki:36184	System Capital Management
+N3	Reference T3 wiki:652297	Интерпайп
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

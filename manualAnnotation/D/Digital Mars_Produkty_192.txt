@@ -1,0 +1,8 @@
+Digital Mars
+@Продукты
+162,192
+
+	 Digital Mars C/C++ compiler — компилятор языков Си и C++ для Windows, способный также создавать программы для DOS. В различное время был известен под другими именами, такими как Datalight C compiler, Zorland C, Zortech C, Zortech C++, Symantec C++ (в хронологическом порядке).
+	 DMDScript — реализация языка сценариев ECMAScript.
+
+

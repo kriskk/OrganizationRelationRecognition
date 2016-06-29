@@ -1,0 +1,9 @@
+T1	Organization 0 22	Промышленные инвесторы
+T2	Organization 186 221	Дальневосточное морское пароходство
+T3	Organization 475 489	Трансконтейнер
+N1	Reference T1 wiki:179233	Промышленные инвесторы
+N2	Reference T2 wiki:149752	Дальневосточное морское пароходство
+N3	Reference T3 wiki:167133	Трансконтейнер
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Subsidiary

@@ -1,0 +1,9 @@
+T1	Organization 0 25	Корзинка (сеть магазинов)
+T2	Organization 114 129	X5 Retail Group
+T3	Organization 505 509	ЮКОС
+N1	Reference T1 wiki:1272042	Корзинка (сеть магазинов)
+N2	Reference T2 wiki:353293	X5 Retail Group
+N3	Reference T3 wiki:6032	ЮКОС
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

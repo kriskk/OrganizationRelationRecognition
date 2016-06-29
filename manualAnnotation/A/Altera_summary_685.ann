@@ -1,0 +1,11 @@
+T1	Organization 0 6	Altera
+T2	Organization 218 224	Xilinx
+T3	Organization 277 298	Lattice Semiconductor
+T4	Organization 301 306	Actel
+N1	Reference T1 wiki:885080	Altera
+N2	Reference T2 wiki:741134	Xilinx
+N3	Reference T3 wiki:528641	Lattice Semiconductor
+N4	Reference T4 wiki:1080918	Actel
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

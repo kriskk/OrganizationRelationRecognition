@@ -1,0 +1,11 @@
+T1	Organization 0 31	Советское Дунайское пароходство
+T2	Organization 250 255	ÖSWAG
+T3	Organization 377 382	ÖSWAG
+T4	Organization 487 492	ÖSWAG
+N1	Reference T1 wiki:4143969	Советское Дунайское пароходство
+N2	Reference T2 wiki:3426511	Österreichische Schiffswerften AG
+N3	Reference T3 wiki:3426511	Österreichische Schiffswerften AG
+N4	Reference T4 wiki:3426511	Österreichische Schiffswerften AG
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

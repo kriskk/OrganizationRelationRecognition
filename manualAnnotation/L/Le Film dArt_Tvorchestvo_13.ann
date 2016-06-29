@@ -1,0 +1,11 @@
+T1	Organization 0 13	Le Film d'Art
+T2	Organization 192 196	Пате
+T3	Organization 247 251	Пате
+T4	Organization 338 342	Пате
+N1	Reference T1 wiki:1013174	Le Film d'Art
+N2	Reference T2 wiki:1000945	Pathé
+N3	Reference T3 wiki:1000945	Pathé
+N4	Reference T4 wiki:1000945	Pathé
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

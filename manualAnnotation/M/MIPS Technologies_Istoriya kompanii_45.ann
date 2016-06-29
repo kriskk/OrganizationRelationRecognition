@@ -1,0 +1,5 @@
+T1	Organization 0 17	MIPS Technologies
+T2	Organization 219 235	Silicon Graphics
+N1	Reference T1 wiki:4203174	MIPS Technologies
+N2	Reference T2 wiki:136151	Silicon Graphics
+A1	TypeRel T2 Cooperator

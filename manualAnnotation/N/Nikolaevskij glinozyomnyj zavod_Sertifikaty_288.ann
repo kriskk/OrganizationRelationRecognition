@@ -1,0 +1,5 @@
+T1	Organization 0 30	Николаевский глинозёмный завод
+T2	Organization 278 296	Det Norske Veritas
+N1	Reference T1 wiki:707750	Николаевский глинозёмный завод
+N2	Reference T2 wiki:3436655	Det Norske Veritas
+A1	TypeRel T2 Other

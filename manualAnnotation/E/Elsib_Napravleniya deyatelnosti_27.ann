@@ -1,0 +1,5 @@
+T1	Organization 0 5	Элсиб
+T2	Organization 248 260	НПО «Сатурн»
+N1	Reference T1 wiki:2868530	Элсиб
+N2	Reference T2 wiki:233902	Сатурн (НПО)
+A1	IsLink T2

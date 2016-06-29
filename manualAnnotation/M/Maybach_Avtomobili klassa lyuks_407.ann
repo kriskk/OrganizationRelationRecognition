@@ -1,0 +1,5 @@
+T1	Organization 0 7	Maybach
+T2	Organization 209 215	Spyker
+N1	Reference T1 wiki:40392	Maybach
+N2	Reference T2 wiki:1569539	Spyker
+A1	TypeRel T2 Cooperator

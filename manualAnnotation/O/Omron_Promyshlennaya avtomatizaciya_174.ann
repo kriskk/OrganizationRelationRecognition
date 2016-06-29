@@ -1,0 +1,10 @@
+T1	Organization 0 5	Omron
+T2	Organization 333 352	Rockwell Automation
+T3	Organization 355 362	Siemens
+N1	Reference T1 wiki:984827	Omron
+N2	Reference T2 wiki:743730	Rockwell Automation
+N3	Reference T3 wiki:36510	Siemens
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

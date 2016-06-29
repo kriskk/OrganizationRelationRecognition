@@ -1,0 +1,5 @@
+T1	Organization 0 8	Cosworth
+T2	Organization 251 269	Ford Motor Company
+N1	Reference T1 wiki:664377	Cosworth
+N2	Reference T2 wiki:153236	Ford Motor Company
+A1	IsLink T2

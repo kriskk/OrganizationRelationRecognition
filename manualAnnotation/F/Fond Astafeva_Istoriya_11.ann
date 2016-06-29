@@ -1,0 +1,5 @@
+T1	Organization 0 14	Фонд Астафьева
+T2	Organization 227 234	«РУСАЛ»
+N1	Reference T1 wiki:2770383	Фонд Астафьева
+N2	Reference T2 wiki:598084	РУСАЛ
+A1	IsLink T2

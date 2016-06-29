@@ -1,0 +1,9 @@
+T1	Organization 0 33	Red Digital Cinema Camera Company
+T2	Organization 227 232	Nikon
+T3	Organization 234 239	Canon
+N1	Reference T1 wiki:1820204	Red Digital Cinema Camera Company
+N2	Reference T2 wiki:147658	Nikon
+N3	Reference T3 wiki:53435	Canon
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

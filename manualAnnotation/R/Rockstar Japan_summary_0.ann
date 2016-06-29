@@ -1,0 +1,10 @@
+T1	Organization 0 14	Rockstar Japan
+T2	Organization 115 129	Rockstar Games
+T3	Organization 159 165	Capcom
+N1	Reference T1 wiki:2327403	Rockstar Japan
+N2	Reference T2 wiki:650156	Rockstar Games
+N3	Reference T3 wiki:714415	Capcom
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

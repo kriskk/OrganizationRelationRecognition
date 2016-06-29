@@ -1,0 +1,6 @@
+T1	Organization 0 22	Мотовилихинские заводы
+T2	Organization 203 212	ЗАО «СКБ»
+N1	Reference T1 wiki:165559	Мотовилихинские заводы
+N2	Reference T2 wiki:165559	ОКБ-172
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

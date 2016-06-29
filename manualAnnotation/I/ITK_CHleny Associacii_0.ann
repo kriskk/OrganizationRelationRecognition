@@ -1,0 +1,10 @@
+T1	Organization 0 3	ITK
+T2	Organization 167 186	ТОО «Arta Software»
+T3	Organization 210 222	АО «ЛОГИКОМ»
+N1	Reference T1 wiki:3471765	ITK
+N2	Reference T2 wiki:2615913	ARTA Software
+N3	Reference T3 wiki:1938704	Логиком
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

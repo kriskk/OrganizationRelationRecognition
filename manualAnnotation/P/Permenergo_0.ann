@@ -1,0 +1,6 @@
+T1	Organization 0 10	Пермэнерго
+T2	Organization 84 94	МРСК Урала
+N1	Reference T1 wiki:1961707	Пермэнерго
+N2	Reference T2 wiki:1808298	МРСК Урала
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,17 @@
+T1	Organization 0 7	Газпром
+T2	Organization 190 196	«Шелл»
+T3	Organization 198 205	«Мицуи»
+T4	Organization 208 218	«Мицубиси»
+T5	Organization 263 280	«Сахалин Энерджи»
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:167625	Royal Dutch Shell
+N3	Reference T3 wiki:3113519	Mitsui
+N4	Reference T4 wiki:182989	Mitsubishi
+N5	Reference T5 wiki:1400493	Sakhalin Energy
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator
+A7	TypeRel T5 Holder

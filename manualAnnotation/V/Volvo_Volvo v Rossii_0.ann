@@ -1,0 +1,6 @@
+T1	Organization 0 5	Volvo
+T2	Organization 167 179	Совтрансавто
+N1	Reference T1 wiki:387781	Volvo
+N2	Reference T2 wiki:2564214	Совтрансавто
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

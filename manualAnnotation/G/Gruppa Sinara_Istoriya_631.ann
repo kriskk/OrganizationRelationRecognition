@@ -1,0 +1,6 @@
+T1	Organization 0 13	Группа Синара
+T2	Organization 237 247	Siemens AG
+N1	Reference T1 wiki:2398160	Группа Синара
+N2	Reference T2 wiki:36510	Siemens
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,9 @@
+T1	Organization 0 15	Вобис Компьютер
+T2	Organization 177 200	Gigabyte Communications
+T3	Organization 216 235	Gigabyte Technology
+N1	Reference T1 wiki:3201662	Вобис Компьютер
+N2	Reference T2 wiki:2333186	Gigabyte Communications
+N3	Reference T3 wiki:1265773	Gigabyte Technology
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

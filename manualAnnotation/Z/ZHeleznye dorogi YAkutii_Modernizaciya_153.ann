@@ -1,0 +1,10 @@
+T1	Organization 0 22	Железные дороги Якутии
+T2	Organization 277 293	General Electric
+T3	Organization 781 807	Кировского машзавода 1 мая
+N1	Reference T1 wiki:558408	Железные дороги Якутии
+N2	Reference T2 wiki:13762	General Electric
+N3	Reference T3 wiki:1613313	Кировский машзавод 1 Мая
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 18	Черкасский автобус
+T2	Organization 149 152	ПАЗ
+N1	Reference T1 wiki:546122	Черкасский автобус
+N2	Reference T2 wiki:97930	Павловский автобус
+A1	IsLink T2

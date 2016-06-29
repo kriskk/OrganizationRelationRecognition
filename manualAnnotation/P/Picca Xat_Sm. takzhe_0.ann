@@ -1,0 +1,17 @@
+T1	Organization 0 9	Пицца Хат
+T2	Organization 53 64	Yum! Brands
+T3	Organization 67 73	Subway
+T4	Organization 76 87	Burger King
+T5	Organization 90 104	Domino's Pizza
+T6	Organization 107 120	Golden corral
+N1	Reference T1 wiki:1270413	Пицца Хат
+N2	Reference T2 wiki:206472	Yum! Brands
+N3	Reference T3 wiki:463082	Subway (сеть ресторанов)
+N4	Reference T4 wiki:196541	Burger King
+N5	Reference T5 wiki:1553825	Domino's Pizza
+N6	Reference T6 wiki:1853949	Golden corral
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

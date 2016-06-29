@@ -1,0 +1,17 @@
+T1	Organization 0 10	Минсктранс
+T2	Organization 238 244	Тролза
+T3	Organization 246 249	ЗИУ
+T4	Organization 403 415	Белкоммунмаш
+T5	Organization 419 422	МАЗ
+N1	Reference T1 wiki:2207812	Минсктранс
+N2	Reference T2 wiki:372018	Тролза
+N3	Reference T3 wiki:372018	ЗИУ
+N4	Reference T4 wiki:154763	Белкоммунмаш
+N5	Reference T5 wiki:33218	МАЗ
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator
+A7	TypeRel T5 Cooperator

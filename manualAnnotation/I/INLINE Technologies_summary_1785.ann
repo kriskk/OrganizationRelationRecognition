@@ -1,0 +1,29 @@
+T1	Organization 0 19	INLINE Technologies
+T2	Organization 200 213	Cisco Systems
+T3	Organization 221 224	EMC
+T4	Organization 230 246	Juniper Networks
+T5	Organization 248 251	IBM
+T6	Organization 533 546	Ростехнологии
+T7	Organization 554 561	ЕвроХим
+T8	Organization 638 647	Уралкалий
+N1	Reference T1 wiki:2870798	INLINE Technologies
+N2	Reference T2 wiki:25014	Cisco Systems
+N3	Reference T3 wiki:541503	EMC
+N4	Reference T4 wiki:320144	Juniper Networks
+N5	Reference T5 wiki:11078	IBM
+N6	Reference T6 wiki:915063	Ростехнологии
+N7	Reference T7 wiki:376551	ЕвроХим
+N8	Reference T8 wiki:153726	Уралкалий
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A1	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 12	Парма Мобайл
+T2	Organization 133 138	Tele2
+T3	Organization 445 452	МегаФон
+N1	Reference T1 wiki:120247	Парма Мобайл
+N2	Reference T2 wiki:162980	Tele2
+N3	Reference T3 wiki:70933	МегаФон
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Competitor

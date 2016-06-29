@@ -1,0 +1,6 @@
+T1	Organization 0 6	Nissan
+T2	Organization 178 185	Renault
+N1	Reference T1 wiki:159586	Nissan
+N2	Reference T2 wiki:586472	Renault
+A1	IsLink T2
+A2	TypeRel T2 Holder

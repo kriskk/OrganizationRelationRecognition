@@ -1,0 +1,20 @@
+T1	Organization 0 15	Palm (компания)
+T2	Organization 322 327	Casio
+T3	Organization 710 723	U.S. Robotics
+T4	Organization 944 954	Handspring
+T5	Organization 1058 1064	NASDAQ
+T6	Organization 1259 1268	Microsoft
+N1	Reference T1 wiki:128188	Palm (компания)
+N2	Reference T2 wiki:620224	Casio
+N3	Reference T3 wiki:626416	U.S. Robotics
+N4	Reference T4 wiki:131326	Handspring
+N5	Reference T5 wiki:63813	NASDAQ
+N6	Reference T6 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T3 Holder
+A7	TypeRel T4 Personnel
+A8	TypeRel T5 Other

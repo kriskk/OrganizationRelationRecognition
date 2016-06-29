@@ -1,0 +1,6 @@
+T1	Organization 0 9	Getronics
+T2	Organization 258 267	Capgemini
+N1	Reference T1 wiki:3077109	Getronics
+N2	Reference T2 wiki:1710523	Capgemini
+A1	IsLink T2
+A2	TypeRel T2 Other

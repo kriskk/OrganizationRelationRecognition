@@ -1,0 +1,5 @@
+T1	Organization 0 8	Novartis
+T2	Organization 375 381	Nestle
+N1	Reference T1 wiki:1018931	Novartis
+N2	Reference T2 wiki:121355	Nestle
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 13	Стройпрогресс
+T2	Organization 318 325	Газпром
+T3	Organization 732 739	Газпром
+N1	Reference T1 wiki:4399573	Стройпрогресс
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:44754	Газпром
+A1	IsLink T2
+A2	IsLink T3

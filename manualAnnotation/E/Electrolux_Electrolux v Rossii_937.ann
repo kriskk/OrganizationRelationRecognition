@@ -1,0 +1,5 @@
+T1	Organization 0 10	Electrolux
+T2	Organization 404 410	Snaige
+N1	Reference T1 wiki:153686	Electrolux
+N2	Reference T2 wiki:452951	Snaige
+A1	IsLink T2

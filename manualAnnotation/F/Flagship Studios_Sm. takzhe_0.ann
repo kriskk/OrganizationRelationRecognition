@@ -1,0 +1,8 @@
+T1	Organization 0 16	Flagship Studios
+T2	Organization 49 63	Blizzard North
+T3	Organization 66 88	Blizzard Entertainment
+N1	Reference T1 wiki:2501777	Flagship Studios
+N2	Reference T2 wiki:1704379	Blizzard North
+N3	Reference T3 wiki:202669	Blizzard Entertainment
+A1	IsLink T2
+A2	IsLink T3

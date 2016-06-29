@@ -1,0 +1,13 @@
+T1	Organization 0 9	Гипрошахт
+T2	Organization 380 390	MAN TAKRAF
+T3	Organization 392 404	ThyssenKrupp
+T4	Organization 414 430	General Electric
+N1	Reference T1 wiki:4261226	Гипрошахт
+N2	Reference T2 wiki:2494082	TAKRAF
+N3	Reference T3 wiki:166657	ThyssenKrupp
+N4	Reference T4 wiki:13762	General Electric
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

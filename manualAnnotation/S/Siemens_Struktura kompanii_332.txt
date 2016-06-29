@@ -1,0 +1,14 @@
+Siemens
+@Современное положение
+@Структура компании
+45454,452,332
+
+	 Департамент Imaging & Therapy Systems
+		 Департамент Clinical Products
+		 Департамент Diagnostics
+		 Департамент Customer Solutions
+		 Siemens Audiologische Technik GmbH
+	 Сектор Industry
+	 Департамент Industry Automation
+		 Департамент Drive Technologies
+		 Департамент Customer Services

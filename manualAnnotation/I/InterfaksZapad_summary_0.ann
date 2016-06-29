@@ -1,0 +1,5 @@
+T1	Organization 0 15	Интерфакс-Запад
+T2	Organization 136 165	Interfax Information Services
+N1	Reference T1 wiki:1569488	Интерфакс-Запад
+N2	Reference T2 wiki:109215	Интерфакс
+A1	TypeRel T2 Holder

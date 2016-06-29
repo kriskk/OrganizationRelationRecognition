@@ -1,0 +1,13 @@
+T1	Organization 0 12	ВСМПО-АВИСМА
+T2	Organization 303 311	«Ростех»
+T3	Organization 351 364	Ростехнологии
+T4	Organization 504 513	Safran SA
+N1	Reference T1 wiki:140530	ВСМПО-АВИСМА
+N2	Reference T2 wiki:915063	Ростехнологии
+N3	Reference T3 wiki:915063	Ростехнологии
+N4	Reference T4 wiki:1015576	Safran SA
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T4 Cooperator

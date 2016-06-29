@@ -1,0 +1,5 @@
+T1	Organization 0 16	Hotchkiss et Cie
+T2	Organization 147 153	Thales
+N1	Reference T1 wiki:4185771	Hotchkiss et Cie
+N2	Reference T2 wiki:601175	Thales
+A1	TypeRel T2 Holder

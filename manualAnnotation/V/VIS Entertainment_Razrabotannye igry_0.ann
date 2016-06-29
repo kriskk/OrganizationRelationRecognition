@@ -1,0 +1,34 @@
+T1	Organization 0 17	VIS Entertainment
+T2	Organization 168 182	Rockstar Games
+T3	Organization 184 207	Interplay Entertainment
+T4	Organization 272 278	Mattel
+T5	Organization 291 298	Ubisoft
+T6	Organization 541 555	Rockstar Games
+T7	Organization 624 627	THQ
+T8	Organization 717 724	Ubisoft
+T9	Organization 842 854	Midway Games
+N1	Reference T1 wiki:2942364	VIS Entertainment
+N2	Reference T2 wiki:650156	Rockstar Games
+N3	Reference T3 wiki:87238	Interplay Entertainment
+N4	Reference T4 wiki:197959	Mattel
+N5	Reference T5 wiki:650139	Ubisoft
+N6	Reference T6 wiki:650156	Rockstar Games
+N7	Reference T7 wiki:795069	THQ
+N8	Reference T8 wiki:650139	Ubisoft
+N9	Reference T9 wiki:2428144	Midway Games
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

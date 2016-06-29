@@ -1,0 +1,14 @@
+T1	Organization 0 6	Helixe
+T2	Organization 73 76	THQ
+T3	Organization 154 162	Nintendo
+T4	Organization 418 421	THQ
+N1	Reference T1 wiki:1947893	Helixe
+N2	Reference T2 wiki:795069	THQ
+N3	Reference T3 wiki:202486	Nintendo
+N4	Reference T4 wiki:795069	THQ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Holder

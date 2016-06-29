@@ -1,0 +1,8 @@
+T1	Organization 0 30	Тяжпромэлектропроект Волгоград
+T2	Organization 279 286	Газпром
+T3	Organization 338 353	Красный Октябрь
+N1	Reference T1 wiki:344841	Тяжпромэлектропроект Волгоград
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:373669	Красный Октябрь (завод)
+A1	IsLink T2
+A2	IsLink T3

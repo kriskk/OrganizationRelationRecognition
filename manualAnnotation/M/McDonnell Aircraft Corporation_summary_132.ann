@@ -1,0 +1,10 @@
+T1	Organization 0 30	McDonnell Aircraft Corporation
+T2	Organization 245 269	Douglas Aircraft Company
+T3	Organization 300 317	McDonnell Douglas
+N1	Reference T1 wiki:4295735	McDonnell Aircraft Corporation
+N2	Reference T2 wiki:4294726	Douglas Aircraft Company
+N3	Reference T3 wiki:87592	McDonnell Douglas
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Merge
+A4	TypeRel T3 Holder

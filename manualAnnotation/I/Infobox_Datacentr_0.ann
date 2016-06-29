@@ -1,0 +1,6 @@
+T1	Organization 0 7	Infobox
+T2	Organization 162 167	Cisco
+N1	Reference T1 wiki:2852033	Infobox
+N2	Reference T2 wiki:25014	Cisco
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

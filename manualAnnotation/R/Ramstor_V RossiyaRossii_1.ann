@@ -1,0 +1,8 @@
+T1	Organization 0 7	Рамстор
+T2	Organization 203 209	Migros
+T3	Organization 212 216	Enka
+N1	Reference T1 wiki:2936111	Рамстор
+N2	Reference T2 wiki:253343	Migros
+N3	Reference T3 wiki:180366	Enka
+A1	IsLink T2
+A2	IsLink T3

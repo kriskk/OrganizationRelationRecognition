@@ -1,0 +1,9 @@
+T1	Organization 0 29	Казахстанские железные дороги
+T2	Organization 190 196	Делойт
+T3	Organization 228 252	АО «ФНБ „Самрук-Казына“»
+N1	Reference T1 wiki:2769916	Казахстанские железные дороги
+N2	Reference T2 wiki:143428	Делойт
+N3	Reference T3 wiki:1680328	Самрук-Казына
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Holder

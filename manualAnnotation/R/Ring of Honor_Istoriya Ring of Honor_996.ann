@@ -1,0 +1,5 @@
+T1	Organization 0 13	Ring of Honor
+T2	Organization 306 309	TNA
+N1	Reference T1 wiki:4072703	Ring of Honor
+N2	Reference T2 wiki:1560583	Total Nonstop Action Wrestling
+A1	IsLink T2

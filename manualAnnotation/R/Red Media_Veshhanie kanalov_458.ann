@@ -1,0 +1,37 @@
+T1	Organization 0 9	Ред Медиа
+T2	Organization 232 237	АКАДО
+T3	Organization 287 310	Северо-Западный Телеком
+T4	Organization 316 330	Синтерра Медиа
+T5	Organization 367 373	Уфанет
+T6	Organization 378 398	Центральный телеграф
+T7	Organization 404 414	ЭР-Телеком
+T8	Organization 420 423	ЮТК
+T9	Organization 428 439	Триколор ТВ
+T10	Organization 464 472	НТВ-Плюс
+N1	Reference T1 wiki:1938031	Ред Медиа
+N2	Reference T2 wiki:807312	АКАДО
+N3	Reference T3 wiki:159172	Северо-Западный Телеком
+N4	Reference T4 wiki:2599146	Синтерра Медиа
+N5	Reference T5 wiki:1698468	Уфанет
+N6	Reference T6 wiki:1404588	Центральный телеграф
+N7	Reference T7 wiki:1494558	ЭР-Телеком
+N8	Reference T8 wiki:283742	ЮТК
+N9	Reference T9 wiki:1320142	Триколор ТВ
+N10	Reference T10 wiki:723124	НТВ-Плюс
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A1	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator
+A17	TypeRel T10 Cooperator

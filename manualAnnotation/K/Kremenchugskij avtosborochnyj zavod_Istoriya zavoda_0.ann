@@ -1,0 +1,5 @@
+T1	Organization 0 33	Кременчугский автосборочный завод
+T2	Organization 148 179	Горьковский автомобильный завод
+N1	Reference T1 wiki:3337915	Кременчугский автосборочный завод
+N2	Reference T2 wiki:25060	Горьковский автомобильный завод
+A1	TypeRel T2 Subsidiary

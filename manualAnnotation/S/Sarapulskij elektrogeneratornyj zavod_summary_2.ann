@@ -1,0 +1,20 @@
+T1	Organization 0 38	Сарапульский электрогенераторный завод
+T2	Organization 264 278	ОАО "РСК «МиГ»
+T3	Organization 280 291	ОАО «Сухой»
+T4	Organization 293 308	ОАО НПК «Иркут»
+T5	Organization 310 322	ОАО «КнААПО»
+T6	Organization 324 341	ЗАО «Авиастар-СП»
+T7	Organization 343 353	ОАО «ВАСО»
+N1	Reference T1 wiki:4238343	Сарапульский электрогенераторный завод
+N2	Reference T2 wiki:26999	МиГ (компания)
+N3	Reference T3 wiki:164779	Сухой (компания)
+N4	Reference T4 wiki:143159	Иркут (компания)
+N5	Reference T5 wiki:386682	Комсомольское-на-Амуре авиационное производственное объединение имени Ю. А. Гагарина
+N6	Reference T6 wiki:746275	Авиастар-СП
+N7	Reference T7 wiki:143197	Воронежское акционерное самолётостроительное общество
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

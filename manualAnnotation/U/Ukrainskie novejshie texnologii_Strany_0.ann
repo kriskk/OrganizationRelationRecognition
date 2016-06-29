@@ -1,0 +1,5 @@
+T1	Organization 0 30	Украинские новейшие технологии
+T2	Organization 122 133	Интерпроект
+N1	Reference T1 wiki:2165515	Украинские новейшие технологии
+N2	Reference T2 wiki:2165406	Интерпроект
+A1	IsLink T2

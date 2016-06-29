@@ -1,0 +1,17 @@
+T1	Organization 0 24	Canadian Pacific Railway
+T2	Organization 224 249	Montreal Locomotive Works
+T3	Organization 450 453	CLC
+T4	Organization 531 533	GE
+T5	Organization 616 620	ALCO
+T6	Organization 630 633	BLW
+N1	Reference T1 wiki:1981378	Canadian Pacific Railway
+N2	Reference T2 wiki:2107702	Montreal Locomotive Works
+N3	Reference T3 wiki:1850141	Canadian Locomotive Company
+N4	Reference T4 wiki:4242818	GE Transportation Systems
+N5	Reference T5 wiki:1851708	American Locomotive Company
+N6	Reference T6 wiki:1849101	Baldwin Locomotive Works
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

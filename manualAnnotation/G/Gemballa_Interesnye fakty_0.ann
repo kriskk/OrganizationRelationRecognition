@@ -1,0 +1,5 @@
+T1	Organization 0 8	Gemballa
+T2	Organization 113 120	Porsche
+N1	Reference T1 wiki:1989737	Gemballa
+N2	Reference T2 wiki:403194	Porsche
+A1	IsLink T2

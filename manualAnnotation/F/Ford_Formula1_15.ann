@@ -1,0 +1,11 @@
+T1	Organization 0 4	Ford
+T2	Organization 192 200	Cosworth
+T3	Organization 387 395	Cosworth
+T4	Organization 544 554	Lotus Cars
+N1	Reference T1 wiki:153236	Ford
+N2	Reference T2 wiki:664377	Cosworth
+N3	Reference T3 wiki:664377	Cosworth
+N4	Reference T4 wiki:748115	Lotus Cars
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

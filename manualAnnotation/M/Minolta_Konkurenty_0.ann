@@ -1,0 +1,22 @@
+T1	Organization 0 7	Minolta
+T2	Organization 42 47	Canon
+T3	Organization 50 55	Nikon
+T4	Organization 58 72	Asahi (Pentax)
+T5	Organization 75 82	Olympus
+T6	Organization 85 92	Samsung
+N1	Reference T1 wiki:286279	Minolta
+N2	Reference T2 wiki:53435	Canon
+N3	Reference T3 wiki:147658	Nikon
+N4	Reference T4 wiki:703109	Pentax
+N5	Reference T5 wiki:703489	Olympus
+N6	Reference T6 wiki:125537	Samsung
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Competitor
+A7	TypeRel T3 Competitor
+A8	TypeRel T4 Competitor
+A9	TypeRel T5 Competitor
+A10	TypeRel T6 Competitor

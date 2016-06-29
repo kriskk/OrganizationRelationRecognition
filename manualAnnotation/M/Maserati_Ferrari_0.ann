@@ -1,0 +1,13 @@
+T1	Organization 0 8	Maserati
+T2	Organization 62 66	FIAT
+T3	Organization 134 141	Феррари
+T4	Organization 186 190	FIAT
+N1	Reference T1 wiki:453192	Maserati
+N2	Reference T2 wiki:91784	FIAT
+N3	Reference T3 wiki:124051	Ferrari S.p.A.
+N4	Reference T4 wiki:91784	FIAT
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder

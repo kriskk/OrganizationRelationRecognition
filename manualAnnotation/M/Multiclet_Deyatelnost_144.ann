@@ -1,0 +1,5 @@
+T1	Organization 0 9	Multiclet
+T2	Organization 220 236	Рособоронэкспорт
+N1	Reference T1 wiki:2658302	Multiclet
+N2	Reference T2 wiki:171221	Рособоронэкспорт
+A1	TypeRel T2 Cooperator

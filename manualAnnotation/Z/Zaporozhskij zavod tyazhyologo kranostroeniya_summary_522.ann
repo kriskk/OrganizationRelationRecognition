@@ -1,0 +1,6 @@
+T1	Organization 0 40	Запорожский завод тяжёлого краностроения
+T2	Organization 285 295	Konecranes
+N1	Reference T1 wiki:2484588	Запорожский завод тяжёлого краностроения
+N2	Reference T2 wiki:1955034	Konecranes
+A1	IsLink T2
+A2	TypeRel T2 Holder

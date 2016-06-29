@@ -1,0 +1,5 @@
+T1	Organization 0 11	DoubleClick
+T2	Organization 164 178	America Online
+N1	Reference T1 wiki:626664	DoubleClick
+N2	Reference T2 wiki:610576	America Online
+A1	IsLink T2

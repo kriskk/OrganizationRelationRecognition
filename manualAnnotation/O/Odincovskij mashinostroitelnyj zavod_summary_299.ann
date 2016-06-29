@@ -1,0 +1,5 @@
+T1	Organization 0 36	Одинцовский машиностроительный завод
+T2	Organization 277 285	«СУ-155»
+N1	Reference T1 wiki:2597507	Одинцовский машиностроительный завод
+N2	Reference T2 wiki:167163	СУ-155
+A1	TypeRel T2 Cooperator

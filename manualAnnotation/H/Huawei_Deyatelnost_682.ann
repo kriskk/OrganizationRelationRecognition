@@ -1,0 +1,25 @@
+T1	Organization 0 6	Huawei
+T2	Organization 291 305	Vodafone Group
+T3	Organization 307 315	BT Group
+T4	Organization 317 331	Telecom Italia
+T5	Organization 333 347	France Telecom
+T6	Organization 349 359	Telefonica
+T7	Organization 361 377	Deutsche Telekom
+N1	Reference T1 wiki:908840	Huawei
+N2	Reference T2 wiki:213703	Vodafone Group
+N3	Reference T3 wiki:14276	BT Group
+N4	Reference T4 wiki:358181	Telecom Italia
+N5	Reference T5 wiki:373577	France Telecom
+N6	Reference T6 wiki:377249	Telefonica
+N7	Reference T7 wiki:169094	Deutsche Telekom AG
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator
+A11	TypeRel T7 Cooperator

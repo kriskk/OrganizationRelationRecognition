@@ -1,0 +1,5 @@
+T1	Organization 0 24	Голография (предприятие)
+T2	Organization 261 266	ЕДАПС
+N1	Reference T1 wiki:2940765	Голография (предприятие)
+N2	Reference T2 wiki:2938047	ЕДАПС
+A1	TypeRel T2 Holder

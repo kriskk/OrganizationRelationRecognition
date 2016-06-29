@@ -1,0 +1,5 @@
+T1	Organization 0 8	Softengi
+T2	Organization 218 227	Microsoft
+N1	Reference T1 wiki:4380034	Softengi
+N2	Reference T2 wiki:11987	Microsoft
+A1	IsLink T2

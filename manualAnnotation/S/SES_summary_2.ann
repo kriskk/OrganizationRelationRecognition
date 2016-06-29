@@ -1,0 +1,5 @@
+T1	Organization 0 3	SES
+T2	Organization 175 204	Люксембургской фондовой бирже
+N1	Reference T1 wiki:3771576	SES
+N2	Reference T2 wiki:626632	Люксембургская фондовая биржа
+A1	IsLink T2

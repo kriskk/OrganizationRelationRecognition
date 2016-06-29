@@ -1,0 +1,6 @@
+T1	Organization 0 6	Huawei
+T2	Organization 40 87	Huawei Symantec — СП компаний Huawei и Symantec
+N1	Reference T1 wiki:908840	Huawei
+N2	Reference T2 wiki:1635595	Huawei Symantec
+A1	IsLink T2
+A2	TypeRel T2 Alias

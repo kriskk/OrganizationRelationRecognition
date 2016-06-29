@@ -1,0 +1,5 @@
+T1	Organization 0 18	Kojima Productions
+T2	Organization 141 147	Konami
+N1	Reference T1 wiki:3869670	Kojima Productions
+N2	Reference T2 wiki:747952	Konami
+A1	TypeRel T2 Holder

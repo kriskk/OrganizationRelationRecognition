@@ -1,0 +1,6 @@
+T1	Organization 0 28	Электромаш (Нижний Новгород)
+T2	Organization 244 263	завода имени Ленина
+N1	Reference T1 wiki:4024624	Электромаш (Нижний Новгород)
+N2	Reference T2 wiki:1207479	Нител
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

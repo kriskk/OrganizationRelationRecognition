@@ -1,0 +1,8 @@
+T1	Organization 0 12	Agfa-Gevaert
+T2	Organization 81 85	BASF
+T3	Organization 318 322	BASF
+N1	Reference T1 wiki:877920	Agfa-Gevaert
+N2	Reference T2 wiki:122826	BASF
+N3	Reference T3 wiki:122826	BASF
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 8	Евросеть
+T2	Organization 307 313	Ультра
+T3	Organization 556 568	Альт Телеком
+N1	Reference T1 wiki:168895	Евросеть
+N2	Reference T2 wiki:167660	Ультра (сеть магазинов)
+N3	Reference T3 wiki:371786	Альт Телеком
+A1	IsLink T2
+A2	IsLink T3

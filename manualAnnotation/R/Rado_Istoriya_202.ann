@@ -1,0 +1,5 @@
+T1	Organization 0 4	Rado
+T2	Organization 215 227	Swatch Group
+N1	Reference T1 wiki:1052474	Rado
+N2	Reference T2 wiki:214233	Swatch Group
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 4	Atac
+T2	Organization 119 135	Groupe Auchan SA
+N1	Reference T1 wiki:2613797	Atac
+N2	Reference T2 wiki:1324090	Auchan
+A1	IsLink T2

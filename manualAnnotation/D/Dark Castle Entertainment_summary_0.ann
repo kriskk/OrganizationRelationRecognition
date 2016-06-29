@@ -1,0 +1,8 @@
+T1	Organization 0 25	Dark Castle Entertainment
+T2	Organization 92 107	Silver Pictures
+T3	Organization 136 148	Warner Bros.
+N1	Reference T1 wiki:3071112	Dark Castle Entertainment
+N2	Reference T2 wiki:3071682	Silver Pictures
+N3	Reference T3 wiki:272386	Warner Bros.
+A1	IsLink T2
+A2	IsLink T3

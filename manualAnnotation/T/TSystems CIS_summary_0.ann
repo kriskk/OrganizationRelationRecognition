@@ -1,0 +1,5 @@
+T1	Organization 0 13	T-Systems CIS
+T2	Organization 91 107	Deutsche Telekom
+N1	Reference T1 wiki:3048318	T-Systems CIS
+N2	Reference T2 wiki:169094	Deutsche Telekom
+A1	IsLink T2

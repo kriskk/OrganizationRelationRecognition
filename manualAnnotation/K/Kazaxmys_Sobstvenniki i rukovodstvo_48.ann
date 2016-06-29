@@ -1,0 +1,5 @@
+T1	Organization 0 8	Казахмыс
+T2	Organization 297 351	АО «Фонд национального благосостояния „Самрук-Казына“»
+N1	Reference T1 wiki:1301026	Казахмыс
+N2	Reference T2 wiki:1680328	Самрук-Казына
+A1	TypeRel T2 Holder

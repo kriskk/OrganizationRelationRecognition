@@ -1,0 +1,6 @@
+T1	Organization 0 57	Ярославский электровозоремонтный завод имени Б. П. Бещева
+T2	Organization 214 226	Желдорреммаш
+N1	Reference T1 wiki:146368	Ярославский электровозоремонтный завод имени Б. П. Бещева
+N2	Reference T2 wiki:2647229	Желдорреммаш
+A1	IsLink T2
+A2	TypeRel T2 Holder

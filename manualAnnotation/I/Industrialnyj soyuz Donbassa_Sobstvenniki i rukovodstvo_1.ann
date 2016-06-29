@@ -1,0 +1,10 @@
+T1	Organization 0 28	Индустриальный союз Донбасса
+T2	Organization 220 225	Евраз
+T3	Organization 614 623	Газметалл
+N1	Reference T1 wiki:535207	Индустриальный союз Донбасса
+N2	Reference T2 wiki:77382	Евраз
+N3	Reference T3 wiki:301665	Газметалл
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Merge

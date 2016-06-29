@@ -1,0 +1,14 @@
+Nordea
+@Дочерние банки
+2092,0
+
+
+Дочерние банки
+
+ Nordea Bank Danmark A/S
+	 Nordea Bank Estonia
+	 Nordea Bank Finland Abp / Nordea Pankki Suomi Oyj
+	 Nordea Bank Latvia
+	 Nordea Bank Lietuva
+	 Nordea Bank Norge ASA
+	 Nordea Bank Polska S.

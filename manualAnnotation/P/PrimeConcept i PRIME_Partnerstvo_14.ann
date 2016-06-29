@@ -1,0 +1,6 @@
+T1	Organization 0 20	PrimeConcept и PRIME
+T2	Organization 229 241	Crocus Group
+N1	Reference T1 wiki:3232767	PrimeConcept и PRIME
+N2	Reference T2 wiki:1649462	Crocus Group
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

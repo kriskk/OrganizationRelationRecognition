@@ -1,0 +1,5 @@
+T1	Organization 0 5	Nokia
+T2	Organization 94 103	Microsoft
+N1	Reference T1 wiki:56405	Nokia
+N2	Reference T2 wiki:11987	Microsoft
+A1	TypeRel T2 Cooperator

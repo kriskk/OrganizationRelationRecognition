@@ -1,0 +1,5 @@
+T1	Organization 0 5	COSCO
+T2	Organization 38 58	China Shipping Group
+N1	Reference T1 wiki:3735605	COSCO
+N2	Reference T2 wiki:252180	China Shipping Group
+A1	IsLink T2

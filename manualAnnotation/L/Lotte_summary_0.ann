@@ -1,0 +1,6 @@
+T1	Organization 0 5	Lotte
+T2	Organization 150 167	Lotte Shopping Co
+N1	Reference T1 wiki:988769	Lotte
+N2	Reference T2 wiki:209348	Lotte Shopping
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 29	Ирбитский мотоциклетный завод
+T2	Organization 236 239	BMW
+N1	Reference T1 wiki:99117	Ирбитский мотоциклетный завод
+N2	Reference T2 wiki:40368	BMW
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 18	Hearst Corporation
+T2	Organization 300 322	Hearst Television Inc.
+T3	Organization 536 547	Arbor House
+N1	Reference T1 wiki:2733693	Hearst Corporation
+N2	Reference T2 wiki:2736748	Hearst Television Inc.
+N3	Reference T3 wiki:2718195	Arbor House
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Subsidiary

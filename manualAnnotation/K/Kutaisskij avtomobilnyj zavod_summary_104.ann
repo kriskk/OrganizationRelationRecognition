@@ -1,0 +1,6 @@
+T1	Organization 0 30	Кутаисский автомобильный завод
+T2	Organization 270 273	ЗИС
+N1	Reference T1 wiki:2253760	Кутаисский автомобильный завод
+N2	Reference T2 wiki:259988	ЗИС
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

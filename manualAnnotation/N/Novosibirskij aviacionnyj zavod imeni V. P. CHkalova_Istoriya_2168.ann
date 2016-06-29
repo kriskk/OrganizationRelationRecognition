@@ -1,0 +1,6 @@
+T1	Organization 0 51	Новосибирский авиационный завод имени В. П. Чкалова
+T2	Organization 300 322	ОАО «Компания „Сухой“»
+N1	Reference T1 wiki:2388976	Новосибирский авиационный завод имени В. П. Чкалова
+N2	Reference T2 wiki:164779	Сухой (компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 10	PetroChina
+T2	Organization 221 225	CNPC
+N1	Reference T1 wiki:375875	PetroChina
+N2	Reference T2 wiki:355554	CNPC
+A1	IsLink T2
+A2	TypeRel T2 Holder

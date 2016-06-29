@@ -1,0 +1,5 @@
+T1	Organization 0 15	Virgin Galactic
+T2	Organization 73 85	Virgin Group
+N1	Reference T1 wiki:2160159	Virgin Galactic
+N2	Reference T2 wiki:250912	Virgin Group
+A1	TypeRel T2 Holder

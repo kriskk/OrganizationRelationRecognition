@@ -1,0 +1,5 @@
+T1	Organization 0 25	Уральский турбинный завод
+T2	Organization 248 254	Ренова
+N1	Reference T1 wiki:1223996	Уральский турбинный завод
+N2	Reference T2 wiki:158879	Ренова
+A1	TypeRel T2 Holder

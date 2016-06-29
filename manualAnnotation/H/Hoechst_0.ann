@@ -1,0 +1,6 @@
+T1	Organization 0 7	Hoechst
+T2	Organization 150 164	Sanofi-Aventis
+N1	Reference T1 wiki:1433713	Hoechst
+N2	Reference T2 wiki:1469482	Sanofi-Aventis
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,8 @@
+T1	Organization 0 13	Криворожсталь
+T2	Organization 303 317	«Mittal Steel»
+T3	Organization 487 494	Arcelor
+N1	Reference T1 wiki:95226	Криворожсталь
+N2	Reference T2 wiki:142956	Mittal Steel
+N3	Reference T3 wiki:142970	Arcelor
+A2	IsLink T3
+A1	TypeRel T2 Holder

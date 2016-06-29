@@ -1,0 +1,5 @@
+T1	Organization 0 22	Renault Samsung Motors
+T2	Organization 198 205	Renault
+N1	Reference T1 wiki:3719064	Renault Samsung Motors
+N2	Reference T2 wiki:586472	Renault
+A1	TypeRel T2 Holder

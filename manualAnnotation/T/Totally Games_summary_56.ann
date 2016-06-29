@@ -1,0 +1,5 @@
+T1	Organization 0 13	Totally Games
+T2	Organization 268 277	LucasArts
+N1	Reference T1 wiki:656789	Totally Games
+N2	Reference T2 wiki:367933	LucasArts
+A1	IsLink T2

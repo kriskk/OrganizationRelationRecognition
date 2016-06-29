@@ -1,0 +1,5 @@
+T1	Organization 0 19	Банк'с софт системс
+T2	Organization 399 411	РА «Эксперт»
+N1	Reference T1 wiki:1080287	Банк'с софт системс
+N2	Reference T2 wiki:363296	Эксперт РА
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 7	Moeller
+T2	Organization 178 195	Eaton Corporation
+N1	Reference T1 wiki:934693	Moeller
+N2	Reference T2 wiki:1039999	Eaton Corporation
+A1	IsLink T2
+A2	TypeRel T2 Holder

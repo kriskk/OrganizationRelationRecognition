@@ -1,0 +1,8 @@
+T1	Organization 0 12	Почта России
+T2	Organization 449 452	DHL
+T3	Organization 455 458	UPS
+N1	Reference T1 wiki:234849	Почта России
+N2	Reference T2 wiki:209951	DHL
+N3	Reference T3 wiki:1122885	United Parcel Service
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 16	3dfx Interactive
+T2	Organization 301 309	Nintendo
+N1	Reference T1 wiki:239320	3dfx Interactive
+N2	Reference T2 wiki:202486	Nintendo
+A1	IsLink T2

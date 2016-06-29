@@ -1,0 +1,6 @@
+T1	Organization 0 19	Межрегионэнергосбыт
+T2	Organization 150 183	Тюменская энергосбытовая компания
+N1	Reference T1 wiki:2682166	Межрегионэнергосбыт
+N2	Reference T2 wiki:1284739	Тюменская энергосбытовая компания
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

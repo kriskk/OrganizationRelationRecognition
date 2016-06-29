@@ -1,0 +1,5 @@
+T1	Organization 0 8	Chunsoft
+T2	Organization 167 171	Enix
+N1	Reference T1 wiki:2413898	Chunsoft
+N2	Reference T2 wiki:2414804	Enix
+A1	IsLink T2

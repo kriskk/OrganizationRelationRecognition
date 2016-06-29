@@ -1,0 +1,5 @@
+T1	Organization 0 7	МегаФон
+T2	Organization 193 199	Яндекс
+N1	Reference T1 wiki:70933	МегаФон
+N2	Reference T2 wiki:9744	Яндекс
+A1	IsLink T2

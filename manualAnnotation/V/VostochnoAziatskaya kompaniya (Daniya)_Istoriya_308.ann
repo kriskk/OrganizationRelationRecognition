@@ -1,0 +1,6 @@
+T1	Organization 0 35	Восточно-Азиатская компания (Дания)
+T2	Organization 265 300	Русское Восточно-Азиатское общество
+N1	Reference T1 wiki:1620698	Восточно-Азиатская компания (Дания)
+N2	Reference T2 wiki:1621788	Русское Восточно-Азиатское общество (1899)
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

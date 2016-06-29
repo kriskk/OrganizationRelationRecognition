@@ -1,0 +1,8 @@
+T1	Organization 0 6	Cbonds
+T2	Organization 236 240	ПФТС
+T3	Organization 270 294	Luxemburg Stock Exchange
+N1	Reference T1 wiki:3333114	Cbonds
+N2	Reference T2 wiki:769045	ПФТС
+N3	Reference T3 wiki:626632	Люксембургская фондовая биржа
+A1	IsLink T2
+A2	IsLink T3

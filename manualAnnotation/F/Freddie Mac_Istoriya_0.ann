@@ -1,0 +1,5 @@
+T1	Organization 0 11	Freddie Mac
+T2	Organization 137 147	Fannie Mae
+N1	Reference T1 wiki:1316238	Freddie Mac
+N2	Reference T2 wiki:377590	Fannie Mae
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Газпром
+T2	Organization 539 549	Майкрософт
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:11987	Майкрософт
+A1	IsLink T2

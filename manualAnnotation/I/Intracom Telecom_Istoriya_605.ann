@@ -1,0 +1,5 @@
+T1	Organization 0 16	Intracom Telecom
+T2	Organization 349 368	ОАО "АФК «Система»"
+N1	Reference T1 wiki:656715	Intracom Telecom
+N2	Reference T2 wiki:158888	Система (группа)
+A1	TypeRel T2 Holder

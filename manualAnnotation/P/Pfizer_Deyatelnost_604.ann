@@ -1,0 +1,9 @@
+T1	Organization 0 6	Pfizer
+T2	Organization 201 204	GSK
+T3	Organization 214 219	Roche
+N1	Reference T1 wiki:275429	Pfizer
+N2	Reference T2 wiki:300698	GSK
+N3	Reference T3 wiki:1761800	Roche
+A2	IsLink T3
+A1	TypeRel T2 Competitor
+A3	TypeRel T3 Competitor

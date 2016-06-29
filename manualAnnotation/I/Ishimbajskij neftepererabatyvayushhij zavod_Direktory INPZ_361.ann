@@ -1,0 +1,6 @@
+T1	Organization 0 39	Ишимбайский нефтеперерабатывающий завод
+T2	Organization 236 241	ИСХЗК
+N1	Reference T1 wiki:3287353	Ишимбайский нефтеперерабатывающий завод
+N2	Reference T2 wiki:3175861	ИСХЗК
+A1	IsLink T2
+A2	TypeRel T2 Personnel

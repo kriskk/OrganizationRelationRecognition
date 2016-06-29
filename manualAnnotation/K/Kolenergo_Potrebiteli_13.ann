@@ -1,0 +1,13 @@
+T1	Organization 0 9	Колэнерго
+T2	Organization 182 222	Кольская горно-металлургическая компания
+T3	Organization 270 310	Ковдорский горно-обогатительный комбинат
+T4	Organization 313 325	ОАО «Апатит»
+N1	Reference T1 wiki:3019506	Колэнерго
+N2	Reference T2 wiki:2634782	Кольская горно-металлургическая компания
+N3	Reference T3 wiki:3029611	Ковдорский горно-обогатительный комбинат
+N4	Reference T4 wiki:3017626	Апатит (предприятие)
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

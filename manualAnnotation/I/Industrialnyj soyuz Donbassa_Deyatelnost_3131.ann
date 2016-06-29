@@ -1,0 +1,5 @@
+T1	Organization 0 28	Индустриальный союз Донбасса
+T2	Organization 269 274	Евраз
+N1	Reference T1 wiki:535207	Индустриальный союз Донбасса
+N2	Reference T2 wiki:77382	Евраз
+A1	IsLink T2

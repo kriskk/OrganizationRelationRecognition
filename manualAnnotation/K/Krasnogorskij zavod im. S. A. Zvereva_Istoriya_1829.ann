@@ -1,0 +1,5 @@
+T1	Organization 0 37	Красногорский завод им. С. А. Зверева
+T2	Organization 340 343	ГОИ
+N1	Reference T1 wiki:104113	Красногорский завод им. С. А. Зверева
+N2	Reference T2 wiki:541450	Государственный оптический институт
+A1	TypeRel T2 Cooperator

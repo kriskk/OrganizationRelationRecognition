@@ -1,0 +1,8 @@
+T1	Organization 0 22	Story First Production
+T2	Organization 157 167	КостаФильм
+T3	Organization 258 268	Костафильм
+N1	Reference T1 wiki:3721033	Story First Production
+N2	Reference T2 wiki:1910492	КостаФильм
+N3	Reference T3 wiki:1910492	Костафильм
+A1	IsLink T2
+A2	IsLink T3

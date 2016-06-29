@@ -1,0 +1,8 @@
+T1	Organization 0 6	Toyota
+T2	Organization 136 144	Daihatsu
+T3	Organization 147 158	Hino Motors
+N1	Reference T1 wiki:42689	Toyota
+N2	Reference T2 wiki:237199	Daihatsu
+N3	Reference T3 wiki:266538	Hino Motors
+A1	IsLink T2
+A2	IsLink T3

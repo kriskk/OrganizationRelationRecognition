@@ -1,0 +1,9 @@
+T1	Organization 0 24	Game Factory Interactive
+T2	Organization 118 130	GFI Software
+T3	Organization 304 314	Руссобит-М
+N1	Reference T1 wiki:774390	Game Factory Interactive
+N2	Reference T2 wiki:553851	GFI Software
+N3	Reference T3 wiki:992525	Руссобит-М
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Merge

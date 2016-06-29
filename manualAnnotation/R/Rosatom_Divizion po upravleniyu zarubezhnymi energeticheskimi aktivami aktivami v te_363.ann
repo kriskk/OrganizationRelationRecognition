@@ -1,0 +1,11 @@
+T1	Organization 0 7	Росатом
+T2	Organization 431 436	ОГК-1
+T3	Organization 519 526	Газпром
+T4	Organization 532 543	КЭС-холдинг
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:586231	ОГК-1
+N3	Reference T3 wiki:44754	Газпром
+N4	Reference T4 wiki:160412	КЭС-холдинг
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

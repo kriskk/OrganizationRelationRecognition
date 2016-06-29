@@ -1,0 +1,5 @@
+T1	Organization 0 8	La Poste
+T2	Organization 82 89	GeoPost
+N1	Reference T1 wiki:1232735	La Poste
+N2	Reference T2 wiki:342590	GeoPost
+A1	IsLink T2

@@ -1,0 +1,10 @@
+T1	Organization 0 12	Кьюби Финанс
+T2	Organization 274 277	ЛСР
+T3	Organization 350 356	NASDAQ
+N1	Reference T1 wiki:4399566	Кьюби Финанс
+N2	Reference T2 wiki:177298	ЛСР
+N3	Reference T3 wiki:63813	NASDAQ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Other

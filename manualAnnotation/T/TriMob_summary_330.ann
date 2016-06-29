@@ -1,0 +1,11 @@
+T1	Organization 0 6	ТриМоб
+T2	Organization 201 213	«Укртелеком»
+T3	Organization 225 229	AT&T
+T4	Organization 237 253	Deutsche Telekom
+N1	Reference T1 wiki:1807420	ТриМоб
+N2	Reference T2 wiki:376992	Укртелеком
+N3	Reference T3 wiki:162994	AT&T
+N4	Reference T4 wiki:169094	Deutsche Telekom
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

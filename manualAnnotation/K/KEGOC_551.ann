@@ -1,0 +1,6 @@
+T1	Organization 0 5	KEGOC
+T2	Organization 179 203	АО «ФНБ „Самрук-Казына“»
+N1	Reference T1 wiki:3287548	KEGOC
+N2	Reference T2 wiki:1680328	Самрук-Казына
+A1	IsLink T2
+A2	TypeRel T2 Holder

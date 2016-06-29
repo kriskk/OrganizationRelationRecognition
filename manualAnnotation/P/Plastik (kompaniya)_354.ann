@@ -1,0 +1,5 @@
+T1	Organization 0 18	Пластик (компания)
+T2	Organization 207 220	СИБУР Холдинг
+N1	Reference T1 wiki:3769138	Пластик (компания)
+N2	Reference T2 wiki:144869	СИБУР Холдинг
+A1	TypeRel T2 Holder

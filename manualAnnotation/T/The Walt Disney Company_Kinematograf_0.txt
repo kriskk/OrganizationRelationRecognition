@@ -1,0 +1,19 @@
+The Walt Disney Company
+@Подразделения
+@Развлекательное подразделение
+@Кинематограф
+17598,22,18418,0
+
+
+Кинематограф
+
+Buena Vista Motion Pictures Group это группа основных киностудий компании Уолта Диснея, который включает:
+ Walt Disney Pictures
+	 Disney Nature
+	 Marvel Studios 
+	 Lucasfilm 
+	 Touchstone Pictures (не под брендом «Disney»)
+	 DreamWorks SKG (не под брендом «Disney»)
+	 Hollywood Pictures (не под брендом «Disney»)
+
+

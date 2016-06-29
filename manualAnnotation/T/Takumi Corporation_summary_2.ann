@@ -1,0 +1,11 @@
+T1	Organization 0 18	Takumi Corporation
+T2	Organization 222 229	Toaplan
+T3	Organization 282 286	Cave
+T4	Organization 288 300	8ing/Raizing
+N1	Reference T1 wiki:1734797	Takumi Corporation
+N2	Reference T2 wiki:1639366	Toaplan
+N3	Reference T3 wiki:1716901	Cave (компания)
+N4	Reference T4 wiki:1718274	8ing/Raizing
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

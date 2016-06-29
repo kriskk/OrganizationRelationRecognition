@@ -1,0 +1,14 @@
+T1	Organization 0 37	NV Ingenieurskantoor voor Scheepsbouw
+T2	Organization 273 284	«AG Vulcan»
+T3	Organization 286 301	«Germaniawerft»
+T4	Organization 312 322	«AG Weser»
+N1	Reference T1 wiki:2261918	NV Ingenieurskantoor voor Scheepsbouw
+N2	Reference T2 wiki:2165535	AG Vulcan Stettin
+N3	Reference T3 wiki:2040614	Германия (верфь)
+N4	Reference T4 wiki:1039910	AG Weser
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

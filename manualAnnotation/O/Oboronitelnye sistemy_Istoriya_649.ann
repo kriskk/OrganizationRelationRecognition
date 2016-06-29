@@ -1,0 +1,14 @@
+T1	Organization 0 22	Оборонительные системы
+T2	Organization 285 296	МКБ "Факел"
+T3	Organization 298 309	ЦКБ "Алмаз"
+T4	Organization 348 378	Нижегородский НИИ радиотехники
+T5	Organization 380 418	Лианозовский электромеханический завод
+N1	Reference T1 wiki:2848714	Оборонительные системы
+N2	Reference T2 wiki:1280435	МКБ "Факел"
+N3	Reference T3 wiki:662454	Алмаз-Антей (ГСКБ)
+N4	Reference T4 wiki:661428	Нижегородский НИИ радиотехники
+N5	Reference T5 wiki:1531001	Лианозовский электромеханический завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

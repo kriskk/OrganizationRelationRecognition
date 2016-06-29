@@ -1,0 +1,6 @@
+T1	Organization 0 22	Sony Creative Software
+T2	Organization 87 91	Sony
+N1	Reference T1 wiki:2192489	Sony Creative Software
+N2	Reference T2 wiki:73019	Sony
+A1	IsLink T2
+A2	TypeRel T2 Holder

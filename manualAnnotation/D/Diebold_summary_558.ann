@@ -1,0 +1,5 @@
+T1	Organization 0 7	Diebold
+T2	Organization 233 236	IBM
+N1	Reference T1 wiki:1405033	Diebold
+N2	Reference T2 wiki:11078	IBM
+A1	IsLink T2

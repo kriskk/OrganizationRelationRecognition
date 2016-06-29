@@ -1,0 +1,14 @@
+T1	Organization 0 25	Моховский угольный разрез
+T2	Organization 268 297	Кузбасская топливная компания
+T3	Organization 379 396	Новосибирскэнерго
+T4	Organization 422 435	Кузбассэнерго
+N1	Reference T1 wiki:2266246	Моховский угольный разрез
+N2	Reference T2 wiki:2414369	Кузбасская топливная компания
+N3	Reference T3 wiki:349518	Новосибирскэнерго
+N4	Reference T4 wiki:197901	Кузбассэнерго
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

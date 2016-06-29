@@ -1,0 +1,5 @@
+T1	Organization 0 9	Radvision
+T2	Organization 375 380	Avaya
+N1	Reference T1 wiki:3473064	Radvision
+N2	Reference T2 wiki:685464	Avaya
+A1	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 3	OBI
+T2	Organization 177 193	Tengelmann Group
+N1	Reference T1 wiki:149772	OBI
+N2	Reference T2 wiki:4154183	Tengelmann Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

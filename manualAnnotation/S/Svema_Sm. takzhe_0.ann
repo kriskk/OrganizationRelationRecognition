@@ -1,0 +1,5 @@
+T1	Organization 0 5	Свема
+T2	Organization 76 81	Тасма
+N1	Reference T1 wiki:380761	Свема
+N2	Reference T2 wiki:3907149	Тасма
+A1	IsLink T2

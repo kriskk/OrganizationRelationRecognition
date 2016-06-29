@@ -1,0 +1,5 @@
+T1	Organization 0 27	Алтын Асыр (оператор связи)
+T2	Organization 254 268	Туркментелеком
+N1	Reference T1 wiki:2534369	Алтын Асыр (оператор связи)
+N2	Reference T2 wiki:2534362	Туркментелеком
+A1	IsLink T2

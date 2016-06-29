@@ -1,0 +1,6 @@
+T1	Organization 0 7	Netezza
+T2	Organization 294 297	IBM
+N1	Reference T1 wiki:3952151	Netezza
+N2	Reference T2 wiki:11078	IBM
+A1	IsLink T2
+A2	TypeRel T2 Holder

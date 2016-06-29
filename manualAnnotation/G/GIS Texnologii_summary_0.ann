@@ -1,0 +1,6 @@
+T1	Organization 0 14	ГИС Технологии
+T2	Organization 87 93	Яндекс
+N1	Reference T1 wiki:3451335	ГИС Технологии
+N2	Reference T2 wiki:9744	Яндекс
+A1	IsLink T2
+A2	TypeRel T2 Holder

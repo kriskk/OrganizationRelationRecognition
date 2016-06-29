@@ -1,0 +1,5 @@
+T1	Organization 0 9	De Tomaso
+T2	Organization 201 209	Maserati
+N1	Reference T1 wiki:2882688	De Tomaso
+N2	Reference T2 wiki:453192	Maserati
+A1	IsLink T2

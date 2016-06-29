@@ -1,0 +1,6 @@
+T1	Organization 0 7	Росатом
+T2	Organization 287 297	ОАО «ТВЭЛ»
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:214333	ТВЭЛ (компания)
+A1	IsLink T2
+A2	TypeRel T2 Personnel

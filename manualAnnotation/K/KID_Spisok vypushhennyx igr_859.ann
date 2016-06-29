@@ -1,0 +1,6 @@
+T1	Organization 0 3	KID
+T2	Organization 196 206	Game Freak
+N1	Reference T1 wiki:4005450	KID
+N2	Reference T2 wiki:3283547	Game Freak
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,14 @@
+T1	Organization 0 11	Группа ЧТПЗ
+T2	Organization 129 158	Челябинского цинкового завода
+T3	Organization 181 222	Уральской горно-металлургической компании
+T4	Organization 225 248	Русской медной компании
+N1	Reference T1 wiki:224472	Группа ЧТПЗ
+N2	Reference T2 wiki:293963	Челябинский цинковый завод
+N3	Reference T3 wiki:171944	Уральская горно-металлургическая компания
+N4	Reference T4 wiki:359916	Русская медная компания
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

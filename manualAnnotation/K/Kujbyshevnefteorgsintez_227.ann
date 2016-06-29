@@ -1,0 +1,6 @@
+T1	Organization 0 22	Куйбышевнефтеоргсинтез
+T2	Organization 178 195	ОАО НК «Роснефть»
+N1	Reference T1 wiki:988816	Куйбышевнефтеоргсинтез
+N2	Reference T2 wiki:139770	Роснефть
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 23	Кристалл (ПО, Смоленск)
+T2	Organization 300 307	Де Бирс
+N1	Reference T1 wiki:1435378	Кристалл (ПО, Смоленск)
+N2	Reference T2 wiki:542580	De Beers
+A1	TypeRel T2 Cooperator

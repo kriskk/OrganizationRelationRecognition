@@ -1,0 +1,13 @@
+T1	Organization 0 12	Желдорреммаш
+T2	Organization 202 247	Улан-Удэнский локомотивовагоноремонтный завод
+T3	Organization 250 287	Уссурийский локомотиворемонтный завод
+T4	Organization 331 369	Ярославский электровозоремонтный завод
+N1	Reference T1 wiki:2647229	Желдорреммаш
+N2	Reference T2 wiki:148863	Улан-Удэнский локомотивовагоноремонтный завод
+N3	Reference T3 wiki:139048	Уссурийский локомотиворемонтный завод
+N4	Reference T4 wiki:146368	Ярославский электровозоремонтный завод
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary

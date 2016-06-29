@@ -1,0 +1,50 @@
+T1	Organization 0 12	Walden Media
+T2	Organization 119 139	Walt Disney Pictures
+T3	Organization 168 188	Walt Disney Pictures
+T4	Organization 228 251	Lionsgate Entertainment
+T5	Organization 298 318	Walt Disney Pictures
+T6	Organization 362 378	20th Century Fox
+T7	Organization 448 468	Walt Disney Pictures
+T8	Organization 501 516	New Line Cinema
+T9	Organization 565 580	New Line Cinema
+T10	Organization 701 717	20th Century Fox
+T11	Organization 757 777	Walt Disney Pictures
+T12	Organization 850 870	Walt Disney Pictures
+T13	Organization 1109 1125	20th Century Fox
+N1	Reference T1 wiki:1733863	Walden Media
+N2	Reference T2 wiki:323330	Walt Disney Pictures
+N3	Reference T3 wiki:323330	Walt Disney Pictures
+N4	Reference T4 wiki:1671889	Lionsgate
+N5	Reference T5 wiki:323330	Walt Disney Pictures
+N6	Reference T6 wiki:272376	20th Century Fox
+N7	Reference T7 wiki:323330	Walt Disney Pictures
+N8	Reference T8 wiki:273482	New Line Cinema
+N9	Reference T9 wiki:273482	New Line Cinema
+N10	Reference T10 wiki:272376	20th Century Fox
+N11	Reference T11 wiki:323330	Walt Disney Pictures
+N12	Reference T12 wiki:323330	Walt Disney Pictures
+N13	Reference T13 wiki:272376	20th Century Fox
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	TypeRel T2 Cooperator
+A14	TypeRel T3 Cooperator
+A15	TypeRel T4 Cooperator
+A16	TypeRel T5 Cooperator
+A17	TypeRel T6 Cooperator
+A18	TypeRel T7 Cooperator
+A19	TypeRel T8 Cooperator
+A20	TypeRel T9 Cooperator
+A21	TypeRel T10 Cooperator
+A22	TypeRel T11 Cooperator
+A23	TypeRel T12 Cooperator
+A24	TypeRel T13 Cooperator

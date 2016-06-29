@@ -1,0 +1,6 @@
+T1	Organization 0 41	Уральская горно-металлургическая компания
+T2	Organization 110 128	Кузбассразрезуголь
+N1	Reference T1 wiki:171944	Уральская горно-металлургическая компания
+N2	Reference T2 wiki:171189	Кузбассразрезуголь
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

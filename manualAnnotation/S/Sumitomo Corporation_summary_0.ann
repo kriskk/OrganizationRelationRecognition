@@ -1,0 +1,5 @@
+T1	Organization 0 20	Sumitomo Corporation
+T2	Organization 114 122	Sumitomo
+N1	Reference T1 wiki:2076372	Sumitomo Corporation
+N2	Reference T2 wiki:1813036	Sumitomo Group
+A1	IsLink T2

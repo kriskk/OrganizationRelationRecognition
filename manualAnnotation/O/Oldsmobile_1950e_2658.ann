@@ -1,0 +1,8 @@
+T1	Organization 0 10	Oldsmobile
+T2	Organization 200 204	Ford
+T3	Organization 468 472	Ford
+N1	Reference T1 wiki:1464817	Oldsmobile
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:153236	Ford
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,17 @@
+T1	Organization 0 18	Энерджи Консалтинг
+T2	Organization 395 398	SAP
+T3	Organization 400 404	Sage
+T4	Organization 406 408	HP
+T5	Organization 410 419	Microsoft
+T6	Organization 434 440	Oracle
+N1	Reference T1 wiki:2870648	Энерджи Консалтинг
+N2	Reference T2 wiki:81959	SAP
+N3	Reference T3 wiki:3004892	Sage Group
+N4	Reference T4 wiki:89988	Hewlett-Packard
+N5	Reference T5 wiki:11987	Microsoft
+N6	Reference T6 wiki:129227	Oracle Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

@@ -1,0 +1,8 @@
+T1	Organization 0 8	Арсагера
+T2	Organization 338 343	КАМАЗ
+T3	Organization 357 372	Вимм-Билль-Данн
+N1	Reference T1 wiki:1767756	Арсагера
+N2	Reference T2 wiki:169714	КАМАЗ
+N3	Reference T3 wiki:160926	Вимм-Билль-Данн
+A1	IsLink T2
+A2	IsLink T3

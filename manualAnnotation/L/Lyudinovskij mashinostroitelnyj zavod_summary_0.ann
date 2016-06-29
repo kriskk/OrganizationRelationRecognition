@@ -1,0 +1,6 @@
+T1	Organization 0 36	Людиновский машиностроительный завод
+T2	Organization 104 133	«Калужский завод «Ремпутьмаш»
+N1	Reference T1 wiki:2119206	Людиновский машиностроительный завод
+N2	Reference T2 wiki:1994657	Калужский завод Ремпутьмаш
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 15	Vickers Limited
+T2	Organization 262 282	John Brown & Company
+N1	Reference T1 wiki:4416613	Vickers Limited
+N2	Reference T2 wiki:3610926	John Brown & Company
+A1	TypeRel T2 Cooperator

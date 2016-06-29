@@ -1,0 +1,8 @@
+T1	Organization 0 13	China Telecom
+T2	Organization 216 228	China Netcom
+T3	Organization 249 261	China Unicom
+N1	Reference T1 wiki:3661466	China Telecom
+N2	Reference T2 wiki:3663198	China Netcom
+N3	Reference T3 wiki:2862529	China Unicom
+A1	IsLink T2
+A2	IsLink T3

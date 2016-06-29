@@ -1,0 +1,5 @@
+T1	Organization 0 6	Fender
+T2	Organization 195 210	Jackson Guitars
+N1	Reference T1 wiki:387353	Fender
+N2	Reference T2 wiki:1128712	Jackson Guitars
+A1	IsLink T2

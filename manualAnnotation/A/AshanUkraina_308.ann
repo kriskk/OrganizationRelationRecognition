@@ -1,0 +1,5 @@
+T1	Organization 0 12	Ашан-Украина
+T2	Organization 177 193	Groupe Auchan SA
+N1	Reference T1 wiki:2095974	Ашан-Украина
+N2	Reference T2 wiki:1324090	Groupe Auchan SA
+A1	IsLink T2

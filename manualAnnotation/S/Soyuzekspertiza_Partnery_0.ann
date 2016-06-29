@@ -1,0 +1,5 @@
+T1	Organization 0 14	Союзэкспертиза
+T2	Organization 124 134	Союзпатент
+N1	Reference T1 wiki:1992838	Союзэкспертиза
+N2	Reference T2 wiki:3896039	Союзпатент
+A1	IsLink T2

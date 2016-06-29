@@ -1,0 +1,6 @@
+T1	Organization 0 17	Google (компания)
+T2	Organization 255 269	Morgan Stanley
+N1	Reference T1 wiki:265	Google (компания)
+N2	Reference T2 wiki:612532	Morgan Stanley
+A1	IsLink T2
+A2	TypeRel T2 Other

@@ -1,0 +1,10 @@
+T1	Organization 0 8	Интурист
+T2	Organization 122 135	АФК «Система»
+T3	Organization 352 363	Thomas Cook
+N1	Reference T1 wiki:606499	Интурист
+N2	Reference T2 wiki:158888	АФК «Система»
+N3	Reference T3 wiki:785230	Thomas Cook
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

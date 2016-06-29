@@ -1,0 +1,6 @@
+T1	Organization 0 12	Phelps Dodge
+T2	Organization 75 91	Freeport-McMoRan
+N1	Reference T1 wiki:241874	Phelps Dodge
+N2	Reference T2 wiki:1891118	Freeport-McMoRan
+A1	IsLink T2
+A2	TypeRel T2 Holder

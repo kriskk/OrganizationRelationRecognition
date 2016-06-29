@@ -1,0 +1,11 @@
+T1	Organization 0 15	Jackson Guitars
+T2	Organization 242 248	Ibanez
+T3	Organization 413 427	Гровер Джексон
+T4	Organization 624 630	Fender
+N1	Reference T1 wiki:1128712	Jackson Guitars
+N2	Reference T2 wiki:643819	Ibanez
+N3	Reference T3 wiki:1128712	Grover Jackson
+N4	Reference T4 wiki:387353	Fender
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

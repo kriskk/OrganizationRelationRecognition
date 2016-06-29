@@ -1,0 +1,5 @@
+T1	Organization 0 13	Azimut Hotels
+T2	Organization 228 235	R-Style
+N1	Reference T1 wiki:3824912	Azimut Hotels
+N2	Reference T2 wiki:948950	R-Style
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Rio Tinto
+T2	Organization 157 175	Норильским Никелем
+N1	Reference T1 wiki:144043	Rio Tinto
+N2	Reference T2 wiki:73395	Норильский Никель
+A1	TypeRel T2 Cooperator

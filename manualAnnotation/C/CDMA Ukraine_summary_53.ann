@@ -1,0 +1,5 @@
+T1	Organization 0 12	CDMA Ukraine
+T2	Organization 208 220	Интертелеком
+N1	Reference T1 wiki:1890308	CDMA Ukraine
+N2	Reference T2 wiki:1816044	Интертелеком
+A1	IsLink T2

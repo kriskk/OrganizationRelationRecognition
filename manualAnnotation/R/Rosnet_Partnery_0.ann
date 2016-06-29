@@ -1,0 +1,29 @@
+T1	Organization 0 6	Роснет
+T2	Organization 42 52	Ростелеком
+T3	Organization 61 91	Межрегиональный ТранзитТелеком
+T4	Organization 100 119	Вымпел-Коммуникации
+T5	Organization 128 132	МГТС
+T6	Organization 141 152	Комстар-ОТС
+T7	Organization 161 167	Комкор
+T8	Organization 176 197	Компания ТрансТелеКом
+N1	Reference T1 wiki:3618523	Роснет
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:638758	Межрегиональный ТранзитТелеком
+N4	Reference T4 wiki:70736	Вымпел-Коммуникации
+N5	Reference T5 wiki:141210	МГТС
+N6	Reference T6 wiki:150442	Комстар-ОТС
+N7	Reference T7 wiki:807312	Акадо
+N8	Reference T8 wiki:161360	ТрансТелеКом
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A1	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator

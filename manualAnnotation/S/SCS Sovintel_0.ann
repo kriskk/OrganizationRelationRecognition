@@ -1,0 +1,6 @@
+T1	Organization 0 12	СЦС Совинтел
+T2	Organization 120 134	Голден Телеком
+N1	Reference T1 wiki:3929111	СЦС Совинтел
+N2	Reference T2 wiki:2196953	Голден Телеком
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 18	Gestamp Automocion
+T2	Organization 324 334	Северсталь
+N1	Reference T1 wiki:3298002	Gestamp Automocion
+N2	Reference T2 wiki:149218	Северсталь
+A1	IsLink T2

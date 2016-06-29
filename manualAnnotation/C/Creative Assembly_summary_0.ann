@@ -1,0 +1,8 @@
+T1	Organization 0 17	Creative Assembly
+T2	Organization 126 130	Sega
+T3	Organization 380 384	Sega
+N1	Reference T1 wiki:1324113	Creative Assembly
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:92589	Sega
+A1	IsLink T2
+A2	IsLink T3

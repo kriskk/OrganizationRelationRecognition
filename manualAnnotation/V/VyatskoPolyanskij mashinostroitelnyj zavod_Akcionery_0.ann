@@ -1,0 +1,10 @@
+T1	Organization 0 41	Вятско-Полянский машиностроительный завод
+T2	Organization 75 88	Ростехнологии
+T3	Organization 111 116	Ижмаш
+N1	Reference T1 wiki:1855700	Вятско-Полянский машиностроительный завод
+N2	Reference T2 wiki:915063	Ростехнологии
+N3	Reference T3 wiki:963537	Ижмаш
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

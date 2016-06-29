@@ -1,0 +1,8 @@
+T1	Organization 0 11	Autobianchi
+T2	Organization 166 172	Lancia
+T3	Organization 310 320	Fiat Group
+N1	Reference T1 wiki:3618022	Autobianchi
+N2	Reference T2 wiki:1503078	Lancia
+N3	Reference T3 wiki:91784	Fiat Group
+A1	IsLink T2
+A2	IsLink T3

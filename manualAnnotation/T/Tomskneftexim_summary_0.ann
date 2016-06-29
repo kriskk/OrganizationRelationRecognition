@@ -1,0 +1,5 @@
+T1	Organization 0 13	Томскнефтехим
+T2	Organization 127 140	СИБУР Холдинг
+N1	Reference T1 wiki:291812	Томскнефтехим
+N2	Reference T2 wiki:144869	СИБУР Холдинг
+A1	IsLink T2

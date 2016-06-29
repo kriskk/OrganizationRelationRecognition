@@ -1,0 +1,5 @@
+T1	Organization 0 9	Техносерв
+T2	Organization 188 195	Reksoft
+N1	Reference T1 wiki:1817004	Техносерв
+N2	Reference T2 wiki:3253511	Reksoft
+A1	IsLink T2

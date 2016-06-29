@@ -1,0 +1,5 @@
+T1	Organization 0 6	Tissot
+T2	Organization 385 391	Swatch
+N1	Reference T1 wiki:177171	Tissot
+N2	Reference T2 wiki:1046759	Swatch
+A1	IsLink T2

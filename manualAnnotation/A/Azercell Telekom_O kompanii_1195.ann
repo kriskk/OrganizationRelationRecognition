@@ -1,0 +1,5 @@
+T1	Organization 0 16	Azercell Telekom
+T2	Organization 281 297	Azerfon-Vodafone
+N1	Reference T1 wiki:770422	Azercell Telekom
+N2	Reference T2 wiki:2337140	Azerfon-Vodafone
+A1	IsLink T2

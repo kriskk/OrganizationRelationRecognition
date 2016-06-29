@@ -1,0 +1,5 @@
+T1	Organization 0 9	ABS Group
+T2	Organization 227 234	«Volvo»
+N1	Reference T1 wiki:2115208	ABS Group
+N2	Reference T2 wiki:387781	Volvo
+A1	IsLink T2

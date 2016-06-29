@@ -1,0 +1,12 @@
+T1	Organization 0 24	VISA (платёжная система)
+T2	Organization 292 300	Интурист
+T3	Organization 331 339	Интурист
+T4	Organization 472 480	Интурист
+N1	Reference T1 wiki:36386	VISA (платёжная система)
+N2	Reference T2 wiki:606499	Интурист
+N3	Reference T3 wiki:606499	Интурист
+N4	Reference T4 wiki:606499	Интурист
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T4 Cooperator

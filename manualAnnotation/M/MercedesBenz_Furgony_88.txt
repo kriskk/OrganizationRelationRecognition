@@ -1,0 +1,9 @@
+Mercedes-Benz
+@Модельный ряд
+@Фургоны
+58555,5130,88
+
+ Mercedes-Benz Vito — Легкий фургон основанный на базе Mercedes-Benz Viano с грузоподъёмностью около 1 тонны
+	 Mercedes-Benz Sprinter — среднеразмерный фургон грузоподъёмностью от 2 до 6 тонн (в США и Канаде выпускается под маркой Dodge с названием Freightliner Sprinter Vito. Совместное производство.)
+	 Sprinter 414/416CDI Скорая Помощь
+		 Sprinter 316CDI light Скорая Помощь

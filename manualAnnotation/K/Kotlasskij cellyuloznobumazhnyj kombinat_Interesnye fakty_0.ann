@@ -1,0 +1,12 @@
+T1	Organization 0 39	Котласский целлюлозно-бумажный комбинат
+T2	Organization 149 158	Илим Палп
+T3	Organization 424 441	Базовым элементом
+T4	Organization 533 572	Егоров, Пугинский, Афанасьев и партнёры
+N1	Reference T1 wiki:128668	Котласский целлюлозно-бумажный комбинат
+N2	Reference T2 wiki:128667	Илим Палп
+N3	Reference T3 wiki:156379	Базовый элемент
+N4	Reference T4 wiki:2882521	Егоров, Пугинский, Афанасьев и партнёры
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T4 Cooperator

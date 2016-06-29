@@ -1,0 +1,5 @@
+T1	Organization 0 14	France Télécom
+T2	Organization 208 214	Orange
+N1	Reference T1 wiki:373577	France Télécom
+N2	Reference T2 wiki:373554	Orange
+A1	IsLink T2

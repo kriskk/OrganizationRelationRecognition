@@ -1,0 +1,14 @@
+T1	Organization 0 13	Самрук-Энерго
+T2	Organization 202 216	«КазМунайГаза»
+T3	Organization 218 248	«Казахстанских железных дорог»
+T4	Organization 250 265	«Казахтелекома»
+T5	Organization 305 355	Фонда национального благосостояния «Самрук-Казына»
+N1	Reference T1 wiki:3224658	Самрук-Энерго
+N2	Reference T2 wiki:294591	КазМунайГаз
+N3	Reference T3 wiki:2769916	Казахстанские железные дороги
+N4	Reference T4 wiki:702503	Казахтелеком
+N5	Reference T5 wiki:1680328	Самрук-Казына
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

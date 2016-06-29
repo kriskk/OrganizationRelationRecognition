@@ -1,0 +1,6 @@
+T1	Organization 0 28	Efes Vitanta Moldova Brewery
+T2	Organization 228 236	Heineken
+N1	Reference T1 wiki:4124431	Efes Vitanta Moldova Brewery
+N2	Reference T2 wiki:248758	Heineken
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Teradata
+T2	Organization 213 216	NCR
+N1	Reference T1 wiki:1885190	Teradata
+N2	Reference T2 wiki:2963358	NCR Corporation
+A1	IsLink T2

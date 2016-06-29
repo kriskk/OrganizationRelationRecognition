@@ -1,0 +1,14 @@
+T1	Organization 0 14	СТ Нижегородец
+T2	Organization 336 340	Ford
+T3	Organization 342 347	IVECO
+T4	Organization 349 353	Fiat
+T5	Organization 355 362	Citroen
+N1	Reference T1 wiki:3684111	СТ Нижегородец
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:272617	IVECO
+N4	Reference T4 wiki:91784	Fiat
+N5	Reference T5 wiki:1617910	Citroen
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

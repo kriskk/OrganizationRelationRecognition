@@ -1,0 +1,11 @@
+JVC
+@Дочерние компании
+6763,239
+
+	  Флаг	 ОАЭ  JVC Middle-East
+	  Флаг	 Панама  JVC Latin America, S.A.'
+	  Флаг	 Бразилия  JVC do Brasil Ltda.
+	  Флаг	 Австрия  JVC International
+	  Флаг	 Япония  Victor Entertainment
+
+

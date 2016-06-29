@@ -1,0 +1,14 @@
+T1	Organization 0 14	Blizzard North
+T2	Organization 186 202	Flagship Studios
+T3	Organization 344 366	Blizzard Entertainment
+T4	Organization 369 376	Vivendi
+T5	Organization 539 561	Blizzard Entertainment
+N1	Reference T1 wiki:1704379	Blizzard North
+N2	Reference T2 wiki:2501777	Flagship Studios
+N3	Reference T3 wiki:202669	Blizzard Entertainment
+N4	Reference T4 wiki:1695856	Vivendi
+N5	Reference T5 wiki:202669	Blizzard Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

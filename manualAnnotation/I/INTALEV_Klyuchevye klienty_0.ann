@@ -1,0 +1,9 @@
+T1	Organization 0 7	ИНТАЛЕВ
+T2	Organization 145 163	ЗАО «Система Галс»
+T3	Organization 165 187	НАК «Нефтегаз Украины»
+N1	Reference T1 wiki:2553552	ИНТАЛЕВ
+N2	Reference T2 wiki:344603	Система-Галс
+N3	Reference T3 wiki:128243	Нефтегаз Украины
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

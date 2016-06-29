@@ -1,0 +1,6 @@
+T1	Organization 0 5	Xebec
+T2	Organization 66 80	Production I.G
+N1	Reference T1 wiki:130305	Xebec
+N2	Reference T2 wiki:9179	Production I.G
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,10 @@
+T1	Organization 0 19	PSA Peugeot Citroën
+T2	Organization 113 117	Пежо
+T3	Organization 122 129	Ситроен
+N1	Reference T1 wiki:226616	PSA Peugeot Citroën
+N2	Reference T2 wiki:1650729	Peugeot
+N3	Reference T3 wiki:1617910	Ситроен (марка автомобилей)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

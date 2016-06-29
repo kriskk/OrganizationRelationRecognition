@@ -1,0 +1,6 @@
+T1	Organization 0 6	NCSoft
+T2	Organization 202 208	Crytek
+N1	Reference T1 wiki:707386	NCSoft
+N2	Reference T2 wiki:650133	Crytek
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

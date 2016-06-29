@@ -1,0 +1,9 @@
+T1	Organization 0 8	Роснефть
+T2	Organization 290 295	PDVSA
+T3	Organization 640 680	Объединённой судостроительной корпорации
+N1	Reference T1 wiki:139770	Роснефть
+N2	Reference T2 wiki:793790	PDVSA
+N3	Reference T3 wiki:590392	Объединённая судостроительная корпорация
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

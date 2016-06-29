@@ -1,0 +1,6 @@
+T1	Organization 0 11	IncrediMail
+T2	Organization 279 285	NASDAQ
+N1	Reference T1 wiki:3078673	IncrediMail
+N2	Reference T2 wiki:63813	NASDAQ
+A1	IsLink T2
+A2	TypeRel T2 Other

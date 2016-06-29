@@ -1,0 +1,17 @@
+T1	Organization 0 72	Научно-исследовательский институт приборостроения имени В. В. Тихомирова
+T2	Organization 330 360	ОАО "Концерн ПВО «Алмаз-Антей»
+T3	Organization 429 442	Ростехнологии
+T4	Organization 609 622	Фазотрон-НИИР
+T5	Organization 777 788	МНИИ «Агат»
+N1	Reference T1 wiki:296567	Научно-исследовательский институт приборостроения имени В. В. Тихомирова
+N2	Reference T2 wiki:149639	Алмаз-Антей
+N3	Reference T3 wiki:915063	Ростехнологии
+N4	Reference T4 wiki:553921	Фазотрон-НИИР
+N5	Reference T5 wiki:660463	МНИИ Агат
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Competitor
+A7	TypeRel T5 Subsidiary

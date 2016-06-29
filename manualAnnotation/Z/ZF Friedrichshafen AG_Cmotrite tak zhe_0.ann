@@ -1,0 +1,11 @@
+T1	Organization 0 21	ZF Friedrichshafen AG
+T2	Organization 66 73	Камминс
+T3	Organization 76 81	Eaton
+T4	Organization 85 93	Rockwell
+N1	Reference T1 wiki:154998	ZF Friedrichshafen AG
+N2	Reference T2 wiki:2407448	Cummins
+N3	Reference T3 wiki:1039999	Eaton Corporation
+N4	Reference T4 wiki:743730	Rockwell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

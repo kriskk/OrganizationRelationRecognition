@@ -1,0 +1,8 @@
+T1	Organization 0 30	Челябинский механический завод
+T2	Organization 330 339	Волжского
+T3	Organization 342 350	Камского
+N1	Reference T1 wiki:2583955	Челябинский механический завод
+N2	Reference T2 wiki:139276	АвтоВАЗ
+N3	Reference T3 wiki:169714	КАМАЗ
+A1	IsLink T2
+A2	IsLink T3

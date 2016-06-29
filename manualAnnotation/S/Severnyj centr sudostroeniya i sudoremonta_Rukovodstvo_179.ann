@@ -1,0 +1,17 @@
+T1	Organization 0 41	Северный центр судостроения и судоремонта
+T2	Organization 243 318	ОАО «Производственное объединение «Северное машиностроительное предприятие»
+T3	Organization 372 406	ОАО «Центр судоремонта «Звездочка»
+T4	Organization 725 771	ОАО «Объединенная судостроительная корпорация»
+T5	Organization 832 854	ОАО «Балтийский завод»
+T6	Organization 902 918	ОАО «Совкомфлот»
+N1	Reference T1 wiki:2854043	Северный центр судостроения и судоремонта
+N2	Reference T2 wiki:268382	Севмаш
+N3	Reference T3 wiki:970918	Звёздочка (предприятие)
+N4	Reference T4 wiki:590392	Объединённая судостроительная корпорация
+N5	Reference T5 wiki:773298	Балтийский завод
+N6	Reference T6 wiki:210676	Совкомфлот
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

@@ -1,0 +1,9 @@
+T1	Organization 0 4	Real
+T2	Organization 224 230	Auchan
+T3	Organization 302 314	Metro Groupe
+N1	Reference T1 wiki:1480648	Real
+N2	Reference T2 wiki:1324090	Auchan
+N3	Reference T3 wiki:166780	Metro AG
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

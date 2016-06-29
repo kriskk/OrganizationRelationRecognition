@@ -1,0 +1,8 @@
+T1	Organization 0 10	МРСК Урала
+T2	Organization 270 277	РАО ЕЭС
+T3	Organization 440 452	Тюменьэнерго
+N1	Reference T1 wiki:1808298	МРСК Урала
+N2	Reference T2 wiki:1432138	ЕЭС России (компания)
+N3	Reference T3 wiki:2700780	Тюменьэнерго
+A2	IsLink T3
+A1	TypeRel T2 Personnel

@@ -1,0 +1,6 @@
+T1	Organization 0 13	Ульяновск-GSM
+T2	Organization 182 185	НСС
+N1	Reference T1 wiki:1975186	Ульяновск-GSM
+N2	Reference T2 wiki:2093483	НСС
+A1	IsLink T2
+A2	TypeRel T2 Holder

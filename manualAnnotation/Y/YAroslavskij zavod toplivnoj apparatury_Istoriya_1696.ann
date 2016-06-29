@@ -1,0 +1,13 @@
+T1	Organization 0 38	Ярославский завод топливной аппаратуры
+T2	Organization 252 290	Ярославский завод дизельной аппаратуры
+T3	Organization 487 498	РусПромАвто
+T4	Organization 570 580	Группы ГАЗ
+N1	Reference T1 wiki:2618320	Ярославский завод топливной аппаратуры
+N2	Reference T2 wiki:1574008	Ярославский завод дизельной аппаратуры
+N3	Reference T3 wiki:21473	РусПромАвто
+N4	Reference T4 wiki:21473	Группа ГАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Holder

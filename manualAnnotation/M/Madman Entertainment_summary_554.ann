@@ -1,0 +1,6 @@
+T1	Organization 0 20	Madman Entertainment
+T2	Organization 200 212	Студии Гибли
+N1	Reference T1 wiki:4052928	Madman Entertainment
+N2	Reference T2 wiki:8977	Studio Ghibli
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

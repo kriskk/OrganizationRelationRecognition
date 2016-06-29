@@ -1,0 +1,5 @@
+T1	Organization 0 8	Роснефть
+T2	Organization 125 129	ЮКОС
+N1	Reference T1 wiki:139770	Роснефть
+N2	Reference T2 wiki:6032	ЮКОС
+A1	IsLink T2

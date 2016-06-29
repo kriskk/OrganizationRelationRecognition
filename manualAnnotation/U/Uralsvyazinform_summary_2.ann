@@ -1,0 +1,10 @@
+T1	Organization 0 15	Уралсвязьинформ
+T2	Organization 184 195	Связьинвест
+T3	Organization 280 290	Ростелеком
+N1	Reference T1 wiki:91190	Уралсвязьинформ
+N2	Reference T2 wiki:145705	Связьинвест
+N3	Reference T3 wiki:145844	Ростелеком
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

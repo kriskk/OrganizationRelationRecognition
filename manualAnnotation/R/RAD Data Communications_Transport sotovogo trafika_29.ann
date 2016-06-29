@@ -1,0 +1,10 @@
+T1	Organization 0 23	RAD Data Communications
+T2	Organization 288 296	T-Mobile
+T3	Organization 317 323	Orange
+N1	Reference T1 wiki:2456076	RAD Data Communications
+N2	Reference T2 wiki:138787	T-Mobile
+N3	Reference T3 wiki:373554	Orange
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 5	Ageia
+T2	Organization 266 272	NVIDIA
+T3	Organization 275 278	ATI
+N1	Reference T1 wiki:1289996	Ageia
+N2	Reference T2 wiki:1548156	NVIDIA
+N3	Reference T3 wiki:1155771	ATI
+A1	IsLink T2
+A2	IsLink T3

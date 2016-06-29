@@ -1,0 +1,14 @@
+T1	Organization 0 7	МегаФон
+T2	Organization 419 437	Столичного филиала
+T3	Organization 605 620	Северо-Западный
+T4	Organization 622 631	Столичный
+N1	Reference T1 wiki:70933	МегаФон
+N2	Reference T2 wiki:70933	МегаФон-Москва
+N3	Reference T3 wiki:70933	МегаФон-Северо-Запад
+N4	Reference T4 wiki:70933	МегаФон-Москва
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary
+A6	TypeRel T2 Subsidiary

@@ -1,0 +1,32 @@
+T1	Organization 0 11	Связьинвест
+T2	Organization 197 233	Московская городская телефонная сеть
+T3	Organization 310 323	АФК «Система»
+T4	Organization 402 411	Скай Линк
+T5	Organization 513 525	ВолгаТелеком
+T6	Organization 529 538	Дальсвязь
+T7	Organization 542 565	Северо-Западный Телеком
+T8	Organization 569 582	Сибирьтелеком
+T9	Organization 586 601	Уралсвязьинформ
+T10	Organization 605 617	ЦентрТелеком
+T11	Organization 622 625	ЮТК
+N1	Reference T1 wiki:145705	Связьинвест
+N2	Reference T2 wiki:141210	Московская городская телефонная сеть
+N3	Reference T3 wiki:158888	Система (компания)
+N4	Reference T4 wiki:145535	Скай Линк
+N5	Reference T5 wiki:162608	ВолгаТелеком
+N6	Reference T6 wiki:242465	Дальсвязь
+N7	Reference T7 wiki:159172	Северо-Западный Телеком
+N8	Reference T8 wiki:343967	Сибирьтелеком
+N9	Reference T9 wiki:91190	Уралсвязьинформ
+N10	Reference T10 wiki:142992	ЦентрТелеком
+N11	Reference T11 wiki:283742	ЮТК
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11

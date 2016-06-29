@@ -1,0 +1,9 @@
+T1	Organization 0 8	Netcraft
+T2	Organization 195 209	Opera Software
+T3	Organization 436 445	Microsoft
+N1	Reference T1 wiki:4193241	Netcraft
+N2	Reference T2 wiki:95896	Opera Software
+N3	Reference T3 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Other

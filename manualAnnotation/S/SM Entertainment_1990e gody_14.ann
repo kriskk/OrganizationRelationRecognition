@@ -1,0 +1,5 @@
+T1	Organization 0 16	SM Entertainment
+T2	Organization 263 266	KBS
+N1	Reference T1 wiki:1455965	SM Entertainment
+N2	Reference T2 wiki:3650776	Korean Broadcasting System
+A1	IsLink T2

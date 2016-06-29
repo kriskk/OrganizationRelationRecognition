@@ -1,0 +1,23 @@
+T1	Organization 0 15	The 3DO Company
+T2	Organization 96 102	NASDAQ
+T3	Organization 323 338	Electronic Arts
+T4	Organization 413 415	LG
+T5	Organization 417 427	Matsushita
+T6	Organization 429 433	AT&T
+T7	Organization 440 451	Time Warner
+T8	Organization 454 469	Electronic Arts
+N1	Reference T1 wiki:1475844	The 3DO Company
+N2	Reference T2 wiki:63813	NASDAQ
+N3	Reference T3 wiki:323143	Electronic Arts
+N4	Reference T4 wiki:135021	LG
+N5	Reference T5 wiki:307154	Matsushita
+N6	Reference T6 wiki:162994	AT&T
+N7	Reference T7 wiki:741342	Time Warner
+N8	Reference T8 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

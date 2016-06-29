@@ -1,0 +1,10 @@
+T1	Organization 0 16	Rockstar Lincoln
+T2	Organization 171 185	Rockstar Games
+T3	Organization 332 346	Rockstar Games
+N1	Reference T1 wiki:2327437	Rockstar Lincoln
+N2	Reference T2 wiki:650156	Rockstar Games
+N3	Reference T3 wiki:650156	Rockstar Games
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

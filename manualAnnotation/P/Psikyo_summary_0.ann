@@ -1,0 +1,6 @@
+T1	Organization 0 6	Psikyo
+T2	Organization 130 142	Video System
+N1	Reference T1 wiki:1716387	Psikyo
+N2	Reference T2 wiki:1716538	Video System
+A1	IsLink T2
+A2	TypeRel T2 Personnel

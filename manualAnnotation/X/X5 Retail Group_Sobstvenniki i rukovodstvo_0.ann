@@ -1,0 +1,6 @@
+T1	Organization 0 15	X5 Retail Group
+T2	Organization 126 137	Альфа-Групп
+N1	Reference T1 wiki:353293	X5 Retail Group
+N2	Reference T2 wiki:141637	Альфа-Групп
+A1	IsLink T2
+A2	TypeRel T2 Holder

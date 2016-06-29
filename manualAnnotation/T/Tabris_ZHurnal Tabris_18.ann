@@ -1,0 +1,5 @@
+T1	Organization 0 6	Табрис
+T2	Organization 416 441	корпорации Девелопмент-юг
+N1	Reference T1 wiki:2354082	Табрис
+N2	Reference T2 wiki:1249003	Девелопмент-Юг
+A1	IsLink T2

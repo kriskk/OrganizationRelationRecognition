@@ -1,0 +1,6 @@
+T1	Organization 0 16	RBS (Kazakhstan)
+T2	Organization 304 312	ABN Amro
+N1	Reference T1 wiki:2261063	RBS (Kazakhstan)
+N2	Reference T2 wiki:486433	ABN Amro
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

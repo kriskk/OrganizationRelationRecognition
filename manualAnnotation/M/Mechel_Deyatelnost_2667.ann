@@ -1,0 +1,6 @@
+T1	Organization 0 5	Мечел
+T2	Organization 320 343	ОАО «Кузбассэнергосбыт»
+N1	Reference T1 wiki:148493	Мечел
+N2	Reference T2 wiki:3501317	ОАО «Кузбассэнергосбыт»
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

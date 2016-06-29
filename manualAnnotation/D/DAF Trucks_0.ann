@@ -1,0 +1,5 @@
+T1	Organization 0 10	DAF Trucks
+T2	Organization 102 108	PACCAR
+N1	Reference T1 wiki:1570257	DAF Trucks
+N2	Reference T2 wiki:1704447	PACCAR
+A1	IsLink T2

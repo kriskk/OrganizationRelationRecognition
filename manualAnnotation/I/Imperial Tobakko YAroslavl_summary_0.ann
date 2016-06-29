@@ -1,0 +1,6 @@
+T1	Organization 0 26	Империал Тобакко Ярославль
+T2	Organization 160 176	Imperial Tobacco
+N1	Reference T1 wiki:2618758	Империал Тобакко Ярославль
+N2	Reference T2 wiki:2619120	Imperial Tobacco
+A1	IsLink T2
+A2	TypeRel T2 Holder

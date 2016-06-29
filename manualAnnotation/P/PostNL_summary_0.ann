@@ -1,0 +1,9 @@
+T1	Organization 0 6	PostNL
+T2	Organization 143 151	TNT N.V.
+T3	Organization 207 215	TNT Post
+N1	Reference T1 wiki:3271690	PostNL
+N2	Reference T2 wiki:1038257	TNT N.V.
+N3	Reference T3 wiki:3196341	TNT Post
+A2	IsLink T3
+A1	TypeRel T2 Alias
+A3	TypeRel T3 Subsidiary

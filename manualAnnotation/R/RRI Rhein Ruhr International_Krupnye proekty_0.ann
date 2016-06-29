@@ -1,0 +1,6 @@
+T1	Organization 0 28	RRI Rhein Ruhr International
+T2	Organization 173 184	Hochtief AG
+N1	Reference T1 wiki:3450521	RRI Rhein Ruhr International
+N2	Reference T2 wiki:165402	Hochtief
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

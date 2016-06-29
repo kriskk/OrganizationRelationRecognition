@@ -1,0 +1,6 @@
+T1	Organization 0 5	Викия
+T2	Organization 226 235	Wikiasari
+N1	Reference T1 wiki:183701	Викия
+N2	Reference T2 wiki:183701	Wikiasari
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

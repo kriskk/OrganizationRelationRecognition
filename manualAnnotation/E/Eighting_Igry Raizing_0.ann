@@ -1,0 +1,14 @@
+T1	Organization 0 8	Eighting
+T2	Organization 121 132	Hudson Soft
+T3	Organization 259 270	Hudson Soft
+T4	Organization 469 475	Capcom
+N1	Reference T1 wiki:1718274	Eighting
+N2	Reference T2 wiki:1734514	Hudson Soft
+N3	Reference T3 wiki:1734514	Hudson Soft
+N4	Reference T4 wiki:714415	Capcom
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

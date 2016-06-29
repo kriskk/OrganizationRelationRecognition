@@ -1,0 +1,26 @@
+T1	Organization 0 9	НТЦ Аргус
+T2	Organization 110 120	Ростелеком
+T3	Organization 139 142	ЮТК
+T4	Organization 171 194	Северо-Западный Телеком
+T5	Organization 215 230	УралСвязьИнформ
+T6	Organization 252 264	Волгателеком
+T7	Organization 273 282	Дальсвязь
+N1	Reference T1 wiki:1858701	НТЦ Аргус
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:283742	ЮТК
+N4	Reference T4 wiki:159172	Северо-Западный Телеком
+N5	Reference T5 wiki:91190	УралСвязьИнформ
+N6	Reference T6 wiki:162608	Волгателеком
+N7	Reference T7 wiki:242465	Дальсвязь
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Holder
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator

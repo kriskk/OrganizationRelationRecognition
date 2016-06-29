@@ -1,0 +1,5 @@
+T1	Organization 0 7	Kynogon
+T2	Organization 392 400	Autodesk
+N1	Reference T1 wiki:2299231	Kynogon
+N2	Reference T2 wiki:699040	Autodesk
+A1	TypeRel T2 Holder

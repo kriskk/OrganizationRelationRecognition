@@ -1,0 +1,11 @@
+T1	Organization 0 12	Sberbank CIB
+T2	Organization 317 329	J. P. Morgan
+T3	Organization 601 614	Goldman Sachs
+T4	Organization 869 876	Reuters
+N1	Reference T1 wiki:4291348	Sberbank CIB
+N2	Reference T2 wiki:374499	J. P. Morgan
+N3	Reference T3 wiki:144097	Goldman Sachs
+N4	Reference T4 wiki:183883	Reuters
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,5 @@
+T1	Organization 0 31	Академия независимых часовщиков
+T2	Organization 270 279	Blancpain
+N1	Reference T1 wiki:3262001	Академия независимых часовщиков
+N2	Reference T2 wiki:1075077	Blancpain
+A1	IsLink T2

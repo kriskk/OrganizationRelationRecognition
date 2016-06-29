@@ -1,0 +1,21 @@
+T1	Organization 0 16	Красный выборжец
+T2	Organization 197 209	Кольская ГМК
+T3	Organization 231 249	Норильского никеля
+T4	Organization 281 289	Интеррос
+T5	Organization 681 689	Интеррос
+T6	Organization 946 963	Норильский никель
+T7	Organization 1283 1291	Интеррос
+N1	Reference T1 wiki:2248755	Красный выборжец
+N2	Reference T2 wiki:2634782	Кольская ГМК
+N3	Reference T3 wiki:73395	Норильский никель
+N4	Reference T4 wiki:147366	Интеррос
+N5	Reference T5 wiki:147366	Интеррос
+N6	Reference T6 wiki:73395	Норильский никель
+N7	Reference T7 wiki:147366	Интеррос
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Holder
+A7	TypeRel T6 Holder

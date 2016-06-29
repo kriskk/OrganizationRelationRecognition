@@ -1,0 +1,14 @@
+T1	Organization 0 10	PeopleSoft
+T2	Organization 247 253	NASDAQ
+T3	Organization 321 336	Hewlett-Packard
+T4	Organization 338 341	AMD
+N1	Reference T1 wiki:2977933	PeopleSoft
+N2	Reference T2 wiki:63813	NASDAQ
+N3	Reference T3 wiki:89988	Hewlett-Packard
+N4	Reference T4 wiki:19981	AMD
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Other
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

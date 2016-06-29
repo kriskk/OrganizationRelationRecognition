@@ -1,0 +1,5 @@
+T1	Organization 0 10	Dream Dale
+T2	Organization 191 211	Alawar Entertainment
+N1	Reference T1 wiki:1581192	Dream Dale
+N2	Reference T2 wiki:263378	Alawar Entertainment
+A1	IsLink T2

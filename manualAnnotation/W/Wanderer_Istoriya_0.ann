@@ -1,0 +1,8 @@
+T1	Organization 0 8	Wanderer
+T2	Organization 110 114	Audi
+T3	Organization 116 119	DKW
+N1	Reference T1 wiki:1858282	Wanderer
+N2	Reference T2 wiki:41025	Audi
+N3	Reference T3 wiki:1360084	DKW
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,9 @@
+T1	Organization 0 7	Renault
+T2	Organization 252 267	American Motors
+T3	Organization 307 311	Jeep
+N1	Reference T1 wiki:586472	Renault
+N2	Reference T2 wiki:3346012	American Motors Corporation
+N3	Reference T3 wiki:41489	Jeep
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary

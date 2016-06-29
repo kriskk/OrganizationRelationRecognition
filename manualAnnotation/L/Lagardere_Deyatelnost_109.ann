@@ -1,0 +1,9 @@
+T1	Organization 0 9	Lagardere
+T2	Organization 214 265	Европейского аэрокосмического и оборонного концерна
+T3	Organization 440 443	ЕМГ
+N1	Reference T1 wiki:169461	Lagardere
+N2	Reference T2 wiki:39833	Европейский аэрокосмический и оборонный концерн
+N3	Reference T3 wiki:1494590	ЕМГ
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Other

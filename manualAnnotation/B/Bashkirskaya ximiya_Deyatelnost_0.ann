@@ -1,0 +1,8 @@
+T1	Organization 0 16	Башкирская химия
+T2	Organization 93 100	Каустик
+T3	Organization 108 112	Сода
+N1	Reference T1 wiki:255582	Башкирская химия
+N2	Reference T2 wiki:885330	Каустик (компания)
+N3	Reference T3 wiki:3785872	Сода (компания)
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 13	Астана-Финанс
+T2	Organization 512 525	Самрук-Казына
+N1	Reference T1 wiki:2342206	Астана-Финанс
+N2	Reference T2 wiki:1680328	Самрук-Казына
+A1	IsLink T2

@@ -1,0 +1,9 @@
+T1	Organization 0 22	Промышленные инвесторы
+T2	Organization 120 136	Русский алкоголь
+T3	Organization 264 277	Goldman Sachs
+N1	Reference T1 wiki:179233	Промышленные инвесторы
+N2	Reference T2 wiki:2385656	Русский алкоголь
+N3	Reference T3 wiki:144097	Goldman Sachs
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary

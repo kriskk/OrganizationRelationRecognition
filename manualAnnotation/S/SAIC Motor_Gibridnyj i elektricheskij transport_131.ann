@@ -1,0 +1,9 @@
+T1	Organization 0 10	SAIC Motor
+T2	Organization 366 384	Delphi Corporation
+T3	Organization 451 454	BYD
+N1	Reference T1 wiki:377731	SAIC Motor
+N2	Reference T2 wiki:236540	Delphi Corporation
+N3	Reference T3 wiki:1287338	BYD
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

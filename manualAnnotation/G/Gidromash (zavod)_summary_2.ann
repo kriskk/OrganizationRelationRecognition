@@ -1,0 +1,6 @@
+T1	Organization 0 16	Гидромаш (завод)
+T2	Organization 241 255	Южкузбассуголь
+N1	Reference T1 wiki:1224097	Гидромаш (завод)
+N2	Reference T2 wiki:424159	Южкузбассуголь
+A1	IsLink T2
+A2	TypeRel T2 Holder

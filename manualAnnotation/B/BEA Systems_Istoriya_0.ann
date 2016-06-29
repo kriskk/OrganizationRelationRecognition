@@ -1,0 +1,13 @@
+T1	Organization 0 11	BEA Systems
+T2	Organization 102 118	Sun Microsystems
+T3	Organization 452 456	AT&T
+T4	Organization 516 522	Novell
+N1	Reference T1 wiki:565937	BEA Systems
+N2	Reference T2 wiki:4777	Sun Microsystems
+N3	Reference T3 wiki:162994	AT&T
+N4	Reference T4 wiki:21831	Novell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Personnel
+A5	TypeRel T3 Cooperator

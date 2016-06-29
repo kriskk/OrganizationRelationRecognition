@@ -1,0 +1,11 @@
+T1	Organization 0 25	Armenia Telephone Company
+T2	Organization 196 199	OTE
+T3	Organization 334 343	ВымпелКом
+T4	Organization 495 504	Вымпелком
+N1	Reference T1 wiki:1342341	Armenia Telephone Company
+N2	Reference T2 wiki:3772734	OTE
+N3	Reference T3 wiki:70736	ВымпелКом
+N4	Reference T4 wiki:70736	Вымпелком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

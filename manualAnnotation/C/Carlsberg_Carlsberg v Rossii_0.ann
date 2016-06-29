@@ -1,0 +1,11 @@
+T1	Organization 0 9	Carlsberg
+T2	Organization 91 111	Scottish & Newcastle
+T3	Organization 146 170	Baltic Beverages Holding
+T4	Organization 244 251	Балтика
+N1	Reference T1 wiki:787801	Carlsberg
+N2	Reference T2 wiki:318062	Scottish & Newcastle
+N3	Reference T3 wiki:317339	Baltic Beverages Holding
+N4	Reference T4 wiki:164789	Балтика (пивоваренная компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

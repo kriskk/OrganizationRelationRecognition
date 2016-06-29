@@ -1,0 +1,5 @@
+T1	Organization 0 20	Carlsson Autotechnik
+T2	Organization 53 65	Mercedes-AMG
+N1	Reference T1 wiki:1453971	Carlsson Autotechnik
+N2	Reference T2 wiki:1316945	Mercedes-AMG
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 6	Anelik
+T2	Organization 279 283	QIWI
+T3	Organization 286 299	QIWI Кошелька
+N1	Reference T1 wiki:3351629	Anelik
+N2	Reference T2 wiki:2398238	QIWI
+N3	Reference T3 wiki:2398238	QIWI
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 14	JPMorgan Chase
+T2	Organization 263 272	Citigroup
+N1	Reference T1 wiki:374499	JPMorgan Chase
+N2	Reference T2 wiki:374508	Citigroup
+A1	TypeRel T2 Competitor

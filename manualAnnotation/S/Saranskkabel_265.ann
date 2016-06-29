@@ -1,0 +1,5 @@
+T1	Organization 0 13	Сарансккабель
+T2	Organization 190 207	Севкабель-Холдинг
+N1	Reference T1 wiki:1275980	Сарансккабель
+N2	Reference T2 wiki:1275890	Севкабель-Холдинг
+A1	IsLink T2

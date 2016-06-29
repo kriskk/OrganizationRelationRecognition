@@ -1,0 +1,9 @@
+T1	Organization 0 24	Lanchester Motor Company
+T2	Organization 91 102	Tata Motors
+T3	Organization 329 336	Daimler
+N1	Reference T1 wiki:2998548	Lanchester Motor Company
+N2	Reference T2 wiki:962083	Tata Motors
+N3	Reference T3 wiki:294683	Daimler Motor Company
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

@@ -1,0 +1,18 @@
+T1	Organization 0 48	Ишимбайские распределительные электрические сети
+T2	Organization 219 231	Башкирэнерго
+T3	Organization 422 446	Газпром нефтехим Салават
+T4	Organization 454 458	Сода
+T5	Organization 507 515	Башнефть
+N1	Reference T1 wiki:3610242	Ишимбайские распределительные электрические сети
+N2	Reference T2 wiki:1398589	Башкирэнерго
+N3	Reference T3 wiki:319497	Газпром нефтехим Салават
+N4	Reference T4 wiki:3785872	Сода (компания)
+N5	Reference T5 wiki:180383	Башнефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator

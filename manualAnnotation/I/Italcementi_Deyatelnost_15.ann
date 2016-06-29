@@ -1,0 +1,5 @@
+T1	Organization 0 11	Italcementi
+T2	Organization 241 259	Сибирскому цементу
+N1	Reference T1 wiki:1096854	Italcementi
+N2	Reference T2 wiki:153788	Сибирский цемент
+A1	TypeRel T2 Cooperator

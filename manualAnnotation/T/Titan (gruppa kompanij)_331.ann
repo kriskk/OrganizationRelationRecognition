@@ -1,0 +1,5 @@
+T1	Organization 0 23	Титан (группа компаний)
+T2	Organization 210 232	PricewaterhouseCoopers
+N1	Reference T1 wiki:129309	Титан (группа компаний)
+N2	Reference T2 wiki:275101	PricewaterhouseCoopers
+A1	IsLink T2

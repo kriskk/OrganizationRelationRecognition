@@ -1,0 +1,5 @@
+T1	Organization 0 26	Евразия (буровая компания)
+T2	Organization 232 238	Лукойл
+N1	Reference T1 wiki:612699	Евразия (буровая компания)
+N2	Reference T2 wiki:59354	Лукойл
+A1	IsLink T2

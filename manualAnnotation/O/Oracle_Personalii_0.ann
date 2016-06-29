@@ -1,0 +1,9 @@
+T1	Organization 0 6	Oracle
+T2	Organization 171 186	Hewlett-Packard
+T3	Organization 497 502	Apple
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:89988	Hewlett-Packard
+N3	Reference T3 wiki:39726	Apple
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel

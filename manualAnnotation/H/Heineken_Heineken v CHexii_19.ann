@@ -1,0 +1,5 @@
+T1	Organization 0 8	Heineken
+T2	Organization 206 215	Krušovice
+N1	Reference T1 wiki:248758	Heineken
+N2	Reference T2 wiki:700617	Krušovice
+A1	IsLink T2

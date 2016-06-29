@@ -1,0 +1,19 @@
+T1	Organization 0 32	Всемирная боксёрская организация
+T2	Organization 311 314	IBF
+T3	Organization 358 361	WBO
+T4	Organization 529 532	WBO
+T5	Organization 606 609	IBF
+T6	Organization 642 645	WBO
+N1	Reference T1 wiki:747485	Всемирная боксёрская организация
+N2	Reference T2 wiki:563722	IBF
+N3	Reference T3 wiki:747485	WBO
+N4	Reference T4 wiki:747485	WBO
+N5	Reference T5 wiki:563722	IBF
+N6	Reference T6 wiki:747485	WBO
+A1	IsLink T2
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A2	TypeRel T3 Alias
+A6	TypeRel T4 Alias
+A7	TypeRel T6 Alias

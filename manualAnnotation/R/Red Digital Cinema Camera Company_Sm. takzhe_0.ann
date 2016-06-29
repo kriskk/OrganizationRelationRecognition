@@ -1,0 +1,8 @@
+T1	Organization 0 33	Red Digital Cinema Camera Company
+T2	Organization 77 81	Arri
+T3	Organization 95 105	Panavision
+N1	Reference T1 wiki:1820204	Red Digital Cinema Camera Company
+N2	Reference T2 wiki:3092369	Arri
+N3	Reference T3 wiki:3584656	Panavision
+A1	IsLink T2
+A2	IsLink T3

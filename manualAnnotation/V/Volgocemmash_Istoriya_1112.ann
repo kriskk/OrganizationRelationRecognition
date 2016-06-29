@@ -1,0 +1,6 @@
+T1	Organization 0 11	Волгоцеммаш
+T2	Organization 287 299	Тольяттиазот
+N1	Reference T1 wiki:722053	Волгоцеммаш
+N2	Reference T2 wiki:161128	Тольяттиазот
+A1	IsLink T2
+A2	TypeRel T2 Holder

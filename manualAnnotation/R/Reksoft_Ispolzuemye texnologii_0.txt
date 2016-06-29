@@ -1,0 +1,14 @@
+Reksoft
+@Используемые технологии
+1038,0
+
+
+Используемые технологии
+
+ .NET
+	 EMC Documentum
+	 Microsoft Office SharePoint
+	 Java EE
+	 IBM WebSphere
+
+

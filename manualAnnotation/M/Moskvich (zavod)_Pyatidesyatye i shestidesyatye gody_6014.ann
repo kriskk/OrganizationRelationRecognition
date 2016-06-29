@@ -1,0 +1,6 @@
+T1	Organization 0 15	Москвич (завод)
+T2	Organization 335 342	Renault
+N1	Reference T1 wiki:120499	Москвич (завод)
+N2	Reference T2 wiki:586472	Renault
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 15	GRIN (компания)
+T2	Organization 335 341	NVidia
+N1	Reference T1 wiki:1521599	GRIN (компания)
+N2	Reference T2 wiki:1548156	NVidia
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

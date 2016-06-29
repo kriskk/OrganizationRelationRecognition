@@ -1,0 +1,11 @@
+T1	Organization 0 20	Northrop Corporation
+T2	Organization 351 366	Lockheed Martin
+T3	Organization 542 549	Grumman
+T4	Organization 572 588	Northrop Grumman
+N1	Reference T1 wiki:890183	Northrop Corporation
+N2	Reference T2 wiki:301268	Lockheed Martin
+N3	Reference T3 wiki:1018648	Grumman Corporation
+N4	Reference T4 wiki:681371	Northrop Grumman Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,5 @@
+T1	Organization 0 6	Reebok
+T2	Organization 255 261	Adidas
+N1	Reference T1 wiki:399359	Reebok
+N2	Reference T2 wiki:243642	Adidas
+A1	TypeRel T2 Holder

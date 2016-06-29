@@ -1,0 +1,5 @@
+T1	Organization 0 9	Debenhams
+T2	Organization 275 279	МЕГА
+N1	Reference T1 wiki:249511	Debenhams
+N2	Reference T2 wiki:259737	МЕГА
+A1	IsLink T2

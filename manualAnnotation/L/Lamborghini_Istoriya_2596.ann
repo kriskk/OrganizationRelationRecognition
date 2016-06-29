@@ -1,0 +1,5 @@
+T1	Organization 0 11	Lamborghini
+T2	Organization 282 286	Fiat
+N1	Reference T1 wiki:65531	Lamborghini
+N2	Reference T2 wiki:91784	Fiat
+A1	TypeRel T2 Holder

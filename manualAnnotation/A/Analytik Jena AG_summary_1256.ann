@@ -1,0 +1,8 @@
+T1	Organization 0 16	Analytik Jena AG
+T2	Organization 314 324	Carl Zeiss
+T3	Organization 521 531	Carl Zeiss
+N1	Reference T1 wiki:2577716	Analytik Jena AG
+N2	Reference T2 wiki:1151084	Carl Zeiss
+N3	Reference T3 wiki:1151084	Carl Zeiss
+A1	IsLink T2
+A2	IsLink T3

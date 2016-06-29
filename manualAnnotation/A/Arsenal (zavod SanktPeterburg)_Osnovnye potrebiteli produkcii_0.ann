@@ -1,0 +1,8 @@
+T1	Organization 0 32	Арсенал (завод, Санкт-Петербург)
+T2	Organization 167 181	Северная верфь
+T3	Organization 228 248	Адмиралтейские верфи
+N1	Reference T1 wiki:289269	Арсенал (завод, Санкт-Петербург)
+N2	Reference T2 wiki:341131	Северная верфь
+N3	Reference T3 wiki:255841	Адмиралтейские верфи
+A1	IsLink T2
+A2	IsLink T3

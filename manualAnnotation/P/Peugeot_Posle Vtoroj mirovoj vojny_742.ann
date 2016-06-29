@@ -1,0 +1,13 @@
+T1	Organization 0 7	Peugeot
+T2	Organization 271 282	Pininfarina
+T3	Organization 462 469	Renault
+T4	Organization 482 487	Volvo
+N1	Reference T1 wiki:1650729	Peugeot
+N2	Reference T2 wiki:1574788	Pininfarina
+N3	Reference T3 wiki:586472	Renault
+N4	Reference T4 wiki:1921582	Volvo Cars
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

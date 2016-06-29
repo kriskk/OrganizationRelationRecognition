@@ -1,0 +1,5 @@
+T1	Organization 0 28	Дизайн-бюро Артёма Горбунова
+T2	Organization 174 197	Студии Артемия Лебедева
+N1	Reference T1 wiki:2281566	Дизайн-бюро Артёма Горбунова
+N2	Reference T2 wiki:156470	Студия Артемия Лебедева
+A1	IsLink T2

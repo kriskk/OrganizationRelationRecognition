@@ -1,0 +1,5 @@
+T1	Organization 0 11	Союз-Виктан
+T2	Organization 210 218	ING Bank
+N1	Reference T1 wiki:343301	Союз-Виктан
+N2	Reference T2 wiki:555591	ING Bank
+A1	IsLink T2

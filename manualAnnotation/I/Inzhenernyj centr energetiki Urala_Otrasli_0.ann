@@ -1,0 +1,25 @@
+T1	Organization 0 33	Инженерный центр энергетики Урала
+T2	Organization 148 161	ОАО «ФСК ЕЭС»
+T3	Organization 221 239	ОАО «Холдинг МРСК»
+T4	Organization 248 264	ОАО «МРСК Урала»
+T5	Organization 314 332	ОАО «Башкирэнерго»
+T6	Organization 334 352	ОАО «Тюменьэнерго»
+T7	Organization 355 367	ОАО «СО ЕЭС»
+N1	Reference T1 wiki:2692040	Инженерный центр энергетики Урала
+N2	Reference T2 wiki:138863	ФСК ЕЭС
+N3	Reference T3 wiki:2040314	Холдинг МРСК
+N4	Reference T4 wiki:1808298	МРСК Урала
+N5	Reference T5 wiki:1398589	Башкирэнерго
+N6	Reference T6 wiki:2700780	Тюменьэнерго
+N7	Reference T7 wiki:1371111	СО ЕЭС
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator
+A11	TypeRel T7 Cooperator

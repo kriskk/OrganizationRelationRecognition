@@ -1,0 +1,6 @@
+T1	Organization 0 12	Зарубежнефть
+T2	Organization 224 263	«Петролеос де Венесуэла, С. А.» (PdVSA)
+N1	Reference T1 wiki:167554	Зарубежнефть
+N2	Reference T2 wiki:793790	PDVSA
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

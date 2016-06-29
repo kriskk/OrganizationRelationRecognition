@@ -1,0 +1,9 @@
+T1	Organization 0 18	Разрез Бородинский
+T2	Organization 218 260	Сибирская угольная энергетическая компания
+T3	Organization 338 342	СУЭК
+N1	Reference T1 wiki:389701	Разрез Бородинский
+N2	Reference T2 wiki:162787	Сибирская угольная энергетическая компания
+N3	Reference T3 wiki:162787	Сибирская угольная энергетическая компания
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Holder

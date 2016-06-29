@@ -1,0 +1,5 @@
+T1	Organization 0 6	Orange
+T2	Organization 174 188	France Telecom
+N1	Reference T1 wiki:373554	Orange
+N2	Reference T2 wiki:373577	France Telecom
+A1	TypeRel T2 Holder

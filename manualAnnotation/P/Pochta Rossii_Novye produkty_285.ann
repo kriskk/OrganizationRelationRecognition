@@ -1,0 +1,9 @@
+T1	Organization 0 12	Почта России
+T2	Organization 212 228	EMS Почта России
+T3	Organization 274 279	Kodak
+N1	Reference T1 wiki:234849	Почта России
+N2	Reference T2 wiki:2901307	EMS Почта России
+N3	Reference T3 wiki:313661	Kodak
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Cooperator

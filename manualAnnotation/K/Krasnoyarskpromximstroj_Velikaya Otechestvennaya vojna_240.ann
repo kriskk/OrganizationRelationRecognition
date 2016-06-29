@@ -1,0 +1,5 @@
+T1	Organization 0 22	Красноярскпромхимстрой
+T2	Organization 438 447	Сибтяжмаш
+N1	Reference T1 wiki:2051344	Красноярскпромхимстрой
+N2	Reference T2 wiki:3000186	Сибирский завод тяжёлого машиностроения
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 40	Ростовский электрометаллургический завод
+T2	Organization 348 353	Эстар
+T3	Organization 470 475	Мечел
+N1	Reference T1 wiki:1993418	Ростовский электрометаллургический завод
+N2	Reference T2 wiki:376151	Эстар
+N3	Reference T3 wiki:148493	Мечел
+A1	IsLink T2
+A2	IsLink T3

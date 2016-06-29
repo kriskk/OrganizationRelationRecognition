@@ -1,0 +1,14 @@
+T1	Organization 0 21	Acclaim Entertainment
+T2	Organization 211 215	Sega
+T3	Organization 319 327	Nintendo
+T4	Organization 417 421	Sony
+T5	Organization 453 462	Microsoft
+N1	Reference T1 wiki:3487700	Acclaim Entertainment
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:202486	Nintendo
+N4	Reference T4 wiki:73019	Sony
+N5	Reference T5 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

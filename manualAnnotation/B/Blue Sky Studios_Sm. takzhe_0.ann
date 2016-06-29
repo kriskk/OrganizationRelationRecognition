@@ -1,0 +1,11 @@
+T1	Organization 0 16	Blue Sky Studios
+T2	Organization 77 106	Walt Disney Animation Studios
+T3	Organization 110 115	Pixar
+T4	Organization 119 143	DreamWorks Animation SKG
+N1	Reference T1 wiki:2750258	Blue Sky Studios
+N2	Reference T2 wiki:345492	Walt Disney Animation Studios
+N3	Reference T3 wiki:125032	Pixar
+N4	Reference T4 wiki:3634563	DreamWorks Animation SKG
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

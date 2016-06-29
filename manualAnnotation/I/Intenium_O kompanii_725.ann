@@ -1,0 +1,5 @@
+T1	Organization 0 8	Intenium
+T2	Organization 196 204	Nintendo
+N1	Reference T1 wiki:1973110	Intenium
+N2	Reference T2 wiki:202486	Nintendo
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,13 @@
+T1	Organization 0 8	Nintendo
+T2	Organization 278 281	NEC
+T3	Organization 283 288	Atari
+T4	Organization 291 295	Sega
+N1	Reference T1 wiki:202486	Nintendo
+N2	Reference T2 wiki:232844	NEC
+N3	Reference T3 wiki:308218	Atari
+N4	Reference T4 wiki:92589	Sega
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor
+A5	TypeRel T4 Competitor

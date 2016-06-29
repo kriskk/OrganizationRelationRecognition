@@ -1,0 +1,6 @@
+T1	Organization 0 18	Полигон (компания)
+T2	Organization 239 245	Xilinx
+N1	Reference T1 wiki:1626172	Полигон (компания)
+N2	Reference T2 wiki:741134	Xilinx
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,41 @@
+T1	Organization 0 21	Open Handset Alliance
+T2	Organization 175 178	HTC
+T3	Organization 180 185	Intel
+T4	Organization 187 195	Motorola
+T5	Organization 197 205	Qualcomm
+T6	Organization 207 214	Samsung
+T7	Organization 216 218	LG
+T8	Organization 220 226	Huawei
+T9	Organization 228 236	T-Mobile
+T10	Organization 238 244	NVIDIA
+T11	Organization 246 264	Wind River Systems
+N1	Reference T1 wiki:917308	Open Handset Alliance
+N2	Reference T2 wiki:619547	High Tech Computer Corporation
+N3	Reference T3 wiki:762172	Intel
+N4	Reference T4 wiki:134384	Motorola
+N5	Reference T5 wiki:897305	Qualcomm
+N6	Reference T6 wiki:125537	Samsung
+N7	Reference T7 wiki:135021	LG
+N8	Reference T8 wiki:908840	Huawei
+N9	Reference T9 wiki:138787	T-Mobile
+N10	Reference T10 wiki:1548156	NVIDIA
+N11	Reference T11 wiki:400143	Wind River Systems
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A1	TypeRel T2 Subsidiary
+A11	TypeRel T3 Subsidiary
+A12	TypeRel T4 Subsidiary
+A13	TypeRel T5 Subsidiary
+A14	TypeRel T6 Subsidiary
+A15	TypeRel T7 Subsidiary
+A16	TypeRel T8 Subsidiary
+A17	TypeRel T9 Subsidiary
+A18	TypeRel T10 Subsidiary
+A19	TypeRel T11 Subsidiary

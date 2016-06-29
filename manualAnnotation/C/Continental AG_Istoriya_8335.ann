@@ -1,0 +1,5 @@
+T1	Organization 0 14	Continental AG
+T2	Organization 221 234	Michelin S.A.
+N1	Reference T1 wiki:169785	Continental AG
+N2	Reference T2 wiki:214287	Мишлен
+A1	IsLink T2

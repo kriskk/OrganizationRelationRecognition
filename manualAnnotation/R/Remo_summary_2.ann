@@ -1,0 +1,6 @@
+T1	Organization 0 4	Remo
+T2	Organization 231 239	Aquarian
+N1	Reference T1 wiki:3444704	Remo
+N2	Reference T2 wiki:3051533	Aquarian
+A1	IsLink T2
+A2	TypeRel T2 Competitor

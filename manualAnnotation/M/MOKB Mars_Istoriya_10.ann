@@ -1,0 +1,10 @@
+T1	Organization 0 11	МОКБ «Марс»
+T2	Organization 509 516	НИИ-923
+T3	Organization 529 533	МИЭА
+N1	Reference T1 wiki:2435157	МОКБ «Марс»
+N2	Reference T2 wiki:3896899	НИИ-923
+N3	Reference T3 wiki:3896899	Московский институт электромеханики и автоматики
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 17	Катрен (компания)
+T2	Organization 258 268	Эксперт РА
+N1	Reference T1 wiki:2694909	Катрен (компания)
+N2	Reference T2 wiki:363296	Эксперт РА (рейтинговое агентство)
+A1	TypeRel T2 Other

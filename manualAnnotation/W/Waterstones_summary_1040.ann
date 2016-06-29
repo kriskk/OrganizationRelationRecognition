@@ -1,0 +1,5 @@
+T1	Organization 0 11	Waterstones
+T2	Organization 307 316	Starbucks
+N1	Reference T1 wiki:4093338	Waterstones
+N2	Reference T2 wiki:205133	Starbucks
+A1	TypeRel T2 Cooperator

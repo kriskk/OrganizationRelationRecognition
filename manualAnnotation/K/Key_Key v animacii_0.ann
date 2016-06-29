@@ -1,0 +1,14 @@
+T1	Organization 0 3	Key
+T2	Organization 65 79	Toei Animation
+T3	Organization 380 395	Kyoto Animation
+T4	Organization 698 708	P.A. Works
+N1	Reference T1 wiki:3063829	Key
+N2	Reference T2 wiki:578363	Toei Animation
+N3	Reference T3 wiki:1841803	Kyoto Animation
+N4	Reference T4 wiki:3545782	P.A. Works
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

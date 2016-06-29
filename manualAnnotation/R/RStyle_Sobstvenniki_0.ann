@@ -1,0 +1,5 @@
+T1	Organization 0 7	R-Style
+T2	Organization 168 174	Азимут
+N1	Reference T1 wiki:948950	R-Style
+N2	Reference T2 wiki:3824912	Азимут (гостиничная сеть)
+A1	TypeRel T2 Personnel

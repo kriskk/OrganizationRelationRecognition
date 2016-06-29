@@ -1,0 +1,6 @@
+T1	Organization 0 6	Яндекс
+T2	Organization 283 288	ABBYY
+N1	Reference T1 wiki:9744	Яндекс
+N2	Reference T2 wiki:127166	ABBYY
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

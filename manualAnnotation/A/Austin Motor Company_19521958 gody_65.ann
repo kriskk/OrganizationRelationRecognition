@@ -1,0 +1,5 @@
+T1	Organization 0 20	Austin Motor Company
+T2	Organization 238 263	British Motor Corporation
+N1	Reference T1 wiki:4041862	Austin Motor Company
+N2	Reference T2 wiki:3815237	British Motor Corporation
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Авиакор
+T2	Organization 185 195	Bombardier
+N1	Reference T1 wiki:480966	Авиакор
+N2	Reference T2 wiki:168782	Bombardier
+A1	IsLink T2

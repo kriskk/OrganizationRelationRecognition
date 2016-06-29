@@ -1,0 +1,5 @@
+T1	Organization 0 11	МРСК Центра
+T2	Organization 167 179	Холдинг МРСК
+N1	Reference T1 wiki:2321689	МРСК Центра
+N2	Reference T2 wiki:2040314	Холдинг МРСК
+A1	TypeRel T2 Holder

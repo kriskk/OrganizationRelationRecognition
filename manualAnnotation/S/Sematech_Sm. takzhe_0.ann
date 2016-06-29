@@ -1,0 +1,5 @@
+T1	Organization 0 8	Sematech
+T2	Organization 41 45	IMEC
+N1	Reference T1 wiki:3613510	Sematech
+N2	Reference T2 wiki:1858919	IMEC
+A1	IsLink T2

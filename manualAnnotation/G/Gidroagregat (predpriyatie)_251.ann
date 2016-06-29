@@ -1,0 +1,5 @@
+T1	Organization 0 26	Гидроагрегат (предприятие)
+T2	Organization 217 259	Государственная корпорация «Ростехнологии»
+N1	Reference T1 wiki:4131180	Гидроагрегат (предприятие)
+N2	Reference T2 wiki:915063	Ростехнологии
+A1	TypeRel T2 Holder

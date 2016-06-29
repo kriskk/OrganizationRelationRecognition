@@ -1,0 +1,29 @@
+T1	Organization 0 5	Haier
+T2	Organization 310 316	Auchan
+T3	Organization 324 335	Media Markt
+T4	Organization 337 346	Carrefour
+T5	Organization 409 417	Best Buy
+T6	Organization 431 439	Wal-Mart
+T7	Organization 448 454	Costco
+T8	Organization 605 612	М.Видео
+N1	Reference T1 wiki:717363	Haier
+N2	Reference T2 wiki:1324090	Auchan
+N3	Reference T3 wiki:921209	Media Markt
+N4	Reference T4 wiki:165454	Carrefour
+N5	Reference T5 wiki:770538	Best Buy
+N6	Reference T6 wiki:243093	Wal-Mart
+N7	Reference T7 wiki:1961360	Costco
+N8	Reference T8 wiki:370490	М.Видео
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A1	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator

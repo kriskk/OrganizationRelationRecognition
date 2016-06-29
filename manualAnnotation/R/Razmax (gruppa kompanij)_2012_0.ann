@@ -1,0 +1,5 @@
+T1	Organization 0 24	Размах (группа компаний)
+T2	Organization 154 167	«Электросила»
+N1	Reference T1 wiki:3769204	Размах (группа компаний)
+N2	Reference T2 wiki:762934	Электросила (завод)
+A1	IsLink T2

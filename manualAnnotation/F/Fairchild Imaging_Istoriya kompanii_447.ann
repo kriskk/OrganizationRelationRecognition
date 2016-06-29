@@ -1,0 +1,11 @@
+T1	Organization 0 17	Fairchild Imaging
+T2	Organization 310 333	Fairchild Semiconductor
+T3	Organization 760 772	Schlumberger
+T4	Organization 1050 1061	BAE Systems
+N1	Reference T1 wiki:1087125	Fairchild Imaging
+N2	Reference T2 wiki:1074226	Fairchild Semiconductor
+N3	Reference T3 wiki:246264	Schlumberger
+N4	Reference T4 wiki:2435557	BAE Systems
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

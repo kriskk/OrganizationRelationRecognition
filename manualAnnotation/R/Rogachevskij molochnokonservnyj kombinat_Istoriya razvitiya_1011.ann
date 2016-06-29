@@ -1,0 +1,6 @@
+T1	Organization 0 38	Рогачевский молочноконсервный комбинат
+T2	Organization 239 248	Tetra Pak
+N1	Reference T1 wiki:4035255	Рогачевский молочноконсервный комбинат
+N2	Reference T2 wiki:285491	Tetra Pak
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

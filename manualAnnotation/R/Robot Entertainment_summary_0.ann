@@ -1,0 +1,19 @@
+T1	Organization 0 19	Robot Entertainment
+T2	Organization 147 163	Ensemble Studios
+T3	Organization 192 201	Microsoft
+T4	Organization 230 238	Ensemble
+T5	Organization 255 270	Bonfire Studios
+T6	Organization 435 451	Ensemble Studios
+N1	Reference T1 wiki:2092668	Robot Entertainment
+N2	Reference T2 wiki:1294399	Ensemble Studios
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:1294399	Ensemble Studios
+N5	Reference T5 wiki:2092621	Bonfire Studios
+N6	Reference T6 wiki:1294399	Ensemble Studios
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Personnel
+A7	TypeRel T4 Personnel

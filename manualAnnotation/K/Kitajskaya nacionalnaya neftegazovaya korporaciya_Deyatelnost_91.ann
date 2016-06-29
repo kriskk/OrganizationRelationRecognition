@@ -1,0 +1,5 @@
+T1	Organization 0 46	Китайская национальная нефтегазовая корпорация
+T2	Organization 220 230	PetroChina
+N1	Reference T1 wiki:355554	Китайская национальная нефтегазовая корпорация
+N2	Reference T2 wiki:375875	PetroChina
+A1	TypeRel T2 Subsidiary

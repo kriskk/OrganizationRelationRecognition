@@ -1,0 +1,5 @@
+T1	Organization 0 25	Diners Club International
+T2	Organization 189 216	Discover Financial Services
+N1	Reference T1 wiki:3339710	Diners Club International
+N2	Reference T2 wiki:4439539	Discover Financial Services
+A1	IsLink T2

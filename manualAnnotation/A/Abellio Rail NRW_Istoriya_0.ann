@@ -1,0 +1,5 @@
+T1	Organization 0 16	Abellio Rail NRW
+T2	Organization 140 182	транспортным объединением «Рейн-Рур» (VRR)
+N1	Reference T1 wiki:3626176	Abellio Rail NRW
+N2	Reference T2 wiki:3129214	VRR (Северный Рейн-Вестфалия)
+A1	IsLink T2

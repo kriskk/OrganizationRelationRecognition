@@ -1,0 +1,11 @@
+T1	Organization 0 24	Deloitte Touche Tohmatsu
+T2	Organization 234 256	PricewaterhouseCoopers
+T3	Organization 258 271	Эрнст энд Янг
+T4	Organization 274 278	КПМГ
+N1	Reference T1 wiki:143428	Deloitte Touche Tohmatsu
+N2	Reference T2 wiki:275101	PricewaterhouseCoopers
+N3	Reference T3 wiki:385728	Эрнст энд Янг
+N4	Reference T4 wiki:281743	КПМГ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

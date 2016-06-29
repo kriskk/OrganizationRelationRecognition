@@ -1,0 +1,5 @@
+T1	Organization 0 13	Day 1 Studios
+T2	Organization 233 242	LucasArts
+N1	Reference T1 wiki:2413131	Day 1 Studios
+N2	Reference T2 wiki:367933	LucasArts
+A1	IsLink T2

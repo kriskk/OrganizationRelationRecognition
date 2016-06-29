@@ -1,0 +1,6 @@
+T1	Organization 0 7	Philips
+T2	Organization 228 232	Sony
+N1	Reference T1 wiki:204179	Philips
+N2	Reference T2 wiki:73019	Sony
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

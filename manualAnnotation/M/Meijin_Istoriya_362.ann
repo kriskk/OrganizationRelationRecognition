@@ -1,0 +1,6 @@
+T1	Organization 0 6	Meijin
+T2	Organization 200 206	Nvidia
+N1	Reference T1 wiki:3966244	Meijin
+N2	Reference T2 wiki:1548156	Nvidia
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

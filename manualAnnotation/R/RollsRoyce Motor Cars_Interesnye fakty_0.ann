@@ -1,0 +1,11 @@
+T1	Organization 0 22	Rolls-Royce Motor Cars
+T2	Organization 69 83	Bentley Motors
+T3	Organization 269 272	БМВ
+T4	Organization 317 328	Фольксваген
+N1	Reference T1 wiki:40384	Rolls-Royce Motor Cars
+N2	Reference T2 wiki:41442	Bentley Motors
+N3	Reference T3 wiki:40368	БМВ
+N4	Reference T4 wiki:750217	Фольксваген
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary

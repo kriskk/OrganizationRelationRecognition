@@ -1,0 +1,6 @@
+T1	Organization 0 8	Polystan
+T2	Organization 177 183	MAQUET
+N1	Reference T1 wiki:1683433	Polystan
+N2	Reference T2 wiki:964472	Maquet
+A1	IsLink T2
+A2	TypeRel T2 Holder

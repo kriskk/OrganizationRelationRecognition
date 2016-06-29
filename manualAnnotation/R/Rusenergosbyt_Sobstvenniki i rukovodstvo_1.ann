@@ -1,0 +1,5 @@
+T1	Organization 0 13	Русэнергосбыт
+T2	Organization 202 206	ENEL
+N1	Reference T1 wiki:4355370	Русэнергосбыт
+N2	Reference T2 wiki:162880	ENEL
+A1	IsLink T2

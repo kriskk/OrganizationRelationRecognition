@@ -1,0 +1,5 @@
+T1	Organization 0 9	Chuang Yi
+T2	Organization 215 235	Madman Entertainment
+N1	Reference T1 wiki:4052916	Chuang Yi
+N2	Reference T2 wiki:4052928	Madman Entertainment
+A1	IsLink T2

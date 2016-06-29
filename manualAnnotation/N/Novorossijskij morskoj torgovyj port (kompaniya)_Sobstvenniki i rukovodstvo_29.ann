@@ -1,0 +1,8 @@
+T1	Organization 0 47	Новороссийский морской торговый порт (компания)
+T2	Organization 510 520	Транснефти
+T3	Organization 615 618	РЖД
+N1	Reference T1 wiki:308992	Новороссийский морской торговый порт (компания)
+N2	Reference T2 wiki:147540	Транснефть
+N3	Reference T3 wiki:106901	Российские железные дороги
+A1	IsLink T2
+A2	IsLink T3

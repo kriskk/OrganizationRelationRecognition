@@ -1,0 +1,6 @@
+T1	Organization 0 8	Madhouse
+T2	Organization 97 114	Mushi Productions
+N1	Reference T1 wiki:871335	Madhouse
+N2	Reference T2 wiki:2689263	Mushi Productions
+A1	IsLink T2
+A2	TypeRel T2 Personnel

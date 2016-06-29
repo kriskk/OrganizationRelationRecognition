@@ -1,0 +1,41 @@
+T1	Organization 0 12	Swatch Group
+T2	Organization 90 97	Breguet
+T3	Organization 99 108	Blancpain
+T4	Organization 120 124	Mido
+T5	Organization 126 134	Longines
+T6	Organization 136 141	Omega
+T7	Organization 143 147	Rado
+T8	Organization 149 156	Certina
+T9	Organization 158 164	Tissot
+T10	Organization 166 172	Swatch
+T11	Organization 315 324	Flik Flak
+T12	Organization 444 447	ETA
+T13	Organization 625 629	Oris
+T14	Organization 786 798	Tiffany & Co
+N1	Reference T1 wiki:214233	Swatch Group
+N2	Reference T2 wiki:1072056	Breguet
+N3	Reference T3 wiki:1075077	Blancpain
+N4	Reference T4 wiki:1054457	Mido
+N5	Reference T5 wiki:1057852	Longines
+N6	Reference T6 wiki:1047157	Omega (компания)
+N7	Reference T7 wiki:1052474	Rado
+N8	Reference T8 wiki:1052953	Certina
+N9	Reference T9 wiki:177171	Tissot
+N10	Reference T10 wiki:1046759	Swatch
+N11	Reference T11 wiki:1046759	Flik Flak
+N12	Reference T12 wiki:1080471	ETA (фабрика)
+N13	Reference T13 wiki:3271935	Oris
+N14	Reference T14 wiki:1909598	Tiffany & Co
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14

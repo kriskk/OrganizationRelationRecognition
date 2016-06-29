@@ -1,0 +1,8 @@
+T1	Organization 0 14	Северная казна
+T2	Organization 163 167	Visa
+T3	Organization 192 202	MasterCard
+N1	Reference T1 wiki:373467	Северная казна
+N2	Reference T2 wiki:36386	Visa
+N3	Reference T3 wiki:36409	MasterCard
+A1	IsLink T2
+A2	IsLink T3

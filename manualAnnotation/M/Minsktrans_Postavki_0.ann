@@ -1,0 +1,14 @@
+T1	Organization 0 10	Минсктранс
+T2	Organization 196 201	Неман
+T3	Organization 203 206	МАЗ
+T4	Organization 208 220	Белкоммунмаш
+N1	Reference T1 wiki:2207812	Минсктранс
+N2	Reference T2 wiki:210860	Неман (автозавод)
+N3	Reference T3 wiki:33218	МАЗ
+N4	Reference T4 wiki:154763	Белкоммунмаш
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

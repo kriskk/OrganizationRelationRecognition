@@ -1,0 +1,5 @@
+T1	Organization 0 5	СОФАГ
+T2	Organization 265 295	Volga Resources SICAV-SIF S.A.
+N1	Reference T1 wiki:2627701	СОФАГ
+N2	Reference T2 wiki:4477826	Volga Resources Group
+A1	TypeRel T2 Holder

@@ -1,0 +1,8 @@
+T1	Organization 0 31	Петропавловск (группа компаний)
+T2	Organization 64 74	Полиметалл
+T3	Organization 77 89	Полюс Золото
+N1	Reference T1 wiki:2769804	Петропавловск (группа компаний)
+N2	Reference T2 wiki:365296	Полиметалл
+N3	Reference T3 wiki:160950	Полюс Золото
+A1	IsLink T2
+A2	IsLink T3

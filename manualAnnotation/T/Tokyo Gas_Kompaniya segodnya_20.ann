@@ -1,0 +1,14 @@
+T1	Organization 0 9	Tokyo Gas
+T2	Organization 252 261	Osaka Gas
+T3	Organization 496 501	TEPCO
+T4	Organization 504 513	Osaka Gas
+T5	Organization 673 682	Panasonic
+N1	Reference T1 wiki:2013438	Tokyo Gas
+N2	Reference T2 wiki:2011744	Osaka Gas
+N3	Reference T3 wiki:1984193	Tokyo Electric Power Company
+N4	Reference T4 wiki:2011744	Osaka Gas
+N5	Reference T5 wiki:307154	Panasonic
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

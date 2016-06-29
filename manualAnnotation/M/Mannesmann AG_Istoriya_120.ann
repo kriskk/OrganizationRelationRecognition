@@ -1,0 +1,18 @@
+T1	Organization 0 13	Mannesmann AG
+T2	Organization 186 200	Vodafone Group
+T3	Organization 483 493	Siemens AG
+T4	Organization 546 563	Robert Bosch GmbH
+T5	Organization 607 620	Salzgitter AG
+N1	Reference T1 wiki:507916	Mannesmann AG
+N2	Reference T2 wiki:213703	Vodafone Group
+N3	Reference T3 wiki:36510	Siemens AG
+N4	Reference T4 wiki:166006	Robert Bosch GmbH
+N5	Reference T5 wiki:507928	Salzgitter AG
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Holder
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Holder

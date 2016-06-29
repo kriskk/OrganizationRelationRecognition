@@ -1,0 +1,5 @@
+T1	Organization 0 15	Bigpoint Berlin
+T2	Organization 257 265	Bigpoint
+N1	Reference T1 wiki:1997292	Bigpoint Berlin
+N2	Reference T2 wiki:1108459	Bigpoint
+A1	IsLink T2

@@ -1,0 +1,10 @@
+T1	Organization 0 6	Milupa
+T2	Organization 153 161	Nutricia
+T3	Organization 207 213	Danone
+N1	Reference T1 wiki:4378192	Milupa
+N2	Reference T2 wiki:4378191	Nutricia
+N3	Reference T3 wiki:279435	Danone
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder
+A4	TypeRel T2 Cooperator

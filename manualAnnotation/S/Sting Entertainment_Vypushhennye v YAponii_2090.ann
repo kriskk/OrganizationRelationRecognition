@@ -1,0 +1,5 @@
+T1	Organization 0 19	Sting Entertainment
+T2	Organization 224 230	Bandai
+N1	Reference T1 wiki:3731467	Sting Entertainment
+N2	Reference T2 wiki:393686	Bandai
+A1	IsLink T2

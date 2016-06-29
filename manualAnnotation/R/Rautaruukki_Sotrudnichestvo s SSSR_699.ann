@@ -1,0 +1,5 @@
+T1	Organization 0 11	Rautaruukki
+T2	Organization 200 217	Карельский окатыш
+N1	Reference T1 wiki:2816108	Rautaruukki
+N2	Reference T2 wiki:153136	Карельский окатыш
+A1	IsLink T2

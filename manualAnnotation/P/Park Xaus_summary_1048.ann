@@ -1,0 +1,10 @@
+T1	Organization 0 9	Парк Хаус
+T2	Organization 214 217	OBI
+T3	Organization 368 379	Media Markt
+N1	Reference T1 wiki:1480690	Парк Хаус
+N2	Reference T2 wiki:149772	OBI
+N3	Reference T3 wiki:921209	Media Markt
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

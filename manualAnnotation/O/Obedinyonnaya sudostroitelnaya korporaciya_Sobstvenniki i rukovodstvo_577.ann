@@ -1,0 +1,22 @@
+T1	Organization 0 40	Объединённая судостроительная корпорация
+T2	Organization 246 253	Росатом
+T3	Organization 334 347	Ростехнологии
+T4	Organization 486 496	Совкомфлот
+T5	Organization 792 830	Новолипецкий металлургический комбинат
+T6	Organization 1000 1007	Газпром
+N1	Reference T1 wiki:590392	Объединённая судостроительная корпорация
+N2	Reference T2 wiki:1299917	Росатом
+N3	Reference T3 wiki:915063	Ростехнологии
+N4	Reference T4 wiki:210676	Совкомфлот
+N5	Reference T5 wiki:143594	Новолипецкий металлургический комбинат
+N6	Reference T6 wiki:44754	Газпром
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Personnel
+A7	TypeRel T3 Personnel
+A8	TypeRel T4 Personnel
+A9	TypeRel T5 Personnel
+A10	TypeRel T6 Personnel

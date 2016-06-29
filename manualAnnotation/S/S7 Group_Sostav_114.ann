@@ -1,0 +1,18 @@
+T1	Organization 0 8	S7 Group
+T2	Organization 177 184	S7 Tour
+T3	Organization 218 227	S7 Ticket
+T4	Organization 326 342	«S7 Engineering»
+T5	Organization 447 461	Sibir Technics
+N1	Reference T1 wiki:2278965	S7 Group
+N2	Reference T2 wiki:1830368	S7 Tour
+N3	Reference T3 wiki:2279004	S7 Ticket
+N4	Reference T4 wiki:4238417	Холдинг Инжиниринг
+N5	Reference T5 wiki:4238417	Холдинг Инжиниринг
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Vodafone
+T2	Organization 213 223	Mannesmann
+N1	Reference T1 wiki:213703	Vodafone
+N2	Reference T2 wiki:507916	Mannesmann
+A1	IsLink T2

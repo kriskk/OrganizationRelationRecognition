@@ -1,0 +1,22 @@
+T1	Organization 0 8	Manaccom
+T2	Organization 180 195	Apogee Software
+T3	Organization 197 211	Epic MegaGames
+T4	Organization 213 228	Safari Software
+T5	Organization 231 242	Id Software
+T6	Organization 415 422	Acronis
+N1	Reference T1 wiki:764833	Manaccom
+N2	Reference T2 wiki:2349412	Apogee Software
+N3	Reference T3 wiki:2094890	Epic MegaGames
+N4	Reference T4 wiki:765044	Safari Software
+N5	Reference T5 wiki:80386	Id Software
+N6	Reference T6 wiki:1578313	Acronis
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

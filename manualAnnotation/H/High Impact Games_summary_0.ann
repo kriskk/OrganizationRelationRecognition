@@ -1,0 +1,10 @@
+T1	Organization 0 17	High Impact Games
+T2	Organization 153 168	Insomniac Games
+T3	Organization 171 182	Naughty Dog
+N1	Reference T1 wiki:4394972	High Impact Games
+N2	Reference T2 wiki:3627829	Insomniac Games
+N3	Reference T3 wiki:2550773	Naughty Dog
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

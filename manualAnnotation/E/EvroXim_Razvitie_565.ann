@@ -1,0 +1,5 @@
+T1	Organization 0 7	ЕвроХим
+T2	Organization 211 247	Мурманского морского торгового порта
+N1	Reference T1 wiki:376551	ЕвроХим
+N2	Reference T2 wiki:3022119	Мурманский морской торговый порт
+A1	IsLink T2

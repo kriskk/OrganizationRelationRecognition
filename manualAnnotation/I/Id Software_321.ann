@@ -1,0 +1,6 @@
+T1	Organization 0 11	Id Software
+T2	Organization 175 188	ZeniMax Media
+N1	Reference T1 wiki:80386	Id Software
+N2	Reference T2 wiki:2147996	ZeniMax Media
+A1	IsLink T2
+A2	TypeRel T2 Holder

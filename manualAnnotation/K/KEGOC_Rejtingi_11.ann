@@ -1,0 +1,13 @@
+T1	Organization 0 5	KEGOC
+T2	Organization 195 212	Standard & Poor’s
+T3	Organization 232 239	Moody’s
+T4	Organization 259 272	Fitch Ratings
+N1	Reference T1 wiki:3287548	KEGOC
+N2	Reference T2 wiki:198286	Standard & Poor’s
+N3	Reference T3 wiki:363292	Moody’s
+N4	Reference T4 wiki:2180281	Fitch Ratings
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Other
+A4	TypeRel T3 Other
+A5	TypeRel T4 Other

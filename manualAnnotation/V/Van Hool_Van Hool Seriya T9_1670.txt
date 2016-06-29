@@ -1,0 +1,12 @@
+Van Hool
+@Автобусы
+@Van Hool, Серия Т9
+1457,1787,1670
+
+	 Van Hool T916/T917 Astron
+	 Van Hool T916/T917 Astronef
+	 Van Hool T917/T918/T919 Altano
+	 Van Hool TD925/TD927 Astromega
+	 Van Hool T9 Alizée (на шасси Scania, Volvo, VDL)
+
+

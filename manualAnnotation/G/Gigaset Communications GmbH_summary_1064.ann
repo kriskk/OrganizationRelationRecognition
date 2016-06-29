@@ -1,0 +1,5 @@
+T1	Organization 0 27	Gigaset Communications GmbH
+T2	Organization 231 251	Sagem Communications
+N1	Reference T1 wiki:1705697	Gigaset Communications GmbH
+N2	Reference T2 wiki:65325	SAGEM
+A1	TypeRel T2 Holder

@@ -1,0 +1,10 @@
+T1	Organization 0 10	PeopleSoft
+T2	Organization 233 239	Oracle
+T3	Organization 313 319	Oracle
+N1	Reference T1 wiki:2977933	PeopleSoft
+N2	Reference T2 wiki:129227	Oracle
+N3	Reference T3 wiki:129227	Oracle
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

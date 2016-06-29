@@ -1,0 +1,8 @@
+T1	Organization 0 8	Fuze box
+T2	Organization 215 222	Polycom
+T3	Organization 224 232	Tandberg
+N1	Reference T1 wiki:3722848	Fuze box
+N2	Reference T2 wiki:2173201	Polycom
+N3	Reference T3 wiki:1683710	Tandberg
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 12	Куйбышевазот
+T2	Organization 227 233	RBC.ru
+N1	Reference T1 wiki:987301	Куйбышевазот
+N2	Reference T2 wiki:391746	RBC.ru
+A1	TypeRel T2 Other

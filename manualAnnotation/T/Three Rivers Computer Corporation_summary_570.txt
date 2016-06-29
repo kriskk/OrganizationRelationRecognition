@@ -1,0 +1,5 @@
+Three Rivers Computer Corporation
+@summary
+322,570
+
+В 1984 году 3RCC была переименована в PERQ System Corporation. В 1986 году она прекратила деятельность, по большей части из-за конкуренции со стороны других производителей рабочих станций, таких как Sun Microsystems, Apollo Computer и Silicon Graphics.

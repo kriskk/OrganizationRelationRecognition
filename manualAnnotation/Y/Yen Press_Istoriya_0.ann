@@ -1,0 +1,6 @@
+T1	Organization 0 9	Yen Press
+T2	Organization 100 109	DC Comics
+N1	Reference T1 wiki:2146514	Yen Press
+N2	Reference T2 wiki:1742414	DC Comics
+A1	IsLink T2
+A2	TypeRel T2 Personnel

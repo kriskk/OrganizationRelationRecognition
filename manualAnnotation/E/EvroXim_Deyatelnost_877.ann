@@ -1,0 +1,5 @@
+T1	Organization 0 7	ЕвроХим
+T2	Organization 184 190	Lifosa
+N1	Reference T1 wiki:376551	ЕвроХим
+N2	Reference T2 wiki:452942	Lifosa
+A1	IsLink T2

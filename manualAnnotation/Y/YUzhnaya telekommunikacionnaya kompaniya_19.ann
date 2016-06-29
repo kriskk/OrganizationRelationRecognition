@@ -1,0 +1,5 @@
+T1	Organization 0 35	Южная телекоммуникационная компания
+T2	Organization 237 247	Ростелеком
+N1	Reference T1 wiki:283742	Южная телекоммуникационная компания
+N2	Reference T2 wiki:145844	Ростелеком
+A1	TypeRel T2 Holder

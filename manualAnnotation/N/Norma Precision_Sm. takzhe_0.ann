@@ -1,0 +1,8 @@
+T1	Organization 0 15	Norma Precision
+T2	Organization 119 133	Remington Arms
+T3	Organization 136 140	SAKO
+N1	Reference T1 wiki:4080895	Norma Precision
+N2	Reference T2 wiki:2097905	Remington Arms
+N3	Reference T3 wiki:4085259	SAKO
+A1	IsLink T2
+A2	IsLink T3

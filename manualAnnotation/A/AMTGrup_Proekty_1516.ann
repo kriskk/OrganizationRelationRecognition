@@ -1,0 +1,6 @@
+T1	Organization 0 8	АМТ-Груп
+T2	Organization 244 257	Ernst & Young
+N1	Reference T1 wiki:2782529	АМТ-Груп
+N2	Reference T2 wiki:385728	Ernst & Young
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

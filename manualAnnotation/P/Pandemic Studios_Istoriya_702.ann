@@ -1,0 +1,9 @@
+T1	Organization 0 16	Pandemic Studios
+T2	Organization 205 212	BioWare
+T3	Organization 438 453	Electronic Arts
+N1	Reference T1 wiki:2316640	Pandemic Studios
+N2	Reference T2 wiki:546996	BioWare
+N3	Reference T3 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

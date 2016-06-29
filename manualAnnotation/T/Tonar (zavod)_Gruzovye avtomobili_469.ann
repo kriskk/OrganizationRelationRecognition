@@ -1,0 +1,8 @@
+T1	Organization 0 13	Тонар (завод)
+T2	Organization 242 249	Cummins
+T3	Organization 252 255	ЯМЗ
+N1	Reference T1 wiki:3070798	Тонар (завод)
+N2	Reference T2 wiki:2407448	Cummins
+N3	Reference T3 wiki:916530	ЯМЗ
+A1	IsLink T2
+A2	IsLink T3

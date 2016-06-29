@@ -1,0 +1,5 @@
+T1	Organization 0 22	Assicurazioni Generali
+T2	Organization 200 231	Дженерали ППФ Страхование жизни
+N1	Reference T1 wiki:1784912	Assicurazioni Generali
+N2	Reference T2 wiki:3162006	Дженерали ППФ Страхование жизни
+A1	IsLink T2

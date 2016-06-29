@@ -1,0 +1,10 @@
+T1	Organization 0 15	Находка Телеком
+T2	Organization 171 178	МегаФон
+T3	Organization 315 323	Inmarsat
+N1	Reference T1 wiki:2860435	Находка Телеком
+N2	Reference T2 wiki:70933	МегаФон
+N3	Reference T3 wiki:192915	Inmarsat
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

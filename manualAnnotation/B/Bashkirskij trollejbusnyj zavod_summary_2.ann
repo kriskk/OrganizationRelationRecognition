@@ -1,0 +1,5 @@
+T1	Organization 0 30	Башкирский троллейбусный завод
+T2	Organization 240 246	Тролза
+N1	Reference T1 wiki:915827	Башкирский троллейбусный завод
+N2	Reference T2 wiki:372018	Тролза
+A1	IsLink T2

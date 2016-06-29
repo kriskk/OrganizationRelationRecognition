@@ -1,0 +1,5 @@
+T1	Organization 0 15	Marussia Motors
+T2	Organization 143 151	Marussia
+N1	Reference T1 wiki:2836376	Marussia Motors
+N2	Reference T2 wiki:2836376	Marussia
+A1	TypeRel T2 Alias

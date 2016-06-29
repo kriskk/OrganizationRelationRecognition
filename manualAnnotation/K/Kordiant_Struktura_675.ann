@@ -1,0 +1,5 @@
+T1	Organization 0 8	Кордиант
+T2	Organization 290 304	Continental AG
+N1	Reference T1 wiki:1622512	Кордиант
+N2	Reference T2 wiki:169785	Continental AG
+A1	TypeRel T2 Cooperator

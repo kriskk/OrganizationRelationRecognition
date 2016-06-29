@@ -1,0 +1,5 @@
+T1	Organization 0 15	Базовый элемент
+T2	Organization 99 126	ЛПК Континенталь Менеджмент
+N1	Reference T1 wiki:156379	Базовый элемент
+N2	Reference T2 wiki:129328	ЛПК Континенталь Менеджмент
+A1	IsLink T2

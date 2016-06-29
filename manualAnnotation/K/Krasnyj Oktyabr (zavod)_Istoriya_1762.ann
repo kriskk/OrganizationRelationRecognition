@@ -1,0 +1,5 @@
+T1	Organization 0 23	Красный Октябрь (завод)
+T2	Organization 279 291	Запорожсталь
+N1	Reference T1 wiki:373669	Красный Октябрь (завод)
+N2	Reference T2 wiki:41230	Запорожсталь
+A1	IsLink T2

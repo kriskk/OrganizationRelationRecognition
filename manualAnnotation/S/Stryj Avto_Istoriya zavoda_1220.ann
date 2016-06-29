@@ -1,0 +1,14 @@
+T1	Organization 0 10	Стрый Авто
+T2	Organization 237 240	ЗИЛ
+T3	Organization 402 405	FAW
+T4	Organization 526 546	Галицкого автозавода
+T5	Organization 585 591	ГалАЗа
+N1	Reference T1 wiki:3335568	Стрый Авто
+N2	Reference T2 wiki:259988	ЗИЛ
+N3	Reference T3 wiki:376864	FAW
+N4	Reference T4 wiki:3331210	Галицкий автозавод
+N5	Reference T5 wiki:3331210	Галицкий автозавод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,5 @@
+T1	Organization 0 4	Aldi
+T2	Organization 37 41	Lidl
+N1	Reference T1 wiki:166756	Aldi
+N2	Reference T2 wiki:166793	Lidl
+A1	IsLink T2

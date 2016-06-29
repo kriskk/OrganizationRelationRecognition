@@ -1,0 +1,5 @@
+T1	Organization 0 8	Intersil
+T2	Organization 286 302	General Electric
+N1	Reference T1 wiki:986914	Intersil
+N2	Reference T2 wiki:13762	General Electric
+A1	TypeRel T2 Holder

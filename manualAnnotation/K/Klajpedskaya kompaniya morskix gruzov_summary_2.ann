@@ -1,0 +1,5 @@
+T1	Organization 0 35	Клайпедская компания морских грузов
+T2	Organization 222 240	Клайпедского порта
+N1	Reference T1 wiki:455639	Клайпедская компания морских грузов
+N2	Reference T2 wiki:455656	Клайпедский порт
+A1	TypeRel T2 Holder

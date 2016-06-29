@@ -1,0 +1,5 @@
+T1	Organization 0 7	Роснано
+T2	Organization 257 264	Оптоган
+N1	Reference T1 wiki:728818	Роснано
+N2	Reference T2 wiki:2369197	Оптоган
+A1	IsLink T2

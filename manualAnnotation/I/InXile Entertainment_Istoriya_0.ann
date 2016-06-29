@@ -1,0 +1,6 @@
+T1	Organization 0 20	InXile Entertainment
+T2	Organization 89 110	Interplay Productions
+N1	Reference T1 wiki:4421752	InXile Entertainment
+N2	Reference T2 wiki:87238	Interplay Productions
+A1	IsLink T2
+A2	TypeRel T2 Personnel

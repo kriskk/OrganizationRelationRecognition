@@ -1,0 +1,10 @@
+T1	Organization 0 17	Вириал (компания)
+T2	Organization 227 267	производственного объединения «Светлана»
+T3	Organization 361 368	Роснано
+N1	Reference T1 wiki:3210774	Вириал (компания)
+N2	Reference T2 wiki:768265	Светлана (компания)
+N3	Reference T3 wiki:728818	Роснано
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

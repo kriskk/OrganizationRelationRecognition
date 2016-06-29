@@ -1,0 +1,25 @@
+T1	Organization 0 10	Комикс-Арт
+T2	Organization 229 237	Shueisha
+T3	Organization 249 259	Hakusensha
+T4	Organization 277 292	Kadokawa Shoten
+T5	Organization 295 303	Kodansha
+T6	Organization 340 348	Tokyopop
+T7	Organization 571 583	Сакура-пресс
+N1	Reference T1 wiki:1426284	Комикс-Арт
+N2	Reference T2 wiki:204996	Shueisha
+N3	Reference T3 wiki:206069	Hakusensha
+N4	Reference T4 wiki:206144	Kadokawa Shoten
+N5	Reference T5 wiki:200272	Kodansha
+N6	Reference T6 wiki:984885	Tokyopop
+N7	Reference T7 wiki:713702	Сакура-пресс
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator

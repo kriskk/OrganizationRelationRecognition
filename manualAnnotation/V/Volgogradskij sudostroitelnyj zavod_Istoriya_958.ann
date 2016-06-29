@@ -1,0 +1,5 @@
+T1	Organization 0 36	Волгоградский судостроительный завод
+T2	Organization 248 254	Лукойл
+N1	Reference T1 wiki:376457	Волгоградский судостроительный завод
+N2	Reference T2 wiki:59354	Лукойл
+A1	TypeRel T2 Cooperator

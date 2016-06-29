@@ -1,0 +1,17 @@
+T1	Organization 0 6	Animax
+T2	Organization 138 142	Sony
+T3	Organization 268 295	Sony Pictures Entertainment
+T4	Organization 311 318	Sunrise
+T5	Organization 320 334	Toei Animation
+T6	Organization 336 353	TMS Entertainment
+N1	Reference T1 wiki:2484790	Animax
+N2	Reference T2 wiki:73019	Sony
+N3	Reference T3 wiki:1830946	Sony Pictures Entertainment
+N4	Reference T4 wiki:373049	Sunrise (студия)
+N5	Reference T5 wiki:578363	Toei Animation
+N6	Reference T6 wiki:2785501	TMS Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

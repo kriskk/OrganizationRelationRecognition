@@ -1,0 +1,6 @@
+T1	Organization 0 7	L’Oréal
+T2	Organization 183 202	Maybelline New York
+N1	Reference T1 wiki:164733	L’Oréal
+N2	Reference T2 wiki:1017189	Maybelline
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

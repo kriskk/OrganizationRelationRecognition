@@ -1,0 +1,18 @@
+T1	Organization 0 6	IBS AG
+T2	Organization 168 171	BMW
+T3	Organization 173 183	Siemens AG
+T4	Organization 185 192	Porsche
+T5	Organization 194 209	DaimlerChrysler
+N1	Reference T1 wiki:612298	IBS AG
+N2	Reference T2 wiki:40368	BMW
+N3	Reference T3 wiki:36510	Siemens AG
+N4	Reference T4 wiki:403194	Porsche
+N5	Reference T5 wiki:39716	DaimlerChrysler
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator

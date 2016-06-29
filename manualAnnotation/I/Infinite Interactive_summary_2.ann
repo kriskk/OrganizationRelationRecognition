@@ -1,0 +1,14 @@
+T1	Organization 0 20	Infinite Interactive
+T2	Organization 209 232	Strategic Studies Group
+T3	Organization 517 524	UbiSoft
+T4	Organization 646 649	SSG
+N1	Reference T1 wiki:765710	Infinite Interactive
+N2	Reference T2 wiki:766734	Strategic Studies Group
+N3	Reference T3 wiki:650139	UbiSoft
+N4	Reference T4 wiki:766734	SSG
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

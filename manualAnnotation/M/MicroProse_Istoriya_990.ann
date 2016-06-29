@@ -1,0 +1,5 @@
+T1	Organization 0 10	MicroProse
+T2	Organization 248 261	Firaxis Games
+N1	Reference T1 wiki:298661	MicroProse
+N2	Reference T2 wiki:2726696	Firaxis Games
+A1	TypeRel T2 Personnel

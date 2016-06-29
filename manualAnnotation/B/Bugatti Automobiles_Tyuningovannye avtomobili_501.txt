@@ -1,0 +1,7 @@
+Bugatti Automobiles
+@Тюнингованные автомобили
+5116,501
+
+	 Bugatti Type 57 C Voll & Ruhrbeck Cabriolet (1939) германское ателье «Волл и Рюрбек» (Voll & Ruhrbeck)
+	 Bugatti Type 101 Exner Ghia (1966) итальянское ателье «Кароцериа Гиа СпА» (Carrozzeria Ghia SpA) по эскизам американского дизайнера Вирджила Экснера (Virgil Exner)
+	 Bugatti Veyron 16.4 Vincero (2009) швейцарское премиум ателье Мансори (Mansory)

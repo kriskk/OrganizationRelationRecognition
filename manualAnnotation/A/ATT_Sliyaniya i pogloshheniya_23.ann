@@ -1,0 +1,14 @@
+T1	Organization 0 4	AT&T
+T2	Organization 278 285	Verizon
+T3	Organization 358 370	T-Mobile USA
+T4	Organization 373 389	Deutsche Telekom
+T5	Organization 517 524	Verizon
+N1	Reference T1 wiki:162994	AT&T
+N2	Reference T2 wiki:251493	Verizon Communications
+N3	Reference T3 wiki:138787	T-Mobile
+N4	Reference T4 wiki:169094	Deutsche Telekom
+N5	Reference T5 wiki:251493	Verizon
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

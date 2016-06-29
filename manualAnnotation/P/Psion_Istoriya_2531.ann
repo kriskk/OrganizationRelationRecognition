@@ -1,0 +1,10 @@
+T1	Organization 0 5	Psion
+T2	Organization 219 224	Nokia
+T3	Organization 362 380	Motorola Solutions
+N1	Reference T1 wiki:353769	Psion
+N2	Reference T2 wiki:56405	Nokia
+N3	Reference T3 wiki:134384	Motorola Solutions
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Holder

@@ -1,0 +1,14 @@
+T1	Organization 0 8	TrueConf
+T2	Organization 276 282	Нестле
+T3	Organization 284 293	Скай Линк
+T4	Organization 312 323	АФК Система
+T5	Organization 325 357	Московская теплосетевая компания
+N1	Reference T1 wiki:2599751	TrueConf
+N2	Reference T2 wiki:121355	Нестле
+N3	Reference T3 wiki:145535	Скай Линк
+N4	Reference T4 wiki:158888	АФК Система
+N5	Reference T5 wiki:2953166	Московская теплосетевая компания
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,10 @@
+T1	Organization 0 13	Piranha Bytes
+T2	Organization 198 204	JoWood
+T3	Organization 570 581	Deep Silver
+N1	Reference T1 wiki:1509520	Piranha Bytes
+N2	Reference T2 wiki:1800861	JoWood
+N3	Reference T3 wiki:2009804	Deep Silver
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

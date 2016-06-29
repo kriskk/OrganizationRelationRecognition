@@ -1,0 +1,5 @@
+T1	Organization 0 28	Перекрёсток (сеть магазинов)
+T2	Organization 193 208	X5 Retail Group
+N1	Reference T1 wiki:176082	Перекрёсток (сеть магазинов)
+N2	Reference T2 wiki:353293	X5 Retail Group
+A1	TypeRel T2 Holder

@@ -1,0 +1,9 @@
+T1	Organization 0 4	Rare
+T2	Organization 34 42	Rareware
+T3	Organization 149 157	Nintendo
+N1	Reference T1 wiki:124471	Rare
+N2	Reference T2 wiki:124471	Rareware
+N3	Reference T3 wiki:202486	Nintendo
+A1	IsLink T2
+A2	TypeRel T3 Cooperator
+A3	TypeRel T2 Alias

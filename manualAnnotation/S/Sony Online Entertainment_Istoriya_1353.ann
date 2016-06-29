@@ -1,0 +1,5 @@
+T1	Organization 0 25	Sony Online Entertainment
+T2	Organization 199 208	LucasArts
+N1	Reference T1 wiki:3228138	Sony Online Entertainment
+N2	Reference T2 wiki:367933	LucasArts
+A1	IsLink T2

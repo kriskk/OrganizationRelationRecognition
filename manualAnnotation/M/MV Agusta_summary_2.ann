@@ -1,0 +1,5 @@
+T1	Organization 0 9	MV Agusta
+T2	Organization 191 197	Agusta
+N1	Reference T1 wiki:3239010	MV Agusta
+N2	Reference T2 wiki:604719	Agusta
+A1	TypeRel T2 Holder

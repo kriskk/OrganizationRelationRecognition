@@ -1,0 +1,5 @@
+T1	Organization 0 8	Домолинк
+T2	Organization 176 186	Ростелеком
+N1	Reference T1 wiki:1387694	Домолинк
+N2	Reference T2 wiki:145844	Ростелеком
+A1	IsLink T2

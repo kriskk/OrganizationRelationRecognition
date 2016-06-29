@@ -1,0 +1,5 @@
+T1	Organization 0 5	NOHAB
+T2	Organization 38 41	ABB
+N1	Reference T1 wiki:2143568	NOHAB
+N2	Reference T2 wiki:266484	ABB
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 11	Авиастар-СП
+T2	Organization 237 273	Савеловский машиностроительный завод
+T3	Organization 305 331	Группы Компаний «Бородино»
+N1	Reference T1 wiki:746275	Авиастар-СП
+N2	Reference T2 wiki:3528406	Савеловский машиностроительный завод
+N3	Reference T3 wiki:181020	Бородино (компания)
+A1	IsLink T2
+A2	IsLink T3

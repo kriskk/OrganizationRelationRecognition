@@ -1,0 +1,22 @@
+T1	Organization 0 13	Лепсе (завод)
+T2	Organization 99 106	АвтоВАЗ
+T3	Organization 137 140	МиГ
+T4	Organization 142 147	Салют
+T5	Organization 149 162	завод «Сокол»
+T6	Organization 164 176	НПО «Сатурн»
+N1	Reference T1 wiki:1120164	Лепсе (завод)
+N2	Reference T2 wiki:139276	АвтоВАЗ
+N3	Reference T3 wiki:26999	МиГ
+N4	Reference T4 wiki:335632	НПЦ газотурбостроения «Салют»
+N5	Reference T5 wiki:144095	Сокол (авиастроительный завод)
+N6	Reference T6 wiki:233902	Сатурн (НПО)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

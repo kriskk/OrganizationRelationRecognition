@@ -1,0 +1,11 @@
+T1	Organization 0 19	Nordic Yards Wismar
+T2	Organization 52 64	Blohm + Voss
+T3	Organization 67 87	Elbewerft Boizenburg
+T4	Organization 90 115	Arctech Helsinki Shipyard
+N1	Reference T1 wiki:3540711	Nordic Yards Wismar
+N2	Reference T2 wiki:933856	Blohm + Voss
+N3	Reference T3 wiki:3415780	Elbewerft Boizenburg
+N4	Reference T4 wiki:4277541	Arctech Helsinki Shipyard
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

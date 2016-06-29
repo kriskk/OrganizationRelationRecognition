@@ -1,0 +1,5 @@
+T1	Organization 0 8	Symantec
+T2	Organization 205 227	Peter Norton Computing
+N1	Reference T1 wiki:157841	Symantec
+N2	Reference T2 wiki:2454399	Peter Norton Computing
+A1	IsLink T2

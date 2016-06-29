@@ -1,0 +1,11 @@
+T1	Organization 0 20	Siemens PLM Software
+T2	Organization 183 200	McDonnell Douglas
+T3	Organization 209 215	Boeing
+T4	Organization 521 538	McDonnell Douglas
+N1	Reference T1 wiki:554885	Siemens PLM Software
+N2	Reference T2 wiki:87592	McDonnell Douglas
+N3	Reference T3 wiki:156398	Boeing
+N4	Reference T4 wiki:87592	McDonnell Douglas
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

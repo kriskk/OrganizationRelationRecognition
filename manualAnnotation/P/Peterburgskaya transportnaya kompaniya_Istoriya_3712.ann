@@ -1,0 +1,9 @@
+T1	Organization 0 35	Петербургская транспортная компания
+T2	Organization 229 246	Пассажиравтотранс
+T3	Organization 403 435	Петербургской топливной компании
+N1	Reference T1 wiki:676987	Петербургская транспортная компания
+N2	Reference T2 wiki:2203790	Пассажиравтотранс
+N3	Reference T3 wiki:2126248	Петербургская топливная компания
+A2	IsLink T3
+A1	TypeRel T2 Personnel
+A3	TypeRel T3 Personnel

@@ -1,0 +1,5 @@
+T1	Organization 0 12	Фармстандарт
+T2	Organization 283 291	Гриндекс
+N1	Reference T1 wiki:347915	Фармстандарт
+N2	Reference T2 wiki:2260931	Гриндекс
+A1	IsLink T2

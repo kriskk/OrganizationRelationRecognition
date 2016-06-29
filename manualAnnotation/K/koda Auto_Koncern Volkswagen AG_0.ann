@@ -1,0 +1,11 @@
+T1	Organization 0 10	Škoda Auto
+T2	Organization 151 164	Volkswagen AG
+T3	Organization 402 406	Audi
+T4	Organization 409 413	SEAT
+N1	Reference T1 wiki:41273	Škoda Auto
+N2	Reference T2 wiki:750217	Volkswagen (концерн)
+N3	Reference T3 wiki:41025	Audi
+N4	Reference T4 wiki:41437	SEAT
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator

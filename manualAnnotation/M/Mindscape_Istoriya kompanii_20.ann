@@ -1,0 +1,6 @@
+T1	Organization 0 9	Mindscape
+T2	Organization 243 252	Lucasfilm
+N1	Reference T1 wiki:2518872	Mindscape
+N2	Reference T2 wiki:2544735	Lucasfilm
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,18 @@
+T1	Organization 0 16	Irrational Games
+T2	Organization 197 218	Looking Glass Studios
+T3	Organization 298 318	Take-Two Interactive
+T4	Organization 353 361	2K Games
+T5	Organization 565 573	2K Marin
+N1	Reference T1 wiki:2311392	Irrational Games
+N2	Reference T2 wiki:2044456	Looking Glass Studios
+N3	Reference T3 wiki:2783863	Take-Two Interactive
+N4	Reference T4 wiki:2386194	2K Games
+N5	Reference T5 wiki:2342138	2K Marin
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Personnel
+A6	TypeRel T3 Holder
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Merge

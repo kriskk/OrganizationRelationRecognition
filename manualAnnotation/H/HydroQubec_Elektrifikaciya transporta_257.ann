@@ -1,0 +1,5 @@
+T1	Organization 0 12	Hydro-Québec
+T2	Organization 376 387	Tata Motors
+N1	Reference T1 wiki:1817394	Hydro-Québec
+N2	Reference T2 wiki:962083	Tata Motors
+A1	TypeRel T2 Cooperator

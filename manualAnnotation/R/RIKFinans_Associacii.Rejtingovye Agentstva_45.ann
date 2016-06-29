@@ -1,0 +1,5 @@
+T1	Organization 0 10	РИК-Финанс
+T2	Organization 211 245	Национальное Рейтинговое Агентство
+N1	Reference T1 wiki:3130615	РИК-Финанс
+N2	Reference T2 wiki:886966	Национальное Рейтинговое Агентство
+A1	IsLink T2

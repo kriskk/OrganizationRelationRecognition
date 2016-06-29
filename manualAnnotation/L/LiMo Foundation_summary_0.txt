@@ -1,0 +1,7 @@
+LiMo Foundation
+@summary
+386,0
+
+
+
+LiMo (Linux Mobile) Foundation — организация созданная в январе 2007 года крупнейшими телекоммуникационными компаниями мира: Motorola, NEC, Panasonic Mobile Communications, Samsung Electronics, NTT DoCoMo, Vodafone, объединившими свои усилия по продвижению программного обеспечения на базе Linux на рынке мобильных устройств.

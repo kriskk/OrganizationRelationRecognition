@@ -1,0 +1,8 @@
+T1	Organization 0 18	Aardman Animations
+T2	Organization 195 202	Chevron
+T3	Organization 213 217	Nike
+N1	Reference T1 wiki:1662390	Aardman Animations
+N2	Reference T2 wiki:420107	Chevron
+N3	Reference T3 wiki:277297	Nike
+A1	IsLink T2
+A2	IsLink T3

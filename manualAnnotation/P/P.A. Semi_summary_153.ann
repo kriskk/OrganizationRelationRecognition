@@ -1,0 +1,8 @@
+T1	Organization 0 9	P.A. Semi
+T2	Organization 200 203	DEC
+T3	Organization 399 404	Apple
+N1	Reference T1 wiki:4191847	P.A. Semi
+N2	Reference T2 wiki:176483	Digital Equipment Corporation
+N3	Reference T3 wiki:39726	Apple
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,14 @@
+T1	Organization 0 13	Лукойл-гарант
+T2	Organization 112 118	Лукойл
+T3	Organization 286 296	Эксперт РА
+T4	Organization 301 335	Национальное рейтинговое агентство
+N1	Reference T1 wiki:3528647	Лукойл-гарант
+N2	Reference T2 wiki:59354	Лукойл
+N3	Reference T3 wiki:363296	Эксперт РА
+N4	Reference T4 wiki:886966	Национальное рейтинговое агентство
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Other
+A6	TypeRel T4 Other

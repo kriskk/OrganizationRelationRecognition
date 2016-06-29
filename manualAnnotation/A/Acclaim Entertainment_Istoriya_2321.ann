@@ -1,0 +1,11 @@
+T1	Organization 0 21	Acclaim Entertainment
+T2	Organization 196 225	Всемирной федерацией реслинга
+T3	Organization 427 430	THQ
+T4	Organization 546 576	Extreme Championship Wrestling
+N1	Reference T1 wiki:3487700	Acclaim Entertainment
+N2	Reference T2 wiki:1559702	WWE
+N3	Reference T3 wiki:795069	THQ
+N4	Reference T4 wiki:3112949	Extreme Championship Wrestling
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

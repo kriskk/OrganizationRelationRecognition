@@ -1,0 +1,6 @@
+T1	Organization 0 7	GeoPost
+T2	Organization 171 179	La Poste
+N1	Reference T1 wiki:342590	GeoPost
+N2	Reference T2 wiki:1232735	La Poste
+A1	IsLink T2
+A2	TypeRel T2 Holder

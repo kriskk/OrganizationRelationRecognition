@@ -1,0 +1,17 @@
+T1	Organization 0 40	Магнитогорский металлургический комбинат
+T2	Organization 252 257	Евраз
+T3	Organization 261 271	Северсталь
+T4	Organization 274 278	НЛМК
+T5	Organization 281 286	Мечел
+N1	Reference T1 wiki:54824	Магнитогорский металлургический комбинат
+N2	Reference T2 wiki:77382	Евраз
+N3	Reference T3 wiki:149218	Северсталь
+N4	Reference T4 wiki:143594	НЛМК
+N5	Reference T5 wiki:148493	Мечел
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor
+A7	TypeRel T5 Competitor

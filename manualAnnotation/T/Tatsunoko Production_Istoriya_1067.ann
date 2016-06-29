@@ -1,0 +1,14 @@
+T1	Organization 0 20	Tatsunoko Production
+T2	Organization 295 309	Studio Pierrot
+T3	Organization 367 381	Production I.G
+T4	Organization 504 509	Xebec
+T5	Organization 666 675	Bee Train
+N1	Reference T1 wiki:3007966	Tatsunoko Production
+N2	Reference T2 wiki:1112049	Studio Pierrot
+N3	Reference T3 wiki:9179	Production I.G
+N4	Reference T4 wiki:130305	Xebec
+N5	Reference T5 wiki:294080	Bee Train
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

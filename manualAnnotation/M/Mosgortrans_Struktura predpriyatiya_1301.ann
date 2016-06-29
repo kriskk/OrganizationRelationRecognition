@@ -1,0 +1,5 @@
+T1	Organization 0 11	Мосгортранс
+T2	Organization 199 239	Электромеханический опытный завод «ЭМОЗ»
+N1	Reference T1 wiki:393941	Мосгортранс
+N2	Reference T2 wiki:1733368	ЭМОЗ
+A1	TypeRel T2 Subsidiary

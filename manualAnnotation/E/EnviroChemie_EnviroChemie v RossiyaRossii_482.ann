@@ -1,0 +1,11 @@
+T1	Organization 0 12	EnviroChemie
+T2	Organization 334 341	Балтика
+T3	Organization 450 455	Данон
+T4	Organization 563 572	SABMiller
+N1	Reference T1 wiki:3183406	EnviroChemie
+N2	Reference T2 wiki:164789	Балтика (пивоваренная компания)
+N3	Reference T3 wiki:279435	Данон
+N4	Reference T4 wiki:181056	SABMiller
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,53 @@
+T1	Organization 0 6	Gunvor
+T2	Organization 280 288	Glencore
+T3	Organization 302 304	BP
+T4	Organization 361 369	Роснефть
+T5	Organization 371 384	Газпром нефть
+T6	Organization 386 392	ТНК-ВР
+T7	Organization 394 408	Сургутнефтегаз
+T8	Organization 428 431	OMV
+T9	Organization 433 438	Shell
+T10	Organization 450 453	Eni
+T11	Organization 455 457	BP
+T12	Organization 459 469	ExxonMobil
+T13	Organization 471 485	ConocoPhillips
+T14	Organization 487 492	Total
+N1	Reference T1 wiki:893402	Gunvor
+N2	Reference T2 wiki:372443	Glencore
+N3	Reference T3 wiki:189320	BP
+N4	Reference T4 wiki:139770	Роснефть
+N5	Reference T5 wiki:121955	Газпром нефть
+N6	Reference T6 wiki:17252	ТНК-ВР
+N7	Reference T7 wiki:143564	Сургутнефтегаз
+N8	Reference T8 wiki:209927	OMV
+N9	Reference T9 wiki:167625	Royal Dutch Shell
+N10	Reference T10 wiki:180394	Eni
+N11	Reference T11 wiki:189320	BP
+N12	Reference T12 wiki:176152	ExxonMobil
+N13	Reference T13 wiki:171985	ConocoPhillips
+N14	Reference T14 wiki:159658	Total
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A1	TypeRel T2 Competitor
+A14	TypeRel T3 Competitor
+A15	TypeRel T4 Cooperator
+A16	TypeRel T5 Cooperator
+A17	TypeRel T6 Cooperator
+A18	TypeRel T7 Cooperator
+A19	TypeRel T8 Cooperator
+A20	TypeRel T9 Cooperator
+A21	TypeRel T10 Cooperator
+A22	TypeRel T11 Cooperator
+A23	TypeRel T12 Cooperator
+A24	TypeRel T13 Cooperator
+A25	TypeRel T14 Cooperator

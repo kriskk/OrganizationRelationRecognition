@@ -1,0 +1,5 @@
+T1	Organization 0 21	Golden Boy Promotions
+T2	Organization 133 143	Affliction
+N1	Reference T1 wiki:4290512	Golden Boy Promotions
+N2	Reference T2 wiki:1975705	Affliction (одежда)
+A1	TypeRel T2 Cooperator

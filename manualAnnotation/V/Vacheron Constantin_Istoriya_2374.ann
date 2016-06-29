@@ -1,0 +1,6 @@
+T1	Organization 0 19	Vacheron Constantin
+T2	Organization 283 298	Richemont Group
+N1	Reference T1 wiki:1449773	Vacheron Constantin
+N2	Reference T2 wiki:3206803	Richemont
+A1	IsLink T2
+A2	TypeRel T2 Holder

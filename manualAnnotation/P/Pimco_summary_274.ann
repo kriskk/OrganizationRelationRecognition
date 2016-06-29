@@ -1,0 +1,5 @@
+T1	Organization 0 5	Pimco
+T2	Organization 211 218	Allianz
+N1	Reference T1 wiki:2326776	Pimco
+N2	Reference T2 wiki:50998	Allianz
+A1	TypeRel T2 Holder

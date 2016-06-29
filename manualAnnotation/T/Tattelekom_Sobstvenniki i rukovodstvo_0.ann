@@ -1,0 +1,5 @@
+T1	Organization 0 10	Таттелеком
+T2	Organization 129 148	Связьинвестнефтехим
+N1	Reference T1 wiki:954940	Таттелеком
+N2	Reference T2 wiki:347225	Связьинвестнефтехим
+A1	IsLink T2

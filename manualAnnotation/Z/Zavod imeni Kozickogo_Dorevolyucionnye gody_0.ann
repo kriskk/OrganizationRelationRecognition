@@ -1,0 +1,10 @@
+T1	Organization 0 21	Завод имени Козицкого
+T2	Organization 157 173	Сименс и Гальске
+T3	Organization 217 233	Сименс и Гальске
+N1	Reference T1 wiki:1641557	Завод имени Козицкого
+N2	Reference T2 wiki:762874	Сименс и Гальске
+N3	Reference T3 wiki:762874	Сименс и Гальске
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+A4	TypeRel T3 Alias

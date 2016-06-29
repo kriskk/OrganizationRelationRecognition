@@ -1,0 +1,5 @@
+T1	Organization 0 9	Infowatch
+T2	Organization 167 190	Лаборатория Касперского
+N1	Reference T1 wiki:2098817	Infowatch
+N2	Reference T2 wiki:72700	Лаборатория Касперского
+A1	TypeRel T2 Holder

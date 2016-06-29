@@ -1,0 +1,5 @@
+T1	Organization 0 12	Visual Art's
+T2	Organization 207 210	Key
+N1	Reference T1 wiki:4382164	Visual Art's
+N2	Reference T2 wiki:3063829	Key
+A1	TypeRel T2 Cooperator

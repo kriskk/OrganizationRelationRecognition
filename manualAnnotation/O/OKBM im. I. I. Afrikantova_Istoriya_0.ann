@@ -1,0 +1,5 @@
+T1	Organization 0 26	ОКБМ им. И. И. Африкантова
+T2	Organization 124 163	Горьковского машиностроительного завода
+N1	Reference T1 wiki:758226	ОКБМ им. И. И. Африкантова
+N2	Reference T2 wiki:929895	Горьковский машиностроительный завод
+A1	TypeRel T2 Holder

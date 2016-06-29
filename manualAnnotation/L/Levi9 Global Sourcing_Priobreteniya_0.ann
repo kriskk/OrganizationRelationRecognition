@@ -1,0 +1,5 @@
+T1	Organization 0 21	Levi9 Global Sourcing
+T2	Organization 152 166	Мирасофт Групп
+N1	Reference T1 wiki:2455943	Levi9 Global Sourcing
+N2	Reference T2 wiki:1733688	Мирасофт Групп
+A1	TypeRel T2 Merge

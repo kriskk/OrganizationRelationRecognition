@@ -1,0 +1,10 @@
+T1	Organization 0 18	Нижнекамскнефтехим
+T2	Organization 102 106	ТАИФ
+T3	Organization 191 210	Связьинвестнефтехим
+N1	Reference T1 wiki:359932	Нижнекамскнефтехим
+N2	Reference T2 wiki:1303554	ТАИФ
+N3	Reference T3 wiki:347225	Связьинвестнефтехим
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

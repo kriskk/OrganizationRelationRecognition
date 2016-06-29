@@ -1,0 +1,8 @@
+T1	Organization 0 10	Трансстрой
+T2	Organization 127 142	Базовый элемент
+T3	Organization 235 242	Strabag
+N1	Reference T1 wiki:652096	Трансстрой
+N2	Reference T2 wiki:156379	Базовый элемент
+N3	Reference T3 wiki:376579	Strabag
+A1	IsLink T2
+A2	IsLink T3

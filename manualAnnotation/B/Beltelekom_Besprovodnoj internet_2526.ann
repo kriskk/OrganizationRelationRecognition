@@ -1,0 +1,8 @@
+T1	Organization 0 10	Белтелеком
+T2	Organization 387 393	Белсел
+T3	Organization 411 418	Diallog
+N1	Reference T1 wiki:758522	Белтелеком
+N2	Reference T2 wiki:386944	БелСел
+N3	Reference T3 wiki:386944	Diallog
+A1	IsLink T2
+A2	IsLink T3

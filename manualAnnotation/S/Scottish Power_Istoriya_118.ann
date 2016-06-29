@@ -1,0 +1,8 @@
+T1	Organization 0 14	Scottish Power
+T2	Organization 198 216	Berkshire Hathaway
+T3	Organization 282 286	E.ON
+N1	Reference T1 wiki:355567	Scottish Power
+N2	Reference T2 wiki:201051	Berkshire Hathaway
+N3	Reference T3 wiki:156874	E.ON
+A1	IsLink T2
+A2	IsLink T3

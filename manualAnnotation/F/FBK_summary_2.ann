@@ -1,0 +1,5 @@
+T1	Organization 0 3	ФБК
+T2	Organization 246 281	рейтингового агентства «Эксперт РА»
+N1	Reference T1 wiki:2753539	ФБК
+N2	Reference T2 wiki:363296	Эксперт РА
+A1	IsLink T2

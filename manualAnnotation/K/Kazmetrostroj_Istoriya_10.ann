@@ -1,0 +1,5 @@
+T1	Organization 0 13	Казметрострой
+T2	Organization 264 279	Бамтоннельстрой
+N1	Reference T1 wiki:3867004	Казметрострой
+N2	Reference T2 wiki:425409	Бамтоннельстрой
+A1	TypeRel T2 Personnel

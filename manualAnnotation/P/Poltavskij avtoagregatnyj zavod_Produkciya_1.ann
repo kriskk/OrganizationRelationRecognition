@@ -1,0 +1,14 @@
+T1	Organization 0 31	Полтавский автоагрегатный завод
+T2	Organization 208 212	КрАЗ
+T3	Organization 214 219	КамАЗ
+T4	Organization 221 224	МАЗ
+N1	Reference T1 wiki:3219630	Полтавский автоагрегатный завод
+N2	Reference T2 wiki:606512	Кременчугский автомобильный завод
+N3	Reference T3 wiki:169714	КамАЗ
+N4	Reference T4 wiki:33218	МАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

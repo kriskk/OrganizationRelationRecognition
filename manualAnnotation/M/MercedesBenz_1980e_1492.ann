@@ -1,0 +1,9 @@
+T1	Organization 0 13	Mercedes-Benz
+T2	Organization 238 250	Daimler-Benz
+T3	Organization 536 539	BMW
+N1	Reference T1 wiki:40401	Mercedes-Benz
+N2	Reference T2 wiki:1384782	Daimler-Benz
+N3	Reference T3 wiki:40368	BMW
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Competitor

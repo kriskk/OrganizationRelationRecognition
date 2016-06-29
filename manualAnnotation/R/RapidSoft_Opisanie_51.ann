@@ -1,0 +1,35 @@
+T1	Organization 0 9	RapidSoft
+T2	Organization 225 234	Microsoft
+T3	Organization 236 248	Dow Chemical
+T4	Organization 250 267	British Petroleum
+T5	Organization 269 274	Adobe
+T6	Organization 602 614	ГК «Связной»
+T7	Organization 616 619	ЦФТ
+T8	Organization 634 641	М.Видео
+T9	Organization 643 653	HeadHunter
+T10	Organization 892 901	Microsoft
+T11	Organization 926 932	Oracle
+T12	Organization 947 950	IBM
+N1	Reference T1 wiki:4477668	RapidSoft
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:189244	Dow Chemical
+N4	Reference T4 wiki:189320	British Petroleum
+N5	Reference T5 wiki:42937	Adobe
+N6	Reference T6 wiki:371774	Связной (компания)
+N7	Reference T7 wiki:771907	ЦФТ
+N8	Reference T8 wiki:370490	М.Видео
+N9	Reference T9 wiki:3939259	HeadHunter (компания)
+N10	Reference T10 wiki:11987	Microsoft
+N11	Reference T11 wiki:129227	Oracle
+N12	Reference T12 wiki:11078	IBM
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12

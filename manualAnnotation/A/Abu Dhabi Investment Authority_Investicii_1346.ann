@@ -1,0 +1,5 @@
+T1	Organization 0 30	Abu Dhabi Investment Authority
+T2	Organization 306 315	Citigroup
+N1	Reference T1 wiki:3517648	Abu Dhabi Investment Authority
+N2	Reference T2 wiki:374508	Citigroup
+A1	IsLink T2

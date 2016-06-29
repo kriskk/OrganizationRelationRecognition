@@ -1,0 +1,41 @@
+T1	Organization 0 6	IFS AB
+T2	Organization 200 203	NEC
+T3	Organization 211 218	Siemens
+T4	Organization 220 225	Volvo
+T5	Organization 227 242	Lockheed Martin
+T6	Organization 244 252	Oriflame
+T7	Organization 254 270	General Electric
+T8	Organization 329 369	Объединенная авиастроительная корпорация
+T9	Organization 408 443	Уральский оптико-механический завод
+T10	Organization 445 455	НПО Сатурн
+T11	Organization 476 484	Казахмыс
+N1	Reference T1 wiki:1575903	IFS AB
+N2	Reference T2 wiki:232844	NEC
+N3	Reference T3 wiki:36510	Siemens
+N4	Reference T4 wiki:387781	Volvo
+N5	Reference T5 wiki:301268	Lockheed Martin
+N6	Reference T6 wiki:53364	Oriflame
+N7	Reference T7 wiki:13762	General Electric
+N8	Reference T8 wiki:163405	Объединенная авиастроительная корпорация
+N9	Reference T9 wiki:2980729	Уральский оптико-механический завод
+N10	Reference T10 wiki:233902	НПО Сатурн
+N11	Reference T11 wiki:1301026	Казахмыс
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A1	TypeRel T2 Cooperator
+A11	TypeRel T3 Cooperator
+A12	TypeRel T4 Cooperator
+A13	TypeRel T5 Cooperator
+A14	TypeRel T6 Cooperator
+A15	TypeRel T7 Cooperator
+A16	TypeRel T8 Cooperator
+A17	TypeRel T9 Cooperator
+A18	TypeRel T10 Cooperator
+A19	TypeRel T11 Cooperator

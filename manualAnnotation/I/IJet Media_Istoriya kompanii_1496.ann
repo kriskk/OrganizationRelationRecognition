@@ -1,0 +1,5 @@
+T1	Organization 0 11	I-Jet Media
+T2	Organization 267 287	Alawar Entertainment
+N1	Reference T1 wiki:2651624	I-Jet Media
+N2	Reference T2 wiki:263378	Alawar Entertainment
+A1	TypeRel T2 Cooperator

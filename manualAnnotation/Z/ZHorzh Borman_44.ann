@@ -1,0 +1,6 @@
+T1	Organization 0 11	Жорж Борман
+T2	Organization 169 201	Харьковская кондитерская фабрика
+N1	Reference T1 wiki:755487	Жорж Борман
+N2	Reference T2 wiki:2028242	Харьковская кондитерская фабрика
+A1	IsLink T2
+A2	TypeRel T2 Holder

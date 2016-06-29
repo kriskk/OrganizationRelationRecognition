@@ -1,0 +1,15 @@
+The Walt Disney Company
+@Подразделения
+@Развлекательное подразделение
+@Мультипликация
+17598,22,19178,0
+
+
+Мультипликация
+
+ Walt Disney Animation Studios
+	 Disney Television Animation
+	 DisneyToon Studios
+	 Pixar Animation Studios
+
+

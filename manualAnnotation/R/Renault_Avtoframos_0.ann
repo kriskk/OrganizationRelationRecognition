@@ -1,0 +1,18 @@
+T1	Organization 0 7	Renault
+T2	Organization 127 137	Автофрамос
+T3	Organization 261 265	АЗЛК
+T4	Organization 271 278	Москвич
+T5	Organization 446 451	Dacia
+T6	Organization 714 724	Автофрамос
+N1	Reference T1 wiki:586472	Renault
+N2	Reference T2 wiki:387742	Автофрамос
+N3	Reference T3 wiki:120499	АЗЛК
+N4	Reference T4 wiki:120499	Москвич (ОАО)
+N5	Reference T5 wiki:746072	Dacia
+N6	Reference T6 wiki:387742	Автофрамос
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder

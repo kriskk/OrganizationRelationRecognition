@@ -1,0 +1,6 @@
+T1	Organization 0 3	OTE
+T2	Organization 341 357	Deutsche Telekom
+N1	Reference T1 wiki:3772734	OTE
+N2	Reference T2 wiki:169094	Deutsche Telekom
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

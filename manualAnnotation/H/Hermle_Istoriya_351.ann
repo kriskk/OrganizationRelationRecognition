@@ -1,0 +1,6 @@
+T1	Organization 0 6	Hermle
+T2	Organization 187 199	Штутгартской
+N1	Reference T1 wiki:1647468	Hermle
+N2	Reference T2 wiki:379037	Штутгартская фондовая биржа
+A1	IsLink T2
+A2	TypeRel T2 Other

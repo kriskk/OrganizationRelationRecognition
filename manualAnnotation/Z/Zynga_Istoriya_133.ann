@@ -1,0 +1,8 @@
+T1	Organization 0 5	Zynga
+T2	Organization 186 192	NASDAQ
+T3	Organization 361 367	Google
+N1	Reference T1 wiki:2720154	Zynga
+N2	Reference T2 wiki:63813	NASDAQ
+N3	Reference T3 wiki:265	Google (компания)
+A2	IsLink T3
+A1	TypeRel T2 Other

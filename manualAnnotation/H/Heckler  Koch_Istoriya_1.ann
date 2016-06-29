@@ -1,0 +1,6 @@
+T1	Organization 0 14	Heckler & Koch
+T2	Organization 182 188	Mauser
+N1	Reference T1 wiki:302569	Heckler & Koch
+N2	Reference T2 wiki:1037151	Mauser
+A1	IsLink T2
+A2	TypeRel T2 Personnel

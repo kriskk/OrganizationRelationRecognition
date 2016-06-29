@@ -1,0 +1,6 @@
+T1	Organization 0 15	Корпорация AEON
+T2	Organization 115 155	Объединённой судостроительной корпорации
+N1	Reference T1 wiki:2696279	Корпорация AEON
+N2	Reference T2 wiki:590392	Объединённая судостроительная корпорация
+A1	IsLink T2
+A2	TypeRel T2 Personnel

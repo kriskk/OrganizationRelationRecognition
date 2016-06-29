@@ -1,0 +1,5 @@
+T1	Organization 0 10	Ростелеком
+T2	Organization 256 259	МТТ
+N1	Reference T1 wiki:145844	Ростелеком
+N2	Reference T2 wiki:638758	МТТ
+A1	IsLink T2

@@ -1,0 +1,13 @@
+T1	Organization 0 10	Proofpoint
+T2	Organization 219 225	VMware
+T3	Organization 486 513	virtual server architecture
+T4	Organization 831 847	Verizon Business
+N1	Reference T1 wiki:2797625	Proofpoint
+N2	Reference T2 wiki:205509	VMware
+N3	Reference T3 wiki:205509	VMware
+N4	Reference T4 wiki:251493	Verizon Business
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T4 Holder

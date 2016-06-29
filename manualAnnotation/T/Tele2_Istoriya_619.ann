@@ -1,0 +1,5 @@
+T1	Organization 0 5	Tele2
+T2	Organization 211 219	Vodafone
+N1	Reference T1 wiki:162980	Tele2
+N2	Reference T2 wiki:213703	Vodafone
+A1	IsLink T2

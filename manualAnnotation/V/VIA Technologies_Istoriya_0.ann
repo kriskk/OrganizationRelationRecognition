@@ -1,0 +1,5 @@
+T1	Organization 0 16	VIA Technologies
+T2	Organization 177 182	Intel
+N1	Reference T1 wiki:912279	VIA Technologies
+N2	Reference T2 wiki:762172	Intel
+A1	TypeRel T2 Personnel

@@ -1,0 +1,13 @@
+T1	Organization 0 6	Hasbro
+T2	Organization 204 218	Milton Bradley
+T3	Organization 301 321	Wizards of the Coast
+T4	Organization 346 351	Atari
+N1	Reference T1 wiki:2724676	Hasbro
+N2	Reference T2 wiki:1584613	Milton Bradley Company
+N3	Reference T3 wiki:362220	Wizards of the Coast
+N4	Reference T4 wiki:308218	Atari
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary

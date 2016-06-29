@@ -1,0 +1,5 @@
+T1	Organization 0 17	Universum Film AG
+T2	Organization 74 78	ДЕФА
+N1	Reference T1 wiki:1388628	Universum Film AG
+N2	Reference T2 wiki:1378290	ДЕФА
+A1	IsLink T2

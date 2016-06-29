@@ -1,0 +1,11 @@
+T1	Organization 0 10	Sage Group
+T2	Organization 249 256	Gartner
+T3	Organization 355 358	SAP
+T4	Organization 361 367	Oracle
+N1	Reference T1 wiki:3004892	Sage Group
+N2	Reference T2 wiki:2960363	Gartner
+N3	Reference T3 wiki:81959	SAP
+N4	Reference T4 wiki:129227	Oracle Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

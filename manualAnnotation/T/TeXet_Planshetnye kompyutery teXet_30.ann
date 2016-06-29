@@ -1,0 +1,5 @@
+T1	Organization 0 5	TeXet
+T2	Organization 204 210	Яндекс
+N1	Reference T1 wiki:1593969	TeXet
+N2	Reference T2 wiki:9744	Яндекс
+A1	IsLink T2

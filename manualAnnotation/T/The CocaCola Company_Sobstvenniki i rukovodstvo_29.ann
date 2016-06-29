@@ -1,0 +1,5 @@
+T1	Organization 0 21	The Coca-Cola Company
+T2	Organization 318 341	Berkshire Hathaway, Inc
+N1	Reference T1 wiki:231920	The Coca-Cola Company
+N2	Reference T2 wiki:201051	Berkshire Hathaway
+A1	IsLink T2

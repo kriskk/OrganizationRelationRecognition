@@ -1,0 +1,8 @@
+KUKA Roboter
+@Системная информация и  примеры использования
+@Применение роботов KUKA
+3041,1693,113
+
+ Главным образом они используются для обработки материалов, погрузки и разгрузки машин, паллетирования, точечной сварки и сварки в среде защитных газов. Промышленные роботы KUKA используют GM, Chrysler, Ford, Porsche, BMW, Audi, Mercedes-Benz, Volkswagen, Ferrari, Harley-Davidson oder Boeing, Siemens, STIHL, IKEA, Swarovski, Wal-Mart, Nestlé, Budweiser, BSN medical, а также Coca-Cola и многие другие компании.
+
+

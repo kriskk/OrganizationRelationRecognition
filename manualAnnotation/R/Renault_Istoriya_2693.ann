@@ -1,0 +1,9 @@
+T1	Organization 0 7	Renault
+T2	Organization 203 208	Dacia
+T3	Organization 246 252	Nissan
+N1	Reference T1 wiki:586472	Renault
+N2	Reference T2 wiki:746072	Dacia
+N3	Reference T3 wiki:159586	Nissan
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 12	Грузия-фильм
+T2	Organization 184 192	Ленфильм
+N1	Reference T1 wiki:142975	Грузия-фильм
+N2	Reference T2 wiki:175417	Ленфильм
+A1	TypeRel T2 Cooperator

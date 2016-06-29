@@ -1,0 +1,6 @@
+T1	Organization 0 22	Нефтекамский автозавод
+T2	Organization 104 109	КАМАЗ
+N1	Reference T1 wiki:404943	Нефтекамский автозавод
+N2	Reference T2 wiki:169714	КАМАЗ
+A1	IsLink T2
+A2	TypeRel T2 Holder

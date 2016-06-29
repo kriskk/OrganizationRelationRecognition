@@ -1,0 +1,17 @@
+T1	Organization 0 7	CompTek
+T2	Organization 111 116	Cisco
+T3	Organization 183 188	Avaya
+T4	Organization 246 260	Alcatel-Lucent
+T5	Organization 326 329	EMC
+T6	Organization 481 485	Dell
+N1	Reference T1 wiki:2664407	CompTek
+N2	Reference T2 wiki:25014	Cisco
+N3	Reference T3 wiki:685464	Avaya
+N4	Reference T4 wiki:542818	Alcatel-Lucent
+N5	Reference T5 wiki:541503	EMC
+N6	Reference T6 wiki:124570	Dell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

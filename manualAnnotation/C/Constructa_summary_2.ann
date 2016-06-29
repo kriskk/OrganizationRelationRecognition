@@ -1,0 +1,5 @@
+T1	Organization 0 10	Constructa
+T2	Organization 207 244	BSH Bosch und Siemens Hausgeräte GmbH
+N1	Reference T1 wiki:215726	Constructa
+N2	Reference T2 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
+A1	IsLink T2

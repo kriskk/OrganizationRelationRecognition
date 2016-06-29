@@ -1,0 +1,37 @@
+T1	Organization 0 28	Морозовский химический завод
+T2	Organization 240 249	Ленэнерго
+T3	Organization 251 265	Ижорский завод
+T4	Organization 300 313	Белспецэнерго
+T5	Organization 352 362	Северсталь
+T6	Organization 364 370	Лукойл
+T7	Organization 372 413	Уральская горно-металлургическая компания
+T8	Organization 415 424	Уралкалий
+T9	Organization 426 435	Норникель
+T10	Organization 445 452	Газпром
+N1	Reference T1 wiki:4422285	Морозовский химический завод
+N2	Reference T2 wiki:962114	Ленэнерго
+N3	Reference T3 wiki:601241	Ижорский завод
+N4	Reference T4 wiki:708458	Белэнерго
+N5	Reference T5 wiki:149218	Северсталь
+N6	Reference T6 wiki:59354	Лукойл
+N7	Reference T7 wiki:171944	Уральская горно-металлургическая компания
+N8	Reference T8 wiki:153726	Уралкалий
+N9	Reference T9 wiki:73395	Норильский никель
+N10	Reference T10 wiki:44754	Газпром
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A1	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator
+A17	TypeRel T10 Cooperator

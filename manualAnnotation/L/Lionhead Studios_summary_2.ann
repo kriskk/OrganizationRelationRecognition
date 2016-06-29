@@ -1,0 +1,6 @@
+T1	Organization 0 16	Lionhead Studios
+T2	Organization 239 254	Electronic Arts
+N1	Reference T1 wiki:1105978	Lionhead Studios
+N2	Reference T2 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

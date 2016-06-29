@@ -1,0 +1,6 @@
+T1	Organization 0 11	Э.ОН Россия
+T2	Organization 144 148	E.ON
+N1	Reference T1 wiki:275389	Э.ОН Россия
+N2	Reference T2 wiki:156874	E.ON
+A1	IsLink T2
+A2	TypeRel T2 Holder

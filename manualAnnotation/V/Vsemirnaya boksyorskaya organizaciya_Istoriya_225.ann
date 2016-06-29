@@ -1,0 +1,5 @@
+T1	Organization 0 32	Всемирная боксёрская организация
+T2	Organization 268 271	IBF
+N1	Reference T1 wiki:747485	Всемирная боксёрская организация
+N2	Reference T2 wiki:563722	IBF
+A1	IsLink T2

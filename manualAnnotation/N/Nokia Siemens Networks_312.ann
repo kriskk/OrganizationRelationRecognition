@@ -1,0 +1,10 @@
+T1	Organization 0 22	Nokia Siemens Networks
+T2	Organization 200 205	Nokia
+T3	Organization 206 216	Siemens AG
+N1	Reference T1 wiki:354923	Nokia Siemens Networks
+N2	Reference T2 wiki:56405	Nokia
+N3	Reference T3 wiki:36510	Siemens AG
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

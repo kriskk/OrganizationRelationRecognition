@@ -1,0 +1,6 @@
+T1	Organization 0 5	Jinma
+T2	Organization 135 143	Mahindra
+N1	Reference T1 wiki:4196904	Jinma
+N2	Reference T2 wiki:1479897	Mahindra & Mahindra Limited
+A1	IsLink T2
+A2	TypeRel T2 Holder

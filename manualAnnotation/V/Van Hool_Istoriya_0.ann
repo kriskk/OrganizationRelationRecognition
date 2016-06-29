@@ -1,0 +1,13 @@
+T1	Organization 0 8	Van Hool
+T2	Organization 123 130	Fiat VC
+T3	Organization 275 282	Fiat VC
+T4	Organization 364 389	Hispano Carrocera, S.A.L.
+N1	Reference T1 wiki:258539	Van Hool
+N2	Reference T2 wiki:91784	Fiat
+N3	Reference T3 wiki:91784	Fiat
+N4	Reference T4 wiki:284586	Hispano Carrocera
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator

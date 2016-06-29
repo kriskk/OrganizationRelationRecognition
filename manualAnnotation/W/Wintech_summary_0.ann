@@ -1,0 +1,6 @@
+T1	Organization 0 7	Wintech
+T2	Organization 33 40	WINTECH
+N1	Reference T1 wiki:4039788	Wintech
+N2	Reference T2 wiki:4039788	WINTECH
+A1	IsLink T2
+A2	TypeRel T2 Alias

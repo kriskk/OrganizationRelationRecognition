@@ -1,0 +1,20 @@
+T1	Organization 0 23	SsangYong Motor Company
+T2	Organization 279 291	Daimler-Benz
+T3	Organization 503 516	Daewoo Motors
+T4	Organization 743 753	SAIC Motor
+T5	Organization 1089 1096	Renault
+T6	Organization 1111 1118	Соллерс
+T7	Organization 1286 1305	Mahindra & Mahindra
+N1	Reference T1 wiki:1065433	SsangYong Motor Company
+N2	Reference T2 wiki:1384782	Daimler-Benz
+N3	Reference T3 wiki:794769	Daewoo
+N4	Reference T4 wiki:377731	SAIC Motor
+N5	Reference T5 wiki:586472	Renault
+N6	Reference T6 wiki:159017	Соллерс (компания)
+N7	Reference T7 wiki:1479897	Mahindra & Mahindra Limited
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

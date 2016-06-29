@@ -1,0 +1,5 @@
+T1	Organization 0 8	De Beers
+T2	Organization 115 129	Anglo American
+N1	Reference T1 wiki:542580	De Beers
+N2	Reference T2 wiki:1700373	Anglo American
+A1	IsLink T2

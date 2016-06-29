@@ -1,0 +1,5 @@
+T1	Organization 0 21	Газпром энергохолдинг
+T2	Organization 169 176	Газпром
+N1	Reference T1 wiki:2691900	Газпром энергохолдинг
+N2	Reference T2 wiki:44754	Газпром
+A1	TypeRel T2 Holder

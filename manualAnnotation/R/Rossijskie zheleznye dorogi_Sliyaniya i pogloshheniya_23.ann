@@ -1,0 +1,5 @@
+T1	Organization 0 26	Российские железные дороги
+T2	Organization 306 312	АЛРОСА
+N1	Reference T1 wiki:106901	Российские железные дороги
+N2	Reference T2 wiki:147338	АЛРОСА
+A1	IsLink T2

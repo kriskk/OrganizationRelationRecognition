@@ -1,0 +1,5 @@
+T1	Organization 0 40	Alabama Drydock and Shipbuilding Company
+T2	Organization 294 305	BAE Systems
+N1	Reference T1 wiki:4429492	Alabama Drydock and Shipbuilding Company
+N2	Reference T2 wiki:2435557	BAE Systems
+A1	IsLink T2

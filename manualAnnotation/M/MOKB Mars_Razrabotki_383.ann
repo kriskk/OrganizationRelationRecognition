@@ -1,0 +1,14 @@
+T1	Organization 0 11	МОКБ «Марс»
+T2	Organization 195 207	МКБ «Радуга»
+T3	Organization 224 234	КБ «Факел»
+T4	Organization 236 247	КБ «Вымпел»
+N1	Reference T1 wiki:2435157	МОКБ «Марс»
+N2	Reference T2 wiki:431463	МКБ Радуга
+N3	Reference T3 wiki:1280435	Факел (конструкторское бюро)
+N4	Reference T4 wiki:1491743	Вымпел (конструкторское бюро)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

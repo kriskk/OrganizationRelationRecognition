@@ -1,0 +1,5 @@
+T1	Organization 0 6	Nissan
+T2	Organization 212 220	Marubeni
+N1	Reference T1 wiki:159586	Nissan
+N2	Reference T2 wiki:2210137	Marubeni
+A1	TypeRel T2 Cooperator

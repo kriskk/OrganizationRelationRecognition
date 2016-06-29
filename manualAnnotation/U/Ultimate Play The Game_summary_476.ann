@@ -1,0 +1,10 @@
+T1	Organization 0 22	Ultimate Play The Game
+T2	Organization 321 325	Rare
+T3	Organization 387 395	Nintendo
+N1	Reference T1 wiki:3536950	Ultimate Play The Game
+N2	Reference T2 wiki:124471	Rare
+N3	Reference T3 wiki:202486	Nintendo
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+A4	TypeRel T3 Cooperator

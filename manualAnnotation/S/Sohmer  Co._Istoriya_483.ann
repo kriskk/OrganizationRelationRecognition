@@ -1,0 +1,5 @@
+T1	Organization 0 12	Sohmer & Co.
+T2	Organization 223 238	Steinway & Sons
+N1	Reference T1 wiki:1841367	Sohmer & Co.
+N2	Reference T2 wiki:1597275	Steinway & Sons
+A1	IsLink T2

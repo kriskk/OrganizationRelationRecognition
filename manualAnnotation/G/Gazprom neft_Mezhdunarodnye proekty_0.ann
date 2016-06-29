@@ -1,0 +1,10 @@
+T1	Organization 0 13	Газпром нефть
+T2	Organization 154 157	NIS
+T3	Organization 217 222	PDVSA
+N1	Reference T1 wiki:121955	Газпром нефть
+N2	Reference T2 wiki:305756	Нафтна индустрија Србије
+N3	Reference T3 wiki:793790	PDVSA
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Cooperator

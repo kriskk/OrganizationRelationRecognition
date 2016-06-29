@@ -1,0 +1,6 @@
+T1	Organization 0 9	Peterbilt
+T2	Organization 221 228	Walmart
+N1	Reference T1 wiki:1704331	Peterbilt
+N2	Reference T2 wiki:243093	Walmart
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

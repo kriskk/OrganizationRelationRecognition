@@ -1,0 +1,6 @@
+T1	Organization 0 13	Louis Vuitton
+T2	Organization 205 218	Moët Hennessy
+N1	Reference T1 wiki:920125	Louis Vuitton
+N2	Reference T2 wiki:381313	LVMH
+A1	IsLink T2
+A2	TypeRel T2 Merge

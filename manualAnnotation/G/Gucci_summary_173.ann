@@ -1,0 +1,5 @@
+T1	Organization 0 5	Gucci
+T2	Organization 175 179	LVMH
+N1	Reference T1 wiki:1030680	Gucci
+N2	Reference T2 wiki:381313	LVMH
+A1	TypeRel T2 Competitor

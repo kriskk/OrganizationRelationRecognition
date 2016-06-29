@@ -1,0 +1,22 @@
+T1	Organization 0 37	Камыш-Бурунский железорудный комбинат
+T2	Organization 352 361	Азовсталь
+T3	Organization 416 444	Индустриальный союз Донбасса
+T4	Organization 588 613	System Capital Management
+T5	Organization 696 699	СКМ
+T6	Organization 915 922	Альтком
+N1	Reference T1 wiki:3713593	Камыш-Бурунский железорудный комбинат
+N2	Reference T2 wiki:123992	Азовсталь
+N3	Reference T3 wiki:535207	Индустриальный союз Донбасса
+N4	Reference T4 wiki:36184	System Capital Management
+N5	Reference T5 wiki:36184	System Capital Management
+N6	Reference T6 wiki:1924480	Альтком
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Holder
+R1	Holder Arg1:T3 Arg2:T2	
+A6	TypeRel T4 Holder
+A7	TypeRel T5 Holder
+R2	Alias Arg1:T5 Arg2:T4	
+A8	TypeRel T6 Holder

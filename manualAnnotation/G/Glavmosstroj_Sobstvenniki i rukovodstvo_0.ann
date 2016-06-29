@@ -1,0 +1,9 @@
+T1	Organization 0 12	Главмосстрой
+T2	Organization 162 171	Главстрой
+T3	Organization 193 210	Базового элемента
+N1	Reference T1 wiki:164189	Главмосстрой
+N2	Reference T2 wiki:655957	Главстрой
+N3	Reference T3 wiki:156379	Базовый элемент
+A2	IsLink T3
+A1	TypeRel T2 Holder
+R1	Holder Arg1:T3 Arg2:T2	

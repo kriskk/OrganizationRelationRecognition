@@ -1,0 +1,5 @@
+T1	Organization 0 15	Каражанбасмунай
+T2	Organization 197 208	КазМунайГаз
+N1	Reference T1 wiki:3248759	Каражанбасмунай
+N2	Reference T2 wiki:294591	КазМунайГаз
+A1	TypeRel T2 Holder

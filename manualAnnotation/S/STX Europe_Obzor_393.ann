@@ -1,0 +1,5 @@
+T1	Organization 0 10	STX Europe
+T2	Organization 253 278	Chantiers de l'Atlantique
+N1	Reference T1 wiki:3434436	STX Europe
+N2	Reference T2 wiki:3439200	Chantiers de l'Atlantique
+A1	IsLink T2

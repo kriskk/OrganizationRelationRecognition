@@ -1,0 +1,5 @@
+T1	Organization 0 4	ФЭКС
+T2	Organization 161 169	Ленфильм
+N1	Reference T1 wiki:2344578	ФЭКС
+N2	Reference T2 wiki:175417	Ленфильм
+A1	IsLink T2

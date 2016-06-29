@@ -1,0 +1,6 @@
+T1	Organization 0 15	CA Technologies
+T2	Organization 157 160	IBM
+N1	Reference T1 wiki:2942546	CA Technologies
+N2	Reference T2 wiki:11078	IBM
+A1	IsLink T2
+A2	TypeRel T2 Other

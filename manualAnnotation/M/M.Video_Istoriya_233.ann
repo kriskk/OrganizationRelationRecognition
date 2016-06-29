@@ -1,0 +1,5 @@
+T1	Organization 0 7	М.Видео
+T2	Organization 176 181	Apple
+N1	Reference T1 wiki:370490	М.Видео
+N2	Reference T2 wiki:39726	Apple
+A1	TypeRel T2 Cooperator

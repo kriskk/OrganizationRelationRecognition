@@ -1,0 +1,5 @@
+T1	Organization 0 6	Центел
+T2	Organization 61 87	ОАО «Центральный телеграф»
+N1	Reference T1 wiki:714545	Центел
+N2	Reference T2 wiki:1404588	ОАО «Центральный телеграф»
+A1	IsLink T2

@@ -1,0 +1,10 @@
+T1	Organization 0 11	Id Software
+T2	Organization 139 152	ZeniMax Media
+T3	Organization 194 212	Bethesda Softworks
+N1	Reference T1 wiki:80386	Id Software
+N2	Reference T2 wiki:2147996	ZeniMax Media
+N3	Reference T3 wiki:178727	Bethesda Softworks
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+R1	Holder Arg1:T2 Arg2:T3	

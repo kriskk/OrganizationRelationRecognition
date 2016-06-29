@@ -1,0 +1,46 @@
+T1	Organization 0 15	Rockstar Vienna
+T2	Organization 190 210	Remedy Entertainment
+T3	Organization 212 228	Rockstar Toronto
+T4	Organization 232 246	Rockstar Leeds
+T5	Organization 291 311	Remedy Entertainment
+T6	Organization 360 374	Rockstar North
+T7	Organization 430 444	Rockstar North
+T8	Organization 491 505	Rockstar North
+T9	Organization 507 522	Rockstar London
+T10	Organization 524 538	Rockstar Leeds
+T11	Organization 542 558	Rockstar Toronto
+T12	Organization 597 612	Rockstar London
+N1	Reference T1 wiki:2329608	Rockstar Vienna
+N2	Reference T2 wiki:1464463	Remedy Entertainment
+N3	Reference T3 wiki:2336518	Rockstar Toronto
+N4	Reference T4 wiki:2325802	Rockstar Leeds
+N5	Reference T5 wiki:1464463	Remedy Entertainment
+N6	Reference T6 wiki:662662	Rockstar North
+N7	Reference T7 wiki:662662	Rockstar North
+N8	Reference T8 wiki:662662	Rockstar North
+N9	Reference T9 wiki:2327715	Rockstar London
+N10	Reference T10 wiki:2325802	Rockstar Leeds
+N11	Reference T11 wiki:2336518	Rockstar Toronto
+N12	Reference T12 wiki:2327715	Rockstar London
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	TypeRel T2 Cooperator
+A13	TypeRel T3 Cooperator
+A14	TypeRel T4 Cooperator
+A15	TypeRel T5 Cooperator
+A16	TypeRel T6 Cooperator
+A17	TypeRel T7 Cooperator
+A18	TypeRel T8 Cooperator
+A19	TypeRel T9 Cooperator
+A20	TypeRel T10 Cooperator
+A21	TypeRel T11 Cooperator
+A22	TypeRel T12 Cooperator

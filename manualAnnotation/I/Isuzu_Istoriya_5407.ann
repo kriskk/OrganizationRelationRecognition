@@ -1,0 +1,10 @@
+T1	Organization 0 5	Isuzu
+T2	Organization 198 212	General Motors
+T3	Organization 410 427	Hino Motors, Ltd.
+N1	Reference T1 wiki:177809	Isuzu
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:266538	Hino Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

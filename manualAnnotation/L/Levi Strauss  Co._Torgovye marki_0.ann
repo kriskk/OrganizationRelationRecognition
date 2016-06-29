@@ -1,0 +1,18 @@
+T1	Organization 0 18	Levi Strauss & Co.
+T2	Organization 162 168	Levi's
+T3	Organization 403 411	Wal-Mart
+T4	Organization 413 418	Kmart
+T5	Organization 421 427	Target
+N1	Reference T1 wiki:438212	Levi Strauss & Co.
+N2	Reference T2 wiki:438212	Levi's
+N3	Reference T3 wiki:243093	Wal-Mart
+N4	Reference T4 wiki:369950	Kmart
+N5	Reference T5 wiki:369962	Target
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator

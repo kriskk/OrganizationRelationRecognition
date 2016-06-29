@@ -1,0 +1,6 @@
+T1	Organization 0 8	Kenworth
+T2	Organization 232 237	GINAF
+N1	Reference T1 wiki:2477230	Kenworth
+N2	Reference T2 wiki:424070	GINAF
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

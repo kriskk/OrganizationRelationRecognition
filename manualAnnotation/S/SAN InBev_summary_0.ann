@@ -1,0 +1,12 @@
+T1	Organization 0 9	САН ИнБев
+T2	Organization 119 127	AB InBev
+T3	Organization 163 168	InBev
+T4	Organization 171 185	Anheuser-Busсh
+N1	Reference T1 wiki:460147	САН ИнБев
+N2	Reference T2 wiki:3199376	Anheuser-Busch InBev
+N3	Reference T3 wiki:203867	InBev
+N4	Reference T4 wiki:489317	Anheuser-Busch
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder

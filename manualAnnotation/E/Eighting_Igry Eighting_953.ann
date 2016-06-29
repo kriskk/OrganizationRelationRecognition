@@ -1,0 +1,6 @@
+T1	Organization 0 8	Eighting
+T2	Organization 203 215	Bandai Namco
+N1	Reference T1 wiki:1718274	Eighting
+N2	Reference T2 wiki:327777	Namco Bandai Games
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

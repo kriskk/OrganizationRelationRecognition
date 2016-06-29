@@ -1,0 +1,6 @@
+T1	Organization 0 3	IAd
+T2	Organization 83 88	Apple
+N1	Reference T1 wiki:2387325	IAd
+N2	Reference T2 wiki:39726	Apple
+A1	IsLink T2
+A2	TypeRel T2 Holder

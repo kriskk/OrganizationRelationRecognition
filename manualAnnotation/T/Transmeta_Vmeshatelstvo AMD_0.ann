@@ -1,0 +1,8 @@
+T1	Organization 0 9	Transmeta
+T2	Organization 112 115	AMD
+T3	Organization 232 235	AMD
+N1	Reference T1 wiki:99423	Transmeta
+N2	Reference T2 wiki:19981	AMD
+N3	Reference T3 wiki:19981	AMD
+A1	IsLink T2
+A2	IsLink T3

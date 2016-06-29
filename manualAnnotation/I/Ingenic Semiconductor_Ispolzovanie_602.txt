@@ -1,0 +1,7 @@
+Ingenic Semiconductor
+@Использование
+1481,602
+
+Процессор Jz4755 применяется в электронной книге Gmini MagicBook M61HD, а также в устройствах P3Go GT Break, Ritmix RZX-50, Gamebox GBX-1001.
+Jz4770 используется в 7" планшетах Ainol NOVO 7 BASIC и Ainol NOVO 7 Paladin под управлением ОС Android.
+

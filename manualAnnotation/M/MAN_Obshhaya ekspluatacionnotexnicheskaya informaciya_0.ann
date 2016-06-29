@@ -1,0 +1,6 @@
+T1	Organization 0 3	MAN
+T2	Organization 129 131	ZF
+N1	Reference T1 wiki:42703	MAN
+N2	Reference T2 wiki:154998	ZF Friedrichshafen AG
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Deutsche Post AG
+T2	Organization 121 138	Deutsche Post DHL
+N1	Reference T1 wiki:170102	Deutsche Post AG
+N2	Reference T2 wiki:287521	Deutsche Post DHL
+A1	IsLink T2

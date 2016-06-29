@@ -1,0 +1,5 @@
+T1	Organization 0 7	Элеконд
+T2	Organization 289 304	Военный Регистр
+N1	Reference T1 wiki:2664836	Элеконд
+N2	Reference T2 wiki:4016654	Военный регистр
+A1	IsLink T2

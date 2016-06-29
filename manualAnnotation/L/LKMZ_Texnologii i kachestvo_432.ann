@@ -1,0 +1,9 @@
+T1	Organization 0 4	ЛКМЗ
+T2	Organization 231 234	SKF
+T3	Organization 508 534	Индустриальной группы УПЭК
+N1	Reference T1 wiki:2025951	ЛКМЗ
+N2	Reference T2 wiki:938417	SKF
+N3	Reference T3 wiki:3597216	УПЭК
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

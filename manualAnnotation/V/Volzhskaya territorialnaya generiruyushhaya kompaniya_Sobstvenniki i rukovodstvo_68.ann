@@ -1,0 +1,14 @@
+T1	Organization 0 46	Волжская территориальная генерирующая компания
+T2	Organization 361 372	КЭС-Холдинг
+T3	Organization 443 450	Газфонд
+T4	Organization 625 636	КЭС-Холдинг
+N1	Reference T1 wiki:213293	Волжская территориальная генерирующая компания
+N2	Reference T2 wiki:160412	КЭС-Холдинг
+N3	Reference T3 wiki:1950122	Газфонд
+N4	Reference T4 wiki:160412	КЭС-Холдинг
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Personnel

@@ -1,0 +1,6 @@
+T1	Organization 0 4	Rába
+T2	Organization 218 224	Ikarus
+N1	Reference T1 wiki:298600	Rába
+N2	Reference T2 wiki:243306	Ikarus
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

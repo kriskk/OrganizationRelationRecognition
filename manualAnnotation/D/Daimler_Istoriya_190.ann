@@ -1,0 +1,8 @@
+T1	Organization 0 7	Daimler
+T2	Organization 254 269	Daimler-Benz AG
+T3	Organization 349 361	Chrysler LLC
+N1	Reference T1 wiki:39716	Daimler
+N2	Reference T2 wiki:1384782	Daimler-Benz
+N3	Reference T3 wiki:223902	Chrysler
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 6	Crytek
+T2	Organization 257 272	Electronic Arts
+T3	Organization 510 519	NPD Group
+N1	Reference T1 wiki:650133	Crytek
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:1230295	NPD Group
+A1	IsLink T2
+A2	IsLink T3

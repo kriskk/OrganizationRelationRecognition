@@ -1,0 +1,6 @@
+T1	Organization 0 9	Интерпайп
+T2	Organization 238 287	Интерпайп — Нижнеднепровский трубопрокатный завод
+N1	Reference T1 wiki:652297	Интерпайп
+N2	Reference T2 wiki:2656189	Нижнеднепровский трубопрокатный завод
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

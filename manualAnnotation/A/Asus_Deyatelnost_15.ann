@@ -1,0 +1,44 @@
+T1	Organization 0 4	Asus
+T2	Organization 306 310	Sony
+T3	Organization 328 338	Apple Inc.
+T4	Organization 370 379	Alienware
+T5	Organization 399 409	Palm, Inc.
+T6	Organization 411 413	HP
+T7	Organization 600 608	Pegatron
+T8	Organization 765 773	Pegatron
+T9	Organization 865 873	Pegatron
+T10	Organization 1114 1121	Foxconn
+T11	Organization 1165 1180	Quanta Computer
+T12	Organization 1301 1307	Lenovo
+T13	Organization 1309 1324	Hewlett-Packard
+T14	Organization 1326 1330	Dell
+T15	Organization 1333 1337	Acer
+N1	Reference T1 wiki:118273	Asus
+N2	Reference T2 wiki:73019	Sony
+N3	Reference T3 wiki:39726	Apple Inc.
+N4	Reference T4 wiki:1849025	Alienware
+N5	Reference T5 wiki:128188	Palm, Inc.
+N6	Reference T6 wiki:89988	Hewlett-Packard
+N7	Reference T7 wiki:2208845	Pegatron
+N8	Reference T8 wiki:2208845	Pegatron
+N9	Reference T9 wiki:2208845	Pegatron
+N10	Reference T10 wiki:2020893	Foxconn
+N11	Reference T11 wiki:4159390	Quanta Computer
+N12	Reference T12 wiki:666442	Lenovo
+N13	Reference T13 wiki:89988	Hewlett-Packard
+N14	Reference T14 wiki:124570	Dell
+N15	Reference T15 wiki:326664	Acer
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15

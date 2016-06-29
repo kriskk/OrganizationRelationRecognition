@@ -1,0 +1,14 @@
+T1	Organization 0 10	Lazy Games
+T2	Organization 238 248	Новый Диск
+T3	Organization 250 252	1С
+T4	Organization 255 259	Бука
+N1	Reference T1 wiki:1654960	Lazy Games
+N2	Reference T2 wiki:606365	Новый Диск
+N3	Reference T3 wiki:34936	1С
+N4	Reference T4 wiki:367355	Бука (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

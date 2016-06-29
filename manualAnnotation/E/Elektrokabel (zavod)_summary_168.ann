@@ -1,0 +1,6 @@
+T1	Organization 0 21	Электрокабель (завод)
+T2	Organization 205 260	завода по обработке цветных металлов имени Орджоникидзе
+N1	Reference T1 wiki:4302520	Электрокабель (завод)
+N2	Reference T2 wiki:707099	Кольчугцветмет
+A1	IsLink T2
+A2	TypeRel T2 Holder

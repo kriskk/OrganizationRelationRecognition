@@ -1,0 +1,6 @@
+T1	Organization 0 17	Мангистаумунайгаз
+T2	Organization 193 201	Казахойл
+N1	Reference T1 wiki:1504886	Мангистаумунайгаз
+N2	Reference T2 wiki:294591	Казахойл
+A1	IsLink T2
+A2	TypeRel T2 Holder

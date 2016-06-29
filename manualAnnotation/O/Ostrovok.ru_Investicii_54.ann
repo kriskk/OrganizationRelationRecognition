@@ -1,0 +1,9 @@
+T1	Organization 0 11	Ostrovok.ru
+T2	Organization 252 257	Zynga
+T3	Organization 297 303	Яндекс
+N1	Reference T1 wiki:4336181	Ostrovok.ru
+N2	Reference T2 wiki:2720154	Zynga
+N3	Reference T3 wiki:9744	Яндекс
+A2	IsLink T3
+A1	TypeRel T2 Personnel
+A3	TypeRel T3 Personnel

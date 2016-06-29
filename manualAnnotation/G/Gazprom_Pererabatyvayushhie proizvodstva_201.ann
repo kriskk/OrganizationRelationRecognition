@@ -1,0 +1,9 @@
+T1	Organization 0 7	Газпром
+T2	Organization 230 245	«Газпром нефть»
+T3	Organization 250 274	Газпром нефтехим Салават
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:121955	Сибнефть
+N3	Reference T3 wiki:319497	Газпром нефтехим Салават
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

@@ -1,0 +1,16 @@
+T1	Organization 0 3	PPF
+T2	Organization 119 130	«Эльдорадо»
+T3	Organization 197 228	Дженерали ППФ Страхование жизни
+T4	Organization 324 337	«Полиметалле»
+T5	Organization 468 478	Ингосстрах
+N1	Reference T1 wiki:703366	PPF
+N2	Reference T2 wiki:144684	Эльдорадо (сеть магазинов)
+N3	Reference T3 wiki:3162006	Дженерали ППФ Страхование жизни
+N4	Reference T4 wiki:365296	Полиметалл
+N5	Reference T5 wiki:139838	Ингосстрах
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

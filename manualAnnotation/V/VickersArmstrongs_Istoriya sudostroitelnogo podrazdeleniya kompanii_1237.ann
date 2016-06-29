@@ -1,0 +1,11 @@
+T1	Organization 0 18	Vickers-Armstrongs
+T2	Organization 259 272	Cammell Laird
+T3	Organization 401 412	BAE Systems
+T4	Organization 745 756	Swan Hunter
+N1	Reference T1 wiki:983337	Vickers-Armstrongs
+N2	Reference T2 wiki:3653122	Cammell Laird
+N3	Reference T3 wiki:2435557	BAE Systems
+N4	Reference T4 wiki:3807313	Swan Hunter
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

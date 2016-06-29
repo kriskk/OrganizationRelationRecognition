@@ -1,0 +1,14 @@
+T1	Organization 0 19	Максимум (компания)
+T2	Organization 247 251	Ford
+T3	Organization 253 258	Honda
+T4	Organization 260 270	Mitsubishi
+N1	Reference T1 wiki:4108347	Максимум (компания)
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:121050	Honda
+N4	Reference T4 wiki:182989	Mitsubishi
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

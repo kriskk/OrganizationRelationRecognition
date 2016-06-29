@@ -1,0 +1,5 @@
+T1	Organization 0 53	Воронежское акционерное самолётостроительное общество
+T2	Organization 354 364	КБ Антонов
+N1	Reference T1 wiki:143197	Воронежское акционерное самолётостроительное общество
+N2	Reference T2 wiki:32271	КБ Антонов
+A1	TypeRel T2 Cooperator

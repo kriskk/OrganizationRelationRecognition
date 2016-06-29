@@ -1,0 +1,30 @@
+T1	Organization 0 11	RDS Records
+T2	Organization 223 236	CD Land Group
+T3	Organization 244 272	Sony BMG Music Entertainment
+T4	Organization 282 303	Universal Music Group
+T5	Organization 305 323	Warner Music Group
+T6	Organization 325 334	Ред Медиа
+T7	Organization 336 355	Русская Медиагруппа
+T8	Organization 390 396	Яндекс
+N1	Reference T1 wiki:3464448	RDS Records
+N2	Reference T2 wiki:2812077	CD Land Group
+N3	Reference T3 wiki:439628	Sony BMG Music Entertainment
+N4	Reference T4 wiki:203047	Universal Music Group
+N5	Reference T5 wiki:197246	Warner Music Group
+N6	Reference T6 wiki:1938031	Ред Медиа
+N7	Reference T7 wiki:1702054	Русская Медиагруппа
+N8	Reference T8 wiki:9744	Яндекс
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

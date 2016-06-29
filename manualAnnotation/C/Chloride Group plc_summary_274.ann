@@ -1,0 +1,5 @@
+T1	Organization 0 18	Chloride Group plc
+T2	Organization 209 219	Siemens AG
+N1	Reference T1 wiki:785289	Chloride Group plc
+N2	Reference T2 wiki:36510	Siemens AG
+A1	IsLink T2

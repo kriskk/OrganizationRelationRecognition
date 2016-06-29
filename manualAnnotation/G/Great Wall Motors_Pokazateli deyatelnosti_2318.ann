@@ -1,0 +1,5 @@
+T1	Organization 0 17	Great Wall Motors
+T2	Organization 271 275	Dadi
+N1	Reference T1 wiki:394622	Great Wall Motors
+N2	Reference T2 wiki:1789953	Dadi Auto
+A1	TypeRel T2 Subsidiary

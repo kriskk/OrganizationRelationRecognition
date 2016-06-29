@@ -1,0 +1,5 @@
+T1	Organization 0 21	Wilson Sporting Goods
+T2	Organization 292 303	Amer Sports
+N1	Reference T1 wiki:2560143	Wilson Sporting Goods
+N2	Reference T2 wiki:398920	Amer Sports
+A1	TypeRel T2 Holder

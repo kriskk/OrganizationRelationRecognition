@@ -1,0 +1,5 @@
+T1	Organization 0 5	KVINT
+T2	Organization 174 179	Шериф
+N1	Reference T1 wiki:2161764	KVINT
+N2	Reference T2 wiki:393414	Шериф (холдинг)
+A1	TypeRel T2 Holder

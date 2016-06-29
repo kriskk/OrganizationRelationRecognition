@@ -1,0 +1,12 @@
+T1	Organization 0 20	Volkswagen (концерн)
+T2	Organization 189 192	BMW
+T3	Organization 270 273	BMW
+T4	Organization 394 400	Suzuki
+N1	Reference T1 wiki:750217	Volkswagen (концерн)
+N2	Reference T2 wiki:40368	BMW
+N3	Reference T3 wiki:40368	BMW
+N4	Reference T4 wiki:690514	Suzuki
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T4 Subsidiary

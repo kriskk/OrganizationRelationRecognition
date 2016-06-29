@@ -1,0 +1,5 @@
+T1	Organization 0 12	Leroy Merlin
+T2	Organization 133 136	OBI
+N1	Reference T1 wiki:342544	Leroy Merlin
+N2	Reference T2 wiki:149772	OBI
+A1	TypeRel T2 Competitor

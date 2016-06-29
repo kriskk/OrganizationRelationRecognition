@@ -1,0 +1,5 @@
+T1	Organization 0 31	Благовещенский арматурный завод
+T2	Organization 222 262	«Объединенной металлургической компании»
+N1	Reference T1 wiki:3354965	Благовещенский арматурный завод
+N2	Reference T2 wiki:196513	ОМК
+A1	IsLink T2

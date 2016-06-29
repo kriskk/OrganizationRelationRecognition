@@ -1,0 +1,6 @@
+T1	Organization 0 39	Инвестиционная компания Грандис Капитал
+T2	Organization 247 257	Медиалогия
+N1	Reference T1 wiki:4081355	Инвестиционная компания Грандис Капитал
+N2	Reference T2 wiki:2849968	Медиалогия
+A1	IsLink T2
+A2	TypeRel T2 Other

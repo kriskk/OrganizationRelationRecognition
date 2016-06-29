@@ -1,0 +1,5 @@
+T1	Organization 0 18	Control Techniques
+T2	Organization 274 285	Leroy-Somer
+N1	Reference T1 wiki:3110992	Control Techniques
+N2	Reference T2 wiki:3118299	Leroy-Somer
+A1	IsLink T2

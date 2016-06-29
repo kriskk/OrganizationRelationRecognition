@@ -1,0 +1,5 @@
+T1	Organization 0 24	Центр Речевых Технологий
+T2	Organization 509 519	Эксперт РА
+N1	Reference T1 wiki:1476790	Центр Речевых Технологий
+N2	Reference T2 wiki:363296	Эксперт РА
+A1	IsLink T2

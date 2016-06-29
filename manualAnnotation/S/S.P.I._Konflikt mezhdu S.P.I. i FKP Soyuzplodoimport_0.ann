@@ -1,0 +1,8 @@
+T1	Organization 0 6	S.P.I.
+T2	Organization 203 218	Союзплодоимпорт
+T3	Organization 421 436	Союзплодоимпорт
+N1	Reference T1 wiki:205777	S.P.I.
+N2	Reference T2 wiki:2509931	Союзплодоимпорт
+N3	Reference T3 wiki:2509931	Союзплодоимпорт
+A1	IsLink T2
+A2	IsLink T3

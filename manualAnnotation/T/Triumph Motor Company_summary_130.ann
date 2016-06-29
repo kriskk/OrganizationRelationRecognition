@@ -1,0 +1,5 @@
+T1	Organization 0 21	Triumph Motor Company
+T2	Organization 232 235	BMW
+N1	Reference T1 wiki:3022071	Triumph Motor Company
+N2	Reference T2 wiki:40368	BMW
+A1	IsLink T2

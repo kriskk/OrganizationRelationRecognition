@@ -1,0 +1,5 @@
+T1	Organization 0 26	Луцкий автомобильный завод
+T2	Organization 250 257	АвтоЗАЗ
+N1	Reference T1 wiki:546119	Луцкий автомобильный завод
+N2	Reference T2 wiki:683481	ЗАЗ
+A1	TypeRel T2 Holder

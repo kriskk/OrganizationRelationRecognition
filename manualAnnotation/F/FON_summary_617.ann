@@ -1,0 +1,5 @@
+T1	Organization 0 3	FON
+T2	Organization 299 314	British Telecom
+N1	Reference T1 wiki:1493363	FON
+N2	Reference T2 wiki:14276	British Telecom
+A1	IsLink T2

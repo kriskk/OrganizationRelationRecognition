@@ -1,0 +1,13 @@
+T1	Organization 0 29	Huntington Ingalls Industries
+T2	Organization 187 203	Northrop Grumman
+T3	Organization 239 268	Northrop Grumman Shipbuilding
+T4	Organization 550 579	Northrop Grumman Shipbuilding
+N1	Reference T1 wiki:3725394	Huntington Ingalls Industries
+N2	Reference T2 wiki:681371	Northrop Grumman Corporation
+N3	Reference T3 wiki:681371	Northrop Grumman Shipbuilding
+N4	Reference T4 wiki:681371	Northrop Grumman Shipbuilding
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Subsidiary

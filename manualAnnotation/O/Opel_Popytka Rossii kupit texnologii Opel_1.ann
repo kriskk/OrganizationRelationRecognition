@@ -1,0 +1,19 @@
+T1	Organization 0 4	Opel
+T2	Organization 231 236	Magna
+T3	Organization 276 278	GM
+T4	Organization 332 337	Magna
+T5	Organization 419 421	GM
+T6	Organization 673 688	Vauxhall Motors
+N1	Reference T1 wiki:562302	Opel
+N2	Reference T2 wiki:232905	Magna International
+N3	Reference T3 wiki:17438	General Motors
+N4	Reference T4 wiki:232905	Magna
+N5	Reference T5 wiki:17438	General Motors
+N6	Reference T6 wiki:1517064	Vauxhall Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T3 Holder
+A7	TypeRel T6 Holder

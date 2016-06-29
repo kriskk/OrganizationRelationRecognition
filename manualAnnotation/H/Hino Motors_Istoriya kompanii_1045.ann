@@ -1,0 +1,6 @@
+T1	Organization 0 11	Hino Motors
+T2	Organization 216 223	Renault
+N1	Reference T1 wiki:266538	Hino Motors
+N2	Reference T2 wiki:586472	Renault
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

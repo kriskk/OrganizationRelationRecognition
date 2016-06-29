@@ -1,0 +1,6 @@
+T1	Organization 0 4	Nike
+T2	Organization 290 299	Umbro Plc
+N1	Reference T1 wiki:277297	Nike
+N2	Reference T2 wiki:1292691	Umbro
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

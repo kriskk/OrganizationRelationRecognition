@@ -1,0 +1,14 @@
+T1	Organization 0 18	Onyx International
+T2	Organization 137 140	IBM
+T3	Organization 150 159	Microsoft
+T4	Organization 161 167	Nortel
+N1	Reference T1 wiki:3815945	Onyx International
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:311902	Nortel
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Personnel
+A5	TypeRel T3 Personnel
+A6	TypeRel T4 Personnel

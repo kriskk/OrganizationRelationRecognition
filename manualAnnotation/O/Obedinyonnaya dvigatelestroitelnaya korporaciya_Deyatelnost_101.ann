@@ -1,0 +1,13 @@
+T1	Organization 0 45	Объединённая двигателестроительная корпорация
+T2	Organization 451 467	Вертолёты России
+T3	Organization 471 478	Газпром
+T4	Organization 481 488	Росатом
+N1	Reference T1 wiki:2353507	Объединённая двигателестроительная корпорация
+N2	Reference T2 wiki:899228	Вертолёты России
+N3	Reference T3 wiki:44754	Газпром
+N4	Reference T4 wiki:1299917	Росатом
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

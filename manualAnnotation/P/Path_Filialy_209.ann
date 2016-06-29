@@ -1,0 +1,5 @@
+T1	Organization 0 5	Pathé
+T2	Organization 188 198	Фильм д’ар
+N1	Reference T1 wiki:1000945	Pathé
+N2	Reference T2 wiki:1013174	Фильм д’ар
+A1	IsLink T2

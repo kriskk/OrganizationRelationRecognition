@@ -1,0 +1,8 @@
+T1	Organization 0 4	Avia
+T2	Organization 42 47	Tatra
+T3	Organization 62 66	Liaz
+N1	Reference T1 wiki:897617	Avia
+N2	Reference T2 wiki:259110	Tatra
+N3	Reference T3 wiki:897532	Liaz
+A1	IsLink T2
+A2	IsLink T3

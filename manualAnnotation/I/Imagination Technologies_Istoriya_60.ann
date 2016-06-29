@@ -1,0 +1,5 @@
+T1	Organization 0 24	Imagination Technologies
+T2	Organization 207 224	MIPS Technologies
+N1	Reference T1 wiki:4205830	Imagination Technologies
+N2	Reference T2 wiki:4203174	MIPS Technologies
+A1	TypeRel T2 Subsidiary

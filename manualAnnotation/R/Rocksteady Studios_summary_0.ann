@@ -1,0 +1,9 @@
+T1	Organization 0 18	Rocksteady Studios
+T2	Organization 115 153	Warner Bros. Interactive Entertainment
+T3	Organization 199 210	Time Warner
+N1	Reference T1 wiki:3050753	Rocksteady Studios
+N2	Reference T2 wiki:2184337	Warner Bros. Interactive Entertainment
+N3	Reference T3 wiki:741342	Time Warner
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

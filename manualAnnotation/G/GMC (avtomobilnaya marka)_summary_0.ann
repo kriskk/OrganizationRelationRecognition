@@ -1,0 +1,6 @@
+T1	Organization 0 25	GMC (автомобильная марка)
+T2	Organization 128 142	General Motors
+N1	Reference T1 wiki:1811580	GMC (автомобильная марка)
+N2	Reference T2 wiki:17438	General Motors
+A1	IsLink T2
+A2	TypeRel T2 Holder

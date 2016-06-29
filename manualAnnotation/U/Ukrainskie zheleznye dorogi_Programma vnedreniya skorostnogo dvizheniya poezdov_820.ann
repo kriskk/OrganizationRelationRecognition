@@ -1,0 +1,6 @@
+T1	Organization 0 26	Украинские железные дороги
+T2	Organization 322 360	Крюковского вагоностроительного завода
+N1	Reference T1 wiki:384185	Украинские железные дороги
+N2	Reference T2 wiki:1209818	Крюковский вагоностроительный завод
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

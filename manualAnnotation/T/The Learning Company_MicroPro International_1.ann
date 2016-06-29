@@ -1,0 +1,8 @@
+T1	Organization 0 20	The Learning Company
+T2	Organization 225 252	SoftKey International, Inc.
+T3	Organization 412 433	Borland International
+N1	Reference T1 wiki:3484003	The Learning Company
+N2	Reference T2 wiki:3484003	SoftKey International
+N3	Reference T3 wiki:35713	Borland International
+A1	IsLink T2
+A2	IsLink T3

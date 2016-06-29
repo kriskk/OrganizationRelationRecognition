@@ -1,0 +1,5 @@
+T1	Organization 0 24	Параллель (нефтетрейдер)
+T2	Organization 190 215	Систем Кэпитал Менеджмент
+N1	Reference T1 wiki:2009898	Параллель (нефтетрейдер)
+N2	Reference T2 wiki:36184	Систем Кэпитал Менеджмент
+A1	IsLink T2

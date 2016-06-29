@@ -1,0 +1,5 @@
+T1	Organization 0 18	Jupiter (компания)
+T2	Organization 216 227	Square Enix
+N1	Reference T1 wiki:3686023	Jupiter (компания)
+N2	Reference T2 wiki:288255	Square Enix
+A1	TypeRel T2 Cooperator

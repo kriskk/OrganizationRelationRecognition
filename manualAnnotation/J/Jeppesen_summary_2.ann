@@ -1,0 +1,5 @@
+T1	Organization 0 8	Jeppesen
+T2	Organization 275 302	Boeing Commercial Airplanes
+N1	Reference T1 wiki:711794	Jeppesen
+N2	Reference T2 wiki:156398	Boeing
+A1	TypeRel T2 Holder

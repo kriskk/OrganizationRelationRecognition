@@ -1,0 +1,9 @@
+T1	Organization 0 15	Willys-Overland
+T2	Organization 265 278	Kaiser Motors
+T3	Organization 415 419	Jeep
+N1	Reference T1 wiki:3630721	Willys-Overland
+N2	Reference T2 wiki:3333285	Kaiser Motors
+N3	Reference T3 wiki:41489	Jeep
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Merge

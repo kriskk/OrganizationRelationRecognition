@@ -1,0 +1,5 @@
+T1	Organization 0 6	Cagiva
+T2	Organization 156 171	Harley-Davidson
+N1	Reference T1 wiki:1795239	Cagiva
+N2	Reference T2 wiki:670179	Harley-Davidson
+A1	IsLink T2

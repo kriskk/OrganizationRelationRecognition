@@ -1,0 +1,5 @@
+T1	Organization 0 11	StudioCanal
+T2	Organization 178 191	Groupe Canal+
+N1	Reference T1 wiki:2485883	StudioCanal
+N2	Reference T2 wiki:2487118	Groupe Canal+
+A1	IsLink T2

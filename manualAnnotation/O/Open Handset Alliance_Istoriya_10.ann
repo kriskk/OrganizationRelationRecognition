@@ -1,0 +1,31 @@
+T1	Organization 0 21	Open Handset Alliance
+T2	Organization 283 288	Nokia
+T3	Organization 290 294	AT&T
+T4	Organization 297 313	Verizon Wireless
+T5	Organization 604 614	Apple Inc.
+T6	Organization 616 625	Microsoft
+T7	Organization 627 632	Nokia
+T8	Organization 634 638	Palm
+T9	Organization 640 658	Research In Motion
+N1	Reference T1 wiki:917308	Open Handset Alliance
+N2	Reference T2 wiki:56405	Nokia
+N3	Reference T3 wiki:373569	AT&T Mobility
+N4	Reference T4 wiki:373572	Verizon Wireless
+N5	Reference T5 wiki:39726	Apple Inc.
+N6	Reference T6 wiki:11987	Microsoft
+N7	Reference T7 wiki:56405	Nokia
+N8	Reference T8 wiki:128188	Palm, Inc.
+N9	Reference T9 wiki:2617085	Research In Motion
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T5 Competitor
+A10	TypeRel T6 Competitor
+A11	TypeRel T7 Competitor
+A12	TypeRel T8 Competitor
+A13	TypeRel T9 Competitor

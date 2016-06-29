@@ -1,0 +1,13 @@
+T1	Organization 0 6	Oracle
+T2	Organization 349 352	BEA
+T3	Organization 507 524	Fusion Middleware
+T4	Organization 678 693	Hewlett-Packard
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:565937	BEA
+N3	Reference T3 wiki:129227	Fusion Middleware
+N4	Reference T4 wiki:89988	Hewlett-Packard
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T4 Cooperator

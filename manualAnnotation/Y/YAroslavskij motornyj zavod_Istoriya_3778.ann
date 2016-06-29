@@ -1,0 +1,62 @@
+T1	Organization 0 26	Ярославский моторный завод
+T2	Organization 227 249	Кутаисского автозавода
+T3	Organization 373 376	МАЗ
+T4	Organization 378 383	БелАЗ
+T5	Organization 391 395	МЗКТ
+T6	Organization 397 401	КрАЗ
+T7	Organization 403 409	УралАЗ
+T8	Organization 411 414	ЗИЛ
+T9	Organization 416 419	БАЗ
+T10	Organization 421 424	ЛАЗ
+T11	Organization 426 430	КЗКТ
+T12	Organization 432 436	ИЗТМ
+T13	Organization 445 460	Кировский завод
+T14	Organization 502 513	Воронежский
+T15	Organization 541 550	Муромский
+T16	Organization 587 612	Ивановский крановый завод
+N1	Reference T1 wiki:916530	Ярославский моторный завод
+N2	Reference T2 wiki:2253760	Кутаисский автозавод
+N3	Reference T3 wiki:33218	МАЗ
+N4	Reference T4 wiki:104850	БелАЗ
+N5	Reference T5 wiki:167144	МЗКТ
+N6	Reference T6 wiki:606512	Кременчугский автомобильный завод
+N7	Reference T7 wiki:24935	УралАЗ
+N8	Reference T8 wiki:259988	ЗИЛ
+N9	Reference T9 wiki:3476308	Брянский автомобильный завод
+N10	Reference T10 wiki:546123	ЛАЗ
+N11	Reference T11 wiki:2749426	Курганский завод колёсных тягачей
+N12	Reference T12 wiki:1733545	Ишимбайский завод транспортного машиностроения
+N13	Reference T13 wiki:208146	Кировский завод (Санкт-Петербург)
+N14	Reference T14 wiki:3346623	Воронежский экскаваторный завод
+N15	Reference T15 wiki:4126165	Муромский тепловозостроительный завод
+N16	Reference T16 wiki:2586505	Ивановский крановый завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	TypeRel T2 Cooperator
+A17	TypeRel T3 Cooperator
+A18	TypeRel T4 Cooperator
+A19	TypeRel T5 Cooperator
+A20	TypeRel T6 Cooperator
+A21	TypeRel T7 Cooperator
+A22	TypeRel T8 Cooperator
+A23	TypeRel T9 Cooperator
+A24	TypeRel T10 Cooperator
+A25	TypeRel T11 Cooperator
+A26	TypeRel T12 Cooperator
+A27	TypeRel T13 Cooperator
+A28	TypeRel T14 Cooperator
+A29	TypeRel T15 Cooperator
+A30	TypeRel T16 Cooperator

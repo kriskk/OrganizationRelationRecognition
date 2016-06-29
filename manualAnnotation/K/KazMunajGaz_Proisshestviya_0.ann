@@ -1,0 +1,6 @@
+T1	Organization 0 11	КазМунайГаз
+T2	Organization 173 188	Каражанбасмунай
+N1	Reference T1 wiki:294591	КазМунайГаз
+N2	Reference T2 wiki:3248759	Каражанбасмунай
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

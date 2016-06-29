@@ -1,0 +1,6 @@
+T1	Organization 0 6	Oracle
+T2	Organization 123 139	Sun Microsystems
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:4777	Sun Microsystems
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

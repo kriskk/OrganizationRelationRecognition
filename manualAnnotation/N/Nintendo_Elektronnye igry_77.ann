@@ -1,0 +1,6 @@
+T1	Organization 0 8	Nintendo
+T2	Organization 215 234	Nintendo of America
+N1	Reference T1 wiki:202486	Nintendo
+N2	Reference T2 wiki:202486	Nintendo of America
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

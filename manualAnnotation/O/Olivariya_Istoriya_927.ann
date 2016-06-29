@@ -1,0 +1,10 @@
+T1	Organization 0 8	Оливария
+T2	Organization 228 252	Baltic Beverages Holding
+T3	Organization 328 343	Carlsberg Group
+N1	Reference T1 wiki:1029045	Оливария
+N2	Reference T2 wiki:317339	Baltic Beverages Holding
+N3	Reference T3 wiki:787801	Carlsberg Group
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

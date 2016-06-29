@@ -1,0 +1,14 @@
+T1	Organization 0 23	Бориспольский автозавод
+T2	Organization 211 215	TATA
+T3	Organization 503 507	ТАТА
+T4	Organization 595 598	FAW
+T5	Organization 660 673	Ashok Leyland
+N1	Reference T1 wiki:546120	Бориспольский автозавод
+N2	Reference T2 wiki:962083	Tata Motors
+N3	Reference T3 wiki:962083	Tata Motors
+N4	Reference T4 wiki:376864	FAW
+N5	Reference T5 wiki:276563	Ashok Leyland
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

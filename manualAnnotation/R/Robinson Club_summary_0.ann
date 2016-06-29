@@ -1,0 +1,10 @@
+T1	Organization 0 13	Robinson Club
+T2	Organization 132 135	TUI
+T3	Organization 209 217	Club Med
+N1	Reference T1 wiki:1705806	Robinson Club
+N2	Reference T2 wiki:169052	TUI
+N3	Reference T3 wiki:1104437	Club Med
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Competitor

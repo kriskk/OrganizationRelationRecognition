@@ -1,0 +1,5 @@
+T1	Organization 0 9	Blancpain
+T2	Organization 352 357	Omega
+N1	Reference T1 wiki:1075077	Blancpain
+N2	Reference T2 wiki:1047157	Omega (компания)
+A1	IsLink T2

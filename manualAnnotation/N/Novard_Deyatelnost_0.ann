@@ -1,0 +1,11 @@
+T1	Organization 0 6	Новард
+T2	Organization 124 155	сеть обувных каскетов «Эконика»
+T3	Organization 174 186	Сити-XXI век
+T4	Organization 395 408	Новард Финанс
+N1	Reference T1 wiki:2654272	Новард
+N2	Reference T2 wiki:2690261	Эконика (сеть обувных каскетов)
+N3	Reference T3 wiki:2716170	Сити-XXI век
+N4	Reference T4 wiki:2783963	Новард Финанс
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

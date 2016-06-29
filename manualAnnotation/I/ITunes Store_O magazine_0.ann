@@ -1,0 +1,5 @@
+T1	Organization 0 12	ITunes Store
+T2	Organization 100 105	Apple
+N1	Reference T1 wiki:63804	ITunes Store
+N2	Reference T2 wiki:39726	Apple
+A1	TypeRel T2 Holder

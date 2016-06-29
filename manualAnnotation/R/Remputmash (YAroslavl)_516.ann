@@ -1,0 +1,6 @@
+T1	Organization 0 22	Ремпутьмаш (Ярославль)
+T2	Organization 186 196	Ремпутьмаш
+N1	Reference T1 wiki:146356	Ремпутьмаш (Ярославль)
+N2	Reference T2 wiki:1745196	Ремпутьмаш
+A1	IsLink T2
+A2	TypeRel T2 Holder

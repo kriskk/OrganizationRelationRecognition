@@ -1,0 +1,5 @@
+T1	Organization 0 10	Группа ГАЗ
+T2	Organization 193 207	Русские машины
+N1	Reference T1 wiki:21473	Группа ГАЗ
+N2	Reference T2 wiki:2023713	Русские машины
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 6	Panini
+T2	Organization 298 304	Danone
+N1	Reference T1 wiki:2533025	Panini
+N2	Reference T2 wiki:279435	Danone
+A1	IsLink T2

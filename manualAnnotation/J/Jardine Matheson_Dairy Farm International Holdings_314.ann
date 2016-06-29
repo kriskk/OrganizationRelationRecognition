@@ -1,0 +1,10 @@
+T1	Organization 0 16	Jardine Matheson
+T2	Organization 811 815	IKEA
+T3	Organization 1002 1011	Starbucks
+N1	Reference T1 wiki:3497044	Jardine Matheson
+N2	Reference T2 wiki:164679	IKEA
+N3	Reference T3 wiki:205133	Starbucks
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Subsidiary
+A4	TypeRel T2 Subsidiary

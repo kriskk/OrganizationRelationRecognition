@@ -1,0 +1,6 @@
+T1	Organization 0 16	Вертолёты России
+T2	Organization 184 189	Камов
+N1	Reference T1 wiki:899228	Вертолёты России
+N2	Reference T2 wiki:640381	Камов (ОАО)
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

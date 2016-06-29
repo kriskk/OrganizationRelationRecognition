@@ -1,0 +1,8 @@
+T1	Organization 0 15	Epiphan Systems
+T2	Organization 137 146	Microsoft
+T3	Organization 148 151	IBM
+N1	Reference T1 wiki:3915820	Epiphan Systems
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:11078	IBM
+A1	IsLink T2
+A2	IsLink T3

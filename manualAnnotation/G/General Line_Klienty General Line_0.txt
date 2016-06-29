@@ -1,0 +1,13 @@
+General Line!
+@Клиенты General Line!
+826,0
+
+
+Клиенты General Line!
+
+ Банк Солидарность
+	 Мегафон
+	 РЖД
+	 Alcoa
+
+

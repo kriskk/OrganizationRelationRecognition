@@ -1,0 +1,8 @@
+T1	Organization 0 21	Sumitomo Osaka Cement
+T2	Organization 199 213	Sumitomo Group
+T3	Organization 316 329	Ernst & Young
+N1	Reference T1 wiki:1842238	Sumitomo Osaka Cement
+N2	Reference T2 wiki:1813036	Sumitomo Group
+N3	Reference T3 wiki:385728	Ernst & Young
+A1	IsLink T2
+A2	IsLink T3

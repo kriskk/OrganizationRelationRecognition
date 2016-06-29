@@ -1,0 +1,13 @@
+T1	Organization 0 18	Mythos (пивоварня)
+T2	Organization 372 400	Scottish & Newcastle (S & N)
+T3	Organization 553 561	Heineken
+T4	Organization 572 587	Carlsberg Group
+N1	Reference T1 wiki:4119287	Mythos (пивоварня)
+N2	Reference T2 wiki:318062	Scottish & Newcastle
+N3	Reference T3 wiki:248758	Heineken
+N4	Reference T4 wiki:787801	Carlsberg
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T4 Holder

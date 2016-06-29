@@ -1,0 +1,5 @@
+T1	Organization 0 15	Шахта Большевик
+T2	Organization 154 164	Сибуглемет
+N1	Reference T1 wiki:1261174	Шахта Большевик
+N2	Reference T2 wiki:2940215	Сибуглемет
+A1	TypeRel T2 Holder

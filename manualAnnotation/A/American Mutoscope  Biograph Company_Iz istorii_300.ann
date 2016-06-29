@@ -1,0 +1,17 @@
+T1	Organization 0 37	American Mutoscope & Biograph Company
+T2	Organization 231 237	Эдисон
+T3	Organization 241 250	Вайтограф
+T4	Organization 263 270	Эссеней
+T5	Organization 317 321	Пате
+T6	Organization 338 359	Компанию кинопатентов
+N1	Reference T1 wiki:983345	American Mutoscope & Biograph Company
+N2	Reference T2 wiki:1024926	Эдисон (киностудия)
+N3	Reference T3 wiki:1016619	Вайтограф
+N4	Reference T4 wiki:1279328	Essanay Studios
+N5	Reference T5 wiki:1000945	Pathé
+N6	Reference T6 wiki:1016531	Компания кинопатентов
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

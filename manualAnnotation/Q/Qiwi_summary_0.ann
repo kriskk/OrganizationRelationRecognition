@@ -1,0 +1,5 @@
+T1	Organization 0 4	Qiwi
+T2	Organization 71 75	ОСМП
+N1	Reference T1 wiki:2398238	Qiwi
+N2	Reference T2 wiki:1165938	Объединённая система моментальных платежей
+A1	TypeRel T2 Holder

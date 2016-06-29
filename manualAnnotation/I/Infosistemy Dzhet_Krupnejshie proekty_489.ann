@@ -1,0 +1,13 @@
+T1	Organization 0 16	Инфосистемы Джет
+T2	Organization 201 214	Мосэнергосбыт
+T3	Organization 300 310	Ростелеком
+T4	Organization 468 474	Danone
+N1	Reference T1 wiki:3411651	Инфосистемы Джет
+N2	Reference T2 wiki:2450397	Мосэнергосбыт
+N3	Reference T3 wiki:145844	Ростелеком
+N4	Reference T4 wiki:279435	Danone
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 10	Совкомфлот
+T2	Organization 266 273	Новошип
+N1	Reference T1 wiki:210676	Совкомфлот
+N2	Reference T2 wiki:210701	Новошип
+A1	IsLink T2

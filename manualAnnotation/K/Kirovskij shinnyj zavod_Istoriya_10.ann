@@ -1,0 +1,6 @@
+T1	Organization 0 22	Кировский шинный завод
+T2	Organization 223 226	ЗИС
+N1	Reference T1 wiki:2187579	Кировский шинный завод
+N2	Reference T2 wiki:259988	ЗИС
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

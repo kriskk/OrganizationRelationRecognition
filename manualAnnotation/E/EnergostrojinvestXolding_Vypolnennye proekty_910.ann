@@ -1,0 +1,5 @@
+T1	Organization 0 25	Энергостройинвест-Холдинг
+T2	Organization 251 259	ТНК-Уват
+N1	Reference T1 wiki:4406136	Энергостройинвест-Холдинг
+N2	Reference T2 wiki:17252	ТНК-BP
+A1	IsLink T2

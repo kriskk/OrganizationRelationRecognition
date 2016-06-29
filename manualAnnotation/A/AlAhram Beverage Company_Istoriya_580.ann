@@ -1,0 +1,5 @@
+T1	Organization 0 25	Al-Ahram Beverage Company
+T2	Organization 399 438	Egyptian International Beverage Company
+N1	Reference T1 wiki:4119244	Al-Ahram Beverage Company
+N2	Reference T2 wiki:4119257	Egyptian International Beverage Company
+A1	IsLink T2

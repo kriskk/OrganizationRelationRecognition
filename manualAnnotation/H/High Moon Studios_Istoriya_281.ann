@@ -1,0 +1,10 @@
+T1	Organization 0 17	High Moon Studios
+T2	Organization 275 288	Vivendi Games
+T3	Organization 356 376	Sierra Entertainment
+N1	Reference T1 wiki:699262	High Moon Studios
+N2	Reference T2 wiki:954541	Vivendi Games
+N3	Reference T3 wiki:1561521	Sierra Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Subsidiary

@@ -1,0 +1,14 @@
+T1	Organization 0 38	Ярославский завод дизельной аппаратуры
+T2	Organization 246 251	КамАЗ
+T3	Organization 254 283	Ярославского моторного завода
+T4	Organization 285 310	Минского моторного завода
+N1	Reference T1 wiki:1574008	Ярославский завод дизельной аппаратуры
+N2	Reference T2 wiki:169714	КамАЗ
+N3	Reference T3 wiki:916530	Ярославский моторный завод
+N4	Reference T4 wiki:1077227	Минский моторный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

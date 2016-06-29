@@ -1,0 +1,8 @@
+T1	Organization 0 14	Силовые машины
+T2	Organization 74 107	Ленинградский металлический завод
+T3	Organization 117 130	«Электросила»
+N1	Reference T1 wiki:143652	Силовые машины
+N2	Reference T2 wiki:754719	Ленинградский металлический завод
+N3	Reference T3 wiki:762934	Электросила (завод)
+A1	IsLink T2
+A2	IsLink T3

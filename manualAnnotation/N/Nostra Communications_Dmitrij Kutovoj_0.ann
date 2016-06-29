@@ -1,0 +1,5 @@
+T1	Organization 0 21	Nostra Communications
+T2	Organization 182 202	Euro RSCG New Europe
+N1	Reference T1 wiki:4336376	Nostra Communications
+N2	Reference T2 wiki:2168654	Euro RSCG
+A1	TypeRel T2 Personnel

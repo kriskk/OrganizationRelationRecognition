@@ -1,0 +1,5 @@
+T1	Organization 0 9	Главстрой
+T2	Organization 470 500	Угловский известковый комбинат
+N1	Reference T1 wiki:655957	Главстрой
+N2	Reference T2 wiki:361262	Угловский известковый комбинат
+A1	TypeRel T2 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 18	Clarion (компания)
+T2	Organization 255 262	Hitachi
+N1	Reference T1 wiki:511356	Clarion (компания)
+N2	Reference T2 wiki:141241	Hitachi
+A1	IsLink T2

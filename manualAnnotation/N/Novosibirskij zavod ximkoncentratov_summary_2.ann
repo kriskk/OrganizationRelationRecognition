@@ -1,0 +1,6 @@
+T1	Organization 0 35	Новосибирский завод химконцентратов
+T2	Organization 365 382	Корпорации «ТВЭЛ»
+N1	Reference T1 wiki:2157947	Новосибирский завод химконцентратов
+N2	Reference T2 wiki:214333	ТВЭЛ (компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

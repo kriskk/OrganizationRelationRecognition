@@ -1,0 +1,38 @@
+T1	Organization 0 19	Magna International
+T2	Organization 118 122	Ford
+T3	Organization 124 130	Toyota
+T4	Organization 132 137	Honda
+T5	Organization 151 158	Porsche
+T6	Organization 160 174	General Motors
+T7	Organization 176 189	Mercedes-Benz
+T8	Organization 191 201	Mitsubishi
+T9	Organization 203 210	Hyundai
+T10	Organization 212 229	Great Wall Motors
+N1	Reference T1 wiki:232905	Magna International
+N2	Reference T2 wiki:153236	Ford Motor Company
+N3	Reference T3 wiki:42689	Toyota
+N4	Reference T4 wiki:121050	Honda
+N5	Reference T5 wiki:403194	Porsche
+N6	Reference T6 wiki:17438	General Motors
+N7	Reference T7 wiki:40401	Mercedes-Benz
+N8	Reference T8 wiki:182989	Mitsubishi
+N9	Reference T9 wiki:176625	Hyundai Motor
+N10	Reference T10 wiki:394622	Great Wall Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T2 Cooperator
+A11	TypeRel T3 Cooperator
+A12	TypeRel T4 Cooperator
+A13	TypeRel T5 Cooperator
+A14	TypeRel T6 Cooperator
+A15	TypeRel T7 Cooperator
+A16	TypeRel T8 Cooperator
+A17	TypeRel T9 Cooperator
+A18	TypeRel T10 Cooperator

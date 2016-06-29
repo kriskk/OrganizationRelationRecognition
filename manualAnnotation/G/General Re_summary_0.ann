@@ -1,0 +1,5 @@
+T1	Organization 0 10	General Re
+T2	Organization 117 139	Berkshire Hathaway Inc
+N1	Reference T1 wiki:487506	General Re
+N2	Reference T2 wiki:201051	Berkshire Hathaway Inc
+A1	TypeRel T2 Holder

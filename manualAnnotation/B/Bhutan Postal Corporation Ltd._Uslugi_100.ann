@@ -1,0 +1,5 @@
+T1	Organization 0 30	Bhutan Postal Corporation Ltd.
+T2	Organization 279 292	Western Union
+N1	Reference T1 wiki:2528368	Bhutan Postal Corporation Ltd.
+N2	Reference T2 wiki:397765	Western Union
+A1	IsLink T2

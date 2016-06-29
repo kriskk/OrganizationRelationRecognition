@@ -1,0 +1,22 @@
+T1	Organization 0 3	IBM
+T2	Organization 334 339	Apple
+T3	Organization 341 344	DEC
+T4	Organization 346 351	Intel
+T5	Organization 353 362	Microsoft
+T6	Organization 364 370	Compaq
+N1	Reference T1 wiki:11078	IBM
+N2	Reference T2 wiki:39726	Apple
+N3	Reference T3 wiki:176483	Digital Equipment Corporation
+N4	Reference T4 wiki:762172	Intel
+N5	Reference T5 wiki:11987	Microsoft
+N6	Reference T6 wiki:343420	Compaq
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Competitor
+A7	TypeRel T3 Competitor
+A8	TypeRel T4 Competitor
+A9	TypeRel T5 Competitor
+A10	TypeRel T6 Competitor

@@ -1,0 +1,5 @@
+T1	Organization 0 29	Ковровский механический завод
+T2	Organization 108 128	Завода им. Дегтярёва
+N1	Reference T1 wiki:280056	Ковровский механический завод
+N2	Reference T2 wiki:292838	Завод им. Дегтярёва
+A1	TypeRel T2 Subsidiary

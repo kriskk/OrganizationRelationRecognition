@@ -1,0 +1,6 @@
+T1	Organization 0 20	Разрез Березовский-1
+T2	Organization 89 107	Разрез Бородинский
+N1	Reference T1 wiki:389749	Разрез Березовский-1
+N2	Reference T2 wiki:389701	Разрез Бородинский
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Саратоворгсинтез
+T2	Organization 231 238	Росатом
+N1	Reference T1 wiki:1961512	Саратоворгсинтез
+N2	Reference T2 wiki:1299917	Росатом
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 27	Строммашина (завод, Самара)
+T2	Organization 262 273	Волгоцеммаш
+N1	Reference T1 wiki:3649355	Строммашина (завод, Самара)
+N2	Reference T2 wiki:722053	Волгоцеммаш
+A1	IsLink T2

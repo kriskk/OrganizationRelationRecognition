@@ -1,0 +1,29 @@
+T1	Organization 0 44	Ассоциация по сертификации "Русский Регистр"
+T2	Organization 329 337	Верофарм
+T3	Organization 472 486	Нижнекамскшина
+T4	Organization 536 606	Ярославский ордена Ленина и ордена Октябрьской Революции шинный завод"
+T5	Organization 904 937	Выксунский металлургический завод
+T6	Organization 1054 1094	Учалинский горно-обогатительный комбинат
+T7	Organization 1184 1206	Ижорский трубный завод
+T8	Organization 1246 1256	Автодизель
+T9	Organization 1326 1343	Коломенский завод
+T10	Organization 1464 1481	Волгограднефтемаш
+N1	Reference T1 wiki:4182861	Ассоциация по сертификации "Русский Регистр"
+N2	Reference T2 wiki:2685933	Верофарм
+N3	Reference T3 wiki:2654809	Нижнекамскшина
+N4	Reference T4 wiki:312699	Ярославский шинный завод
+N5	Reference T5 wiki:653385	Выксунский металлургический завод
+N6	Reference T6 wiki:1600216	Учалинский ГОК
+N7	Reference T7 wiki:1063879	Ижорский трубный завод
+N8	Reference T8 wiki:916530	Автодизель
+N9	Reference T9 wiki:125133	Коломенский завод
+N10	Reference T10 wiki:375553	Волгограднефтемаш
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10

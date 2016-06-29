@@ -1,0 +1,5 @@
+T1	Organization 0 7	Новатэк
+T2	Organization 229 234	Total
+N1	Reference T1 wiki:172027	Новатэк
+N2	Reference T2 wiki:159658	Total
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 8	DIVAN.TV
+T2	Organization 195 198	CNN
+N1	Reference T1 wiki:4249357	DIVAN.TV
+N2	Reference T2 wiki:256238	CNN
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 11	Polyus Gold
+T2	Organization 253 268	Вимм-Билль-Данн
+N1	Reference T1 wiki:160950	Polyus Gold
+N2	Reference T2 wiki:160926	Вимм-Билль-Данн
+A1	IsLink T2
+A2	TypeRel T2 Personnel

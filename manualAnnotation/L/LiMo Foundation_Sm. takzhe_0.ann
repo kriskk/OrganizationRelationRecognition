@@ -1,0 +1,5 @@
+T1	Organization 0 15	LiMo Foundation
+T2	Organization 64 85	Open Handset Alliance
+N1	Reference T1 wiki:2091071	LiMo Foundation
+N2	Reference T2 wiki:917308	Open Handset Alliance
+A1	IsLink T2

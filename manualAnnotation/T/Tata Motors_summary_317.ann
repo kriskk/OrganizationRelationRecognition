@@ -1,0 +1,26 @@
+T1	Organization 0 11	Tata Motors
+T2	Organization 197 212	Daimler-Benz AG
+T3	Organization 361 367	Daewoo
+T4	Organization 616 634	Ford Motor Company
+T5	Organization 646 652	Jaguar
+T6	Organization 655 665	Land Rover
+T7	Organization 690 695	Rover
+T8	Organization 697 704	Daimler
+T9	Organization 707 717	Lanchester
+N1	Reference T1 wiki:962083	Tata Motors
+N2	Reference T2 wiki:1384782	Daimler-Benz AG
+N3	Reference T3 wiki:794769	Daewoo
+N4	Reference T4 wiki:153236	Ford
+N5	Reference T5 wiki:431514	Jaguar
+N6	Reference T6 wiki:683379	Land Rover
+N7	Reference T7 wiki:2199395	Rover Company
+N8	Reference T8 wiki:294683	Daimler Motor Company
+N9	Reference T9 wiki:2998548	Lanchester Motor Company
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9

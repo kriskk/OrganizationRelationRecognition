@@ -1,0 +1,8 @@
+T1	Organization 0 16	Keio Corporation
+T2	Organization 211 234	Odakyu Electric Railway
+T3	Organization 362 379	Tokyu Corporation
+N1	Reference T1 wiki:3205926	Keio Corporation
+N2	Reference T2 wiki:3278556	Odakyu Electric Railway
+N3	Reference T3 wiki:3707620	Tokyu Corporation
+A1	IsLink T2
+A2	IsLink T3

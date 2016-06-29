@@ -1,0 +1,10 @@
+T1	Organization 0 36	Национальная компьютерная корпорация
+T2	Organization 192 203	Систематика
+T3	Organization 228 236	Аквариус
+N1	Reference T1 wiki:1116399	Национальная компьютерная корпорация
+N2	Reference T2 wiki:1116302	Систематика (группа компаний)
+N3	Reference T3 wiki:1971061	Аквариус
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

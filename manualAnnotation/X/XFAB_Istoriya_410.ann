@@ -1,0 +1,6 @@
+T1	Organization 0 5	X-FAB
+T2	Organization 235 242	Melexis
+N1	Reference T1 wiki:3642396	X-FAB
+N2	Reference T2 wiki:3648470	Melexis
+A1	IsLink T2
+A2	TypeRel T2 Holder

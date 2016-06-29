@@ -1,0 +1,6 @@
+T1	Organization 0 19	Электрощит - Самара
+T2	Organization 220 238	Schneider Electric
+N1	Reference T1 wiki:3039049	Электрощит - Самара
+N2	Reference T2 wiki:267613	Schneider Electric
+A1	IsLink T2
+A2	TypeRel T2 Holder

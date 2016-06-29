@@ -1,0 +1,10 @@
+T1	Organization 0 16	General Electric
+T2	Organization 195 212	GE Transportation
+T3	Organization 333 337	KPMG
+N1	Reference T1 wiki:13762	General Electric
+N2	Reference T2 wiki:4242818	GE Transportation
+N3	Reference T3 wiki:281743	KPMG
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Cooperator

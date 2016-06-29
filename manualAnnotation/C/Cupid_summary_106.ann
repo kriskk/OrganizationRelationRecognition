@@ -1,0 +1,5 @@
+T1	Organization 0 5	Cupid
+T2	Organization 225 230	Apple
+N1	Reference T1 wiki:3191553	Cupid
+N2	Reference T2 wiki:39726	Apple
+A1	IsLink T2

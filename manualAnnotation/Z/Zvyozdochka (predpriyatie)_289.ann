@@ -1,0 +1,6 @@
+T1	Organization 0 23	Звёздочка (предприятие)
+T2	Organization 210 251	Северный центр судостроения и судоремонта
+N1	Reference T1 wiki:970918	Звёздочка (предприятие)
+N2	Reference T2 wiki:2854043	Северный центр судостроения и судоремонта
+A1	IsLink T2
+A2	TypeRel T2 Holder

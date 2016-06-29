@@ -1,0 +1,11 @@
+T1	Organization 0 9	Nordic ID
+T2	Organization 211 215	Spar
+T3	Organization 223 229	Adidas
+T4	Organization 242 247	Shell
+N1	Reference T1 wiki:985189	Nordic ID
+N2	Reference T2 wiki:201708	Spar
+N3	Reference T3 wiki:243642	Adidas
+N4	Reference T4 wiki:167625	Royal Dutch Shell
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

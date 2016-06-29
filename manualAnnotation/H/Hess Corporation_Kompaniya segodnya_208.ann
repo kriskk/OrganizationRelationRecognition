@@ -1,0 +1,6 @@
+T1	Organization 0 16	Hess Corporation
+T2	Organization 256 283	Petroleos de Venezuela S.A.
+N1	Reference T1 wiki:1674699	Hess Corporation
+N2	Reference T2 wiki:793790	Petroleos de Venezuela
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

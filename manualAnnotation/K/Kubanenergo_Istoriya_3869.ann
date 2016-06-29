@@ -1,0 +1,6 @@
+T1	Organization 0 12	Кубаньэнерго
+T2	Organization 217 237	ОАО РАО «ЕЭС России»
+N1	Reference T1 wiki:2389323	Кубаньэнерго
+N2	Reference T2 wiki:1432138	ЕЭС России (компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

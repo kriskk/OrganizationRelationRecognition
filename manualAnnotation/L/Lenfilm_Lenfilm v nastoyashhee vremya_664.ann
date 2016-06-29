@@ -1,0 +1,5 @@
+T1	Organization 0 8	Ленфильм
+T2	Organization 377 390	АФК «Система»
+N1	Reference T1 wiki:175417	Ленфильм
+N2	Reference T2 wiki:158888	АФК «Система»
+A1	TypeRel T2 Personnel

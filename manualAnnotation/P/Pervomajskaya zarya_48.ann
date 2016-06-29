@@ -1,0 +1,6 @@
+T1	Organization 0 17	Первомайская заря
+T2	Organization 177 183	Zarina
+N1	Reference T1 wiki:1228432	Первомайская заря
+N2	Reference T2 wiki:1228432	Zarina
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

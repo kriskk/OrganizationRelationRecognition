@@ -1,0 +1,14 @@
+T1	Organization 0 17	Auriga (компания)
+T2	Organization 350 353	IBM
+T3	Organization 389 404	Draeger Medical
+T4	Organization 429 437	Chrysler
+T5	Organization 439 445	Яндекс
+N1	Reference T1 wiki:3340567	Auriga (компания)
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:1323345	Draeger
+N4	Reference T4 wiki:223902	Chrysler
+N5	Reference T5 wiki:9744	Яндекс
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

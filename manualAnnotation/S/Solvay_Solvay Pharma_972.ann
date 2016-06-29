@@ -1,0 +1,5 @@
+T1	Organization 0 6	Solvay
+T2	Organization 247 266	Abbott Laboratories
+N1	Reference T1 wiki:193012	Solvay
+N2	Reference T2 wiki:42509	Abbott Laboratories
+A1	IsLink T2

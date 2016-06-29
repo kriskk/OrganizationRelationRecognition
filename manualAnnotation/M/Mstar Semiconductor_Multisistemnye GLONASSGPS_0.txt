@@ -1,0 +1,21 @@
+Mstar Semiconductor
+@Спутниковая навигация
+@Навигаторы на чипсете Mstar
+@Мультисистемные ГЛОНАСС/GPS
+1502,783,1531,0
+
+
+Мультисистемные ГЛОНАСС/GPS
+
+ Lexand SG-555
+	 Explay GN-510
+	 Explay GN-520
+	 Prology iMap-525MG
+	 Digma DG503N
+
+
+
+ Prestigio GV5135
+
+
+

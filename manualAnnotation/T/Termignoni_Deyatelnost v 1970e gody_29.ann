@@ -1,0 +1,5 @@
+T1	Organization 0 10	Termignoni
+T2	Organization 202 210	Kawasaki
+N1	Reference T1 wiki:2755971	Termignoni
+N2	Reference T2 wiki:2782836	Kawasaki
+A1	IsLink T2

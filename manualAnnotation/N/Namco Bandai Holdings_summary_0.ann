@@ -1,0 +1,10 @@
+T1	Organization 0 21	Namco Bandai Holdings
+T2	Organization 110 115	Namco
+T3	Organization 118 124	Bandai
+N1	Reference T1 wiki:2817888	Namco Bandai Holdings
+N2	Reference T2 wiki:327777	Namco
+N3	Reference T3 wiki:393686	Bandai
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Merge
+A4	TypeRel T3 Merge

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Уралкалий
+T2	Organization 194 209	ОАО «Сильвинит»
+N1	Reference T1 wiki:153726	Уралкалий
+N2	Reference T2 wiki:371967	Сильвинит (компания)
+A1	TypeRel T2 Merge

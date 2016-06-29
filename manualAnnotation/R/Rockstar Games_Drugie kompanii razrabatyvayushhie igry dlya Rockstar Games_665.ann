@@ -1,0 +1,11 @@
+T1	Organization 0 14	Rockstar Games
+T2	Organization 252 272	Remedy Entertainment
+T3	Organization 312 322	Team Bondi
+T4	Organization 362 379	VIS Entertainment
+N1	Reference T1 wiki:650156	Rockstar Games
+N2	Reference T2 wiki:1464463	Remedy Entertainment
+N3	Reference T3 wiki:3066614	Team Bondi
+N4	Reference T4 wiki:2942364	VIS Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

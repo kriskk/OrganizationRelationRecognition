@@ -1,0 +1,10 @@
+T1	Organization 0 15	Кристалл Сервис
+T2	Organization 231 245	Wincor Nixdorf
+T3	Organization 273 281	Motorola
+N1	Reference T1 wiki:1733897	Кристалл Сервис
+N2	Reference T2 wiki:170148	Wincor Nixdorf
+N3	Reference T3 wiki:134384	Motorola
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

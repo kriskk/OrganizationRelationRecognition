@@ -1,0 +1,13 @@
+T1	Organization 0 39	National Western Life insurance company
+T2	Organization 225 229	KPMG
+T3	Organization 447 453	NASDAQ
+T4	Organization 587 594	Moody’s
+N1	Reference T1 wiki:3018893	National Western Life insurance company
+N2	Reference T2 wiki:281743	KPMG
+N3	Reference T3 wiki:63813	NASDAQ
+N4	Reference T4 wiki:363292	Moody’s
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Personnel

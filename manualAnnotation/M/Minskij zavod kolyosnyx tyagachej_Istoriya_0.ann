@@ -1,0 +1,9 @@
+T1	Organization 0 30	Минский завод колёсных тягачей
+T2	Organization 112 140	Минском автомобильном заводе
+T3	Organization 400 403	МАЗ
+N1	Reference T1 wiki:167144	Минский завод колёсных тягачей
+N2	Reference T2 wiki:33218	Минский автомобильный завод
+N3	Reference T3 wiki:33218	МАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

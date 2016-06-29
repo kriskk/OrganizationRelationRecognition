@@ -1,0 +1,18 @@
+T1	Organization 0 17	Wang Laboratories
+T2	Organization 388 401	Cisco Systems
+T3	Organization 403 411	Motorola
+T4	Organization 413 426	Eastman Kodak
+T5	Organization 428 432	AT&T
+T6	Organization 570 574	AT&T
+N1	Reference T1 wiki:500229	Wang Laboratories
+N2	Reference T2 wiki:25014	Cisco Systems
+N3	Reference T3 wiki:134384	Motorola
+N4	Reference T4 wiki:313661	Eastman Kodak
+N5	Reference T5 wiki:162994	AT&T
+N6	Reference T6 wiki:162994	AT&T
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T6 Personnel

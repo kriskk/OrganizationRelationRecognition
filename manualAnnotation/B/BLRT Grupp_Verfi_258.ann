@@ -1,0 +1,5 @@
+T1	Organization 0 10	BLRT Grupp
+T2	Organization 272 293	Turku Repair Yard Ltd
+N1	Reference T1 wiki:4359397	BLRT Grupp
+N2	Reference T2 wiki:4372041	Turku Repair Yard Ltd
+A1	IsLink T2

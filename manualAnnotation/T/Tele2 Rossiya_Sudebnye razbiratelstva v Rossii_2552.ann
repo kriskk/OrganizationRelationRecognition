@@ -1,0 +1,14 @@
+T1	Organization 0 12	Tele2 Россия
+T2	Organization 356 365	ВымпелКом
+T3	Organization 404 411	МегаФон
+T4	Organization 420 435	Уралсвязьинформ
+T5	Organization 459 469	Ростелеком
+N1	Reference T1 wiki:4159008	Tele2 Россия
+N2	Reference T2 wiki:70736	ВымпелКом
+N3	Reference T3 wiki:70933	МегаФон
+N4	Reference T4 wiki:91190	Уралсвязьинформ
+N5	Reference T5 wiki:145844	Ростелеком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

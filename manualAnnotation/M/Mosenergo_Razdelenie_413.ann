@@ -1,0 +1,49 @@
+T1	Organization 0 9	Мосэнерго
+T2	Organization 292 307	Мосэнергопроект
+T3	Organization 677 682	ОГК-1
+T4	Organization 714 719	ОГК-4
+T5	Organization 744 749	ОГК-6
+T6	Organization 781 789	ГидроОГК
+T7	Organization 799 843	Московская городская электросетевая компания
+T8	Organization 846 851	МГЭСК
+T9	Organization 870 917	Московская объединённая электросетевая компания
+T10	Organization 928 960	Московская теплосетевая компания
+T11	Organization 1027 1074	Московская объединённая электросетевая компания
+T12	Organization 1085 1098	Мосэнергосбыт
+T13	Organization 1157 1171	ФСК ЕЭС России
+N1	Reference T1 wiki:159522	Мосэнерго
+N2	Reference T2 wiki:4422229	Мосэнергопроект
+N3	Reference T3 wiki:586231	ОГК-1
+N4	Reference T4 wiki:275389	ОГК-4
+N5	Reference T5 wiki:741520	ОГК-6
+N6	Reference T6 wiki:344641	ГидроОГК
+N7	Reference T7 wiki:1126380	Московская городская электросетевая компания
+N8	Reference T8 wiki:1126380	МГЭСК
+N9	Reference T9 wiki:1228488	Московская объединённая электросетевая компания
+N10	Reference T10 wiki:2953166	Московская теплосетевая компания
+N11	Reference T11 wiki:1228488	Московская объединённая электросетевая компания
+N12	Reference T12 wiki:2450397	Мосэнергосбыт
+N13	Reference T13 wiki:138863	ФСК ЕЭС России
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	TypeRel T2 Subsidiary
+A14	TypeRel T10 Subsidiary
+A15	TypeRel T12 Subsidiary
+A16	TypeRel T13 Cooperator
+A17	TypeRel T9 Cooperator
+A18	TypeRel T8 Subsidiary
+A19	TypeRel T7 Subsidiary
+A20	TypeRel T6 Cooperator
+A21	TypeRel T5 Cooperator
+A22	TypeRel T4 Cooperator
+A23	TypeRel T3 Cooperator

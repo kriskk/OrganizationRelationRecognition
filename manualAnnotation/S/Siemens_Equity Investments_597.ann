@@ -1,0 +1,5 @@
+T1	Organization 0 7	Siemens
+T2	Organization 381 428	Siemens Enterprise Communications GmbH & Co. KG
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:1777049	Siemens Enterprise Communications
+A1	IsLink T2

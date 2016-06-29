@@ -1,0 +1,8 @@
+T1	Organization 0 13	Стройтрансгаз
+T2	Organization 205 212	Газпром
+T3	Organization 789 795	Gunvor
+N1	Reference T1 wiki:1692403	Стройтрансгаз
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:893402	Gunvor
+A1	IsLink T2
+A2	IsLink T3

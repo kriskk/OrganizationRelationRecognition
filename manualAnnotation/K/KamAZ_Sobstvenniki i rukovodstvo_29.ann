@@ -1,0 +1,9 @@
+T1	Organization 0 5	КамАЗ
+T2	Organization 206 219	Ростехнологии
+T3	Organization 298 305	Daimler
+N1	Reference T1 wiki:169714	КамАЗ
+N2	Reference T2 wiki:915063	Ростехнологии
+N3	Reference T3 wiki:39716	Daimler
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

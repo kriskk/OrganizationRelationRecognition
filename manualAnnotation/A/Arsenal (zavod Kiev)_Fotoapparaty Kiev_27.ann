@@ -1,0 +1,5 @@
+T1	Organization 0 21	Арсенал (завод, Киев)
+T2	Organization 250 265	Carl Zeiss Jena
+N1	Reference T1 wiki:2283496	Арсенал (завод, Киев)
+N2	Reference T2 wiki:1151084	Carl Zeiss Jena
+A1	IsLink T2

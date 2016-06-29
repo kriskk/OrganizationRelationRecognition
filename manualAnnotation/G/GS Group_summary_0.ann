@@ -1,0 +1,6 @@
+T1	Organization 0 8	GS Group
+T2	Organization 102 104	LG
+N1	Reference T1 wiki:1321448	GS Group
+N2	Reference T2 wiki:135021	LG
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

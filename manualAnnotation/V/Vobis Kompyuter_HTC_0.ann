@@ -1,0 +1,9 @@
+T1	Organization 0 15	Вобис Компьютер
+T2	Organization 141 144	HTC
+T3	Organization 152 156	QTek
+N1	Reference T1 wiki:3201662	Вобис Компьютер
+N2	Reference T2 wiki:619547	HTC
+N3	Reference T3 wiki:619547	QTek
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

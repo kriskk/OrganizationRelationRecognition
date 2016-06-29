@@ -1,0 +1,14 @@
+T1	Organization 0 15	Dimension Films
+T2	Organization 110 127	Columbia Pictures
+T3	Organization 318 331	Miramax Films
+T4	Organization 399 418	Touchstone Pictures
+T5	Organization 466 483	Columbia Pictures
+N1	Reference T1 wiki:287362	Dimension Films
+N2	Reference T2 wiki:373564	Columbia Pictures
+N3	Reference T3 wiki:20301	Miramax Films
+N4	Reference T4 wiki:348128	Touchstone Pictures
+N5	Reference T5 wiki:373564	Columbia Pictures
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

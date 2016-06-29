@@ -1,0 +1,6 @@
+T1	Organization 0 19	Газпромнефть-Хантос
+T2	Organization 180 193	Газпром нефть
+N1	Reference T1 wiki:3693770	Газпромнефть-Хантос
+N2	Reference T2 wiki:121955	Газпром нефть
+A1	IsLink T2
+A2	TypeRel T2 Holder

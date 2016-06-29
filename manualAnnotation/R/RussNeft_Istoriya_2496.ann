@@ -1,0 +1,5 @@
+T1	Organization 0 9	РуссНефть
+T2	Organization 179 187	Башнефти
+N1	Reference T1 wiki:159970	РуссНефть
+N2	Reference T2 wiki:180383	Башнефть
+A1	IsLink T2

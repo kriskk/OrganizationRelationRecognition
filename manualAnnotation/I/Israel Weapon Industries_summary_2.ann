@@ -1,0 +1,5 @@
+T1	Organization 0 24	Israel Weapon Industries
+T2	Organization 294 320	Israel Military Industries
+N1	Reference T1 wiki:1609458	Israel Weapon Industries
+N2	Reference T2 wiki:2306962	Israel Military Industries
+A1	TypeRel T2 Cooperator

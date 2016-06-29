@@ -1,0 +1,6 @@
+T1	Organization 0 10	Kobe Steel
+T2	Organization 199 218	Kyocera Corporation
+N1	Reference T1 wiki:1884056	Kobe Steel
+N2	Reference T2 wiki:577336	Kyocera
+A1	IsLink T2
+A2	TypeRel T2 Merge

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Swarovski
+T2	Organization 134 141	Philips
+N1	Reference T1 wiki:884360	Swarovski
+N2	Reference T2 wiki:204179	Philips
+A1	IsLink T2

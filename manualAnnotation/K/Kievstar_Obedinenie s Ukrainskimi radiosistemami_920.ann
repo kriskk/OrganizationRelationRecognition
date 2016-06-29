@@ -1,0 +1,5 @@
+T1	Organization 0 8	Киевстар
+T2	Organization 260 266	life:)
+N1	Reference T1 wiki:88220	Киевстар
+N2	Reference T2 wiki:88487	Life:) (Украина)
+A1	IsLink T2

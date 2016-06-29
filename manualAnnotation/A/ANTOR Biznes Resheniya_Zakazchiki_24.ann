@@ -1,0 +1,80 @@
+T1	Organization 0 20	АНТОР Бизнес Решения
+T2	Organization 194 206	PepsiCo Inc.
+T3	Organization 232 253	The Coca-Cola Company
+T4	Organization 279 294	ОАО «САН ИнБев»
+T5	Organization 297 310	Groupe Danone
+T6	Organization 336 351	Вимм-Билль-Данн
+T7	Organization 354 365	Nestlé S.A.
+T8	Organization 391 409	METRO Cash & Carry
+T9	Organization 435 452	ОАО «Лебедянский»
+T10	Organization 455 478	ОАО «Седьмой Континент»
+T11	Organization 481 505	ОАО «Компания „М.видео“»
+T12	Organization 508 532	ОАО «Группа „Черкизово“»
+T13	Organization 535 567	ЗАО «Торговый Дом „Перекресток“»
+T14	Organization 570 575	Комус
+T15	Organization 578 591	ООО «Инмарко»
+T16	Organization 594 601	Талосто
+T17	Organization 655 671	Сеть «Техносила»
+T18	Organization 674 693	ОАО «СИБУР Холдинг»
+T19	Organization 696 731	Агропромышленный холдинг «Мираторг»
+T20	Organization 734 750	ОАО «Нидан Соки»
+T21	Organization 753 772	Сеть «Азбука Вкуса»
+T22	Organization 775 788	Heineken N.V.
+T23	Organization 814 828	Сеть «Связной»
+T24	Organization 831 844	Knauf Gips KG
+T25	Organization 870 912	Кэдбери Россия и СНГ (ООО «Дирол Кэдбери»)
+T26	Organization 936 954	Вымпелком (Билайн)
+N1	Reference T1 wiki:2517871	АНТОР Бизнес Решения
+N2	Reference T2 wiki:606214	PepsiCo
+N3	Reference T3 wiki:231920	The Coca-Cola Company
+N4	Reference T4 wiki:460147	САН ИнБев
+N5	Reference T5 wiki:279435	Danone
+N6	Reference T6 wiki:160926	Вимм-Билль-Данн
+N7	Reference T7 wiki:121355	Нестле
+N8	Reference T8 wiki:166780	Metro AG
+N9	Reference T9 wiki:146843	Лебедянский (компания)
+N10	Reference T10 wiki:164172	Седьмой континент
+N11	Reference T11 wiki:370490	М.видео
+N12	Reference T12 wiki:150267	Черкизово (компания)
+N13	Reference T13 wiki:176082	Перекрёсток (сеть магазинов)
+N14	Reference T14 wiki:204507	Комус (компания)
+N15	Reference T15 wiki:1635286	Инмарко
+N16	Reference T16 wiki:160436	Талосто
+N17	Reference T17 wiki:191431	Техносила
+N18	Reference T18 wiki:144869	Сибур
+N19	Reference T19 wiki:744100	Мираторг
+N20	Reference T20 wiki:1740175	Нидан Соки
+N21	Reference T21 wiki:734540	Азбука вкуса
+N22	Reference T22 wiki:248758	Heineken
+N23	Reference T23 wiki:371774	Связной (сеть салонов сотовой связи)
+N24	Reference T24 wiki:2200884	Knauf
+N25	Reference T25 wiki:192535	Cadbury
+N26	Reference T26 wiki:70736	Вымпел-Коммуникации
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	IsLink T21
+A21	IsLink T22
+A22	IsLink T23
+A23	IsLink T24
+A24	IsLink T25
+A25	IsLink T26
+A26	TypeRel T8 Cooperator
+A27	TypeRel T8 Cooperator
+A28	TypeRel T8 Cooperator

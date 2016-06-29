@@ -1,0 +1,76 @@
+Imagination Technologies
+@Смартфоны и сотовые телефоны
+5114,32
+
+Аналогично разработки Imagination Technologies разных серий часто встречаются и в смартфонах и сотовых телефонах. Ниже указаны наиболее популярные модели.
+ PowerVR Series 4 / PowerVR MBX
+
+Apple iPhone
+
+Apple iPhone 3G
+
+Sony Ericsson SO70xi/SO90xi
+
+Sony Ericsson P200/G700/G900
+
+Sony Ericsson M600/M608c/P1i/P1c/P990(c)/W950i(c)/W960i(c)
+
+Samsung MEIZU M9/SGH-G810/SGH-i550/SGH-i560/innov8/GT-i7110
+
+Motorola MOTO Q/MOTORIZR Z8/MOTORIZR Z10
+
+NEC N902i
+
+Nokia E90/N82/N93/N95/N800/N810
+
+Panasonic P702i/P902i/P903i
+
+Sharp SH702i/SH902i
+
+ASUS M536
+
+ PowerVR Series 4 / PowerVR VXD
+
+
+Apple iPhone 3GS
+
+Apple iPhone 4
+
+Blackberry Bold 9700
+
+Samsung Galaxy S
+
+Samsung Nexus S
+
+Samsung Droid Charge
+
+Gigabyte GSmart MS808
+
+Motorola FR68/FR6000
+
+ PowerVR Series5 / PowerVR SGX
+
+
+Apple iPhone 4
+
+Apple iPhone 5
+
+Samsung Galaxy S(L)
+
+Samsung Nexus S
+
+Samsung GT-I9105
+
+Motorola Droid 2/Droid X
+
+Nokia N9
+
+Palm Pre2
+
+LG Optimus Black
+
+ PowerVR Series 5XT / PowerVR SGXMP
+
+
+Apple iPhone 4S
+

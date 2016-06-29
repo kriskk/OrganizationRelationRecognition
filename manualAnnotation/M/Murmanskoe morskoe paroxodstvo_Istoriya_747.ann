@@ -1,0 +1,5 @@
+T1	Organization 0 30	Мурманское морское пароходство
+T2	Organization 203 211	Атомфлот
+N1	Reference T1 wiki:2010335	Мурманское морское пароходство
+N2	Reference T2 wiki:1299971	Атомфлот
+A1	TypeRel T2 Cooperator

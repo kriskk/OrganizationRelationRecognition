@@ -1,0 +1,5 @@
+T1	Organization 0 27	Gigaset Communications GmbH
+T2	Organization 219 229	Siemens AG
+N1	Reference T1 wiki:1705697	Gigaset Communications GmbH
+N2	Reference T2 wiki:36510	Siemens
+A1	TypeRel T2 Holder

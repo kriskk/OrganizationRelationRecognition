@@ -1,0 +1,18 @@
+T1	Organization 0 17	Polyphony Digital
+T2	Organization 222 228	Nissan
+T3	Organization 230 235	Honda
+T4	Organization 237 247	Alfa Romeo
+T5	Organization 249 252	BMW
+N1	Reference T1 wiki:651984	Polyphony Digital
+N2	Reference T2 wiki:159586	Nissan
+N3	Reference T3 wiki:121050	Honda
+N4	Reference T4 wiki:371643	Alfa Romeo
+N5	Reference T5 wiki:40368	BMW
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator

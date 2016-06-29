@@ -1,0 +1,14 @@
+T1	Organization 0 24	Imagination Technologies
+T2	Organization 233 235	HP
+T3	Organization 314 328	Barnes & Noble
+T4	Organization 353 359	Amazon
+N1	Reference T1 wiki:4205830	Imagination Technologies
+N2	Reference T2 wiki:89988	Hewlett-Packard
+N3	Reference T3 wiki:3395931	Barnes & Noble
+N4	Reference T4 wiki:103623	Amazon
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

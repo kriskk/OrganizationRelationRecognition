@@ -1,0 +1,113 @@
+T1	Organization 0 34	Рязанский станкостроительный завод
+T2	Organization 63 70	Газпром
+T3	Organization 72 80	Роснефть
+T4	Organization 82 88	Лукойл
+T5	Organization 90 96	ТНК-BP
+T6	Organization 98 112	Сургутнефтегаз
+T7	Organization 114 122	Татнефть
+T8	Organization 124 132	Башнефть
+T9	Organization 136 141	Русал
+T10	Organization 143 155	ВСМПО-АВИСМА
+T11	Organization 157 161	НЛМК
+T12	Organization 168 178	Северсталь
+T13	Organization 180 185	Мечел
+T14	Organization 187 192	Евраз
+T15	Organization 194 207	Металлоинвест
+T16	Organization 211 218	Еврохим
+T17	Organization 220 229	Уралкалий
+T18	Organization 244 251	Росатом
+T19	Organization 253 262	Мосэнерго
+T20	Organization 266 269	РЖД
+T21	Organization 271 286	Трансмашхолдинг
+T22	Organization 290 306	Рособоронэкспорт
+T23	Organization 319 324	Сухой
+T24	Organization 326 329	МиГ
+T25	Organization 331 337	Сатурн
+T26	Organization 346 351	КАМАЗ
+T27	Organization 353 356	МАЗ
+T28	Organization 358 363	Белаз
+T29	Organization 365 368	МТЗ
+N1	Reference T1 wiki:1747739	Рязанский станкостроительный завод
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:139770	Роснефть
+N4	Reference T4 wiki:59354	Лукойл
+N5	Reference T5 wiki:17252	ТНК-BP
+N6	Reference T6 wiki:143564	Сургутнефтегаз
+N7	Reference T7 wiki:145661	Татнефть
+N8	Reference T8 wiki:180383	Башнефть
+N9	Reference T9 wiki:598084	Русал
+N10	Reference T10 wiki:140530	ВСМПО-АВИСМА
+N11	Reference T11 wiki:143594	НЛМК
+N12	Reference T12 wiki:149218	Северсталь
+N13	Reference T13 wiki:148493	Мечел
+N14	Reference T14 wiki:77382	Евраз
+N15	Reference T15 wiki:301665	Металлоинвест
+N16	Reference T16 wiki:376551	Еврохим
+N17	Reference T17 wiki:153726	Уралкалий
+N18	Reference T18 wiki:1299917	Росатом
+N19	Reference T19 wiki:159522	Мосэнерго
+N20	Reference T20 wiki:106901	РЖД
+N21	Reference T21 wiki:168333	Трансмашхолдинг
+N22	Reference T22 wiki:171221	Рособоронэкспорт
+N23	Reference T23 wiki:164779	Сухой (компания)
+N24	Reference T24 wiki:26999	МиГ (компания)
+N25	Reference T25 wiki:233902	Сатурн (НПО)
+N26	Reference T26 wiki:169714	КАМАЗ
+N27	Reference T27 wiki:33218	МАЗ
+N28	Reference T28 wiki:104850	Белаз
+N29	Reference T29 wiki:103703	Минский тракторный завод
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	IsLink T21
+A21	IsLink T22
+A22	IsLink T23
+A23	IsLink T24
+A24	IsLink T25
+A25	IsLink T26
+A26	IsLink T27
+A27	IsLink T28
+A28	IsLink T29
+A1	TypeRel T2 Cooperator
+A29	TypeRel T3 Cooperator
+A30	TypeRel T4 Cooperator
+A31	TypeRel T5 Cooperator
+A32	TypeRel T6 Cooperator
+A33	TypeRel T7 Cooperator
+A34	TypeRel T8 Cooperator
+A35	TypeRel T9 Cooperator
+A36	TypeRel T10 Cooperator
+A37	TypeRel T11 Cooperator
+A38	TypeRel T12 Cooperator
+A39	TypeRel T13 Cooperator
+A40	TypeRel T14 Cooperator
+A41	TypeRel T15 Cooperator
+A42	TypeRel T16 Cooperator
+A43	TypeRel T17 Cooperator
+A44	TypeRel T18 Cooperator
+A45	TypeRel T19 Cooperator
+A46	TypeRel T20 Cooperator
+A47	TypeRel T21 Cooperator
+A48	TypeRel T22 Cooperator
+A49	TypeRel T23 Cooperator
+A50	TypeRel T24 Cooperator
+A51	TypeRel T25 Cooperator
+A52	TypeRel T26 Cooperator
+A53	TypeRel T27 Cooperator
+A54	TypeRel T28 Cooperator
+A55	TypeRel T29 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 7	Уралхим
+T2	Organization 309 314	Сибур
+T3	Organization 391 403	Тольяттиазот
+N1	Reference T1 wiki:1628752	Уралхим
+N2	Reference T2 wiki:144869	Сибур
+N3	Reference T3 wiki:161128	Тольяттиазот
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Subsidiary

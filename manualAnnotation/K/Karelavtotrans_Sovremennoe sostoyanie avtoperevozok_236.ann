@@ -1,0 +1,5 @@
+T1	Organization 0 14	Карелавтотранс
+T2	Organization 279 293	Золотой Дракон
+N1	Reference T1 wiki:1261647	Карелавтотранс
+N2	Reference T2 wiki:260309	Golden Dragon
+A1	TypeRel T2 Cooperator

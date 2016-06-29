@@ -1,0 +1,5 @@
+T1	Organization 0 11	Autobianchi
+T2	Organization 199 205	Lancia
+N1	Reference T1 wiki:3618022	Autobianchi
+N2	Reference T2 wiki:1503078	Lancia
+A1	IsLink T2

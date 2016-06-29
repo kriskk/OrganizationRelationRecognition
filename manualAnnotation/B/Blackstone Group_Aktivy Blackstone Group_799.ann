@@ -1,0 +1,11 @@
+T1	Organization 0 16	Blackstone Group
+T2	Organization 212 235	Freescale Semiconductor
+T3	Organization 258 266	Motorola
+T4	Organization 448 467	Deutsche Telekom AG
+N1	Reference T1 wiki:706484	Blackstone Group
+N2	Reference T2 wiki:1614887	Freescale Semiconductor
+N3	Reference T3 wiki:134384	Motorola
+N4	Reference T4 wiki:169094	Deutsche Telekom AG
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

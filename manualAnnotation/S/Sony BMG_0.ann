@@ -1,0 +1,5 @@
+T1	Organization 0 8	Sony BMG
+T2	Organization 114 124	Sony Music
+N1	Reference T1 wiki:439628	Sony BMG
+N2	Reference T2 wiki:2770369	Sony Music
+A1	IsLink T2

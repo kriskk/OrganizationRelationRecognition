@@ -1,0 +1,8 @@
+T1	Organization 0 10	Aggressive
+T2	Organization 179 185	Toyota
+T3	Organization 268 280	Ralph Lauren
+N1	Reference T1 wiki:3480033	Aggressive
+N2	Reference T2 wiki:42689	Toyota
+N3	Reference T3 wiki:654378	Ralph Lauren
+A1	IsLink T2
+A2	IsLink T3

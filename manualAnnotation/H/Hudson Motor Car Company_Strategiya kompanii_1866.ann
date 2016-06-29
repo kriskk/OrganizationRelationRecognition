@@ -1,0 +1,10 @@
+T1	Organization 0 24	Hudson Motor Car Company
+T2	Organization 241 259	Ford Motor Company
+T3	Organization 262 271	Chevrolet
+N1	Reference T1 wiki:3305044	Hudson Motor Car Company
+N2	Reference T2 wiki:153236	Ford Motor Company
+N3	Reference T3 wiki:17631	Chevrolet
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

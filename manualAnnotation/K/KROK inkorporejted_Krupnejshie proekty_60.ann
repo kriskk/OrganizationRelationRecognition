@@ -1,0 +1,9 @@
+T1	Organization 0 18	КРОК инкорпорейтед
+T2	Organization 272 275	IBM
+T3	Organization 355 367	НПО «Сатурн»
+N1	Reference T1 wiki:1739391	КРОК инкорпорейтед
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:233902	НПО «Сатурн»
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

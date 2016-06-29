@@ -1,0 +1,5 @@
+T1	Organization 0 14	Павлоградуголь
+T2	Organization 197 201	ДТЭК
+N1	Reference T1 wiki:641254	Павлоградуголь
+N2	Reference T2 wiki:449602	ДТЭК
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 30	Тяжпромэлектропроект Волгоград
+T2	Organization 95 99	ТПЭП
+N1	Reference T1 wiki:344841	Тяжпромэлектропроект Волгоград
+N2	Reference T2 wiki:344790	ТПЭП
+A1	TypeRel T2 Alias

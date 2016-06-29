@@ -1,0 +1,6 @@
+T1	Organization 0 18	Onyx International
+T2	Organization 171 195	PocketBook International
+N1	Reference T1 wiki:3815945	Onyx International
+N2	Reference T2 wiki:3248150	PocketBook International
+A1	IsLink T2
+A2	TypeRel T2 Competitor

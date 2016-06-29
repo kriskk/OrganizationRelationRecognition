@@ -1,0 +1,13 @@
+T1	Organization 0 14	Orange Armenia
+T2	Organization 189 195	Orange
+T3	Organization 464 467	AMD
+T4	Organization 536 550	France Telecom
+N1	Reference T1 wiki:4281254	Orange Armenia
+N2	Reference T2 wiki:373554	Orange
+N3	Reference T3 wiki:19981	AMD
+N4	Reference T4 wiki:373577	France Telecom
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T4 Holder

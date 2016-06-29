@@ -1,0 +1,5 @@
+T1	Organization 0 18	CUBE Entertainment
+T2	Organization 152 167	Universal Music
+N1	Reference T1 wiki:4298347	CUBE Entertainment
+N2	Reference T2 wiki:203047	Universal Music
+A1	IsLink T2

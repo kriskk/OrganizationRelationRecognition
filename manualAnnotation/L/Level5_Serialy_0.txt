@@ -1,0 +1,14 @@
+Level-5
+@Игры
+@Сериалы
+3642,2172,0
+
+
+Сериалы
+
+ Inazuma Eleven (2008)
+	 Inazuma Eleven GO (2011)
+	 Danball Senki (2011)
+	 Mobile Suit Gundam AGE (2011, совместно с компанией Sunrise)
+
+

@@ -1,0 +1,5 @@
+T1	Organization 0 4	Felt
+T2	Organization 37 42	Biria
+N1	Reference T1 wiki:764314	Felt
+N2	Reference T2 wiki:251031	Biria
+A1	IsLink T2

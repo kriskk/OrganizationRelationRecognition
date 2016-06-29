@@ -1,0 +1,10 @@
+T1	Organization 0 18	РБК (медиахолдинг)
+T2	Organization 244 263	Росбизнесконсалтинг
+T3	Organization 345 352	ОНЭКСИМ
+N1	Reference T1 wiki:391746	РБК (медиахолдинг)
+N2	Reference T2 wiki:391746	Росбизнесконсалтинг
+N3	Reference T3 wiki:1526001	ОНЭКСИМ (группа)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Cooperator

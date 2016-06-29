@@ -1,0 +1,5 @@
+T1	Organization 0 18	Mozilla Foundation
+T2	Organization 339 342	W3C
+N1	Reference T1 wiki:589524	Mozilla Foundation
+N2	Reference T2 wiki:9533	W3C
+A1	TypeRel T2 Other

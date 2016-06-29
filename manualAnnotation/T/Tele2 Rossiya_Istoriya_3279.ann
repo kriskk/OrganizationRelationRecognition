@@ -1,0 +1,11 @@
+T1	Organization 0 12	Tele2 Россия
+T2	Organization 218 236	Цифровая экспансия
+T3	Organization 369 376	МегаФон
+T4	Organization 391 399	Билайном
+N1	Reference T1 wiki:4159008	Tele2 Россия
+N2	Reference T2 wiki:1009597	Цифровая экспансия
+N3	Reference T3 wiki:70933	МегаФон
+N4	Reference T4 wiki:70736	Вымпелком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

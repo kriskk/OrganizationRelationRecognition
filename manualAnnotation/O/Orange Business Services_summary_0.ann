@@ -1,0 +1,6 @@
+T1	Organization 0 24	Orange Business Services
+T2	Organization 168 182	France Télécom
+N1	Reference T1 wiki:1739950	Orange Business Services
+N2	Reference T2 wiki:373577	France Télécom
+A1	IsLink T2
+A2	TypeRel T2 Holder

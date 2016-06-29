@@ -1,0 +1,5 @@
+T1	Organization 0 8	Manglobe
+T2	Organization 137 144	Sunrise
+N1	Reference T1 wiki:2599387	Manglobe
+N2	Reference T2 wiki:373049	Sunrise (студия)
+A1	TypeRel T2 Personnel

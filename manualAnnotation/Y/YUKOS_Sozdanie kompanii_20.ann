@@ -1,0 +1,12 @@
+T1	Organization 0 4	ЮКОС
+T2	Organization 383 389	Лукойл
+T3	Organization 393 407	Сургутнефтегаз
+T4	Organization 723 745	Куйбышевнефтеоргсинтез
+N1	Reference T1 wiki:6032	ЮКОС
+N2	Reference T2 wiki:59354	Лукойл
+N3	Reference T3 wiki:143564	Сургутнефтегаз
+N4	Reference T4 wiki:988816	Куйбышевнефтеоргсинтез
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T4 Subsidiary

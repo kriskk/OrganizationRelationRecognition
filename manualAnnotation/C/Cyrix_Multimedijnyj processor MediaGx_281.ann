@@ -1,0 +1,5 @@
+T1	Organization 0 5	Cyrix
+T2	Organization 349 361	Packard Bell
+N1	Reference T1 wiki:209856	Cyrix
+N2	Reference T2 wiki:2383657	Packard Bell
+A1	IsLink T2

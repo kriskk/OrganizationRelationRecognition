@@ -1,0 +1,13 @@
+T1	Organization 0 12	Phelps Dodge
+T2	Organization 280 284	Inco
+T3	Organization 336 348	Falconbridge
+T4	Organization 498 515	Норильский Никель
+N1	Reference T1 wiki:241874	Phelps Dodge
+N2	Reference T2 wiki:205941	Inco
+N3	Reference T3 wiki:205882	Falconbridge
+N4	Reference T4 wiki:73395	Норильский Никель
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T4 Competitor

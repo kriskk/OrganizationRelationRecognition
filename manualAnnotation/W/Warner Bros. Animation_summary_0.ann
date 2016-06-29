@@ -1,0 +1,17 @@
+T1	Organization 0 22	Warner Bros. Animation
+T2	Organization 123 135	Warner bros.
+T3	Organization 157 168	Time Warner
+T4	Organization 269 290	Warner Bros. Cartoons
+T5	Organization 702 711	DC Comics
+N1	Reference T1 wiki:2826574	Warner Bros. Animation
+N2	Reference T2 wiki:272386	Warner bros.
+N3	Reference T3 wiki:741342	Time Warner
+N4	Reference T4 wiki:272386	Warner Bros. Cartoons
+N5	Reference T5 wiki:1742414	DC Comics
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T4 Subsidiary
+A7	TypeRel T5 Cooperator

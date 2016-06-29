@@ -1,0 +1,32 @@
+T1	Organization 0 13	Amphora Group
+T2	Organization 178 187	Microsoft
+T3	Organization 189 204	Hewlett-Packard
+T4	Organization 206 224	Oracle Corporation
+T5	Organization 226 242	Sun Microsystems
+T6	Organization 244 250	SAP AG
+T7	Organization 252 265	Cisco Systems
+T8	Organization 267 270	IBM
+T9	Organization 272 278	VMware
+T10	Organization 280 287	Hitachi
+T11	Organization 301 306	Avaya
+N1	Reference T1 wiki:3052468	Amphora Group
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:89988	Hewlett-Packard
+N4	Reference T4 wiki:129227	Oracle Corporation
+N5	Reference T5 wiki:4777	Sun Microsystems
+N6	Reference T6 wiki:81959	SAP AG
+N7	Reference T7 wiki:25014	Cisco Systems
+N8	Reference T8 wiki:11078	IBM
+N9	Reference T9 wiki:205509	Vmware
+N10	Reference T10 wiki:141241	Hitachi
+N11	Reference T11 wiki:685464	Avaya
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11

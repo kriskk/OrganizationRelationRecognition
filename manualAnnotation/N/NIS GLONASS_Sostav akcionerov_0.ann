@@ -1,0 +1,10 @@
+T1	Organization 0 11	НИС ГЛОНАСС
+T2	Organization 60 71	АФК Система
+T3	Organization 104 192	ОАО «Российская корпорация ракетно-космического приборостроения и информационных систем»
+N1	Reference T1 wiki:2551707	НИС ГЛОНАСС
+N2	Reference T2 wiki:158888	АФК Система
+N3	Reference T3 wiki:722423	Российская корпорация ракетно-космического приборостроения и информационных систем
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

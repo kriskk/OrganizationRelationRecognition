@@ -1,0 +1,5 @@
+T1	Organization 0 9	Englebert
+T2	Organization 236 260	Continental Tyre Company
+N1	Reference T1 wiki:4020779	Englebert
+N2	Reference T2 wiki:169785	Continental AG
+A1	IsLink T2

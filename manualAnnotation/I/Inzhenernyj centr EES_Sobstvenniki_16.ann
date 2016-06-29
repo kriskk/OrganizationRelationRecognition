@@ -1,0 +1,17 @@
+T1	Organization 0 20	Инженерный центр ЕЭС
+T2	Organization 212 230	ОАО «Холдинг МРСК»
+T3	Organization 339 359	ОАО РАО «ЕЭС России»
+T4	Organization 421 441	ОАО РАО «ЕЭС России»
+T5	Organization 604 624	ОАО РАО «ЕЭС России»
+N1	Reference T1 wiki:2832480	Инженерный центр ЕЭС
+N2	Reference T2 wiki:2040314	Холдинг МРСК
+N3	Reference T3 wiki:1432138	РАО «ЕЭС России»
+N4	Reference T4 wiki:1432138	РАО «ЕЭС России»
+N5	Reference T5 wiki:1432138	РАО «ЕЭС России»
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder
+A7	TypeRel T5 Holder

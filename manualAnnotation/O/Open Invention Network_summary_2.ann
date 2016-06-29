@@ -1,0 +1,26 @@
+T1	Organization 0 22	Open Invention Network
+T2	Organization 290 293	IBM
+T3	Organization 296 302	Novell
+T4	Organization 305 312	Philips
+T5	Organization 315 322	Red Hat
+T6	Organization 325 329	Sony
+T7	Organization 365 371	Google
+N1	Reference T1 wiki:756263	Open Invention Network
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:21831	Novell
+N4	Reference T4 wiki:204179	Philips
+N5	Reference T5 wiki:10874	Red Hat
+N6	Reference T6 wiki:73019	Sony
+N7	Reference T7 wiki:265	Google (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T7 Subsidiary
+A8	TypeRel T2 Holder
+A9	TypeRel T3 Holder
+A10	TypeRel T4 Holder
+A11	TypeRel T5 Holder
+A12	TypeRel T6 Holder

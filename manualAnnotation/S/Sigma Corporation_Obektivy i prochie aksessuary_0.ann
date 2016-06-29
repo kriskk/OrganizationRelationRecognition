@@ -1,0 +1,20 @@
+T1	Organization 0 17	Sigma Corporation
+T2	Organization 214 219	Canon
+T3	Organization 221 226	Nikon
+T4	Organization 228 234	Pentax
+T5	Organization 236 250	Konica Minolta
+T6	Organization 252 256	Sony
+T7	Organization 259 266	Olympus
+N1	Reference T1 wiki:703772	Sigma Corporation
+N2	Reference T2 wiki:53435	Canon
+N3	Reference T3 wiki:147658	Nikon
+N4	Reference T4 wiki:703109	Pentax
+N5	Reference T5 wiki:286328	Konica Minolta
+N6	Reference T6 wiki:73019	Sony
+N7	Reference T7 wiki:703489	Olympus
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

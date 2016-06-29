@@ -1,0 +1,5 @@
+T1	Organization 0 4	Yota
+T2	Organization 244 251	Мегафон
+N1	Reference T1 wiki:1460064	Yota
+N2	Reference T2 wiki:70933	Мегафон
+A1	TypeRel T2 Cooperator

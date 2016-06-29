@@ -1,0 +1,6 @@
+T1	Organization 0 7	Volgren
+T2	Organization 139 144	Volvo
+N1	Reference T1 wiki:335808	Volgren
+N2	Reference T2 wiki:387781	Volvo
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,14 @@
+Raytheon
+@Продукция
+@Радары
+311,321,0
+
+
+Радары
+
+ AN/APG-63 и AN/APG-70 для F-15 Eagle
+	 AN/APG-65, AN/APG-73, и AN/APG-79 для F/A-18 Hornet
+	 AN/APG-77 для F-22 Raptor (совместно с Northrop Grumman)
+	 AN/ALE-50
+	 Станции предупреждения об облучении AN/ALR-67 и AN/ALR-69A
+	 AN/APQ-181 для бомбардировщика B-2 Spirit

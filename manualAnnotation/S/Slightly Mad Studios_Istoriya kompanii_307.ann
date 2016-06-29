@@ -1,0 +1,5 @@
+T1	Organization 0 20	Slightly Mad Studios
+T2	Organization 264 290	SimBin Development Team AB
+N1	Reference T1 wiki:2347334	Slightly Mad Studios
+N2	Reference T2 wiki:3013680	SimBin Studios
+A1	IsLink T2

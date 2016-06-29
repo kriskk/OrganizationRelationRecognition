@@ -1,0 +1,5 @@
+T1	Organization 0 5	КамАЗ
+T2	Organization 218 240	Нефтекамский автозавод
+N1	Reference T1 wiki:169714	КамАЗ
+N2	Reference T2 wiki:404943	Нефтекамский автозавод
+A1	TypeRel T2 Subsidiary

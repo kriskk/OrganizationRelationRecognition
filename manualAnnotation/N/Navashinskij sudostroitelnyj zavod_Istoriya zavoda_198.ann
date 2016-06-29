@@ -1,0 +1,6 @@
+T1	Organization 0 34	Навашинский судостроительный завод
+T2	Organization 256 276	фирмы братьев Нобель
+N1	Reference T1 wiki:1267443	Навашинский судостроительный завод
+N2	Reference T2 wiki:1295467	Товарищество нефтяного производства братьев Нобель
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

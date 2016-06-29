@@ -1,0 +1,10 @@
+T1	Organization 0 8	Qualcomm
+T2	Organization 172 180	Ericsson
+T3	Organization 369 376	Kyocera
+N1	Reference T1 wiki:897305	Qualcomm
+N2	Reference T2 wiki:711402	Ericsson
+N3	Reference T3 wiki:577336	Kyocera
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

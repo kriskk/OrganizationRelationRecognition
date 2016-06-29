@@ -1,0 +1,8 @@
+T1	Organization 0 10	Fannie Mae
+T2	Organization 306 317	Freddie Mac
+T3	Organization 555 559	KPMG
+N1	Reference T1 wiki:377590	Fannie Mae
+N2	Reference T2 wiki:1316238	Freddie Mac
+N3	Reference T3 wiki:281743	KPMG
+A1	IsLink T2
+A2	IsLink T3

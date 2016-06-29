@@ -1,0 +1,6 @@
+T1	Organization 0 26	Петербургская Недвижимость
+T2	Organization 229 239	Setl Group
+N1	Reference T1 wiki:4284869	Петербургская Недвижимость
+N2	Reference T2 wiki:3974122	Setl Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

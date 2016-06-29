@@ -1,0 +1,9 @@
+T1	Organization 0 6	ЛитРес
+T2	Organization 256 269	Рипол-классик
+T3	Organization 300 311	Коммерсантъ
+N1	Reference T1 wiki:2647985	ЛитРес
+N2	Reference T2 wiki:1790182	Рипол-классик (издательство)
+N3	Reference T3 wiki:179871	Коммерсантъ (издательский дом)
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

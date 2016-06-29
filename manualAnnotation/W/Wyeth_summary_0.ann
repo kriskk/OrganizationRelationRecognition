@@ -1,0 +1,20 @@
+T1	Organization 0 5	Wyeth
+T2	Organization 129 135	Pfizer
+T3	Organization 137 152	GlaxoSmithKline
+T4	Organization 154 168	Sanofi-Aventis
+T5	Organization 170 178	Novartis
+T6	Organization 193 210	Johnson & Johnson
+T7	Organization 212 223	Merck & Co.
+N1	Reference T1 wiki:1096523	Wyeth
+N2	Reference T2 wiki:275429	Pfizer
+N3	Reference T3 wiki:300698	GlaxoSmithKline
+N4	Reference T4 wiki:1469482	Sanofi-Aventis
+N5	Reference T5 wiki:1018931	Novartis
+N6	Reference T6 wiki:608810	Johnson & Johnson
+N7	Reference T7 wiki:210916	Merck & Co.
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

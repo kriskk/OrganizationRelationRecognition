@@ -1,0 +1,10 @@
+T1	Organization 0 17	Mitsubishi Estate
+T2	Organization 80 90	Mitsubishi
+T3	Organization 233 247	Mitsui Fudosan
+N1	Reference T1 wiki:3115297	Mitsubishi Estate
+N2	Reference T2 wiki:182989	Mitsubishi
+N3	Reference T3 wiki:1017229	Mitsui Fudosan
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Competitor

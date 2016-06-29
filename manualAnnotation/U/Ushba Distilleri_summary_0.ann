@@ -1,0 +1,6 @@
+T1	Organization 0 15	Ушба Дистиллери
+T2	Organization 171 187	Русский алкоголь
+N1	Reference T1 wiki:1625509	Ушба Дистиллери
+N2	Reference T2 wiki:2385656	Русский алкоголь
+A1	IsLink T2
+A2	TypeRel T2 Holder

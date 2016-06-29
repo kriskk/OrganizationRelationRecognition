@@ -1,0 +1,8 @@
+T1	Organization 0 6	Cagiva
+T2	Organization 308 317	MV Agusta
+T3	Organization 414 420	Ducati
+N1	Reference T1 wiki:1795239	Cagiva
+N2	Reference T2 wiki:3239010	MV Agusta
+N3	Reference T3 wiki:1745457	Ducati
+A1	IsLink T2
+A2	IsLink T3

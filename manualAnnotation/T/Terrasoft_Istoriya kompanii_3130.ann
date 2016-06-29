@@ -1,0 +1,5 @@
+T1	Organization 0 9	Terrasoft
+T2	Organization 267 279	ИнтелТелеком
+N1	Reference T1 wiki:2324443	Terrasoft
+N2	Reference T2 wiki:2951386	ИнтелТелеком
+A1	IsLink T2

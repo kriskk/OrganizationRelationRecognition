@@ -1,0 +1,5 @@
+T1	Organization 0 24	Нафтна индустрија Србије
+T2	Organization 195 208	Газпром нефть
+N1	Reference T1 wiki:305756	Нафтна индустрија Србије
+N2	Reference T2 wiki:121955	Газпром нефть
+A1	TypeRel T2 Holder

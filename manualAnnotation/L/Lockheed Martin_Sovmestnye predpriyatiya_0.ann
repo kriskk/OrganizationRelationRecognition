@@ -1,0 +1,30 @@
+T1	Organization 0 15	Lockheed Martin
+T2	Organization 123 133	Хруничевым
+T3	Organization 256 260	EADS
+T4	Organization 263 267	MBDA
+T5	Organization 320 325	Боинг
+T6	Organization 356 361	Боинг
+T7	Organization 392 394	GE
+T8	Organization 397 409	Роллс-Ройсом
+N1	Reference T1 wiki:301268	Lockheed Martin
+N2	Reference T2 wiki:354521	Государственный космический научно-производственный центр имени М. В. Хруничева
+N3	Reference T3 wiki:39833	EADS
+N4	Reference T4 wiki:1708010	MBDA
+N5	Reference T5 wiki:156398	Боинг
+N6	Reference T6 wiki:156398	Боинг
+N7	Reference T7 wiki:13762	GE
+N8	Reference T8 wiki:303399	Rolls-Royce plc
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 17	Сонвон Констракшн
+T2	Organization 163 180	Ильсон Констракшн
+T3	Organization 404 420	The Ocean Resort
+N1	Reference T1 wiki:3542542	Сонвон Констракшн
+N2	Reference T2 wiki:3500663	Ильсон Констракшн
+N3	Reference T3 wiki:3540816	The Ocean Resort
+A1	IsLink T2
+A2	IsLink T3

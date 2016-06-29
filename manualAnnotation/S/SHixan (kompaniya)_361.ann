@@ -1,0 +1,5 @@
+T1	Organization 0 16	Шихан (компания)
+T2	Organization 178 186	Heineken
+N1	Reference T1 wiki:3171510	Шихан (компания)
+N2	Reference T2 wiki:248758	Heineken
+A1	TypeRel T2 Holder

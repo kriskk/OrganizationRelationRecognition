@@ -1,0 +1,6 @@
+T1	Organization 0 10	Reanimedia
+T2	Organization 107 115	XL Media
+N1	Reference T1 wiki:1349467	Reanimedia
+N2	Reference T2 wiki:137765	XL Media
+A1	IsLink T2
+A2	TypeRel T2 Holder

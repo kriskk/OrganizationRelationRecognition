@@ -1,0 +1,5 @@
+T1	Organization 0 33	Сахалинский Западный морской порт
+T2	Organization 343 360	«Сахалин Энерджи»
+N1	Reference T1 wiki:1994128	Сахалинский Западный морской порт
+N2	Reference T2 wiki:1400493	Сахалин Энерджи
+A1	IsLink T2

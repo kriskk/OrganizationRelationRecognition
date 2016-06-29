@@ -1,0 +1,5 @@
+T1	Organization 0 15	Илим (компания)
+T2	Organization 78 94	Филиал в Коряжме
+N1	Reference T1 wiki:128667	Илим (компания)
+N2	Reference T2 wiki:128668	Котласский ЦБК
+A1	TypeRel T2 Subsidiary

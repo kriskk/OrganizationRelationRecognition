@@ -1,0 +1,8 @@
+T1	Organization 0 21	Московский метрострой
+T2	Organization 251 259	Мостовик
+T3	Organization 264 273	Группа Е4
+N1	Reference T1 wiki:2642733	Московский метрострой
+N2	Reference T2 wiki:3950252	Мостовик
+N3	Reference T3 wiki:726651	Группа Е4
+A1	IsLink T2
+A2	IsLink T3

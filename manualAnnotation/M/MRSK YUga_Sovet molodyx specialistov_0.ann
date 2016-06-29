@@ -1,0 +1,6 @@
+T1	Organization 0 8	МРСК Юга
+T2	Organization 161 173	Холдинг МРСК
+N1	Reference T1 wiki:3122410	МРСК Юга
+N2	Reference T2 wiki:2040314	Холдинг МРСК
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,9 @@
+T1	Organization 0 19	Grumman Corporation
+T2	Organization 388 396	Northrop
+T3	Organization 421 449	Northrop Grumman Corporation
+N1	Reference T1 wiki:1018648	Grumman Corporation
+N2	Reference T2 wiki:890183	Northrop
+N3	Reference T3 wiki:681371	Northrop Grumman Corporation
+A1	IsLink T2
+A2	TypeRel T3 Holder
+A3	TypeRel T2 Merge

@@ -1,0 +1,14 @@
+T1	Organization 0 6	Talbot
+T2	Organization 268 287	PSA Peugeot-Citroen
+T3	Organization 457 464	Renault
+T4	Organization 512 517	Dacia
+T5	Organization 670 678	Dongfeng
+N1	Reference T1 wiki:830160	Talbot
+N2	Reference T2 wiki:226616	PSA Peugeot Citroën
+N3	Reference T3 wiki:586472	Renault
+N4	Reference T4 wiki:746072	Dacia
+N5	Reference T5 wiki:1018683	Dongfeng
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

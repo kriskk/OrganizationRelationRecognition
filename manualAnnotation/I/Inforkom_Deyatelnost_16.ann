@@ -1,0 +1,6 @@
+T1	Organization 0 8	Инфорком
+T2	Organization 300 316	"EuroShell Card"
+N1	Reference T1 wiki:1740491	Инфорком
+N2	Reference T2 wiki:167625	Royal Dutch Shell
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

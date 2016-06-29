@@ -1,0 +1,11 @@
+T1	Organization 0 6	RECARO
+T2	Organization 252 257	Bosch
+T3	Organization 259 266	Maybach
+T4	Organization 269 276	Daimler
+N1	Reference T1 wiki:2339563	RECARO
+N2	Reference T2 wiki:166006	Bosch
+N3	Reference T3 wiki:40392	Maybach
+N4	Reference T4 wiki:39716	Daimler
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

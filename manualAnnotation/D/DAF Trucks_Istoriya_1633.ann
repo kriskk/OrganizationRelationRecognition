@@ -1,0 +1,11 @@
+T1	Organization 0 10	DAF Trucks
+T2	Organization 183 189	NedCar
+T3	Organization 200 205	Volvo
+T4	Organization 299 305	PACCAR
+N1	Reference T1 wiki:1570257	DAF Trucks
+N2	Reference T2 wiki:1572227	NedCar
+N3	Reference T3 wiki:387781	Volvo
+N4	Reference T4 wiki:1704447	PACCAR
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,5 @@
+T1	Organization 0 5	Зерде
+T2	Organization 91 129	Национальные информационные технологии
+N1	Reference T1 wiki:2291462	Зерде
+N2	Reference T2 wiki:1545913	Национальные информационные технологии
+A1	TypeRel T2 Subsidiary

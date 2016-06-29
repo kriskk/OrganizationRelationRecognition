@@ -1,0 +1,10 @@
+T1	Organization 0 40	Запорожский автомобилестроительный завод
+T2	Organization 221 228	Siemens
+T3	Organization 392 395	ABB
+N1	Reference T1 wiki:683481	Запорожский автомобилестроительный завод
+N2	Reference T2 wiki:36510	Siemens
+N3	Reference T3 wiki:266484	ABB
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

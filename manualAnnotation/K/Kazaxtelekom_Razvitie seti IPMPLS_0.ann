@@ -1,0 +1,9 @@
+T1	Organization 0 12	Казахтелеком
+T2	Organization 127 132	Cisco
+T3	Organization 135 143	АМТ-Груп
+N1	Reference T1 wiki:702503	Казахтелеком
+N2	Reference T2 wiki:25014	Cisco
+N3	Reference T3 wiki:2782529	АМТ-Груп
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

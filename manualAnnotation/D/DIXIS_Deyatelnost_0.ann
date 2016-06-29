@@ -1,0 +1,32 @@
+T1	Organization 0 5	DIXIS
+T2	Organization 122 129	Alcatel
+T3	Organization 140 142	LG
+T4	Organization 144 152	Motorola
+T5	Organization 154 159	Nokia
+T6	Organization 178 187	Panasonic
+T7	Organization 189 196	Philips
+T8	Organization 198 203	Sagem
+T9	Organization 205 212	Samsung
+T10	Organization 214 219	Sharp
+T11	Organization 236 249	Sony Ericsson
+N1	Reference T1 wiki:167261	DIXIS
+N2	Reference T2 wiki:294657	Alcatel
+N3	Reference T3 wiki:135021	LG
+N4	Reference T4 wiki:134384	Motorola
+N5	Reference T5 wiki:56405	Nokia
+N6	Reference T6 wiki:307154	Panasonic
+N7	Reference T7 wiki:204179	Philips
+N8	Reference T8 wiki:65325	Sagem
+N9	Reference T9 wiki:125537	Samsung
+N10	Reference T10 wiki:382668	Sharp
+N11	Reference T11 wiki:120852	Sony Ericsson
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11

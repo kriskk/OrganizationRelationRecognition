@@ -1,0 +1,10 @@
+T1	Organization 0 14	IO Interactive
+T2	Organization 154 165	Square Enix
+T3	Organization 199 216	Eidos Interactive
+N1	Reference T1 wiki:591796	IO Interactive
+N2	Reference T2 wiki:288255	Square Enix
+N3	Reference T3 wiki:806750	Eidos Interactive
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

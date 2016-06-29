@@ -1,0 +1,6 @@
+T1	Organization 0 20	Grand Hustle Records
+T2	Organization 65 73	Atlantic
+N1	Reference T1 wiki:3372000	Grand Hustle Records
+N2	Reference T2 wiki:344750	Atlantic Records
+A1	IsLink T2
+A2	TypeRel T2 Other

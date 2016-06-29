@@ -1,0 +1,7 @@
+Zend Technologies
+@Продукты, выпускаемые компанией
+689,1555
+
+Zend WinEnabler — разработан специально для улучшения стабильности и производительности работы PHP на Windows-основанных веб-серверах. Что-то вроде Zend Platform, только для Windows-серверов.
+
+Zend Core for IBM — рабочее окружение, тесно завязанное на технологии компании IBM, такие как DB2, IBM Cloudscape database server и встроенная поддержка XML и Web Services, а также улучшающее поддержку Service Oriented Architectures (SOA).

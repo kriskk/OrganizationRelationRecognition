@@ -1,0 +1,5 @@
+T1	Organization 0 21	Triumph Motor Company
+T2	Organization 235 240	Rover
+N1	Reference T1 wiki:3022071	Triumph Motor Company
+N2	Reference T2 wiki:2199395	Rover Company
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 10	Game Freak
+T2	Organization 233 241	Nintendo
+N1	Reference T1 wiki:3283547	Game Freak
+N2	Reference T2 wiki:202486	Nintendo
+A1	TypeRel T2 Cooperator

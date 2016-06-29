@@ -1,0 +1,5 @@
+T1	Organization 0 37	BSH Bosch und Siemens Hausgeräte GmbH
+T2	Organization 210 220	Siemens AG
+N1	Reference T1 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
+N2	Reference T2 wiki:36510	Siemens AG
+A1	IsLink T2

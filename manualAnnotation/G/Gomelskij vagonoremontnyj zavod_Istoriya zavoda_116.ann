@@ -1,0 +1,6 @@
+T1	Organization 0 32	Гомельский вагоноремонтный завод
+T2	Organization 262 294	Уфимский паровозоремонтный завод
+N1	Reference T1 wiki:154207	Гомельский вагоноремонтный завод
+N2	Reference T2 wiki:146716	Уфимский тепловозоремонтный завод
+A1	IsLink T2
+A2	TypeRel T2 Other

@@ -1,0 +1,6 @@
+T1	Organization 0 6	NASDAQ
+T2	Organization 182 198	NASDAQ OMX Group
+N1	Reference T1 wiki:63813	NASDAQ
+N2	Reference T2 wiki:1036854	NASDAQ OMX Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

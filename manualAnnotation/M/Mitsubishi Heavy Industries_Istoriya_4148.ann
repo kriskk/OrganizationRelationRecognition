@@ -1,0 +1,5 @@
+T1	Organization 0 27	Mitsubishi Heavy Industries
+T2	Organization 205 222	Mitsubishi Motors
+N1	Reference T1 wiki:1877595	Mitsubishi Heavy Industries
+N2	Reference T2 wiki:423257	Mitsubishi Motors
+A1	IsLink T2

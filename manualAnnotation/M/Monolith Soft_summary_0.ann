@@ -1,0 +1,29 @@
+T1	Organization 0 13	Monolith Soft
+T2	Organization 50 70	Monolith Productions
+T3	Organization 220 228	Nintendo
+T4	Organization 449 457	Nintendo
+T5	Organization 460 472	Namco Bandai
+T6	Organization 718 728	Square Co.
+T7	Organization 754 759	Namco
+T8	Organization 779 787	Nintendo
+T9	Organization 840 852	Namco Bandai
+N1	Reference T1 wiki:3072304	Monolith Soft
+N2	Reference T2 wiki:1344649	Monolith Productions
+N3	Reference T3 wiki:202486	Nintendo
+N4	Reference T4 wiki:202486	Nintendo
+N5	Reference T5 wiki:2817888	Namco Bandai
+N6	Reference T6 wiki:278305	Square (компания)
+N7	Reference T7 wiki:327777	Namco
+N8	Reference T8 wiki:202486	Nintendo
+N9	Reference T9 wiki:2817888	Namco Bandai
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T3 Holder
+A10	TypeRel T4 Holder
+A11	TypeRel T5 Holder

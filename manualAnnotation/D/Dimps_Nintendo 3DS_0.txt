@@ -1,0 +1,12 @@
+Dimps
+@Список игр, разработанных компанией
+@[[Nintendo 3DS]]
+1009,1100,0
+
+
+[[Nintendo 3DS]]
+
+
+ Super Monkey Ball 3D (совместно с Amusement Vision)
+	 Super Street Fighter IV: 3D Edition (совместно с Capcom)
+	 Sonic Generations (совместно с Sonic Team)

@@ -1,0 +1,6 @@
+T1	Organization 0 10	Land Rover
+T2	Organization 99 110	Tata Motors
+N1	Reference T1 wiki:683379	Land Rover
+N2	Reference T2 wiki:962083	Tata Motors
+A1	IsLink T2
+A2	TypeRel T2 Holder

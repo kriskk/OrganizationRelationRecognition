@@ -1,0 +1,27 @@
+T1	Organization 0 36	Инженерный центр энергетики Поволжья
+T2	Organization 215 235	ОАО РАО „ЕЭС России“
+T3	Organization 405 425	ОАО РАО „ЕЭС России“
+T4	Organization 829 868	ОАО «Инженерный центр энергетики Урала»
+T5	Organization 887 963	ОАО «Северо-западный энергетический инжиниринговый центр» (ОАО «СевЗап НТЦ»)
+T6	Organization 985 1026	ОАО «Инженерный центр ЕЭС» (ОАО «ИЦ ЕЭС»)
+T7	Organization 1039 1096	ОАО «Южный инженерный центр энергетики» (ОАО «Южный ИЦЭ»)
+T8	Organization 1112 1190	ОАО «Сибирский энергетический научно-технический центр» (ОАО «Сибирский ЭНТЦ»)
+T9	Organization 1208 1235	ОАО «НТЦ электроэнергетики»
+N1	Reference T1 wiki:2870574	Инженерный центр энергетики Поволжья
+N2	Reference T2 wiki:1432138	РАО «ЕЭС России»
+N3	Reference T3 wiki:1432138	РАО «ЕЭС России»
+N4	Reference T4 wiki:2692040	Инженерный центр энергетики Урала
+N5	Reference T5 wiki:1484971	СевЗап НТЦ
+N6	Reference T6 wiki:2832480	Инженерный центр ЕЭС
+N7	Reference T7 wiki:2874218	Южный инженерный центр энергетики
+N8	Reference T8 wiki:1910054	Сибирский ЭНТЦ
+N9	Reference T9 wiki:2835724	НТЦ электроэнергетики
+A1	IsLink T2
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A2	TypeRel T3 Holder
+A9	TypeRel T2 Holder

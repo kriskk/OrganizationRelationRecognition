@@ -1,0 +1,5 @@
+T1	Organization 0 9	Six Apart
+T2	Organization 246 249	СУП
+N1	Reference T1 wiki:362735	Six Apart
+N2	Reference T2 wiki:931397	СУП
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 8	NBS Bank
+T2	Organization 158 184	Малавийской фондовой бирже
+N1	Reference T1 wiki:1335567	NBS Bank
+N2	Reference T2 wiki:404750	Малавийская фондовая биржа
+A1	IsLink T2
+A2	TypeRel T2 Other

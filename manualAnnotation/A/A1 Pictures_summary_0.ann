@@ -1,0 +1,6 @@
+T1	Organization 0 12	A-1 Pictures
+T2	Organization 89 96	Aniplex
+N1	Reference T1 wiki:3283275	A-1 Pictures
+N2	Reference T2 wiki:1888311	Aniplex
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 23	Kadokawa Group Holdings
+T2	Organization 223 249	Kadokawa Shoten Publishing
+N1	Reference T1 wiki:3124112	Kadokawa Group Holdings
+N2	Reference T2 wiki:206144	Kadokawa Shoten
+A1	TypeRel T2 Subsidiary

@@ -1,0 +1,11 @@
+T1	Organization 0 8	Tablogix
+T2	Organization 196 214	Ford Motor Company
+T3	Organization 381 387	Jaguar
+T4	Organization 390 400	Land Rover
+N1	Reference T1 wiki:3772840	Tablogix
+N2	Reference T2 wiki:153236	Ford Motor Company
+N3	Reference T3 wiki:431514	Jaguar
+N4	Reference T4 wiki:683379	Land Rover
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

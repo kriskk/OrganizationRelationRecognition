@@ -1,0 +1,11 @@
+T1	Organization 0 13	Ring of Honor
+T2	Organization 57 60	WWE
+T3	Organization 69 72	ECW
+T4	Organization 75 78	TNA
+N1	Reference T1 wiki:4072703	Ring of Honor
+N2	Reference T2 wiki:1559702	WWE
+N3	Reference T3 wiki:3112949	Extreme Championship Wrestling
+N4	Reference T4 wiki:1560583	Total Nonstop Action Wrestling
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,14 @@
+T1	Organization 0 11	НТЦ ФСК ЕЭС
+T2	Organization 316 336	ОАО РАО «ЕЭС России»
+T3	Organization 383 399	РАО «ЕЭС России»
+T4	Organization 602 618	РАО «ЕЭС России»
+N1	Reference T1 wiki:2835724	НТЦ ФСК ЕЭС
+N2	Reference T2 wiki:1432138	РАО «ЕЭС России»
+N3	Reference T3 wiki:1432138	РАО «ЕЭС России»
+N4	Reference T4 wiki:1432138	РАО «ЕЭС России»
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

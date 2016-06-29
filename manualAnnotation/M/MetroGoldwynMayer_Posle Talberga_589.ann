@@ -1,0 +1,6 @@
+T1	Organization 0 19	Metro-Goldwyn-Mayer
+T2	Organization 216 234	Paramount Pictures
+N1	Reference T1 wiki:208697	Metro-Goldwyn-Mayer
+N2	Reference T2 wiki:398699	Paramount Pictures
+A1	IsLink T2
+A2	TypeRel T2 Competitor

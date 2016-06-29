@@ -1,0 +1,5 @@
+T1	Organization 0 17	Ubisoft Singapore
+T2	Organization 240 247	Ubisoft
+N1	Reference T1 wiki:2663742	Ubisoft Singapore
+N2	Reference T2 wiki:650139	Ubisoft
+A1	TypeRel T2 Holder

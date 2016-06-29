@@ -1,0 +1,5 @@
+T1	Organization 0 42	Украинская технологическая компания «Скиф»
+T2	Organization 258 263	КамАЗ
+N1	Reference T1 wiki:3335033	Украинская технологическая компания «Скиф»
+N2	Reference T2 wiki:169714	КамАЗ
+A1	TypeRel T2 Cooperator

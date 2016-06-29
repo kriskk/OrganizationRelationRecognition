@@ -1,0 +1,11 @@
+T1	Organization 0 24	Минский тракторный завод
+T2	Organization 89 111	Минский моторный завод
+T3	Organization 114 141	Минский автомобильный завод
+T4	Organization 144 149	БелАЗ
+N1	Reference T1 wiki:103703	Минский тракторный завод
+N2	Reference T2 wiki:1077227	Минский моторный завод
+N3	Reference T3 wiki:33218	Минский автомобильный завод
+N4	Reference T4 wiki:104850	БелАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

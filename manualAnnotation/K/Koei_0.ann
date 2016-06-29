@@ -1,0 +1,5 @@
+T1	Organization 0 4	Koei
+T2	Organization 110 120	Tecmo Koei
+N1	Reference T1 wiki:2243328	Koei
+N2	Reference T2 wiki:3200284	Tecmo Koei
+A1	TypeRel T2 Holder

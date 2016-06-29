@@ -1,0 +1,5 @@
+T1	Organization 0 7	Perrier
+T2	Organization 93 99	Nestle
+N1	Reference T1 wiki:1979608	Perrier
+N2	Reference T2 wiki:121355	Nestle
+A1	TypeRel T2 Holder

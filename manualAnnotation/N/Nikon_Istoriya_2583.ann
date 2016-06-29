@@ -1,0 +1,6 @@
+T1	Organization 0 5	Nikon
+T2	Organization 190 198	Fujifilm
+N1	Reference T1 wiki:147658	Nikon
+N2	Reference T2 wiki:751825	Fujifilm
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 17	Evolution Studios
+T2	Organization 368 372	Sony
+N1	Reference T1 wiki:2579092	Evolution Studios
+N2	Reference T2 wiki:1454994	Sony Computer Entertainment
+A1	IsLink T2

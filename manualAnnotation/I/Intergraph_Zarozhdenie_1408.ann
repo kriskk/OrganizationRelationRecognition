@@ -1,0 +1,5 @@
+T1	Organization 0 10	Intergraph
+T2	Organization 271 276	Xerox
+N1	Reference T1 wiki:1516535	Intergraph
+N2	Reference T2 wiki:257571	Xerox
+A1	TypeRel T2 Cooperator

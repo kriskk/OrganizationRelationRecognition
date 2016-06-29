@@ -1,0 +1,6 @@
+T1	Organization 0 7	Ray-Ban
+T2	Organization 324 334	Люксоттика
+N1	Reference T1 wiki:2251241	Ray-Ban
+N2	Reference T2 wiki:2883102	Люксоттика
+A1	IsLink T2
+A2	TypeRel T2 Holder

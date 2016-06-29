@@ -1,0 +1,14 @@
+T1	Organization 0 6	Oracle
+T2	Organization 417 424	Gartner
+T3	Organization 495 511	Sun Microsystems
+T4	Organization 537 545	MySQL AB
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:2960363	Gartner
+N3	Reference T3 wiki:4777	Sun Microsystems
+N4	Reference T4 wiki:1515416	MySQL AB
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Other
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

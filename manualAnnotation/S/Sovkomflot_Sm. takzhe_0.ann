@@ -1,0 +1,5 @@
+T1	Organization 0 10	Совкомфлот
+T2	Organization 45 85	Объединённая судостроительная корпорация
+N1	Reference T1 wiki:210676	Совкомфлот
+N2	Reference T2 wiki:590392	Объединённая судостроительная корпорация
+A1	IsLink T2

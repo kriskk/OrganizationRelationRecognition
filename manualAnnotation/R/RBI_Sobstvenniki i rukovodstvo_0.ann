@@ -1,0 +1,5 @@
+T1	Organization 0 3	RBI
+T2	Organization 167 181	Morgan Stanley
+N1	Reference T1 wiki:914789	RBI
+N2	Reference T2 wiki:612532	Morgan Stanley
+A1	TypeRel T2 Holder

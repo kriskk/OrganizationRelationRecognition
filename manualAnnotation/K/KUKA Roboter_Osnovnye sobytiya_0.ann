@@ -1,0 +1,5 @@
+T1	Organization 0 12	KUKA Roboter
+T2	Organization 87 99	Daimler-Benz
+N1	Reference T1 wiki:366813	KUKA Roboter
+N2	Reference T2 wiki:39716	Daimler
+A1	TypeRel T2 Cooperator

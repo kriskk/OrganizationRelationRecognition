@@ -1,0 +1,5 @@
+T1	Organization 0 12	Сити-XXI век
+T2	Organization 118 124	Новард
+N1	Reference T1 wiki:2716170	Сити-XXI век
+N2	Reference T2 wiki:2654272	Новард
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Pennzoil
+T2	Organization 153 165	Standard Oil
+N1	Reference T1 wiki:2355747	Pennzoil
+N2	Reference T2 wiki:1530444	Standard Oil
+A1	TypeRel T2 Holder

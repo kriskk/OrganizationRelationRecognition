@@ -1,0 +1,11 @@
+T1	Organization 0 16	Сухой (компания)
+T2	Organization 328 343	«Локхид Мартин»
+T3	Organization 361 369	«Боингу»
+T4	Organization 693 708	«Локхид Мартин»
+N1	Reference T1 wiki:164779	Сухой (компания)
+N2	Reference T2 wiki:301268	Lockheed Martin
+N3	Reference T3 wiki:156398	Boeing
+N4	Reference T4 wiki:301268	Lockheed Martin
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

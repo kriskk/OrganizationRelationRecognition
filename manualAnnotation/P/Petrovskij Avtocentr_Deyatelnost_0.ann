@@ -1,0 +1,12 @@
+T1	Organization 0 20	Петровский Автоцентр
+T2	Organization 142 149	Renault
+T3	Organization 175 185	Автофрамос
+T4	Organization 485 493	Michelin
+N1	Reference T1 wiki:2419209	Петровский Автоцентр
+N2	Reference T2 wiki:586472	Renault
+N3	Reference T3 wiki:387742	Автофрамос
+N4	Reference T4 wiki:214287	Michelin
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

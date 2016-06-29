@@ -1,0 +1,6 @@
+T1	Organization 0 15	Magneti Marelli
+T2	Organization 205 215	FIAT Group
+N1	Reference T1 wiki:1931634	Magneti Marelli
+N2	Reference T2 wiki:91784	FIAT Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

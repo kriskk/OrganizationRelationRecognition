@@ -1,0 +1,17 @@
+T1	Organization 0 8	Chrysler
+T2	Organization 418 429	Lamborghini
+T3	Organization 595 612	Mitsubishi Motors
+T4	Organization 615 622	Renault
+T5	Organization 781 796	DaimlerChrysler
+T6	Organization 1010 1014	Fiat
+N1	Reference T1 wiki:223902	Chrysler
+N2	Reference T2 wiki:65531	Lamborghini
+N3	Reference T3 wiki:423257	Mitsubishi Motors
+N4	Reference T4 wiki:586472	Renault
+N5	Reference T5 wiki:39716	Daimler
+N6	Reference T6 wiki:91784	Fiat
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

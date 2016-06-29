@@ -1,0 +1,5 @@
+T1	Organization 0 9	CiBy 2000
+T2	Organization 223 236	Bouygues S.A.
+N1	Reference T1 wiki:2475925	CiBy 2000
+N2	Reference T2 wiki:1710539	Bouygues S.A.
+A1	IsLink T2

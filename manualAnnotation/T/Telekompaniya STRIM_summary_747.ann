@@ -1,0 +1,14 @@
+T1	Organization 0 18	Телекомпания СТРИМ
+T2	Organization 267 294	Национальные кабельные сети
+T3	Organization 298 308	Ростелеком
+T4	Organization 312 318	Уфанет
+T5	Organization 345 353	НТВ-ПЛЮС
+N1	Reference T1 wiki:2230588	Телекомпания СТРИМ
+N2	Reference T2 wiki:2457510	Национальные кабельные сети
+N3	Reference T3 wiki:145844	Ростелеком
+N4	Reference T4 wiki:1698468	Уфанет
+N5	Reference T5 wiki:723124	НТВ-ПЛЮС
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,5 @@
+T1	Organization 0 11	Rheinmetall
+T2	Organization 430 436	Alkett
+N1	Reference T1 wiki:1569917	Rheinmetall
+N2	Reference T2 wiki:2048878	Alkett
+A1	TypeRel T2 Subsidiary

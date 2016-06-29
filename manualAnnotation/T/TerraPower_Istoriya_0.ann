@@ -1,0 +1,8 @@
+T1	Organization 0 10	TerraPower
+T2	Organization 169 176	Toshiba
+T3	Organization 416 435	Reliance Industries
+N1	Reference T1 wiki:3635948	TerraPower
+N2	Reference T2 wiki:507269	Toshiba
+N3	Reference T3 wiki:2113267	Reliance Industries
+A1	IsLink T2
+A2	IsLink T3

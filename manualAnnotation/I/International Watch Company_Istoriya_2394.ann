@@ -1,0 +1,5 @@
+T1	Organization 0 27	International Watch Company
+T2	Organization 261 270	Richemont
+N1	Reference T1 wiki:3197181	International Watch Company
+N2	Reference T2 wiki:3206803	Richemont
+A1	TypeRel T2 Holder

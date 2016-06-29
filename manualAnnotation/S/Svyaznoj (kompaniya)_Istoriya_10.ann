@@ -1,0 +1,5 @@
+T1	Organization 0 18	Связной (компания)
+T2	Organization 225 233	Евросеть
+N1	Reference T1 wiki:371774	Связной (компания)
+N2	Reference T2 wiki:168895	Евросеть
+A1	IsLink T2

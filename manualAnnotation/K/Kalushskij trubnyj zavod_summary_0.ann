@@ -1,0 +1,5 @@
+T1	Organization 0 23	Калушский трубный завод
+T2	Organization 122 135	«Полипластик»
+N1	Reference T1 wiki:3353513	Калушский трубный завод
+N2	Reference T2 wiki:4180223	Полипластик
+A1	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 23	Газпром трансгаз Самара
+T2	Organization 140 153	ОАО «Газпром»
+N1	Reference T1 wiki:2019389	Газпром трансгаз Самара
+N2	Reference T2 wiki:44754	Газпром
+A1	IsLink T2
+A2	TypeRel T2 Holder

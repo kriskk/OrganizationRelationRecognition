@@ -1,0 +1,9 @@
+T1	Organization 0 17	Wang Laboratories
+T2	Organization 204 207	NEC
+T3	Organization 210 217	Toshiba
+N1	Reference T1 wiki:500229	Wang Laboratories
+N2	Reference T2 wiki:232844	NEC
+N3	Reference T3 wiki:507269	Toshiba
+A2	IsLink T3
+A1	TypeRel T2 Other
+A3	TypeRel T3 Other

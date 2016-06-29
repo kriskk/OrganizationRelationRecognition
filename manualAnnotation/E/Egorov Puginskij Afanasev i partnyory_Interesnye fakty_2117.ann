@@ -1,0 +1,10 @@
+T1	Organization 0 39	Егоров, Пугинский, Афанасьев и партнёры
+T2	Organization 300 307	Уралхим
+T3	Organization 349 385	Мурманского морского торгового порта
+N1	Reference T1 wiki:2882521	Егоров, Пугинский, Афанасьев и партнёры
+N2	Reference T2 wiki:1628752	Уралхим
+N3	Reference T3 wiki:3022119	Мурманский морской торговый порт
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

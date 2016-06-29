@@ -1,0 +1,5 @@
+T1	Organization 0 14	Kramer Guitars
+T2	Organization 227 233	Гибсон
+N1	Reference T1 wiki:2774752	Kramer Guitars
+N2	Reference T2 wiki:546422	Gibson
+A1	TypeRel T2 Holder

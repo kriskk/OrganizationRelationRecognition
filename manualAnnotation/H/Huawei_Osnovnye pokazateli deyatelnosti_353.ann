@@ -1,0 +1,13 @@
+T1	Organization 0 6	Huawei
+T2	Organization 233 241	Vodafone
+T3	Organization 243 255	China Mobile
+T4	Organization 257 265	Etisalat
+N1	Reference T1 wiki:908840	Huawei
+N2	Reference T2 wiki:213703	Vodafone
+N3	Reference T3 wiki:248178	China Mobile
+N4	Reference T4 wiki:2869812	Etisalat
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

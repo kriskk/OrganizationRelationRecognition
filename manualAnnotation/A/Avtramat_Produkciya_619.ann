@@ -1,0 +1,11 @@
+T1	Organization 0 8	Автрамат
+T2	Organization 208 215	АвтоВАЗ
+T3	Organization 217 245	Заволжского моторного завода
+T4	Organization 247 266	Завода им. Лихачёва
+N1	Reference T1 wiki:2349655	Автрамат
+N2	Reference T2 wiki:139276	ВАЗ
+N3	Reference T3 wiki:1006237	Заволжский моторный завод
+N4	Reference T4 wiki:259988	Завод имени Лихачёва
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

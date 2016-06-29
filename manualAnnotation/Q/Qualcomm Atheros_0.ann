@@ -1,0 +1,6 @@
+T1	Organization 0 16	Qualcomm Atheros
+T2	Organization 121 127	NASDAQ
+N1	Reference T1 wiki:3399875	Qualcomm Atheros
+N2	Reference T2 wiki:63813	NASDAQ
+A1	IsLink T2
+A2	TypeRel T2 Other

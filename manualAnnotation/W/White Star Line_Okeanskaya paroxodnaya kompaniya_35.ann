@@ -1,0 +1,6 @@
+T1	Organization 0 15	White Star Line
+T2	Organization 299 316	Харланд энд Вольф
+N1	Reference T1 wiki:1027995	White Star Line
+N2	Reference T2 wiki:1027856	Harland and Wolff
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

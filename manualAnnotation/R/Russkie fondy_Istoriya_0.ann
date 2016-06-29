@@ -1,0 +1,5 @@
+T1	Organization 0 13	Русские фонды
+T2	Organization 132 144	Норд-капитал
+N1	Reference T1 wiki:914643	Русские фонды
+N2	Reference T2 wiki:4329247	Норд-капитал
+A1	IsLink T2

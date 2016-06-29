@@ -1,0 +1,8 @@
+T1	Organization 0 10	Game Freak
+T2	Organization 274 279	Namco
+T3	Organization 296 307	Hudson Soft
+N1	Reference T1 wiki:3283547	Game Freak
+N2	Reference T2 wiki:327777	Namco
+N3	Reference T3 wiki:1734514	Hudson Soft
+A1	IsLink T2
+A2	IsLink T3

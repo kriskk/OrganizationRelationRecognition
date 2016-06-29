@@ -1,0 +1,10 @@
+The Learning Company
+@История
+@MicroPro International
+745,10,1
+
+MicroPro International
+
+Все началось с компании MicroPro International Corp., которую основал в 1978 году Сеймур Рубинштейн; после компания поменяла название на SoftKey International, Inc. Рубинштейн оставался с компанией до 1986 года, когда он ушел, чтобы создать компанию Surpass Corporation, которая разработала программу электронных таблиц для Borland International в 1988 году, программа была выпущена как Quattro Pro.
+
+В первые дни компьютеров, MicroPro International был известен прежде всего созданием WordStar (текстовый процессор), CalcStar (электронные таблицы), а также DataStar (базы данных) для Apple II, Tandy, TRS-80 и DOS.

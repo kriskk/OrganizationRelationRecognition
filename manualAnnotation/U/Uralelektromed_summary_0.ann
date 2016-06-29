@@ -1,0 +1,6 @@
+T1	Organization 0 15	Уралэлектромедь
+T2	Organization 142 183	Уральская горно-металлургическая компания
+N1	Reference T1 wiki:604842	Уралэлектромедь
+N2	Reference T2 wiki:171944	Уральская горно-металлургическая компания
+A1	IsLink T2
+A2	TypeRel T2 Holder

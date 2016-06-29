@@ -1,0 +1,5 @@
+T1	Organization 0 4	МЦСТ
+T2	Organization 225 234	Transmeta
+N1	Reference T1 wiki:747107	МЦСТ
+N2	Reference T2 wiki:99423	Transmeta
+A1	TypeRel T2 Personnel

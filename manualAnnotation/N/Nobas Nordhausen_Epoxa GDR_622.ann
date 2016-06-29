@@ -1,0 +1,5 @@
+T1	Organization 0 16	Nobas Nordhausen
+T2	Organization 238 249	Zemag Zeitz
+N1	Reference T1 wiki:4185345	Nobas Nordhausen
+N2	Reference T2 wiki:2495407	Zemag Zeitz
+A1	TypeRel T2 Cooperator

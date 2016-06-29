@@ -1,0 +1,5 @@
+T1	Organization 0 4	KADR
+T2	Organization 233 241	Мосфильм
+N1	Reference T1 wiki:4013668	KADR
+N2	Reference T2 wiki:25605	Мосфильм
+A1	TypeRel T2 Cooperator

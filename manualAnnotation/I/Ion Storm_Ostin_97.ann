@@ -1,0 +1,5 @@
+T1	Organization 0 9	Ion Storm
+T2	Organization 187 208	Looking Glass Studios
+N1	Reference T1 wiki:710563	Ion Storm
+N2	Reference T2 wiki:2044456	Looking Glass Studios
+A1	IsLink T2

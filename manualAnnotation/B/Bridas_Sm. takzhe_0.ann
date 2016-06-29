@@ -1,0 +1,11 @@
+T1	Organization 0 6	Bridas
+T2	Organization 39 45	Enarsa
+T3	Organization 48 58	Pluspetrol
+T4	Organization 61 64	YPF
+N1	Reference T1 wiki:3600849	Bridas
+N2	Reference T2 wiki:3597600	Enarsa
+N3	Reference T3 wiki:3601673	Pluspetrol
+N4	Reference T4 wiki:148067	YPF
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

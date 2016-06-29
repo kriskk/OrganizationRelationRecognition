@@ -1,0 +1,5 @@
+T1	Organization 0 8	Технотон
+T2	Organization 255 261	Gurtam
+N1	Reference T1 wiki:2775553	Технотон
+N2	Reference T2 wiki:3991749	Gurtam
+A1	IsLink T2

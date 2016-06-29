@@ -1,0 +1,8 @@
+T1	Organization 0 29	Уральский автомобильный завод
+T2	Organization 206 217	Группой ГАЗ
+T3	Organization 228 243	Базовый элемент
+N1	Reference T1 wiki:24935	Уральский автомобильный завод
+N2	Reference T2 wiki:21473	Группа ГАЗ
+N3	Reference T3 wiki:156379	Базовый элемент
+A2	IsLink T3
+A1	TypeRel T2 Holder

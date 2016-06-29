@@ -1,0 +1,14 @@
+T1	Organization 0 13	Brownie Brown
+T2	Organization 285 296	Square Enix
+T3	Organization 712 726	HAL Laboratory
+T4	Organization 965 975	Mistwalker
+T5	Organization 1180 1187	Level-5
+N1	Reference T1 wiki:3231807	Brownie Brown
+N2	Reference T2 wiki:288255	Square Enix
+N3	Reference T3 wiki:3435425	HAL Laboratory
+N4	Reference T4 wiki:2448702	Mistwalker
+N5	Reference T5 wiki:3337439	Level-5
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

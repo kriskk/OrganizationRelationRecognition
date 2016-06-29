@@ -1,0 +1,6 @@
+T1	Organization 0 12	Парма Мобайл
+T2	Organization 178 186	Tele2 AB
+N1	Reference T1 wiki:120247	Парма Мобайл
+N2	Reference T2 wiki:162980	Tele2
+A1	IsLink T2
+A2	TypeRel T2 Holder

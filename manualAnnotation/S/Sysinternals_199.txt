@@ -1,0 +1,14 @@
+Sysinternals
+199
+
+отрасль:  Разработка программного обеспечения
+продукция:  AutoRuns,
+Process Explorer,
+Process Monitor,
+RootkitRevealer
+и другие.
+число сотрудников: 
+материнская компания:  Microsoft
+сайт:  Официальный сайт
+
+

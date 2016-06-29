@@ -1,0 +1,22 @@
+T1	Organization 0 14	Orange Moldova
+T2	Organization 88 96	Moldcell
+T3	Organization 162 169	Eventis
+T4	Organization 476 487	Moldtelecom
+T5	Organization 567 574	StarNet
+T6	Organization 630 647	SunCommunications
+N1	Reference T1 wiki:342150	Orange Moldova
+N2	Reference T2 wiki:341971	Moldcell
+N3	Reference T3 wiki:745225	Eventis
+N4	Reference T4 wiki:384322	Moldtelecom
+N5	Reference T5 wiki:541086	StarNet
+N6	Reference T6 wiki:2144939	SunCommunications
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Competitor
+A7	TypeRel T3 Competitor
+A8	TypeRel T4 Competitor
+A9	TypeRel T5 Competitor
+A10	TypeRel T6 Competitor

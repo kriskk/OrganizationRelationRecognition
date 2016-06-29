@@ -1,0 +1,6 @@
+T1	Organization 0 15	Vichy Cosmetics
+T2	Organization 208 215	L’Oréal
+N1	Reference T1 wiki:2525886	Vichy Cosmetics
+N2	Reference T2 wiki:164733	L’Oréal
+A1	IsLink T2
+A2	TypeRel T2 Holder

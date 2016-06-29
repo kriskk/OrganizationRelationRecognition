@@ -1,0 +1,5 @@
+T1	Organization 0 7	Borland
+T2	Organization 118 142	Embarcadero Technologies
+N1	Reference T1 wiki:35713	Borland
+N2	Reference T2 wiki:2429869	Embarcadero Technologies
+A1	IsLink T2

@@ -1,0 +1,12 @@
+T1	Organization 0 36	Объединённая промышленная корпорация
+T2	Organization 261 275	Северная верфь
+T3	Organization 284 300	Балтийский завод
+T4	Organization 609 627	Балтийского завода
+N1	Reference T1 wiki:591415	Объединённая промышленная корпорация
+N2	Reference T2 wiki:341131	Северная верфь
+N3	Reference T3 wiki:773298	Балтийский завод
+N4	Reference T4 wiki:773298	Балтийский завод
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

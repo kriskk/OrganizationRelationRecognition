@@ -1,0 +1,10 @@
+T1	Organization 0 3	AEG
+T2	Organization 308 324	Siemens & Halske
+T3	Organization 488 504	Siemens & Halske
+N1	Reference T1 wiki:294609	AEG
+N2	Reference T2 wiki:762874	Siemens & Halske
+N3	Reference T3 wiki:762874	Siemens & Halske
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Subsidiary
+A4	TypeRel T2 Competitor

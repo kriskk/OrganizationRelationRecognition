@@ -1,0 +1,6 @@
+T1	Organization 0 24	Gaggenau Hausgeräte GmbH
+T2	Organization 184 221	BSH Bosch und Siemens Hausgeräte GmbH
+N1	Reference T1 wiki:253032	Gaggenau Hausgeräte GmbH
+N2	Reference T2 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Peugeot
+T2	Organization 239 243	Audi
+N1	Reference T1 wiki:1650729	Peugeot
+N2	Reference T2 wiki:41025	Audi
+A1	IsLink T2

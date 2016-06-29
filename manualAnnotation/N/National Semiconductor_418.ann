@@ -1,0 +1,6 @@
+T1	Organization 0 22	National Semiconductor
+T2	Organization 207 224	Rational Software
+N1	Reference T1 wiki:3532914	National Semiconductor
+N2	Reference T2 wiki:196954	Rational Software
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

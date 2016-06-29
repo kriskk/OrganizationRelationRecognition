@@ -1,0 +1,8 @@
+T1	Organization 0 8	Inmarsat
+T2	Organization 61 69	Eutelsat
+T3	Organization 87 95	Intelsat
+N1	Reference T1 wiki:192915	Inmarsat
+N2	Reference T2 wiki:167180	Eutelsat
+N3	Reference T3 wiki:3428079	Intelsat
+A1	IsLink T2
+A2	IsLink T3

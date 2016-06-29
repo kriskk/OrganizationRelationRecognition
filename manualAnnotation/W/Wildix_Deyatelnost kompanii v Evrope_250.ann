@@ -1,0 +1,6 @@
+T1	Organization 0 6	Wildix
+T2	Organization 212 219	Bticino
+N1	Reference T1 wiki:4480706	Wildix
+N2	Reference T2 wiki:2453022	Bticino
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

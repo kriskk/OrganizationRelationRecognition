@@ -1,0 +1,8 @@
+T1	Organization 0 34	Медногорский медно-серный комбинат
+T2	Organization 306 321	оружейный завод
+T3	Organization 677 717	Гайского горно-обогатительного комбината
+N1	Reference T1 wiki:312705	Медногорский медно-серный комбинат
+N2	Reference T2 wiki:917191	Тульский оружейный завод
+N3	Reference T3 wiki:3882103	Гайский горно-обогатительный комбинат
+A1	IsLink T2
+A2	TypeRel T3 Cooperator

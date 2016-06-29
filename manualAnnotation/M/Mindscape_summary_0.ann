@@ -1,0 +1,10 @@
+T1	Organization 0 9	Mindscape
+T2	Organization 108 128	The Learning Company
+T3	Organization 172 187	Electronic Arts
+N1	Reference T1 wiki:2518872	Mindscape
+N2	Reference T2 wiki:3484003	The Learning Company
+N3	Reference T3 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

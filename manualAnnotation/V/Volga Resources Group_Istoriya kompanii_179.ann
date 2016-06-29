@@ -1,0 +1,13 @@
+T1	Organization 0 21	Volga Resources Group
+T2	Organization 229 236	НОВАТЭК
+T3	Organization 401 420	ОАО «Стройтрансгаз»
+T4	Organization 546 562	«Стройтрансгазa»
+N1	Reference T1 wiki:4477826	Volga Resources Group
+N2	Reference T2 wiki:172027	Новатэк
+N3	Reference T3 wiki:1692403	Стройтрансгаз
+N4	Reference T4 wiki:1692403	Стройтрансгаз
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary

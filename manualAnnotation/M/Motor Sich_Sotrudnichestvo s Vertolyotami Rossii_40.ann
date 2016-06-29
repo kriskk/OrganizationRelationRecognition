@@ -1,0 +1,5 @@
+T1	Organization 0 9	Мотор Сич
+T2	Organization 264 280	Вертолёты России
+N1	Reference T1 wiki:40365	Мотор Сич
+N2	Reference T2 wiki:899228	Вертолёты России
+A1	TypeRel T2 Cooperator

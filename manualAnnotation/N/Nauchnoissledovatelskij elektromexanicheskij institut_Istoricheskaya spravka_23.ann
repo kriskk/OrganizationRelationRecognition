@@ -1,0 +1,13 @@
+T1	Organization 0 53	Научно-исследовательский электромеханический институт
+T2	Organization 363 372	Завод 465
+T3	Organization 535 541	ЦКБ-20
+T4	Organization 640 646	НИИ-20
+N1	Reference T1 wiki:1526995	Научно-исследовательский электромеханический институт
+N2	Reference T2 wiki:1526995	НИЭМИ
+N3	Reference T3 wiki:1526995	НИЭМИ
+N4	Reference T4 wiki:1526995	НИЭМИ
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Alias
+A4	TypeRel T3 Alias
+A5	TypeRel T4 Alias

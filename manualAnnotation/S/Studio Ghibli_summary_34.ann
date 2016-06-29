@@ -1,0 +1,5 @@
+T1	Organization 0 13	Studio Ghibli
+T2	Organization 206 217	Walt Disney
+N1	Reference T1 wiki:8977	Studio Ghibli
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	IsLink T2

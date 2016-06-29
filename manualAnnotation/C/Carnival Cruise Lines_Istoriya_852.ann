@@ -1,0 +1,11 @@
+T1	Organization 0 21	Carnival Cruise Lines
+T2	Organization 274 301	Royal Caribbean Cruise Line
+T3	Organization 380 400	Holland America Line
+T4	Organization 868 879	Fincantieri
+N1	Reference T1 wiki:3219423	Carnival Cruise Lines
+N2	Reference T2 wiki:3430803	Royal Caribbean International
+N3	Reference T3 wiki:1379544	Holland America Line
+N4	Reference T4 wiki:3498785	Fincantieri
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

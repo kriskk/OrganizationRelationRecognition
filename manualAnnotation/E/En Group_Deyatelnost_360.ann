@@ -1,0 +1,17 @@
+T1	Organization 0 9	En+ Group
+T2	Organization 185 198	Евросибэнерго
+T3	Organization 215 228	Иркутскэнерго
+T4	Organization 231 247	Красноярскую ГЭС
+T5	Organization 557 564	Росатом
+T6	Organization 700 716	Атомредметзолото
+N1	Reference T1 wiki:1909698	En+ Group
+N2	Reference T2 wiki:1395741	ЕвроСибЭнерго
+N3	Reference T3 wiki:180989	Иркутскэнерго
+N4	Reference T4 wiki:26423	Красноярская ГЭС
+N5	Reference T5 wiki:1299917	Росатом
+N6	Reference T6 wiki:1402137	Атомредметзолото
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

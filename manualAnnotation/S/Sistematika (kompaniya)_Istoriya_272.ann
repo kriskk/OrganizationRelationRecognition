@@ -1,0 +1,5 @@
+T1	Organization 0 22	Систематика (компания)
+T2	Organization 223 257	TopS Business Integrator (TopS BI)
+N1	Reference T1 wiki:985593	Систематика (компания)
+N2	Reference T2 wiki:1103072	TopS Business Integrator
+A1	IsLink T2

@@ -1,0 +1,11 @@
+T1	Organization 0 6	Nvidia
+T2	Organization 210 216	NASDAQ
+T3	Organization 282 298	3dfx Interactive
+T4	Organization 303 312	Microsoft
+N1	Reference T1 wiki:1548156	Nvidia
+N2	Reference T2 wiki:63813	NASDAQ
+N3	Reference T3 wiki:239320	3dfx Interactive
+N4	Reference T4 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

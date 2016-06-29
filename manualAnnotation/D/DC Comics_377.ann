@@ -1,0 +1,8 @@
+T1	Organization 0 9	DC Comics
+T2	Organization 176 202	Warner Bros. Entertainment
+T3	Organization 228 237	WildStorm
+N1	Reference T1 wiki:1742414	DC Comics
+N2	Reference T2 wiki:272386	Warner Bros. Entertainment
+N3	Reference T3 wiki:2367633	WildStorm
+A1	IsLink T2
+A2	IsLink T3

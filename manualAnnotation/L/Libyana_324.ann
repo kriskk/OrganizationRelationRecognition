@@ -1,0 +1,5 @@
+T1	Organization 0 7	Libyana
+T2	Organization 172 207	Госкомпании почт и телекоммуникаций
+N1	Reference T1 wiki:3704300	Libyana
+N2	Reference T2 wiki:3150671	Государственная компания почт и телекоммуникаций (Ливия)
+A1	IsLink T2

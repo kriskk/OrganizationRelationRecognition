@@ -1,0 +1,6 @@
+T1	Organization 0 7	OpenDNS
+T2	Organization 211 220	Phishtank
+N1	Reference T1 wiki:1601966	OpenDNS
+N2	Reference T2 wiki:615623	Phishtank
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

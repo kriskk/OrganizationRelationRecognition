@@ -1,0 +1,6 @@
+T1	Organization 0 16	Vantage Controls
+T2	Organization 266 273	Legrand
+N1	Reference T1 wiki:2540092	Vantage Controls
+N2	Reference T2 wiki:1917030	Legrand
+A1	IsLink T2
+A2	TypeRel T2 Holder

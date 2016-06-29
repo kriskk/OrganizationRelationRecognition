@@ -1,0 +1,6 @@
+T1	Organization 0 10	Itala Film
+T2	Organization 239 243	Пате
+N1	Reference T1 wiki:1049429	Itala Film
+N2	Reference T2 wiki:1000945	Pathé
+A1	IsLink T2
+A2	TypeRel T2 Personnel

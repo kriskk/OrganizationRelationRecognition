@@ -1,0 +1,14 @@
+T1	Organization 0 5	ANTEL
+T2	Organization 175 184	Microsoft
+T3	Organization 186 192	Novell
+T4	Organization 195 203	Symantec
+N1	Reference T1 wiki:3750536	ANTEL
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:21831	Novell
+N4	Reference T4 wiki:157841	Symantec
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Other
+A5	TypeRel T3 Other
+A6	TypeRel T4 Other

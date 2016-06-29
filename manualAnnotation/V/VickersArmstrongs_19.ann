@@ -1,0 +1,22 @@
+T1	Organization 0 18	Vickers-Armstrongs
+T2	Organization 175 203	British Aircraft Corporation
+T3	Organization 236 249	British Steel
+T4	Organization 373 388	Vickers Limited
+T5	Organization 390 409	Armstrong Whitworth
+T6	Organization 493 513	John Brown & Company
+N1	Reference T1 wiki:983337	Vickers-Armstrongs
+N2	Reference T2 wiki:2456375	British Aircraft Corporation
+N3	Reference T3 wiki:983347	British Steel
+N4	Reference T4 wiki:4416613	Vickers Limited
+N5	Reference T5 wiki:1256860	Armstrong Whitworth
+N6	Reference T6 wiki:3610926	John Brown & Company
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder
+A7	TypeRel T3 Holder
+A8	TypeRel T4 Holder
+A9	TypeRel T5 Holder
+A10	TypeRel T6 Subsidiary

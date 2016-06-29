@@ -1,0 +1,6 @@
+T1	Organization 0 37	Луганский тепловозостроительный завод
+T2	Organization 216 229	 Лугцентрокуз
+N1	Reference T1 wiki:142473	Луганский тепловозостроительный завод
+N2	Reference T2 wiki:4494014	Лугцентрокуз (завод)
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

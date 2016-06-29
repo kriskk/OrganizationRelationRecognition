@@ -1,0 +1,6 @@
+T1	Organization 0 6	Gurtam
+T2	Organization 359 371	МТС Беларусь
+N1	Reference T1 wiki:3991749	Gurtam
+N2	Reference T2 wiki:748086	МТС Беларусь
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

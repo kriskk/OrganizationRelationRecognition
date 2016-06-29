@@ -1,0 +1,5 @@
+T1	Organization 0 17	Dark Horse Comics
+T2	Organization 50 64	Studio Proteus
+N1	Reference T1 wiki:868962	Dark Horse Comics
+N2	Reference T2 wiki:1306520	Studio Proteus
+A1	IsLink T2

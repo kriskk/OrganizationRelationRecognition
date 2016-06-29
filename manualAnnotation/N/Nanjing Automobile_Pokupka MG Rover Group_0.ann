@@ -1,0 +1,6 @@
+T1	Organization 0 18	Nanjing Automobile
+T2	Organization 184 198	MG Rover Group
+N1	Reference T1 wiki:4048040	Nanjing Automobile
+N2	Reference T2 wiki:1503578	MG Rover Group
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

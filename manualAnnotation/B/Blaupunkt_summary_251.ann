@@ -1,0 +1,5 @@
+T1	Organization 0 9	Blaupunkt
+T2	Organization 252 257	Bosch
+N1	Reference T1 wiki:1874839	Blaupunkt
+N2	Reference T2 wiki:166006	Bosch
+A1	IsLink T2

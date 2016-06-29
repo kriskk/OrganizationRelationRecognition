@@ -1,0 +1,5 @@
+T1	Organization 0 8	Wrangler
+T2	Organization 215 221	Levi’s
+N1	Reference T1 wiki:4401130	Wrangler
+N2	Reference T2 wiki:438212	Levi Strauss & Co.
+A1	IsLink T2

@@ -1,0 +1,10 @@
+T1	Organization 0 6	Medion
+T2	Organization 247 251	Aldi
+T3	Organization 312 320	Best Buy
+N1	Reference T1 wiki:166401	Medion
+N2	Reference T2 wiki:166756	Aldi
+N3	Reference T3 wiki:770538	Best Buy
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

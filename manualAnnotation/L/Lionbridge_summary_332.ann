@@ -1,0 +1,14 @@
+T1	Organization 0 10	Lionbridge
+T2	Organization 246 252	Google
+T3	Organization 254 263	Microsoft
+T4	Organization 266 274	Motorola
+N1	Reference T1 wiki:623361	Lionbridge
+N2	Reference T2 wiki:265	Google (компания)
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:134384	Motorola
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 14	Kramer Guitars
+T2	Organization 325 331	Шаллер
+N1	Reference T1 wiki:2774752	Kramer Guitars
+N2	Reference T2 wiki:2353739	Schaller Electronic GmbH
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

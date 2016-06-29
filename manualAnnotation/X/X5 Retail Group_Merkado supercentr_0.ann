@@ -1,0 +1,10 @@
+T1	Organization 0 15	X5 Retail Group
+T2	Organization 148 168	X5 Retail Group N.V.
+T3	Organization 331 345	ЗАО «Корзинка»
+N1	Reference T1 wiki:353293	X5 Retail Group
+N2	Reference T2 wiki:353293	X5 Retail Group N.V.
+N3	Reference T3 wiki:1272042	Корзинка (сеть магазинов)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+A4	TypeRel T3 Cooperator

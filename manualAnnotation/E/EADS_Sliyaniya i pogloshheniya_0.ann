@@ -1,0 +1,10 @@
+T1	Organization 0 4	EADS
+T2	Organization 142 152	Eurocopter
+T3	Organization 331 338	Astrium
+N1	Reference T1 wiki:39833	EADS
+N2	Reference T2 wiki:1469492	Eurocopter
+N3	Reference T3 wiki:4352315	Astrium
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

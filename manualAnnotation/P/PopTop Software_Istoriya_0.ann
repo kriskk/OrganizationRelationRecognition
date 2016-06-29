@@ -1,0 +1,9 @@
+T1	Organization 0 15	PopTop Software
+T2	Organization 151 171	Take-Two Interactive
+T3	Organization 193 206	Firaxis Games
+N1	Reference T1 wiki:2787634	PopTop Software
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+N3	Reference T3 wiki:2726696	Firaxis Games
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Merge

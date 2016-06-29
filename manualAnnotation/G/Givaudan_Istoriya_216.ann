@@ -1,0 +1,5 @@
+T1	Organization 0 8	Givaudan
+T2	Organization 258 275	Hoffmann–La Roche
+N1	Reference T1 wiki:2399288	Givaudan
+N2	Reference T2 wiki:1761800	Hoffmann–La Roche
+A1	TypeRel T2 Holder

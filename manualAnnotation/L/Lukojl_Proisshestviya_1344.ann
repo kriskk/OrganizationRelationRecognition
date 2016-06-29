@@ -1,0 +1,5 @@
+T1	Organization 0 6	Лукойл
+T2	Organization 192 200	Башнефть
+N1	Reference T1 wiki:59354	Лукойл
+N2	Reference T2 wiki:180383	Башнефть
+A1	TypeRel T2 Cooperator

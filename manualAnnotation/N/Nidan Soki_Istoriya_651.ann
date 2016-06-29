@@ -1,0 +1,6 @@
+T1	Organization 0 10	Нидан Соки
+T2	Organization 241 248	PepsiCo
+N1	Reference T1 wiki:1740175	Нидан Соки
+N2	Reference T2 wiki:606214	PepsiCo
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 7	Gaumont
+T2	Organization 195 214	Metro-Goldwyn-Mayer
+N1	Reference T1 wiki:707513	Gaumont
+N2	Reference T2 wiki:208697	Metro-Goldwyn-Mayer
+A1	IsLink T2
+A2	TypeRel T2 Merge

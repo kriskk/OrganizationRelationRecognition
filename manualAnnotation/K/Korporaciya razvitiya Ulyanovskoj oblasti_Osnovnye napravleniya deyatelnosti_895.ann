@@ -1,0 +1,21 @@
+T1	Organization 0 39	Корпорация развития Ульяновской области
+T2	Organization 340 349	SABMiller
+T3	Organization 372 376	Mars
+T4	Organization 439 445	Henkel
+T5	Organization 497 507	McDonald’s
+T6	Organization 982 986	Mars
+N1	Reference T1 wiki:3189671	Корпорация развития Ульяновской области
+N2	Reference T2 wiki:181056	SABMiller
+N3	Reference T3 wiki:172056	Mars
+N4	Reference T4 wiki:166015	Henkel
+N5	Reference T5 wiki:3425	McDonald’s
+N6	Reference T6 wiki:172056	Mars
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T6 Cooperator
+A6	TypeRel T5 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T2 Cooperator

@@ -1,0 +1,11 @@
+T1	Organization 0 22	Blizzard Entertainment
+T2	Organization 223 230	Vivendi
+T3	Organization 287 297	Vivendi SA
+T4	Organization 429 443	Blizzard North
+N1	Reference T1 wiki:202669	Blizzard Entertainment
+N2	Reference T2 wiki:1695856	Vivendi
+N3	Reference T3 wiki:1695856	Vivendi SA
+N4	Reference T4 wiki:1704379	Blizzard North
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

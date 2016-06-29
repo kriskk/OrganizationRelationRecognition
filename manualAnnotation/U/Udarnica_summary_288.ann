@@ -1,0 +1,8 @@
+T1	Organization 0 8	Ударница
+T2	Organization 249 253	Mars
+T3	Organization 256 274	Perfetti Van Melle
+N1	Reference T1 wiki:1716482	Ударница
+N2	Reference T2 wiki:172056	Mars
+N3	Reference T3 wiki:1085326	Perfetti Van Melle
+A1	IsLink T2
+A2	IsLink T3

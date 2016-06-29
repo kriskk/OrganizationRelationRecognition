@@ -1,0 +1,8 @@
+T1	Organization 0 17	Calvin Klein Inc.
+T2	Organization 59 72	Dolce&Gabbana
+T3	Organization 75 82	Lacoste
+N1	Reference T1 wiki:774129	Calvin Klein Inc.
+N2	Reference T2 wiki:774074	Dolce&Gabbana
+N3	Reference T3 wiki:774234	Lacoste
+A1	IsLink T2
+A2	IsLink T3

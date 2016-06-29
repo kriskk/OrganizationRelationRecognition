@@ -1,0 +1,6 @@
+T1	Organization 0 13	Ubisoft Tiwak
+T2	Organization 174 181	Ubisoft
+N1	Reference T1 wiki:2428143	Ubisoft Tiwak
+N2	Reference T2 wiki:650139	Ubisoft
+A1	IsLink T2
+A2	TypeRel T2 Holder

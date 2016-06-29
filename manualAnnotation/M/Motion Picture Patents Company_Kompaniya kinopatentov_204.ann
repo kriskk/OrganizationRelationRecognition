@@ -1,0 +1,21 @@
+T1	Organization 0 30	Motion Picture Patents Company
+T2	Organization 277 283	Эдисон
+T3	Organization 287 295	Байограф
+T4	Organization 299 308	Вайтограф
+T5	Organization 321 328	Эссеней
+T6	Organization 365 369	Пате
+N1	Reference T1 wiki:1016531	Motion Picture Patents Company
+N2	Reference T2 wiki:1024926	Эдисон (киностудия)
+N3	Reference T3 wiki:983345	Байограф
+N4	Reference T4 wiki:1016619	Вайтограф
+N5	Reference T5 wiki:1279328	Эссеней
+N6	Reference T6 wiki:1000945	Pathé
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary
+A9	TypeRel T6 Subsidiary

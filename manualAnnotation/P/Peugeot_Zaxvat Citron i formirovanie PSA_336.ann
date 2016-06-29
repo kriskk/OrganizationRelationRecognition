@@ -1,0 +1,12 @@
+T1	Organization 0 7	Peugeot
+T2	Organization 309 312	PSA
+T3	Organization 429 436	Citroën
+T4	Organization 547 555	Maserati
+N1	Reference T1 wiki:1650729	Peugeot
+N2	Reference T2 wiki:226616	PSA Peugeot Citroën
+N3	Reference T3 wiki:1617910	Citroën
+N4	Reference T4 wiki:453192	Maserati
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder

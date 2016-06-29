@@ -1,0 +1,8 @@
+T1	Organization 0 3	OEZ
+T2	Organization 98 108	Škoda Auto
+T3	Organization 136 141	BOSCH
+N1	Reference T1 wiki:4023791	OEZ
+N2	Reference T2 wiki:41273	Škoda Auto
+N3	Reference T3 wiki:166006	BOSCH
+A1	IsLink T2
+A2	IsLink T3

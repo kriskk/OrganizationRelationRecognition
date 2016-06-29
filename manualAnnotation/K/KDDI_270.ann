@@ -1,0 +1,14 @@
+T1	Organization 0 4	KDDI
+T2	Organization 164 171	Kyocera
+T3	Organization 181 187	Toyota
+T4	Organization 197 202	TEPCO
+N1	Reference T1 wiki:960859	KDDI
+N2	Reference T2 wiki:577336	Kyocera
+N3	Reference T3 wiki:42689	Toyota
+N4	Reference T4 wiki:1984193	Tokyo Electric Power Company
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

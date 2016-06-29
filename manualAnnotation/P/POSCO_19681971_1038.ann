@@ -1,0 +1,5 @@
+T1	Organization 0 5	POSCO
+T2	Organization 224 236	Nippon Steel
+N1	Reference T1 wiki:2717623	POSCO
+N2	Reference T2 wiki:1686542	Nippon Steel
+A1	TypeRel T2 Cooperator

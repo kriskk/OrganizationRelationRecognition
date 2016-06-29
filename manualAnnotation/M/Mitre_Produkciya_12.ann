@@ -1,0 +1,10 @@
+T1	Organization 0 5	Mitre
+T2	Organization 298 302	Nike
+T3	Organization 305 311	Adidas
+N1	Reference T1 wiki:3122817	Mitre
+N2	Reference T2 wiki:277297	Nike
+N3	Reference T3 wiki:243642	Adidas
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

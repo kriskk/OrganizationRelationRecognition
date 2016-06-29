@@ -1,0 +1,5 @@
+T1	Organization 0 3	FON
+T2	Organization 86 93	Комстар
+N1	Reference T1 wiki:1493363	FON
+N2	Reference T2 wiki:150442	Комстар
+A1	IsLink T2

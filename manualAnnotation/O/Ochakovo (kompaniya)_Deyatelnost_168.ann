@@ -1,0 +1,6 @@
+T1	Organization 0 18	Очаково (компания)
+T2	Organization 213 217	Дека
+N1	Reference T1 wiki:1013770	Очаково (компания)
+N2	Reference T2 wiki:3695849	Дека (пивоваренная компания)
+A1	IsLink T2
+A2	TypeRel T2 Competitor

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Simon & Schuster
+T2	Organization 246 252	Viacom
+N1	Reference T1 wiki:1794381	Simon & Schuster
+N2	Reference T2 wiki:399829	Viacom
+A1	IsLink T2

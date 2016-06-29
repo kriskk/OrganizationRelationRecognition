@@ -1,0 +1,5 @@
+T1	Organization 0 4	Korg
+T2	Organization 259 265	Yamaha
+N1	Reference T1 wiki:2884601	Korg
+N2	Reference T2 wiki:696518	Yamaha
+A1	TypeRel T2 Holder

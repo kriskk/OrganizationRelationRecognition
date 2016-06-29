@@ -1,0 +1,8 @@
+T1	Organization 0 29	Digital Equipment Corporation
+T2	Organization 136 142	Compaq
+T3	Organization 172 178	Compaq
+N1	Reference T1 wiki:176483	Digital Equipment Corporation
+N2	Reference T2 wiki:343420	Compaq
+N3	Reference T3 wiki:343420	Compaq
+A1	IsLink T2
+A2	IsLink T3

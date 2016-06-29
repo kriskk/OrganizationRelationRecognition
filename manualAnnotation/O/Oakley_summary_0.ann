@@ -1,0 +1,6 @@
+T1	Organization 0 6	Oakley
+T2	Organization 88 97	Luxottica
+N1	Reference T1 wiki:421676	Oakley
+N2	Reference T2 wiki:2883102	Luxottica
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 16	Ленгипронефтехим
+T2	Organization 246 259	Мозырском НПЗ
+N1	Reference T1 wiki:3480451	Ленгипронефтехим
+N2	Reference T2 wiki:1142963	Мозырский нефтеперерабатывающий завод
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

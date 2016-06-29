@@ -1,0 +1,6 @@
+T1	Organization 0 10	Maybelline
+T2	Organization 218 225	L’Oreal
+N1	Reference T1 wiki:1017189	Maybelline
+N2	Reference T2 wiki:164733	L’Oreal
+A1	IsLink T2
+A2	TypeRel T2 Holder

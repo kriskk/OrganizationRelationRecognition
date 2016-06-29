@@ -1,0 +1,9 @@
+T1	Organization 0 8	Интеррос
+T2	Organization 239 243	ОПИН
+T3	Organization 777 789	Полюс Золото
+N1	Reference T1 wiki:147366	Интеррос
+N2	Reference T2 wiki:2164340	Открытые инвестиции
+N3	Reference T3 wiki:160950	Полюс Золото
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary

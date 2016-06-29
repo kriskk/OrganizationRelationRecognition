@@ -1,0 +1,11 @@
+T1	Organization 0 8	Spectrol
+T2	Organization 245 252	Porsche
+T3	Organization 333 361	Заволжского моторного завода
+T4	Organization 372 391	Ярославского завода
+N1	Reference T1 wiki:4121264	Spectrol
+N2	Reference T2 wiki:403194	Porsche
+N3	Reference T3 wiki:1006237	Заволжский моторный завод
+N4	Reference T4 wiki:916530	Ярославский моторный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

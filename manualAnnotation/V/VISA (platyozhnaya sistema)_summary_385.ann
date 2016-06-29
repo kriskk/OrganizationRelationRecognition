@@ -1,0 +1,14 @@
+T1	Organization 0 24	VISA (платёжная система)
+T2	Organization 347 357	MasterCard
+T3	Organization 392 408	American Express
+T4	Organization 520 534	China UnionPay
+N1	Reference T1 wiki:36386	VISA (платёжная система)
+N2	Reference T2 wiki:36409	MasterCard
+N3	Reference T3 wiki:365626	American Express
+N4	Reference T4 wiki:4155557	China UnionPay
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor

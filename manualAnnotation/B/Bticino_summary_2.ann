@@ -1,0 +1,5 @@
+T1	Organization 0 7	Bticino
+T2	Organization 246 253	Legrand
+N1	Reference T1 wiki:2453022	Bticino
+N2	Reference T2 wiki:1917030	Legrand
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Атоммаш
+T2	Organization 367 386	ОАО «Атомэнергомаш»
+N1	Reference T1 wiki:864073	Атоммаш
+N2	Reference T2 wiki:2868760	Атомэнергомаш
+A1	IsLink T2

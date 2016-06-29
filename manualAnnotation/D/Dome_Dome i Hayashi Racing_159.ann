@@ -1,0 +1,11 @@
+T1	Organization 0 4	Dome
+T2	Organization 239 245	Nissan
+T3	Organization 652 658	Toyota
+T4	Organization 967 972	Honda
+N1	Reference T1 wiki:3124129	Dome
+N2	Reference T2 wiki:159586	Nissan
+N3	Reference T3 wiki:42689	Toyota
+N4	Reference T4 wiki:121050	Honda
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

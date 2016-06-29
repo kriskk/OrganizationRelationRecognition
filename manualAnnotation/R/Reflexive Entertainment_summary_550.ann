@@ -1,0 +1,6 @@
+T1	Organization 0 23	Reflexive Entertainment
+T2	Organization 195 205	Amazon.com
+N1	Reference T1 wiki:2364594	Reflexive Entertainment
+N2	Reference T2 wiki:103623	Amazon.com
+A1	IsLink T2
+A2	TypeRel T2 Holder

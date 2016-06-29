@@ -1,0 +1,10 @@
+T1	Organization 0 13	Hyundai Motor
+T2	Organization 244 254	Kia Motors
+T3	Organization 311 326	DaimlerChrysler
+N1	Reference T1 wiki:176625	Hyundai Motor
+N2	Reference T2 wiki:215264	Kia Motors
+N3	Reference T3 wiki:39716	DaimlerChrysler
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Cooperator

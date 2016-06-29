@@ -1,0 +1,8 @@
+T1	Organization 0 18	Black Isle Studios
+T2	Organization 298 305	BioWare
+T3	Organization 523 546	Reflexive Entertainment
+N1	Reference T1 wiki:85409	Black Isle Studios
+N2	Reference T2 wiki:546996	BioWare
+N3	Reference T3 wiki:2364594	Reflexive Entertainment
+A1	IsLink T2
+A2	IsLink T3

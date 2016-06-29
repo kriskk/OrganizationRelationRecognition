@@ -1,0 +1,12 @@
+T1	Organization 0 7	Коданся
+T2	Organization 192 204	King Records
+T3	Organization 307 330	The Walt Disney Company
+T4	Organization 733 743	Shogakukan
+N1	Reference T1 wiki:200272	Коданся
+N2	Reference T2 wiki:2307207	King Records
+N3	Reference T3 wiki:319365	The Walt Disney Company
+N4	Reference T4 wiki:205001	Shogakukan
+A1	IsLink T2
+A3	IsLink T4
+A2	TypeRel T3 Cooperator
+A4	TypeRel T4 Competitor

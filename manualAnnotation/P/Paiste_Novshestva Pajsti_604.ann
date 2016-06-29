@@ -1,0 +1,9 @@
+T1	Organization 0 6	Paiste
+T2	Organization 237 242	Майнл
+T3	Organization 313 319	Сэбиан
+N1	Reference T1 wiki:3038691	Paiste
+N2	Reference T2 wiki:3039711	Meinl
+N3	Reference T3 wiki:3038569	Sabian
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

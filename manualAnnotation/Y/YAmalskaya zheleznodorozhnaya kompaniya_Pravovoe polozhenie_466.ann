@@ -1,0 +1,6 @@
+T1	Organization 0 34	Ямальская железнодорожная компания
+T2	Organization 286 295	ОАО «РЖД»
+N1	Reference T1 wiki:509558	Ямальская железнодорожная компания
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

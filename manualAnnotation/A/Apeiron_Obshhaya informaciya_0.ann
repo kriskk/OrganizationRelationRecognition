@@ -1,0 +1,5 @@
+T1	Organization 0 7	Apeiron
+T2	Organization 156 158	1С
+N1	Reference T1 wiki:660678	Apeiron
+N2	Reference T2 wiki:34936	1С
+A1	IsLink T2

@@ -1,0 +1,9 @@
+T1	Organization 0 9	Гипрошахт
+T2	Organization 211 261	Товарищества нефтяного производства братьев Нобель
+T3	Organization 704 754	Товарищества нефтяного производства братьев Нобель
+N1	Reference T1 wiki:4261226	Гипрошахт
+N2	Reference T2 wiki:1295467	Товарищество нефтяного производства братьев Нобель
+N3	Reference T3 wiki:1295467	Товарищество нефтяного производства братьев Нобель
+A2	IsLink T3
+A1	TypeRel T2 Other
+A3	TypeRel T3 Other

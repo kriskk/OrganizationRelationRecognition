@@ -1,0 +1,5 @@
+T1	Organization 0 5	Corus
+T2	Organization 182 197	Уральская Сталь
+N1	Reference T1 wiki:172463	Corus
+N2	Reference T2 wiki:3596568	Уральская Сталь
+A1	IsLink T2

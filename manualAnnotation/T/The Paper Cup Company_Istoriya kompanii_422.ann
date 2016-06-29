@@ -1,0 +1,11 @@
+T1	Organization 0 21	The Paper Cup Company
+T2	Organization 366 369	BMW
+T3	Organization 371 381	Land Rover
+T4	Organization 383 389	Nestlé
+N1	Reference T1 wiki:3815833	The Paper Cup Company
+N2	Reference T2 wiki:40368	BMW
+N3	Reference T3 wiki:683379	Land Rover
+N4	Reference T4 wiki:121355	Nestlé
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

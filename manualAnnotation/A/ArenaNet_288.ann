@@ -1,0 +1,5 @@
+T1	Organization 0 8	ArenaNet
+T2	Organization 175 181	NCsoft
+N1	Reference T1 wiki:3970413	ArenaNet
+N2	Reference T2 wiki:707386	NCsoft
+A1	IsLink T2

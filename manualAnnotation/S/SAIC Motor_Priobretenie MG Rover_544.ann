@@ -1,0 +1,9 @@
+T1	Organization 0 10	SAIC Motor
+T2	Organization 241 250	BMW Group
+T3	Organization 283 287	Ford
+N1	Reference T1 wiki:377731	SAIC Motor
+N2	Reference T2 wiki:40368	BMW
+N3	Reference T3 wiki:153236	Ford
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

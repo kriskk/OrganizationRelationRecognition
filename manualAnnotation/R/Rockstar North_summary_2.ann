@@ -1,0 +1,9 @@
+T1	Organization 0 14	Rockstar North
+T2	Organization 252 266	Rockstar Games
+T3	Organization 318 338	Take-Two Interactive
+N1	Reference T1 wiki:662662	Rockstar North
+N2	Reference T2 wiki:650156	Rockstar Games
+N3	Reference T3 wiki:2783863	Take-Two Interactive
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

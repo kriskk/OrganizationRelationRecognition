@@ -1,0 +1,11 @@
+T1	Organization 0 17	Chinon Industries
+T2	Organization 215 222	Olympus
+T3	Organization 224 229	Ricoh
+T4	Organization 232 238	Mamiya
+N1	Reference T1 wiki:1907596	Chinon Industries
+N2	Reference T2 wiki:703489	Olympus
+N3	Reference T3 wiki:847182	Ricoh
+N4	Reference T4 wiki:1846663	Mamiya
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

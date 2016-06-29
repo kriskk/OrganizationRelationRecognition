@@ -1,0 +1,5 @@
+T1	Organization 0 15	Acorn Computers
+T2	Organization 257 271	Apple Computer
+N1	Reference T1 wiki:219806	Acorn Computers
+N2	Reference T2 wiki:39726	Apple Computer
+A1	IsLink T2

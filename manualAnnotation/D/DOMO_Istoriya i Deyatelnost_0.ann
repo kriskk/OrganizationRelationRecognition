@@ -1,0 +1,5 @@
+T1	Organization 0 4	DOMO
+T2	Organization 168 205	BSH Bosch und Siemens Hausgeräte GmbH
+N1	Reference T1 wiki:1490839	DOMO
+N2	Reference T2 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
+A1	IsLink T2

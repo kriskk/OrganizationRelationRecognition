@@ -1,0 +1,17 @@
+T1	Organization 0 26	Луцкий автомобильный завод
+T2	Organization 218 221	ВАЗ
+T3	Organization 224 227	УАЗ
+T4	Organization 517 520	ВАЗ
+T5	Organization 523 526	УАЗ
+N1	Reference T1 wiki:546119	Луцкий автомобильный завод
+N2	Reference T2 wiki:139276	ВАЗ
+N3	Reference T3 wiki:84571	УАЗ
+N4	Reference T4 wiki:139276	ВАЗ
+N5	Reference T5 wiki:84571	УАЗ
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator
+A7	TypeRel T5 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 15	Wicked Pictures
+T2	Organization 230 236	Рейтер
+N1	Reference T1 wiki:3327029	Wicked Pictures
+N2	Reference T2 wiki:183883	Рейтер
+A1	IsLink T2
+A2	TypeRel T2 Other

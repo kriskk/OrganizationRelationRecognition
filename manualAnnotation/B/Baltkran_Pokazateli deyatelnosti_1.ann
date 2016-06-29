@@ -1,0 +1,5 @@
+T1	Organization 0 8	Балткран
+T2	Organization 219 222	РЖД
+N1	Reference T1 wiki:3013406	Балткран
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2

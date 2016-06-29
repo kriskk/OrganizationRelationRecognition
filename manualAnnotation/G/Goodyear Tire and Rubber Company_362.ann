@@ -1,0 +1,10 @@
+T1	Organization 0 32	Goodyear Tire and Rubber Company
+T2	Organization 229 241	Dunlop Tyres
+T3	Organization 301 306	Fulda
+N1	Reference T1 wiki:196772	Goodyear Tire and Rubber Company
+N2	Reference T2 wiki:1156827	Dunlop Tyres
+N3	Reference T3 wiki:2089399	Fulda Reifen
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

@@ -1,0 +1,6 @@
+T1	Organization 0 5	Valve
+T2	Organization 127 136	Microsoft
+N1	Reference T1 wiki:364585	Valve
+N2	Reference T2 wiki:11987	Microsoft
+A1	IsLink T2
+A2	TypeRel T2 Personnel

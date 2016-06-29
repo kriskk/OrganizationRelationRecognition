@@ -1,0 +1,5 @@
+T1	Organization 0 10	Группа ГАЗ
+T2	Organization 296 310	General Motors
+N1	Reference T1 wiki:21473	Группа ГАЗ
+N2	Reference T2 wiki:17438	General Motors
+A1	TypeRel T2 Cooperator

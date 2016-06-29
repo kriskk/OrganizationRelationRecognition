@@ -1,0 +1,9 @@
+T1	Organization 0 57	Казанское моторостроительное производственное объединение
+T2	Organization 373 378	НефАЗ
+T3	Organization 461 466	Voith
+N1	Reference T1 wiki:3245490	Казанское моторостроительное производственное объединение
+N2	Reference T2 wiki:404943	НефАЗ
+N3	Reference T3 wiki:1339842	Voith
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 14	Salomon Sports
+T2	Organization 139 150	Amer Sports
+N1	Reference T1 wiki:398645	Salomon Sports
+N2	Reference T2 wiki:398920	Amer Sports
+A1	IsLink T2

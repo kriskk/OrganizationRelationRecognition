@@ -1,0 +1,9 @@
+T1	Organization 0 12	ITunes Store
+T2	Organization 334 346	ITunes Store
+T3	Organization 485 490	Apple
+N1	Reference T1 wiki:63804	ITunes Store
+N2	Reference T2 wiki:63804	ITunes Store
+N3	Reference T3 wiki:39726	Apple
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

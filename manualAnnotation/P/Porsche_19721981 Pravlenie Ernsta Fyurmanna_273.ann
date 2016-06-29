@@ -1,0 +1,8 @@
+T1	Organization 0 7	Porsche
+T2	Organization 303 317	Porsche Design
+T3	Organization 434 438	Audi
+N1	Reference T1 wiki:403194	Porsche
+N2	Reference T2 wiki:2045950	Porsche Design
+N3	Reference T3 wiki:41025	Audi
+A1	IsLink T2
+A2	TypeRel T3 Personnel

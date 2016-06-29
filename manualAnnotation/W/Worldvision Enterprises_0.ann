@@ -1,0 +1,6 @@
+T1	Organization 0 23	Worldvision Enterprises
+T2	Organization 155 164	Paramount
+N1	Reference T1 wiki:1641259	Worldvision Enterprises
+N2	Reference T2 wiki:398699	Paramount
+A1	IsLink T2
+A2	TypeRel T2 Merge

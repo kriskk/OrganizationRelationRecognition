@@ -1,0 +1,5 @@
+T1	Organization 0 7	Хартрон
+T2	Organization 40 47	Вестрон
+N1	Reference T1 wiki:745978	Хартрон
+N2	Reference T2 wiki:1928507	Вестрон (предприятие)
+A1	IsLink T2

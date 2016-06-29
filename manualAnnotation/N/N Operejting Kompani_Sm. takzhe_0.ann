@@ -1,0 +1,8 @@
+T1	Organization 0 20	Н Оперейтинг Компани
+T2	Organization 52 63	КазМунайГаз
+T3	Organization 66 79	КонокоФиллипс
+N1	Reference T1 wiki:3248643	Н Оперейтинг Компани
+N2	Reference T2 wiki:294591	КазМунайГаз
+N3	Reference T3 wiki:171985	ConocoPhillips
+A1	IsLink T2
+A2	IsLink T3

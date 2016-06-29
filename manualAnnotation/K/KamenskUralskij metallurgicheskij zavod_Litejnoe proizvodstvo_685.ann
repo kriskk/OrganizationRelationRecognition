@@ -1,0 +1,5 @@
+T1	Organization 0 40	Каменск-Уральский металлургический завод
+T2	Organization 277 281	ASTM
+N1	Reference T1 wiki:1635181	Каменск-Уральский металлургический завод
+N2	Reference T2 wiki:245191	ASTM
+A1	TypeRel T2 Other

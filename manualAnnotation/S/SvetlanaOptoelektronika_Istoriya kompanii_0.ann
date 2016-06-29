@@ -1,0 +1,8 @@
+T1	Organization 0 24	Светлана-Оптоэлектроника
+T2	Organization 152 162	«Светлана»
+T3	Organization 412 426	ОАО «Светлана»
+N1	Reference T1 wiki:3662577	Светлана-Оптоэлектроника
+N2	Reference T2 wiki:768265	Светлана (компания)
+N3	Reference T3 wiki:768265	Светлана (компания)
+A1	IsLink T2
+A2	IsLink T3

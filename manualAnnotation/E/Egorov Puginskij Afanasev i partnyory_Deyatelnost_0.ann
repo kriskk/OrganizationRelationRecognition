@@ -1,0 +1,18 @@
+T1	Organization 0 39	Егоров, Пугинский, Афанасьев и партнёры
+T2	Organization 100 106	Ависма
+T3	Organization 545 554	Илим Палп
+T4	Organization 567 582	Котласского ЦБК
+T5	Organization 796 813	Базовым элементом
+T6	Organization 136 142	Ависма
+N1	Reference T1 wiki:2882521	Егоров, Пугинский, Афанасьев и партнёры
+N2	Reference T2 wiki:140530	ВСМПО-АВИСМА
+N3	Reference T6 wiki:140530	ВСМПО-АВИСМА
+N4	Reference T3 wiki:128667	Илим (компания)
+N5	Reference T4 wiki:128668	Котласский целлюлозно-бумажный комбинат
+N6	Reference T5 wiki:156379	Базовый элемент
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T6 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 11	Kraft Foods
+T2	Organization 390 396	Danone
+T3	Organization 797 804	Cadbury
+N1	Reference T1 wiki:243189	Kraft Foods
+N2	Reference T2 wiki:279435	Danone
+N3	Reference T3 wiki:192535	Cadbury
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Subsidiary

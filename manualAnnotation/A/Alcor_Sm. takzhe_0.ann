@@ -1,0 +1,5 @@
+T1	Organization 0 5	Alcor
+T2	Organization 50 57	КриоРус
+N1	Reference T1 wiki:3479267	Alcor
+N2	Reference T2 wiki:295876	КриоРус
+A1	IsLink T2

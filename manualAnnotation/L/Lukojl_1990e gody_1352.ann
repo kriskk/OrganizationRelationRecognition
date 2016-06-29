@@ -1,0 +1,10 @@
+T1	Organization 0 6	Лукойл
+T2	Organization 223 239	Саратоворгсинтез
+T3	Organization 381 388	КомиТЭК
+N1	Reference T1 wiki:59354	Лукойл
+N2	Reference T2 wiki:1961512	Саратоворгсинтез
+N3	Reference T3 wiki:980737	КомиТЭК
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

@@ -1,0 +1,10 @@
+T1	Organization 0 19	Открытые Технологии
+T2	Organization 243 252	ВымпелКом
+T3	Organization 387 402	X5 Retail Group
+N1	Reference T1 wiki:3829566	Открытые Технологии
+N2	Reference T2 wiki:70736	Вымпел-Коммуникации
+N3	Reference T3 wiki:353293	X5 Retail Group
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

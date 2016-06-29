@@ -1,0 +1,16 @@
+Aérospatiale
+@Продукция
+@Самолёты
+1555,12,12
+
+ ATR 42 (в составе ATR)
+	 ATR 72 (в составе ATR)
+	 Avion de Transport Supersonique Futur (не построен)
+	 CM.170 Magister
+	 CM.175 Zephyr
+	 Конкорд (совместно с British Aircraft Corporation)
+	 SE 210 Caravelle
+	 SN 601 Corvette
+	 TB 30 Epsilon
+
+

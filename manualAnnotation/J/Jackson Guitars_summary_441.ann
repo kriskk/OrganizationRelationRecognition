@@ -1,0 +1,5 @@
+T1	Organization 0 15	Jackson Guitars
+T2	Organization 246 252	Fender
+N1	Reference T1 wiki:1128712	Jackson Guitars
+N2	Reference T2 wiki:387353	Fender
+A1	TypeRel T2 Holder

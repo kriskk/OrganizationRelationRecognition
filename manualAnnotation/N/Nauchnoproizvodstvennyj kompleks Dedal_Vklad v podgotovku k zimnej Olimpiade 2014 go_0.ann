@@ -1,0 +1,6 @@
+T1	Organization 0 40	Научно-производственный комплекс «Дедал»
+T2	Organization 228 268	Государственной корпорацией «Олимпстрой»
+N1	Reference T1 wiki:1950505	Научно-производственный комплекс «Дедал»
+N2	Reference T2 wiki:864516	Олимпстрой
+A1	IsLink T2
+A2	TypeRel T2 Other

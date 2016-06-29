@@ -1,0 +1,8 @@
+T1	Organization 0 4	Kone
+T2	Organization 285 292	Toshiba
+T3	Organization 518 525	Toshiba
+N1	Reference T1 wiki:1840978	Kone
+N2	Reference T2 wiki:507269	Toshiba
+N3	Reference T3 wiki:507269	Toshiba
+A2	IsLink T3
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 37	Schwermaschinenbau S.M. Kirow Leipzig
+T2	Organization 120 126	TAKRAF
+N1	Reference T1 wiki:2494109	Schwermaschinenbau S.M. Kirow Leipzig
+N2	Reference T2 wiki:2494082	TAKRAF
+A1	IsLink T2

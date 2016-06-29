@@ -1,0 +1,33 @@
+T1	Organization 0 10	Mitsubishi
+T2	Organization 102 110	Мицубиси
+T3	Organization 179 194	Asahi Glass Co.
+T4	Organization 338 367	Mitsubishi Aluminum Co., Ltd.
+T5	Organization 759 781	Mitsubishi Corporation
+T6	Organization 831 858	Mitsubishi Estate Co., Ltd.
+T7	Organization 861 902	Mitsubishi Fuso Truck and Bus Corporation
+T8	Organization 945 978	Mitsubishi Heavy Industries, Ltd.
+T9	Organization 1084 1101	Mitsubishi Motors
+N1	Reference T1 wiki:182989	Mitsubishi
+N2	Reference T2 wiki:182989	Мицубиси
+N3	Reference T3 wiki:429828	Asahi Glass Co.
+N4	Reference T4 wiki:1788766	Mitsubishi Aluminum
+N5	Reference T5 wiki:423258	Mitsubishi Corporation
+N6	Reference T6 wiki:3115297	Mitsubishi Estate Co., Ltd.
+N7	Reference T7 wiki:266596	Mitsubishi Fuso Truck and Bus Corporation
+N8	Reference T8 wiki:1877595	Mitsubishi Heavy Industries
+N9	Reference T9 wiki:423257	Mitsubishi Motors
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Alias
+A9	TypeRel T3 Subsidiary
+A10	TypeRel T4 Subsidiary
+A11	TypeRel T5 Subsidiary
+A12	TypeRel T6 Subsidiary
+A13	TypeRel T7 Subsidiary
+A14	TypeRel T8 Subsidiary
+A15	TypeRel T9 Subsidiary

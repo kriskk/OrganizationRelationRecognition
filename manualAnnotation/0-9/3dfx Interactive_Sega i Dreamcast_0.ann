@@ -1,0 +1,8 @@
+T1	Organization 0 16	3dfx Interactive
+T2	Organization 125 129	Sega
+T3	Organization 298 301	NEC
+N1	Reference T1 wiki:239320	3dfx Interactive
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:232844	NEC
+A1	IsLink T2
+A2	IsLink T3

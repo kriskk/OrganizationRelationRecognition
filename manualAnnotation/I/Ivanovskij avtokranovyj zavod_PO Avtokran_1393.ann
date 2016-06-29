@@ -1,0 +1,8 @@
+T1	Organization 0 29	Ивановский автокрановый завод
+T2	Organization 230 233	МАЗ
+N1	Reference T1 wiki:2586505	Ивановский автокрановый завод
+N2	Reference T2 wiki:33218	МАЗ
+A1	IsLink T2
+A3	TypeRel T2 Cooperator
+T4	Organization 241 244	МАЗ
+A4	TypeRel T4 Cooperator

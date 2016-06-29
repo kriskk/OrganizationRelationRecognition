@@ -1,0 +1,6 @@
+T1	Organization 0 17	Новосибирскэнерго
+T2	Organization 249 277	ОАО «Системный оператор ЕЭС»
+N1	Reference T1 wiki:349518	Новосибирскэнерго
+N2	Reference T2 wiki:1371111	Системный оператор Единой энергетической системы
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

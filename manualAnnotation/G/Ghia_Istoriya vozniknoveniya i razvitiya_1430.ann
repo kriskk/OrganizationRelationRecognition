@@ -1,0 +1,9 @@
+T1	Organization 0 4	Ghia
+T2	Organization 284 292	Chrysler
+T3	Organization 346 354	Plymouth
+N1	Reference T1 wiki:1563416	Ghia
+N2	Reference T2 wiki:223902	Chrysler
+N3	Reference T3 wiki:1283510	Plymouth
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

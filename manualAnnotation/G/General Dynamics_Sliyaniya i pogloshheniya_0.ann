@@ -1,0 +1,5 @@
+T1	Organization 0 16	General Dynamics
+T2	Organization 180 200	Gulfstream Aerospace
+N1	Reference T1 wiki:1015376	General Dynamics
+N2	Reference T2 wiki:650855	Gulfstream Aerospace
+A1	TypeRel T2 Subsidiary

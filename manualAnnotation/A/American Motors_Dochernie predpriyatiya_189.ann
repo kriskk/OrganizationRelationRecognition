@@ -1,0 +1,11 @@
+T1	Organization 0 15	American Motors
+T2	Organization 252 262	Electrolux
+T3	Organization 266 270	Jeep
+T4	Organization 321 335	Chrysler Group
+N1	Reference T1 wiki:3346012	American Motors
+N2	Reference T2 wiki:153686	Electrolux
+N3	Reference T3 wiki:41489	Jeep
+N4	Reference T4 wiki:223902	Chrysler Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

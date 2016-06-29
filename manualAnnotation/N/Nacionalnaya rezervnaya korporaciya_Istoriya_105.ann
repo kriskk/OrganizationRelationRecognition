@@ -1,0 +1,8 @@
+T1	Organization 0 33	Национальная резервная корпорация
+T2	Organization 266 270	Гута
+T3	Organization 394 408	Ильюшин финанс
+N1	Reference T1 wiki:1120720	Национальная резервная корпорация
+N2	Reference T2 wiki:309017	Гута (группа компаний)
+N3	Reference T3 wiki:741422	Ильюшин Финанс Ко
+A2	IsLink T3
+A1	TypeRel T2 Cooperator

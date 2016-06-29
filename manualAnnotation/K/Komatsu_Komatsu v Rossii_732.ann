@@ -1,0 +1,6 @@
+T1	Organization 0 7	Komatsu
+T2	Organization 225 250	завод Komatsu в Ярославле
+N1	Reference T1 wiki:744230	Komatsu
+N2	Reference T2 wiki:3637749	Komatsu Manufacturing Rus
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

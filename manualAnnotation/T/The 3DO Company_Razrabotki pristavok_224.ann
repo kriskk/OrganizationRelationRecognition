@@ -1,0 +1,8 @@
+T1	Organization 0 15	The 3DO Company
+T2	Organization 272 280	Nintendo
+T3	Organization 283 287	Sega
+N1	Reference T1 wiki:1475844	The 3DO Company
+N2	Reference T2 wiki:202486	Nintendo
+N3	Reference T3 wiki:92589	Sega
+A1	IsLink T2
+A2	IsLink T3

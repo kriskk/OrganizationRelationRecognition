@@ -1,0 +1,29 @@
+T1	Organization 0 9	ГорТехМаш
+T2	Organization 339 387	ООО «Уральский завод по ремонту тяжелой техники»
+T3	Organization 706 750	ООО «ОМЗ ‑ Горное Оборудование и Технологии»
+T4	Organization 752 768	ООО «ИЗ-КАРТЭКС»
+T5	Organization 974 985	АК «АЛРОСА»
+T6	Organization 988 997	ОАО «РЖД»
+T7	Organization 1355 1371	ООО «ИЗ-КАРТЭКС»
+T8	Organization 1373 1383	группа ОМЗ
+N1	Reference T1 wiki:2695380	ГорТехМаш
+N2	Reference T2 wiki:270860	Уральский завод тяжёлого машиностроения
+N3	Reference T3 wiki:149170	Объединённые машиностроительные заводы
+N4	Reference T4 wiki:601241	Ижорский завод
+N5	Reference T5 wiki:147338	АЛРОСА
+N6	Reference T6 wiki:106901	Российские железные дороги
+N7	Reference T7 wiki:601241	Ижорский завод
+N8	Reference T8 wiki:149170	Объединённые машиностроительные заводы
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A1	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator

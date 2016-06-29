@@ -1,0 +1,5 @@
+T1	Organization 0 4	ILOG
+T2	Organization 199 202	IBM
+N1	Reference T1 wiki:1172593	ILOG
+N2	Reference T2 wiki:11078	IBM
+A1	TypeRel T2 Holder

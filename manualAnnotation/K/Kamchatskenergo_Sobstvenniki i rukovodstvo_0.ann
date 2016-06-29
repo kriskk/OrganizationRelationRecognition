@@ -1,0 +1,5 @@
+T1	Organization 0 14	Камчатскэнерго
+T2	Organization 113 147	РАО Энергетические системы Востока
+N1	Reference T1 wiki:4168577	Камчатскэнерго
+N2	Reference T2 wiki:2671340	РАО Энергетические системы Востока
+A1	TypeRel T2 Holder

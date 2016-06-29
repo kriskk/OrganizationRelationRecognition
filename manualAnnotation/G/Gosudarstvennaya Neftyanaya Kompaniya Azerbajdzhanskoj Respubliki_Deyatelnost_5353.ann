@@ -1,0 +1,5 @@
+T1	Organization 0 60	Государственная Нефтяная Компания Азербайджанской Республики
+T2	Organization 373 412	Exxon Mobil Central Europe Holding GmbH
+N1	Reference T1 wiki:1290798	Государственная Нефтяная Компания Азербайджанской Республики
+N2	Reference T2 wiki:176152	ExxonMobil
+A1	TypeRel T2 Cooperator

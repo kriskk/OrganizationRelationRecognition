@@ -1,0 +1,10 @@
+T1	Organization 0 21	Ingenic Semiconductor
+T2	Organization 224 229	Ainol
+T3	Organization 245 250	Ainol
+N1	Reference T1 wiki:2414387	Ingenic Semiconductor
+N2	Reference T2 wiki:4114422	Ainol
+N3	Reference T3 wiki:4114422	Ainol
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

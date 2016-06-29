@@ -1,0 +1,14 @@
+T1	Organization 0 33	Инженерный центр энергетики Урала
+T2	Organization 234 246	Уралмашзавод
+T3	Organization 248 262	Уралвагонзавод
+T4	Organization 264 305	Нижнетагильский металлургический комбинат
+N1	Reference T1 wiki:2692040	Инженерный центр энергетики Урала
+N2	Reference T2 wiki:270860	Уралмашзавод
+N3	Reference T3 wiki:93093	Уралвагонзавод
+N4	Reference T4 wiki:154730	Нижнетагильский металлургический комбинат
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 7	Genotek
+T2	Organization 248 261	Алмаз Капитал
+N1	Reference T1 wiki:3762347	Genotek
+N2	Reference T2 wiki:1523571	Almaz Capital Partners
+A1	IsLink T2
+A2	TypeRel T2 Personnel

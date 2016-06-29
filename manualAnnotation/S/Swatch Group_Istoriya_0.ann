@@ -1,0 +1,8 @@
+T1	Organization 0 12	Swatch Group
+T2	Organization 60 65	Omega
+T3	Organization 68 74	Tissot
+N1	Reference T1 wiki:214233	Swatch Group
+N2	Reference T2 wiki:1047157	Omega (компания)
+N3	Reference T3 wiki:177171	Tissot
+A1	IsLink T2
+A2	IsLink T3

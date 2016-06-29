@@ -1,0 +1,5 @@
+T1	Organization 0 23	Звёздочка (предприятие)
+T2	Organization 53 80	Судоремонтный завод «Нерпа»
+N1	Reference T1 wiki:970918	Звёздочка (предприятие)
+N2	Reference T2 wiki:1751885	Нерпа (судоремонтный завод)
+A1	TypeRel T2 Subsidiary

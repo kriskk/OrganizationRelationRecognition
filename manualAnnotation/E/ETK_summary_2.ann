@@ -1,0 +1,10 @@
+T1	Organization 0 3	ЕТК
+T2	Organization 263 273	Ростелеком
+T3	Organization 359 366	Wellcom
+N1	Reference T1 wiki:355733	ЕТК
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:404283	Wellcom
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Alias

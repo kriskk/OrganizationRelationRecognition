@@ -1,0 +1,9 @@
+T1	Organization 0 25	GMC (автомобильная марка)
+T2	Organization 143 145	GM
+T3	Organization 164 173	Chevrolet
+N1	Reference T1 wiki:1811580	GMC (автомобильная марка)
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:17631	Chevrolet
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Competitor

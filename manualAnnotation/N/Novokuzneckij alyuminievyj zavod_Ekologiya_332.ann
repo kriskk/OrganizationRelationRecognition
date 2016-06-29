@@ -1,0 +1,5 @@
+T1	Organization 0 31	Новокузнецкий алюминиевый завод
+T2	Organization 249 254	Русал
+N1	Reference T1 wiki:571967	Новокузнецкий алюминиевый завод
+N2	Reference T2 wiki:598084	Русал
+A1	IsLink T2

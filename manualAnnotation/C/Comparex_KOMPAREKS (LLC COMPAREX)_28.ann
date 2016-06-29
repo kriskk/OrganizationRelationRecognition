@@ -1,0 +1,26 @@
+T1	Organization 0 8	Comparex
+T2	Organization 339 345	VMware
+T3	Organization 347 353	Citrix
+T4	Organization 355 361	Oracle
+T5	Organization 363 368	Adobe
+T6	Organization 370 378	Autodesk
+T7	Organization 384 387	IBM
+T8	Organization 389 397	Symantec
+T9	Organization 482 491	Microsoft
+N1	Reference T1 wiki:4353993	Comparex
+N2	Reference T2 wiki:205509	VMware
+N3	Reference T3 wiki:1903941	Citrix
+N4	Reference T4 wiki:129227	Oracle
+N5	Reference T5 wiki:42937	Adobe
+N6	Reference T6 wiki:699040	Autodesk
+N7	Reference T7 wiki:11078	IBM
+N8	Reference T8 wiki:157841	Symantec
+N9	Reference T9 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9

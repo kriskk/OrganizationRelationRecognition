@@ -1,0 +1,22 @@
+T1	Organization 0 14	Rockstar North
+T2	Organization 292 300	Nintendo
+T3	Organization 374 378	Sony
+T4	Organization 742 746	Rare
+T5	Organization 758 770	Midway Games
+T6	Organization 773 782	LucasArts
+T7	Organization 1345 1351	Midway
+N1	Reference T1 wiki:662662	Rockstar North
+N2	Reference T2 wiki:202486	Nintendo
+N3	Reference T3 wiki:73019	Sony
+N4	Reference T4 wiki:124471	Rare
+N5	Reference T5 wiki:2428144	Midway Games
+N6	Reference T6 wiki:367933	LucasArts
+N7	Reference T7 wiki:2428144	Midway
+A1	IsLink T2
+A2	IsLink T3
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A3	TypeRel T4 Cooperator
+A7	TypeRel T5 Cooperator
+A8	TypeRel T6 Cooperator

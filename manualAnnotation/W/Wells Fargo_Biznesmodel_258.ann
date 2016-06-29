@@ -1,0 +1,5 @@
+T1	Organization 0 11	Wells Fargo
+T2	Organization 216 225	Citigroup
+N1	Reference T1 wiki:786087	Wells Fargo
+N2	Reference T2 wiki:374508	Citigroup
+A1	IsLink T2

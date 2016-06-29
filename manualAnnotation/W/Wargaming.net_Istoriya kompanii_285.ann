@@ -1,0 +1,6 @@
+T1	Organization 0 13	Wargaming.net
+T2	Organization 254 265	Square Enix
+N1	Reference T1 wiki:1420577	Wargaming.net
+N2	Reference T2 wiki:288255	Square Enix
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

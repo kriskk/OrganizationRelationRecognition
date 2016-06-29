@@ -1,0 +1,5 @@
+T1	Organization 0 21	Завод имени Козицкого
+T2	Organization 184 200	Сименс и Гальске
+N1	Reference T1 wiki:1641557	Завод имени Козицкого
+N2	Reference T2 wiki:762874	Siemens & Halske AG
+A1	TypeRel T2 Alias

@@ -1,0 +1,5 @@
+T1	Organization 0 8	FastMail
+T2	Organization 244 258	Opera Software
+N1	Reference T1 wiki:2440210	FastMail
+N2	Reference T2 wiki:95896	Opera Software
+A1	IsLink T2

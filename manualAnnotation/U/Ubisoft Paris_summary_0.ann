@@ -1,0 +1,6 @@
+T1	Organization 0 13	Ubisoft Paris
+T2	Organization 139 146	Ubisoft
+N1	Reference T1 wiki:2525102	Ubisoft Paris
+N2	Reference T2 wiki:650139	Ubisoft
+A1	IsLink T2
+A2	TypeRel T2 Holder

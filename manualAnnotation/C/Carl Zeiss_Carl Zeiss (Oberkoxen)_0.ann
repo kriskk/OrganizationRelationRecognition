@@ -1,0 +1,11 @@
+T1	Organization 0 10	Carl Zeiss
+T2	Organization 204 214	Hasselblad
+T3	Organization 217 223	Rollei
+T4	Organization 461 465	Sony
+N1	Reference T1 wiki:1151084	Carl Zeiss
+N2	Reference T2 wiki:1204530	Hasselblad
+N3	Reference T3 wiki:1848265	Rollei
+N4	Reference T4 wiki:73019	Sony
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

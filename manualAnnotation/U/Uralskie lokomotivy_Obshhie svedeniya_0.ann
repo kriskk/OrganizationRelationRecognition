@@ -1,0 +1,13 @@
+T1	Organization 0 20	Уральские локомотивы
+T2	Organization 131 178	Уральский завод железнодорожного машиностроения
+T3	Organization 190 203	Группу Синара
+T4	Organization 235 249	Группой Синара
+N1	Reference T1 wiki:3209622	Уральские локомотивы
+N2	Reference T2 wiki:3209622	Уральский завод железнодорожного машиностроения
+N3	Reference T3 wiki:2398160	Группа Синара
+N4	Reference T4 wiki:2398160	Группа Синара
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T4 Holder
+A5	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 20	Holland America Line
+T2	Organization 109 135	Carnival Corporation & PLC
+N1	Reference T1 wiki:1379544	Holland America Line
+N2	Reference T2 wiki:1099139	Carnival Corporation & PLC
+A1	IsLink T2
+A2	TypeRel T2 Holder

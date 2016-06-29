@@ -1,0 +1,9 @@
+T1	Organization 0 15	Olympic Studios
+T2	Organization 210 222	Virgin Group
+T3	Organization 242 245	EMI
+N1	Reference T1 wiki:3904664	Olympic Studios
+N2	Reference T2 wiki:250912	Virgin Group
+N3	Reference T3 wiki:101046	EMI
+A1	IsLink T2
+A2	TypeRel T3 Holder
+A3	TypeRel T2 Holder

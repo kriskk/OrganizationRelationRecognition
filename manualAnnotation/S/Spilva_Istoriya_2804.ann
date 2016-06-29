@@ -1,0 +1,5 @@
+T1	Organization 0 6	Spilva
+T2	Organization 238 243	Orkla
+N1	Reference T1 wiki:3281702	Spilva
+N2	Reference T2 wiki:181081	Orkla
+A1	IsLink T2

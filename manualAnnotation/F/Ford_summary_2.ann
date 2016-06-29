@@ -1,0 +1,8 @@
+T1	Organization 0 4	Ford
+T2	Organization 305 307	GM
+T3	Organization 310 316	Toyota
+N1	Reference T1 wiki:153236	Ford
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:42689	Toyota
+A1	IsLink T2
+A2	IsLink T3

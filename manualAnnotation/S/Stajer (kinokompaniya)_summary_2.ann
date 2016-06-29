@@ -1,0 +1,5 @@
+T1	Organization 0 21	Стайер (кинокомпания)
+T2	Organization 331 345	Союзмультфильм
+N1	Reference T1 wiki:1848972	Стайер (кинокомпания)
+N2	Reference T2 wiki:137785	Союзмультфильм
+A1	IsLink T2

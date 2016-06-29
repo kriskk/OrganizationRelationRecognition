@@ -1,0 +1,6 @@
+T1	Organization 0 9	Outokumpu
+T2	Organization 189 196	Outotec
+N1	Reference T1 wiki:3457241	Outokumpu
+N2	Reference T2 wiki:3457251	Outotec
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

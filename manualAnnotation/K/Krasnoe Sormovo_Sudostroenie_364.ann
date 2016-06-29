@@ -1,0 +1,9 @@
+T1	Organization 0 15	Красное Сормово
+T2	Organization 267 294	Товарищество Братьев Нобель
+T3	Organization 646 673	Товарищества Братьев Нобель
+N1	Reference T1 wiki:302938	Красное Сормово
+N2	Reference T2 wiki:1295467	Бранобель
+N3	Reference T3 wiki:1295467	Бранобель
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 5	Евраз
+T2	Organization 248 291	Нижнетагильским металлургическим комбинатом
+N1	Reference T1 wiki:77382	Евраз
+N2	Reference T2 wiki:154730	НТМК
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 8	Unilever
+T2	Organization 415 421	Henkel
+N1	Reference T1 wiki:198503	Unilever
+N2	Reference T2 wiki:166015	Henkel
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

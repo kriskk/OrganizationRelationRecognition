@@ -1,0 +1,6 @@
+T1	Organization 0 5	Orkla
+T2	Organization 243 271	фабрики имени Н. К. Крупской
+N1	Reference T1 wiki:181081	Orkla
+N2	Reference T2 wiki:2889780	Фабрика им. Н. К. Крупской
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

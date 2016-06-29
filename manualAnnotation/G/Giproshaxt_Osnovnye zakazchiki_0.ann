@@ -1,0 +1,9 @@
+T1	Organization 0 9	Гипрошахт
+T2	Organization 61 70	En+ Group
+T3	Organization 78 120	Сибирская угольная энергетическая компания
+N1	Reference T1 wiki:4261226	Гипрошахт
+N2	Reference T2 wiki:1909698	En+ Group
+N3	Reference T3 wiki:162787	Сибирская угольная энергетическая компания
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

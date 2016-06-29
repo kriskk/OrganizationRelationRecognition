@@ -1,0 +1,5 @@
+T1	Organization 0 34	Горизонт (предприятие, Белоруссия)
+T2	Organization 275 286	Midea Group
+N1	Reference T1 wiki:205280	Горизонт (предприятие, Белоруссия)
+N2	Reference T2 wiki:355069	Midea
+A1	TypeRel T2 Cooperator

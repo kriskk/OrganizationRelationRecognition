@@ -1,0 +1,6 @@
+T1	Organization 0 22	Промсвязь (завод, Уфа)
+T2	Organization 224 238	Башинформсвязь
+N1	Reference T1 wiki:3278477	Промсвязь (завод, Уфа)
+N2	Reference T2 wiki:1365624	Башинформсвязь
+A1	IsLink T2
+A2	TypeRel T2 Holder

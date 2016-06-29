@@ -1,0 +1,6 @@
+T1	Organization 0 5	Meizu
+T2	Organization 222 227	Sharp
+N1	Reference T1 wiki:1335512	Meizu
+N2	Reference T2 wiki:382668	Sharp
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

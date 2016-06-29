@@ -1,0 +1,34 @@
+T1	Organization 0 8	МФИ Софт
+T2	Organization 99 109	ЭР-Телеком
+T3	Organization 111 127	МРК Связьинвеста
+T4	Organization 129 143	Голден Телеком
+T5	Organization 150 157	МегаФон
+T6	Organization 159 163	 МТТ
+T7	Organization 165 171	РТКомм
+T8	Organization 173 185	Казахтелеком
+T9	Organization 187 197	Укртелеком
+N1	Reference T1 wiki:934418	МФИ Софт
+N2	Reference T2 wiki:1494558	ЭР-Телеком
+N3	Reference T3 wiki:145705	Связьинвест
+N4	Reference T4 wiki:2196953	Голден Телеком
+N5	Reference T5 wiki:70933	МегаФон
+N6	Reference T6 wiki:638758	МТТ
+N7	Reference T7 wiki:1399213	РТКомм
+N8	Reference T8 wiki:702503	Казахтелеком
+N9	Reference T9 wiki:376992	Укртелеком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

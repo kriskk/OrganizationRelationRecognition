@@ -1,0 +1,5 @@
+T1	Organization 0 27	Иркутский алюминиевый завод
+T2	Organization 210 214	СУАЛ
+N1	Reference T1 wiki:2305798	Иркутский алюминиевый завод
+N2	Reference T2 wiki:198079	СУАЛ
+A1	TypeRel T2 Alias

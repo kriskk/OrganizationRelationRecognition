@@ -1,0 +1,11 @@
+T1	Organization 0 31	Белорусский автомобильный завод
+T2	Organization 64 91	Минский автомобильный завод
+T3	Organization 94 118	Минский тракторный завод
+T4	Organization 144 182	Уральский дизель-моторный завод (УДМЗ)
+N1	Reference T1 wiki:104850	Белорусский автомобильный завод
+N2	Reference T2 wiki:33218	Минский автомобильный завод
+N3	Reference T3 wiki:103703	Минский тракторный завод
+N4	Reference T4 wiki:1753172	Уральский дизель-моторный завод (УДМЗ)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

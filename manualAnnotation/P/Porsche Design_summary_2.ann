@@ -1,0 +1,9 @@
+T1	Organization 0 14	Porsche Design
+T2	Organization 185 192	Porsche
+T3	Organization 384 390	Adidas
+N1	Reference T1 wiki:2045950	Porsche Design
+N2	Reference T2 wiki:403194	Porsche
+N3	Reference T3 wiki:243642	Adidas
+A2	IsLink T3
+A1	TypeRel T2 Other
+A3	TypeRel T3 Cooperator

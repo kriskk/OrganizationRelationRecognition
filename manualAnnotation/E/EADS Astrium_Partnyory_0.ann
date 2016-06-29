@@ -1,0 +1,6 @@
+T1	Organization 0 12	EADS Astrium
+T2	Organization 82 109	ГКНПЦ имени М. В. Хруничева
+N1	Reference T1 wiki:4352315	EADS Astrium
+N2	Reference T2 wiki:354521	ГКНПЦ имени М. В. Хруничева
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

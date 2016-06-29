@@ -1,0 +1,15 @@
+Symantec
+@Продукты
+2064,504
+
+	 THINK C
+	 THINK Reference
+	 Veritas Cluster Server
+	 Veritas File System
+	 Veritas Storage Foundation
+	 Disaster Recovery Advisor
+	 Veritas Volume Manager
+	 WinFax
+
+ 	  
+

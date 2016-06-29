@@ -1,0 +1,5 @@
+T1	Organization 0 16	Jardine Matheson
+T2	Organization 734 743	Pizza Hut
+N1	Reference T1 wiki:3497044	Jardine Matheson
+N2	Reference T2 wiki:1270413	Pizza Hut
+A1	IsLink T2

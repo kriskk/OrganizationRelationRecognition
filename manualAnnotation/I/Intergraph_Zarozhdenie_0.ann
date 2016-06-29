@@ -1,0 +1,6 @@
+T1	Organization 0 10	Intergraph
+T2	Organization 143 146	IBM
+N1	Reference T1 wiki:1516535	Intergraph
+N2	Reference T2 wiki:11078	IBM
+A1	IsLink T2
+A2	TypeRel T2 Personnel

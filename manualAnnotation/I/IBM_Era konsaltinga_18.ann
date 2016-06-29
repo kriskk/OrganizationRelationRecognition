@@ -1,0 +1,5 @@
+T1	Organization 0 3	IBM
+T2	Organization 311 333	PricewaterhouseCoopers
+N1	Reference T1 wiki:11078	IBM
+N2	Reference T2 wiki:275101	PricewaterhouseCoopers
+A1	TypeRel T2 Subsidiary

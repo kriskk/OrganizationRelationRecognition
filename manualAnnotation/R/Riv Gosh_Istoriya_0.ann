@@ -1,0 +1,6 @@
+T1	Organization 0 7	Рив Гош
+T2	Organization 128 136	Финстрой
+N1	Reference T1 wiki:1812905	Рив Гош
+N2	Reference T2 wiki:2130524	Финстрой
+A1	IsLink T2
+A2	TypeRel T2 Holder

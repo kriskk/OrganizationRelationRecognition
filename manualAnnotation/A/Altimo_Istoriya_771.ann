@@ -1,0 +1,8 @@
+T1	Organization 0 6	Altimo
+T2	Organization 219 226	МегаФон
+T3	Organization 350 359	Вымпелком
+N1	Reference T1 wiki:258465	Altimo
+N2	Reference T2 wiki:70933	МегаФон
+N3	Reference T3 wiki:70736	Вымпелком
+A1	IsLink T2
+A2	IsLink T3

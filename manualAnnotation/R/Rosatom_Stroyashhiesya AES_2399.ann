@@ -1,0 +1,8 @@
+T1	Organization 0 7	Росатом
+T2	Organization 376 392	ОАО "ПО «Севмаш»
+T3	Organization 425 447	ОАО «Балтийский завод»
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:268382	Севмаш
+N3	Reference T3 wiki:773298	Балтийский завод
+A1	IsLink T2
+A2	IsLink T3

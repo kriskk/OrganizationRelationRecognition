@@ -1,0 +1,8 @@
+T1	Organization 0 17	British Aerospace
+T2	Organization 121 132	BAE Systems
+T3	Organization 424 435	Rover Group
+N1	Reference T1 wiki:2452934	British Aerospace
+N2	Reference T2 wiki:2435557	BAE Systems
+N3	Reference T3 wiki:3186068	Rover Group
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 5	Теком
+T2	Organization 194 212	ОАО «ВолгаТелеком»
+N1	Reference T1 wiki:4400080	Теком
+N2	Reference T2 wiki:162608	ВолгаТелеком
+A1	IsLink T2

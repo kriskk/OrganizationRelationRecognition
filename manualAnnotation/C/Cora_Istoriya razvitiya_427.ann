@@ -1,0 +1,5 @@
+T1	Organization 0 4	Cora
+T2	Organization 246 251	Match
+N1	Reference T1 wiki:2241966	Cora
+N2	Reference T2 wiki:2263425	Match
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 37	Челябинский металлургический комбинат
+T2	Organization 133 138	Мечел
+N1	Reference T1 wiki:631259	Челябинский металлургический комбинат
+N2	Reference T2 wiki:148493	Мечел
+A1	IsLink T2

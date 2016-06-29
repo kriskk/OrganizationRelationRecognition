@@ -1,0 +1,5 @@
+T1	Organization 0 6	Endesa
+T2	Organization 191 195	E.ON
+N1	Reference T1 wiki:158790	Endesa
+N2	Reference T2 wiki:156874	E.ON
+A1	IsLink T2

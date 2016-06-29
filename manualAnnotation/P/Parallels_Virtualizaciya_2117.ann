@@ -1,0 +1,5 @@
+T1	Organization 0 9	Parallels
+T2	Organization 262 268	VMware
+N1	Reference T1 wiki:1356173	Parallels
+N2	Reference T2 wiki:205509	VMware
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 24	Hyatt Hotels Corporation
+T2	Organization 130 135	Hyatt
+N1	Reference T1 wiki:284635	Hyatt Hotels Corporation
+N2	Reference T2 wiki:284635	Hyatt
+A1	IsLink T2
+A2	TypeRel T2 Alias

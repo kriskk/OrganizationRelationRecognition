@@ -1,0 +1,5 @@
+T1	Organization 0 5	FANUC
+T2	Organization 210 223	Ernst & Young
+N1	Reference T1 wiki:2178633	FANUC
+N2	Reference T2 wiki:385728	Ernst & Young
+A1	IsLink T2

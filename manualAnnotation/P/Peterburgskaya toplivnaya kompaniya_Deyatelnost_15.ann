@@ -1,0 +1,6 @@
+T1	Organization 0 32	Петербургская топливная компания
+T2	Organization 247 282	Петербургская транспортная компания
+N1	Reference T1 wiki:2126248	Петербургская топливная компания
+N2	Reference T2 wiki:676987	Петербургская транспортная компания
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

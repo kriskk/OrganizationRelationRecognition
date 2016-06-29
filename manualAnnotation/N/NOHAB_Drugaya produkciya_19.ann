@@ -1,0 +1,6 @@
+T1	Organization 0 5	NOHAB
+T2	Organization 311 318	Saab AB
+N1	Reference T1 wiki:2143568	NOHAB
+N2	Reference T2 wiki:301326	Saab AB
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

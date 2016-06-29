@@ -1,0 +1,8 @@
+T1	Organization 0 16	ППК «Черноземье»
+T2	Organization 54 80	Российские железные дороги
+T3	Organization 89 134	Центральная пригородная пассажирская компания
+N1	Reference T1 wiki:4269482	ППК «Черноземье»
+N2	Reference T2 wiki:106901	Российские железные дороги
+N3	Reference T3 wiki:1768837	Центральная пригородная пассажирская компания
+A1	IsLink T2
+A2	IsLink T3

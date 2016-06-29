@@ -1,0 +1,5 @@
+T1	Organization 0 34	American International Corporation
+T2	Organization 237 267	National City Bank of New York
+N1	Reference T1 wiki:1554865	American International Corporation
+N2	Reference T2 wiki:681929	National City Bank of New York
+A1	IsLink T2

@@ -1,0 +1,14 @@
+T1	Organization 0 15	ПСМ (Ярославль)
+T2	Organization 309 325	ОАО «Автодизель»
+T3	Organization 327 336	ОАО «ММЗ»
+T4	Organization 362 372	John Deere
+N1	Reference T1 wiki:3628324	ПСМ (Ярославль)
+N2	Reference T2 wiki:916530	ЯМЗ
+N3	Reference T3 wiki:1077227	Минский моторный завод
+N4	Reference T4 wiki:1958385	John Deere
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

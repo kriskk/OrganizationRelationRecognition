@@ -1,0 +1,19 @@
+T1	Organization 0 22	United Launch Alliance
+T2	Organization 50 55	Боинг
+T3	Organization 58 71	Локхид Мартин
+T4	Organization 361 366	Боинг
+T5	Organization 485 498	Локхид Мартин
+T6	Organization 662 668	SpaceX
+N1	Reference T1 wiki:2978288	United Launch Alliance
+N2	Reference T2 wiki:156398	Боинг
+N3	Reference T3 wiki:301268	Локхид Мартин
+N4	Reference T4 wiki:156398	Боинг
+N5	Reference T5 wiki:301268	Локхид Мартин
+N6	Reference T6 wiki:121204	SpaceX
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder
+A7	TypeRel T3 Holder

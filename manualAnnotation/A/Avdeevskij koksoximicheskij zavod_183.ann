@@ -1,0 +1,5 @@
+T1	Organization 0 32	Авдеевский коксохимический завод
+T2	Organization 285 309	System Capital Managment
+N1	Reference T1 wiki:501123	Авдеевский коксохимический завод
+N2	Reference T2 wiki:36184	Систем Кэпитал Менеджмент
+A1	IsLink T2

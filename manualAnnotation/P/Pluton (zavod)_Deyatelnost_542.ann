@@ -1,0 +1,30 @@
+T1	Organization 0 14	Плутон (завод)
+T2	Organization 287 311	Корпорация «Алмаз-Антей»
+T3	Organization 320 354	Ижевский электромеханический завод
+T4	Organization 363 385	Кировский завод «Маяк»
+T5	Organization 389 399	ФГУП «КБМ»
+T6	Organization 460 472	ОАО «Сатурн»
+T7	Organization 511 537	Корпорация «Фазотрон-НИИР»
+T8	Organization 566 577	ОАО «Ратеп»
+N1	Reference T1 wiki:2336542	Плутон (завод)
+N2	Reference T2 wiki:149639	Алмаз-Антей
+N3	Reference T3 wiki:1122102	Ижевский электромеханический завод
+N4	Reference T4 wiki:1612149	Кировский завод «Маяк»
+N5	Reference T5 wiki:1394117	КБ машиностроения (Коломна)
+N6	Reference T6 wiki:3560022	ОАО «Сатурн»
+N7	Reference T7 wiki:553921	Фазотрон-НИИР
+N8	Reference T8 wiki:924547	РАТЕП
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

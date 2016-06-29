@@ -1,0 +1,9 @@
+T1	Organization 0 13	Miramax Films
+T2	Organization 240 264	Fox Searchlight Pictures
+T3	Organization 356 368	Warner Bros.
+N1	Reference T1 wiki:20301	Miramax Films
+N2	Reference T2 wiki:1692150	Fox Searchlight Pictures
+N3	Reference T3 wiki:272386	Warner Bros.
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

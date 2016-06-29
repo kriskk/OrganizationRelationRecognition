@@ -1,0 +1,12 @@
+T1	Organization 0 29	Ивановский автокрановый завод
+T2	Organization 284 323	Дрогобычский завод автомобильных кранов
+T3	Organization 437 469	Балашихинский автокрановый завод
+T4	Organization 615 643	Галичский автокрановый завод
+N1	Reference T1 wiki:2586505	Ивановский автокрановый завод
+N2	Reference T2 wiki:2591205	Дрогобычский завод автомобильных кранов
+N3	Reference T3 wiki:2591524	Балашихинский завод автомобильных кранов
+N4	Reference T4 wiki:2590187	Галичский автокрановый завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Merge

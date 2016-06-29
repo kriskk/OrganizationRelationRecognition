@@ -1,0 +1,5 @@
+T1	Organization 0 14	М2М телематика
+T2	Organization 111 122	НИС ГЛОНАСС
+N1	Reference T1 wiki:2050070	М2М телематика
+N2	Reference T2 wiki:2551707	НИС ГЛОНАСС
+A1	IsLink T2

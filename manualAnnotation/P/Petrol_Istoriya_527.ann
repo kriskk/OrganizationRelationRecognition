@@ -1,0 +1,6 @@
+T1	Organization 0 6	Petrol
+T2	Organization 175 189	Газпром-нефтью
+N1	Reference T1 wiki:288671	Petrol
+N2	Reference T2 wiki:121955	Газпром нефть
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

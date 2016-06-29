@@ -1,0 +1,5 @@
+T1	Organization 0 9	Englebert
+T2	Organization 222 228	Lancia
+N1	Reference T1 wiki:4020779	Englebert
+N2	Reference T2 wiki:1503078	Лянча (команда Формулы-1)
+A1	IsLink T2

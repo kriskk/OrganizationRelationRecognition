@@ -1,0 +1,14 @@
+T1	Organization 0 33	Квант (производитель компьютеров)
+T2	Organization 205 212	Daifuku
+T3	Organization 263 266	IBM
+T4	Organization 438 445	Система
+N1	Reference T1 wiki:257882	Квант (производитель компьютеров)
+N2	Reference T2 wiki:2426278	Daifuku
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:158888	Система (группа)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Cooperator
+A5	TypeRel T2 Cooperator
+A6	TypeRel T4 Holder

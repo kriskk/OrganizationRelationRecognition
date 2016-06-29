@@ -1,0 +1,6 @@
+T1	Organization 0 15	Курскхимволокно
+T2	Organization 173 185	Куйбышевазот
+N1	Reference T1 wiki:2642809	Курскхимволокно
+N2	Reference T2 wiki:987301	Куйбышевазот
+A1	IsLink T2
+A2	TypeRel T2 Holder

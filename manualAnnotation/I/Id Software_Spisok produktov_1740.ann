@@ -1,0 +1,29 @@
+T1	Organization 0 11	Id Software
+T2	Organization 207 227	Ritual Entertainment
+T3	Organization 302 321	Rogue Entertainment
+T4	Organization 403 423	Xatrix Entertainment
+T5	Organization 450 473	Gray Matter Interactive
+T6	Organization 536 555	Rogue Entertainment
+T7	Organization 776 799	Gray Matter Interactive
+T8	Organization 911 924	Splash Damage
+N1	Reference T1 wiki:80386	Id Software
+N2	Reference T2 wiki:1386191	Ritual Entertainment
+N3	Reference T3 wiki:1302207	Rogue Entertainment
+N4	Reference T4 wiki:2257924	Xatrix Entertainment
+N5	Reference T5 wiki:2257924	Gray Matter Interactive
+N6	Reference T6 wiki:1302207	Rogue Entertainment
+N7	Reference T7 wiki:2257924	Gray Matter Interactive
+N8	Reference T8 wiki:2140575	Splash Damage
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T4 Cooperator
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator

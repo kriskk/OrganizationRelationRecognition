@@ -1,0 +1,5 @@
+T1	Organization 0 8	Ситилинк
+T2	Organization 205 229	Студией Артемия Лебедева
+N1	Reference T1 wiki:4400099	Ситилинк
+N2	Reference T2 wiki:156470	Студия Артемия Лебедева
+A1	IsLink T2

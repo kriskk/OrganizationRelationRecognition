@@ -1,0 +1,5 @@
+T1	Organization 0 16	Интернешнл Сифуд
+T2	Organization 89 126	International Oceanic Enterprises Inc
+N1	Reference T1 wiki:3530661	Интернешнл Сифуд
+N2	Reference T2 wiki:3529742	International Oceanic Enterprises Inc
+A1	TypeRel T2 Holder

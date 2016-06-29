@@ -1,0 +1,5 @@
+T1	Organization 0 3	BMW
+T2	Organization 318 333	Pratt & Whitney
+N1	Reference T1 wiki:40368	BMW
+N2	Reference T2 wiki:807790	Pratt & Whitney
+A1	IsLink T2

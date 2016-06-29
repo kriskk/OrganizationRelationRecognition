@@ -1,0 +1,5 @@
+T1	Organization 0 15	GRIN (компания)
+T2	Organization 493 504	Square Enix
+N1	Reference T1 wiki:1521599	GRIN (компания)
+N2	Reference T2 wiki:288255	Square Enix
+A1	TypeRel T2 Other

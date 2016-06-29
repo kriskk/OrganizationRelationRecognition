@@ -1,0 +1,14 @@
+T1	Organization 0 26	Carnival Corporation & plc
+T2	Organization 190 203	Costa Cruises
+T3	Organization 204 224	Holland America Line
+T4	Organization 225 236	Cunard Line
+T5	Organization 272 284	AIDA Cruises
+N1	Reference T1 wiki:1099139	Carnival Corporation & plc
+N2	Reference T2 wiki:3024057	Costa Cruises
+N3	Reference T3 wiki:1379544	Holland America Line
+N4	Reference T4 wiki:293774	Cunard Line
+N5	Reference T5 wiki:1099280	AIDA Cruises
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

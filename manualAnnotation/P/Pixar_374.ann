@@ -1,0 +1,5 @@
+T1	Organization 0 5	Pixar
+T2	Organization 169 192	The Walt Disney Company
+N1	Reference T1 wiki:125032	Pixar
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	TypeRel T2 Holder

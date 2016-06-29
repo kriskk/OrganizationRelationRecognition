@@ -1,0 +1,8 @@
+T1	Organization 0 39	Уральский завод тяжёлого машиностроения
+T2	Organization 127 165	Объединённые машиностроительные заводы
+T3	Organization 179 192	Металлоинвест
+N1	Reference T1 wiki:270860	Уральский завод тяжёлого машиностроения
+N2	Reference T2 wiki:149170	Объединённые машиностроительные заводы
+N3	Reference T3 wiki:301665	Металлоинвест
+A2	IsLink T3
+A1	TypeRel T2 Holder

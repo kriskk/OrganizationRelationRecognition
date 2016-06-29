@@ -1,0 +1,5 @@
+T1	Organization 0 34	Рославльский вагоноремонтный завод
+T2	Organization 102 111	ОАО «РЖД»
+N1	Reference T1 wiki:1989800	Рославльский вагоноремонтный завод
+N2	Reference T2 wiki:106901	РЖД
+A1	TypeRel T2 Holder

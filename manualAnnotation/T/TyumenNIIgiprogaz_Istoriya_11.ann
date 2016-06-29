@@ -1,0 +1,5 @@
+T1	Organization 0 16	ТюменНИИгипрогаз
+T2	Organization 229 236	ВНИИГАЗ
+N1	Reference T1 wiki:2762475	ТюменНИИгипрогаз
+N2	Reference T2 wiki:166360	ВНИИГАЗ
+A1	TypeRel T2 Holder

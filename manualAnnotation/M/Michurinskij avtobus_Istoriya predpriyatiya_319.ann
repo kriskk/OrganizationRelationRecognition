@@ -1,0 +1,5 @@
+T1	Organization 0 19	Мичуринский автобус
+T2	Organization 312 316	ЛиАЗ
+N1	Reference T1 wiki:271171	Мичуринский автобус
+N2	Reference T2 wiki:154271	ЛиАЗ
+A1	TypeRel T2 Cooperator

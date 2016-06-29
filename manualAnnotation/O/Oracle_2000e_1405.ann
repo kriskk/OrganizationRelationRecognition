@@ -1,0 +1,12 @@
+T1	Organization 0 6	Oracle
+T2	Organization 210 217	Red Hat
+T3	Organization 379 386	Red Hat
+T4	Organization 475 492	Zend Technologies
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:10874	Red Hat
+N3	Reference T3 wiki:10874	Red Hat
+N4	Reference T4 wiki:265959	Zend Technologies
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T4 Subsidiary

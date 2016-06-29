@@ -1,0 +1,6 @@
+T1	Organization 0 13	Olive Telecom
+T2	Organization 264 273	Скай Линк
+N1	Reference T1 wiki:2640333	Olive Telecom
+N2	Reference T2 wiki:145535	Скай Линк
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

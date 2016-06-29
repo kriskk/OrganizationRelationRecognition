@@ -1,0 +1,5 @@
+T1	Organization 0 28	Bonfire Snowboarding Company
+T2	Organization 151 158	Salomon
+N1	Reference T1 wiki:1333660	Bonfire Snowboarding Company
+N2	Reference T2 wiki:398645	Salomon
+A1	IsLink T2

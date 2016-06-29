@@ -1,0 +1,5 @@
+T1	Organization 0 36	Конструкторское бюро приборостроения
+T2	Organization 119 144	Тульском оружейном заводе
+N1	Reference T1 wiki:308070	Конструкторское бюро приборостроения
+N2	Reference T2 wiki:917191	Тульский оружейный завод
+A1	TypeRel T2 Holder

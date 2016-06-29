@@ -1,0 +1,8 @@
+T1	Organization 0 7	Lanxess
+T2	Organization 196 201	Bayer
+T3	Organization 483 488	Bayer
+N1	Reference T1 wiki:170138	Lanxess
+N2	Reference T2 wiki:166035	Bayer
+N3	Reference T3 wiki:166035	Bayer AG
+A1	IsLink T2
+A2	IsLink T3

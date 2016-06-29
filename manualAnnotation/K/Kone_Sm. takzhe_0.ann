@@ -1,0 +1,11 @@
+T1	Organization 0 4	Kone
+T2	Organization 37 58	Otis Elevator Company
+T3	Organization 61 70	Schindler
+T4	Organization 73 85	ThyssenKrupp
+N1	Reference T1 wiki:1840978	Kone
+N2	Reference T2 wiki:1955231	Otis Elevator Company
+N3	Reference T3 wiki:1959158	Schindler
+N4	Reference T4 wiki:166657	ThyssenKrupp
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

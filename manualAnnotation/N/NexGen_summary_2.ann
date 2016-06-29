@@ -1,0 +1,14 @@
+T1	Organization 0 6	NexGen
+T2	Organization 181 184	AMD
+T3	Organization 214 219	Cyrix
+T4	Organization 374 377	IBM
+N1	Reference T1 wiki:3932667	NexGen
+N2	Reference T2 wiki:19981	AMD
+N3	Reference T3 wiki:209856	Cyrix
+N4	Reference T4 wiki:11078	IBM
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Cooperator

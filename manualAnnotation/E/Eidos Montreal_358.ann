@@ -1,0 +1,6 @@
+T1	Organization 0 14	Eidos Montreal
+T2	Organization 172 183	Square Enix
+N1	Reference T1 wiki:4413652	Eidos Montreal
+N2	Reference T2 wiki:288255	Square Enix
+A1	IsLink T2
+A2	TypeRel T2 Holder

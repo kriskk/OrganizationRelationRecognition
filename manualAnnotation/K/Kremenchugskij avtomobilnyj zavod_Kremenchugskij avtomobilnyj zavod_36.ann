@@ -1,0 +1,5 @@
+T1	Organization 0 33	Кременчугский автомобильный завод
+T2	Organization 296 330	Ярославского автомобильного завода
+N1	Reference T1 wiki:606512	Кременчугский автомобильный завод
+N2	Reference T2 wiki:916530	Ярославский моторный завод
+A1	TypeRel T2 Cooperator

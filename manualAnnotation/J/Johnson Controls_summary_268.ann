@@ -1,0 +1,5 @@
+T1	Organization 0 16	Johnson Controls
+T2	Organization 212 217	VARTA
+N1	Reference T1 wiki:1578512	Johnson Controls
+N2	Reference T2 wiki:166727	VARTA
+A1	TypeRel T2 Subsidiary

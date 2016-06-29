@@ -1,0 +1,5 @@
+T1	Organization 0 22	Nokia Siemens Networks
+T2	Organization 433 441	Motorola
+N1	Reference T1 wiki:354923	Nokia Siemens Networks
+N2	Reference T2 wiki:134384	Motorola
+A1	TypeRel T2 Cooperator

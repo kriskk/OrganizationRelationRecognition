@@ -1,0 +1,22 @@
+T1	Organization 0 41	Ильичёвский завод автомобильных агрегатов
+T2	Organization 237 244	АвтоЗАЗ
+T3	Organization 261 268	АвтоЗАЗ
+T4	Organization 461 467	Daewoo
+T5	Organization 785 789	ТАТА
+T6	Organization 859 867	Dongfeng
+N1	Reference T1 wiki:3468280	Ильичёвский завод автомобильных агрегатов
+N2	Reference T2 wiki:683481	АвтоЗАЗ
+N3	Reference T3 wiki:683481	АвтоЗАЗ
+N4	Reference T4 wiki:794769	Daewoo
+N5	Reference T5 wiki:962083	Tata Motors
+N6	Reference T6 wiki:1018683	Dongfeng
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder
+A7	TypeRel T3 Holder
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

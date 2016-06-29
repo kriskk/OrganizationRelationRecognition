@@ -1,0 +1,5 @@
+T1	Organization 0 8	Сибирикс
+T2	Organization 252 266	Рейтинг Рунета
+N1	Reference T1 wiki:4138548	Сибирикс
+N2	Reference T2 wiki:3361636	Рейтинг Рунета
+A1	IsLink T2

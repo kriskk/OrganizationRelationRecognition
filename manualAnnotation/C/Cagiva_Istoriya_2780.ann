@@ -1,0 +1,8 @@
+T1	Organization 0 6	Cagiva
+T2	Organization 284 290	Ducati
+T3	Organization 364 373	Husqvarna
+N1	Reference T1 wiki:1795239	Cagiva
+N2	Reference T2 wiki:1745457	Ducati
+N3	Reference T3 wiki:1206338	Husqvarna
+A1	IsLink T2
+A2	IsLink T3

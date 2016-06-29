@@ -1,0 +1,18 @@
+T1	Organization 0 19	Metro-Goldwyn-Mayer
+T2	Organization 245 259	United Artists
+T3	Organization 425 439	Orion Pictures
+T4	Organization 536 549	Sony Pictures
+T5	Organization 608 625	Columbia Pictures
+N1	Reference T1 wiki:208697	Metro-Goldwyn-Mayer
+N2	Reference T2 wiki:1450113	United Artists
+N3	Reference T3 wiki:4265842	Orion Pictures
+N4	Reference T4 wiki:1830946	Sony Pictures Entertainment
+N5	Reference T5 wiki:373564	Columbia Pictures
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Merge
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Holder

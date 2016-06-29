@@ -1,0 +1,32 @@
+T1	Organization 0 15	LiMo Foundation
+T2	Organization 236 250	Opera Software
+T3	Organization 295 316	Open Handset Alliance
+T4	Organization 408 416	Motorola
+T5	Organization 641 649	Motorola
+T6	Organization 675 681	Google
+T7	Organization 911 921	NTT DoCoMo
+T8	Organization 935 945	Telefonica
+T9	Organization 947 954	Verizon
+N1	Reference T1 wiki:2091071	LiMo Foundation
+N2	Reference T2 wiki:95896	Opera Software
+N3	Reference T3 wiki:917308	Open Handset Alliance
+N4	Reference T4 wiki:134384	Motorola
+N5	Reference T5 wiki:134384	Motorola
+N6	Reference T6 wiki:265	Google (компания)
+N7	Reference T7 wiki:56175	NTT DoCoMo
+N8	Reference T8 wiki:377249	Telefonica
+N9	Reference T9 wiki:251493	Verizon
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Subsidiary
+A10	TypeRel T3 Competitor
+A11	TypeRel T4 Holder
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator
+A14	TypeRel T9 Cooperator

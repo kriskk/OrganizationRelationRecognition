@@ -1,0 +1,5 @@
+T1	Organization 0 13	Brownie Brown
+T2	Organization 108 114	Square
+N1	Reference T1 wiki:3231807	Brownie Brown
+N2	Reference T2 wiki:278305	Square (компания)
+A1	IsLink T2

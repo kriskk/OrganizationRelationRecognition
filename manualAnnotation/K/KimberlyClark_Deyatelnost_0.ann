@@ -1,0 +1,5 @@
+T1	Organization 0 14	Kimberly-Clark
+T2	Organization 87 94	Huggies
+N1	Reference T1 wiki:1623832	Kimberly-Clark
+N2	Reference T2 wiki:1623832	Huggies
+A1	TypeRel T2 Subsidiary

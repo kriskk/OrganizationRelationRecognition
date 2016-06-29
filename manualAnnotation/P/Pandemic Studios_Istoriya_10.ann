@@ -1,0 +1,6 @@
+T1	Organization 0 16	Pandemic Studios
+T2	Organization 207 217	Activision
+N1	Reference T1 wiki:2316640	Pandemic Studios
+N2	Reference T2 wiki:307964	Activision
+A1	IsLink T2
+A2	TypeRel T2 Personnel

@@ -1,0 +1,11 @@
+T1	Organization 0 8	TNT Post
+T2	Organization 161 167	PostNL
+T3	Organization 234 245	TNT Express
+T4	Organization 248 256	TNT N.V.
+N1	Reference T1 wiki:3196341	TNT Post
+N2	Reference T2 wiki:3271690	PostNL
+N3	Reference T3 wiki:3269943	TNT Express
+N4	Reference T4 wiki:1038257	TNT N.V.
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

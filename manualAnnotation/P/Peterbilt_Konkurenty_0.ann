@@ -1,0 +1,14 @@
+T1	Organization 0 9	Peterbilt
+T2	Organization 44 56	Volvo Trucks
+T3	Organization 68 90	Navistar International
+T4	Organization 114 126	Freightliner
+N1	Reference T1 wiki:1704331	Peterbilt
+N2	Reference T2 wiki:1876689	Volvo Trucks
+N3	Reference T3 wiki:323498	Navistar International
+N4	Reference T4 wiki:1371581	Freightliner
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor

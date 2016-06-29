@@ -1,0 +1,5 @@
+T1	Organization 0 11	Vatra Games
+T2	Organization 183 201	Kuju Entertainment
+N1	Reference T1 wiki:3000270	Vatra Games
+N2	Reference T2 wiki:4158136	Kuju Entertainment
+A1	TypeRel T2 Holder

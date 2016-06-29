@@ -1,0 +1,8 @@
+T1	Organization 0 16	Красный выборжец
+T2	Organization 242 245	ЛЭК
+T3	Organization 386 389	ЛМЗ
+N1	Reference T1 wiki:2248755	Красный выборжец
+N2	Reference T2 wiki:1534438	ЛЭК
+N3	Reference T3 wiki:754719	ЛМЗ
+A2	IsLink T3
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 33	Воронежский вагоноремонтный завод
+T2	Organization 279 282	РЖД
+N1	Reference T1 wiki:304182	Воронежский вагоноремонтный завод
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2

@@ -1,0 +1,12 @@
+T1	Organization 0 19	Межрегионэнергосбыт
+T2	Organization 119 126	Газпром
+T3	Organization 135 155	Газпром межрегионгаз
+T4	Organization 269 274	Сибур
+N1	Reference T1 wiki:2682166	Межрегионэнергосбыт
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:2682262	Газпром межрегионгаз
+N4	Reference T4 wiki:144869	Сибур
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Holder

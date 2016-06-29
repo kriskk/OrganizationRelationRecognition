@@ -1,0 +1,5 @@
+T1	Organization 0 4	МЕГА
+T2	Organization 220 224	IKEA
+N1	Reference T1 wiki:259737	МЕГА
+N2	Reference T2 wiki:164679	IKEA
+A1	TypeRel T2 Subsidiary

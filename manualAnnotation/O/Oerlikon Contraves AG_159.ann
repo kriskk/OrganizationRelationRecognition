@@ -1,0 +1,6 @@
+T1	Organization 0 21	Oerlikon Contraves AG
+T2	Organization 228 242	Rheinmetall AG
+N1	Reference T1 wiki:793617	Oerlikon Contraves AG
+N2	Reference T2 wiki:1569917	Rheinmetall AG
+A1	IsLink T2
+A2	TypeRel T2 Holder

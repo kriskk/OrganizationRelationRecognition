@@ -1,0 +1,5 @@
+T1	Organization 0 26	Завод Железобетон (Липецк)
+T2	Organization 209 213	НЛМК
+N1	Reference T1 wiki:2367623	Завод Железобетон (Липецк)
+N2	Reference T2 wiki:143594	НЛМЗ
+A1	IsLink T2

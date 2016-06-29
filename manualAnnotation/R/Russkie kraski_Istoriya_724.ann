@@ -1,0 +1,11 @@
+T1	Organization 0 14	Русские краски
+T2	Organization 357 360	ГАЗ
+T3	Organization 746 753	Москвич
+T4	Organization 1084 1087	ВАЗ
+N1	Reference T1 wiki:1731925	Русские краски
+N2	Reference T2 wiki:25060	Горьковский автомобильный завод
+N3	Reference T3 wiki:120499	Москвич (автомобиль)
+N4	Reference T4 wiki:139276	ВАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

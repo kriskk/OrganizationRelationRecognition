@@ -1,0 +1,6 @@
+T1	Organization 0 16	Разрез Восточный
+T2	Organization 213 217	ENRC
+N1	Reference T1 wiki:1611928	Разрез Восточный
+N2	Reference T2 wiki:2171512	ENRC
+A1	IsLink T2
+A2	TypeRel T2 Holder

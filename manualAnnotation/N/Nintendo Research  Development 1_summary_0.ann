@@ -1,0 +1,5 @@
+T1	Organization 0 33	Nintendo Research & Development 1
+T2	Organization 93 101	Nintendo
+N1	Reference T1 wiki:3639633	Nintendo Research & Development 1
+N2	Reference T2 wiki:202486	Nintendo
+A1	IsLink T2

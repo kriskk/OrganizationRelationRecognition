@@ -1,0 +1,6 @@
+T1	Organization 0 25	Заволжский моторный завод
+T2	Organization 124 131	Соллерс
+N1	Reference T1 wiki:1006237	Заволжский моторный завод
+N2	Reference T2 wiki:159017	Соллерс (компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 50	Московский межреспубликанский винодельческий завод
+T2	Organization 214 223	Krones AG
+N1	Reference T1 wiki:1854823	Московский межреспубликанский винодельческий завод
+N2	Reference T2 wiki:154992	Krones AG
+A1	TypeRel T2 Cooperator

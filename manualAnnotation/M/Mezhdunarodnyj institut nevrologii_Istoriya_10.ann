@@ -1,0 +1,5 @@
+T1	Organization 0 33	Международный институт неврологии
+T2	Organization 203 210	Siemens
+N1	Reference T1 wiki:3435337	Международный институт неврологии
+N2	Reference T2 wiki:36510	Siemens
+A1	TypeRel T2 Holder

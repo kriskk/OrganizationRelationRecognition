@@ -1,0 +1,14 @@
+T1	Organization 0 10	НТВ-Дизайн
+T2	Organization 166 176	Медиа-Мост
+T3	Organization 191 204	Газпром-Медиа
+T4	Organization 212 220	НТВ-Плюс
+N1	Reference T1 wiki:1129457	НТВ-Дизайн
+N2	Reference T2 wiki:2400048	Медиа-Мост
+N3	Reference T3 wiki:189268	Газпром-Медиа
+N4	Reference T4 wiki:723124	НТВ-Плюс
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 28	Royal Caribbean Cruises Ltd.
+T2	Organization 220 237	Celebrity Cruises
+T3	Organization 368 379	TUI Cruises
+N1	Reference T1 wiki:3430151	Royal Caribbean Cruises Ltd.
+N2	Reference T2 wiki:3431415	Celebrity Cruises
+N3	Reference T3 wiki:3442705	TUI Cruises
+A1	IsLink T2
+A2	IsLink T3

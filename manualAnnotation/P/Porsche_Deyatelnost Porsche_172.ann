@@ -1,0 +1,10 @@
+T1	Organization 0 7	Porsche
+T2	Organization 540 565	Porsche Automobil Holding
+T3	Organization 614 627	Volkswagen AG
+N1	Reference T1 wiki:403194	Porsche
+N2	Reference T2 wiki:1972003	Porsche Automobil Holding
+N3	Reference T3 wiki:750217	Volkswagen AG
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

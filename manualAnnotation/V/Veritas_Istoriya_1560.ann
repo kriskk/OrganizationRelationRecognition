@@ -1,0 +1,5 @@
+T1	Organization 0 7	Veritas
+T2	Organization 187 194	Heinkel
+N1	Reference T1 wiki:3163754	Veritas
+N2	Reference T2 wiki:2764154	Heinkel
+A1	TypeRel T2 Cooperator

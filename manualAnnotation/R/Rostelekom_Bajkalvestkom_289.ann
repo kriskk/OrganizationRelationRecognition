@@ -1,0 +1,5 @@
+T1	Organization 0 10	Ростелеком
+T2	Organization 368 394	Улан-Удэнская сотовая сеть
+N1	Reference T1 wiki:145844	Ростелеком
+N2	Reference T2 wiki:1100872	Улан-Удэнская сотовая сеть
+A1	IsLink T2

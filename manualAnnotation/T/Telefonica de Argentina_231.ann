@@ -1,0 +1,5 @@
+T1	Organization 0 23	Telefonica de Argentina
+T2	Organization 191 201	Telefonica
+N1	Reference T1 wiki:1343048	Telefonica de Argentina
+N2	Reference T2 wiki:377249	Telefonica
+A1	IsLink T2

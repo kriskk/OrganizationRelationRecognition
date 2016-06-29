@@ -1,0 +1,26 @@
+T1	Organization 0 7	Renault
+T2	Organization 123 128	Dacia
+T3	Organization 179 191	Nissan Motor
+T4	Organization 211 218	АвтоВАЗ
+T5	Organization 261 269	AB Volvo
+T6	Organization 296 319	Renault-Nissan Alliance
+T7	Organization 445 450	Dacia
+N1	Reference T1 wiki:586472	Renault
+N2	Reference T2 wiki:746072	Dacia
+N3	Reference T3 wiki:159586	Nissan
+N4	Reference T4 wiki:139276	АвтоВАЗ
+N5	Reference T5 wiki:387781	Volvo
+N6	Reference T6 wiki:3937979	Renault Nissan (альянс)
+N7	Reference T7 wiki:746072	Dacia
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Subsidiary
+A8	TypeRel T3 Subsidiary
+A9	TypeRel T4 Subsidiary
+A10	TypeRel T5 Subsidiary
+A11	TypeRel T6 Holder
+A12	TypeRel T7 Subsidiary

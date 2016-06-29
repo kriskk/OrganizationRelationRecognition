@@ -1,0 +1,6 @@
+T1	Organization 0 25	178-й судоремонтный завод
+T2	Organization 284 295	«Дальзавод»
+N1	Reference T1 wiki:4001899	178-й судоремонтный завод
+N2	Reference T2 wiki:4002732	Дальзавод (холдинговая компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

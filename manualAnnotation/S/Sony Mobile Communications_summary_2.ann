@@ -1,0 +1,14 @@
+T1	Organization 0 26	Sony Mobile Communications
+T2	Organization 355 363	Ericsson
+T3	Organization 410 414	Sony
+T4	Organization 565 611	Sony Digital Telecommunication Network Company
+T5	Organization 614 649	Ericsson Division Consumer Products
+N1	Reference T1 wiki:120852	Sony Mobile Communications
+N2	Reference T2 wiki:711402	Ericsson
+N3	Reference T3 wiki:73019	Sony
+N4	Reference T4 wiki:73019	Sony
+N5	Reference T5 wiki:711402	Ericsson
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

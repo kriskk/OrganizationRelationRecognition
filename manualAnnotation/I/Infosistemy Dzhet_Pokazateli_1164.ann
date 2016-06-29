@@ -1,0 +1,9 @@
+T1	Organization 0 16	Инфосистемы Джет
+T2	Organization 262 272	Эксперт РА
+T3	Organization 622 632	Коммерсант
+N1	Reference T1 wiki:3411651	Инфосистемы Джет
+N2	Reference T2 wiki:363296	Эксперт РА
+N3	Reference T3 wiki:179871	Коммерсантъ (издательский дом)
+A2	IsLink T3
+A1	TypeRel T2 Other
+A3	TypeRel T3 Other

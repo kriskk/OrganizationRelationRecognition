@@ -1,0 +1,8 @@
+T1	Organization 0 7	CompTek
+T2	Organization 230 235	ЛАНИТ
+T3	Organization 286 292	Яндекс
+N1	Reference T1 wiki:2664407	CompTek
+N2	Reference T2 wiki:359105	ЛАНИТ
+N3	Reference T3 wiki:9744	Яндекс
+A1	IsLink T2
+A2	IsLink T3

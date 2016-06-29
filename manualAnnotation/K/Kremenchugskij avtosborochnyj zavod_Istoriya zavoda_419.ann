@@ -1,0 +1,33 @@
+T1	Organization 0 33	Кременчугский автосборочный завод
+T2	Organization 218 221	УАЗ
+T3	Organization 324 327	ВАЗ
+T4	Organization 528 538	Ssang Yong
+T5	Organization 673 678	Geely
+T6	Organization 752 762	Great Wall
+T7	Organization 1069 1078	SsangYong
+T8	Organization 1170 1175	Geely
+T9	Organization 1214 1219	Geely
+N1	Reference T1 wiki:3337915	Кременчугский автосборочный завод
+N2	Reference T2 wiki:84571	УАЗ
+N3	Reference T3 wiki:139276	ВАЗ
+N4	Reference T4 wiki:1065433	Ssang Yong
+N5	Reference T5 wiki:380153	Geely
+N6	Reference T6 wiki:394622	Great Wall
+N7	Reference T7 wiki:1065433	SsangYong
+N8	Reference T8 wiki:380153	Geely
+N9	Reference T9 wiki:380153	Geely
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator
+A15	TypeRel T9 Cooperator

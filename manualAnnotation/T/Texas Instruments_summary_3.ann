@@ -1,0 +1,11 @@
+T1	Organization 0 17	Texas Instruments
+T2	Organization 305 310	Intel
+T3	Organization 312 319	Samsung
+T4	Organization 322 329	Toshiba
+N1	Reference T1 wiki:429235	Texas Instruments
+N2	Reference T2 wiki:762172	Intel
+N3	Reference T3 wiki:125537	Samsung
+N4	Reference T4 wiki:507269	Toshiba
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

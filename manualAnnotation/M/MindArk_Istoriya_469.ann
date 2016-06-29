@@ -1,0 +1,6 @@
+T1	Organization 0 7	MindArk
+T2	Organization 254 260	Crytek
+N1	Reference T1 wiki:1685477	MindArk
+N2	Reference T2 wiki:650133	Crytek
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

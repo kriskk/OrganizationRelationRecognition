@@ -1,0 +1,8 @@
+T1	Organization 0 23	The Walt Disney Company
+T2	Organization 101 128	Disney Television Animation
+T3	Organization 131 152	Touchstone Television
+N1	Reference T1 wiki:319365	The Walt Disney Company
+N2	Reference T2 wiki:1388980	Disney Television Animation
+N3	Reference T3 wiki:3433978	ABC Studios
+A1	IsLink T2
+A2	IsLink T3

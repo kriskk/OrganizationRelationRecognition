@@ -1,0 +1,22 @@
+T1	Organization 0 8	Inchcape
+T2	Organization 183 186	BMW
+T3	Organization 188 194	Jaguar
+T4	Organization 196 206	Land Rover
+T5	Organization 215 221	Subaru
+T6	Organization 224 230	Toyota
+N1	Reference T1 wiki:167656	Inchcape
+N2	Reference T2 wiki:40368	BMW
+N3	Reference T3 wiki:431514	Jaguar
+N4	Reference T4 wiki:683379	Land Rover
+N5	Reference T5 wiki:196754	Subaru
+N6	Reference T6 wiki:42689	Toyota
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

@@ -1,0 +1,8 @@
+T1	Organization 0 12	Packard Bell
+T2	Organization 125 140	Hewlett-Packard
+T3	Organization 142 149	Packard
+N1	Reference T1 wiki:2383657	Packard Bell
+N2	Reference T2 wiki:89988	Hewlett-Packard
+N3	Reference T3 wiki:1762197	Packard
+A1	IsLink T2
+A2	IsLink T3

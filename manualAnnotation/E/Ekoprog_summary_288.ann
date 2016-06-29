@@ -1,0 +1,17 @@
+T1	Organization 0 7	Экопрог
+T2	Organization 366 379	АФК «Система»
+T3	Organization 466 474	«Лукойл»
+T4	Organization 476 488	«Транснефть»
+N1	Reference T1 wiki:2654276	Экопрог
+N2	Reference T2 wiki:158888	АФК «Система»
+N3	Reference T3 wiki:59354	Лукойл
+N4	Reference T4 wiki:147540	Транснефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator

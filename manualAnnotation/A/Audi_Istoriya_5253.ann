@@ -1,0 +1,11 @@
+T1	Organization 0 4	Audi
+T2	Organization 553 572	Cosworth Technology
+T3	Organization 587 609	Automobili Lamborghini
+T4	Organization 622 626	SEAT
+N1	Reference T1 wiki:41025	Audi
+N2	Reference T2 wiki:664377	Cosworth
+N3	Reference T3 wiki:65531	Lamborghini
+N4	Reference T4 wiki:41437	SEAT
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

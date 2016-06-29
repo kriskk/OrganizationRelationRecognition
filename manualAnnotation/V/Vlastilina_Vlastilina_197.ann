@@ -1,0 +1,5 @@
+T1	Organization 0 10	Властилина
+T2	Organization 265 272	Москвич
+N1	Reference T1 wiki:2658173	Властилина
+N2	Reference T2 wiki:120499	Москвич (завод)
+A1	IsLink T2

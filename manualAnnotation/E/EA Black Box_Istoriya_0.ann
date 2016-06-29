@@ -1,0 +1,19 @@
+T1	Organization 0 12	EA Black Box
+T2	Organization 158 162	Sega
+T3	Organization 164 176	Midway Games
+T4	Organization 179 194	Electronic Arts
+T5	Organization 270 279	EA Canada
+T6	Organization 458 473	Electronic Arts
+N1	Reference T1 wiki:2306009	EA Black Box
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:2428144	Midway Games
+N4	Reference T4 wiki:323143	Electronic Arts
+N5	Reference T5 wiki:2306102	EA Canada
+N6	Reference T6 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T5 Holder
+A7	TypeRel T6 Other

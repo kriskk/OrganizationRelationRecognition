@@ -1,0 +1,18 @@
+T1	Organization 0 38	Информационные технологии (корпорация)
+T2	Organization 209 212	SAP
+T3	Organization 251 253	1С
+T4	Organization 266 272	Oracle
+T5	Organization 285 294	Microsoft
+N1	Reference T1 wiki:3901042	Информационные технологии (корпорация)
+N2	Reference T2 wiki:81959	SAP
+N3	Reference T3 wiki:34936	1С
+N4	Reference T4 wiki:129227	Oracle
+N5	Reference T5 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Competitor
+A6	TypeRel T3 Competitor
+A7	TypeRel T4 Competitor
+A8	TypeRel T5 Competitor

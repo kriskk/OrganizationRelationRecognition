@@ -1,0 +1,5 @@
+T1	Organization 0 6	Auchan
+T2	Organization 156 160	МЕГА
+N1	Reference T1 wiki:1324090	Auchan
+N2	Reference T2 wiki:259737	МЕГА
+A1	IsLink T2

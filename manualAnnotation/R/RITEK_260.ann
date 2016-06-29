@@ -1,0 +1,5 @@
+T1	Organization 0 5	РИТЭК
+T2	Organization 173 185	ОАО «Лукойл»
+N1	Reference T1 wiki:312725	РИТЭК
+N2	Reference T2 wiki:59354	Лукойл
+A1	TypeRel T2 Holder

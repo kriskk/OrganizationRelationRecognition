@@ -1,0 +1,21 @@
+T1	Organization 0 20	Walt Disney Pictures
+T2	Organization 236 259	The Walt Disney Company
+T3	Organization 473 479	Дисней
+T4	Organization 588 611	Walt Disney Productions
+T5	Organization 657 686	Walt Disney Feature Animation
+T6	Organization 776 781	Pixar
+N1	Reference T1 wiki:323330	Walt Disney Pictures
+N2	Reference T2 wiki:319365	The Walt Disney Company
+N3	Reference T3 wiki:319365	The Walt Disney Company
+N4	Reference T4 wiki:319365	Walt Disney Productions
+N5	Reference T5 wiki:345492	Walt Disney Feature Animation
+N6	Reference T6 wiki:125032	Pixar Animation Studios
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder
+A7	TypeRel T3 Holder
+A8	TypeRel T5 Subsidiary
+A9	TypeRel T6 Cooperator

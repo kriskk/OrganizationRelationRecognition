@@ -1,0 +1,35 @@
+T1	Organization 0 6	E-port
+T2	Organization 245 252	МегаФон
+T3	Organization 272 284	ЦентрТелеком
+T4	Organization 292 305	Енисейтелеком
+T5	Organization 314 319	Tele2
+T6	Organization 321 331	Ростелеком
+T7	Organization 333 337	МГТС
+T8	Organization 339 347	НТВ Плюс
+T9	Organization 360 365	АКАДО
+T10	Organization 367 370	ЮТК
+T11	Organization 384 397	Мосэнергосбыт
+T12	Organization 399 409	ЭР-Телеком
+N1	Reference T1 wiki:2061450	E-port
+N2	Reference T2 wiki:70933	МегаФон
+N3	Reference T3 wiki:142992	ЦентрТелеком
+N4	Reference T4 wiki:355733	Енисейтелеком
+N5	Reference T5 wiki:162980	Tele2
+N6	Reference T6 wiki:145844	Ростелеком
+N7	Reference T7 wiki:141210	Московская городская телефонная сеть
+N8	Reference T8 wiki:723124	НТВ Плюс
+N9	Reference T9 wiki:807312	АКАДО
+N10	Reference T10 wiki:283742	ЮТК
+N11	Reference T11 wiki:2450397	Мосэнергосбыт
+N12	Reference T12 wiki:1494558	ЭР-Телеком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12

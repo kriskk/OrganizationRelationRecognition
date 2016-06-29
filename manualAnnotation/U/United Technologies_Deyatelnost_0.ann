@@ -1,0 +1,5 @@
+T1	Organization 0 19	United Technologies
+T2	Organization 91 110	Carrier Corporation
+N1	Reference T1 wiki:257086	United Technologies
+N2	Reference T2 wiki:2101347	Carrier Corporation
+A1	TypeRel T2 Subsidiary

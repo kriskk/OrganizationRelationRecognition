@@ -1,0 +1,11 @@
+T1	Organization 0 17	Fluke Corporation
+T2	Organization 245 260	Hewlett-Packard
+T3	Organization 324 340	General Electric
+T4	Organization 398 413	Hewlett-Packard
+N1	Reference T1 wiki:2889180	Fluke Corporation
+N2	Reference T2 wiki:89988	Hewlett-Packard
+N3	Reference T3 wiki:13762	General Electric
+N4	Reference T4 wiki:89988	Hewlett-Packard
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

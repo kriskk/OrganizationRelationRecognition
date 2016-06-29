@@ -1,0 +1,5 @@
+T1	Organization 0 18	РБК (медиахолдинг)
+T2	Organization 530 539	RU-CENTER
+N1	Reference T1 wiki:391746	РБК (медиахолдинг)
+N2	Reference T2 wiki:2350694	RU-CENTER
+A1	TypeRel T2 Subsidiary

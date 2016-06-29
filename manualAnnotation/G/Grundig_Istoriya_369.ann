@@ -1,0 +1,5 @@
+T1	Organization 0 7	Grundig
+T2	Organization 201 205	Beko
+N1	Reference T1 wiki:571983	Grundig
+N2	Reference T2 wiki:241878	Arçelik
+A1	TypeRel T2 Holder

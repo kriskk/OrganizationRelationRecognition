@@ -1,0 +1,6 @@
+T1	Organization 0 14	Kelly Services
+T2	Organization 239 275	Kelly Outsourcing & Consulting Group
+N1	Reference T1 wiki:1399760	Kelly Services
+N2	Reference T2 wiki:1399760	Kelly Outsourcing & Consulting Group
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

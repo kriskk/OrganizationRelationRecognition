@@ -1,0 +1,18 @@
+T1	Organization 0 16	Omega (компания)
+T2	Organization 264 268	Rado
+T3	Organization 271 279	Longines
+T4	Organization 624 633	Blancpain
+T5	Organization 636 643	Breguet
+T6	Organization 664 681	Swatch Group Ltd.
+N1	Reference T1 wiki:1047157	Omega (компания)
+N2	Reference T2 wiki:1052474	Rado
+N3	Reference T3 wiki:1057852	Longines
+N4	Reference T4 wiki:1075077	Blancpain
+N5	Reference T5 wiki:1072056	Breguet
+N6	Reference T6 wiki:214233	Swatch Group
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T6 Holder

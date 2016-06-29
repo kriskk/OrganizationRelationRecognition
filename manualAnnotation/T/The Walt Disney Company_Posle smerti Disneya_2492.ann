@@ -1,0 +1,8 @@
+T1	Organization 0 23	The Walt Disney Company
+T2	Organization 253 276	Pixar Animation Studios
+T3	Organization 607 616	Lucasfilm
+N1	Reference T1 wiki:319365	The Walt Disney Company
+N2	Reference T2 wiki:125032	Pixar Animation Studios
+N3	Reference T3 wiki:2544735	Lucasfilm
+A1	IsLink T2
+A2	IsLink T3

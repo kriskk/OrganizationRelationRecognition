@@ -1,0 +1,6 @@
+T1	Organization 0 24	Паллада Эссет Менеджмент
+T2	Organization 363 371	НПФ Эрэл
+N1	Reference T1 wiki:910463	Паллада Эссет Менеджмент
+N2	Reference T2 wiki:3299511	Эрэл
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,125 @@
+T1	Organization 0 22	Spyglass Entertainment
+T2	Organization 82 101	Touchstone Pictures
+T3	Organization 165 184	Touchstone Pictures
+T4	Organization 214 232	Universal Pictures
+T5	Organization 255 273	Paramount Pictures
+T6	Organization 308 327	Touchstone Pictures
+T7	Organization 379 398	Touchstone Pictures
+T8	Organization 437 456	Touchstone Pictures
+T9	Organization 494 512	Universal Pictures
+T10	Organization 543 561	Universal Pictures
+T11	Organization 564 578	DreamWorks SKG
+T12	Organization 644 662	Universal Pictures
+T13	Organization 684 703	Touchstone Pictures
+T14	Organization 821 841	Walt Disney Pictures
+T15	Organization 886 905	Touchstone Pictures
+T16	Organization 941 958	Columbia Pictures
+T17	Organization 961 981	Amblin Entertainment
+T18	Organization 1018 1035	Columbia Pictures
+T19	Organization 1037 1057	Amblin Entertainment
+T20	Organization 1060 1079	DreamWorks Pictures
+T21	Organization 1135 1155	Walt Disney Pictures
+T22	Organization 1242 1260	Hollywood Pictures
+T23	Organization 1315 1334	Touchstone Pictures
+T24	Organization 1380 1393	Miramax Films
+T25	Organization 1424 1442	Hollywood Pictures
+T26	Organization 1480 1497	Universal Studios
+T27	Organization 1564 1581	Columbia Pictures
+T28	Organization 1583 1603	Amblin Entertainment
+T29	Organization 1606 1625	DreamWorks Pictures
+T30	Organization 1659 1673	Rogue Pictures
+T31	Organization 1728 1744	20th Century Fox
+T32	Organization 1805 1823	Universal Pictures
+T33	Organization 1851 1870	DreamWorks Pictures
+T34	Organization 1901 1917	20th Century Fox
+T35	Organization 1995 2013	Paramount Pictures
+T36	Organization 2049 2067	Universal Pictures
+T37	Organization 2105 2124	DreamWorks Pictures
+T38	Organization 2169 2187	Universal Pictures
+T39	Organization 2226 2241	New Line Cinema
+T40	Organization 2300 2318	Paramount Pictures
+T41	Organization 2352 2370	Paramount Pictures
+T42	Organization 2404 2419	Warner Brothers
+N1	Reference T1 wiki:4204960	Spyglass Entertainment
+N2	Reference T2 wiki:348128	Touchstone Pictures
+N3	Reference T3 wiki:348128	Touchstone Pictures
+N4	Reference T4 wiki:702796	Universal Pictures
+N5	Reference T5 wiki:398699	Paramount Pictures
+N6	Reference T6 wiki:348128	Touchstone Pictures
+N7	Reference T7 wiki:348128	Touchstone Pictures
+N8	Reference T8 wiki:348128	Touchstone Pictures
+N9	Reference T9 wiki:702796	Universal Pictures
+N10	Reference T10 wiki:702796	Universal Pictures
+N11	Reference T11 wiki:755489	DreamWorks SKG
+N12	Reference T12 wiki:702796	Universal Pictures
+N13	Reference T13 wiki:348128	Touchstone Pictures
+N14	Reference T14 wiki:323330	Walt Disney Pictures
+N15	Reference T15 wiki:348128	Touchstone Pictures
+N16	Reference T16 wiki:373564	Columbia Pictures
+N17	Reference T17 wiki:3297664	Amblin Entertainment
+N18	Reference T18 wiki:373564	Columbia Pictures
+N19	Reference T19 wiki:3297664	Amblin Entertainment
+N20	Reference T20 wiki:755489	DreamWorks Pictures
+N21	Reference T21 wiki:323330	Walt Disney Pictures
+N22	Reference T22 wiki:1398376	Hollywood Pictures
+N23	Reference T23 wiki:348128	Touchstone Pictures
+N24	Reference T24 wiki:20301	Miramax Films
+N25	Reference T25 wiki:1398376	Hollywood Pictures
+N26	Reference T26 wiki:702796	Universal Studios
+N27	Reference T27 wiki:373564	Columbia Pictures
+N28	Reference T28 wiki:3297664	Amblin Entertainment
+N29	Reference T29 wiki:755489	DreamWorks Pictures
+N30	Reference T30 wiki:4201651	Rogue (компания)
+N31	Reference T31 wiki:272376	20th Century Fox
+N32	Reference T32 wiki:702796	Universal Pictures
+N33	Reference T33 wiki:755489	DreamWorks Pictures
+N34	Reference T34 wiki:272376	20th Century Fox
+N35	Reference T35 wiki:398699	Paramount Pictures
+N36	Reference T36 wiki:702796	Universal Pictures
+N37	Reference T37 wiki:755489	DreamWorks Pictures
+N38	Reference T38 wiki:702796	Universal Pictures
+N39	Reference T39 wiki:273482	New Line Cinema
+N40	Reference T40 wiki:398699	Paramount Pictures
+N41	Reference T41 wiki:398699	Paramount Pictures
+N42	Reference T42 wiki:272386	Warner Brothers
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	IsLink T21
+A21	IsLink T22
+A22	IsLink T23
+A23	IsLink T24
+A24	IsLink T25
+A25	IsLink T26
+A26	IsLink T27
+A27	IsLink T28
+A28	IsLink T29
+A29	IsLink T30
+A30	IsLink T31
+A31	IsLink T32
+A32	IsLink T33
+A33	IsLink T34
+A34	IsLink T35
+A35	IsLink T36
+A36	IsLink T37
+A37	IsLink T38
+A38	IsLink T39
+A39	IsLink T40
+A40	IsLink T41
+A41	IsLink T42

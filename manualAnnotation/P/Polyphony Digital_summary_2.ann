@@ -1,0 +1,10 @@
+T1	Organization 0 17	Polyphony Digital
+T2	Organization 216 243	Sony Computer Entertainment
+T3	Organization 389 393	Sony
+N1	Reference T1 wiki:651984	Polyphony Digital
+N2	Reference T2 wiki:1454994	Sony Computer Entertainment
+N3	Reference T3 wiki:1454994	Sony Computer Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

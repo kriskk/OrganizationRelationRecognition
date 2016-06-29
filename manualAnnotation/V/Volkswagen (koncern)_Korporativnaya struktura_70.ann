@@ -1,0 +1,50 @@
+T1	Organization 0 20	Volkswagen (концерн)
+T2	Organization 274 278	Audi
+T3	Organization 346 358	Daimler-Benz
+T4	Organization 504 508	Seat
+T5	Organization 711 716	Škoda
+T6	Organization 1114 1121	Bentley
+T7	Organization 1323 1326	BMW
+T8	Organization 1330 1337	Bugatti
+T9	Organization 1378 1389	Lamborghini
+T10	Organization 1437 1441	Audi
+T11	Organization 1457 1466	Scania AB
+T12	Organization 1626 1632	MAN AG
+T13	Organization 1810 1817	Porsche
+N1	Reference T1 wiki:750217	Volkswagen (концерн)
+N2	Reference T2 wiki:41025	Audi
+N3	Reference T3 wiki:1384782	Daimler-Benz
+N4	Reference T4 wiki:41437	Seat
+N5	Reference T5 wiki:41273	Škoda Auto
+N6	Reference T6 wiki:41442	Bentley Motors
+N7	Reference T7 wiki:40368	BMW
+N8	Reference T8 wiki:41267	Bugatti
+N9	Reference T9 wiki:65531	Lamborghini
+N10	Reference T10 wiki:41025	Audi
+N11	Reference T11 wiki:252348	Scania AB
+N12	Reference T12 wiki:42703	MAN AG
+N13	Reference T13 wiki:403194	Porsche
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	TypeRel T2 Subsidiary
+A14	TypeRel T3 Cooperator
+A15	TypeRel T4 Subsidiary
+A16	TypeRel T5 Subsidiary
+A17	TypeRel T6 Subsidiary
+A18	TypeRel T7 Cooperator
+A19	TypeRel T8 Subsidiary
+A20	TypeRel T9 Subsidiary
+A21	TypeRel T10 Subsidiary
+A22	TypeRel T11 Subsidiary
+A23	TypeRel T12 Subsidiary
+A24	TypeRel T13 Subsidiary

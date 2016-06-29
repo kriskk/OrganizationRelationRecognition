@@ -1,0 +1,5 @@
+T1	Organization 0 16	Unlimited Detail
+T2	Organization 248 257	Mojang AB
+N1	Reference T1 wiki:2364741	Unlimited Detail
+N2	Reference T2 wiki:3201920	Mojang AB
+A1	IsLink T2

@@ -1,0 +1,13 @@
+T1	Organization 0 12	Imagineering
+T2	Organization 178 183	Atari
+T3	Organization 210 214	Sega
+T4	Organization 266 288	Absolute Entertainment
+N1	Reference T1 wiki:2872477	Imagineering
+N2	Reference T2 wiki:308218	Atari
+N3	Reference T3 wiki:92589	Sega
+N4	Reference T4 wiki:2872281	Absolute Entertainment
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

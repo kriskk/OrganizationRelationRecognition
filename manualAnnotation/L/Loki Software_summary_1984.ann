@@ -1,0 +1,10 @@
+T1	Organization 0 13	Loki Software
+T2	Organization 272 294	Blizzard Entertainment
+T3	Organization 297 311	Valve Software
+N1	Reference T1 wiki:1619684	Loki Software
+N2	Reference T2 wiki:202669	Blizzard Entertainment
+N3	Reference T3 wiki:364585	Valve Software
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

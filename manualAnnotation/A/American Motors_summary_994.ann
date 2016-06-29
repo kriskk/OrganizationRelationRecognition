@@ -1,0 +1,8 @@
+T1	Organization 0 15	American Motors
+T2	Organization 285 296	Kaiser Jeep
+T3	Organization 714 721	Renault
+N1	Reference T1 wiki:3346012	American Motors
+N2	Reference T2 wiki:3333285	Kaiser Motors
+N3	Reference T3 wiki:586472	Renault
+A1	IsLink T2
+A2	IsLink T3

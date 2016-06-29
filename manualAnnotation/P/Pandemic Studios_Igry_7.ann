@@ -1,0 +1,6 @@
+T1	Organization 0 16	Pandemic Studios
+T2	Organization 283 286	3DO
+N1	Reference T1 wiki:2316640	Pandemic Studios
+N2	Reference T2 wiki:1475844	The 3DO Company
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

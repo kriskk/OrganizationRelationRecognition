@@ -1,0 +1,5 @@
+T1	Organization 0 24	Fox Searchlight Pictures
+T2	Organization 189 205	News Corporation
+N1	Reference T1 wiki:1692150	Fox Searchlight Pictures
+N2	Reference T2 wiki:636692	News Corporation
+A1	IsLink T2

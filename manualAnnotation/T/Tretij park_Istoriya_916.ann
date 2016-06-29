@@ -1,0 +1,5 @@
+T1	Organization 0 11	Третий парк
+T2	Organization 229 232	MAN
+N1	Reference T1 wiki:759049	Третий парк
+N2	Reference T2 wiki:42703	MAN
+A1	IsLink T2

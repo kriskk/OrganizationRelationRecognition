@@ -1,0 +1,13 @@
+T1	Organization 0 4	Olvi
+T2	Organization 162 171	A. Le Coq
+T3	Organization 173 182	Cesu alus
+T4	Organization 194 206	Лидское пиво
+N1	Reference T1 wiki:3408246	Olvi
+N2	Reference T2 wiki:280813	A. Le Coq
+N3	Reference T3 wiki:3301677	Cesu alus
+N4	Reference T4 wiki:1030340	Лидское пиво
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary

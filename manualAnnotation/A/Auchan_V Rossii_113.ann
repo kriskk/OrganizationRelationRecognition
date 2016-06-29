@@ -1,0 +1,11 @@
+T1	Organization 0 6	Auchan
+T2	Organization 417 421	Enka
+T3	Organization 453 460	Рамстор
+T4	Organization 669 676	Рамстор
+N1	Reference T1 wiki:1324090	Auchan
+N2	Reference T2 wiki:180366	Enka
+N3	Reference T3 wiki:2936111	Рамстор
+N4	Reference T4 wiki:2936111	Рамстор
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,10 @@
+T1	Organization 0 36	РУСАЛ Красноярский алюминиевый завод
+T2	Organization 209 225	Русский алюминий
+T3	Organization 236 255	Российский алюминий
+N1	Reference T1 wiki:1144498	РУСАЛ Красноярский алюминиевый завод
+N2	Reference T2 wiki:144729	Русский алюминий
+N3	Reference T3 wiki:598084	Российский алюминий
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

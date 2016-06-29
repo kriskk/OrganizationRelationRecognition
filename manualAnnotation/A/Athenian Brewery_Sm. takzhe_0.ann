@@ -1,0 +1,5 @@
+T1	Organization 0 16	Athenian Brewery
+T2	Organization 79 97	Mythos (пивоварня)
+N1	Reference T1 wiki:4119271	Athenian Brewery
+N2	Reference T2 wiki:4119287	Mythos (пивоварня)
+A1	IsLink T2

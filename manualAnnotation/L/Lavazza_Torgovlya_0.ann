@@ -1,0 +1,6 @@
+T1	Organization 0 7	Lavazza
+T2	Organization 124 133	Starbucks
+N1	Reference T1 wiki:3464789	Lavazza
+N2	Reference T2 wiki:205133	Starbucks
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

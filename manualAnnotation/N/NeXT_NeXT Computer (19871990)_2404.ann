@@ -1,0 +1,6 @@
+T1	Organization 0 4	NeXT
+T2	Organization 325 331	Compaq
+N1	Reference T1 wiki:289854	NeXT
+N2	Reference T2 wiki:343420	Compaq
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

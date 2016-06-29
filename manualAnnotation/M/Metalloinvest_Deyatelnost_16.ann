@@ -1,0 +1,10 @@
+T1	Organization 0 13	Металлоинвест
+T2	Organization 245 288	Оскольский электрометаллургический комбинат
+T3	Organization 301 316	Уральская сталь
+N1	Reference T1 wiki:301665	Металлоинвест
+N2	Reference T2 wiki:1547697	Оскольский электрометаллургический комбинат
+N3	Reference T3 wiki:3596568	Уральская сталь
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

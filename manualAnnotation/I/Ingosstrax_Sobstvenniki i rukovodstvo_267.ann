@@ -1,0 +1,5 @@
+T1	Organization 0 10	Ингосстрах
+T2	Organization 258 273	PPF Investments
+N1	Reference T1 wiki:139838	Ингосстрах
+N2	Reference T2 wiki:703366	PPF
+A1	IsLink T2

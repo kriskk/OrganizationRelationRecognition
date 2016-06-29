@@ -1,0 +1,18 @@
+T1	Organization 0 18	United Front Games
+T2	Organization 289 301	EA Black Box
+T3	Organization 303 321	Rockstar Vancouver
+T4	Organization 323 344	Radical Entertainment
+T5	Organization 347 361	Volition, Inc.
+N1	Reference T1 wiki:4383006	United Front Games
+N2	Reference T2 wiki:2306009	EA Black Box
+N3	Reference T3 wiki:2102172	Rockstar Vancouver
+N4	Reference T4 wiki:2061618	Radical Entertainment
+N5	Reference T5 wiki:1817793	Volition, Inc.
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Personnel
+A6	TypeRel T3 Personnel
+A7	TypeRel T4 Personnel
+A8	TypeRel T5 Personnel

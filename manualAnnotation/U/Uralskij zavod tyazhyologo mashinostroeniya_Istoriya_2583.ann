@@ -1,0 +1,9 @@
+T1	Organization 0 39	Уральский завод тяжёлого машиностроения
+T2	Organization 212 250	Объединённые машиностроительные заводы
+T3	Organization 489 496	Интегра
+N1	Reference T1 wiki:270860	Уральский завод тяжёлого машиностроения
+N2	Reference T2 wiki:149170	Объединённые машиностроительные заводы
+N3	Reference T3 wiki:246240	Интегра
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

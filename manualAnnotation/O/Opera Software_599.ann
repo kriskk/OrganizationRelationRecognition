@@ -1,0 +1,9 @@
+T1	Organization 0 14	Opera Software
+T2	Organization 178 186	FastMail
+T3	Organization 188 196	AdMarvel
+N1	Reference T1 wiki:95896	Opera Software
+N2	Reference T2 wiki:2440210	FastMail
+N3	Reference T3 wiki:3238822	AdMarvel
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

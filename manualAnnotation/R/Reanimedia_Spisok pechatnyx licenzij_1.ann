@@ -1,0 +1,6 @@
+T1	Organization 0 10	Reanimedia
+T2	Organization 224 237	Истари комикс
+N1	Reference T1 wiki:1349467	Reanimedia
+N2	Reference T2 wiki:2947793	Истари комикс
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

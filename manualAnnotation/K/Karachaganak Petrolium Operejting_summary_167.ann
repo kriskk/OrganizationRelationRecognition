@@ -1,0 +1,17 @@
+T1	Organization 0 32	Карачаганак Петролиум Оперейтинг
+T2	Organization 214 217	Eni
+T3	Organization 240 246	Шеврон
+T4	Organization 264 270	Лукойл
+T5	Organization 293 304	КазМунайГаз
+N1	Reference T1 wiki:2181611	Карачаганак Петролиум Оперейтинг
+N2	Reference T2 wiki:180394	Eni
+N3	Reference T3 wiki:420107	Chevron
+N4	Reference T4 wiki:59354	Лукойл
+N5	Reference T5 wiki:294591	КазМунайГаз
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder
+A7	TypeRel T5 Holder

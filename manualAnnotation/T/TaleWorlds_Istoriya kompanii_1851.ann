@@ -1,0 +1,11 @@
+T1	Organization 0 10	TaleWorlds
+T2	Organization 195 214	Paradox Interactive
+T3	Organization 244 246	1С
+T4	Organization 260 280	Snowball Interactive
+N1	Reference T1 wiki:2345580	TaleWorlds
+N2	Reference T2 wiki:322193	Paradox Interactive
+N3	Reference T3 wiki:34936	1С
+N4	Reference T4 wiki:992796	Snowball Interactive
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

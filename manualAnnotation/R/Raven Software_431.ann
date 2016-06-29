@@ -1,0 +1,6 @@
+T1	Organization 0 14	Raven Software
+T2	Organization 180 199	Activision Blizzard
+N1	Reference T1 wiki:676782	Raven Software
+N2	Reference T2 wiki:954541	Activision Blizzard
+A1	IsLink T2
+A2	TypeRel T2 Holder

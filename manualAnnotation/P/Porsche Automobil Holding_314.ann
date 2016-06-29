@@ -1,0 +1,9 @@
+T1	Organization 0 25	Porsche Automobil Holding
+T2	Organization 192 219	Dr. Ing. h.c. F. Porsche AG
+T3	Organization 222 242	Porsche Design Group
+N1	Reference T1 wiki:1972003	Porsche Automobil Holding
+N2	Reference T2 wiki:403194	Dr. Ing. h.c. F. Porsche AG
+N3	Reference T3 wiki:403185	Porsche Design Group
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

@@ -1,0 +1,6 @@
+T1	Organization 0 20	Газпром добыча Надым
+T2	Organization 122 135	ОАО «Газпром»
+N1	Reference T1 wiki:972645	Газпром добыча Надым
+N2	Reference T2 wiki:44754	Газпром
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 7	Интегра
+T2	Organization 188 194	ВНИИБТ
+N1	Reference T1 wiki:246240	Интегра
+N2	Reference T2 wiki:2041420	ВНИИБТ
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

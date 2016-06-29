@@ -1,0 +1,5 @@
+T1	Organization 0 12	РусЭнергоМир
+T2	Organization 731 744	ООО НПО «МИР»
+N1	Reference T1 wiki:2563726	РусЭнергоМир
+N2	Reference T2 wiki:2873855	НПО "МИР"
+A1	IsLink T2

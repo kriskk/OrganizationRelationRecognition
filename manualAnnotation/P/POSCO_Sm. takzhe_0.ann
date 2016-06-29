@@ -1,0 +1,11 @@
+T1	Organization 0 5	POSCO
+T2	Organization 62 69	Samsung
+T3	Organization 72 74	LG
+T4	Organization 87 90	KIA
+N1	Reference T1 wiki:2717623	POSCO
+N2	Reference T2 wiki:125537	Samsung
+N3	Reference T3 wiki:135021	LG
+N4	Reference T4 wiki:215264	KIA
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Казцинк
+T2	Organization 172 194	Glencore International
+N1	Reference T1 wiki:4084980	Казцинк
+N2	Reference T2 wiki:372443	Glencore International
+A1	TypeRel T2 Holder

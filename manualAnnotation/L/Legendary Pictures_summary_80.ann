@@ -1,0 +1,6 @@
+T1	Organization 0 18	Legendary Pictures
+T2	Organization 214 235	Warner Bros. Pictures
+N1	Reference T1 wiki:2591830	Legendary Pictures
+N2	Reference T2 wiki:272386	Warner Bros. Pictures
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

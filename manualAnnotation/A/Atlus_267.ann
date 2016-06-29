@@ -1,0 +1,5 @@
+T1	Organization 0 5	Atlus
+T2	Organization 162 176	Index Holdings
+N1	Reference T1 wiki:2528689	Atlus
+N2	Reference T2 wiki:3124481	Index Holdings
+A1	IsLink T2

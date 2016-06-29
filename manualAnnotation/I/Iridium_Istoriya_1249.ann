@@ -1,0 +1,5 @@
+T1	Organization 0 7	Иридиум
+T2	Organization 182 190	Inmarsat
+N1	Reference T1 wiki:686690	Иридиум
+N2	Reference T2 wiki:192915	Inmarsat
+A1	IsLink T2

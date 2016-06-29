@@ -1,0 +1,5 @@
+T1	Organization 0 10	Медиа-Мост
+T2	Organization 243 271	Издательский дом «Семь дней»
+N1	Reference T1 wiki:2400048	Медиа-Мост
+N2	Reference T2 wiki:3577803	Издательский дом «Семь дней»
+A1	IsLink T2

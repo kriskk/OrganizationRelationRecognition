@@ -1,0 +1,5 @@
+T1	Organization 0 27	Аффект (диджитал агентство)
+T2	Organization 139 142	РБК
+N1	Reference T1 wiki:4183640	Аффект (диджитал агентство)
+N2	Reference T2 wiki:391746	РБК
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Рособоронэкспорт
+T2	Organization 294 299	Сухой
+N1	Reference T1 wiki:171221	Рособоронэкспорт
+N2	Reference T2 wiki:164779	Сухой (компания)
+A1	IsLink T2

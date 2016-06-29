@@ -1,0 +1,13 @@
+T1	Organization 0 36	Пермский моторостроительный комплекс
+T2	Organization 236 281	Объединённая двигателестроительная корпорация
+T3	Organization 290 306	Вертолёты России
+T4	Organization 330 340	Оборонпром
+N1	Reference T1 wiki:915035	Пермский моторостроительный комплекс
+N2	Reference T2 wiki:2353507	Объединённая двигателестроительная корпорация
+N3	Reference T3 wiki:899228	Вертолёты России
+N4	Reference T4 wiki:757437	Оборонпром
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder

@@ -1,0 +1,30 @@
+T1	Organization 0 8	РЖДстрой
+T2	Organization 185 194	ОАО «РЖД»
+T3	Organization 367 376	ОАО «РЖД»
+T4	Organization 693 702	ОАО «РЖД»
+T5	Organization 823 832	ОАО «РЖД»
+T6	Organization 856 865	ОАО «РЖД»
+T7	Organization 1024 1033	ОАО «РЖД»
+T8	Organization 1085 1094	ОАО «РЖД»
+T9	Organization 1284 1293	ОАО «РЖД»
+T10	Organization 1381 1390	ОАО «РЖД»
+N1	Reference T1 wiki:3297253	РЖДстрой
+N2	Reference T2 wiki:106901	Российские железные дороги
+N3	Reference T3 wiki:106901	Российские железные дороги
+N4	Reference T4 wiki:106901	Российские железные дороги
+N5	Reference T5 wiki:106901	Российские железные дороги
+N6	Reference T6 wiki:106901	Российские железные дороги
+N7	Reference T7 wiki:106901	Российские железные дороги
+N8	Reference T8 wiki:106901	Российские железные дороги
+N9	Reference T9 wiki:106901	Российские железные дороги
+N10	Reference T10 wiki:106901	Российские железные дороги
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T2 Holder

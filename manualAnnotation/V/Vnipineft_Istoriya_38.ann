@@ -1,0 +1,17 @@
+T1	Organization 0 10	Внипинефть
+T2	Organization 181 193	Куйбышевский
+T3	Organization 244 250	Омский
+T4	Organization 456 468	Куйбышевский
+T5	Organization 470 476	Омский
+N1	Reference T1 wiki:4246305	Внипинефть
+N2	Reference T2 wiki:970174	Самаранефтехимпроект
+N3	Reference T3 wiki:3738436	Омскнефтехимпроект
+N4	Reference T4 wiki:970174	Самаранефтехимпроект
+N5	Reference T5 wiki:3738436	Омскнефтехимпроект
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary
+A7	TypeRel T5 Subsidiary

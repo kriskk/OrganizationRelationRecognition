@@ -1,0 +1,17 @@
+T1	Organization 0 21	Балаковорезинотехника
+T2	Organization 902 909	АвтоВАЗ
+T3	Organization 925 928	ГАЗ
+T4	Organization 951 956	КамАЗ
+T5	Organization 980 983	УАЗ
+T6	Organization 1174 1177	РЖД
+N1	Reference T1 wiki:937146	Балаковорезинотехника
+N2	Reference T2 wiki:139276	АвтоВАЗ
+N3	Reference T3 wiki:21473	Группа ГАЗ
+N4	Reference T4 wiki:169714	КамАЗ
+N5	Reference T5 wiki:84571	УАЗ
+N6	Reference T6 wiki:106901	РЖД
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

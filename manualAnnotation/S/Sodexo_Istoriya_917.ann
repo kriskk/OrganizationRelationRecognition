@@ -1,0 +1,5 @@
+T1	Organization 0 6	Sodexo
+T2	Organization 364 372	Marriott
+N1	Reference T1 wiki:3374717	Sodexo
+N2	Reference T2 wiki:910928	Marriott International
+A1	IsLink T2

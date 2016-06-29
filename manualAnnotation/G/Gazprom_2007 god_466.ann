@@ -1,0 +1,6 @@
+T1	Organization 0 7	Газпром
+T2	Organization 248 258	ЕЭС России
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:1432138	ЕЭС России (компания)
+A1	IsLink T2
+A2	TypeRel T2 Holder

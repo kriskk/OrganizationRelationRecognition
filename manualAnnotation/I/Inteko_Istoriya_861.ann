@@ -1,0 +1,13 @@
+T1	Organization 0 6	Интеко
+T2	Organization 198 213	Евроцемент груп
+T3	Organization 313 325	Атакайцемент
+T4	Organization 330 361	Верхнебаканский цементный завод
+N1	Reference T1 wiki:162923	Интеко
+N2	Reference T2 wiki:172003	Евроцемент груп
+N3	Reference T3 wiki:1657329	Атакайцемент
+N4	Reference T4 wiki:1614647	Верхнебаканский цементный завод
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary

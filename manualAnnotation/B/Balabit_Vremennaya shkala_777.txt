@@ -1,0 +1,9 @@
+Balabit
+@Временная шкала
+2478,777
+
+	 2004 — IDC объявляет о том, что BalaBit IT Security заняло более 27 рынка файрволов в Венгрии.
+	 2005 — Zorp сертифицирован ICSA Labs.
+	 2006 — BalaBit IT Security и SUN Microsystems выпускают BalaBit Shell Control Box.
+	 2007 — BalaBit выпускает syslog-ng Premium Edition.
+	 2008 — Год международного прорыва — BalaBit получил клиентов на всех населенных континентах.

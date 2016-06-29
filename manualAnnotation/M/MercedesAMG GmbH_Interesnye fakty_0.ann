@@ -1,0 +1,5 @@
+T1	Organization 0 17	Mercedes-AMG GmbH
+T2	Organization 130 137	Santoni
+N1	Reference T1 wiki:1316945	Mercedes-AMG GmbH
+N2	Reference T2 wiki:1399448	Santoni
+A1	TypeRel T2 Cooperator

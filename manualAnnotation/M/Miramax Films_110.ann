@@ -1,0 +1,5 @@
+T1	Organization 0 13	Miramax Films
+T2	Organization 184 190	Disney
+N1	Reference T1 wiki:20301	Miramax Films
+N2	Reference T2 wiki:319365	Disney
+A1	TypeRel T2 Holder

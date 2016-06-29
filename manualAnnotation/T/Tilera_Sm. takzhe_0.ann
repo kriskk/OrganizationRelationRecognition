@@ -1,0 +1,5 @@
+T1	Organization 0 6	Tilera
+T2	Organization 95 102	Calxeda
+N1	Reference T1 wiki:2557880	Tilera
+N2	Reference T2 wiki:3157381	Calxeda
+A1	IsLink T2

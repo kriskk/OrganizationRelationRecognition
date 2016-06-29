@@ -1,0 +1,14 @@
+T1	Organization 0 8	Chrysler
+T2	Organization 96 101	Dodge
+T3	Organization 104 108	Jeep
+T4	Organization 118 126	Plymouth
+T5	Organization 136 144	Imperial
+N1	Reference T1 wiki:223902	Chrysler
+N2	Reference T2 wiki:41485	Dodge
+N3	Reference T3 wiki:41489	Jeep
+N4	Reference T4 wiki:1283510	Plymouth
+N5	Reference T5 wiki:1357953	Imperial
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

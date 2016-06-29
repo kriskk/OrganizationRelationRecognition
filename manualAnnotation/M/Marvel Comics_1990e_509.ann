@@ -1,0 +1,5 @@
+T1	Organization 0 13	Marvel Comics
+T2	Organization 463 475	Image Comics
+N1	Reference T1 wiki:351306	Marvel Comics
+N2	Reference T2 wiki:3103822	Image Comics
+A1	TypeRel T2 Personnel

@@ -1,0 +1,13 @@
+T1	Organization 0 20	Ritual Entertainment
+T2	Organization 233 244	Id Software
+T3	Organization 506 515	3D Realms
+T4	Organization 754 767	Splash Damage
+N1	Reference T1 wiki:1386191	Ritual Entertainment
+N2	Reference T2 wiki:80386	Id Software
+N3	Reference T3 wiki:2349412	3D Realms
+N4	Reference T4 wiki:2140575	Splash Damage
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel
+A5	TypeRel T4 Personnel

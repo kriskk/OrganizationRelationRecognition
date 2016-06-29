@@ -1,0 +1,6 @@
+T1	Organization 0 23	Газпром трансгаз Казань
+T2	Organization 179 192	ОАО «Газпром»
+N1	Reference T1 wiki:3004775	Газпром трансгаз Казань
+N2	Reference T2 wiki:44754	ОАО «Газпром»
+A1	IsLink T2
+A2	TypeRel T2 Holder

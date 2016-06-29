@@ -1,0 +1,5 @@
+T1	Organization 0 18	Телекомпания СТРИМ
+T2	Organization 231 247	Видео Интернешнл
+N1	Reference T1 wiki:2230588	Телекомпания СТРИМ
+N2	Reference T2 wiki:464142	Видео Интернешнл
+A1	IsLink T2

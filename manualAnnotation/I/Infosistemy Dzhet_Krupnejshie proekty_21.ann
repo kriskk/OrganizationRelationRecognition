@@ -1,0 +1,5 @@
+T1	Organization 0 16	Инфосистемы Джет
+T2	Organization 219 226	М.видео
+N1	Reference T1 wiki:3411651	Инфосистемы Джет
+N2	Reference T2 wiki:370490	М.видео
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 33	Зуевский энергомеханический завод
+T2	Organization 288 325	Алчевского коксохимического комбината
+N1	Reference T1 wiki:2510605	Зуевский энергомеханический завод
+N2	Reference T2 wiki:510769	Алчевский коксохимический завод
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

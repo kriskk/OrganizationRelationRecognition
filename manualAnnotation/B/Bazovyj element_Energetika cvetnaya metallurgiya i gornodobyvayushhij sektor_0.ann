@@ -1,0 +1,11 @@
+T1	Organization 0 15	Базовый элемент
+T2	Organization 182 191	En+ Group
+T3	Organization 413 421	ОК РУСАЛ
+T4	Organization 462 475	Евросибэнерго
+N1	Reference T1 wiki:156379	Базовый элемент
+N2	Reference T2 wiki:1909698	En+
+N3	Reference T3 wiki:598084	Российский алюминий
+N4	Reference T4 wiki:1395741	ЕвроСибЭнерго
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,10 @@
+T1	Organization 0 19	Интеграл (компания)
+T2	Organization 137 158	УП «Завод Транзистор»
+T3	Organization 319 338	ОАО «Электромодуль»
+N1	Reference T1 wiki:543285	Интеграл (компания)
+N2	Reference T2 wiki:4129843	Транзистор (завод)
+N3	Reference T3 wiki:2501794	Электромодуль (завод)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

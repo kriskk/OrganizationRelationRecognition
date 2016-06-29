@@ -1,0 +1,10 @@
+T1	Organization 0 19	New World Computing
+T2	Organization 213 216	3DO
+T3	Organization 321 328	Ubisoft
+N1	Reference T1 wiki:1260374	New World Computing
+N2	Reference T2 wiki:1475844	The 3DO Company
+N3	Reference T3 wiki:650139	Ubisoft
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

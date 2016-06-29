@@ -1,0 +1,32 @@
+T1	Organization 0 11	Белнефтехим
+T2	Organization 143 154	Гродно Азот
+T3	Organization 163 190	Гомельский химический завод
+T4	Organization 261 273	Белоруснефть
+T5	Organization 278 290	ОАО «Нафтан»
+T6	Organization 298 335	Мозырский нефтеперерабатывающий завод
+T7	Organization 478 485	Белшина
+T8	Organization 626 638	ОАО «Нафтан»
+T9	Organization 739 751	ОАО «Нафтан»
+T10	Organization 786 797	Гродно Азот
+T11	Organization 1085 1096	Гродно Азот
+N1	Reference T1 wiki:2450002	Белнефтехим
+N2	Reference T2 wiki:2450276	Гродно Азот
+N3	Reference T3 wiki:1368276	Гомельский химический завод
+N4	Reference T4 wiki:2450131	Белоруснефть
+N5	Reference T5 wiki:2434162	ОАО «Нафтан»
+N6	Reference T6 wiki:1142963	Мозырский нефтеперерабатывающий завод
+N7	Reference T7 wiki:52784	Белшина
+N8	Reference T8 wiki:2434162	ОАО «Нафтан»
+N9	Reference T9 wiki:2434162	ОАО «Нафтан»
+N10	Reference T10 wiki:2450276	Гродно Азот
+N11	Reference T11 wiki:2450276	Гродно Азот
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11

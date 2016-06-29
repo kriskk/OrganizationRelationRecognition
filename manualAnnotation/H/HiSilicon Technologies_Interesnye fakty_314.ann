@@ -1,0 +1,10 @@
+T1	Organization 0 22	HiSilicon Technologies
+T2	Organization 261 285	Imagination Technologies
+T3	Organization 299 306	Vivante
+N1	Reference T1 wiki:4225631	HiSilicon Technologies
+N2	Reference T2 wiki:4205830	Imagination Technologies
+N3	Reference T3 wiki:4276956	Vivante Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

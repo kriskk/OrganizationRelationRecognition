@@ -1,0 +1,9 @@
+T1	Organization 0 23	Worldvision Enterprises
+T2	Organization 219 225	Viacom
+T3	Organization 289 298	Paramount
+N1	Reference T1 wiki:1641259	Worldvision Enterprises
+N2	Reference T2 wiki:399829	Viacom
+N3	Reference T3 wiki:398699	Paramount
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

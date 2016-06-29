@@ -1,0 +1,62 @@
+T1	Organization 0 11	Энвижн Груп
+T2	Organization 226 235	ВымпелКом
+T3	Organization 237 249	Казахтелеком
+T4	Organization 273 296	Объединенный Ростелеком
+T5	Organization 351 357	Лукойл
+T6	Organization 359 362	РЖД
+T7	Organization 364 369	РУСАЛ
+T8	Organization 371 378	Росатом
+T9	Organization 380 387	Роснано
+T10	Organization 406 413	ФСК ЕЭС
+T11	Organization 649 652	EMC
+T12	Organization 676 691	Hewlett-Packard
+T13	Organization 693 699	Huawei
+T14	Organization 701 704	IBM
+T15	Organization 706 713	Juniper
+T16	Organization 715 724	Microsoft
+T17	Organization 726 732	Oracle
+T18	Organization 734 741	Polycom
+T19	Organization 743 749	VMware
+T20	Organization 803 816	АФК «Система»
+T21	Organization 1185 1201	Intracom Telecom
+N1	Reference T1 wiki:2937758	Энвижн Груп
+N2	Reference T2 wiki:70736	ВымпелКом
+N3	Reference T3 wiki:702503	Казахтелеком
+N4	Reference T4 wiki:145844	Ростелеком
+N5	Reference T5 wiki:59354	Лукойл
+N6	Reference T6 wiki:106901	РЖД
+N7	Reference T7 wiki:598084	РУСАЛ
+N8	Reference T8 wiki:1299917	Росатом
+N9	Reference T9 wiki:728818	Роснано
+N10	Reference T10 wiki:138863	ФСК ЕЭС
+N11	Reference T11 wiki:541503	EMC
+N12	Reference T12 wiki:89988	Hewlett-Packard
+N13	Reference T13 wiki:908840	Huawei
+N14	Reference T14 wiki:11078	IBM
+N15	Reference T15 wiki:320144	Juniper
+N16	Reference T16 wiki:11987	Microsoft
+N17	Reference T17 wiki:129227	Oracle
+N18	Reference T18 wiki:2173201	Polycom
+N19	Reference T19 wiki:205509	VMware
+N20	Reference T20 wiki:158888	Система (компания)
+N21	Reference T21 wiki:656715	Intracom Telecom
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	IsLink T21

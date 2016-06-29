@@ -1,0 +1,6 @@
+T1	Organization 0 29	Pioneer Hi-Bred International
+T2	Organization 227 233	DuPont
+N1	Reference T1 wiki:540450	Pioneer Hi-Bred International
+N2	Reference T2 wiki:206423	DuPont
+A1	IsLink T2
+A2	TypeRel T2 Holder

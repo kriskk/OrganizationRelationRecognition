@@ -1,0 +1,5 @@
+T1	Organization 0 8	Казпочта
+T2	Organization 248 302	АО «Фонд национального благосостояния „Самрук-Казына“»
+N1	Reference T1 wiki:1257078	Казпочта
+N2	Reference T2 wiki:1680328	Самрук-Казына
+A1	IsLink T2

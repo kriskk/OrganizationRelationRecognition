@@ -1,0 +1,6 @@
+T1	Organization 0 16	Leica Geosystems
+T2	Organization 299 304	Zeiss
+N1	Reference T1 wiki:2627212	Leica Geosystems
+N2	Reference T2 wiki:1151084	Zeiss
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

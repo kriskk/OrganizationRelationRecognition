@@ -1,0 +1,5 @@
+T1	Organization 0 7	YouTube
+T2	Organization 257 260	CNN
+N1	Reference T1 wiki:275424	YouTube
+N2	Reference T2 wiki:256238	CNN
+A1	TypeRel T2 Other

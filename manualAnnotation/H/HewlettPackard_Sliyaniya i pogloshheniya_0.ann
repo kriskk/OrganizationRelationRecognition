@@ -1,0 +1,14 @@
+T1	Organization 0 15	Hewlett-Packard
+T2	Organization 119 125	Compaq
+T3	Organization 212 235	Electronic Data Systems
+T4	Organization 500 510	Palm, Inc.
+N1	Reference T1 wiki:89988	Hewlett-Packard
+N2	Reference T2 wiki:343420	Compaq
+N3	Reference T3 wiki:1449756	Electronic Data Systems
+N4	Reference T4 wiki:128188	Palm (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Merge
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Simon & Schuster
+T2	Organization 194 209	CBS Corporation
+N1	Reference T1 wiki:1794381	Simon & Schuster
+N2	Reference T2 wiki:1345414	CBS Corporation
+A1	IsLink T2

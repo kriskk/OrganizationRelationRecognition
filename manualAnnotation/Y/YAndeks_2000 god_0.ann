@@ -1,0 +1,9 @@
+T1	Organization 0 6	Яндекс
+T2	Organization 186 193	CompTek
+T3	Organization 538 552	Яндекс.Новости
+N1	Reference T1 wiki:9744	Яндекс
+N2	Reference T2 wiki:2664407	CompTek
+N3	Reference T3 wiki:9744	Яндекс.Новости
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

@@ -1,0 +1,10 @@
+T1	Organization 0 7	Wistron
+T2	Organization 88 97	Acer Inc.
+T3	Organization 329 338	Microsoft
+N1	Reference T1 wiki:3573039	Wistron
+N2	Reference T2 wiki:326664	Acer
+N3	Reference T3 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

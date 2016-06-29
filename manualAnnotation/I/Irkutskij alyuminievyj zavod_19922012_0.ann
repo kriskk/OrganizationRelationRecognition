@@ -1,0 +1,9 @@
+T1	Organization 0 27	Иркутский алюминиевый завод
+T2	Organization 198 241	Каменск-Уральского металлургического завода
+T3	Organization 273 312	Сибирско-Уральская Алюминиевая компания
+N1	Reference T1 wiki:2305798	Иркутский алюминиевый завод
+N2	Reference T2 wiki:1635181	Каменск-Уральский металлургический завод
+N3	Reference T3 wiki:198079	Сибирско-Уральская Алюминиевая компания
+A1	IsLink T2
+A2	TypeRel T3 Holder
+A3	TypeRel T2 Merge

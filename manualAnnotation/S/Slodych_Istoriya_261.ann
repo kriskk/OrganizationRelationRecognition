@@ -1,0 +1,8 @@
+T1	Organization 0 6	Слодыч
+T2	Organization 197 223	Минская бисквитная фабрика
+T3	Organization 475 485	Коммунарка
+N1	Reference T1 wiki:3054453	Слодыч
+N2	Reference T2 wiki:3054453	Минская бисквитная фабрика
+N3	Reference T3 wiki:880519	Коммунарка (кондитерская фабрика)
+A1	IsLink T2
+A2	IsLink T3

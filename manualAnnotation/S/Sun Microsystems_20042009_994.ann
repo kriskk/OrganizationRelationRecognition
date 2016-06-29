@@ -1,0 +1,11 @@
+T1	Organization 0 16	Sun Microsystems
+T2	Organization 266 281	Hewlett-Packard
+T3	Organization 329 332	IBM
+T4	Organization 432 438	Oracle
+N1	Reference T1 wiki:4777	Sun Microsystems
+N2	Reference T2 wiki:89988	Hewlett-Packard
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:129227	Oracle
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

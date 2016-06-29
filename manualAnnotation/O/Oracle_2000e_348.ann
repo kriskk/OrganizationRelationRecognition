@@ -1,0 +1,10 @@
+T1	Organization 0 6	Oracle
+T2	Organization 256 266	PeopleSoft
+T3	Organization 387 393	Siebel
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:2977933	PeopleSoft
+N3	Reference T3 wiki:3454107	Siebel
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

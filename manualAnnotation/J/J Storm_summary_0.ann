@@ -1,0 +1,22 @@
+T1	Organization 0 7	J Storm
+T2	Organization 69 88	Johnny & Associates
+T3	Organization 267 286	Johnny & Associates
+T4	Organization 343 347	Avex
+T5	Organization 360 370	Sony Music
+T6	Organization 382 398	SM Entertainment
+N1	Reference T1 wiki:3292353	J Storm
+N2	Reference T2 wiki:3292340	Johnny & Associates
+N3	Reference T3 wiki:3292340	Johnny & Associates
+N4	Reference T4 wiki:3292401	Avex
+N5	Reference T5 wiki:3103736	Sony Music Entertainment Japan
+N6	Reference T6 wiki:1455965	SM Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder
+A7	TypeRel T3 Personnel
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

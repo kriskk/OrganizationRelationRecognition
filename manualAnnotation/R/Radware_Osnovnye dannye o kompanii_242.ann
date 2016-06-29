@@ -1,0 +1,5 @@
+T1	Organization 0 7	Radware
+T2	Organization 277 292	Nortel Networks
+N1	Reference T1 wiki:2270332	Radware
+N2	Reference T2 wiki:311902	Nortel Networks
+A1	IsLink T2

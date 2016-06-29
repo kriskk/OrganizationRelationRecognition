@@ -1,0 +1,10 @@
+T1	Organization 0 16	WideScreen Games
+T2	Organization 292 302	CD Projekt
+T3	Organization 322 336	CD Projekt RED
+N1	Reference T1 wiki:1896065	WideScreen Games
+N2	Reference T2 wiki:1275736	CD Projekt
+N3	Reference T3 wiki:1571245	CD Projekt RED
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

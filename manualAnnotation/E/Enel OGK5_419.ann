@@ -1,0 +1,5 @@
+T1	Organization 0 10	Энел ОГК-5
+T2	Organization 167 171	КПМГ
+N1	Reference T1 wiki:302523	Энел ОГК-5
+N2	Reference T2 wiki:281743	КПМГ
+A1	IsLink T2

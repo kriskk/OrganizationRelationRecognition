@@ -1,0 +1,5 @@
+T1	Organization 0 5	WD-40
+T2	Organization 218 230	бирже NASDAQ
+N1	Reference T1 wiki:3149443	WD-40
+N2	Reference T2 wiki:63813	NASDAQ
+A1	TypeRel T2 Other

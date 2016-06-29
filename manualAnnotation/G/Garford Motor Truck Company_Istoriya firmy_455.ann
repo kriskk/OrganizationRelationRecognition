@@ -1,0 +1,5 @@
+T1	Organization 0 27	Garford Motor Truck Company
+T2	Organization 302 321	Почтовой службы США
+N1	Reference T1 wiki:3136244	Garford Motor Truck Company
+N2	Reference T2 wiki:1728001	Почтовая служба США
+A1	IsLink T2

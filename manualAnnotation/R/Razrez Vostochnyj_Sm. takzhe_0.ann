@@ -1,0 +1,5 @@
+T1	Organization 0 16	Разрез Восточный
+T2	Organization 49 64	Разрез Богатырь
+N1	Reference T1 wiki:1611928	Разрез Восточный
+N2	Reference T2 wiki:1611865	Разрез Богатырь
+A1	IsLink T2

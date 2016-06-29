@@ -1,0 +1,8 @@
+T1	Organization 0 8	Bouygues
+T2	Organization 318 333	Мега Белая Дача
+T3	Organization 401 406	Hyatt
+N1	Reference T1 wiki:1710539	Bouygues
+N2	Reference T2 wiki:259737	МЕГА
+N3	Reference T3 wiki:284635	Hyatt
+A1	IsLink T2
+A2	IsLink T3

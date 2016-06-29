@@ -1,0 +1,8 @@
+T1	Organization 0 11	Третий парк
+T2	Organization 181 202	Golden Dragon XML6112
+T3	Organization 204 225	Golden Dragon XML6125
+N1	Reference T1 wiki:759049	Третий парк
+N2	Reference T2 wiki:260309	Golden Dragon
+N3	Reference T3 wiki:260309	Golden Dragon
+A1	IsLink T2
+A2	IsLink T3

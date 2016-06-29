@@ -1,0 +1,10 @@
+T1	Organization 0 30	Восточная стивидорная компания
+T2	Organization 256 262	Maersk
+T3	Organization 436 473	Владивостокский морской торговый порт
+N1	Reference T1 wiki:3146849	Восточная стивидорная компания
+N2	Reference T2 wiki:232874	A.P. Moller-Maersk Group
+N3	Reference T3 wiki:1109076	Владивостокский морской торговый порт
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Competitor

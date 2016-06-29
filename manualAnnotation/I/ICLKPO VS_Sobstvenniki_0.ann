@@ -1,0 +1,6 @@
+T1	Organization 0 10	ICL-КПО ВС
+T2	Organization 158 186	Fujitsu Technology Solutions
+N1	Reference T1 wiki:4182309	ICL-КПО ВС
+N2	Reference T2 wiki:2005446	Fujitsu Technology Solutions
+A1	IsLink T2
+A2	TypeRel T2 Holder

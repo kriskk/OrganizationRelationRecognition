@@ -1,0 +1,9 @@
+T1	Organization 0 18	Rockstar Vancouver
+T2	Organization 240 254	Rockstar Games
+T3	Organization 256 272	Rockstar Toronto
+N1	Reference T1 wiki:2102172	Rockstar Vancouver
+N2	Reference T2 wiki:650156	Rockstar Games
+N3	Reference T3 wiki:2336518	Rockstar Toronto
+A2	IsLink T3
+A1	TypeRel T2 Merge
+A3	TypeRel T3 Merge

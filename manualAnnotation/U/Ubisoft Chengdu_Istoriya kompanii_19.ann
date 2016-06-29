@@ -1,0 +1,24 @@
+T1	Organization 0 15	Ubisoft Chengdu
+T2	Organization 263 270	Ubisoft
+T3	Organization 280 296	Ubisoft Shanghai
+T4	Organization 404 429	шанхайским подразделением
+T5	Organization 473 482	Microsoft
+T6	Organization 647 653	Crytek
+T7	Organization 988 1004	Ubisoft Montreal
+N1	Reference T1 wiki:2523242	Ubisoft Chengdu
+N2	Reference T2 wiki:650139	Ubisoft
+N3	Reference T3 wiki:2522700	Ubisoft Shanghai
+N4	Reference T4 wiki:2522700	Ubisoft Shanghai
+N5	Reference T5 wiki:11987	Microsoft
+N6	Reference T6 wiki:650133	Crytek
+N7	Reference T7 wiki:1357432	Ubisoft Montreal
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Holder
+A8	TypeRel T4 Personnel
+A9	TypeRel T6 Personnel
+A10	TypeRel T7 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 16	NASDAQ OMX Group
+T2	Organization 183 189	Nasdaq
+N1	Reference T1 wiki:1036854	NASDAQ OMX Group
+N2	Reference T2 wiki:63813	Nasdaq
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

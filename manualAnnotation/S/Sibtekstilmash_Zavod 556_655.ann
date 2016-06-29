@@ -1,0 +1,5 @@
+T1	Organization 0 14	Сибтекстильмаш
+T2	Organization 226 240	Сибтекстильмаш
+N1	Reference T1 wiki:4241881	Сибтекстильмаш
+N2	Reference T2 wiki:4241881	Сибтекстильмаш
+A1	IsLink T2

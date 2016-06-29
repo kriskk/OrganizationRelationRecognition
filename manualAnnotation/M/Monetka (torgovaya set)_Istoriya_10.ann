@@ -1,0 +1,5 @@
+T1	Organization 0 23	Монетка (торговая сеть)
+T2	Organization 191 199	Копейкой
+N1	Reference T1 wiki:3848054	Монетка (торговая сеть)
+N2	Reference T2 wiki:153659	Копейка (сеть магазинов)
+A1	IsLink T2

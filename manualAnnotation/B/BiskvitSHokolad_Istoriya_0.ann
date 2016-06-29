@@ -1,0 +1,11 @@
+T1	Organization 0 15	Бисквит-Шоколад
+T2	Organization 152 172	кондитерская фабрика
+T3	Organization 173 186	Жоржа Бормана
+T4	Organization 369 399	Харьковская бисквитная фабрика
+N1	Reference T1 wiki:2028291	Бисквит-Шоколад
+N2	Reference T2 wiki:2028242	Харьковская кондитерская фабрика
+N3	Reference T3 wiki:755487	Жорж Борман
+N4	Reference T4 wiki:1023483	Харьковская бисквитная фабрика
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

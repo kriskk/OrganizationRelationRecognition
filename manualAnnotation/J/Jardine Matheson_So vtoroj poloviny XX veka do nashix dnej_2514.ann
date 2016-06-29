@@ -1,0 +1,10 @@
+T1	Organization 0 16	Jardine Matheson
+T2	Organization 414 423	Pizza Hut
+T3	Organization 426 430	IKEA
+N1	Reference T1 wiki:3497044	Jardine Matheson
+N2	Reference T2 wiki:1270413	Pizza Hut
+N3	Reference T3 wiki:164679	IKEA
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

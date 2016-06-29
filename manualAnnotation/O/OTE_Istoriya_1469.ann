@@ -1,0 +1,5 @@
+T1	Organization 0 3	OTE
+T2	Organization 203 217	Telekom Srbija
+N1	Reference T1 wiki:3772734	OTE
+N2	Reference T2 wiki:1014812	Telekom Srbija
+A1	TypeRel T2 Cooperator

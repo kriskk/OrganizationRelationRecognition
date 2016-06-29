@@ -1,0 +1,11 @@
+T1	Organization 0 21	Daimler Motor Company
+T2	Organization 127 138	Jaguar Cars
+T3	Organization 168 179	Jaguar Cars
+T4	Organization 377 388	Tata Motors
+N1	Reference T1 wiki:294683	Daimler Motor Company
+N2	Reference T2 wiki:431514	Jaguar Cars
+N3	Reference T3 wiki:431514	Jaguar Cars
+N4	Reference T4 wiki:962083	Tata Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

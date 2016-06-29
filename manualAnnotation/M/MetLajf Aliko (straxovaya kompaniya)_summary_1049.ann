@@ -1,0 +1,10 @@
+T1	Organization 0 34	МетЛайф Алико (страховая компания)
+T2	Organization 252 269	Standard & Poor's
+T3	Organization 425 435	Эксперт РА
+N1	Reference T1 wiki:2635757	МетЛайф Алико (страховая компания)
+N2	Reference T2 wiki:198286	Standard & Poor's
+N3	Reference T3 wiki:363296	Эксперт РА
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Other
+A4	TypeRel T3 Other

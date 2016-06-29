@@ -1,0 +1,5 @@
+T1	Organization 0 5	Sonae
+T2	Organization 190 203	ABN Amro Bank
+N1	Reference T1 wiki:2485928	Sonae
+N2	Reference T2 wiki:486433	ABN AMRO
+A1	IsLink T2

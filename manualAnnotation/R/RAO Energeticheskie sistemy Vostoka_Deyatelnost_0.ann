@@ -1,0 +1,34 @@
+T1	Organization 0 34	РАО Энергетические системы Востока
+T2	Organization 77 91	РАО ЭС Востока
+T3	Organization 287 301	РАО ЭС Востока
+T4	Organization 467 481	РАО ЭС Востока
+T5	Organization 715 719	ДРСК
+T6	Organization 727 730	ДГК
+T7	Organization 742 754	Якутскэнерго
+T8	Organization 783 797	Камчатскэнерго
+T9	Organization 805 818	Сахалинэнерго
+N1	Reference T1 wiki:2671340	РАО Энергетические системы Востока
+N2	Reference T2 wiki:2671340	РАО ЭС Востока
+N3	Reference T3 wiki:2671340	РАО ЭС Востока
+N4	Reference T4 wiki:2671340	РАО ЭС Востока
+N5	Reference T5 wiki:4171762	ДРСК
+N6	Reference T6 wiki:1398050	ДГК
+N7	Reference T7 wiki:4168405	Якутскэнерго
+N8	Reference T8 wiki:4168577	Камчатскэнерго
+N9	Reference T9 wiki:1396664	Сахалинэнерго
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Alias
+A10	TypeRel T3 Alias
+A11	TypeRel T4 Alias
+A12	TypeRel T5 Subsidiary
+A13	TypeRel T6 Subsidiary
+A14	TypeRel T7 Subsidiary
+A15	TypeRel T8 Subsidiary
+A16	TypeRel T9 Subsidiary

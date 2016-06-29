@@ -1,0 +1,5 @@
+T1	Organization 0 21	Rīgas piena kombināts
+T2	Organization 193 238	Русско-Балтийского вагоностроительного завода
+N1	Reference T1 wiki:3490250	Rīgas piena kombināts
+N2	Reference T2 wiki:3005889	Русско-Балтийский вагонный завод
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 21	ZF Friedrichshafen AG
+T2	Organization 235 240	КамАЗ
+N1	Reference T1 wiki:154998	ZF Friedrichshafen AG
+N2	Reference T2 wiki:169714	КамАЗ
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,11 @@
+T1	Organization 0 2	1С
+T2	Organization 220 226	Акелла
+T3	Organization 258 264	Акелла
+T4	Organization 315 321	Акелла
+N1	Reference T1 wiki:34936	1С
+N2	Reference T2 wiki:654463	Акелла
+N3	Reference T3 wiki:654463	Акелла
+N4	Reference T4 wiki:654463	Акелла
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

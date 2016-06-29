@@ -1,0 +1,10 @@
+T1	Organization 0 20	Завод имени Лихачёва
+T2	Organization 275 284	AMO Plant
+T3	Organization 415 423	Sinotruk
+N1	Reference T1 wiki:259988	Завод имени Лихачёва
+N2	Reference T2 wiki:3679111	AMO Plant
+N3	Reference T3 wiki:3433242	Sinotruk
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

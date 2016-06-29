@@ -1,0 +1,21 @@
+T1	Organization 0 41	Уральская горно-металлургическая компания
+T2	Organization 127 163	Среднеуральский медеплавильный завод
+T3	Organization 183 217	Медногорский медно-серный комбинат
+T4	Organization 220 235	Уралэлектромедь
+T5	Organization 238 277	Металлургический завод им. А. К. Серова
+T6	Organization 328 354	Челябинский цинковый завод
+N1	Reference T1 wiki:171944	Уральская горно-металлургическая компания
+N2	Reference T2 wiki:4187965	Среднеуральский медеплавильный завод
+N3	Reference T3 wiki:312705	Медногорский медно-серный комбинат
+N4	Reference T4 wiki:604842	Уралэлектромедь
+N5	Reference T5 wiki:1212563	Металлургический завод им. А. К. Серова
+N6	Reference T6 wiki:293963	Челябинский цинковый завод
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary
+A9	TypeRel T6 Subsidiary

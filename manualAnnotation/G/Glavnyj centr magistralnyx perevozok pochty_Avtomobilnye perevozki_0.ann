@@ -1,0 +1,6 @@
+T1	Organization 0 43	Главный центр магистральных перевозок почты
+T2	Organization 207 212	Iveco
+N1	Reference T1 wiki:1267157	Главный центр магистральных перевозок почты
+N2	Reference T2 wiki:272617	Iveco
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 29	Разведка Добыча «КазМунайГаз»
+T2	Organization 124 163	АО "Национальная компания «КазМунайГаз»
+N1	Reference T1 wiki:1210381	Разведка Добыча «КазМунайГаз»
+N2	Reference T2 wiki:294591	КазМунайГаз
+A1	IsLink T2
+A2	TypeRel T2 Holder

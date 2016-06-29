@@ -1,0 +1,6 @@
+T1	Organization 0 5	ЛАНИТ
+T2	Organization 200 207	CompTek
+N1	Reference T1 wiki:359105	ЛАНИТ
+N2	Reference T2 wiki:2664407	CompTek
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

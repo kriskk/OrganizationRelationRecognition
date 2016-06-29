@@ -1,0 +1,5 @@
+T1	Organization 0 14	BigBig Studios
+T2	Organization 150 177	Sony Computer Entertainment
+N1	Reference T1 wiki:3214775	BigBig Studios
+N2	Reference T2 wiki:1454994	Sony Computer Entertainment
+A1	IsLink T2

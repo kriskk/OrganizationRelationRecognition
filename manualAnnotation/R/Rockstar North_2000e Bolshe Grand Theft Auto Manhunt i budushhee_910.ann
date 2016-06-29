@@ -1,0 +1,5 @@
+T1	Organization 0 14	Rockstar North
+T2	Organization 255 270	Rockstar Vienna
+N1	Reference T1 wiki:662662	Rockstar North
+N2	Reference T2 wiki:2329608	Rockstar Vienna
+A1	IsLink T2

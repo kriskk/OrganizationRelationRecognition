@@ -1,0 +1,18 @@
+T1	Organization 0 4	ЮКОС
+T2	Organization 161 169	Роснефть
+T3	Organization 416 443	Восточная нефтяная компания
+T4	Organization 445 467	Куйбышевнефтеоргсинтез
+T5	Organization 469 483	Самаранефтегаз
+N1	Reference T1 wiki:6032	ЮКОС
+N2	Reference T2 wiki:139770	Роснефть
+N3	Reference T3 wiki:980642	Восточная нефтяная компания
+N4	Reference T4 wiki:988816	Куйбышевнефтеоргсинтез
+N5	Reference T5 wiki:136845	Самаранефтегаз
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary

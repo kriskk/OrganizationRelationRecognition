@@ -1,0 +1,5 @@
+T1	Organization 0 5	Isuzu
+T2	Organization 263 294	Sumitomo Metal Industries, Ltd.
+N1	Reference T1 wiki:177809	Isuzu
+N2	Reference T2 wiki:1835225	Sumitomo Metal Industries
+A1	TypeRel T2 Cooperator

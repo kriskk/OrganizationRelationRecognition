@@ -1,0 +1,8 @@
+T1	Organization 0 5	Simca
+T2	Organization 220 223	PSA
+T3	Organization 272 278	Talbot
+N1	Reference T1 wiki:1506307	Simca
+N2	Reference T2 wiki:226616	PSA Peugeot Citroën
+N3	Reference T3 wiki:830160	Talbot
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,6 @@
+T1	Organization 0 31	Южно-Кавказская железная дорога
+T2	Organization 140 166	Российские железные дороги
+N1	Reference T1 wiki:1937347	Южно-Кавказская железная дорога
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2
+A2	TypeRel T2 Holder

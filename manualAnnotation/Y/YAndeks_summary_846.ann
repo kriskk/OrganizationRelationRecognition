@@ -1,0 +1,10 @@
+T1	Organization 0 6	Яндекс
+T2	Organization 290 304	Яндекс.Новости
+T3	Organization 572 583	Yandex Labs
+N1	Reference T1 wiki:9744	Яндекс
+N2	Reference T2 wiki:9744	Яндекс.Новости
+N3	Reference T3 wiki:4420190	Yandex Labs
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

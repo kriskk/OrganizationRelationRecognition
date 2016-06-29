@@ -1,0 +1,5 @@
+T1	Organization 0 13	Сахалинэнерго
+T2	Organization 243 277	РАО Энергетические системы Востока
+N1	Reference T1 wiki:1396664	Сахалинэнерго
+N2	Reference T2 wiki:2671340	РАО Энергетические системы Востока
+A1	IsLink T2

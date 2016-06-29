@@ -1,0 +1,6 @@
+T1	Organization 0 5	Matra
+T2	Organization 188 197	Lagardere
+N1	Reference T1 wiki:1910462	Matra
+N2	Reference T2 wiki:169461	Lagardere
+A1	IsLink T2
+A2	TypeRel T2 Holder

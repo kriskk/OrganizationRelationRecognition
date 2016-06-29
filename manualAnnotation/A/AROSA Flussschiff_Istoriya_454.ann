@@ -1,0 +1,5 @@
+T1	Organization 0 18	A-ROSA Flussschiff
+T2	Organization 284 296	Neptun Werft
+N1	Reference T1 wiki:4403427	A-ROSA Flussschiff
+N2	Reference T2 wiki:4407818	Neptun Werft
+A1	IsLink T2

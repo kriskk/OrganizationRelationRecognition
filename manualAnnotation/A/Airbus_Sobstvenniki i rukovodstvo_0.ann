@@ -1,0 +1,8 @@
+T1	Organization 0 6	Airbus
+T2	Organization 121 125	EADS
+T3	Organization 183 194	BAE Systems
+N1	Reference T1 wiki:212269	Airbus
+N2	Reference T2 wiki:39833	EADS
+N3	Reference T3 wiki:2435557	BAE Systems
+A1	IsLink T2
+A2	IsLink T3

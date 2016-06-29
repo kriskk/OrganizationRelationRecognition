@@ -1,0 +1,10 @@
+T1	Organization 0 17	Мортон (компания)
+T2	Organization 203 206	ПИК
+T3	Organization 211 217	СУ-155
+N1	Reference T1 wiki:4425384	Мортон (компания)
+N2	Reference T2 wiki:150428	ПИК (компания)
+N3	Reference T3 wiki:167163	СУ-155
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

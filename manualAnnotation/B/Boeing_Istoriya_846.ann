@@ -1,0 +1,8 @@
+T1	Organization 0 6	Boeing
+T2	Organization 266 289	Lockheed Aircraft Corp.
+T3	Organization 292 312	Douglas Aircraft Co.
+N1	Reference T1 wiki:156398	Boeing
+N2	Reference T2 wiki:1523502	Lockheed Corporation
+N3	Reference T3 wiki:4294726	Douglas Aircraft Company
+A1	IsLink T2
+A2	IsLink T3

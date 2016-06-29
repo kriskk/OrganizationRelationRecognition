@@ -1,0 +1,26 @@
+T1	Organization 0 8	Comverse
+T2	Organization 143 149	Amdocs
+T3	Organization 224 229	CBOSS
+T4	Organization 389 395	Huawei
+T5	Organization 406 425	INLINE Technologies
+T6	Organization 495 505	NetCracker
+T7	Organization 514 520	Oracle
+T8	Organization 558 585	Sitronics Telecom Solutions
+T9	Organization 597 609	Петер-Сервис
+N1	Reference T1 wiki:1123605	Comverse
+N2	Reference T2 wiki:214918	Amdocs
+N3	Reference T3 wiki:144923	CBOSS
+N4	Reference T4 wiki:908840	Huawei
+N5	Reference T5 wiki:2870798	INLINE Technologies
+N6	Reference T6 wiki:1653403	NetCracker
+N7	Reference T7 wiki:129227	Oracle Corporation
+N8	Reference T8 wiki:653895	Sitronics Telecom Solutions
+N9	Reference T9 wiki:1870153	Петер-Сервис
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9

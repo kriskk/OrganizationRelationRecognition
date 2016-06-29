@@ -1,0 +1,8 @@
+T1	Organization 0 26	Посадский (сеть магазинов)
+T2	Organization 270 278	Патэрсон
+T3	Organization 283 289	Вестер
+N1	Reference T1 wiki:1497827	Посадский (сеть магазинов)
+N2	Reference T2 wiki:173803	Патэрсон
+N3	Reference T3 wiki:1419203	Вестер
+A1	IsLink T2
+A2	IsLink T3

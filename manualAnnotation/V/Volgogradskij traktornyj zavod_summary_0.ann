@@ -1,0 +1,6 @@
+T1	Organization 0 30	Волгоградский тракторный завод
+T2	Organization 177 194	Тракторные заводы
+N1	Reference T1 wiki:2471295	Волгоградский тракторный завод
+N2	Reference T2 wiki:165385	Тракторные заводы
+A1	IsLink T2
+A2	TypeRel T2 Holder

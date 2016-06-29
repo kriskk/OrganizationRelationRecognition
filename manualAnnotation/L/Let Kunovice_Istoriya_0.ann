@@ -1,0 +1,5 @@
+T1	Organization 0 12	Let Kunovice
+T2	Organization 116 128	Авиа Летняны
+N1	Reference T1 wiki:3952388	Let Kunovice
+N2	Reference T2 wiki:897617	Avia
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 13	U.S. Robotics
+T2	Organization 248 258	Palm, Inc.
+N1	Reference T1 wiki:626416	U.S. Robotics
+N2	Reference T2 wiki:128188	Palm, Inc.
+A1	TypeRel T2 Subsidiary

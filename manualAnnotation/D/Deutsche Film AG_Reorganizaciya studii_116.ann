@@ -1,0 +1,5 @@
+T1	Organization 0 16	Deutsche Film AG
+T2	Organization 345 348	UFA
+N1	Reference T1 wiki:1378290	Deutsche Film AG
+N2	Reference T2 wiki:1388628	UFA
+A1	IsLink T2

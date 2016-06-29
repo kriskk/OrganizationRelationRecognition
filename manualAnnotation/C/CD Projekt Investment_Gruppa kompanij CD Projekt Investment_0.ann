@@ -1,0 +1,11 @@
+T1	Organization 0 21	CD Projekt Investment
+T2	Organization 115 132	CD Projekt “blue”
+T3	Organization 227 241	CD Projekt RED
+T4	Organization 275 294	Metropolis Software
+N1	Reference T1 wiki:2107400	CD Projekt Investment
+N2	Reference T2 wiki:1275736	CD Projekt
+N3	Reference T3 wiki:1571245	CD Projekt RED
+N4	Reference T4 wiki:1858336	Metropolis Software
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

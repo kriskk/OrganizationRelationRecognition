@@ -1,0 +1,5 @@
+T1	Organization 0 5	РАТЕП
+T2	Organization 135 146	Алмаз-Антей
+N1	Reference T1 wiki:924547	РАТЕП
+N2	Reference T2 wiki:149639	Алмаз-Антей
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 3	MAN
+T2	Organization 129 145	Volkswagen Group
+N1	Reference T1 wiki:42703	MAN
+N2	Reference T2 wiki:750217	Volkswagen Group
+A1	TypeRel T2 Holder

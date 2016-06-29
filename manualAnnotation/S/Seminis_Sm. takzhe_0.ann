@@ -1,0 +1,5 @@
+T1	Organization 0 7	Seminis
+T2	Organization 40 56	Monsanto Company
+N1	Reference T1 wiki:4164801	Seminis
+N2	Reference T2 wiki:542963	Monsanto Company
+A1	IsLink T2

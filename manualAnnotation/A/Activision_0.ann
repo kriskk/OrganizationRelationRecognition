@@ -1,0 +1,8 @@
+T1	Organization 0 10	Activision
+T2	Organization 103 109	NASDAQ
+T3	Organization 374 380	Marvel
+N1	Reference T1 wiki:307964	Activision
+N2	Reference T2 wiki:63813	NASDAQ
+N3	Reference T3 wiki:351306	Marvel
+A1	IsLink T2
+A2	IsLink T3

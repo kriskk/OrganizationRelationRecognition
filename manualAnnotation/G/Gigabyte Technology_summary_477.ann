@@ -1,0 +1,5 @@
+T1	Organization 0 19	Gigabyte Technology
+T2	Organization 253 259	GSmart
+N1	Reference T1 wiki:1265773	Gigabyte Technology
+N2	Reference T2 wiki:2333186	GSmart
+A1	TypeRel T2 Subsidiary

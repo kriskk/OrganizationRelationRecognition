@@ -1,0 +1,6 @@
+T1	Organization 0 18	Vickers-Armstrongs
+T2	Organization 212 239	Barrow Shipbuilding Company
+N1	Reference T1 wiki:983337	Vickers-Armstrongs
+N2	Reference T2 wiki:4416367	Barrow Shipbuilding Company
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

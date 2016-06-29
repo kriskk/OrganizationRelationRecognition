@@ -1,0 +1,6 @@
+T1	Organization 0 28	Галичский автокрановый завод
+T2	Organization 292 296	МЗКТ
+N1	Reference T1 wiki:2590187	Галичский автокрановый завод
+N2	Reference T2 wiki:167144	Минский завод колёсных тягачей
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

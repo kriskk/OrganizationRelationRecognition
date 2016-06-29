@@ -1,0 +1,8 @@
+T1	Organization 0 15	Шериф (холдинг)
+T2	Organization 114 117	IDC
+T3	Organization 424 427	IDC
+N1	Reference T1 wiki:393414	Шериф (холдинг)
+N2	Reference T2 wiki:1303019	Интерднестрком
+N3	Reference T3 wiki:1303019	Интерднестрком
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary

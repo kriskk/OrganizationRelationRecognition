@@ -1,0 +1,5 @@
+T1	Organization 0 8	Daihatsu
+T2	Organization 290 314	Toyota Motor Corporation
+N1	Reference T1 wiki:237199	Daihatsu
+N2	Reference T2 wiki:42689	Toyota Motor Corporation
+A1	IsLink T2

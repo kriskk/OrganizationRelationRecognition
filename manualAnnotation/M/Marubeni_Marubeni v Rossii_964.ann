@@ -1,0 +1,6 @@
+T1	Organization 0 8	Marubeni
+T2	Organization 286 293	Komatsu
+N1	Reference T1 wiki:2210137	Marubeni
+N2	Reference T2 wiki:744230	Komatsu
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 8	4A Games
+T2	Organization 114 128	GSC Game World
+N1	Reference T1 wiki:2512670	4A Games
+N2	Reference T2 wiki:866334	GSC Game World
+A1	IsLink T2

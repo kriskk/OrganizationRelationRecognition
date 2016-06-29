@@ -1,0 +1,13 @@
+T1	Organization 0 33	Оптовая генерирующая компания № 2
+T2	Organization 245 261	РАО «ЕЭС России»
+T3	Organization 342 349	Газпром
+T4	Organization 476 497	Газпром энергохолдинг
+N1	Reference T1 wiki:456796	Оптовая генерирующая компания № 2
+N2	Reference T2 wiki:1432138	ЕЭС России (компания)
+N3	Reference T3 wiki:44754	Газпром
+N4	Reference T4 wiki:2691900	Газпром энергохолдинг
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder

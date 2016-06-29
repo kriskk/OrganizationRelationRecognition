@@ -1,0 +1,9 @@
+T1	Organization 0 10	PeopleSoft
+T2	Organization 360 366	Oracle
+T3	Organization 384 387	SAP
+N1	Reference T1 wiki:2977933	PeopleSoft
+N2	Reference T2 wiki:129227	Oracle
+N3	Reference T3 wiki:81959	SAP
+A2	IsLink T3
+A1	TypeRel T2 Competitor
+A3	TypeRel T3 Competitor

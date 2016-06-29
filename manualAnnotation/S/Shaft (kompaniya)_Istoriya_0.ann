@@ -1,0 +1,5 @@
+T1	Organization 0 16	Shaft (компания)
+T2	Organization 123 139	Mushi Production
+N1	Reference T1 wiki:2520350	Shaft (компания)
+N2	Reference T2 wiki:2689263	Mushi Production
+A1	IsLink T2

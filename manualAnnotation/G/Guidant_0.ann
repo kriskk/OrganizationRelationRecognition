@@ -1,0 +1,13 @@
+T1	Organization 0 7	Guidant
+T2	Organization 103 109	MAQUET
+T3	Organization 150 167	Boston Scientific
+T4	Organization 202 208	MAQUET
+N1	Reference T1 wiki:1682016	Guidant
+N2	Reference T2 wiki:964472	MAQUET
+N3	Reference T3 wiki:1681986	Boston Scientific
+N4	Reference T4 wiki:964472	MAQUET
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T4 Holder
+A5	TypeRel T3 Holder

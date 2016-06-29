@@ -1,0 +1,14 @@
+T1	Organization 0 16	Gearbox Software
+T2	Organization 306 315	3D Realms
+T3	Organization 332 350	Bethesda Softworks
+T4	Organization 499 504	Valve
+N1	Reference T1 wiki:541955	Gearbox Software
+N2	Reference T2 wiki:2349412	3D Realms
+N3	Reference T3 wiki:178727	Bethesda Softworks
+N4	Reference T4 wiki:364585	Valve
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Personnel
+A5	TypeRel T3 Personnel
+A6	TypeRel T4 Cooperator

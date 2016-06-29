@@ -1,0 +1,6 @@
+T1	Organization 0 18	Куйбышевгидрострой
+T2	Organization 227 231	ВАЗа
+N1	Reference T1 wiki:702093	Куйбышевгидрострой
+N2	Reference T2 wiki:139276	АвтоВАЗ
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

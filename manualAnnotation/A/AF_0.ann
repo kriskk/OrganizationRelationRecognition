@@ -1,0 +1,10 @@
+T1	Organization 0 3	ÖAF
+T2	Organization 105 111	MAN SE
+T3	Organization 354 360	MAN SE
+N1	Reference T1 wiki:4154766	ÖAF
+N2	Reference T2 wiki:42703	MAN SE
+N3	Reference T3 wiki:42703	MAN SE
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

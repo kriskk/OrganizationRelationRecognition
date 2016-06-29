@@ -1,0 +1,5 @@
+T1	Organization 0 6	Crytek
+T2	Organization 267 270	ATI
+N1	Reference T1 wiki:650133	Crytek
+N2	Reference T2 wiki:1155771	ATI
+A1	IsLink T2

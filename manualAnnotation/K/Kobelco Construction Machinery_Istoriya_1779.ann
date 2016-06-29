@@ -1,0 +1,6 @@
+T1	Organization 0 30	Kobelco Construction Machinery
+T2	Organization 281 284	P&H
+N1	Reference T1 wiki:3750854	Kobelco Construction Machinery
+N2	Reference T2 wiki:3743506	P&H Mining Equipment
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

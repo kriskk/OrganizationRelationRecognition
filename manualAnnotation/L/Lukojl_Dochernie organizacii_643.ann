@@ -1,0 +1,10 @@
+T1	Organization 0 6	Лукойл
+T2	Organization 212 228	Лукойл-Экоэнерго
+T3	Organization 393 398	РИТЭК
+N1	Reference T1 wiki:59354	Лукойл
+N2	Reference T2 wiki:494109	Лукойл-Экоэнерго
+N3	Reference T3 wiki:312725	РИТЭК
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

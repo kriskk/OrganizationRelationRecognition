@@ -1,0 +1,5 @@
+T1	Organization 0 15	The Sims Studio
+T2	Organization 194 199	Maxis
+N1	Reference T1 wiki:2575396	The Sims Studio
+N2	Reference T2 wiki:1292523	Maxis
+A1	IsLink T2

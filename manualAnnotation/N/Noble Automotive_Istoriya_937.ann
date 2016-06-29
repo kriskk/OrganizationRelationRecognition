@@ -1,0 +1,13 @@
+T1	Organization 0 16	Noble Automotive
+T2	Organization 229 236	Ferrari
+T3	Organization 239 246	Porsche
+T4	Organization 679 689	Koenigsegg
+N1	Reference T1 wiki:2602810	Noble Automotive
+N2	Reference T2 wiki:124051	Ferrari
+N3	Reference T3 wiki:403194	Porsche
+N4	Reference T4 wiki:332186	Koenigsegg
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor

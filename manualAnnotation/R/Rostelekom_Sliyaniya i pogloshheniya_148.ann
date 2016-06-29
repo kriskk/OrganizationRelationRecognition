@@ -1,0 +1,11 @@
+T1	Organization 0 10	Ростелеком
+T2	Organization 290 299	РТКомм.РУ
+T3	Organization 513 516	НКС
+T4	Organization 680 700	ОАО «Башинформсвязь»
+N1	Reference T1 wiki:145844	Ростелеком
+N2	Reference T2 wiki:1399213	РТКомм.РУ
+N3	Reference T3 wiki:2457510	Национальные кабельные сети
+N4	Reference T4 wiki:1365624	Башинформсвязь
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

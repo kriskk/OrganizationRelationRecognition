@@ -1,0 +1,8 @@
+T1	Organization 0 7	2K Play
+T2	Organization 118 126	2K Games
+T3	Organization 165 185	Take-Two Interactive
+N1	Reference T1 wiki:2834760	2K Play
+N2	Reference T2 wiki:2386194	2K Games
+N3	Reference T3 wiki:2783863	Take-Two Interactive
+A1	IsLink T2
+A2	IsLink T3

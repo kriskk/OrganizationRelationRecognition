@@ -1,0 +1,22 @@
+T1	Organization 0 4	ОБИТ
+T2	Organization 227 235	Ericsson
+T3	Organization 237 242	Avaya
+T4	Organization 244 249	Cisco
+T5	Organization 251 265	Alcatel-Lucent
+T6	Organization 267 274	Juniper
+N1	Reference T1 wiki:3672957	ОБИТ
+N2	Reference T2 wiki:711402	Ericsson
+N3	Reference T3 wiki:685464	Avaya
+N4	Reference T4 wiki:25014	Cisco
+N5	Reference T5 wiki:542818	Alcatel-Lucent
+N6	Reference T6 wiki:320144	Juniper
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

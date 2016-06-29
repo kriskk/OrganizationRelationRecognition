@@ -1,0 +1,10 @@
+T1	Organization 0 9	P.A. Semi
+T2	Organization 217 220	IBM
+T3	Organization 321 324	ARM
+N1	Reference T1 wiki:4191847	P.A. Semi
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:49514	ARM (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

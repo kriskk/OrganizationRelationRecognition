@@ -1,0 +1,5 @@
+T1	Organization 0 9	Parallels
+T2	Organization 42 64	Almaz Capital Partners
+N1	Reference T1 wiki:1356173	Parallels
+N2	Reference T2 wiki:1523571	Almaz Capital Partners
+A1	IsLink T2

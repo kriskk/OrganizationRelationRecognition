@@ -1,0 +1,13 @@
+T1	Organization 0 13	NBC Universal
+T2	Organization 145 161	General Electric
+T3	Organization 165 182	Universal Studios
+T4	Organization 257 264	Vivendi
+N1	Reference T1 wiki:2263018	NBC Universal
+N2	Reference T2 wiki:13762	General Electric
+N3	Reference T3 wiki:702796	Universal Studios
+N4	Reference T4 wiki:1695856	Vivendi
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Merge
+A5	TypeRel T4 Merge

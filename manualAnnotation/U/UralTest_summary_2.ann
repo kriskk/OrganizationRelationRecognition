@@ -1,0 +1,9 @@
+T1	Organization 0 8	УралТест
+T2	Organization 263 286	Северский трубный завод
+T3	Organization 317 321	УОМЗ
+N1	Reference T1 wiki:3598317	УралТест
+N2	Reference T2 wiki:892169	Северский трубный завод
+N3	Reference T3 wiki:2980729	УОМЗ
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

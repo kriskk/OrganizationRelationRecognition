@@ -1,0 +1,5 @@
+T1	Organization 0 13	Infinity Ward
+T2	Organization 177 188	Id Software
+N1	Reference T1 wiki:1692228	Infinity Ward
+N2	Reference T2 wiki:80386	Id Software
+A1	TypeRel T2 Cooperator

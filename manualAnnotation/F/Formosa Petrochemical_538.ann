@@ -1,0 +1,5 @@
+T1	Organization 0 21	Formosa Petrochemical
+T2	Organization 200 213	Ernst & Young
+N1	Reference T1 wiki:4226048	Formosa Petrochemical
+N2	Reference T2 wiki:385728	Ernst & Young
+A1	IsLink T2

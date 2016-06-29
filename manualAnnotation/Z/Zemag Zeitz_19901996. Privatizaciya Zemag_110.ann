@@ -1,0 +1,9 @@
+T1	Organization 0 11	Zemag Zeitz
+T2	Organization 238 244	TAKRAF
+T3	Organization 414 430	Nobas Nordhausen
+N1	Reference T1 wiki:2495407	Zemag Zeitz
+N2	Reference T2 wiki:2494082	TAKRAF
+N3	Reference T3 wiki:4185345	Nobas Nordhausen
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Merge

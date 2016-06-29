@@ -1,0 +1,5 @@
+T1	Organization 0 8	Евросеть
+T2	Organization 292 299	Уралсиб
+N1	Reference T1 wiki:168895	Евросеть
+N2	Reference T2 wiki:237228	Уралсиб (ФК)
+A1	IsLink T2

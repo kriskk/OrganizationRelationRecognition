@@ -1,0 +1,5 @@
+T1	Organization 0 7	Bronica
+T2	Organization 202 208	Tamron
+N1	Reference T1 wiki:1176726	Bronica
+N2	Reference T2 wiki:753267	Tamron
+A1	IsLink T2

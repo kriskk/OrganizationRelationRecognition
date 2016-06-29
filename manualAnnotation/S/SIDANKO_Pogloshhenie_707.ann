@@ -1,0 +1,17 @@
+T1	Organization 0 7	СИДАНКО
+T2	Organization 373 400	Тюменская нефтяная компания
+T3	Organization 525 532	«ЮКОСу»
+T4	Organization 557 565	«Альянс»
+T5	Organization 669 680	«Славнефть»
+T6	Organization 1128 1134	ТНК-ВР
+N1	Reference T1 wiki:980511	СИДАНКО
+N2	Reference T2 wiki:17252	ТНК-BP
+N3	Reference T3 wiki:6032	ЮКОС
+N4	Reference T4 wiki:237175	Альянс (компания)
+N5	Reference T5 wiki:205107	Славнефть
+N6	Reference T6 wiki:17252	ТНК-ВР
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Holder

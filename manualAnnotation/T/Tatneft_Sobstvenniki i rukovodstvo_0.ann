@@ -1,0 +1,5 @@
+T1	Organization 0 8	Татнефть
+T2	Organization 119 138	Связьинвестнефтехим
+N1	Reference T1 wiki:145661	Татнефть
+N2	Reference T2 wiki:347225	Связьинвестнефтехим
+A1	IsLink T2

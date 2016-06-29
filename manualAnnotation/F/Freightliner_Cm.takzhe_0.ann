@@ -1,0 +1,11 @@
+T1	Organization 0 12	Freightliner
+T2	Organization 48 56	Kenworth
+T3	Organization 59 68	Peterbilt
+T4	Organization 71 93	Navistar International
+N1	Reference T1 wiki:1371581	Freightliner
+N2	Reference T2 wiki:2477230	Kenworth
+N3	Reference T3 wiki:1704331	Peterbilt
+N4	Reference T4 wiki:323498	Navistar International
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

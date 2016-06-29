@@ -1,0 +1,5 @@
+T1	Organization 0 16	Русский алюминий
+T2	Organization 282 312	Хакасского алюминиевого завода
+N1	Reference T1 wiki:144729	Русский алюминий
+N2	Reference T2 wiki:383370	Хакасский алюминиевый завод
+A1	IsLink T2

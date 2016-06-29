@@ -1,0 +1,5 @@
+T1	Organization 0 12	Dean Guitars
+T2	Organization 319 325	Gibson
+N1	Reference T1 wiki:223033	Dean Guitars
+N2	Reference T2 wiki:546422	Gibson
+A1	IsLink T2

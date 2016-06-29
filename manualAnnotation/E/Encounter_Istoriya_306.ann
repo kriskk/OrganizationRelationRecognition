@@ -1,0 +1,5 @@
+T1	Organization 0 9	Encounter
+T2	Organization 227 237	Белинфонет
+N1	Reference T1 wiki:345691	Encounter
+N2	Reference T2 wiki:1678640	Белинфонет
+A1	IsLink T2

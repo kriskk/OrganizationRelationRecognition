@@ -1,0 +1,22 @@
+T1	Organization 0 6	Ренова
+T2	Organization 100 120	Российского алюминия
+T3	Organization 135 168	Комплексных энергетических систем
+T4	Organization 172 202	Российских коммунальных систем
+T5	Organization 205 233	Уральского турбинного завода
+T6	Organization 333 338	АКАДО
+N1	Reference T1 wiki:158879	Ренова
+N2	Reference T2 wiki:598084	Российский алюминий
+N3	Reference T3 wiki:160412	Комплексные энергетические системы
+N4	Reference T4 wiki:180352	Российские коммунальные системы
+N5	Reference T5 wiki:1223996	Уральский турбинный завод
+N6	Reference T6 wiki:807312	АКАДО
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Subsidiary
+A7	TypeRel T3 Subsidiary
+A8	TypeRel T4 Subsidiary
+A9	TypeRel T5 Subsidiary
+A10	TypeRel T6 Subsidiary

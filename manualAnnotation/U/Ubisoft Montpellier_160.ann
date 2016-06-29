@@ -1,0 +1,5 @@
+T1	Organization 0 19	Ubisoft Montpellier
+T2	Organization 216 223	Ubisoft
+N1	Reference T1 wiki:2644860	Ubisoft Montpellier
+N2	Reference T2 wiki:650139	Ubisoft
+A1	TypeRel T2 Holder

@@ -1,0 +1,9 @@
+T1	Organization 0 20	Mythic Entertainment
+T2	Organization 196 211	Electronic Arts
+T3	Organization 396 403	BioWare
+N1	Reference T1 wiki:1969660	Mythic Entertainment
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:546996	BioWare
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

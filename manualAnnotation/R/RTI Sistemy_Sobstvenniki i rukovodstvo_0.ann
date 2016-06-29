@@ -1,0 +1,6 @@
+T1	Organization 0 11	РТИ Системы
+T2	Organization 110 123	АФК «Система»
+N1	Reference T1 wiki:936909	РТИ Системы
+N2	Reference T2 wiki:158888	АФК «Система»
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 12	Gotham Games
+T2	Organization 174 194	Take-Two Interactive
+N1	Reference T1 wiki:2815011	Gotham Games
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+A1	TypeRel T2 Holder

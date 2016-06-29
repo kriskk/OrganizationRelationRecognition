@@ -1,0 +1,9 @@
+T1	Organization 0 8	Plymouth
+T2	Organization 348 356	Chrysler
+T3	Organization 398 403	Dodge
+N1	Reference T1 wiki:1283510	Plymouth
+N2	Reference T2 wiki:223902	Chrysler
+N3	Reference T3 wiki:41485	Dodge
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

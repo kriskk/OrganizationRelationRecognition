@@ -1,0 +1,6 @@
+T1	Organization 0 10	Уралхиммаш
+T2	Organization 89 127	Объединённые машиностроительные заводы
+N1	Reference T1 wiki:2307701	Уралхиммаш
+N2	Reference T2 wiki:149170	Объединённые машиностроительные заводы
+A1	IsLink T2
+A2	TypeRel T2 Holder

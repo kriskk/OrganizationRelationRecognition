@@ -1,0 +1,5 @@
+T1	Organization 0 16	Amusement Vision
+T2	Organization 105 109	Sega
+N1	Reference T1 wiki:3258249	Amusement Vision
+N2	Reference T2 wiki:92589	Sega
+A1	IsLink T2

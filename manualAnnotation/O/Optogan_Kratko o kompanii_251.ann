@@ -1,0 +1,9 @@
+T1	Organization 0 7	Оптоган
+T2	Organization 202 209	Роснано
+T3	Organization 212 226	Группа ОНЭКСИМ
+N1	Reference T1 wiki:2369197	Оптоган
+N2	Reference T2 wiki:728818	Роснано
+N3	Reference T3 wiki:1526001	Группа ОНЭКСИМ
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

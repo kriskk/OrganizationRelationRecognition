@@ -1,0 +1,9 @@
+T1	Organization 0 13	Kheops Studio
+T2	Organization 172 188	Cryo Interactive
+T3	Organization 260 276	Cryo Interactive
+N1	Reference T1 wiki:2779076	Kheops Studio
+N2	Reference T2 wiki:920901	Cryo Interactive
+N3	Reference T3 wiki:920901	Cryo Interactive
+A2	IsLink T3
+A1	TypeRel T2 Personnel
+A3	TypeRel T3 Personnel

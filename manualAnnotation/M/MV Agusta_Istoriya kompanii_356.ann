@@ -1,0 +1,5 @@
+T1	Organization 0 9	MV Agusta
+T2	Organization 243 250	Piaggio
+N1	Reference T1 wiki:3239010	MV Agusta
+N2	Reference T2 wiki:981321	Piaggio
+A1	IsLink T2

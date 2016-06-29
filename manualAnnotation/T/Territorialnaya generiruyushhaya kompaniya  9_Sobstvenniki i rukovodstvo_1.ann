@@ -1,0 +1,17 @@
+T1	Organization 0 41	Территориальная генерирующая компания № 9
+T2	Organization 231 265	Комплексные энергетические системы
+T3	Organization 299 310	КЭС-Холдинг
+T4	Organization 506 517	КЭС-Холдинг
+T5	Organization 702 707	ТГК-5
+T6	Organization 758 769	КЭС-Холдинг
+N1	Reference T1 wiki:655405	Территориальная генерирующая компания № 9
+N2	Reference T2 wiki:160412	Комплексные энергетические системы
+N3	Reference T3 wiki:160412	КЭС-Холдинг
+N4	Reference T4 wiki:160412	КЭС-Холдинг
+N5	Reference T5 wiki:667355	ТГК-5
+N6	Reference T6 wiki:160412	КЭС-Холдинг
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

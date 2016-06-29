@@ -1,0 +1,13 @@
+T1	Organization 0 13	Kaiser Motors
+T2	Organization 206 212	джипов
+T3	Organization 560 566	джипов
+T4	Organization 589 604	American Motors
+N1	Reference T1 wiki:3333285	Kaiser Motors
+N2	Reference T2 wiki:41489	Jeep
+N3	Reference T3 wiki:41489	Jeep
+N4	Reference T4 wiki:3346012	American Motors
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

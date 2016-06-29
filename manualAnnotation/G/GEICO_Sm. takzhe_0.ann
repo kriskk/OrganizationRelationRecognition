@@ -1,0 +1,6 @@
+T1	Organization 0 5	GEICO
+T2	Organization 38 56	Berkshire Hathaway
+N1	Reference T1 wiki:2407826	GEICO
+N2	Reference T2 wiki:201051	Berkshire Hathaway
+A1	IsLink T2
+A2	TypeRel T2 Alias

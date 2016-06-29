@@ -1,0 +1,8 @@
+T1	Organization 0 12	Volvo Trucks
+T2	Organization 218 232	Renault Trucks
+T3	Organization 262 290	Volvo Construction Equipment
+N1	Reference T1 wiki:1876689	Volvo Trucks
+N2	Reference T2 wiki:318366	Renault Trucks
+N3	Reference T3 wiki:3510714	Volvo Construction Equipment
+A1	IsLink T2
+A2	IsLink T3

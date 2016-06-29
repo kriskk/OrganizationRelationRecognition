@@ -1,0 +1,6 @@
+T1	Organization 0 8	Olivetti
+T2	Organization 262 278	General Electric
+N1	Reference T1 wiki:1770739	Olivetti
+N2	Reference T2 wiki:13762	General Electric
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

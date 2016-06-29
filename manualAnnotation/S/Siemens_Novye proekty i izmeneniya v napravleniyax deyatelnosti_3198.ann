@@ -1,0 +1,8 @@
+T1	Organization 0 7	Siemens
+T2	Organization 338 351	Deutsche Bahn
+T3	Organization 498 509	Atos Origin
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:321840	Deutsche Bahn
+N3	Reference T3 wiki:3499042	Atos Origin
+A1	IsLink T2
+A2	IsLink T3

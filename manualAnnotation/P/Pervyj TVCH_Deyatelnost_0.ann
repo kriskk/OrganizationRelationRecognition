@@ -1,0 +1,10 @@
+T1	Organization 0 10	Первый ТВЧ
+T2	Organization 153 164	Ночной клуб
+T3	Organization 167 185	Ночной клуб Сибирь
+N1	Reference T1 wiki:2776818	Первый ТВЧ
+N2	Reference T2 wiki:2776818	Ночной клуб (телеканал)
+N3	Reference T3 wiki:2776818	Ночной клуб (телеканал)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

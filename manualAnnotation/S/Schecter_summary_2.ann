@@ -1,0 +1,8 @@
+T1	Organization 0 8	Schecter
+T2	Organization 249 255	Fender
+T3	Organization 258 264	Gibson
+N1	Reference T1 wiki:2202249	Schecter
+N2	Reference T2 wiki:387353	Fender
+N3	Reference T3 wiki:546422	Gibson
+A1	IsLink T2
+A2	IsLink T3

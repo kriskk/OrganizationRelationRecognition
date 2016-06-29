@@ -1,0 +1,11 @@
+T1	Organization 0 38	Новолипецкий металлургический комбинат
+T2	Organization 279 290	Макси-групп
+T3	Organization 458 468	Алтай-кокс
+T4	Organization 564 615	«Студеновская акционерная горнодобывающая компания»
+N1	Reference T1 wiki:143594	Новолипецкий металлургический комбинат
+N2	Reference T2 wiki:173797	Макси-групп
+N3	Reference T3 wiki:703443	Алтай-кокс
+N4	Reference T4 wiki:1427712	Студёновская акционерная горнодобывающая компания
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

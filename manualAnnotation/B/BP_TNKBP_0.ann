@@ -1,0 +1,5 @@
+T1	Organization 0 2	BP
+T2	Organization 142 148	ТНК-BP
+N1	Reference T1 wiki:189320	BP
+N2	Reference T2 wiki:17252	ТНК-BP
+A1	IsLink T2

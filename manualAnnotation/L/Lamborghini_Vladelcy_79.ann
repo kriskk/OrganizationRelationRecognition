@@ -1,0 +1,8 @@
+T1	Organization 0 11	Lamborghini
+T2	Organization 217 225	Chrysler
+T3	Organization 289 302	Volkswagen AG
+N1	Reference T1 wiki:65531	Lamborghini
+N2	Reference T2 wiki:223902	Chrysler Corporation
+N3	Reference T3 wiki:750217	Volkswagen AG
+A1	IsLink T2
+A2	IsLink T3

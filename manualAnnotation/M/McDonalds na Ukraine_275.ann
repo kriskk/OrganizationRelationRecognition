@@ -1,0 +1,6 @@
+T1	Organization 0 21	McDonald’s на Украине
+T2	Organization 198 220	McDonald’s Corporation
+N1	Reference T1 wiki:2112804	McDonald’s на Украине
+N2	Reference T2 wiki:3425	McDonald’s Corporation
+A1	IsLink T2
+A2	TypeRel T2 Holder

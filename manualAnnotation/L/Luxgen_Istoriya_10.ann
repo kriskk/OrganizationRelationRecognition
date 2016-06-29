@@ -1,0 +1,9 @@
+T1	Organization 0 6	Luxgen
+T2	Organization 238 244	Nissan
+T3	Organization 247 257	Mitsubishi
+N1	Reference T1 wiki:4093627	Luxgen
+N2	Reference T2 wiki:159586	Nissan
+N3	Reference T3 wiki:182989	Mitsubishi
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

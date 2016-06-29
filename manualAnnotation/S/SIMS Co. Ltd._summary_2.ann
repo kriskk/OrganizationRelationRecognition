@@ -1,0 +1,5 @@
+T1	Organization 0 14	SIMS Co., Ltd.
+T2	Organization 312 334	Sega Enterprises, Ltd.
+N1	Reference T1 wiki:2485476	SIMS Co., Ltd.
+N2	Reference T2 wiki:92589	Sega
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Packard
+T2	Organization 188 202	General Motors
+N1	Reference T1 wiki:1762197	Packard
+N2	Reference T2 wiki:17438	General Motors
+A1	IsLink T2

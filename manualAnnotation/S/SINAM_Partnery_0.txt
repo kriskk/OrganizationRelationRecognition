@@ -1,0 +1,17 @@
+SINAM
+@Партнеры
+2673,0
+
+
+Партнеры
+
+ Cisco Systems
+	 Oracle
+	 HP Gold Partner
+	 Alcatel-Lucent
+	 IBM Business Partner
+	 Microsoft Certified Partner
+	 ABBYY Software House
+	 EMC
+
+

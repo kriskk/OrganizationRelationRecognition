@@ -1,0 +1,5 @@
+T1	Organization 0 10	Game Freak
+T2	Organization 342 346	Sony
+N1	Reference T1 wiki:3283547	Game Freak
+N2	Reference T2 wiki:73019	Sony
+A1	IsLink T2

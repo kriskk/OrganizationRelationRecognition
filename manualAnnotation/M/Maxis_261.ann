@@ -1,0 +1,5 @@
+T1	Organization 0 5	Maxis
+T2	Organization 172 187	Electronic Arts
+N1	Reference T1 wiki:1292523	Maxis
+N2	Reference T2 wiki:323143	Electronic Arts
+A1	TypeRel T2 Holder

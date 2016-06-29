@@ -1,0 +1,5 @@
+T1	Organization 0 19	Magellan Navigation
+T2	Organization 68 74	Garmin
+N1	Reference T1 wiki:1531037	Magellan Navigation
+N2	Reference T2 wiki:902102	Garmin
+A1	IsLink T2

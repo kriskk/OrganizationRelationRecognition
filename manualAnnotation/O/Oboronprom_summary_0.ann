@@ -1,0 +1,17 @@
+T1	Organization 0 10	Оборонпром
+T2	Organization 150 156	Ростех
+T3	Organization 208 224	Вертолёты России
+T4	Organization 232 277	Объединённая двигателестроительная корпорация
+T5	Organization 285 307	Оборонительные системы
+N1	Reference T1 wiki:757437	Оборонпром
+N2	Reference T2 wiki:915063	Ростех
+N3	Reference T3 wiki:899228	Вертолёты России
+N4	Reference T4 wiki:2353507	Объединённая двигателестроительная корпорация
+N5	Reference T5 wiki:2848714	Оборонительные системы
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Holder
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary
+A7	TypeRel T5 Subsidiary

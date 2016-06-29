@@ -1,0 +1,14 @@
+T1	Organization 0 33	Зуевский энергомеханический завод
+T2	Organization 327 334	Siemens
+T3	Organization 582 596	Укргидроэнерго
+T4	Organization 604 628	Минский тракторный завод
+N1	Reference T1 wiki:2510605	Зуевский энергомеханический завод
+N2	Reference T2 wiki:36510	Siemens
+N3	Reference T3 wiki:1379894	Укргидроэнерго
+N4	Reference T4 wiki:103703	Минский тракторный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

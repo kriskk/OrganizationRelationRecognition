@@ -1,0 +1,11 @@
+T1	Organization 0 24	Imagination Technologies
+T2	Organization 170 174	Sega
+T3	Organization 186 190	Sega
+T4	Organization 407 411	Sony
+N1	Reference T1 wiki:4205830	Imagination Technologies
+N2	Reference T2 wiki:92589	Sega
+N3	Reference T3 wiki:92589	Sega
+N4	Reference T4 wiki:73019	Sony
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

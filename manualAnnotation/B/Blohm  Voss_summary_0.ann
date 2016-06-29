@@ -1,0 +1,5 @@
+T1	Organization 0 12	Blohm + Voss
+T2	Organization 122 152	ThyssenKrupp Marine Systems AG
+N1	Reference T1 wiki:933856	Blohm + Voss
+N2	Reference T2 wiki:166657	ThyssenKrupp
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Балткран
+T2	Organization 276 283	Сибмост
+N1	Reference T1 wiki:3013406	Балткран
+N2	Reference T2 wiki:3155523	Сибмост
+A1	IsLink T2

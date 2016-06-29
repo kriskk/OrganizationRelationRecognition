@@ -1,0 +1,9 @@
+T1	Organization 0 10	Nar Mobile
+T2	Organization 232 240	Vodafone
+T3	Organization 337 353	Azerfon-Vodafone
+N1	Reference T1 wiki:773765	Nar Mobile
+N2	Reference T2 wiki:213703	Vodafone
+N3	Reference T3 wiki:2337140	Azerfon-Vodafone
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

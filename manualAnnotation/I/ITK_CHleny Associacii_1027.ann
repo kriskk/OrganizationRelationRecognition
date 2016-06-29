@@ -1,0 +1,6 @@
+T1	Organization 0 3	ITK
+T2	Organization 186 229	АО «Национальные информационные технологии»
+N1	Reference T1 wiki:3471765	ITK
+N2	Reference T2 wiki:1545913	АО НИТ
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

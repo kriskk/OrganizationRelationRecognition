@@ -1,0 +1,6 @@
+T1	Organization 0 24	Hudson Motor Car Company
+T2	Organization 191 206	American Motors
+N1	Reference T1 wiki:3305044	Hudson Motor Car Company
+N2	Reference T2 wiki:3346012	American Motors
+A1	IsLink T2
+A2	TypeRel T2 Holder

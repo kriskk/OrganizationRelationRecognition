@@ -1,0 +1,16 @@
+T1	Organization 0 31	Верхнебаканский цементный завод
+T2	Organization 116 128	ЗАО «ИНТЕКО»
+T3	Organization 361 373	ЗАО «ИНТЕКО»
+T4	Organization 463 475	ЗАО «ИНТЕКО»
+T5	Organization 519 537	ООО «Атакайцемент»
+N1	Reference T1 wiki:1614647	Верхнебаканский цементный завод
+N2	Reference T2 wiki:162923	Интеко
+N3	Reference T3 wiki:162923	Интеко
+N4	Reference T4 wiki:162923	Интеко
+N5	Reference T5 wiki:1657329	Атакайцемент
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Holder

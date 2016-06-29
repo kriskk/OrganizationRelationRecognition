@@ -1,0 +1,6 @@
+T1	Organization 0 3	INA
+T2	Organization 123 126	MOL
+N1	Reference T1 wiki:4189517	INA
+N2	Reference T2 wiki:392267	MOL
+A1	IsLink T2
+A2	TypeRel T2 Holder

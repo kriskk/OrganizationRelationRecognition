@@ -1,0 +1,8 @@
+T1	Organization 0 21	Самолёт (пароходство)
+T2	Organization 54 71	Кавказ и Меркурий
+T3	Organization 73 102	Общество пароходства по Волге
+N1	Reference T1 wiki:3360746	Самолёт (пароходство)
+N2	Reference T2 wiki:3360745	Кавказ и Меркурий
+N3	Reference T3 wiki:3360747	Общество пароходства по Волге
+A1	IsLink T2
+A2	IsLink T3

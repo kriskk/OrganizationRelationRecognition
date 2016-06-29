@@ -1,0 +1,11 @@
+T1	Organization 0 13	Армросгазпром
+T2	Organization 173 186	ОАО “Газпром”
+T3	Organization 188 224	“ITERA International Energy, L.L.C.”
+T4	Organization 520 531	ОАО ГАЗПРОМ
+N1	Reference T1 wiki:1875686	Армросгазпром
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:156662	Итера
+N4	Reference T4 wiki:44754	Газпром
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

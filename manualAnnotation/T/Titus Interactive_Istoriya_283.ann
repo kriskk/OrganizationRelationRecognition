@@ -1,0 +1,5 @@
+T1	Organization 0 17	Titus Interactive
+T2	Organization 206 229	Interplay Entertainment
+N1	Reference T1 wiki:748168	Titus Interactive
+N2	Reference T2 wiki:87238	Interplay Entertainment
+A1	IsLink T2

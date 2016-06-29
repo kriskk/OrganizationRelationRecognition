@@ -1,0 +1,5 @@
+T1	Organization 0 30	Транспортное предприятие Праги
+T2	Organization 123 134	Мосгортранс
+N1	Reference T1 wiki:4053842	Транспортное предприятие Праги
+N2	Reference T2 wiki:393941	Мосгортранс
+A1	IsLink T2

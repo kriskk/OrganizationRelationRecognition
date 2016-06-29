@@ -1,0 +1,8 @@
+T1	Organization 0 6	Alstom
+T2	Organization 156 163	Siemens
+T3	Organization 166 176	Bombardier
+N1	Reference T1 wiki:571946	Alstom
+N2	Reference T2 wiki:36510	Siemens
+N3	Reference T3 wiki:168782	Bombardier
+A1	IsLink T2
+A2	IsLink T3

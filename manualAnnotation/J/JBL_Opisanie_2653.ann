@@ -1,0 +1,6 @@
+T1	Organization 0 3	JBL
+T2	Organization 302 305	THX
+N1	Reference T1 wiki:1030143	JBL
+N2	Reference T2 wiki:728867	THX
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

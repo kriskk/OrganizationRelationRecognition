@@ -1,0 +1,5 @@
+T1	Organization 0 10	Линзмастер
+T2	Organization 180 191	Коммерсантъ
+N1	Reference T1 wiki:2108756	Линзмастер
+N2	Reference T2 wiki:179871	Коммерсантъ (издательский дом)
+A1	IsLink T2

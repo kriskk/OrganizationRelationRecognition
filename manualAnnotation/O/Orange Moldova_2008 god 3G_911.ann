@@ -1,0 +1,5 @@
+T1	Organization 0 14	Orange Moldova
+T2	Organization 239 244	Apple
+N1	Reference T1 wiki:342150	Orange Moldova
+N2	Reference T2 wiki:39726	Apple
+A1	TypeRel T2 Cooperator

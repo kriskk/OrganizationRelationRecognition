@@ -1,0 +1,5 @@
+T1	Organization 0 6	Snoras
+T2	Organization 206 219	Лукойл Балтия
+N1	Reference T1 wiki:452919	Snoras
+N2	Reference T2 wiki:59354	Лукойл
+A1	IsLink T2

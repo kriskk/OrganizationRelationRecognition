@@ -1,0 +1,14 @@
+T1	Organization 0 28	Howaldtswerke-Deutsche Werft
+T2	Organization 61 73	Blohm + Voss
+T3	Organization 76 95	Nordic Yards Wismar
+T4	Organization 98 118	Elbewerft Boizenburg
+N1	Reference T1 wiki:4083288	Howaldtswerke-Deutsche Werft
+N2	Reference T2 wiki:933856	Blohm + Voss
+N3	Reference T3 wiki:3540711	Nordic Yards Wismar
+N4	Reference T4 wiki:3415780	Elbewerft Boizenburg
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Alias
+A5	TypeRel T3 Alias
+A6	TypeRel T4 Alias

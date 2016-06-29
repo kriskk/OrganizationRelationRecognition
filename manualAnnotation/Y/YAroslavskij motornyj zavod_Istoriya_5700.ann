@@ -1,0 +1,9 @@
+T1	Organization 0 26	Ярославский моторный завод
+T2	Organization 301 312	РусПромАвто
+T3	Organization 347 357	Группу ГАЗ
+N1	Reference T1 wiki:916530	Ярославский моторный завод
+N2	Reference T2 wiki:21473	РусПромАвто
+N3	Reference T3 wiki:21473	Группа ГАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

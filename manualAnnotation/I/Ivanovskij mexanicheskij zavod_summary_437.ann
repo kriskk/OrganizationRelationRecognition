@@ -1,0 +1,5 @@
+T1	Organization 0 29	Ивановский механический завод
+T2	Organization 199 202	МАЗ
+N1	Reference T1 wiki:2588673	Ивановский механический завод
+N2	Reference T2 wiki:33218	МАЗ
+A1	TypeRel T2 Cooperator

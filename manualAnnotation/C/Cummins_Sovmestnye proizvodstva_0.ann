@@ -1,0 +1,5 @@
+T1	Organization 0 7	Cummins
+T2	Organization 109 114	КамАЗ
+N1	Reference T1 wiki:2407448	Cummins
+N2	Reference T2 wiki:169714	КамАЗ
+A1	IsLink T2

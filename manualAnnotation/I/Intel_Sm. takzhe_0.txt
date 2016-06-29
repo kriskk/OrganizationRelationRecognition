@@ -1,0 +1,14 @@
+Intel
+@См. также
+7972,0
+
+
+См. также
+
+ викиновости-кат	  
+ AMD
+	 Список микропроцессоров Intel
+	 OpenCV
+	 Список чипсетов Intel
+	 Intel C++ compiler
+	 Intel Fortran Compiler

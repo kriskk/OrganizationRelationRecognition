@@ -1,0 +1,15 @@
+T1	Organization 0 17	Universal Studios
+T2	Organization 325 332	Vivendi
+T3	Organization 467 481	Focus Features
+T4	Organization 587 603	General Electric
+T5	Organization 697 710	NBC Universal
+N1	Reference T1 wiki:702796	Universal Studios
+N2	Reference T2 wiki:1695856	Vivendi
+N3	Reference T3 wiki:1926366	Focus Features
+N4	Reference T4 wiki:13762	General Electric
+N5	Reference T5 wiki:2263018	NBC Universal
+A1	IsLink T2
+A2	IsLink T3
+A4	IsLink T5
+A3	TypeRel T4 Holder
+A5	TypeRel T5 Holder

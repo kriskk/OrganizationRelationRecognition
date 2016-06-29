@@ -1,0 +1,14 @@
+T1	Organization 0 5	GINAF
+T2	Organization 38 48	DAF Trucks
+T3	Organization 51 59	Kenworth
+T4	Organization 62 71	Peterbilt
+N1	Reference T1 wiki:424070	GINAF
+N2	Reference T2 wiki:1570257	DAF Trucks
+N3	Reference T3 wiki:2477230	Kenworth
+N4	Reference T4 wiki:1704331	Peterbilt
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Alias
+A5	TypeRel T3 Alias
+A6	TypeRel T4 Alias

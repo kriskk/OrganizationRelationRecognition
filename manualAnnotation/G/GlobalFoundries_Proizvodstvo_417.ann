@@ -1,0 +1,22 @@
+T1	Organization 0 15	GlobalFoundries
+T2	Organization 221 224	AMD
+T3	Organization 226 229	IBM
+T4	Organization 231 239	Broadcom
+T5	Organization 241 249	Qualcomm
+T6	Organization 253 271	STMicroelectronics
+N1	Reference T1 wiki:3522370	GlobalFoundries
+N2	Reference T2 wiki:19981	AMD
+N3	Reference T3 wiki:11078	IBM
+N4	Reference T4 wiki:1125099	Broadcom
+N5	Reference T5 wiki:897305	Qualcomm
+N6	Reference T6 wiki:1118011	STMicroelectronics
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

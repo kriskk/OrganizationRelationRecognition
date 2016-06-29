@@ -1,0 +1,6 @@
+T1	Organization 0 5	E-TEN
+T2	Organization 248 252	Acer
+N1	Reference T1 wiki:1287255	E-TEN
+N2	Reference T2 wiki:326664	Acer
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

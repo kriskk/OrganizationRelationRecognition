@@ -1,0 +1,6 @@
+T1	Organization 0 10	ЭР-Телеком
+T2	Organization 182 185	BDO
+N1	Reference T1 wiki:1494558	ЭР-Телеком
+N2	Reference T2 wiki:3179758	BDO International
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

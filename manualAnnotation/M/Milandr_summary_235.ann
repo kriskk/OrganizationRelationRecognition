@@ -1,0 +1,6 @@
+T1	Organization 0 7	Миландр
+T2	Organization 247 250	ARM
+N1	Reference T1 wiki:3253496	Миландр
+N2	Reference T2 wiki:49514	ARM (компания)
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

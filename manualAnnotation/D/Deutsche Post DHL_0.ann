@@ -1,0 +1,5 @@
+T1	Organization 0 17	Deutsche Post DHL
+T2	Organization 132 155	Deutsche Post World Net
+N1	Reference T1 wiki:287521	Deutsche Post DHL
+N2	Reference T2 wiki:287521	Deutsche Post World Net
+A1	IsLink T2

@@ -1,0 +1,10 @@
+T1	Organization 0 17	Mitsubishi Motors
+T2	Organization 112 145	Mitsubishi Heavy Industries, Ltd.
+T3	Organization 157 179	Mitsubishi Corporation
+N1	Reference T1 wiki:423257	Mitsubishi Motors
+N2	Reference T2 wiki:1877595	Mitsubishi Heavy Industries
+N3	Reference T3 wiki:423258	Mitsubishi Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

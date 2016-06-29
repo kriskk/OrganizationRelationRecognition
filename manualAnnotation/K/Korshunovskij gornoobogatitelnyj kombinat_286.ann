@@ -1,0 +1,6 @@
+T1	Organization 0 42	Коршуновский горно-обогатительный комбинат
+T2	Organization 199 204	Мечел
+N1	Reference T1 wiki:636514	Коршуновский горно-обогатительный комбинат
+N2	Reference T2 wiki:148493	Мечел
+A1	IsLink T2
+A2	TypeRel T2 Holder

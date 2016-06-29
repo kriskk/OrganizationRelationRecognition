@@ -1,0 +1,5 @@
+T1	Organization 0 20	Завод имени Тарасова
+T2	Organization 213 216	ВАЗ
+N1	Reference T1 wiki:795684	Завод имени Тарасова
+N2	Reference T2 wiki:139276	ВАЗ
+A1	TypeRel T2 Cooperator

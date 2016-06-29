@@ -1,0 +1,11 @@
+CodeGear
+120
+
+ключевые фигуры:  Джим Дуглас — CEO
+число сотрудников:  около 200 (2006)
+отрасль:  Программное обеспечение
+продукция:  Delphi, JBuilder, C++ Builder, InterBase
+материнская компания:  Embarcadero Technologies
+сайт:  codegear.com
+
+

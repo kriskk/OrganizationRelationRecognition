@@ -1,0 +1,5 @@
+T1	Organization 0 10	КостаФильм
+T2	Organization 268 274	Леан-М
+N1	Reference T1 wiki:1910492	КостаФильм
+N2	Reference T2 wiki:1883827	Леан-М
+A1	TypeRel T2 Cooperator

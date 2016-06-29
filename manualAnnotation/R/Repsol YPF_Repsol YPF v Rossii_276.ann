@@ -1,0 +1,5 @@
+T1	Organization 0 10	Repsol YPF
+T2	Organization 225 252	нефтяной компанией «Альянс»
+N1	Reference T1 wiki:148067	Repsol YPF
+N2	Reference T2 wiki:237175	Альянс (компания)
+A1	TypeRel T2 Cooperator

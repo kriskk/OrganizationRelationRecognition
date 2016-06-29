@@ -1,0 +1,6 @@
+T1	Organization 0 21	Électricité de France
+T2	Organization 103 109	Toyota
+N1	Reference T1 wiki:798673	Électricité de France
+N2	Reference T2 wiki:42689	Toyota
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

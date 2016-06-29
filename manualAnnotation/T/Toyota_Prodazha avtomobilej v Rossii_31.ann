@@ -1,0 +1,8 @@
+T1	Organization 0 6	Toyota
+T2	Organization 314 326	Тойота мотор
+T3	Organization 353 365	Тойота мотор
+N1	Reference T1 wiki:42689	Toyota
+N2	Reference T2 wiki:42689	Тойота мотор
+N3	Reference T3 wiki:42689	Тойота мотор
+A1	IsLink T2
+A2	IsLink T3

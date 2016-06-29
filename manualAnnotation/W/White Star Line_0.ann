@@ -1,0 +1,14 @@
+T1	Organization 0 15	White Star Line
+T2	Organization 96 107	Cunard Line
+T3	Organization 250 261	Cunard Line
+T4	Organization 456 482	Carnival Corporation & plc
+N1	Reference T1 wiki:1027995	White Star Line
+N2	Reference T2 wiki:293774	Cunard Line
+N3	Reference T3 wiki:293774	Cunard Line
+N4	Reference T4 wiki:1099139	Carnival Corporation & plc
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Merge
+A6	TypeRel T4 Holder

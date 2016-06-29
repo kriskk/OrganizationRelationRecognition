@@ -1,0 +1,19 @@
+T1	Organization 0 22	AMAKS Hotels & Resorts
+T2	Organization 54 66	Академсервис
+T3	Organization 70 84	ВАО «Интурист»
+T4	Organization 87 118	Балтика (пивоваренная компания)
+T5	Organization 121 130	САН ИнБев
+N1	Reference T1 wiki:2482031	AMAKS Hotels & Resorts
+N2	Reference T2 wiki:1265166	Академсервис
+N3	Reference T3 wiki:606499	ВАО «Интурист»
+N4	Reference T4 wiki:164789	Балтика (пивоваренная компания)
+N5	Reference T5 wiki:460147	САН ИнБев
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator
+A9	TypeRel T2 Cooperator

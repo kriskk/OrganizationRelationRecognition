@@ -1,0 +1,6 @@
+T1	Organization 0 7	N-Space
+T2	Organization 132 140	Nintendo
+N1	Reference T1 wiki:3564785	N-Space
+N2	Reference T2 wiki:202486	Nintendo
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

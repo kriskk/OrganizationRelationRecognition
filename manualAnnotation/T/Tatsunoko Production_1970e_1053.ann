@@ -1,0 +1,5 @@
+T1	Organization 0 20	Tatsunoko Production
+T2	Organization 261 270	Toei Doga
+N1	Reference T1 wiki:3007966	Tatsunoko Production
+N2	Reference T2 wiki:578363	Toei Doga
+A1	IsLink T2

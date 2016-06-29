@@ -1,0 +1,8 @@
+T1	Organization 0 20	Sierra Entertainment
+T2	Organization 126 133	Vivendi
+T3	Organization 173 180	Dynamix
+N1	Reference T1 wiki:1561521	Sierra Entertainment
+N2	Reference T2 wiki:1695856	Vivendi
+N3	Reference T3 wiki:4232005	Dynamix
+A1	IsLink T2
+A2	IsLink T3

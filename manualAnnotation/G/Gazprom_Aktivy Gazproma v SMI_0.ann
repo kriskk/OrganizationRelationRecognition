@@ -1,0 +1,18 @@
+T1	Organization 0 7	Газпром
+T2	Organization 82 95	Газпром-медиа
+T3	Organization 210 218	НТВ-Плюс
+T4	Organization 327 351	издательства «Семь дней»
+T5	Organization 540 546	RuTube
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:189268	Газпром-медиа
+N3	Reference T3 wiki:723124	НТВ-Плюс
+N4	Reference T4 wiki:3577803	Семь дней (издательский дом)
+N5	Reference T5 wiki:726090	RuTube
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary

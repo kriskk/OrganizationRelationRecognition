@@ -1,0 +1,27 @@
+T1	Organization 0 27	Электронные офисные системы
+T2	Organization 208 217	Microsoft
+T3	Organization 219 225	Oracle
+T4	Organization 227 232	ABBYY
+T5	Organization 300 315	Hewlett-Packard
+T6	Organization 475 482	Ай-Теко
+T7	Organization 484 502	КРОК инкорпорейтед
+T8	Organization 504 513	IBS Group
+T9	Organization 627 637	КомпьюЛинк
+N1	Reference T1 wiki:2040148	Электронные офисные системы
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:129227	Oracle
+N4	Reference T4 wiki:127166	ABBYY
+N5	Reference T5 wiki:89988	Hewlett-Packard
+N6	Reference T6 wiki:1770919	Ай-Теко
+N7	Reference T7 wiki:1739391	КРОК инкорпорейтед
+N8	Reference T8 wiki:345272	IBS Group
+N9	Reference T9 wiki:3318313	КомпьюЛинк
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T8 Cooperator

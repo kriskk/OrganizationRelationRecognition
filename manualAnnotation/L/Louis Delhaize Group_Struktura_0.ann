@@ -1,0 +1,10 @@
+T1	Organization 0 20	Louis Delhaize Group
+T2	Organization 52 56	Cora
+T3	Organization 190 195	Match
+N1	Reference T1 wiki:2244400	Louis Delhaize Group
+N2	Reference T2 wiki:2241966	Cora
+N3	Reference T3 wiki:2263425	Match
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

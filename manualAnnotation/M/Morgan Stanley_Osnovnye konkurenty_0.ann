@@ -1,0 +1,26 @@
+T1	Organization 0 14	Morgan Stanley
+T2	Organization 67 75	ABN AMRO
+T3	Organization 107 116	Citigroup
+T4	Organization 151 164	Goldman Sachs
+T5	Organization 167 180	JPMorganChase
+T6	Organization 183 198	Lehman Brothers
+T7	Organization 201 214	Merrill Lynch
+N1	Reference T1 wiki:612532	Morgan Stanley
+N2	Reference T2 wiki:486433	ABN AMRO
+N3	Reference T3 wiki:374508	Citigroup
+N4	Reference T4 wiki:144097	Goldman Sachs
+N5	Reference T5 wiki:374499	JPMorganChase
+N6	Reference T6 wiki:223523	Lehman Brothers
+N7	Reference T7 wiki:177763	Merrill Lynch
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Competitor
+A8	TypeRel T3 Competitor
+A9	TypeRel T4 Competitor
+A10	TypeRel T5 Competitor
+A11	TypeRel T6 Competitor
+A12	TypeRel T7 Competitor

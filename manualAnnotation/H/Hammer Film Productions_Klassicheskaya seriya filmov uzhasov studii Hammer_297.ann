@@ -1,0 +1,9 @@
+T1	Organization 0 23	Hammer Film Productions
+T2	Organization 363 381	Universal Pictures
+T3	Organization 709 727	Universal Pictures
+N1	Reference T1 wiki:727286	Hammer Film Productions
+N2	Reference T2 wiki:702796	Universal Pictures
+N3	Reference T3 wiki:702796	Universal Pictures
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Subsidiary

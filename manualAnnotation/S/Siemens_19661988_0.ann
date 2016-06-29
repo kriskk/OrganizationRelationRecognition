@@ -1,0 +1,11 @@
+T1	Organization 0 7	Siemens
+T2	Organization 261 285	Siemens-Schukertwerke AG
+T3	Organization 373 390	Robert Bosch GmbH
+T4	Organization 440 473	Bosch und Siemens Hausgeräte GmbH
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:198667	Сименс-Шуккерт
+N3	Reference T3 wiki:166006	Robert Bosch GmbH
+N4	Reference T4 wiki:257096	Bosch und Siemens Hausgeräte GmbH
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

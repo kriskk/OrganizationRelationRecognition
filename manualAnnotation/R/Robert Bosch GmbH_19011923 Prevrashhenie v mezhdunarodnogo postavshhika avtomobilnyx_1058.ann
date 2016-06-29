@@ -1,0 +1,6 @@
+T1	Organization 0 17	Robert Bosch GmbH
+T2	Organization 283 292	Blaupunkt
+N1	Reference T1 wiki:166006	Robert Bosch GmbH
+N2	Reference T2 wiki:1874839	Blaupunkt
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

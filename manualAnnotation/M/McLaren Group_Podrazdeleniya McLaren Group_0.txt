@@ -1,0 +1,12 @@
+McLaren Group
+@Подразделения McLaren Group
+5437,0
+
+
+Подразделения McLaren Group
+
+ McLaren Racing
+	 McLaren Automotive, компания, производящая малыми партиями дорожные автомобили — McLaren F1, и в сотрудничестве с Mercedes-Benz SLR;
+	 McLaren Electronic Systems, электронные комплектующие;
+	 McLaren Marketing, маркетинг;
+	 Absolute Taste, поставщик питания для Team McLaren;

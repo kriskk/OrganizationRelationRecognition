@@ -1,0 +1,8 @@
+T1	Organization 0 17	Square (компания)
+T2	Organization 408 412	Enix
+T3	Organization 604 615	Square Enix
+N1	Reference T1 wiki:278305	Square (компания)
+N2	Reference T2 wiki:2414804	Enix
+N3	Reference T3 wiki:288255	Square Enix
+A1	IsLink T2
+A2	IsLink T3

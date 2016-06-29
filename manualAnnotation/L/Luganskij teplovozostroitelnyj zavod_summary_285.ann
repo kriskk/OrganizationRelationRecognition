@@ -1,0 +1,5 @@
+T1	Organization 0 37	Луганский тепловозостроительный завод
+T2	Organization 290 305	Трансмашхолдинг
+N1	Reference T1 wiki:142473	Луганский тепловозостроительный завод
+N2	Reference T2 wiki:168333	Трансмашхолдинг
+A1	TypeRel T2 Holder

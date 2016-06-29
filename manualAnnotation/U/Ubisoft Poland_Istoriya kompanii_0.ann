@@ -1,0 +1,12 @@
+T1	Organization 0 14	Ubisoft Poland
+T2	Organization 110 117	Ubisoft
+T3	Organization 533 540	Ubisoft
+T4	Organization 543 558	Ubisoft Romania
+N1	Reference T1 wiki:2529560	Ubisoft Poland
+N2	Reference T2 wiki:650139	Ubisoft
+N3	Reference T3 wiki:650139	Ubisoft
+N4	Reference T4 wiki:2366620	Ubisoft Romania
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder

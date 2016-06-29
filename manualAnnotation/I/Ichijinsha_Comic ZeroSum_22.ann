@@ -1,0 +1,6 @@
+T1	Organization 0 10	Ichijinsha
+T2	Organization 246 257	Square Enix
+N1	Reference T1 wiki:1982922	Ichijinsha
+N2	Reference T2 wiki:288255	Square Enix
+A1	IsLink T2
+A2	TypeRel T2 Personnel

@@ -1,0 +1,6 @@
+T1	Organization 0 20	Gaijin Entertainment
+T2	Organization 278 280	1C
+N1	Reference T1 wiki:760544	Gaijin Entertainment
+N2	Reference T2 wiki:34936	1C
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

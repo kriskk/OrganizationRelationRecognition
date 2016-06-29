@@ -1,0 +1,5 @@
+T1	Organization 0 10	OneTwoTrip
+T2	Organization 206 212	Oracle
+N1	Reference T1 wiki:4161320	OneTwoTrip
+N2	Reference T2 wiki:129227	Oracle
+A1	IsLink T2

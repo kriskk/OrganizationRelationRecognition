@@ -1,0 +1,5 @@
+T1	Organization 0 19	Turtle Rock Studios
+T2	Organization 220 237	Valve Corporation
+N1	Reference T1 wiki:1665713	Turtle Rock Studios
+N2	Reference T2 wiki:364585	Valve Corporation
+A1	IsLink T2

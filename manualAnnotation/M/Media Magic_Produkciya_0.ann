@@ -1,0 +1,6 @@
+T1	Organization 0 11	Media Magic
+T2	Organization 55 77	компании «Альт Линукс»
+N1	Reference T1 wiki:1397884	Media Magic
+N2	Reference T2 wiki:1363925	Компания ALT Linux
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

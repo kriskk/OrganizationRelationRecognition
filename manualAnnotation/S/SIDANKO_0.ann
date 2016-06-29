@@ -1,0 +1,10 @@
+T1	Organization 0 7	СИДАНКО
+T2	Organization 121 124	ТНК
+T3	Organization 401 404	ТНК
+N1	Reference T1 wiki:980511	СИДАНКО
+N2	Reference T2 wiki:17252	ТНК-BP
+N3	Reference T3 wiki:17252	ТНК-BP
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

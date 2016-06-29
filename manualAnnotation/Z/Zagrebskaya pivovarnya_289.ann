@@ -1,0 +1,5 @@
+T1	Organization 0 20	Загребская пивоварня
+T2	Organization 179 186	Starbev
+N1	Reference T1 wiki:4114742	Загребская пивоварня
+N2	Reference T2 wiki:4114777	Starbev
+A1	TypeRel T2 Holder

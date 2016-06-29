@@ -1,0 +1,5 @@
+T1	Organization 0 12	Ашан-Украина
+T2	Organization 238 275	российской сети гипермаркетов «О’Кей»
+N1	Reference T1 wiki:2095974	Ашан-Украина
+N2	Reference T2 wiki:960973	О’Кей (сеть магазинов)
+A1	IsLink T2

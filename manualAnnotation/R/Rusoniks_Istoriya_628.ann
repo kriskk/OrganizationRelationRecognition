@@ -1,0 +1,8 @@
+T1	Organization 0 8	Русоникс
+T2	Organization 188 197	РТКомм.РУ
+T3	Organization 450 459	Microsoft
+N1	Reference T1 wiki:231688	Русоникс
+N2	Reference T2 wiki:1399213	РТКомм.РУ
+N3	Reference T3 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3

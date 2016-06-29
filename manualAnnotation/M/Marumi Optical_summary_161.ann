@@ -1,0 +1,9 @@
+T1	Organization 0 14	Marumi Optical
+T2	Organization 289 293	Hama
+T3	Organization 300 306	Kaiser
+N1	Reference T1 wiki:1348238	Marumi Optical
+N2	Reference T2 wiki:889526	Hama
+N3	Reference T3 wiki:3333285	Kaiser
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

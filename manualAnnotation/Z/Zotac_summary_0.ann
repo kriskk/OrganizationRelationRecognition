@@ -1,0 +1,6 @@
+T1	Organization 0 5	Zotac
+T2	Organization 154 160	NVIDIA
+N1	Reference T1 wiki:2071071	Zotac
+N2	Reference T2 wiki:1548156	NVIDIA
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

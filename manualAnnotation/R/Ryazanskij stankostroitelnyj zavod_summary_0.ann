@@ -1,0 +1,6 @@
+T1	Organization 0 34	Рязанский станкостроительный завод
+T2	Organization 164 174	РосСтанКом
+N1	Reference T1 wiki:1747739	Рязанский станкостроительный завод
+N2	Reference T2 wiki:1661801	Росстанком
+A1	IsLink T2
+A2	TypeRel T2 Holder

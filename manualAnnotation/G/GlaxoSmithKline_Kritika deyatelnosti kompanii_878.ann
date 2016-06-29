@@ -1,0 +1,5 @@
+T1	Organization 0 15	GlaxoSmithKline
+T2	Organization 392 395	РЖД
+N1	Reference T1 wiki:300698	GlaxoSmithKline
+N2	Reference T2 wiki:106901	РЖД
+A1	IsLink T2

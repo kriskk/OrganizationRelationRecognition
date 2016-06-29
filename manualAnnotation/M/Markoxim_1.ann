@@ -1,0 +1,9 @@
+T1	Organization 0 8	Маркохим
+T2	Organization 173 182	Азовсталь
+T3	Organization 592 601	Азовсталь
+N1	Reference T1 wiki:150359	Маркохим
+N2	Reference T2 wiki:123992	Азовсталь
+N3	Reference T3 wiki:123992	Азовсталь
+A2	IsLink T3
+A1	TypeRel T2 Merge
+A3	TypeRel T3 Holder

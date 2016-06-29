@@ -1,0 +1,6 @@
+T1	Organization 0 4	Gree
+T2	Organization 176 182	Daikin
+N1	Reference T1 wiki:1607166	Gree
+N2	Reference T2 wiki:2625736	Daikin
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

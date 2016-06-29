@@ -1,0 +1,5 @@
+T1	Organization 0 5	Ригла
+T2	Organization 163 169	Протек
+N1	Reference T1 wiki:3351142	Ригла
+N2	Reference T2 wiki:376904	Протек
+A1	TypeRel T2 Holder

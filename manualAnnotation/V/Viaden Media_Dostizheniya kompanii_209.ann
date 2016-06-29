@@ -1,0 +1,6 @@
+T1	Organization 0 12	Viaden Media
+T2	Organization 313 318	Apple
+N1	Reference T1 wiki:3148006	Viaden Media
+N2	Reference T2 wiki:39726	Apple
+A1	IsLink T2
+A2	TypeRel T2 Other

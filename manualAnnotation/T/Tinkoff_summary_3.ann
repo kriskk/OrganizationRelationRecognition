@@ -1,0 +1,5 @@
+T1	Organization 0 8	Тинькофф
+T2	Organization 237 242	InBev
+N1	Reference T1 wiki:202130	Тинькофф
+N2	Reference T2 wiki:203867	InBev
+A1	IsLink T2

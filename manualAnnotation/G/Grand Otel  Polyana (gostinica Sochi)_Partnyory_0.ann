@@ -1,0 +1,9 @@
+T1	Organization 0 38	Гранд Отель — Поляна (гостиница, Сочи)
+T2	Organization 157 167	MasterCard
+T3	Organization 185 189	Visa
+N1	Reference T1 wiki:3979936	Гранд Отель — Поляна (гостиница, Сочи)
+N2	Reference T2 wiki:36409	MasterCard
+N3	Reference T3 wiki:36386	Visa
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

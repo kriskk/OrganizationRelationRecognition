@@ -1,0 +1,5 @@
+T1	Organization 0 12	Sberbank CIB
+T2	Organization 151 164	Тройка Диалог
+N1	Reference T1 wiki:4291348	Sberbank CIB
+N2	Reference T2 wiki:4291348	Тройка Диалог
+A1	IsLink T2

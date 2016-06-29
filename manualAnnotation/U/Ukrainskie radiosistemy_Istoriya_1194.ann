@@ -1,0 +1,5 @@
+T1	Organization 0 23	Украинские радиосистемы
+T2	Organization 226 234	Ericsson
+N1	Reference T1 wiki:1030941	Украинские радиосистемы
+N2	Reference T2 wiki:711402	Ericsson
+A1	TypeRel T2 Cooperator

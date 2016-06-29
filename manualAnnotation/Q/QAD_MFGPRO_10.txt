@@ -1,0 +1,8 @@
+QAD
+@MFG/PRO
+1548,10
+
+Основной продукт QAD — ERP-система MFG/PRO (c 2008 года называется QAD Enterprise Applications), позиционируется как решение для средних и крупных предрприятий автомобильной, авиационной, электронной, электротехнической, химической, фармацевтической и пищевой промышленности. Среди бывших и нынешних заказчиков системы такие компании, как Gemalto, Alcatel, General Electric, Ford Motor Company, Pepsi, Coca-Cola, Daewoo, Honda, Kraft Foods, Mars, Siemens, Volkswagen, Volvo, Yamaha Motor, Sanofi-Aventis
+
+Система поддерживает:
+ полный логистический цикл производства (маркетинг, снабжение и поставки, обработка, сбыт);

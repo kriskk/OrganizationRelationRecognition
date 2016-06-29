@@ -1,0 +1,6 @@
+T1	Organization 0 13	Massimo Dutti
+T2	Organization 199 203	Puig
+N1	Reference T1 wiki:1790010	Massimo Dutti
+N2	Reference T2 wiki:4444545	Puig
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

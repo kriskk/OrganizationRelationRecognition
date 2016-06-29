@@ -1,0 +1,6 @@
+T1	Organization 0 37	Владивостокский морской торговый порт
+T2	Organization 257 262	FESCO
+N1	Reference T1 wiki:1109076	Владивостокский морской торговый порт
+N2	Reference T2 wiki:1109053	Транспортная группа FESCO
+A1	IsLink T2
+A2	TypeRel T2 Holder

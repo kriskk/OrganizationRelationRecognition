@@ -1,0 +1,19 @@
+T1	Organization 0 16	АМУР (автозавод)
+T2	Organization 262 276	Северная казна
+T3	Organization 436 447	Tata Motors
+T4	Organization 782 798	Geely Automobile
+T5	Organization 850 867	Great Wall Motors
+T6	Organization 1261 1275	Renault Trucks
+N1	Reference T1 wiki:2950886	АМУР (автозавод)
+N2	Reference T2 wiki:373467	Северная казна
+N3	Reference T3 wiki:962083	Tata Motors
+N4	Reference T4 wiki:380153	Geely Automobile
+N5	Reference T5 wiki:394622	Great Wall Motors
+N6	Reference T6 wiki:318366	Renault Trucks
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder
+A7	TypeRel T6 Cooperator

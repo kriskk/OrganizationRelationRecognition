@@ -1,0 +1,5 @@
+T1	Organization 0 24	Кубань Экспресс-Пригород
+T2	Organization 441 450	ОАО "РЖД"
+N1	Reference T1 wiki:4108088	Кубань Экспресс-Пригород
+N2	Reference T2 wiki:106901	ОАО РЖД
+A1	TypeRel T2 Personnel

@@ -1,0 +1,9 @@
+T1	Organization 0 14	Kimberly-Clark
+T2	Organization 313 330	Colgate-Palmolive
+T3	Organization 332 349	Johnson & Johnson
+N1	Reference T1 wiki:1623832	Kimberly-Clark
+N2	Reference T2 wiki:754360	Colgate-Palmolive
+N3	Reference T3 wiki:608810	Johnson & Johnson
+A2	IsLink T3
+A1	TypeRel T2 Competitor
+A3	TypeRel T3 Competitor

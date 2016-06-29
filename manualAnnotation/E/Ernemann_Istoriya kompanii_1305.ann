@@ -1,0 +1,8 @@
+T1	Organization 0 8	Ernemann
+T2	Organization 242 252	Carl Zeiss
+T3	Organization 255 260	Goerz
+N1	Reference T1 wiki:1951617	Ernemann
+N2	Reference T2 wiki:1151084	Carl Zeiss
+N3	Reference T3 wiki:1948230	Goerz
+A1	IsLink T2
+A2	IsLink T3

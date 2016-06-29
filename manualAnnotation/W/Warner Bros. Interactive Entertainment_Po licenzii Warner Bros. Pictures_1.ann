@@ -1,0 +1,6 @@
+T1	Organization 0 38	Warner Bros. Interactive Entertainment
+T2	Organization 270 274	SEGA
+N1	Reference T1 wiki:2184337	Warner Bros. Interactive Entertainment
+N2	Reference T2 wiki:92589	SEGA
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

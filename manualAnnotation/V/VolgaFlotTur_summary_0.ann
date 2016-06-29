@@ -1,0 +1,6 @@
+T1	Organization 0 14	Волга-Флот-Тур
+T2	Organization 88 109	Волжского пароходства
+N1	Reference T1 wiki:3422874	Волга-Флот-Тур
+N2	Reference T2 wiki:3372106	Волжское пароходство
+A1	IsLink T2
+A2	TypeRel T2 Holder

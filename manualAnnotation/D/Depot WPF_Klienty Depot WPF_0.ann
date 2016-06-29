@@ -1,0 +1,35 @@
+T1	Organization 0 9	Depot WPF
+T2	Organization 57 63	Nestle
+T3	Organization 65 73	Unilever
+T4	Organization 75 82	Philips
+T5	Organization 84 99	X5 Retail Group
+T6	Organization 101 105	36,6
+T7	Organization 115 124	Kaspersky
+T8	Organization 126 131	Xerox
+T9	Organization 147 153	Danone
+T10	Organization 166 173	Юнимилк
+T11	Organization 192 195	JFC
+T12	Organization 350 365	Газпромнефть-СМ
+N1	Reference T1 wiki:3535983	Depot WPF
+N2	Reference T2 wiki:121355	Nestle
+N3	Reference T3 wiki:198503	Unilever
+N4	Reference T4 wiki:204179	Philips
+N5	Reference T5 wiki:353293	X5 Retail Group
+N6	Reference T6 wiki:162860	Аптечная сеть 36,6
+N7	Reference T7 wiki:72700	Лаборатория Касперского
+N8	Reference T8 wiki:257571	Xerox
+N9	Reference T9 wiki:279435	Danone
+N10	Reference T10 wiki:213110	Юнимилк
+N11	Reference T11 wiki:803994	JFC (компания)
+N12	Reference T12 wiki:121955	Газпромнефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12

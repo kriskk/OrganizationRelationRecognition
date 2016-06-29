@@ -1,0 +1,5 @@
+T1	Organization 0 25	Wuxi Zhongcai Corporation
+T2	Organization 57 94	China Metallurgical Group Corporation
+N1	Reference T1 wiki:3430051	Wuxi Zhongcai Corporation
+N2	Reference T2 wiki:1333098	China Metallurgical Group Corporation
+A1	IsLink T2

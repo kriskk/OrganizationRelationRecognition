@@ -1,0 +1,5 @@
+T1	Organization 0 6	COMSAT
+T2	Organization 194 202	INTELSAT
+N1	Reference T1 wiki:630713	COMSAT
+N2	Reference T2 wiki:3428079	Intelsat
+A1	IsLink T2

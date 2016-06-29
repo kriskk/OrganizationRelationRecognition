@@ -1,0 +1,8 @@
+T1	Organization 0 28	Челябинский тракторный завод
+T2	Organization 348 379	Харьковский моторный завод № 75
+T3	Organization 396 411	Кировский завод
+N1	Reference T1 wiki:306580	Челябинский тракторный завод
+N2	Reference T2 wiki:382782	Завод имени Малышева
+N3	Reference T3 wiki:208146	Кировский завод (Санкт-Петербург)
+A1	IsLink T2
+A2	IsLink T3

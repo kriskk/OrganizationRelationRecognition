@@ -1,0 +1,5 @@
+T1	Organization 0 14	Сургутнефтегаз
+T2	Organization 245 251	Gunvor
+N1	Reference T1 wiki:143564	Сургутнефтегаз
+N2	Reference T2 wiki:893402	Gunvor
+A1	IsLink T2

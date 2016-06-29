@@ -1,0 +1,6 @@
+T1	Organization 0 13	Pack-In-Video
+T2	Organization 135 155	Victor Entertainment
+N1	Reference T1 wiki:2892881	Pack-In-Video
+N2	Reference T2 wiki:1061465	Victor Entertainment
+A1	IsLink T2
+A2	TypeRel T2 Merge

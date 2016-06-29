@@ -1,0 +1,5 @@
+T1	Organization 0 9	Getronics
+T2	Organization 214 218	Wang
+N1	Reference T1 wiki:3077109	Getronics
+N2	Reference T2 wiki:500229	Wang Laboratories
+A1	TypeRel T2 Subsidiary

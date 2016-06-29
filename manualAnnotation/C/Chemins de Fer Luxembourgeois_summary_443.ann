@@ -1,0 +1,8 @@
+T1	Organization 0 29	Chemins de Fer Luxembourgeois
+T2	Organization 235 239	SNCF
+T3	Organization 253 266	Deutsche Bahn
+N1	Reference T1 wiki:2488527	Chemins de Fer Luxembourgeois
+N2	Reference T2 wiki:168588	SNCF
+N3	Reference T3 wiki:321840	Deutsche Bahn
+A1	IsLink T2
+A2	IsLink T3

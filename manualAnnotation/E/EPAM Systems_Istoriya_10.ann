@@ -1,0 +1,6 @@
+T1	Organization 0 12	EPAM Systems
+T2	Organization 189 192	SAP
+N1	Reference T1 wiki:262452	EPAM Systems
+N2	Reference T2 wiki:81959	SAP
+A1	IsLink T2
+A2	TypeRel T2 Personnel

@@ -1,0 +1,9 @@
+T1	Organization 0 30	Московский троллейбусный завод
+T2	Organization 306 339	Башкирского троллейбусного завода
+T3	Organization 342 353	АО «ТролЗа»
+N1	Reference T1 wiki:3889290	Московский троллейбусный завод
+N2	Reference T2 wiki:915827	Башкирский троллейбусный завод
+N3	Reference T3 wiki:372018	Тролза
+A2	IsLink T3
+A1	TypeRel T2 Personnel
+A3	TypeRel T3 Personnel

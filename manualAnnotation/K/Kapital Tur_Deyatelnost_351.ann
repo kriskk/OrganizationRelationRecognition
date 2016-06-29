@@ -1,0 +1,5 @@
+T1	Organization 0 11	Капитал Тур
+T2	Organization 212 220	Интурист
+N1	Reference T1 wiki:1830355	Капитал Тур
+N2	Reference T2 wiki:606499	Интурист
+A1	TypeRel T2 Competitor

@@ -1,0 +1,5 @@
+T1	Organization 0 4	УПЭК
+T2	Organization 229 271	ЕПК (Европейская подшипниковая корпорация)
+N1	Reference T1 wiki:3597216	УПЭК
+N2	Reference T2 wiki:1034888	ЕПК
+A1	IsLink T2

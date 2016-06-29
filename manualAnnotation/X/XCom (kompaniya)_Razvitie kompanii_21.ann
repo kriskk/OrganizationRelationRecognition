@@ -1,0 +1,5 @@
+T1	Organization 0 16	X-Com (компания)
+T2	Organization 227 231	AT&T
+N1	Reference T1 wiki:3684168	X-Com (компания)
+N2	Reference T2 wiki:162994	AT&T
+A1	IsLink T2

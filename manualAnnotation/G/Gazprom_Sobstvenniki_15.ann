@@ -1,0 +1,22 @@
+T1	Organization 0 7	Газпром
+T2	Organization 248 260	Vostok Nafta
+T3	Organization 270 282	E.ON Ruhrgas
+T4	Organization 302 306	E.ON
+T5	Organization 402 414	Нафта-Москва
+T6	Organization 426 432	Интеко
+N1	Reference T1 wiki:44754	Газпром
+N2	Reference T2 wiki:3969783	Vostok Nafta
+N3	Reference T3 wiki:1033799	E.ON Ruhrgas
+N4	Reference T4 wiki:156874	E.ON
+N5	Reference T5 wiki:167016	Нафта-Москва
+N6	Reference T6 wiki:162923	Интеко
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder
+A7	TypeRel T3 Holder
+A8	TypeRel T5 Holder
+A9	TypeRel T4 Holder
+A10	TypeRel T6 Holder

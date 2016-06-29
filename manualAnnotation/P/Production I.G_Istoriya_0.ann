@@ -1,0 +1,6 @@
+T1	Organization 0 14	Production I.G
+T2	Organization 158 179	Tatsunoko Productions
+N1	Reference T1 wiki:9179	Production I.G
+N2	Reference T2 wiki:3007966	Tatsunoko Productions
+A1	IsLink T2
+A2	TypeRel T2 Holder

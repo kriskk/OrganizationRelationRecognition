@@ -1,0 +1,6 @@
+T1	Organization 0 10	Мега-Аниме
+T2	Organization 182 192	Реанимедиа
+N1	Reference T1 wiki:191248	Мега-Аниме
+N2	Reference T2 wiki:1349467	Reanimedia
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

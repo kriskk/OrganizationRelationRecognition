@@ -1,0 +1,9 @@
+T1	Organization 0 20	Victor Entertainment
+T2	Organization 74 94	Japan Victor Company
+T3	Organization 265 268	JVC
+N1	Reference T1 wiki:1061465	Victor Entertainment
+N2	Reference T2 wiki:294288	JVC
+N3	Reference T3 wiki:294288	JVC
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

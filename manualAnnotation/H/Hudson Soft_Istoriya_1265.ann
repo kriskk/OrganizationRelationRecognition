@@ -1,0 +1,13 @@
+T1	Organization 0 11	Hudson Soft
+T2	Organization 319 346	Nippon Electric Corporation
+T3	Organization 825 828	NEC
+T4	Organization 1057 1075	Konami Corporation
+N1	Reference T1 wiki:1734514	Hudson Soft
+N2	Reference T2 wiki:232844	Nippon Electric Corporation
+N3	Reference T3 wiki:232844	NEC
+N4	Reference T4 wiki:747952	Konami
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Holder

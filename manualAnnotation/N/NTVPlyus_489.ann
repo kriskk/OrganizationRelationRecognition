@@ -1,0 +1,6 @@
+T1	Organization 0 8	НТВ-Плюс
+T2	Organization 167 188	Газпром-Медиа Холдинг
+N1	Reference T1 wiki:723124	НТВ-Плюс
+N2	Reference T2 wiki:189268	Газпром-Медиа Холдинг
+A1	IsLink T2
+A2	TypeRel T2 Holder

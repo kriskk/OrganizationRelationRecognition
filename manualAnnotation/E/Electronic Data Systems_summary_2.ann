@@ -1,0 +1,10 @@
+T1	Organization 0 23	Electronic Data Systems
+T2	Organization 305 320	Hewlett-Packard
+T3	Organization 446 460	General Motors
+N1	Reference T1 wiki:1449756	Electronic Data Systems
+N2	Reference T2 wiki:89988	Hewlett-Packard
+N3	Reference T3 wiki:17438	General Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

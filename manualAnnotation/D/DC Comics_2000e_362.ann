@@ -1,0 +1,5 @@
+T1	Organization 0 9	DC Comics
+T2	Organization 288 305	Dark Horse Comics
+N1	Reference T1 wiki:1742414	DC Comics
+N2	Reference T2 wiki:868962	Dark Horse Comics
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 19	Gremlin Interactive
+T2	Organization 164 174	Infogrames
+N1	Reference T1 wiki:3591181	Gremlin Interactive
+N2	Reference T2 wiki:3469859	Infogrames
+A1	TypeRel T2 Holder

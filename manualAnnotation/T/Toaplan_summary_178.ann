@@ -1,0 +1,14 @@
+T1	Organization 0 7	Toaplan
+T2	Organization 207 211	Cave
+T3	Organization 213 225	8ing/Raizing
+T4	Organization 316 325	Banpresto
+T5	Organization 328 334	Takumi
+N1	Reference T1 wiki:1639366	Toaplan
+N2	Reference T2 wiki:1716901	Cave (компания)
+N3	Reference T3 wiki:1718274	8ing/Raizing
+N4	Reference T4 wiki:1818805	Banpresto
+N5	Reference T5 wiki:1734797	Takumi Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,6 @@
+T1	Organization 0 11	Прайд Медиа
+T2	Organization 191 198	Румедиа
+N1	Reference T1 wiki:1532003	Прайд Медиа
+N2	Reference T2 wiki:1427549	Румедиа
+A1	IsLink T2
+A2	TypeRel T2 Holder

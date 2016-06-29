@@ -1,0 +1,5 @@
+T1	Organization 0 10	Beiersdorf
+T2	Organization 91 96	NIVEA
+N1	Reference T1 wiki:785151	Beiersdorf
+N2	Reference T2 wiki:2535401	Nivea
+A1	IsLink T2

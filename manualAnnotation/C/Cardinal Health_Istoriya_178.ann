@@ -1,0 +1,5 @@
+T1	Organization 0 15	Cardinal Health
+T2	Organization 219 225	NASDAQ
+N1	Reference T1 wiki:1906970	Cardinal Health
+N2	Reference T2 wiki:63813	NASDAQ
+A1	IsLink T2

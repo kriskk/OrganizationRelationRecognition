@@ -1,0 +1,13 @@
+T1	Organization 0 19	Интеграл (компания)
+T2	Organization 203 209	Микрон
+T3	Organization 214 222	Ангстрем
+T4	Organization 238 257	НПО «Научный центр»
+N1	Reference T1 wiki:543285	Интеграл (компания)
+N2	Reference T2 wiki:257881	Микрон (завод)
+N3	Reference T3 wiki:176095	Ангстрем (завод)
+N4	Reference T4 wiki:238818	Научный центр (НПО)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator

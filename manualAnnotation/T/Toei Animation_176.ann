@@ -1,0 +1,5 @@
+T1	Organization 0 14	Toei Animation
+T2	Organization 170 174	Toei
+N1	Reference T1 wiki:578363	Toei Animation
+N2	Reference T2 wiki:1450749	Toei
+A1	IsLink T2

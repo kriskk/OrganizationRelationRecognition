@@ -1,0 +1,5 @@
+T1	Organization 0 11	Asahi Glass
+T2	Organization 129 139	Mitsubishi
+N1	Reference T1 wiki:429828	Asahi Glass
+N2	Reference T2 wiki:182989	Mitsubishi
+A1	IsLink T2

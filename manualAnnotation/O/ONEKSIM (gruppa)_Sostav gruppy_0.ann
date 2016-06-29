@@ -1,0 +1,34 @@
+T1	Organization 0 16	ОНЭКСИМ (группа)
+T2	Organization 101 107	Квадра
+T3	Organization 198 217	Российский алюминий
+T4	Organization 288 307	Открытые инвестиции
+T5	Organization 482 491	«ОптоГан»
+T6	Organization 718 721	РБК
+T7	Organization 767 770	РБК
+T8	Organization 952 958	RBC.ru
+T9	Organization 1079 1089	Smotri.com
+N1	Reference T1 wiki:1526001	ОНЭКСИМ (группа)
+N2	Reference T2 wiki:786485	Квадра
+N3	Reference T3 wiki:598084	Российский алюминий
+N4	Reference T4 wiki:2164340	Открытые инвестиции
+N5	Reference T5 wiki:2369197	Оптоган
+N6	Reference T6 wiki:391746	РБК
+N7	Reference T7 wiki:391746	РосБизнесКонсалтинг
+N8	Reference T8 wiki:391746	РосБизнесКонсалтинг
+N9	Reference T9 wiki:2078455	Smotri.com
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Subsidiary
+A10	TypeRel T3 Subsidiary
+A11	TypeRel T4 Subsidiary
+A12	TypeRel T5 Subsidiary
+A13	TypeRel T6 Subsidiary
+A14	TypeRel T7 Subsidiary
+A15	TypeRel T8 Subsidiary
+A16	TypeRel T9 Subsidiary

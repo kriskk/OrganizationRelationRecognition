@@ -1,0 +1,8 @@
+T1	Organization 0 19	Десна (пивкомбинат)
+T2	Organization 213 230	САН ИнБев Украина
+T3	Organization 290 310	Anheuser-Busch InBev
+N1	Reference T1 wiki:2313101	Десна (пивкомбинат)
+N2	Reference T2 wiki:2313184	САН ИнБев Украина
+N3	Reference T3 wiki:3199376	Anheuser-Busch InBev
+A1	IsLink T2
+A2	IsLink T3

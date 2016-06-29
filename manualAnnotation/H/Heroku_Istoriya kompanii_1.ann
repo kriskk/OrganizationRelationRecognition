@@ -1,0 +1,5 @@
+T1	Organization 0 6	Heroku
+T2	Organization 192 206	Salesforce.com
+N1	Reference T1 wiki:4112351	Heroku
+N2	Reference T2 wiki:3070933	Salesforce.com
+A1	TypeRel T2 Holder

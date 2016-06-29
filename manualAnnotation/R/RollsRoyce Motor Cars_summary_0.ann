@@ -1,0 +1,5 @@
+T1	Organization 0 22	Rolls-Royce Motor Cars
+T2	Organization 105 111	BMW AG
+N1	Reference T1 wiki:40384	Rolls-Royce Motor Cars
+N2	Reference T2 wiki:40368	BMW AG
+A1	TypeRel T2 Holder

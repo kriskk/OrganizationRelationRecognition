@@ -1,0 +1,6 @@
+T1	Organization 0 27	Новая перевозочная компания
+T2	Organization 237 244	Н-Транс
+N1	Reference T1 wiki:377817	Новая перевозочная компания
+N2	Reference T2 wiki:631354	Н-Транс
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,11 @@
+T1	Organization 0 10	Сибуглемет
+T2	Organization 188 207	Шахта Полосухинская
+T3	Organization 209 226	Шахта Антоновская
+T4	Organization 228 243	Шахта Большевик
+N1	Reference T1 wiki:2940215	Сибуглемет
+N2	Reference T2 wiki:1261223	Шахта Полосухинская
+N3	Reference T3 wiki:1261198	Шахта Антоновская
+N4	Reference T4 wiki:1261174	Шахта Большевик
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

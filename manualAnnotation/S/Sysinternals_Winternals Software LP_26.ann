@@ -1,0 +1,8 @@
+T1	Organization 0 12	Sysinternals
+T2	Organization 208 216	Sony BMG
+T3	Organization 431 439	Best Buy
+N1	Reference T1 wiki:1633405	Sysinternals
+N2	Reference T2 wiki:439628	Sony BMG
+N3	Reference T3 wiki:770538	Best Buy
+A1	IsLink T2
+A2	IsLink T3

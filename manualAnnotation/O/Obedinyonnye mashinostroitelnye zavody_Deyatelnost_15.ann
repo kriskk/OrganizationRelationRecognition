@@ -1,0 +1,6 @@
+T1	Organization 0 38	Объединённые машиностроительные заводы
+T2	Organization 322 337	Ижорские заводы
+N1	Reference T1 wiki:149170	Объединённые машиностроительные заводы
+N2	Reference T2 wiki:601241	Ижорские заводы
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

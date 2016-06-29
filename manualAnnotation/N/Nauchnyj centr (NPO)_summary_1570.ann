@@ -1,0 +1,9 @@
+T1	Organization 0 19	Научный центр (НПО)
+T2	Organization 343 348	Квант
+T3	Organization 497 510	АФК «Система»
+N1	Reference T1 wiki:238818	Научный центр (НПО)
+N2	Reference T2 wiki:257882	Квант (завод)
+N3	Reference T3 wiki:158888	Система (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

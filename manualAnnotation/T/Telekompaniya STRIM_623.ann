@@ -1,0 +1,5 @@
+T1	Organization 0 18	Телекомпания СТРИМ
+T2	Organization 191 209	Система Масс-медиа
+N1	Reference T1 wiki:2230588	Телекомпания СТРИМ
+N2	Reference T2 wiki:629570	Система Масс-медиа
+A1	IsLink T2

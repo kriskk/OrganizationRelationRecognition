@@ -1,0 +1,6 @@
+T1	Organization 0 6	Renata
+T2	Organization 193 214	The Swatch Group Ltd.
+N1	Reference T1 wiki:1063228	Renata
+N2	Reference T2 wiki:214233	Swatch Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 9	РуссНефть
+T2	Organization 199 212	АФК «Система»
+N1	Reference T1 wiki:159970	РуссНефть
+N2	Reference T2 wiki:158888	АФК «Система»
+A1	IsLink T2

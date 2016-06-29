@@ -1,0 +1,5 @@
+T1	Organization 0 4	FTDI
+T2	Organization 177 180	IBM
+N1	Reference T1 wiki:2407451	FTDI
+N2	Reference T2 wiki:11078	IBM
+A1	IsLink T2

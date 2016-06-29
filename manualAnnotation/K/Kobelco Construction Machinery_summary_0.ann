@@ -1,0 +1,5 @@
+T1	Organization 0 30	Kobelco Construction Machinery
+T2	Organization 132 142	Kobe Steel
+N1	Reference T1 wiki:3750854	Kobelco Construction Machinery
+N2	Reference T2 wiki:1884056	Kobe Steel
+A1	TypeRel T2 Holder

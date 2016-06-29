@@ -1,0 +1,6 @@
+T1	Organization 0 11	Hino Motors
+T2	Organization 173 197	Toyota Motor Corporation
+N1	Reference T1 wiki:266538	Hino Motors
+N2	Reference T2 wiki:42689	Toyota Motor Corporation
+A1	IsLink T2
+A2	TypeRel T2 Holder

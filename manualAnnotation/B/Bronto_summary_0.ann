@@ -1,0 +1,5 @@
+T1	Organization 0 6	Бронто
+T2	Organization 136 143	АвтоВАЗ
+N1	Reference T1 wiki:3432303	Бронто
+N2	Reference T2 wiki:139276	АвтоВАЗ
+A1	IsLink T2

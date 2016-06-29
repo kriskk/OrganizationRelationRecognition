@@ -1,0 +1,10 @@
+T1	Organization 0 7	Роснано
+T2	Organization 315 328	Ростехнологии
+T3	Organization 400 405	Сухой
+N1	Reference T1 wiki:728818	Роснано
+N2	Reference T2 wiki:915063	Ростехнологии
+N3	Reference T3 wiki:164779	Сухой (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

@@ -1,0 +1,6 @@
+T1	Organization 0 33	Ижевский машиностроительный завод
+T2	Organization 338 354	Рособоронэкспорт
+N1	Reference T1 wiki:963537	Ижевский машиностроительный завод
+N2	Reference T2 wiki:171221	Рособоронэкспорт
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,23 @@
+T1	Organization 0 7	Tenneco
+T2	Organization 90 104	General Motors
+T3	Organization 106 116	Ford Motor
+T4	Organization 130 145	DaimlerChrysler
+T5	Organization 147 166	PSA Peugeot Citroen
+T6	Organization 168 174	Toyota
+T7	Organization 176 181	Honda
+T8	Organization 184 190	Nissan
+N1	Reference T1 wiki:586391	Tenneco
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:153236	Ford Motor
+N4	Reference T4 wiki:39716	DaimlerChrysler
+N5	Reference T5 wiki:226616	PSA Peugeot Citroen
+N6	Reference T6 wiki:42689	Toyota
+N7	Reference T7 wiki:121050	Honda
+N8	Reference T8 wiki:159586	Nissan
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

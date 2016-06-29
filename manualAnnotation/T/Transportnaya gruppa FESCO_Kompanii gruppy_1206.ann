@@ -1,0 +1,5 @@
+T1	Organization 0 25	Транспортная группа FESCO
+T2	Organization 339 376	Владивостокский морской торговый порт
+N1	Reference T1 wiki:1109053	Транспортная группа FESCO
+N2	Reference T2 wiki:1109076	Владивостокский морской торговый порт
+A1	IsLink T2

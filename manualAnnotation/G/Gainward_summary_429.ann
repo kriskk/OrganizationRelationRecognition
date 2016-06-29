@@ -1,0 +1,10 @@
+T1	Organization 0 8	Gainward
+T2	Organization 183 189	NVIDIA
+T3	Organization 288 291	ATI
+N1	Reference T1 wiki:1367186	Gainward
+N2	Reference T2 wiki:1548156	NVIDIA
+N3	Reference T3 wiki:1155771	ATI
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

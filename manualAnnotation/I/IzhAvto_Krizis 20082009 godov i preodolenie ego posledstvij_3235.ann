@@ -1,0 +1,17 @@
+T1	Organization 0 6	ИжАвто
+T2	Organization 240 247	Renault
+T3	Organization 248 254	Nissan
+T4	Organization 397 404	АвтоВАЗ
+T5	Organization 441 465	«Renault-Nissan-АвтоВАЗ»
+N1	Reference T1 wiki:39731	ИжАвто
+N2	Reference T2 wiki:586472	Renault
+N3	Reference T3 wiki:159586	Nissan
+N4	Reference T4 wiki:139276	АвтоВАЗ
+N5	Reference T5 wiki:3937979	Renault Nissan (альянс)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T5 Cooperator

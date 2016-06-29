@@ -1,0 +1,6 @@
+T1	Organization 0 10	Новый Диск
+T2	Organization 393 398	PROMT
+N1	Reference T1 wiki:606365	Новый Диск
+N2	Reference T2 wiki:141716	PROMT
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

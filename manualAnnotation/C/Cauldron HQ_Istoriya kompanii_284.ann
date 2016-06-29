@@ -1,0 +1,5 @@
+T1	Organization 0 11	Cauldron HQ
+T2	Organization 254 270	Activision Value
+N1	Reference T1 wiki:2303559	Cauldron HQ
+N2	Reference T2 wiki:307964	Activision Value
+A1	IsLink T2

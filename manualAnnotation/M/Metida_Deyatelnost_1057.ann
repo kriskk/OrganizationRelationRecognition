@@ -1,0 +1,13 @@
+T1	Organization 0 6	Metida
+T2	Organization 186 198	Aston Martin
+T3	Organization 202 209	Porsche
+T4	Organization 223 228	Gucci
+N1	Reference T1 wiki:4179434	Metida
+N2	Reference T2 wiki:451029	Aston Martin
+N3	Reference T3 wiki:403194	Porsche
+N4	Reference T4 wiki:1030680	Gucci
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

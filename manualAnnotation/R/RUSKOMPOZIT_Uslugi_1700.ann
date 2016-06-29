@@ -1,0 +1,26 @@
+T1	Organization 0 11	РУСКОМПОЗИТ
+T2	Organization 217 224	ГАЗПРОМ
+T3	Organization 286 296	Транснефть
+T4	Organization 300 309	Русснефть
+T5	Organization 313 321	Роснефть
+T6	Organization 325 331	Лукойл
+T7	Organization 354 357	РЖД
+N1	Reference T1 wiki:3811892	РУСКОМПОЗИТ
+N2	Reference T2 wiki:44754	ГАЗПРОМ
+N3	Reference T3 wiki:147540	Транснефть
+N4	Reference T4 wiki:159970	Русснефть
+N5	Reference T5 wiki:139770	Роснефть
+N6	Reference T6 wiki:59354	Лукойл
+N7	Reference T7 wiki:106901	РЖД
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Cooperator
+A8	TypeRel T3 Cooperator
+A9	TypeRel T4 Cooperator
+A10	TypeRel T5 Cooperator
+A11	TypeRel T6 Cooperator
+A12	TypeRel T7 Cooperator

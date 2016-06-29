@@ -1,0 +1,18 @@
+T1	Organization 0 40	Запорожский автомобилестроительный завод
+T2	Organization 419 428	Chevrolet
+T3	Organization 430 435	Chery
+T4	Organization 438 441	ВАЗ
+T5	Organization 504 514	Kia Motors
+N1	Reference T1 wiki:683481	Запорожский автомобилестроительный завод
+N2	Reference T2 wiki:17631	Chevrolet
+N3	Reference T3 wiki:378562	Chery Automobile
+N4	Reference T4 wiki:139276	АвтоВАЗ
+N5	Reference T5 wiki:215264	Kia Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T5 Cooperator
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator

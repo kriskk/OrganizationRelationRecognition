@@ -1,0 +1,5 @@
+T1	Organization 0 6	Mauser
+T2	Organization 164 175	Rheinmetall
+N1	Reference T1 wiki:1037151	Mauser
+N2	Reference T2 wiki:1569917	Rheinmetall
+A1	TypeRel T2 Holder

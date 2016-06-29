@@ -1,0 +1,6 @@
+T1	Organization 0 14	Marvel Studios
+T2	Organization 227 247	Marvel Entertainment
+N1	Reference T1 wiki:3271320	Marvel Studios
+N2	Reference T2 wiki:3272761	Marvel Entertainment
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 12	СЦС Совинтел
+T2	Organization 252 258	NASDAQ
+N1	Reference T1 wiki:3929111	СЦС Совинтел
+N2	Reference T2 wiki:63813	NASDAQ
+A1	IsLink T2

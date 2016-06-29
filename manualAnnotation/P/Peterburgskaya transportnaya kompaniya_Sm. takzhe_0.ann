@@ -1,0 +1,8 @@
+T1	Organization 0 35	Петербургская транспортная компания
+T2	Organization 98 107	Питеравто
+T3	Organization 110 121	Третий парк
+N1	Reference T1 wiki:676987	Петербургская транспортная компания
+N2	Reference T2 wiki:709768	Питеравто
+N3	Reference T3 wiki:759049	Третий парк
+A1	IsLink T2
+A2	IsLink T3

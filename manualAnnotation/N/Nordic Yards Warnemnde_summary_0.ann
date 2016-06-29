@@ -1,0 +1,8 @@
+T1	Organization 0 23	Nordic Yards Warnemünde
+T2	Organization 78 104	VEB Warnowwerft Warnemünde
+T3	Organization 273 285	Nordic Yards
+N1	Reference T1 wiki:3543581	Nordic Yards Warnemünde
+N2	Reference T2 wiki:4019726	Warnowwerft Warnemünde
+N3	Reference T3 wiki:3543132	Nordic Yards
+A1	IsLink T2
+A2	IsLink T3

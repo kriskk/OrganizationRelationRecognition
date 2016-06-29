@@ -1,0 +1,14 @@
+T1	Organization 0 3	BMW
+T2	Organization 220 230	Daimler AG
+T3	Organization 278 282	Audi
+T4	Organization 641 648	Автотор
+T5	Organization 685 700	Brilliance Auto
+N1	Reference T1 wiki:40368	BMW
+N2	Reference T2 wiki:39716	Daimler AG
+N3	Reference T3 wiki:41025	Audi
+N4	Reference T4 wiki:1096940	Автотор
+N5	Reference T5 wiki:381785	Brilliance China Auto
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

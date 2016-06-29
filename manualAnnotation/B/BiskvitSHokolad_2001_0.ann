@@ -1,0 +1,5 @@
+T1	Organization 0 15	Бисквит-Шоколад
+T2	Organization 186 218	Харьковской кондитерской фабрике
+N1	Reference T1 wiki:2028291	Бисквит-Шоколад
+N2	Reference T2 wiki:2028242	Харьковская кондитерская фабрика
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 21	Linux Game Publishing
+T2	Organization 54 67	Loki Software
+N1	Reference T1 wiki:684667	Linux Game Publishing
+N2	Reference T2 wiki:1619684	Loki Software
+A1	IsLink T2

@@ -1,0 +1,9 @@
+T1	Organization 0 9	Главстрой
+T2	Organization 107 112	«РБК»
+T3	Organization 185 200	Базовый элемент
+N1	Reference T1 wiki:655957	Главстрой
+N2	Reference T2 wiki:391746	РБК
+N3	Reference T3 wiki:156379	Базовый элемент
+A1	IsLink T2
+A2	TypeRel T3 Subsidiary
+A3	TypeRel T2 Other

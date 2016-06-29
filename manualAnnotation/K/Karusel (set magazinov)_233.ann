@@ -1,0 +1,5 @@
+T1	Organization 0 25	Карусель (сеть магазинов)
+T2	Organization 187 202	X5 Retail Group
+N1	Reference T1 wiki:367164	Карусель (сеть магазинов)
+N2	Reference T2 wiki:353293	X5 Retail Group
+A1	TypeRel T2 Holder

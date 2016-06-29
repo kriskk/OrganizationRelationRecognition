@@ -1,0 +1,13 @@
+T1	Organization 0 18	Volvo Personvagnar
+T2	Organization 119 124	Volvo
+T3	Organization 331 336	Volvo
+T4	Organization 380 394	Zhejiang Geely
+N1	Reference T1 wiki:1921582	Volvo Personvagnar
+N2	Reference T2 wiki:387781	Volvo
+N3	Reference T3 wiki:387781	Volvo
+N4	Reference T4 wiki:380153	Zhejiang Geely
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Holder
+A5	TypeRel T4 Holder

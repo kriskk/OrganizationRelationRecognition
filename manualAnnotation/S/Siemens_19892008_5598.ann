@@ -1,0 +1,8 @@
+T1	Organization 0 7	Siemens
+T2	Organization 436 453	Robert Bosch GmbH
+T3	Organization 620 633	Framatome ANP
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:166006	Robert Bosch GmbH
+N3	Reference T3 wiki:913165	Framatome ANP
+A1	IsLink T2
+A2	IsLink T3

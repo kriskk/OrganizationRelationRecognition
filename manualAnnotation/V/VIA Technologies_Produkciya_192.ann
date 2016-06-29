@@ -1,0 +1,6 @@
+T1	Organization 0 16	VIA Technologies
+T2	Organization 348 352	ASUS
+N1	Reference T1 wiki:912279	VIA Technologies
+N2	Reference T2 wiki:118273	ASUS
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

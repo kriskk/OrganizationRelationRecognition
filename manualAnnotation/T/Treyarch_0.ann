@@ -1,0 +1,5 @@
+T1	Organization 0 8	Treyarch
+T2	Organization 97 112	Activision, Inc
+N1	Reference T1 wiki:1692565	Treyarch
+N2	Reference T2 wiki:307964	Activision
+A1	IsLink T2

@@ -1,0 +1,9 @@
+T1	Organization 0 14	Golden Telecom
+T2	Organization 231 243	СЦС Совинтел
+T3	Organization 306 315	ВымпелКом
+N1	Reference T1 wiki:2196953	Golden Telecom
+N2	Reference T2 wiki:3929111	СЦС Совинтел
+N3	Reference T3 wiki:70736	Вымпел-Коммуникации
+A2	IsLink T3
+A1	TypeRel T2 Alias
+A3	TypeRel T3 Holder

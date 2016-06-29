@@ -1,0 +1,14 @@
+T1	Organization 0 6	Арнест
+T2	Organization 303 323	Schwarzkopf & Henkel
+T3	Organization 551 558	L`Oreal
+T4	Organization 561 569	Unilever
+T5	Organization 601 617	Концерн «Калина»
+N1	Reference T1 wiki:451116	Арнест
+N2	Reference T2 wiki:166015	Henkel
+N3	Reference T3 wiki:164733	L’Oréal
+N4	Reference T4 wiki:198503	Unilever
+N5	Reference T5 wiki:591744	Калина (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

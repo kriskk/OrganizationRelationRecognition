@@ -1,0 +1,30 @@
+T1	Organization 0 8	Pegatron
+T2	Organization 409 425	ASUSTeK Computer
+T3	Organization 471 477	ASRock
+T4	Organization 682 686	Sony
+T5	Organization 704 714	Apple Inc.
+T6	Organization 746 755	Alienware
+T7	Organization 775 785	Palm, Inc.
+T8	Organization 787 789	HP
+N1	Reference T1 wiki:2208845	Pegatron
+N2	Reference T2 wiki:118273	ASUSTeK Computer
+N3	Reference T3 wiki:2493967	ASRock
+N4	Reference T4 wiki:73019	Sony
+N5	Reference T5 wiki:39726	Apple Inc.
+N6	Reference T6 wiki:1849025	Alienware
+N7	Reference T7 wiki:128188	Palm, Inc.
+N8	Reference T8 wiki:89988	Hewlett-Packard
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Holder
+A9	TypeRel T3 Subsidiary
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

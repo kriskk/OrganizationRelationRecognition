@@ -1,0 +1,6 @@
+T1	Organization 0 19	New World Computing
+T2	Organization 130 145	Electronic Arts
+N1	Reference T1 wiki:1260374	New World Computing
+N2	Reference T2 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	TypeRel T2 Personnel

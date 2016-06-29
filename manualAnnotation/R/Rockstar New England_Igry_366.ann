@@ -1,0 +1,14 @@
+T1	Organization 0 20	Rockstar New England
+T2	Organization 197 215	Rockstar Vancouver
+T3	Organization 218 234	Rockstar Toronto
+T4	Organization 312 330	Rockstar Vancouver
+N1	Reference T1 wiki:2337034	Rockstar New England
+N2	Reference T2 wiki:2102172	Rockstar Vancouver
+N3	Reference T3 wiki:2336518	Rockstar Toronto
+N4	Reference T4 wiki:2102172	Rockstar Vancouver
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

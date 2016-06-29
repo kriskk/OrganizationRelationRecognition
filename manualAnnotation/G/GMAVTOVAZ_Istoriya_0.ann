@@ -1,0 +1,9 @@
+T1	Organization 0 10	GM-АВТОВАЗ
+T2	Organization 89 96	АВТОВАЗ
+T3	Organization 127 141	General Motors
+N1	Reference T1 wiki:18331	GM-АВТОВАЗ
+N2	Reference T2 wiki:139276	АВТОВАЗ
+N3	Reference T3 wiki:17438	General Motors
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

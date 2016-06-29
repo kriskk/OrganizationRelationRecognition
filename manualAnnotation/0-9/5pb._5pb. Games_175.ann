@@ -1,0 +1,5 @@
+T1	Organization 0 4	5pb.
+T2	Organization 196 199	KID
+N1	Reference T1 wiki:3682202	5pb.
+N2	Reference T2 wiki:4005450	KID
+A1	IsLink T2

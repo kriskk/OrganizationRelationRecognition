@@ -1,0 +1,6 @@
+T1	Organization 0 8	Madhouse
+T2	Organization 185 196	Square Enix
+N1	Reference T1 wiki:871335	Madhouse
+N2	Reference T2 wiki:288255	Square Enix
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

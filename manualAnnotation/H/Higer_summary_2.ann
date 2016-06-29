@@ -1,0 +1,6 @@
+T1	Organization 0 5	Higer
+T2	Organization 334 340	Scania
+N1	Reference T1 wiki:507340	Higer
+N2	Reference T2 wiki:252348	Scania
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

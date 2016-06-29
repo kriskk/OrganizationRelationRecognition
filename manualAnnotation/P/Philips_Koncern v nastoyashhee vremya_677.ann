@@ -1,0 +1,10 @@
+T1	Organization 0 7	Philips
+T2	Organization 344 352	Самсунга
+T3	Organization 359 363	Сони
+N1	Reference T1 wiki:204179	Philips
+N2	Reference T2 wiki:125537	Samsung Group
+N3	Reference T3 wiki:73019	Sony
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

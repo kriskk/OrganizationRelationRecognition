@@ -1,0 +1,6 @@
+T1	Organization 0 25	НПО имени С. А. Лавочкина
+T2	Organization 208 216	ОКБ — 52
+N1	Reference T1 wiki:60161	НПО имени С. А. Лавочкина
+N2	Reference T2 wiki:347931	НПО Машиностроения
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 42	Территориальная генерирующая компания № 11
+T2	Organization 183 192	Группа Е4
+N1	Reference T1 wiki:293303	Территориальная генерирующая компания № 11
+N2	Reference T2 wiki:726651	Группа Е4
+A1	IsLink T2

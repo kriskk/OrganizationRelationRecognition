@@ -1,0 +1,5 @@
+T1	Organization 0 20	Черкизово (компания)
+T2	Organization 115 134	JPMorgan Chase Bank
+N1	Reference T1 wiki:150267	Черкизово (компания)
+N2	Reference T2 wiki:374499	JPMorgan Chase Bank
+A1	IsLink T2

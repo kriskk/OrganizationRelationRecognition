@@ -1,0 +1,33 @@
+T1	Organization 0 9	НПО «Мир»
+T2	Organization 533 539	Лукойл
+T3	Organization 547 560	Газпром нефть
+T4	Organization 571 580	Славнефть
+T5	Organization 591 599	Роснефть
+T6	Organization 630 640	Транснефть
+T7	Organization 648 652	СУЭК
+T8	Organization 655 681	ТОО «Богатырь Аксес Комир»
+T9	Organization 688 729	Уральская горно-металлургическая компания
+N1	Reference T1 wiki:2873855	НПО «Мир»
+N2	Reference T2 wiki:59354	Лукойл
+N3	Reference T3 wiki:121955	Газпром нефть
+N4	Reference T4 wiki:205107	Славнефть
+N5	Reference T5 wiki:139770	Роснефть
+N6	Reference T6 wiki:147540	Транснефть
+N7	Reference T7 wiki:162787	Сибирская угольная энергетическая компания
+N8	Reference T8 wiki:1611865	Богатырь (угольный разрез)
+N9	Reference T9 wiki:171944	Уральская горно-металлургическая компания
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator
+A15	TypeRel T9 Cooperator

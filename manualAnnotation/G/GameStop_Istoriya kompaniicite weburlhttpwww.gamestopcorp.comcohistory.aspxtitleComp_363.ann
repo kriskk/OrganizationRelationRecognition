@@ -1,0 +1,13 @@
+T1	Organization 0 8	GameStop
+T2	Organization 459 473	Barnes & Noble
+T3	Organization 675 689	Barnes & Noble
+T4	Organization 887 901	Barnes & Noble
+N1	Reference T1 wiki:2428953	GameStop
+N2	Reference T2 wiki:3395931	Barnes & Noble
+N3	Reference T3 wiki:3395931	Barnes & Noble
+N4	Reference T4 wiki:3395931	Barnes & Noble
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T3 Holder
+A5	TypeRel T4 Subsidiary

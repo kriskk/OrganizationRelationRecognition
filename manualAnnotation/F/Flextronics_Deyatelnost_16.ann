@@ -1,0 +1,5 @@
+T1	Organization 0 11	Flextronics
+T2	Organization 198 207	Microsoft
+N1	Reference T1 wiki:1032461	Flextronics
+N2	Reference T2 wiki:11987	Microsoft
+A1	IsLink T2

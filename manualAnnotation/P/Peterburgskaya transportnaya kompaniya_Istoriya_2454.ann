@@ -1,0 +1,5 @@
+T1	Organization 0 35	Петербургская транспортная компания
+T2	Organization 206 222	Волжанин-5270.06
+N1	Reference T1 wiki:676987	Петербургская транспортная компания
+N2	Reference T2 wiki:149679	Волжанин
+A1	IsLink T2

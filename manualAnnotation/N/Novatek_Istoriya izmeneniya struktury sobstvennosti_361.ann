@@ -1,0 +1,8 @@
+T1	Organization 0 7	Новатэк
+T2	Organization 350 357	Газпром
+T3	Organization 436 451	Volga Resources
+N1	Reference T1 wiki:172027	Новатэк
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:4477826	Volga Resources Group
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 41	Красноярский электровагоноремонтный завод
+T2	Organization 277 309	ОАО «Российские железные дороги»
+N1	Reference T1 wiki:1749932	Красноярский электровагоноремонтный завод
+N2	Reference T2 wiki:106901	РЖД
+A1	TypeRel T2 Holder

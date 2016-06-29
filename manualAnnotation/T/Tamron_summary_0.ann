@@ -1,0 +1,5 @@
+T1	Organization 0 6	Tamron
+T2	Organization 166 170	Sony
+N1	Reference T1 wiki:753267	Tamron
+N2	Reference T2 wiki:73019	Sony
+A1	IsLink T2

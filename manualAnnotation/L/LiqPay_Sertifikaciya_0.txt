@@ -1,0 +1,14 @@
+LiqPay
+@Безопасность системы LiqPay
+@Сертификация
+1833,243,0
+
+
+Сертификация
+
+Надёжность сертифицирована:
+ GoDaddy Secure Web Site;
+	 Verified by Visa;
+	 MasterCard SecureCode.
+
+

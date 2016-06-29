@@ -1,0 +1,5 @@
+T1	Organization 0 12	Миракс Групп
+T2	Organization 219 237	ООО «Nazvanie.net»
+N1	Reference T1 wiki:176688	Миракс Групп
+N2	Reference T2 wiki:4151274	Nazvanie.NET
+A1	TypeRel T2 Holder

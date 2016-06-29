@@ -1,0 +1,5 @@
+T1	Organization 0 6	Tectoy
+T2	Organization 315 319	Sega
+N1	Reference T1 wiki:1703799	Tectoy
+N2	Reference T2 wiki:92589	Sega
+A1	IsLink T2

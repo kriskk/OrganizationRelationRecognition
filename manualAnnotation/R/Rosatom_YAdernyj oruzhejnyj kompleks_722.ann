@@ -1,0 +1,6 @@
+T1	Organization 0 7	Росатом
+T2	Organization 223 248	Приборостроительный завод
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:4090875	Приборостроительный завод Росатома России
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

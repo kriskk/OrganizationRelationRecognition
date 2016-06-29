@@ -1,0 +1,9 @@
+T1	Organization 0 8	Интеррос
+T2	Organization 117 140	ГМК «Норильский Никель»
+T3	Organization 165 176	«ПрофМедиа»
+N1	Reference T1 wiki:147366	Интеррос
+N2	Reference T2 wiki:73395	Норильский никель
+N3	Reference T3 wiki:179905	ПрофМедиа
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

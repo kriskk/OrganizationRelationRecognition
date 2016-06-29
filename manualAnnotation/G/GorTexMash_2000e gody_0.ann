@@ -1,0 +1,10 @@
+T1	Organization 0 9	ГорТехМаш
+T2	Organization 123 144	ОАО «Ижорские заводы»
+T3	Organization 301 341	«Объединённые машиностроительные заводы»
+N1	Reference T1 wiki:2695380	ГорТехМаш
+N2	Reference T2 wiki:601241	Ижорский завод
+N3	Reference T3 wiki:149170	Объединённые машиностроительные заводы
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

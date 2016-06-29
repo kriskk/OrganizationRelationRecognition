@@ -1,0 +1,5 @@
+T1	Organization 0 28	Днепровский автобусный завод
+T2	Organization 179 209	Южный машиностроительный завод
+N1	Reference T1 wiki:3272903	Днепровский автобусный завод
+N2	Reference T2 wiki:656973	Южмаш
+A1	IsLink T2

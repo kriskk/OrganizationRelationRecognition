@@ -1,0 +1,18 @@
+T1	Organization 0 18	Nanjing Automobile
+T2	Organization 325 331	Austin
+T3	Organization 333 338	Rover
+T4	Organization 344 355	Vanden Plas
+T5	Organization 422 432	SAIC Motor
+N1	Reference T1 wiki:4048040	Nanjing Automobile
+N2	Reference T2 wiki:4041862	Austin Motor Company
+N3	Reference T3 wiki:3186068	Rover Group
+N4	Reference T4 wiki:3652462	Vanden Plas (компания)
+N5	Reference T5 wiki:377731	SAIC Motor
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Holder

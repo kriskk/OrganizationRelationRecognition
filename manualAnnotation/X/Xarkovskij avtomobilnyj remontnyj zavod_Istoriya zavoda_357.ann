@@ -1,0 +1,10 @@
+T1	Organization 0 41	Харьковский автомобильный ремонтный завод
+T2	Organization 305 308	ЯМЗ
+T3	Organization 310 313	ЯАЗ
+N1	Reference T1 wiki:3501404	Харьковский автомобильный ремонтный завод
+N2	Reference T2 wiki:916530	ЯМЗ
+N3	Reference T3 wiki:916530	ЯАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

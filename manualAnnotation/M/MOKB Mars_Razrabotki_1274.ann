@@ -1,0 +1,6 @@
+T1	Organization 0 11	МОКБ «Марс»
+T2	Organization 359 369	КБ «Южное»
+N1	Reference T1 wiki:2435157	МОКБ «Марс»
+N2	Reference T2 wiki:77093	КБ «Южное»
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

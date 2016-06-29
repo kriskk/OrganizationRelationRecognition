@@ -1,0 +1,9 @@
+T1	Organization 0 15	Lesprom Network
+T2	Organization 294 316	PriceWaterhouseCoopers
+T3	Organization 325 336	Группа Илим
+N1	Reference T1 wiki:2185250	Lesprom Network
+N2	Reference T2 wiki:275101	PriceWaterhouseCoopers
+N3	Reference T3 wiki:128667	Группа Илим
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 36	РУСАЛ Красноярский алюминиевый завод
+T2	Organization 227 243	Красноярской ГЭС
+N1	Reference T1 wiki:1144498	РУСАЛ Красноярский алюминиевый завод
+N2	Reference T2 wiki:26423	Красноярская ГЭС
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

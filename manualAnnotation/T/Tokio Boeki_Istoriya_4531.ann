@@ -1,0 +1,11 @@
+T1	Organization 0 11	Токио Боэки
+T2	Organization 266 290	Toyota Motor Corporation
+T3	Organization 296 307	Hino Motors
+T4	Organization 341 347	B.H.P.
+N1	Reference T1 wiki:3194682	Токио Боэки
+N2	Reference T2 wiki:42689	Toyota Motor Corporation
+N3	Reference T3 wiki:266538	Hino Motors
+N4	Reference T4 wiki:231571	BHP
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

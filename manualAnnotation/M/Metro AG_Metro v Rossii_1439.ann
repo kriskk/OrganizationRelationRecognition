@@ -1,0 +1,5 @@
+T1	Organization 0 8	Metro AG
+T2	Organization 359 369	MediaMarkt
+N1	Reference T1 wiki:166780	Metro AG
+N2	Reference T2 wiki:921209	MediaMarkt
+A1	IsLink T2

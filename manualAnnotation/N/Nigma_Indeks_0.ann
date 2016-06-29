@@ -1,0 +1,5 @@
+T1	Organization 0 5	Нигма
+T2	Organization 133 139	Яндекс
+N1	Reference T1 wiki:269155	Нигма
+N2	Reference T2 wiki:9744	Яндекс
+A1	TypeRel T2 Cooperator

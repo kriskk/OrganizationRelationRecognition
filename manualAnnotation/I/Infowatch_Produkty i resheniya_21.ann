@@ -1,0 +1,6 @@
+T1	Organization 0 9	Infowatch
+T2	Organization 237 255	Ашманов и партнеры
+N1	Reference T1 wiki:2098817	Infowatch
+N2	Reference T2 wiki:2022164	Ашманов и партнеры
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

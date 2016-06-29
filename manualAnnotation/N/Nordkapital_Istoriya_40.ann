@@ -1,0 +1,5 @@
+T1	Organization 0 12	Норд-капитал
+T2	Organization 201 207	Cbonds
+N1	Reference T1 wiki:4329247	Норд-капитал
+N2	Reference T2 wiki:3333114	Cbonds
+A1	TypeRel T2 Other

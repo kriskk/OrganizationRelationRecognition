@@ -1,0 +1,5 @@
+T1	Organization 0 21	Krauss-Maffei Wegmann
+T2	Organization 393 406	Mannesmann AG
+N1	Reference T1 wiki:1115943	Krauss-Maffei Wegmann
+N2	Reference T2 wiki:507916	Mannesmann AG
+A1	TypeRel T2 Holder

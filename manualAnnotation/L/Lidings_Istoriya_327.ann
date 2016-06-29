@@ -1,0 +1,31 @@
+T1	Organization 0 7	Lidings
+T2	Organization 339 341	3M
+T3	Organization 343 364	ASUSTeK Computer Inc.
+T4	Organization 383 393	ExxonMobil
+T5	Organization 395 404	ING Group
+T6	Organization 406 433	Japan Tobacco International
+T7	Organization 435 450	Norsk Hydro ASA
+T8	Organization 452 461	OMV Group
+T9	Organization 463 480	Royal Dutch Shell
+N1	Reference T1 wiki:4218749	Lidings
+N2	Reference T2 wiki:159044	3M
+N3	Reference T3 wiki:118273	ASUSTeK Computer
+N4	Reference T4 wiki:176152	ExxonMobil
+N5	Reference T5 wiki:555591	ING Group
+N6	Reference T6 wiki:387434	Japan Tobacco International
+N7	Reference T7 wiki:386662	Norsk Hydro
+N8	Reference T8 wiki:209927	OMV
+N9	Reference T9 wiki:167625	Royal Dutch Shell
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Other
+A9	TypeRel T3 Other
+A10	TypeRel T4 Other
+A11	TypeRel T5 Other
+A12	TypeRel T6 Other
+A13	TypeRel T7 Other

@@ -1,0 +1,9 @@
+T1	Organization 0 22	Milton Bradley Company
+T2	Organization 293 305	Hasbro, Inc.
+T3	Organization 530 544	Games Workshop
+N1	Reference T1 wiki:1584613	Milton Bradley Company
+N2	Reference T2 wiki:2724676	Hasbro
+N3	Reference T3 wiki:1491650	Games Workshop
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Cooperator

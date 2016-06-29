@@ -1,0 +1,6 @@
+T1	Organization 0 34	МетЛайф Алико (страховая компания)
+T2	Organization 290 306	компании MetLife
+N1	Reference T1 wiki:2635757	МетЛайф Алико (страховая компания)
+N2	Reference T2 wiki:3612482	MetLife Alico
+A1	IsLink T2
+A2	TypeRel T2 Alias

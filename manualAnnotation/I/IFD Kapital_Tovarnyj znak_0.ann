@@ -1,0 +1,6 @@
+T1	Organization 0 12	ИФД КапиталЪ
+T2	Organization 120 142	Advanced Micro Devices
+N1	Reference T1 wiki:160398	ИФД КапиталЪ
+N2	Reference T2 wiki:19981	Advanced Micro Devices
+A1	IsLink T2
+A2	TypeRel T2 Other

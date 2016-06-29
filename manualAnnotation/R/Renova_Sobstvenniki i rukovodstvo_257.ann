@@ -1,0 +1,14 @@
+T1	Organization 0 6	Ренова
+T2	Organization 251 259	UC Rusal
+T3	Organization 449 455	ТНК-BP
+T4	Organization 761 765	СУАЛ
+N1	Reference T1 wiki:158879	Ренова
+N2	Reference T2 wiki:598084	UC Rusal
+N3	Reference T3 wiki:17252	ТНК-BP
+N4	Reference T4 wiki:198079	СУАЛ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Personnel

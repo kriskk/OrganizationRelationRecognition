@@ -1,0 +1,14 @@
+T1	Organization 0 52	Мариупольский металлургический комбинат имени Ильича
+T2	Organization 324 334	Донецккокс
+T3	Organization 376 408	Авдеевский коксохимический завод
+T4	Organization 605 614	Азовсталь
+N1	Reference T1 wiki:123990	Мариупольский металлургический комбинат имени Ильича
+N2	Reference T2 wiki:510759	Донецккокс
+N3	Reference T3 wiki:501123	Авдеевский коксохимический завод
+N4	Reference T4 wiki:123992	Азовсталь
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

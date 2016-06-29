@@ -1,0 +1,5 @@
+T1	Organization 0 7	Endemol
+T2	Organization 268 283	Красный квадрат
+N1	Reference T1 wiki:749246	Endemol
+N2	Reference T2 wiki:1358613	Красный квадрат (телекомпания)
+A1	IsLink T2

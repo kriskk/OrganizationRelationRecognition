@@ -1,0 +1,14 @@
+T1	Organization 0 6	Pentax
+T2	Organization 243 248	Canon
+T3	Organization 250 255	Nikon
+T4	Organization 258 262	Sony
+N1	Reference T1 wiki:703109	Pentax
+N2	Reference T2 wiki:53435	Canon
+N3	Reference T3 wiki:147658	Nikon
+N4	Reference T4 wiki:73019	Sony
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor

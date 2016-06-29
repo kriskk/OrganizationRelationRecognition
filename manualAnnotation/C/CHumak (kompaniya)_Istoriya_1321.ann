@@ -1,0 +1,8 @@
+T1	Organization 0 16	Чумак (компания)
+T2	Organization 207 216	McDonalds
+T3	Organization 287 296	McDonalds
+N1	Reference T1 wiki:536652	Чумак (компания)
+N2	Reference T2 wiki:3425	McDonalds
+N3	Reference T3 wiki:3425	McDonalds
+A1	IsLink T2
+A2	IsLink T3

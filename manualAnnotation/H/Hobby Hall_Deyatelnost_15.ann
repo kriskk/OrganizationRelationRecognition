@@ -1,0 +1,9 @@
+T1	Organization 0 10	Hobby Hall
+T2	Organization 373 381	Стокманн
+T3	Organization 561 569	Стокманн
+N1	Reference T1 wiki:680380	Hobby Hall
+N2	Reference T2 wiki:277515	Stockmann
+N3	Reference T3 wiki:277515	Stockmann
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

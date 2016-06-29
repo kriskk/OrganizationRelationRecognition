@@ -1,0 +1,5 @@
+T1	Organization 0 29	Aluminum Corporation of China
+T2	Organization 219 241	PricewaterhouseCoopers
+N1	Reference T1 wiki:2483644	Aluminum Corporation of China
+N2	Reference T2 wiki:275101	PricewaterhouseCoopers
+A1	IsLink T2

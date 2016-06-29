@@ -1,0 +1,5 @@
+T1	Organization 0 18	Volvo Personvagnar
+T2	Organization 51 67	Geely Automobile
+N1	Reference T1 wiki:1921582	Volvo Personvagnar
+N2	Reference T2 wiki:380153	Geely Automobile
+A1	IsLink T2

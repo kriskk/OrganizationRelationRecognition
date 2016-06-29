@@ -1,0 +1,5 @@
+T1	Organization 0 20	Sumitomo Corporation
+T2	Organization 212 227	NEC Corporation
+N1	Reference T1 wiki:2076372	Sumitomo Corporation
+N2	Reference T2 wiki:232844	NEC
+A1	IsLink T2

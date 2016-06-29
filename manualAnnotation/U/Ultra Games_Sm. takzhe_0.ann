@@ -1,0 +1,5 @@
+T1	Organization 0 11	Ultra Games
+T2	Organization 44 50	Konami
+N1	Reference T1 wiki:1619864	Ultra Games
+N2	Reference T2 wiki:747952	Konami
+A1	IsLink T2

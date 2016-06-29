@@ -1,0 +1,17 @@
+T1	Organization 0 19	United Technologies
+T2	Organization 130 143	Chance Vought
+T3	Organization 164 179	Pratt & Whitney
+T4	Organization 181 198	Sikorsky Aircraft
+T5	Organization 355 361	Boeing
+T6	Organization 363 378	United Aircraft
+N1	Reference T1 wiki:257086	United Technologies
+N2	Reference T2 wiki:3421916	Chance Vought
+N3	Reference T3 wiki:807790	Pratt & Whitney
+N4	Reference T4 wiki:650530	Sikorsky Aircraft
+N5	Reference T5 wiki:156398	Boeing
+N6	Reference T6 wiki:257086	United Aircraft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T6 Alias

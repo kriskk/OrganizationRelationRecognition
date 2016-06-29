@@ -1,0 +1,17 @@
+T1	Organization 0 14	General Motors
+T2	Organization 256 265	Chevrolet
+T3	Organization 268 276	Cadillac
+T4	Organization 336 340	Opel
+T5	Organization 405 424	Magna International
+N1	Reference T1 wiki:17438	General Motors
+N2	Reference T2 wiki:17631	Chevrolet
+N3	Reference T3 wiki:571883	Cadillac
+N4	Reference T4 wiki:562302	Opel
+N5	Reference T5 wiki:232905	Magna International
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary

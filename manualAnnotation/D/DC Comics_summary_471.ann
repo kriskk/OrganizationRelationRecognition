@@ -1,0 +1,8 @@
+T1	Organization 0 9	DC Comics
+T2	Organization 238 251	Marvel Comics
+T3	Organization 295 307	Image Comics
+N1	Reference T1 wiki:1742414	DC Comics
+N2	Reference T2 wiki:351306	Marvel Comics
+N3	Reference T3 wiki:3103822	Image Comics
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,29 @@
+T1	Organization 0 13	Ai (компания)
+T2	Organization 44 46	1C
+T3	Organization 49 65	20th Century Fox
+T4	Organization 67 72	ABBYY
+T5	Organization 74 80	Akella
+T6	Organization 128 137	Microsoft
+T7	Organization 173 177	Бука
+T8	Organization 181 204	Лаборатория Касперского
+T9	Organization 252 262	Руссобит-М
+T10	Organization 267 271	Союз
+N1	Reference T1 wiki:1971303	Ai (компания)
+N2	Reference T2 wiki:34936	1C
+N3	Reference T3 wiki:272376	20th Century Fox
+N4	Reference T4 wiki:127166	ABBYY
+N5	Reference T5 wiki:654463	Akella
+N6	Reference T6 wiki:11987	Microsoft
+N7	Reference T7 wiki:367355	Бука (компания)
+N8	Reference T8 wiki:72700	Лаборатория Касперского
+N9	Reference T9 wiki:992525	Руссобит-М
+N10	Reference T10 wiki:1510178	СОЮЗ (концерн)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10

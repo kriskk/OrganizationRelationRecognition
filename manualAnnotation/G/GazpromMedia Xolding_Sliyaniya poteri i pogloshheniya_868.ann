@@ -1,0 +1,6 @@
+T1	Organization 0 21	Газпром-Медиа Холдинг
+T2	Organization 282 326	Comedy Club Production Holding (Cyprus) Ltd.
+N1	Reference T1 wiki:189268	Газпром-Медиа Холдинг
+N2	Reference T2 wiki:1986601	Comedy Club Production
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

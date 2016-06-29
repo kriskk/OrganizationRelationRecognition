@@ -1,0 +1,5 @@
+T1	Organization 0 32	Новосибирский оловянный комбинат
+T2	Organization 189 192	ABB
+N1	Reference T1 wiki:2919962	Новосибирский оловянный комбинат
+N2	Reference T2 wiki:266484	ABB
+A1	TypeRel T2 Cooperator

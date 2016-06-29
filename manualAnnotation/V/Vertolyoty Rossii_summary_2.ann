@@ -1,0 +1,8 @@
+T1	Organization 0 16	Вертолёты России
+T2	Organization 219 229	Оборонпром
+T3	Organization 279 292	Ростехнологии
+N1	Reference T1 wiki:899228	Вертолёты России
+N2	Reference T2 wiki:757437	Оборонпром
+N3	Reference T3 wiki:915063	Ростехнологии
+A2	IsLink T3
+A1	TypeRel T2 Holder

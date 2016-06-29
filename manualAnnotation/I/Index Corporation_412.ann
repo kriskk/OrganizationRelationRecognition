@@ -1,0 +1,5 @@
+T1	Organization 0 17	Index Corporation
+T2	Organization 185 190	Atlus
+N1	Reference T1 wiki:3124481	Index Corporation
+N2	Reference T2 wiki:2528689	Atlus
+A1	TypeRel T2 Subsidiary

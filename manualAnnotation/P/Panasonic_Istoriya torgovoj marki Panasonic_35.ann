@@ -1,0 +1,5 @@
+T1	Organization 0 9	Panasonic
+T2	Organization 246 254	National
+N1	Reference T1 wiki:307154	Panasonic
+N2	Reference T2 wiki:307154	National
+A1	IsLink T2

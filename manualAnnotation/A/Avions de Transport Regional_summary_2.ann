@@ -1,0 +1,11 @@
+T1	Organization 0 28	Avions de Transport Regional
+T2	Organization 206 218	Aérospatiale
+T3	Organization 225 229	EADS
+T4	Organization 258 276	Alenia Aeronautica
+N1	Reference T1 wiki:2085217	Avions de Transport Regional
+N2	Reference T2 wiki:1606272	Aérospatiale
+N3	Reference T3 wiki:39833	EADS
+N4	Reference T4 wiki:1764819	Alenia Aeronautica
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

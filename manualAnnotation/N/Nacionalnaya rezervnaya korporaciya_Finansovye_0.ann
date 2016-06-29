@@ -1,0 +1,6 @@
+T1	Organization 0 33	Национальная резервная корпорация
+T2	Organization 167 184	Ильюшин Финанс Ко
+N1	Reference T1 wiki:1120720	Национальная резервная корпорация
+N2	Reference T2 wiki:741422	Ильюшин Финанс Ко
+A1	IsLink T2
+A2	TypeRel T2 Holder

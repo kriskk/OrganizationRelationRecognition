@@ -1,0 +1,11 @@
+T1	Organization 0 29	Систематика (группа компаний)
+T2	Organization 230 266	Национальная компьютерная корпорация
+T3	Organization 287 300	«Систематика»
+T4	Organization 302 309	TopS BI
+N1	Reference T1 wiki:1116302	Систематика (группа компаний)
+N2	Reference T2 wiki:1116399	Национальная компьютерная корпорация
+N3	Reference T3 wiki:985593	Систематика (компания)
+N4	Reference T4 wiki:1103072	TopS Business Integrator
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

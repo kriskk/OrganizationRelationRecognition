@@ -1,0 +1,6 @@
+T1	Organization 0 8	Givaudan
+T2	Organization 350 360	Хьюго Босс
+N1	Reference T1 wiki:2399288	Givaudan
+N2	Reference T2 wiki:170135	Хьюго Босс
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

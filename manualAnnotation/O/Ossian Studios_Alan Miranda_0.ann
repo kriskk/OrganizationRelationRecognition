@@ -1,0 +1,14 @@
+T1	Organization 0 14	Ossian Studios
+T2	Organization 104 111	BioWare
+T3	Organization 221 228	BioWare
+T4	Organization 258 277	Relic Entertainment
+N1	Reference T1 wiki:1961963	Ossian Studios
+N2	Reference T2 wiki:546996	BioWare
+N3	Reference T3 wiki:546996	BioWare
+N4	Reference T4 wiki:1577183	Relic Entertainment
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Personnel
+A5	TypeRel T4 Personnel
+A6	TypeRel T2 Personnel

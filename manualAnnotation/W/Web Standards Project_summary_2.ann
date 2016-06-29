@@ -1,0 +1,9 @@
+T1	Organization 0 21	Web Standards Project
+T2	Organization 203 206	W3C
+T3	Organization 607 610	W3C
+N1	Reference T1 wiki:1769405	Web Standards Project
+N2	Reference T2 wiki:9533	W3C
+N3	Reference T3 wiki:9533	W3C
+A1	IsLink T2
+A2	TypeRel T3 Other
+A3	TypeRel T2 Other

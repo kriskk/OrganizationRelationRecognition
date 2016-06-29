@@ -1,0 +1,5 @@
+T1	Organization 0 20	Summit Entertainment
+T2	Organization 308 317	Lionsgate
+N1	Reference T1 wiki:1821492	Summit Entertainment
+N2	Reference T2 wiki:1671889	Lionsgate
+A1	IsLink T2

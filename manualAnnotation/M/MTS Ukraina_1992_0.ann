@@ -1,0 +1,14 @@
+T1	Organization 0 11	МТС Украина
+T2	Organization 86 96	Укртелеком
+T3	Organization 122 125	TDC
+T4	Organization 194 210	Deutsche Telekom
+N1	Reference T1 wiki:745927	МТС Украина
+N2	Reference T2 wiki:376992	Укртелеком
+N3	Reference T3 wiki:3201784	TDC
+N4	Reference T4 wiki:169094	Deutsche Telekom
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

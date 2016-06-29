@@ -1,0 +1,8 @@
+T1	Organization 0 6	Toyota
+T2	Organization 325 330	Dodge
+T3	Organization 345 354	Chevrolet
+N1	Reference T1 wiki:42689	Toyota
+N2	Reference T2 wiki:41485	Dodge
+N3	Reference T3 wiki:17631	Chevrolet
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,44 @@
+T1	Organization 0 6	Элтекс
+T2	Organization 98 114	ОАО «Ростелеком»
+T3	Organization 116 132	ЗАО «ЭР-Телеком»
+T4	Organization 163 176	ОАО «МегаФон»
+T5	Organization 178 215	 ОАО «Межрегиональный ТранзитТелеком»
+T6	Organization 217 233	ОАО «РТКомм. РУ»
+T7	Organization 235 252	АО «Казахтелеком»
+T8	Organization 254 296	ОАО «Московская городская телефонная сеть»
+T9	Organization 298 325	ЗАО «Компания ТрансТелеКом»
+T10	Organization 364 380	ЗАО «Интерсвязь»
+T11	Organization 382 399	ООО «ПиН Телеком»
+T12	Organization 401 421	ООО «Сибирские сети»
+T13	Organization 423 435	ОАО «Уфанет»
+T14	Organization 437 457	ОАО «Башинформсвязь»
+T15	Organization 459 472	ОАО «Газпром»
+N1	Reference T1 wiki:4264449	Элтекс
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:1494558	ЭР-Телеком
+N4	Reference T4 wiki:70933	МегаФон
+N5	Reference T5 wiki:638758	МТТ
+N6	Reference T6 wiki:1399213	РТКомм
+N7	Reference T7 wiki:702503	Казахтелеком
+N8	Reference T8 wiki:141210	Московская городская телефонная сеть
+N9	Reference T9 wiki:161360	ТрансТелеКом
+N10	Reference T10 wiki:756540	Интерсвязь
+N11	Reference T11 wiki:3511817	ПиН Телеком
+N12	Reference T12 wiki:2154717	Сибирские Сети
+N13	Reference T13 wiki:1698468	Уфанет
+N14	Reference T14 wiki:1365624	Башинформсвязь
+N15	Reference T15 wiki:44754	Газпром
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15

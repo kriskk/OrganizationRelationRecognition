@@ -1,0 +1,6 @@
+T1	Organization 0 24	It's a Laugh Productions
+T2	Organization 221 244	The Walt Disney Company
+N1	Reference T1 wiki:3203122	It's a Laugh Productions
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	IsLink T2
+A2	TypeRel T2 Holder

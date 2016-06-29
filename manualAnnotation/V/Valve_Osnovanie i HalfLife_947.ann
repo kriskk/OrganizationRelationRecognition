@@ -1,0 +1,5 @@
+T1	Organization 0 5	Valve
+T2	Organization 219 235	Gearbox Software
+N1	Reference T1 wiki:364585	Valve
+N2	Reference T2 wiki:541955	Gearbox Software
+A1	TypeRel T2 Cooperator

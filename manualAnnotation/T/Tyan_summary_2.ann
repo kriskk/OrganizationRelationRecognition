@@ -1,0 +1,11 @@
+T1	Organization 0 4	Tyan
+T2	Organization 187 192	Intel
+T3	Organization 195 198	AMD
+T4	Organization 363 366	IBM
+N1	Reference T1 wiki:382877	Tyan
+N2	Reference T2 wiki:762172	Intel
+N3	Reference T3 wiki:19981	AMD
+N4	Reference T4 wiki:11078	IBM
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

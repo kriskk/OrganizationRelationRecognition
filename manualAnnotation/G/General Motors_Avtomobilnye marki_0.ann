@@ -1,0 +1,77 @@
+T1	Organization 0 14	General Motors
+T2	Organization 163 168	Buick
+T3	Organization 170 178	Cadillac
+T4	Organization 180 189	Chevrolet
+T5	Organization 191 194	GMC
+T6	Organization 196 202	Holden
+T7	Organization 204 208	Opel
+T8	Organization 211 219	Vauxhall
+T9	Organization 246 256	Oldsmobile
+T10	Organization 258 265	Pontiac
+T11	Organization 275 281	Saturn
+T12	Organization 482 486	Fiat
+T13	Organization 488 498	Alfa Romeo
+T14	Organization 500 506	Lancia
+T15	Organization 508 515	Ferrari
+T16	Organization 517 525	Maserati
+T17	Organization 556 562	Subaru
+T18	Organization 657 662	Isuzu
+T19	Organization 694 700	Suzuki
+T20	Organization 836 842	Daewoo
+N1	Reference T1 wiki:17438	General Motors
+N2	Reference T2 wiki:1286702	Buick
+N3	Reference T3 wiki:571883	Cadillac
+N4	Reference T4 wiki:17631	Chevrolet
+N5	Reference T5 wiki:1811580	GMC (автомобильная марка)
+N6	Reference T6 wiki:604803	Holden
+N7	Reference T7 wiki:562302	Opel
+N8	Reference T8 wiki:1517064	Vauxhall
+N9	Reference T9 wiki:1464817	Oldsmobile
+N10	Reference T10 wiki:820144	Pontiac
+N11	Reference T11 wiki:3765717	Saturn (компания)
+N12	Reference T12 wiki:91784	Fiat
+N13	Reference T13 wiki:371643	Alfa Romeo
+N14	Reference T14 wiki:1503078	Lancia
+N15	Reference T15 wiki:124051	Ferrari
+N16	Reference T16 wiki:453192	Maserati
+N17	Reference T17 wiki:196754	Subaru
+N18	Reference T18 wiki:177809	Isuzu
+N19	Reference T19 wiki:690514	Suzuki
+N20	Reference T20 wiki:794769	Daewoo
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A18	IsLink T19
+A19	IsLink T20
+A20	TypeRel T2 Subsidiary
+A21	TypeRel T3 Subsidiary
+A22	TypeRel T4 Subsidiary
+A23	TypeRel T5 Subsidiary
+A24	TypeRel T6 Subsidiary
+A25	TypeRel T7 Subsidiary
+A26	TypeRel T8 Subsidiary
+A27	TypeRel T9 Subsidiary
+A28	TypeRel T10 Subsidiary
+A29	TypeRel T11 Subsidiary
+A30	TypeRel T12 Cooperator
+A31	TypeRel T13 Cooperator
+A32	TypeRel T14 Cooperator
+A33	TypeRel T15 Cooperator
+A34	TypeRel T16 Cooperator
+A35	TypeRel T17 Cooperator
+A36	TypeRel T18 Subsidiary
+A37	TypeRel T19 Cooperator

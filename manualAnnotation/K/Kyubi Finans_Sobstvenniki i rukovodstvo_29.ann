@@ -1,0 +1,6 @@
+T1	Organization 0 12	Кьюби Финанс
+T2	Organization 265 276	ИК Проспект
+N1	Reference T1 wiki:4399566	Кьюби Финанс
+N2	Reference T2 wiki:909645	ИК Проспект
+A1	IsLink T2
+A2	TypeRel T2 Personnel

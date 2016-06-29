@@ -1,0 +1,8 @@
+T1	Organization 0 5	Prope
+T2	Organization 233 248	Sega Studio USA
+T3	Organization 346 350	Sega
+N1	Reference T1 wiki:3380454	Prope
+N2	Reference T2 wiki:2721227	Sonic Team
+N3	Reference T3 wiki:92589	Sega
+A1	IsLink T2
+A2	IsLink T3

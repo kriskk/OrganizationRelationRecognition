@@ -1,0 +1,8 @@
+T1	Organization 0 7	Автотор
+T2	Organization 177 180	Kia
+T3	Organization 395 398	BMW
+N1	Reference T1 wiki:1096940	Автотор
+N2	Reference T2 wiki:215264	Kia
+N3	Reference T3 wiki:40368	BMW
+A1	IsLink T2
+A2	IsLink T3

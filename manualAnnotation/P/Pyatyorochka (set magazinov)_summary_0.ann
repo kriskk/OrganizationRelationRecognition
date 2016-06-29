@@ -1,0 +1,5 @@
+T1	Organization 0 26	Пятёрочка (сеть магазинов)
+T2	Organization 138 153	X5 Retail Group
+N1	Reference T1 wiki:132128	Пятёрочка (сеть магазинов)
+N2	Reference T2 wiki:353293	X5 Retail Group
+A1	TypeRel T2 Holder

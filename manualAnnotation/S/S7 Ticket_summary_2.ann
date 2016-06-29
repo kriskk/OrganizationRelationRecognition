@@ -1,0 +1,9 @@
+T1	Organization 0 9	S7 Ticket
+T2	Organization 191 198	S7 Tour
+T3	Organization 298 306	S7 Group
+N1	Reference T1 wiki:2279004	S7 Ticket
+N2	Reference T2 wiki:1830368	S7 Tour
+N3	Reference T3 wiki:2278965	S7 Group
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Holder

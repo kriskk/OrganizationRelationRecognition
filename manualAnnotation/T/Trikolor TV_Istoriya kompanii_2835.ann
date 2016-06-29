@@ -1,0 +1,8 @@
+T1	Organization 0 11	Триколор ТВ
+T2	Organization 221 228	HD Life
+T3	Organization 265 269	ГПКС
+N1	Reference T1 wiki:1320142	Триколор ТВ
+N2	Reference T2 wiki:1938031	HD Life
+N3	Reference T3 wiki:1480480	ФГУП «Космическая связь»
+A1	IsLink T2
+A2	IsLink T3

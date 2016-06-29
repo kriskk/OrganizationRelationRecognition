@@ -1,0 +1,6 @@
+T1	Organization 0 7	Porsche
+T2	Organization 185 201	Volkswagen Group
+N1	Reference T1 wiki:403194	Porsche
+N2	Reference T2 wiki:750217	Volkswagen Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

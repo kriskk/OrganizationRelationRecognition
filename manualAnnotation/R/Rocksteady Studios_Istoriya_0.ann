@@ -1,0 +1,10 @@
+T1	Organization 0 18	Rocksteady Studios
+T2	Organization 183 194	Time Warner
+T3	Organization 196 214	Square Enix Europe
+N1	Reference T1 wiki:3050753	Rocksteady Studios
+N2	Reference T2 wiki:741342	Time Warner
+N3	Reference T3 wiki:3623123	Square Enix Europe
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

@@ -1,0 +1,8 @@
+T1	Organization 0 7	Кристис
+T2	Organization 40 46	Афинса
+T3	Organization 49 55	Сотбис
+N1	Reference T1 wiki:872328	Кристис
+N2	Reference T2 wiki:1490853	Афинса
+N3	Reference T3 wiki:507135	Сотбис
+A1	IsLink T2
+A2	IsLink T3

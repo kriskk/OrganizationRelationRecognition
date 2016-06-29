@@ -1,0 +1,6 @@
+T1	Organization 0 28	Одесский автосборочный завод
+T2	Organization 217 220	САЗ
+N1	Reference T1 wiki:3223507	Одесский автосборочный завод
+N2	Reference T2 wiki:2635895	Саранский завод автосамосвалов
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

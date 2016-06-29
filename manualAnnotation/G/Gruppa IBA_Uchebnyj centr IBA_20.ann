@@ -1,0 +1,38 @@
+T1	Organization 0 10	Группа IBA
+T2	Organization 390 393	IBM
+T3	Organization 395 401	Novell
+T4	Organization 403 408	CISCO
+T5	Organization 410 419	Microsoft
+T6	Organization 421 424	SAP
+T7	Organization 426 428	1С
+T8	Organization 507 510	IBM
+T9	Organization 512 521	Prometric
+T10	Organization 803 832	CISCO (CISCO Network Academy)
+N1	Reference T1 wiki:941514	Группа IBA
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:21831	Novell
+N4	Reference T4 wiki:25014	Cisco
+N5	Reference T5 wiki:11987	Microsoft
+N6	Reference T6 wiki:81959	SAP
+N7	Reference T7 wiki:34936	1С
+N8	Reference T8 wiki:11078	IBM
+N9	Reference T9 wiki:4205378	Prometric
+N10	Reference T10 wiki:25014	Cisco
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T2 Cooperator
+A11	TypeRel T3 Cooperator
+A12	TypeRel T4 Cooperator
+A13	TypeRel T5 Cooperator
+A14	TypeRel T6 Cooperator
+A15	TypeRel T7 Cooperator
+A16	TypeRel T8 Cooperator
+A17	TypeRel T9 Cooperator
+A18	TypeRel T10 Cooperator

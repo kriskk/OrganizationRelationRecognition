@@ -1,0 +1,16 @@
+Open Handset Alliance
+@Основные участники OHA
+1821,0
+
+
+Основные участники OHA
+
+Члены Open Handset Alliance:
+
+
+
+ Nokia (Symbian OS) рассматривает возможность своего участия в альянсе.
+	 Sun (Java ME) не участвует в OHA, но Джонатан Шварц приветствовал новую Java-платформу.
+	 Apple (IPhone) и Microsoft (Windows CE, WindowsMobile, Windows Phone 7) — не участвуют.
+
+

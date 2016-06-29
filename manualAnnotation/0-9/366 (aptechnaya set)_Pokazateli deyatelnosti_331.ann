@@ -1,0 +1,5 @@
+T1	Organization 0 20	36,6 (аптечная сеть)
+T2	Organization 264 272	Верофарм
+N1	Reference T1 wiki:162860	36,6 (аптечная сеть)
+N2	Reference T2 wiki:2685933	Верофарм
+A1	IsLink T2

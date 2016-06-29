@@ -1,0 +1,6 @@
+T1	Organization 0 20	Marvel Entertainment
+T2	Organization 203 226	The Walt Disney Company
+N1	Reference T1 wiki:3272761	Marvel Entertainment
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	IsLink T2
+A2	TypeRel T2 Holder

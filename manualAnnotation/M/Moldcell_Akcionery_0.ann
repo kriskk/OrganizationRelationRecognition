@@ -1,0 +1,10 @@
+T1	Organization 0 8	Moldcell
+T2	Organization 146 157	TeliaSonera
+T3	Organization 182 190	Turkcell
+N1	Reference T1 wiki:341971	Moldcell
+N2	Reference T2 wiki:177779	TeliaSonera
+N3	Reference T3 wiki:177253	Turkcell
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 6	Gunvor
+T2	Organization 236 244	Роснефть
+N1	Reference T1 wiki:893402	Gunvor
+N2	Reference T2 wiki:139770	Роснефть
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

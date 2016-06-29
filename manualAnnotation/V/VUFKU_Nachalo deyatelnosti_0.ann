@@ -1,0 +1,10 @@
+T1	Organization 0 5	ВУФКУ
+T2	Organization 177 182	Кодак
+T3	Organization 193 197	Пате
+N1	Reference T1 wiki:1126297	ВУФКУ
+N2	Reference T2 wiki:313661	Eastman Kodak
+N3	Reference T3 wiki:1000945	Pathé
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

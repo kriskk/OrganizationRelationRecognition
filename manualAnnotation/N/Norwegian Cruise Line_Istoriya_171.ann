@@ -1,0 +1,5 @@
+T1	Organization 0 21	Norwegian Cruise Line
+T2	Organization 232 244	Star Cruises
+N1	Reference T1 wiki:3372560	Norwegian Cruise Line
+N2	Reference T2 wiki:3521498	Star Cruises
+A1	TypeRel T2 Holder

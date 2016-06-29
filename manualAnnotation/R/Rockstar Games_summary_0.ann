@@ -1,0 +1,9 @@
+T1	Organization 0 14	Rockstar Games
+T2	Organization 129 149	Take-Two Interactive
+T3	Organization 316 336	Take-Two Interactive
+N1	Reference T1 wiki:650156	Rockstar Games
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+N3	Reference T3 wiki:2783863	Take-Two Interactive
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

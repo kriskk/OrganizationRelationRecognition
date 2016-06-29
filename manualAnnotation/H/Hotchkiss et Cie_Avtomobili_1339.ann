@@ -1,0 +1,6 @@
+T1	Organization 0 16	Hotchkiss et Cie
+T2	Organization 202 208	Laffly
+N1	Reference T1 wiki:4185771	Hotchkiss et Cie
+N2	Reference T2 wiki:3003660	Laffly
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

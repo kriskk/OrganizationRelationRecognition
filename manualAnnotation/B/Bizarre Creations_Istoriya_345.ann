@@ -1,0 +1,8 @@
+T1	Organization 0 17	Bizarre Creations
+T2	Organization 186 196	Activision
+T3	Organization 314 323	Microsoft
+N1	Reference T1 wiki:2699764	Bizarre Creations
+N2	Reference T2 wiki:307964	Activision
+N3	Reference T3 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3

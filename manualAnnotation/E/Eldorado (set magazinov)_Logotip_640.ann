@@ -1,0 +1,6 @@
+T1	Organization 0 26	Эльдорадо (сеть магазинов)
+T2	Organization 332 343	Media Markt
+N1	Reference T1 wiki:144684	Эльдорадо (сеть магазинов)
+N2	Reference T2 wiki:921209	Media Markt
+A1	IsLink T2
+A2	TypeRel T2 Other

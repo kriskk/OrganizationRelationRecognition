@@ -1,0 +1,8 @@
+T1	Organization 0 5	Atari
+T2	Organization 194 204	Infogrames
+T3	Organization 239 249	Infogrames
+N1	Reference T1 wiki:308218	Atari
+N2	Reference T2 wiki:3469859	Infogrames
+N3	Reference T3 wiki:3469859	Infogrames
+A1	IsLink T2
+A2	IsLink T3

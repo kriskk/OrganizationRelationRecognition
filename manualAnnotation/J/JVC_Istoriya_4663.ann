@@ -1,0 +1,10 @@
+T1	Organization 0 3	JVC
+T2	Organization 228 235	Kenwood
+T3	Organization 332 339	Kenwood
+N1	Reference T1 wiki:294288	JVC
+N2	Reference T2 wiki:1470441	Kenwood
+N3	Reference T3 wiki:1470441	Kenwood
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Merge

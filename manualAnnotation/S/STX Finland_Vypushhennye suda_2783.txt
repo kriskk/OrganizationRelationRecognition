@@ -1,0 +1,29 @@
+STX Finland
+@Выпущенные суда
+1880,2783
+
+	 Crystal Symphony (Kvaerner Masa Yards, Турку 1995) для Crystal Cruises
+	 Vision Class Cruise Ships (Kvaerner Masa Yards, Турку)
+	 Grandeur of the Seas (1996) для Royal Caribbean International
+		 Enchantment of the Seas (1997) для Royal Caribbean International
+	 Класс HSS 1500 (High-speed Sea Service)
+	 HSC Stena Explorer (1996) для Stena Line
+		 HSC Stena Voyager (1996) для Stena Line
+		 HSC Stena Discovery (1997) для Stena Line
+	 Superfast III и Superfast IV (Kvaerner Masa Yards, Турку 1998) для Superfast Ferries
+	 Круизные суда класса Voyager
+	 Voyager of the Seas (1999) для Royal Caribbean International
+		 Explorer of the Seas (2000) для Royal Caribbean International
+		 Adventure of the Seas (2001) для Royal Caribbean International
+		 Navigator of the Seas (2002) для Royal Caribbean International
+		 Mariner of the Seas (2003) для Royal Caribbean International
+	 Europa (1999) (Kvaerner Masa Yards, Хельсинки 1999) для Hapag-Lloyd Cruises
+	 Ulysses (Aker Finnyards, Раума 2001) для Irish Ferries
+	 SeaFrance Rodin (Aker Finnyards, Раума 2001) для SeaFrance
+	 Romantika (паром) (Aker Finnyards, Раума 2002) для Tallink
+	 Hjaltland, Hrossey и Hamnavoe (Aker Finnyards, Раума 2002) для NorthLink Ferries
+	 Круизные суда класса Spirit (Kvaerner Masa Yard, Хельсинки)
+	 Costa Atlantica (2000) для Costa Crociere
+		 Carnival Spirit (2001) для Carnival Cruise Lines
+		 Carnival Pride (2001) для Carnival Cruise Lines
+		 Carnival Legend (2002) для Carnival Cruise Lines

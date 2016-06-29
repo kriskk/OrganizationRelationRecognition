@@ -1,0 +1,8 @@
+T1	Organization 0 5	Denon
+T2	Organization 216 223	Hitachi
+T3	Organization 284 291	Marantz
+N1	Reference T1 wiki:980514	Denon
+N2	Reference T2 wiki:141241	Hitachi
+N3	Reference T3 wiki:2435346	Marantz
+A1	IsLink T2
+A2	IsLink T3

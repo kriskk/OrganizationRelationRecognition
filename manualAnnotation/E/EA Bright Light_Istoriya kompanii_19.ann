@@ -1,0 +1,15 @@
+T1	Organization 0 15	EA Bright Light
+T2	Organization 210 230	Bullfrog Productions
+T3	Organization 301 316	Electronic Arts
+T4	Organization 416 431	Electronic Arts
+T5	Organization 434 449	Criterion Games
+N1	Reference T1 wiki:2520745	EA Bright Light
+N2	Reference T2 wiki:88871	Bullfrog Productions
+N3	Reference T3 wiki:323143	Electronic Arts
+N4	Reference T4 wiki:323143	Electronic Arts
+N5	Reference T5 wiki:1519023	Criterion Games
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T5 Other

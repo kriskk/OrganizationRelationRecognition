@@ -1,0 +1,6 @@
+T1	Organization 0 28	Косулинский абразивный завод
+T2	Organization 257 262	КАМАЗ
+N1	Reference T1 wiki:2816265	Косулинский абразивный завод
+N2	Reference T2 wiki:169714	КАМАЗ
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

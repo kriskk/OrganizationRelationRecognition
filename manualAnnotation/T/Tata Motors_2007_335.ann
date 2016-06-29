@@ -1,0 +1,14 @@
+T1	Organization 0 11	Tata Motors
+T2	Organization 389 393	Fiat
+T3	Organization 490 494	Fiat
+T4	Organization 497 502	Iveco
+T5	Organization 817 822	Iveco
+N1	Reference T1 wiki:962083	Tata Motors
+N2	Reference T2 wiki:91784	Fiat
+N3	Reference T3 wiki:91784	Fiat
+N4	Reference T4 wiki:272617	Iveco
+N5	Reference T5 wiki:272617	Iveco
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

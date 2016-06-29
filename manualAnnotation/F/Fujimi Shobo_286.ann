@@ -1,0 +1,5 @@
+T1	Organization 0 12	Fujimi Shobo
+T2	Organization 179 202	Kadokawa Group Holdings
+N1	Reference T1 wiki:2162627	Fujimi Shobo
+N2	Reference T2 wiki:3124112	Kadokawa Group Holdings
+A1	IsLink T2

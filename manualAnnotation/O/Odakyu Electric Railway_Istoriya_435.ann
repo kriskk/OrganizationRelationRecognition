@@ -1,0 +1,10 @@
+T1	Organization 0 23	Odakyu Electric Railway
+T2	Organization 290 307	Tokyu Corporation
+T3	Organization 604 620	Keio Corporation
+N1	Reference T1 wiki:3278556	Odakyu Electric Railway
+N2	Reference T2 wiki:3707620	Tokyu Corporation
+N3	Reference T3 wiki:3205926	Keio Corporation
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

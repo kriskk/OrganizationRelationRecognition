@@ -1,0 +1,5 @@
+T1	Organization 0 20	Avia Solutions Group
+T2	Organization 214 225	FL Technics
+N1	Reference T1 wiki:3698046	Avia Solutions Group
+N2	Reference T2 wiki:3411462	FL Technics
+A1	IsLink T2

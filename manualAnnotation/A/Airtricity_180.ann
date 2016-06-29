@@ -1,0 +1,5 @@
+T1	Organization 0 10	Airtricity
+T2	Organization 212 238	Scottish & Southern Energy
+N1	Reference T1 wiki:2250338	Airtricity
+N2	Reference T2 wiki:4145952	Scottish & Southern Energy
+A1	IsLink T2

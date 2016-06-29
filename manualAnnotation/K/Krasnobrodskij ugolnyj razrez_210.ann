@@ -1,0 +1,5 @@
+T1	Organization 0 30	Краснобродский угольный разрез
+T2	Organization 195 219	ОАО «Кузбассразрезуголь»
+N1	Reference T1 wiki:2266322	Краснобродский угольный разрез
+N2	Reference T2 wiki:171189	Кузбассразрезуголь
+A1	TypeRel T2 Holder

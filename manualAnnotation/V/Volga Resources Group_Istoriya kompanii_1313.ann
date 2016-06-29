@@ -1,0 +1,6 @@
+T1	Organization 0 21	Volga Resources Group
+T2	Organization 333 352	ОАО «СИБУР Холдинг»
+N1	Reference T1 wiki:4477826	Volga Resources Group
+N2	Reference T2 wiki:144869	Сибур
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

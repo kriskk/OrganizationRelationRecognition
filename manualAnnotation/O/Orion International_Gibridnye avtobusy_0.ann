@@ -1,0 +1,10 @@
+T1	Organization 0 19	Orion International
+T2	Organization 140 151	BAE Systems
+T3	Organization 197 204	Cummins
+N1	Reference T1 wiki:356657	Orion International
+N2	Reference T2 wiki:2435557	BAE Systems
+N3	Reference T3 wiki:2407448	Cummins
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

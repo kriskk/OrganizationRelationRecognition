@@ -1,0 +1,5 @@
+T1	Organization 0 15	Сода (компания)
+T2	Organization 176 183	Каустик
+N1	Reference T1 wiki:3785872	Сода (компания)
+N2	Reference T2 wiki:885330	Каустик (компания)
+A1	IsLink T2

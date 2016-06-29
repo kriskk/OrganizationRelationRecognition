@@ -1,0 +1,10 @@
+T1	Organization 0 8	Ямал СПГ
+T2	Organization 114 121	Новатэк
+T3	Organization 138 143	Total
+N1	Reference T1 wiki:3487130	Ямал СПГ
+N2	Reference T2 wiki:172027	Новатэк
+N3	Reference T3 wiki:159658	Total
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

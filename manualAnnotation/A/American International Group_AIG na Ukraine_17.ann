@@ -1,0 +1,5 @@
+T1	Organization 0 28	American International Group
+T2	Organization 224 231	MetLife
+N1	Reference T1 wiki:158473	American International Group
+N2	Reference T2 wiki:3612482	MetLife
+A1	IsLink T2

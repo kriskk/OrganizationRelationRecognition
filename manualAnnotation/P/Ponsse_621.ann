@@ -1,0 +1,6 @@
+T1	Organization 0 6	Ponsse
+T2	Organization 179 201	PricewaterhouseCoopers
+N1	Reference T1 wiki:3154574	Ponsse
+N2	Reference T2 wiki:275101	PricewaterhouseCoopers
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

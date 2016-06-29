@@ -1,0 +1,11 @@
+T1	Organization 0 10	Oldsmobile
+T2	Organization 284 298	General Motors
+T3	Organization 386 391	Buick
+T4	Organization 394 402	Cadillac
+N1	Reference T1 wiki:1464817	Oldsmobile
+N2	Reference T2 wiki:17438	General Motors
+N3	Reference T3 wiki:1286702	Buick
+N4	Reference T4 wiki:571883	Cadillac
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder

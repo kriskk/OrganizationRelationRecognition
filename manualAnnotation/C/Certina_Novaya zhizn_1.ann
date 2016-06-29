@@ -1,0 +1,5 @@
+T1	Organization 0 7	Certina
+T2	Organization 190 202	Swatch Group
+N1	Reference T1 wiki:1052953	Certina
+N2	Reference T2 wiki:214233	Swatch Group
+A1	IsLink T2

@@ -1,0 +1,10 @@
+SafeNet
+@Основные даты
+2583,16
+
+ 1983: Основание Industrial Resource Engineering (IRE) .
+	 1987: Переименование IRE в Information Resource Engineering
+	 1989: IRE достигает $4 миллионов в IPO
+	 1989: IRE входит в листинг Nasdaq
+	 1995: IRE выпускает первую VPN-систему, именуемую SafeNet
+	 1999: Переименование IRE в SafeNet, Inc.

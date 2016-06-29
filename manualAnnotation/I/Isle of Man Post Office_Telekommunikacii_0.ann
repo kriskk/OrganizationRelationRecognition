@@ -1,0 +1,8 @@
+T1	Organization 0 23	Isle of Man Post Office
+T2	Organization 155 170	British Telecom
+T3	Organization 236 248	Manx Telecom
+N1	Reference T1 wiki:1810403	Isle of Man Post Office
+N2	Reference T2 wiki:14276	British Telecom
+N3	Reference T3 wiki:1816648	Manx Telecom
+A1	IsLink T2
+A2	IsLink T3

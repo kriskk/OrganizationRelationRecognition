@@ -1,0 +1,5 @@
+T1	Organization 0 12	Altria Group
+T2	Organization 233 242	SABMiller
+N1	Reference T1 wiki:774080	Altria Group
+N2	Reference T2 wiki:181056	SABMiller
+A1	IsLink T2

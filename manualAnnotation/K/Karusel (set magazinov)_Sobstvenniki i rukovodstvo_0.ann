@@ -1,0 +1,13 @@
+T1	Organization 0 25	Карусель (сеть магазинов)
+T2	Organization 116 131	X5 Retail Group
+T3	Organization 159 168	Пятерочка
+T4	Organization 173 184	Перекрёсток
+N1	Reference T1 wiki:367164	Карусель (сеть магазинов)
+N2	Reference T2 wiki:353293	X5 Retail Group
+N3	Reference T3 wiki:132128	Пятёрочка (сеть магазинов)
+N4	Reference T4 wiki:176082	Перекрёсток (сеть магазинов)
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+R1	Holder Arg1:T2 Arg2:T3	
+R2	Holder Arg1:T2 Arg2:T4	

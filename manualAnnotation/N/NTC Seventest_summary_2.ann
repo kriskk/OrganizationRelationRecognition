@@ -1,0 +1,6 @@
+T1	Organization 0 13	НТЦ Севентест
+T2	Organization 256 265	НТЦ Аргус
+N1	Reference T1 wiki:2766543	НТЦ Севентест
+N2	Reference T2 wiki:1858701	НТЦ Аргус
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 15	Базовый элемент
+T2	Organization 116 126	Ингосстрах
+N1	Reference T1 wiki:156379	Базовый элемент
+N2	Reference T2 wiki:139838	Ингосстрах
+A1	IsLink T2

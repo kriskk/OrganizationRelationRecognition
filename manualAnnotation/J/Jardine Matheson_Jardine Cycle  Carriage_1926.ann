@@ -1,0 +1,38 @@
+T1	Organization 0 16	Jardine Matheson
+T2	Organization 536 542	Toyota
+T3	Organization 551 559	Daihatsu
+T4	Organization 561 566	Isuzu
+T5	Organization 568 575	Peugeot
+T6	Organization 577 580	BMW
+T7	Organization 583 588	Honda
+T8	Organization 1583 1590	Komatsu
+T9	Organization 1592 1597	BOMAG
+T10	Organization 1610 1616	Scania
+N1	Reference T1 wiki:3497044	Jardine Matheson
+N2	Reference T2 wiki:42689	Toyota
+N3	Reference T3 wiki:237199	Daihatsu
+N4	Reference T4 wiki:177809	Isuzu
+N5	Reference T5 wiki:1650729	Peugeot
+N6	Reference T6 wiki:40368	BMW
+N7	Reference T7 wiki:121050	Honda
+N8	Reference T8 wiki:744230	Komatsu
+N9	Reference T9 wiki:3234566	BOMAG
+N10	Reference T10 wiki:252348	Scania
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	TypeRel T2 Cooperator
+A11	TypeRel T3 Cooperator
+A12	TypeRel T4 Cooperator
+A13	TypeRel T5 Cooperator
+A14	TypeRel T6 Cooperator
+A15	TypeRel T7 Cooperator
+A16	TypeRel T8 Cooperator
+A17	TypeRel T9 Cooperator
+A18	TypeRel T10 Cooperator

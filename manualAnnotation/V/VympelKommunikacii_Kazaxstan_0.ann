@@ -1,0 +1,19 @@
+T1	Organization 0 19	Вымпел-Коммуникации
+T2	Organization 166 173	КаР-Тел
+T3	Organization 272 279	КаР-Тел
+T4	Organization 429 436	КаР-Тел
+T5	Organization 544 552	K-Mobile
+T6	Organization 555 561	Excess
+N1	Reference T1 wiki:70736	Вымпел-Коммуникации
+N2	Reference T2 wiki:70736	КаР-Тел
+N3	Reference T3 wiki:70736	КаР-Тел
+N4	Reference T4 wiki:70736	КаР-Тел
+N5	Reference T5 wiki:762726	K-Mobile
+N6	Reference T6 wiki:70736	Excess
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Subsidiary
+A7	TypeRel T3 Cooperator

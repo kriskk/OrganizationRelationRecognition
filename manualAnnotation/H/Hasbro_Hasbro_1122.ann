@@ -1,0 +1,10 @@
+T1	Organization 0 6	Hasbro
+T2	Organization 359 379	Wizards of the Coast
+T3	Organization 583 603	Wizards of the Coast
+N1	Reference T1 wiki:2724676	Hasbro
+N2	Reference T2 wiki:362220	Wizards of the Coast
+N3	Reference T3 wiki:362220	Wizards of the Coast
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

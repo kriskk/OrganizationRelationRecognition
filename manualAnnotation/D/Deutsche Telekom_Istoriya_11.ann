@@ -1,0 +1,8 @@
+T1	Organization 0 16	Deutsche Telekom
+T2	Organization 260 272	T-Mobile USA
+T3	Organization 316 320	AT&T
+N1	Reference T1 wiki:169094	Deutsche Telekom
+N2	Reference T2 wiki:138787	T-Mobile
+N3	Reference T3 wiki:162994	AT&T
+A1	IsLink T2
+A2	IsLink T3

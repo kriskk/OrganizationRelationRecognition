@@ -1,0 +1,8 @@
+T1	Organization 0 23	The Walt Disney Company
+T2	Organization 130 173	Walt Disney Studios Sony Pictures Releasing
+T3	Organization 184 219	Buena Vista Sony Pictures Releasing
+N1	Reference T1 wiki:319365	The Walt Disney Company
+N2	Reference T2 wiki:3938922	Walt Disney Studios Sony Pictures Releasing
+N3	Reference T3 wiki:3938922	Buena Vista Sony Pictures Releasing
+A1	IsLink T2
+A2	IsLink T3

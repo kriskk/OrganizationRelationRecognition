@@ -1,0 +1,6 @@
+T1	Organization 0 10	McDonald’s
+T2	Organization 346 352	Subway
+N1	Reference T1 wiki:3425	McDonald’s
+N2	Reference T2 wiki:463082	Subway (сеть ресторанов)
+A1	IsLink T2
+A2	TypeRel T2 Competitor

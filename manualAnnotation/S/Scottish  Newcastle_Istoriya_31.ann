@@ -1,0 +1,8 @@
+T1	Organization 0 20	Scottish & Newcastle
+T2	Organization 251 275	Baltic Beverages Holding
+T3	Organization 298 307	Carlsberg
+N1	Reference T1 wiki:318062	Scottish & Newcastle
+N2	Reference T2 wiki:317339	Baltic Beverages Holding
+N3	Reference T3 wiki:787801	Carlsberg
+A1	IsLink T2
+A2	IsLink T3

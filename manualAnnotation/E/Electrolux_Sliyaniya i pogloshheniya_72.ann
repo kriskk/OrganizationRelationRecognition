@@ -1,0 +1,17 @@
+T1	Organization 0 10	Electrolux
+T2	Organization 227 239	Husqvarna AB
+T3	Organization 330 337	Zanussi
+T4	Organization 515 518	AEG
+N1	Reference T1 wiki:153686	Electrolux
+N2	Reference T2 wiki:1206338	Husqvarna
+N3	Reference T3 wiki:153686	Zanussi
+N4	Reference T4 wiki:294609	AEG
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T2 Subsidiary
+A7	TypeRel T3 Subsidiary
+A8	TypeRel T4 Subsidiary
+A9	TypeRel T4 Subsidiary

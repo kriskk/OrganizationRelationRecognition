@@ -1,0 +1,6 @@
+T1	Organization 0 24	Premier Automotive Group
+T2	Organization 114 132	Ford Motor Company
+N1	Reference T1 wiki:504342	Premier Automotive Group
+N2	Reference T2 wiki:153236	Ford Motor Company
+A1	IsLink T2
+A2	TypeRel T2 Holder

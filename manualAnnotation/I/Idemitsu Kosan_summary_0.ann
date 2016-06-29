@@ -1,0 +1,6 @@
+T1	Organization 0 14	Idemitsu Kosan
+T2	Organization 134 144	Nippon Oil
+N1	Reference T1 wiki:1891588	Idemitsu Kosan
+N2	Reference T2 wiki:266252	Nippon Oil
+A1	IsLink T2
+A2	TypeRel T2 Competitor

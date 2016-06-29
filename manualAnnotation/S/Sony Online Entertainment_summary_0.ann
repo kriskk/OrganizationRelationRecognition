@@ -1,0 +1,5 @@
+T1	Organization 0 25	Sony Online Entertainment
+T2	Organization 102 106	Sony
+N1	Reference T1 wiki:3228138	Sony Online Entertainment
+N2	Reference T2 wiki:73019	Sony
+A1	IsLink T2

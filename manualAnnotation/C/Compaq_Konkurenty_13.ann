@@ -1,0 +1,14 @@
+T1	Organization 0 6	Compaq
+T2	Organization 284 288	Dell
+T3	Organization 290 296	Lenovo
+T4	Organization 298 302	Acer
+T5	Organization 304 319	Fujitsu-Siemens
+N1	Reference T1 wiki:343420	Compaq
+N2	Reference T2 wiki:124570	Dell
+N3	Reference T3 wiki:666442	Lenovo
+N4	Reference T4 wiki:326664	Acer
+N5	Reference T5 wiki:120893	Fujitsu-Siemens
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

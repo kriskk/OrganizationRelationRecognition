@@ -1,0 +1,10 @@
+T1	Organization 0 6	RU-COM
+T2	Organization 219 228	Группа Е4
+T3	Organization 353 360	«Элсиб»
+N1	Reference T1 wiki:2749951	RU-COM
+N2	Reference T2 wiki:726651	Группа Е4
+N3	Reference T3 wiki:2868530	НПО Элсиб
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

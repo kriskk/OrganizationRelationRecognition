@@ -1,0 +1,18 @@
+T1	Organization 0 10	Eesti Gaas
+T2	Organization 201 208	Газпром
+T3	Organization 221 225	E.ON
+T4	Organization 237 243	Fortum
+T5	Organization 256 261	Итере
+N1	Reference T1 wiki:2490513	Eesti Gaas
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:156874	E.ON
+N4	Reference T4 wiki:305740	Fortum
+N5	Reference T5 wiki:156662	Итера
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Holder
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 8	Hamilton
+T2	Organization 247 259	Swatch Group
+N1	Reference T1 wiki:1062515	Hamilton
+N2	Reference T2 wiki:214233	Swatch Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

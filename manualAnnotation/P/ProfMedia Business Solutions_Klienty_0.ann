@@ -1,0 +1,6 @@
+T1	Organization 0 28	ProfMedia Business Solutions
+T2	Organization 170 180	Проф-Медиа
+N1	Reference T1 wiki:3294730	ProfMedia Business Solutions
+N2	Reference T2 wiki:179905	Проф-Медиа
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

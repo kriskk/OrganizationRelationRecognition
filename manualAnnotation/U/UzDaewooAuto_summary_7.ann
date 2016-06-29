@@ -1,0 +1,10 @@
+T1	Organization 0 12	UzDaewooAuto
+T2	Organization 324 330	Daewoo
+T3	Organization 653 667	General Motors
+N1	Reference T1 wiki:4041751	UzDaewooAuto
+N2	Reference T2 wiki:794769	Daewoo
+N3	Reference T3 wiki:17438	General Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 18	Gibraltar Hardware
+T2	Organization 156 161	Kaman
+T3	Organization 220 226	Fender
+N1	Reference T1 wiki:4414928	Gibraltar Hardware
+N2	Reference T2 wiki:944678	Kaman
+N3	Reference T3 wiki:387353	Fender
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

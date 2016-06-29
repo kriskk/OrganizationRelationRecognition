@@ -1,0 +1,14 @@
+T1	Organization 0 6	Oracle
+T2	Organization 452 459	Red Hat
+T3	Organization 516 520	Dell
+T4	Organization 522 537	Hewlett-Packard
+T5	Organization 539 542	IBM
+N1	Reference T1 wiki:129227	Oracle
+N2	Reference T2 wiki:10874	Red Hat
+N3	Reference T3 wiki:124570	Dell
+N4	Reference T4 wiki:89988	Hewlett-Packard
+N5	Reference T5 wiki:11078	IBM
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

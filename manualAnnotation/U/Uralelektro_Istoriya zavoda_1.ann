@@ -1,0 +1,8 @@
+T1	Organization 0 11	Уралэлектро
+T2	Organization 197 224	Тульского оружейного завода
+T3	Organization 450 470	Медно-серного завода
+N1	Reference T1 wiki:4236631	Уралэлектро
+N2	Reference T2 wiki:917191	Тульский оружейный завод
+N3	Reference T3 wiki:312705	Медногорский медно-серный комбинат
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,13 @@
+T1	Organization 0 13	Mail.Ru Group
+T2	Organization 247 274	Astrum Online Entertainment
+T3	Organization 405 413	Нигма.ру
+T4	Organization 517 535	ИГ «Русские Фонды»
+N1	Reference T1 wiki:2276649	Mail.Ru Group
+N2	Reference T2 wiki:1674879	Astrum Online Entertainment
+N3	Reference T3 wiki:269155	Нигма.ру
+N4	Reference T4 wiki:914643	Русские Фонды (инвестиционная группа)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T2 Subsidiary

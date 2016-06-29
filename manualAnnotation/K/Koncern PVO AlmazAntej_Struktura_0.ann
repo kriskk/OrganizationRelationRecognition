@@ -1,0 +1,69 @@
+T1	Organization 0 25	Концерн ПВО «Алмаз-Антей»
+T2	Organization 135 232	Головное системное конструкторское бюро Концерна ПВО „Алмаз-Антей“ им. академика А. А. Расплетина
+T3	Organization 241 294	Научно-исследовательский электромеханический институт
+T4	Organization 304 372	Морской научно-исследовательский институт радиоэлектроники „Альтаир“
+T5	Organization 382 406	НИИ Радиоприборостроения
+T6	Organization 415 471	Научно-исследовательский институт имени В. В. Тихомирова
+T7	Organization 475 513	Опытное конструкторское бюро «Новатор»
+T8	Organization 537 584	Вятское машиностроительное предприятие «АВИТЕК»
+T9	Organization 591 633	Ижевский электромеханический завод «Купол»
+T10	Organization 640 692	Долгопрудненское научно-производственное предприятие
+T11	Organization 705 743	Лианозовский электромеханический завод
+T12	Organization 794 821	Конструкторское бюро «Лира»
+T13	Organization 884 928	Машиностроительный завод им. М. И. Калинина»
+T14	Organization 1084 1122	Нижегородский машиностроительный завод
+T15	Organization 1130 1154	Тульский завод «Арсенал»
+T16	Organization 1230 1281	Московский научно-исследовательский институт «Агат»
+T17	Organization 1328 1333	РАТЕП
+T18	Organization 1385 1433	Конструкторское бюро специального машиностроения
+N1	Reference T1 wiki:149639	Концерн ПВО «Алмаз-Антей»
+N2	Reference T2 wiki:662454	Алмаз-Антей (ГСКБ)
+N3	Reference T3 wiki:1526995	НИЭМИ
+N4	Reference T4 wiki:1342428	Морской научно-исследовательский институт радиоэлектроники Альтаир
+N5	Reference T5 wiki:1530588	НИИ Радиоприборостроения
+N6	Reference T6 wiki:296567	Научно-исследовательский институт имени В. В. Тихомирова
+N7	Reference T7 wiki:620163	ОКБ «Новатор»
+N8	Reference T8 wiki:1119875	Вятское машиностроительное предприятие «АВИТЕК»
+N9	Reference T9 wiki:1122102	Ижевский электромеханический завод Купол
+N10	Reference T10 wiki:1275821	Долгопрудненское научно-производственное предприятие
+N11	Reference T11 wiki:1531001	Лианозовский электромеханический завод
+N12	Reference T12 wiki:1531001	КБ «Лира»
+N13	Reference T13 wiki:965613	Машиностроительный завод имени М. И. Калинина
+N14	Reference T14 wiki:929895	Нижегородский машиностроительный завод
+N15	Reference T15 wiki:1856437	Арсенал (завод, Тула)
+N16	Reference T16 wiki:660463	Московский научно-исследовательский институт Агат
+N17	Reference T17 wiki:924547	РАТЕП
+N18	Reference T18 wiki:1598254	Конструкторское бюро специального машиностроения
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	IsLink T16
+A16	IsLink T17
+A17	IsLink T18
+A1	TypeRel T2 Subsidiary
+A18	TypeRel T3 Subsidiary
+A19	TypeRel T4 Subsidiary
+A20	TypeRel T5 Subsidiary
+A21	TypeRel T6 Subsidiary
+A22	TypeRel T7 Subsidiary
+A23	TypeRel T8 Subsidiary
+A24	TypeRel T9 Subsidiary
+A25	TypeRel T10 Subsidiary
+A26	TypeRel T11 Subsidiary
+A27	TypeRel T12 Subsidiary
+A28	TypeRel T13 Subsidiary
+A29	TypeRel T14 Subsidiary
+A30	TypeRel T15 Subsidiary
+A31	TypeRel T16 Subsidiary
+A32	TypeRel T17 Subsidiary
+A33	TypeRel T18 Subsidiary

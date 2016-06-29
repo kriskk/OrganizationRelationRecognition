@@ -1,0 +1,13 @@
+T1	Organization 0 4	MBDA
+T2	Organization 184 195	BAE Systems
+T3	Organization 205 209	EADS
+T4	Organization 219 231	Finmeccanica
+N1	Reference T1 wiki:1708010	MBDA
+N2	Reference T2 wiki:2435557	BAE Systems
+N3	Reference T3 wiki:39833	EADS
+N4	Reference T4 wiki:1108041	Finmeccanica
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T3 Holder
+A5	TypeRel T4 Holder

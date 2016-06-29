@@ -1,0 +1,18 @@
+T1	Organization 0 36	Уральский завод горного оборудования
+T2	Organization 354 381	ОАО «ГМК Норильский Никель»
+T3	Organization 412 422	ОАО «СУЭК»
+T4	Organization 505 514	ОАО «РЖД»
+T5	Organization 580 598	ООО «Евразхолдинг»
+N1	Reference T1 wiki:2059731	Уральский завод горного оборудования
+N2	Reference T2 wiki:73395	Норильский никель
+N3	Reference T3 wiki:162787	СУЭК
+N4	Reference T4 wiki:106901	РЖД
+N5	Reference T5 wiki:77382	Евразхолдинг
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator

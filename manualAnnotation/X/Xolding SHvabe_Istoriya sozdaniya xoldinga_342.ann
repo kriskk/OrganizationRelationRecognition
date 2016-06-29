@@ -1,0 +1,9 @@
+T1	Organization 0 13	Холдинг Швабе
+T2	Organization 264 319	Уральского оптико-механического завода им. Э.С. Яламова
+T3	Organization 469 476	Апостол
+N1	Reference T1 wiki:4170295	Холдинг Швабе
+N2	Reference T2 wiki:2980729	УОМЗ
+N3	Reference T3 wiki:3926035	Апостол (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary

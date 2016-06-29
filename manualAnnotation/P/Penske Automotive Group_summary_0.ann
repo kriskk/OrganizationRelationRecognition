@@ -1,0 +1,6 @@
+T1	Organization 0 23	Penske Automotive Group
+T2	Organization 123 133	AutoNation
+N1	Reference T1 wiki:507904	Penske Automotive Group
+N2	Reference T2 wiki:507912	AutoNation
+A1	IsLink T2
+A2	TypeRel T2 Competitor

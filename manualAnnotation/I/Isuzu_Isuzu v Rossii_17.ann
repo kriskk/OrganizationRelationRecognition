@@ -1,0 +1,9 @@
+T1	Organization 0 5	Isuzu
+T2	Organization 297 319	Ульяновском автозаводе
+T3	Organization 443 450	Sollers
+N1	Reference T1 wiki:177809	Isuzu
+N2	Reference T2 wiki:84571	Ульяновский автомобильный завод
+N3	Reference T3 wiki:159017	Sollers
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

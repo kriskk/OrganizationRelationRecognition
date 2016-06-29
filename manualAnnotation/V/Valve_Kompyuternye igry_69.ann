@@ -1,0 +1,30 @@
+T1	Organization 0 5	Valve
+T2	Organization 212 228	Gearbox Software
+T3	Organization 285 301	Gearbox Software
+T4	Organization 353 369	Gearbox Software
+T5	Organization 520 537	Taito Corporation
+T6	Organization 745 759	Arkane Studios
+T7	Organization 850 866	Gearbox Software
+T8	Organization 933 949	Gearbox Software
+N1	Reference T1 wiki:364585	Valve
+N2	Reference T2 wiki:541955	Gearbox Software
+N3	Reference T3 wiki:541955	Gearbox Software
+N4	Reference T4 wiki:541955	Gearbox Software
+N5	Reference T5 wiki:1711320	Taito Corporation
+N6	Reference T6 wiki:1692142	Arkane Studios
+N7	Reference T7 wiki:541955	Gearbox Software
+N8	Reference T8 wiki:541955	Gearbox Software
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T7 Cooperator
+A13	TypeRel T8 Cooperator
+A14	TypeRel T6 Cooperator

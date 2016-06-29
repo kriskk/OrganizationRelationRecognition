@@ -1,0 +1,11 @@
+T1	Organization 0 12	Star Cruises
+T2	Organization 186 212	Carnival Corporation & plc
+T3	Organization 215 243	Royal Caribbean Cruises Ltd.
+T4	Organization 318 339	Norwegian Cruise Line
+N1	Reference T1 wiki:3521498	Star Cruises
+N2	Reference T2 wiki:1099139	Carnival Corporation & plc
+N3	Reference T3 wiki:3430151	Royal Caribbean Cruises Ltd.
+N4	Reference T4 wiki:3372560	Norwegian Cruise Line
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,20 @@
+T1	Organization 0 34	РАО Энергетические системы Востока
+T2	Organization 221 232	Чукотэнерго
+T3	Organization 406 419	Сахалинэнерго
+T4	Organization 428 441	Сахалинэнерго
+T5	Organization 835 849	Камчатскэнерго
+T6	Organization 859 873	Камчатскэнерго
+T7	Organization 1001 1015	Камчатскэнерго
+N1	Reference T1 wiki:2671340	РАО Энергетические системы Востока
+N2	Reference T2 wiki:4282592	Чукотэнерго
+N3	Reference T3 wiki:1396664	Сахалинэнерго
+N4	Reference T4 wiki:1396664	Сахалинэнерго
+N5	Reference T5 wiki:4168577	Камчатскэнерго
+N6	Reference T6 wiki:4168577	Камчатскэнерго
+N7	Reference T7 wiki:4168577	Камчатскэнерго
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7

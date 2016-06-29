@@ -1,0 +1,5 @@
+T1	Organization 0 7	Pirelli
+T2	Organization 270 284	Telecom Italia
+N1	Reference T1 wiki:461196	Pirelli
+N2	Reference T2 wiki:358181	Telecom Italia
+A1	IsLink T2

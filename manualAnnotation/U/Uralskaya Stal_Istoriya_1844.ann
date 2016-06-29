@@ -1,0 +1,6 @@
+T1	Organization 0 15	Уральская Сталь
+T2	Organization 253 266	Металлоинвест
+N1	Reference T1 wiki:3596568	Уральская Сталь
+N2	Reference T2 wiki:301665	Металлоинвест
+A1	IsLink T2
+A2	TypeRel T2 Holder

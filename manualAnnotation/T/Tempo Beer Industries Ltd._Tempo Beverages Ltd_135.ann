@@ -1,0 +1,5 @@
+T1	Organization 0 26	Tempo Beer Industries Ltd.
+T2	Organization 290 298	Heineken
+N1	Reference T1 wiki:4122931	Tempo Beer Industries Ltd.
+N2	Reference T2 wiki:248758	Heineken
+A1	IsLink T2

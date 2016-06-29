@@ -1,0 +1,5 @@
+T1	Organization 0 6	Huawei
+T2	Organization 237 247	Белтелеком
+N1	Reference T1 wiki:908840	Huawei
+N2	Reference T2 wiki:758522	Белтелеком
+A1	TypeRel T2 Cooperator

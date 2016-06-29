@@ -1,0 +1,5 @@
+T1	Organization 0 24	Game Factory Interactive
+T2	Organization 100 110	GFI Russia
+N1	Reference T1 wiki:774390	Game Factory Interactive
+N2	Reference T2 wiki:351652	GFI Russia
+A1	TypeRel T2 Subsidiary

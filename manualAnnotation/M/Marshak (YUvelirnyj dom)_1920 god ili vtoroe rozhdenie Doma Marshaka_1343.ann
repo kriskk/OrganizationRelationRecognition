@@ -1,0 +1,5 @@
+T1	Organization 0 22	Маршак (Ювелирный дом)
+T2	Organization 237 244	Cartier
+N1	Reference T1 wiki:2619097	Маршак (Ювелирный дом)
+N2	Reference T2 wiki:1140234	Cartier
+A1	IsLink T2

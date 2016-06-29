@@ -1,0 +1,5 @@
+T1	Organization 0 17	Boston Scientific
+T2	Organization 145 151	MAQUET
+N1	Reference T1 wiki:1681986	Boston Scientific
+N2	Reference T2 wiki:964472	Maquet
+A1	IsLink T2

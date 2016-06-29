@@ -1,0 +1,10 @@
+T1	Organization 0 5	ИНПАС
+T2	Organization 273 287	Золотая Корона
+T3	Organization 296 308	Почта России
+N1	Reference T1 wiki:2421189	ИНПАС
+N2	Reference T2 wiki:2114697	Золотая Корона
+N3	Reference T3 wiki:234849	Почта России
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

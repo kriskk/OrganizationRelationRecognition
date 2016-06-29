@@ -1,0 +1,14 @@
+T1	Organization 0 6	Римера
+T2	Organization 81 88	Интегра
+T3	Organization 92 101	Генерация
+T4	Organization 105 115	Группа ГМС
+N1	Reference T1 wiki:2052436	Римера
+N2	Reference T2 wiki:246240	Интегра
+N3	Reference T3 wiki:1698950	Генерация (промышленная группа)
+N4	Reference T4 wiki:3021800	Группа ГМС
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor

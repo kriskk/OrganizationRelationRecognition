@@ -1,0 +1,10 @@
+T1	Organization 0 6	Reebok
+T2	Organization 230 238	Rockport
+T3	Organization 342 350	Rockport
+N1	Reference T1 wiki:399359	Reebok
+N2	Reference T2 wiki:1547251	Rockport
+N3	Reference T3 wiki:1547251	Rockport
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

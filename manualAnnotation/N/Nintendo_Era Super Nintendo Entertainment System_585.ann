@@ -1,0 +1,22 @@
+T1	Organization 0 8	Nintendo
+T2	Organization 438 442	Rare
+T3	Organization 650 656	Square
+T4	Organization 658 662	Enix
+T5	Organization 664 670	Capcom
+T6	Organization 673 679	Konami
+N1	Reference T1 wiki:202486	Nintendo
+N2	Reference T2 wiki:124471	Rareware
+N3	Reference T3 wiki:278305	Square Co.
+N4	Reference T4 wiki:2414804	Enix
+N5	Reference T5 wiki:714415	Capcom
+N6	Reference T6 wiki:747952	Konami
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Competitor
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator

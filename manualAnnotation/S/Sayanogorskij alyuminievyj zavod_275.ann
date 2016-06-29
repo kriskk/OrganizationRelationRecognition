@@ -1,0 +1,5 @@
+T1	Organization 0 30	Саяногорский алюминиевый завод
+T2	Organization 198 213	Базовый элемент
+N1	Reference T1 wiki:1050606	Саяногорский алюминиевый завод
+N2	Reference T2 wiki:156379	Базовый элемент
+A1	IsLink T2

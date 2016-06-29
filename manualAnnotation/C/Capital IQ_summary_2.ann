@@ -1,0 +1,8 @@
+T1	Organization 0 10	Capital IQ
+T2	Organization 316 333	Standard & Poor's
+T3	Organization 343 364	McGraw-Hill Companies
+N1	Reference T1 wiki:3024035	Capital IQ
+N2	Reference T2 wiki:198286	Standard & Poor's
+N3	Reference T3 wiki:757338	McGraw-Hill
+A1	IsLink T2
+A2	IsLink T3

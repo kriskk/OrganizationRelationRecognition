@@ -1,0 +1,5 @@
+T1	Organization 0 14	IO Interactive
+T2	Organization 252 261	3D Realms
+N1	Reference T1 wiki:591796	IO Interactive
+N2	Reference T2 wiki:2349412	3D Realms
+A1	IsLink T2

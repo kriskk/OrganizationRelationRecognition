@@ -1,0 +1,14 @@
+T1	Organization 0 21	Газпром-Медиа Холдинг
+T2	Organization 172 178	RuTube
+T3	Organization 198 223	Национальная Медиа Группа
+T4	Organization 598 609	Триколор ТВ
+N1	Reference T1 wiki:189268	Газпром-Медиа Холдинг
+N2	Reference T2 wiki:726090	RuTube
+N3	Reference T3 wiki:1780879	Национальная Медиа Группа
+N4	Reference T4 wiki:1320142	Триколор ТВ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Subsidiary

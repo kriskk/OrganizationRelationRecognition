@@ -1,0 +1,5 @@
+T1	Organization 0 10	Kobe Steel
+T2	Organization 224 254	Texas Instruments Incorporated
+N1	Reference T1 wiki:1884056	Kobe Steel
+N2	Reference T2 wiki:429235	Texas Instruments
+A1	TypeRel T2 Cooperator

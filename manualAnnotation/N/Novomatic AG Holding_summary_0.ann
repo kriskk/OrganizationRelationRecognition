@@ -1,0 +1,6 @@
+T1	Organization 0 20	Novomatic AG Holding
+T2	Organization 81 106	группы компаний Novomatic
+N1	Reference T1 wiki:1669481	Novomatic AG Holding
+N2	Reference T2 wiki:1659024	Novomatic group
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Marzocchi
+T2	Organization 243 250	Tenneco
+N1	Reference T1 wiki:1807422	Marzocchi
+N2	Reference T2 wiki:586391	Tenneco
+A1	TypeRel T2 Holder

@@ -1,0 +1,13 @@
+T1	Organization 0 9	Viz Media
+T2	Organization 210 220	Shogakukan
+T3	Organization 223 231	Shueisha
+T4	Organization 288 298	Shogakukan
+N1	Reference T1 wiki:1037814	Viz Media
+N2	Reference T2 wiki:205001	Shogakukan
+N3	Reference T3 wiki:204996	Shueisha
+N4	Reference T4 wiki:205001	Shogakukan
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 28	Volvo Construction Equipment
+T2	Organization 239 247	AB Volvo
+N1	Reference T1 wiki:3510714	Volvo Construction Equipment
+N2	Reference T2 wiki:387781	Volvo
+A1	TypeRel T2 Holder

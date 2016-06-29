@@ -1,0 +1,5 @@
+T1	Organization 0 3	AOL
+T2	Organization 36 71	Netscape Communications Corporation
+N1	Reference T1 wiki:610576	AOL
+N2	Reference T2 wiki:603235	Netscape Communications Corporation
+A1	IsLink T2

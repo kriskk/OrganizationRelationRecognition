@@ -1,0 +1,12 @@
+T1	Organization 0 22	Rolls-Royce Motor Cars
+T2	Organization 196 199	BMW
+T3	Organization 272 279	Bentley
+T4	Organization 430 445	Rolls-Royce plc
+N1	Reference T1 wiki:40384	Rolls-Royce Motor Cars
+N2	Reference T2 wiki:40368	BMW
+N3	Reference T3 wiki:41442	Bentley Motors
+N4	Reference T4 wiki:303399	Rolls-Royce plc
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator

@@ -1,0 +1,14 @@
+T1	Organization 0 6	Роснет
+T2	Organization 235 247	ЦентрТелеком
+T3	Organization 290 301	Связьинвест
+T4	Organization 350 363	Старт Телеком
+T5	Organization 578 588	Ростелеком
+N1	Reference T1 wiki:3618523	Роснет
+N2	Reference T2 wiki:142992	ЦентрТелеком
+N3	Reference T3 wiki:145705	Связьинвест
+N4	Reference T4 wiki:3696083	Старт Телеком
+N5	Reference T5 wiki:145844	Ростелеком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,8 @@
+T1	Organization 0 28	Fujitsu Technology Solutions
+T2	Organization 191 216	Fujitsu Siemens Computers
+T3	Organization 476 483	Fujitsu
+N1	Reference T1 wiki:2005446	Fujitsu Technology Solutions
+N2	Reference T2 wiki:120893	Fujitsu Siemens Computers
+N3	Reference T3 wiki:571996	Fujitsu
+A1	IsLink T2
+A2	IsLink T3

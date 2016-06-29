@@ -1,0 +1,10 @@
+T1	Organization 0 15	EMI Music Japan
+T2	Organization 226 229	EMI
+T3	Organization 244 251	Toshiba
+N1	Reference T1 wiki:2254321	EMI Music Japan
+N2	Reference T2 wiki:101046	EMI
+N3	Reference T3 wiki:507269	Toshiba
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 24	Marathon Oil Corporation
+T2	Organization 424 430	Лукойл
+N1	Reference T1 wiki:162549	Marathon Oil Corporation
+N2	Reference T2 wiki:59354	Лукойл
+A1	TypeRel T2 Cooperator

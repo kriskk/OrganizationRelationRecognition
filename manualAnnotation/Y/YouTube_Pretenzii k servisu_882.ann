@@ -1,0 +1,6 @@
+T1	Organization 0 7	YouTube
+T2	Organization 273 279	Viacom
+N1	Reference T1 wiki:275424	YouTube
+N2	Reference T2 wiki:399829	Viacom
+A1	IsLink T2
+A2	TypeRel T2 Other

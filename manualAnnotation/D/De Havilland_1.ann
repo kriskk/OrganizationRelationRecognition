@@ -1,0 +1,5 @@
+T1	Organization 0 12	De Havilland
+T2	Organization 178 193	Hawker Siddeley
+N1	Reference T1 wiki:3423503	De Havilland
+N2	Reference T2 wiki:2606052	Hawker Siddeley
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 15	Элма (компания)
+T2	Organization 182 201	НПО «Научный центр»
+N1	Reference T1 wiki:774461	Элма (компания)
+N2	Reference T2 wiki:238818	НПО «Научный центр»
+A1	IsLink T2

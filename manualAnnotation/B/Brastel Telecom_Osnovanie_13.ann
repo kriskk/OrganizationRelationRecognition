@@ -1,0 +1,5 @@
+T1	Organization 0 15	Brastel Telecom
+T2	Organization 264 268	KDDI
+N1	Reference T1 wiki:1956301	Brastel Telecom
+N2	Reference T2 wiki:960859	KDDI
+A1	IsLink T2

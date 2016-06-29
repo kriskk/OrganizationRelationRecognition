@@ -1,0 +1,5 @@
+T1	Organization 0 11	Garmin Ltd.
+T2	Organization 224 236	Aston Martin
+N1	Reference T1 wiki:902102	Garmin Ltd.
+N2	Reference T2 wiki:451029	Aston Martin
+A1	TypeRel T2 Cooperator

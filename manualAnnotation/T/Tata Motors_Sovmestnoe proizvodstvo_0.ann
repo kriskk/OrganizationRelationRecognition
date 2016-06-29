@@ -1,0 +1,5 @@
+T1	Organization 0 11	Tata Motors
+T2	Organization 152 169	Hispano Carrocera
+N1	Reference T1 wiki:962083	Tata Motors
+N2	Reference T2 wiki:284586	Hispano Carrocera
+A1	IsLink T2

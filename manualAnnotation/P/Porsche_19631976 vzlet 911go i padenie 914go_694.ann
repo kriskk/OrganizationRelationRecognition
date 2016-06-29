@@ -1,0 +1,5 @@
+T1	Organization 0 7	Porsche
+T2	Organization 304 311	Peugeot
+N1	Reference T1 wiki:403194	Porsche
+N2	Reference T2 wiki:1650729	Peugeot
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 21	Завод редких металлов
+T2	Organization 267 274	АвтоВАЗ
+N1	Reference T1 wiki:1876273	Завод редких металлов
+N2	Reference T2 wiki:139276	АвтоВАЗ
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

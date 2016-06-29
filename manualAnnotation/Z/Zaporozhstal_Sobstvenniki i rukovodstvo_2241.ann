@@ -1,0 +1,5 @@
+T1	Organization 0 12	Запорожсталь
+T2	Organization 205 208	СКМ
+N1	Reference T1 wiki:41230	Запорожсталь
+N2	Reference T2 wiki:36184	Систем Кэпитал Менеджмент
+A1	IsLink T2

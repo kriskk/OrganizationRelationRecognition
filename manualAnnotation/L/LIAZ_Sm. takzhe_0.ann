@@ -1,0 +1,5 @@
+T1	Organization 0 4	LIAZ
+T2	Organization 42 47	Tatra
+N1	Reference T1 wiki:897532	LIAZ
+N2	Reference T2 wiki:259110	Tatra
+A1	IsLink T2

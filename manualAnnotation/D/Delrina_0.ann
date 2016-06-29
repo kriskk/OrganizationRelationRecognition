@@ -1,0 +1,5 @@
+T1	Organization 0 7	Delrina
+T2	Organization 132 140	Symantec
+N1	Reference T1 wiki:3009078	Delrina
+N2	Reference T2 wiki:157841	Symantec
+A1	IsLink T2

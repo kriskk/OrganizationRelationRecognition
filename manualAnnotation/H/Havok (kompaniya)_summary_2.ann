@@ -1,0 +1,25 @@
+T1	Organization 0 16	Havok (компания)
+T2	Organization 227 237	Activision
+T3	Organization 239 254	Electronic Arts
+T4	Organization 256 264	Nintendo
+T5	Organization 266 275	Microsoft
+T6	Organization 277 281	Sony
+T7	Organization 284 291	Ubisoft
+N1	Reference T1 wiki:1828340	Havok (компания)
+N2	Reference T2 wiki:307964	Activision
+N3	Reference T3 wiki:323143	Electronic Arts
+N4	Reference T4 wiki:202486	Nintendo
+N5	Reference T5 wiki:11987	Microsoft
+N6	Reference T6 wiki:73019	Sony
+N7	Reference T7 wiki:650139	Ubisoft
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator
+A11	TypeRel T7 Cooperator

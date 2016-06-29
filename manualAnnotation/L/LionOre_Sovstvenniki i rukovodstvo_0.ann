@@ -1,0 +1,9 @@
+T1	Organization 0 7	LionOre
+T2	Organization 82 89	Reuters
+T3	Organization 222 239	Норильский Никель
+N1	Reference T1 wiki:637246	LionOre
+N2	Reference T2 wiki:183883	Reuters
+N3	Reference T3 wiki:73395	Норильский Никель
+A2	IsLink T3
+A1	TypeRel T2 Other
+A3	TypeRel T3 Holder

@@ -1,0 +1,34 @@
+T1	Organization 0 10	Ингосстрах
+T2	Organization 364 367	AIG
+T3	Organization 369 376	Allianz
+T4	Organization 378 381	AXA
+T5	Organization 388 398	General Re
+T6	Organization 400 411	Hannover Re
+T7	Organization 432 441	Munich Re
+T8	Organization 460 464	SCOR
+T9	Organization 466 474	Swiss Re
+N1	Reference T1 wiki:139838	Ингосстрах
+N2	Reference T2 wiki:158473	AIG
+N3	Reference T3 wiki:50998	Аллианц
+N4	Reference T4 wiki:1710562	AXA
+N5	Reference T5 wiki:487506	General Re
+N6	Reference T6 wiki:487908	Hannover Re
+N7	Reference T7 wiki:166398	Munich Re
+N8	Reference T8 wiki:3768424	SCOR
+N9	Reference T9 wiki:487709	Swiss Re
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 4	Mexx
+T2	Organization 288 306	Liz Claiborne, Inc
+N1	Reference T1 wiki:878714	Mexx
+N2	Reference T2 wiki:2019477	Liz Claiborne, Inc
+A1	IsLink T2
+A2	TypeRel T2 Holder

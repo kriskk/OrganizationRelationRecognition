@@ -1,0 +1,11 @@
+T1	Organization 0 14	Совам Телепорт
+T2	Organization 253 270	Johnson & Johnson
+T3	Organization 283 289	DuPont
+T4	Organization 328 340	France Press
+N1	Reference T1 wiki:3455613	Совам Телепорт
+N2	Reference T2 wiki:608810	Johnson & Johnson
+N3	Reference T3 wiki:206423	DuPont
+N4	Reference T4 wiki:1050558	France Press
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

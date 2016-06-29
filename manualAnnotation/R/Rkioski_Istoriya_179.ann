@@ -1,0 +1,5 @@
+T1	Organization 0 8	R-kioski
+T2	Organization 256 262	Sanoma
+N1	Reference T1 wiki:3756529	R-kioski
+N2	Reference T2 wiki:68457	Sanoma
+A1	TypeRel T2 Cooperator

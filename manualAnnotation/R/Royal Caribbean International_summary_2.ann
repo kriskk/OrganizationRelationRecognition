@@ -1,0 +1,8 @@
+T1	Organization 0 29	Royal Caribbean International
+T2	Organization 198 226	Royal Caribbean Cruises Ltd.
+T3	Organization 295 312	Celebrity Cruises
+N1	Reference T1 wiki:3430803	Royal Caribbean International
+N2	Reference T2 wiki:3430151	Royal Caribbean Cruises Ltd.
+N3	Reference T3 wiki:3431415	Celebrity Cruises
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,24 @@
+T1	Organization 0 4	EADS
+T2	Organization 124 130	Boeing
+T3	Organization 231 242	BAE Systems
+T4	Organization 422 435	Airbus S.A.S.
+T5	Organization 564 574	Eurocopter
+T6	Organization 596 608	EADS Astrium
+T7	Organization 665 682	Dassault Aviation
+T8	Organization 705 709	MBDA
+N1	Reference T1 wiki:39833	EADS
+N2	Reference T2 wiki:156398	Boeing
+N3	Reference T3 wiki:2435557	BAE Systems
+N4	Reference T4 wiki:212269	Airbus SAS
+N5	Reference T5 wiki:1469492	Eurocopter
+N6	Reference T6 wiki:4352315	EADS Astrium
+N7	Reference T7 wiki:698666	Dassault Aviation
+N8	Reference T8 wiki:1708010	MBDA
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Competitor

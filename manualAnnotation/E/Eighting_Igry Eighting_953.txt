@@ -1,0 +1,8 @@
+Eighting
+@Список игр
+@Игры Eighting
+1177,12,953
+
+	 Tekken 5: Dark Resurrection (версия для PSP) (совместно разработана и издана Bandai Namco) (PlayStation Portable) (2006)
+	 Battle Stadium D.O.N (издана Bandai Namco) (Nintendo GameCube, PlayStation 2) (2006)
+	 Bleach: Heat the Soul 4 (издана SCEI) (PlayStation Portable) (2007)

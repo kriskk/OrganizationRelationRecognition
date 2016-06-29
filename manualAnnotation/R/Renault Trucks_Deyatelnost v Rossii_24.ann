@@ -1,0 +1,9 @@
+T1	Organization 0 14	Renault Trucks
+T2	Organization 335 339	АМУР
+T3	Organization 654 658	АМУР
+N1	Reference T1 wiki:318366	Renault Trucks
+N2	Reference T2 wiki:2950886	АМУР
+N3	Reference T3 wiki:2950886	АМУР
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

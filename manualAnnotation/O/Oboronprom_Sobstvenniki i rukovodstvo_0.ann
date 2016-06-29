@@ -1,0 +1,14 @@
+T1	Organization 0 10	Оборонпром
+T2	Organization 97 110	Ростехнологии
+T3	Organization 159 169	"РСК «МиГ»
+T4	Organization 215 231	Рособоронэкспорт
+N1	Reference T1 wiki:757437	Оборонпром
+N2	Reference T2 wiki:915063	Ростехнологии
+N3	Reference T3 wiki:26999	МиГ (компания)
+N4	Reference T4 wiki:171221	Рособоронэкспорт
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

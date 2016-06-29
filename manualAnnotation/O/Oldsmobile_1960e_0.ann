@@ -1,0 +1,8 @@
+T1	Organization 0 10	Oldsmobile
+T2	Organization 96 103	Pontiac
+T3	Organization 106 111	Buick
+N1	Reference T1 wiki:1464817	Oldsmobile
+N2	Reference T2 wiki:820144	Pontiac
+N3	Reference T3 wiki:1286702	Buick
+A1	IsLink T2
+A2	IsLink T3

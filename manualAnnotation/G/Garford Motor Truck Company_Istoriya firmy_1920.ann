@@ -1,0 +1,5 @@
+T1	Organization 0 27	Garford Motor Truck Company
+T2	Organization 308 322	General Motors
+N1	Reference T1 wiki:3136244	Garford Motor Truck Company
+N2	Reference T2 wiki:17438	General Motors
+A1	TypeRel T2 Holder

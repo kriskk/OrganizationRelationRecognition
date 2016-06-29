@@ -1,0 +1,6 @@
+T1	Organization 0 22	Johnny's Entertainment
+T2	Organization 108 127	Johnny & Associates
+N1	Reference T1 wiki:3292349	Johnny's Entertainment
+N2	Reference T2 wiki:3292340	Johnny & Associates
+A1	IsLink T2
+A2	TypeRel T2 Holder

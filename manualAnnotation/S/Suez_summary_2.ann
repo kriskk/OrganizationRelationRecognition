@@ -1,0 +1,8 @@
+T1	Organization 0 4	Suez
+T2	Organization 226 239	Gaz de France
+T3	Organization 260 268	GDF Suez
+N1	Reference T1 wiki:290453	Suez
+N2	Reference T2 wiki:290482	Gaz de France
+N3	Reference T3 wiki:1740250	GDF Suez
+A1	IsLink T2
+A2	IsLink T3

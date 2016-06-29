@@ -1,0 +1,5 @@
+T1	Organization 0 10	OneTwoTrip
+T2	Organization 107 119	ГК «Связной»
+N1	Reference T1 wiki:4161320	OneTwoTrip
+N2	Reference T2 wiki:371774	Связной (компания)
+A1	TypeRel T2 Cooperator

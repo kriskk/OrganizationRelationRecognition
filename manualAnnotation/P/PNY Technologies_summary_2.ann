@@ -1,0 +1,6 @@
+T1	Organization 0 16	PNY Technologies
+T2	Organization 210 216	NVIDIA
+N1	Reference T1 wiki:1536292	PNY Technologies
+N2	Reference T2 wiki:1548156	Nvidia
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

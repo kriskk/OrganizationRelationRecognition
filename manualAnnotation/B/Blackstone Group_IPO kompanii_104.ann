@@ -1,0 +1,8 @@
+T1	Organization 0 16	Blackstone Group
+T2	Organization 291 305	Morgan Stanley
+T3	Organization 308 317	Citigroup
+N1	Reference T1 wiki:706484	Blackstone Group
+N2	Reference T2 wiki:612532	Morgan Stanley
+N3	Reference T3 wiki:374508	Citigroup
+A1	IsLink T2
+A2	IsLink T3

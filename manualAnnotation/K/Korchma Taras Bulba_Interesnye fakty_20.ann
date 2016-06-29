@@ -1,0 +1,5 @@
+T1	Organization 0 19	Корчма Тарас Бульба
+T2	Organization 287 306	А-ба-ба-га-ла-ма-га
+N1	Reference T1 wiki:4155597	Корчма Тарас Бульба
+N2	Reference T2 wiki:1459253	А-ба-ба-га-ла-ма-га
+A1	TypeRel T2 Cooperator

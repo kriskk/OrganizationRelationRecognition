@@ -1,0 +1,5 @@
+T1	Organization 0 12	Нагатино-Зил
+T2	Organization 350 355	«ЗиЛ»
+N1	Reference T1 wiki:2269360	Нагатино-Зил
+N2	Reference T2 wiki:259988	Завод имени Лихачёва
+A1	IsLink T2

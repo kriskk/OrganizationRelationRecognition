@@ -1,0 +1,5 @@
+T1	Organization 0 7	Reksoft
+T2	Organization 287 293	Assist
+N1	Reference T1 wiki:3253511	Reksoft
+N2	Reference T2 wiki:4437929	Assist
+A1	TypeRel T2 Subsidiary

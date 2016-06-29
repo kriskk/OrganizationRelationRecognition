@@ -1,0 +1,6 @@
+T1	Organization 0 10	Полиметалл
+T2	Organization 291 314	Русская медная компания
+N1	Reference T1 wiki:365296	Полиметалл
+N2	Reference T2 wiki:359916	Русская медная компания
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

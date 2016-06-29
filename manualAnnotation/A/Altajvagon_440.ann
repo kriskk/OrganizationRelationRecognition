@@ -1,0 +1,5 @@
+T1	Organization 0 10	Алтайвагон
+T2	Organization 166 179	ОАО "СДС-Маш"
+N1	Reference T1 wiki:148541	Алтайвагон
+N2	Reference T2 wiki:4189812	Сибирский деловой союз
+A1	IsLink T2

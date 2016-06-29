@@ -1,0 +1,9 @@
+T1	Organization 0 7	СИДАНКО
+T2	Organization 216 224	Интеррос
+T3	Organization 369 386	British Petroleum
+N1	Reference T1 wiki:980511	СИДАНКО
+N2	Reference T2 wiki:147366	Интеррос
+N3	Reference T3 wiki:189320	British Petroleum
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

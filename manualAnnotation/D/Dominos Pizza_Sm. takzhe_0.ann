@@ -1,0 +1,5 @@
+T1	Organization 0 14	Domino’s Pizza
+T2	Organization 127 139	Boston Pizza
+N1	Reference T1 wiki:1553825	Domino’s Pizza
+N2	Reference T2 wiki:2278935	Boston Pizza
+A1	IsLink T2

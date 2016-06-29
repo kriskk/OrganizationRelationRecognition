@@ -1,0 +1,6 @@
+T1	Organization 0 7	Мосмарт
+T2	Organization 262 281	Седьмого континента
+N1	Reference T1 wiki:1134100	Мосмарт
+N2	Reference T2 wiki:164172	Седьмой континент
+A1	IsLink T2
+A2	TypeRel T2 Personnel

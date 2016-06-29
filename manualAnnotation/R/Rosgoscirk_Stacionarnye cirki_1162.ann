@@ -1,0 +1,5 @@
+T1	Organization 0 10	Росгосцирк
+T2	Organization 227 241	Сочинский цирк
+N1	Reference T1 wiki:2403504	Росгосцирк
+N2	Reference T2 wiki:245721	Сочинский цирк
+A1	IsLink T2

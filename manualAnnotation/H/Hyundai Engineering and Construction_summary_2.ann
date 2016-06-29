@@ -1,0 +1,6 @@
+T1	Organization 0 36	Hyundai Engineering and Construction
+T2	Organization 224 235	Хёндэ Групп
+N1	Reference T1 wiki:1707127	Hyundai Engineering and Construction
+N2	Reference T2 wiki:3106011	Hyundai Group
+A1	IsLink T2
+A2	TypeRel T2 Personnel

@@ -1,0 +1,5 @@
+T1	Organization 0 13	Ulysse Nardin
+T2	Organization 275 278	ETA
+N1	Reference T1 wiki:1663820	Ulysse Nardin
+N2	Reference T2 wiki:1080471	ETA (фабрика)
+A1	TypeRel T2 Cooperator

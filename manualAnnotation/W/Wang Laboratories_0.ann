@@ -1,0 +1,5 @@
+T1	Organization 0 17	Wang Laboratories
+T2	Organization 143 152	Getronics
+N1	Reference T1 wiki:500229	Wang Laboratories
+N2	Reference T2 wiki:3077109	Getronics
+A1	TypeRel T2 Holder

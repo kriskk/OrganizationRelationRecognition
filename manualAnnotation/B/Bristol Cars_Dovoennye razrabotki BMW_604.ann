@@ -1,0 +1,5 @@
+T1	Organization 0 12	Bristol Cars
+T2	Organization 253 264	Pininfarina
+N1	Reference T1 wiki:3656005	Bristol Cars
+N2	Reference T2 wiki:1574788	Pininfarina
+A1	IsLink T2

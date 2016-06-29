@@ -1,0 +1,13 @@
+T1	Organization 0 4	NeXT
+T2	Organization 313 317	Dell
+T3	Organization 319 342	The Walt Disney Company
+T4	Organization 460 472	ITunes Store
+N1	Reference T1 wiki:289854	NeXT
+N2	Reference T2 wiki:124570	Dell
+N3	Reference T3 wiki:319365	The Walt Disney Company
+N4	Reference T4 wiki:63804	ITunes Store
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

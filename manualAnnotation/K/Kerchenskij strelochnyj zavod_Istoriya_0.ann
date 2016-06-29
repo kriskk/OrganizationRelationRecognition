@@ -1,0 +1,9 @@
+T1	Organization 0 27	Керченский стрелочный завод
+T2	Organization 69 72	КМЗ
+T3	Organization 311 326	КМК им. Войкова
+N1	Reference T1 wiki:3713643	Керченский стрелочный завод
+N2	Reference T2 wiki:3713629	Керченский металлургический комбинат
+N3	Reference T3 wiki:3713629	Керченский металлургический комбинат
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Subsidiary

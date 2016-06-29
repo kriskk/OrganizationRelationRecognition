@@ -1,0 +1,5 @@
+T1	Organization 0 20	Skydance Productions
+T2	Organization 143 161	Paramount Pictures
+N1	Reference T1 wiki:4384619	Skydance Productions
+N2	Reference T2 wiki:398699	Paramount Pictures
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Укрнафта
+T2	Organization 197 219	НАК «Нафтогаз Украины»
+N1	Reference T1 wiki:1074981	Укрнафта
+N2	Reference T2 wiki:128243	Нафтогаз Украины
+A1	TypeRel T2 Holder

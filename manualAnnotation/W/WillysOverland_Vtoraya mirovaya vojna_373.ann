@@ -1,0 +1,5 @@
+T1	Organization 0 15	Willys-Overland
+T2	Organization 261 265	Ford
+N1	Reference T1 wiki:3630721	Willys-Overland
+N2	Reference T2 wiki:153236	Ford
+A1	IsLink T2

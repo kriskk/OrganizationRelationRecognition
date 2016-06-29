@@ -1,0 +1,9 @@
+T1	Organization 0 10	КБ Антонов
+T2	Organization 168 192	Серийный завод «Антонов»
+T3	Organization 316 384	Харьковское государственное авиационное производственное предприятие
+N1	Reference T1 wiki:32271	КБ Антонов
+N2	Reference T2 wiki:1417730	Авиант
+N3	Reference T3 wiki:238174	Харьковский авиационный завод
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

@@ -1,0 +1,9 @@
+T1	Organization 0 18	Куйбышевгидрострой
+T2	Organization 286 308	синтетического каучука
+T3	Organization 313 324	Волгоцеммаш
+N1	Reference T1 wiki:702093	Куйбышевгидрострой
+N2	Reference T2 wiki:1403271	ТольяттиКаучук
+N3	Reference T3 wiki:722053	Волгоцеммаш
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

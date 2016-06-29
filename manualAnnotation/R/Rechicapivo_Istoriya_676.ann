@@ -1,0 +1,5 @@
+T1	Organization 0 10	Речицапиво
+T2	Organization 241 249	Heineken
+N1	Reference T1 wiki:1030195	Речицапиво
+N2	Reference T2 wiki:248758	Heineken
+A1	TypeRel T2 Holder

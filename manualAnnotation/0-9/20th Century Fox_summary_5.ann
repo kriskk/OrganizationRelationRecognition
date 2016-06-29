@@ -1,0 +1,8 @@
+T1	Organization 0 16	20th Century Fox
+T2	Organization 366 382	News Corporation
+T3	Organization 514 534	Fox Film Corporation
+N1	Reference T1 wiki:272376	20th Century Fox
+N2	Reference T2 wiki:636692	News Corporation
+N3	Reference T3 wiki:272376	Fox Film Corporation
+A1	IsLink T2
+A2	IsLink T3

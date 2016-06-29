@@ -1,0 +1,14 @@
+T1	Organization 0 30	High Voltage Partial Discharge
+T2	Organization 423 430	Samsung
+T3	Organization 447 449	BP
+T4	Organization 451 454	ABB
+N1	Reference T1 wiki:4062863	High Voltage Partial Discharge
+N2	Reference T2 wiki:125537	Samsung
+N3	Reference T3 wiki:189320	BP
+N4	Reference T4 wiki:266484	ABB
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

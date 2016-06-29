@@ -1,0 +1,21 @@
+T1	Organization 0 16	Qualcomm Atheros
+T2	Organization 343 364	Qualcomm Incorporated
+T3	Organization 717 723	D-Link
+T4	Organization 725 731	Compex
+T5	Organization 733 740	Netgear
+T6	Organization 742 749	TP-Link
+N1	Reference T1 wiki:3399875	Qualcomm Atheros
+N2	Reference T2 wiki:897305	Qualcomm
+N3	Reference T3 wiki:936030	D-Link
+N4	Reference T4 wiki:3206305	Compex
+N5	Reference T5 wiki:3357394	NETGEAR
+N6	Reference T6 wiki:2283911	TP-Link
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A1	TypeRel T2 Holder
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Cooperator
+A8	TypeRel T5 Cooperator
+A9	TypeRel T6 Cooperator

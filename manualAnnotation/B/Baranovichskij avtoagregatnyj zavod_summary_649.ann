@@ -1,0 +1,17 @@
+T1	Organization 0 34	Барановичский автоагрегатный завод
+T2	Organization 327 331	МЗКТ
+T3	Organization 345 350	КамАЗ
+T4	Organization 358 361	ПАЗ
+T5	Organization 363 366	ЛАЗ
+T6	Organization 393 407	ВПА «Волжанин»
+N1	Reference T1 wiki:3364917	Барановичский автоагрегатный завод
+N2	Reference T2 wiki:167144	МЗКТ
+N3	Reference T3 wiki:169714	КамАЗ
+N4	Reference T4 wiki:97930	ПАЗ
+N5	Reference T5 wiki:546123	ЛАЗ
+N6	Reference T6 wiki:149679	Волжанин
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

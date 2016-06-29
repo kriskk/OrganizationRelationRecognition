@@ -1,0 +1,5 @@
+T1	Organization 0 10	Властилина
+T2	Organization 182 201	Валентина Соловьёва
+N1	Reference T1 wiki:2658173	Властилина
+N2	Reference T2 wiki:2658173	Соловьёва, Валентина Ивановна
+A1	IsLink T2

@@ -1,0 +1,8 @@
+T1	Organization 0 17	Центрэнергомонтаж
+T2	Organization 225 235	Северсталь
+T3	Organization 446 460	Котласский ЦБК
+N1	Reference T1 wiki:3154126	Центрэнергомонтаж
+N2	Reference T2 wiki:149218	Северсталь
+N3	Reference T3 wiki:128668	Котласский ЦБК
+A1	IsLink T2
+A2	IsLink T3

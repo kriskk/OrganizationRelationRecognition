@@ -1,0 +1,9 @@
+T1	Organization 0 13	Skype Limited
+T2	Organization 154 158	EBay
+T3	Organization 320 329	Microsoft
+N1	Reference T1 wiki:1248875	Skype Limited
+N2	Reference T2 wiki:130673	EBay
+N3	Reference T3 wiki:11987	Microsoft
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

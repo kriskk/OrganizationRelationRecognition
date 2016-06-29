@@ -1,0 +1,5 @@
+T1	Organization 0 11	Tata Motors
+T2	Organization 185 201	Daimler Chrysler
+N1	Reference T1 wiki:962083	Tata Motors
+N2	Reference T2 wiki:39716	Daimler Chrysler
+A1	IsLink T2

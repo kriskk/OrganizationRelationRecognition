@@ -1,0 +1,22 @@
+T1	Organization 0 12	Warner Bros.
+T2	Organization 61 76	New Line Cinema
+T3	Organization 79 102	Warner Bros. Television
+T4	Organization 105 127	Warner Bros. Animation
+T5	Organization 130 168	Warner Bros. Interactive Entertainment
+T6	Organization 191 200	DC Comics
+N1	Reference T1 wiki:272386	Warner Bros.
+N2	Reference T2 wiki:273482	New Line Cinema
+N3	Reference T3 wiki:507065	Warner Bros. Television
+N4	Reference T4 wiki:2826574	Warner Bros. Animation
+N5	Reference T5 wiki:2184337	Warner Bros. Interactive Entertainment
+N6	Reference T6 wiki:1742414	DC Comics
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Subsidiary
+A7	TypeRel T3 Subsidiary
+A8	TypeRel T4 Subsidiary
+A9	TypeRel T5 Subsidiary
+A10	TypeRel T6 Subsidiary

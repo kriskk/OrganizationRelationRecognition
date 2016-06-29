@@ -1,0 +1,5 @@
+T1	Organization 0 22	Miranda Camera Company
+T2	Organization 222 227	Nikon
+N1	Reference T1 wiki:2035009	Miranda Camera Company
+N2	Reference T2 wiki:147658	Nikon
+A1	IsLink T2

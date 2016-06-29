@@ -1,0 +1,8 @@
+T1	Organization 0 21	BlackBerry (компания)
+T2	Organization 230 238	Ericsson
+T3	Organization 439 447	Motorola
+N1	Reference T1 wiki:2617085	BlackBerry (компания)
+N2	Reference T2 wiki:711402	Ericsson
+N3	Reference T3 wiki:134384	Motorola
+A1	IsLink T2
+A2	IsLink T3

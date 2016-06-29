@@ -1,0 +1,4 @@
+T1	Organization 0 12	Казахтелеком
+T2	Organization 409 414	Tele2
+N1	Reference T1 wiki:702503	Казахтелеком
+N2	Reference T2 wiki:162980	Tele2

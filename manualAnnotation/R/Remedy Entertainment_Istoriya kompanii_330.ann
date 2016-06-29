@@ -1,0 +1,5 @@
+T1	Organization 0 20	Remedy Entertainment
+T2	Organization 294 303	3D Realms
+N1	Reference T1 wiki:1464463	Remedy Entertainment
+N2	Reference T2 wiki:2349412	3D Realms
+A1	TypeRel T2 Personnel

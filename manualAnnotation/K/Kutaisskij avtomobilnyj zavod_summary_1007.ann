@@ -1,0 +1,10 @@
+T1	Organization 0 30	Кутаисский автомобильный завод
+T2	Organization 213 221	Mahindra
+T3	Organization 349 352	MAN
+N1	Reference T1 wiki:2253760	Кутаисский автомобильный завод
+N2	Reference T2 wiki:1479897	Mahindra & Mahindra Limited
+N3	Reference T3 wiki:42703	MAN
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator
+A4	TypeRel T2 Cooperator

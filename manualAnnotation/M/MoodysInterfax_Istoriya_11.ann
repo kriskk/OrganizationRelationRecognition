@@ -1,0 +1,5 @@
+T1	Organization 0 16	Moody's-Interfax
+T2	Organization 282 289	Moody's
+N1	Reference T1 wiki:1688068	Moody's-Interfax
+N2	Reference T2 wiki:363292	Moody's
+A1	TypeRel T2 Holder

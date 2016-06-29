@@ -1,0 +1,6 @@
+T1	Organization 0 20	Ritual Entertainment
+T2	Organization 302 315	Loki Software
+N1	Reference T1 wiki:1386191	Ritual Entertainment
+N2	Reference T2 wiki:1619684	Loki Software
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

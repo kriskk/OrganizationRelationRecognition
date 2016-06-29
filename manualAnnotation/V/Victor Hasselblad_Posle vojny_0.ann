@@ -1,0 +1,5 @@
+T1	Organization 0 17	Victor Hasselblad
+T2	Organization 211 215	Saab
+N1	Reference T1 wiki:1204530	Victor Hasselblad
+N2	Reference T2 wiki:301326	Saab AB
+A1	TypeRel T2 Cooperator

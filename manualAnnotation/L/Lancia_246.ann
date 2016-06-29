@@ -1,0 +1,6 @@
+T1	Organization 0 6	Lancia
+T2	Organization 163 174	Fiat S.p.A.
+N1	Reference T1 wiki:1503078	Lancia
+N2	Reference T2 wiki:91784	Fiat
+A1	IsLink T2
+A2	TypeRel T2 Holder

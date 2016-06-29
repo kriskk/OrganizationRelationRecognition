@@ -1,0 +1,9 @@
+T1	Organization 0 5	ОНАКО
+T2	Organization 115 118	ТНК
+T3	Organization 341 344	ТНК
+N1	Reference T1 wiki:980679	ОНАКО
+N2	Reference T2 wiki:17252	Тюменская нефтяная компания
+N3	Reference T3 wiki:17252	Тюменская нефтяная компания
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

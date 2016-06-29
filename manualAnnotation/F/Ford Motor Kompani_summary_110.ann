@@ -1,0 +1,5 @@
+T1	Organization 0 18	Форд Мотор Компани
+T2	Organization 239 257	Ford Motor Company
+N1	Reference T1 wiki:3248896	Форд Мотор Компани
+N2	Reference T2 wiki:153236	Ford Motor Company
+A1	IsLink T2

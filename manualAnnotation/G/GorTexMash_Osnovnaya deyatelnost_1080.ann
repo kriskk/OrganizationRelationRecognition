@@ -1,0 +1,25 @@
+T1	Organization 0 9	ГорТехМаш
+T2	Organization 363 403	«Объединенные машиностроительные заводы»
+T3	Organization 613 626	ОАО «Уралмаш»
+T4	Organization 659 680	ОАО «Ижорские заводы»
+T5	Organization 724 733	ОАО «ОМЗ»
+T6	Organization 773 798	ООО «ОМЗ-ГО и Технологии»
+T7	Organization 843 859	ООО «ИЗ-КАРТЭКС»
+N1	Reference T1 wiki:2695380	ГорТехМаш
+N2	Reference T2 wiki:149170	Объединенные машиностроительные заводы
+N3	Reference T3 wiki:270860	Уралмашзавод
+N4	Reference T4 wiki:601241	Ижорский завод
+N5	Reference T5 wiki:149170	Объединённые машиностроительные заводы
+N6	Reference T6 wiki:149170	Объединённые машиностроительные заводы
+N7	Reference T7 wiki:601241	Ижорский завод
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator
+A8	TypeRel T4 Cooperator
+A9	TypeRel T5 Cooperator
+A10	TypeRel T6 Cooperator
+A11	TypeRel T7 Cooperator

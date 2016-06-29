@@ -1,0 +1,30 @@
+T1	Organization 0 9	НПП САТЭП
+T2	Organization 127 142	ОАО «Азовсталь»
+T3	Organization 175 205	ОАО «АрселорМиттал Кривой Рог»
+T4	Organization 253 269	ОАО «Донецккокс»
+T5	Organization 272 293	ОАО «Днепроспецсталь»
+T6	Organization 296 314	ОАО «Запорожсталь»
+T7	Organization 317 373	ОАО «Мариупольский металлургический комбинат им. Ильича»
+T8	Organization 376 414	ОАО «Ясиновский коксохимический завод»
+N1	Reference T1 wiki:2031874	НПП САТЭП
+N2	Reference T2 wiki:123992	Азовсталь
+N3	Reference T3 wiki:95226	Криворожсталь
+N4	Reference T4 wiki:510759	Донецккокс
+N5	Reference T5 wiki:802061	Днепроспецсталь
+N6	Reference T6 wiki:41230	Запорожсталь
+N7	Reference T7 wiki:123990	Мариупольский металлургический комбинат имени Ильича
+N8	Reference T8 wiki:422250	Ясиновский коксохимический завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Subsidiary
+A9	TypeRel T3 Subsidiary
+A10	TypeRel T4 Subsidiary
+A11	TypeRel T5 Subsidiary
+A12	TypeRel T6 Subsidiary
+A13	TypeRel T7 Subsidiary
+A14	TypeRel T8 Subsidiary

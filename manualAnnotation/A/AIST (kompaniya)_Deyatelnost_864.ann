@@ -1,0 +1,14 @@
+T1	Organization 0 15	АИСТ (компания)
+T2	Organization 310 315	Cisco
+T3	Organization 317 325	Ericsson
+T4	Organization 337 343	Huawei
+N1	Reference T1 wiki:1460116	АИСТ (компания)
+N2	Reference T2 wiki:25014	Cisco
+N3	Reference T3 wiki:711402	Ericsson
+N4	Reference T4 wiki:908840	Huawei
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

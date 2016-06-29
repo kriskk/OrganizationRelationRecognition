@@ -1,0 +1,5 @@
+T1	Organization 0 16	Blue Sky Studios
+T2	Organization 108 124	20th Century Fox
+N1	Reference T1 wiki:2750258	Blue Sky Studios
+N2	Reference T2 wiki:272376	20th Century Fox
+A1	IsLink T2

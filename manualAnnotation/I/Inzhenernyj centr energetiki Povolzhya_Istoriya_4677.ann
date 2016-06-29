@@ -1,0 +1,10 @@
+T1	Organization 0 36	Инженерный центр энергетики Поволжья
+T2	Organization 438 458	ОАО РАО «ЕЭС России»
+T3	Organization 768 786	ОАО «Холдинг МРСК»
+N1	Reference T1 wiki:2870574	Инженерный центр энергетики Поволжья
+N2	Reference T2 wiki:1432138	РАО «ЕЭС России»
+N3	Reference T3 wiki:2040314	Холдинг МРСК
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder
+A4	TypeRel T2 Holder

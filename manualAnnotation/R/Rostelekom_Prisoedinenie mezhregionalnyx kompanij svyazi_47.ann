@@ -1,0 +1,35 @@
+T1	Organization 0 10	Ростелеком
+T2	Organization 290 301	Связьинвест
+T3	Organization 438 450	ВолгаТелеком
+T4	Organization 458 467	Дальсвязь
+T5	Organization 475 498	Северо-Западный Телеком
+T6	Organization 506 519	Сибирьтелеком
+T7	Organization 527 542	Уралсвязьинформ
+T8	Organization 550 562	ЦентрТелеком
+T9	Organization 570 573	ЮТК
+T10	Organization 953 979	ОАО «Центральный телеграф»
+T11	Organization 986 992	Центел
+T12	Organization 1273 1282	Скай Линк
+N1	Reference T1 wiki:145844	Ростелеком
+N2	Reference T2 wiki:145705	Связьинвест
+N3	Reference T3 wiki:162608	ВолгаТелеком
+N4	Reference T4 wiki:242465	Дальсвязь
+N5	Reference T5 wiki:159172	Северо-Западный Телеком
+N6	Reference T6 wiki:343967	Сибирьтелеком
+N7	Reference T7 wiki:91190	Уралсвязьинформ
+N8	Reference T8 wiki:142992	ЦентрТелеком
+N9	Reference T9 wiki:283742	ЮТК
+N10	Reference T10 wiki:1404588	ОАО «Центральный телеграф»
+N11	Reference T11 wiki:714545	Центел
+N12	Reference T12 wiki:145535	Скай Линк
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12

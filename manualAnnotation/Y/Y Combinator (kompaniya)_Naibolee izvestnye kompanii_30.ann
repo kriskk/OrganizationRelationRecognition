@@ -1,0 +1,5 @@
+T1	Organization 0 23	Y Combinator (компания)
+T2	Organization 239 245	Disqus
+N1	Reference T1 wiki:4027666	Y Combinator (компания)
+N2	Reference T2 wiki:4115614	Disqus
+A1	TypeRel T2 Cooperator

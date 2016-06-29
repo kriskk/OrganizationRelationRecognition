@@ -1,0 +1,5 @@
+T1	Organization 0 7	Citroën
+T2	Organization 277 285	Michelin
+N1	Reference T1 wiki:1617910	Citroën
+N2	Reference T2 wiki:214287	Michelin
+A1	IsLink T2

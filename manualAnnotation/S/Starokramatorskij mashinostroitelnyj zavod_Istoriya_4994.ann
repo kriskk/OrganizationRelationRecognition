@@ -1,0 +1,8 @@
+T1	Organization 0 42	Старокраматорский машиностроительный завод
+T2	Organization 281 320	Иркутский завод тяжёлого машиностроения
+T3	Organization 471 477	Круппу
+N1	Reference T1 wiki:1828569	Старокраматорский машиностроительный завод
+N2	Reference T2 wiki:287078	Иркутский завод тяжёлого машиностроения
+N3	Reference T3 wiki:166657	ThyssenKrupp
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 6	Lancia
+T2	Organization 313 320	Ferrari
+N1	Reference T1 wiki:1503078	Lancia
+N2	Reference T2 wiki:124051	Ferrari
+A1	IsLink T2

@@ -1,0 +1,14 @@
+Eighting
+@Список игр
+@Игры Eighting
+1177,12,0
+
+
+Игры Eighting
+
+ Bloody Roar 3 (совместно с Hudson Soft) (Namco System 246) (2001)
+	 Kuru Kuru Kururin (Game Boy Advance) (2001)
+	 Kururin Paradise (Game Boy Advance) (2002)
+	 Bloody Roar 4 (совместно с Hudson Soft) (2003)
+	 Naruto: Clash of Ninja (совместно с Tomy) (Nintendo GameCube) (2003)
+	 Naruto: Clash of Ninja 2 (совместно с TOMY) (Nintendo GameCube) (2003)

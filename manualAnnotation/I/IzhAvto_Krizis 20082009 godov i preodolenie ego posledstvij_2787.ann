@@ -1,0 +1,6 @@
+T1	Organization 0 6	ИжАвто
+T2	Organization 256 266	Kia Motors
+N1	Reference T1 wiki:39731	ИжАвто
+N2	Reference T2 wiki:215264	Kia Motors
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

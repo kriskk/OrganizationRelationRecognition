@@ -1,0 +1,8 @@
+T1	Organization 0 12	Anadolu Efes
+T2	Organization 196 229	Эфес Караганда пивоваренный завод
+T3	Organization 257 290	Efes Vitanta Moldova Brewery S.A.
+N1	Reference T1 wiki:720902	Anadolu Efes
+N2	Reference T2 wiki:1490238	Эфес Караганда пивоваренный завод
+N3	Reference T3 wiki:4124431	Efes Vitanta Moldova Brewery
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,9 @@
+T1	Organization 0 8	Vodafone
+T2	Organization 164 176	China Mobile
+T3	Organization 462 478	Verizon Wireless
+N1	Reference T1 wiki:213703	Vodafone
+N2	Reference T2 wiki:248178	China Mobile
+N3	Reference T3 wiki:373572	Verizon Wireless
+A2	IsLink T3
+A1	TypeRel T2 Competitor
+A3	TypeRel T3 Subsidiary

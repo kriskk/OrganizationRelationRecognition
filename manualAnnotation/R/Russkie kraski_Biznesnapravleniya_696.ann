@@ -1,0 +1,5 @@
+T1	Organization 0 14	Русские краски
+T2	Organization 203 208	Дюпон
+N1	Reference T1 wiki:1731925	Русские краски
+N2	Reference T2 wiki:206423	DuPont
+A1	IsLink T2

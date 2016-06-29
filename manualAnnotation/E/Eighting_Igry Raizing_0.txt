@@ -1,0 +1,21 @@
+Eighting
+@Список игр
+@Игры Raizing
+1177,1580,0
+
+
+Игры Raizing
+
+ Sorcer Striker (1993)
+	 Panic Bomber (1994) (совместно с Hudson Soft) (SNK Neo-Geo)
+	 Kingdom Grand Prix (1994)
+	 Battle Garegga (1996)
+	 Terra Diver (Sega STV) (1996)
+	 Bloody Roar (совместно с Hudson Soft) (Sony ZN1) (1997)
+	 Armed Police Batrider (1998)
+	 Battle Bakraid (указана как 8ing) (1999)
+	 Bloody Roar 2 (совместно с Hudson Soft) (Sony ZN1) (1999)
+	 Oh! Bakyuuun (1999/2000)
+	 Dimahoo (издана Capcom) (Capcom CPS 2) (2000)
+	 1944: The Loop Master (совместно с Capcom) (Capcom CPS 2) (2000)
+	 Brave Blade (издана Namco) (Sony ZN1) (2000)

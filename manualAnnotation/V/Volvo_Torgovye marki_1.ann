@@ -1,0 +1,9 @@
+T1	Organization 0 5	Volvo
+T2	Organization 208 222	Renault Trucks
+T3	Organization 232 238	Nissan
+N1	Reference T1 wiki:387781	Volvo
+N2	Reference T2 wiki:318366	Renault Trucks
+N3	Reference T3 wiki:159586	Nissan
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

@@ -1,0 +1,14 @@
+T1	Organization 0 14	Oyster Telecom
+T2	Organization 289 302	Cisco Systems
+T3	Organization 304 320	Juniper Networks
+T4	Organization 322 338	Extreme Networks
+N1	Reference T1 wiki:1962124	Oyster Telecom
+N2	Reference T2 wiki:25014	Cisco Systems
+N3	Reference T3 wiki:320144	Juniper Networks
+N4	Reference T4 wiki:1619817	Extreme Networks
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

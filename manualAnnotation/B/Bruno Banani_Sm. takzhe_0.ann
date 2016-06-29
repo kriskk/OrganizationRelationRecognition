@@ -1,0 +1,8 @@
+T1	Organization 0 12	Bruno Banani
+T2	Organization 109 121	Calvin Klein
+T3	Organization 124 133	Hugo Boss
+N1	Reference T1 wiki:2290399	Bruno Banani
+N2	Reference T2 wiki:774129	Calvin Klein
+N3	Reference T3 wiki:170135	Hugo Boss
+A1	IsLink T2
+A2	IsLink T3

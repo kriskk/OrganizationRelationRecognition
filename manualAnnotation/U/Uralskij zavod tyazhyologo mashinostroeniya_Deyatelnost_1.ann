@@ -1,0 +1,46 @@
+T1	Organization 0 39	Уральский завод тяжёлого машиностроения
+T2	Organization 222 229	Газпром
+T3	Organization 231 245	Сургутнефтегаз
+T4	Organization 247 260	НК 'Роснефть'
+T5	Organization 262 275	Металлоинвест
+T6	Organization 277 289	ЕвразХолдинг
+T7	Organization 291 294	ММК
+T8	Organization 296 306	Северсталь
+T9	Organization 308 312	УГМК
+T10	Organization 314 331	Норильский никель
+T11	Organization 333 349	Евроцемент-групп
+T12	Organization 351 365	Arcelor Mittal
+N1	Reference T1 wiki:270860	Уральский завод тяжёлого машиностроения
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:143564	Сургутнефтегаз
+N4	Reference T4 wiki:139770	Роснефть
+N5	Reference T5 wiki:301665	Металлоинвест
+N6	Reference T6 wiki:77382	ЕвразХолдинг
+N7	Reference T7 wiki:54824	Магнитогорский металлургический комбинат
+N8	Reference T8 wiki:149218	Северсталь
+N9	Reference T9 wiki:171944	Уральская горно-металлургическая компания
+N10	Reference T10 wiki:73395	Норильский никель
+N11	Reference T11 wiki:172003	Евроцемент груп
+N12	Reference T12 wiki:354086	Arcelor Mittal
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	TypeRel T2 Cooperator
+A13	TypeRel T3 Cooperator
+A14	TypeRel T4 Cooperator
+A15	TypeRel T5 Cooperator
+A16	TypeRel T6 Cooperator
+A17	TypeRel T7 Cooperator
+A18	TypeRel T8 Cooperator
+A19	TypeRel T9 Cooperator
+A20	TypeRel T10 Cooperator
+A21	TypeRel T11 Cooperator
+A22	TypeRel T12 Cooperator

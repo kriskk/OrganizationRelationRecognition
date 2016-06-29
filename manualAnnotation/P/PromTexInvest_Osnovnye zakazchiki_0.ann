@@ -1,0 +1,13 @@
+T1	Organization 0 13	ПромТехИнвест
+T2	Organization 64 84	ОАО «Сургутнефтегаз»
+T3	Organization 87 105	ОАО "НК «Роснефть»
+T4	Organization 108 140	ООО «Буровая компания „Евразия“»
+N1	Reference T1 wiki:2905336	ПромТехИнвест
+N2	Reference T2 wiki:143564	Сургутнефтегаз
+N3	Reference T3 wiki:139770	Роснефть
+N4	Reference T4 wiki:612699	Евразия (буровая компания)
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

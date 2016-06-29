@@ -1,0 +1,5 @@
+T1	Organization 0 7	Sinopec
+T2	Organization 228 232	КПМГ
+N1	Reference T1 wiki:375879	Sinopec
+N2	Reference T2 wiki:281743	КПМГ
+A1	IsLink T2

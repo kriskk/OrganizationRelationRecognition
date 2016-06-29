@@ -1,0 +1,6 @@
+T1	Organization 0 15	Hewlett-Packard
+T2	Organization 298 303	Beats
+N1	Reference T1 wiki:89988	Hewlett-Packard
+N2	Reference T2 wiki:3549830	Beats by Dr. Dre
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

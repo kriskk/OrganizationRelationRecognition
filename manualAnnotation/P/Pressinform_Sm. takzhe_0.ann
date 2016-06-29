@@ -1,0 +1,5 @@
+T1	Organization 0 11	Прессинформ
+T2	Organization 76 88	Почта России
+N1	Reference T1 wiki:4466956	Прессинформ
+N2	Reference T2 wiki:234849	Почта России
+A1	IsLink T2

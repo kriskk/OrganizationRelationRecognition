@@ -1,0 +1,10 @@
+T1	Organization 0 12	ВолгаТелеком
+T2	Organization 236 246	Ростелеком
+T3	Organization 437 447	Ростелеком
+N1	Reference T1 wiki:162608	ВолгаТелеком
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:145844	Ростелеком
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

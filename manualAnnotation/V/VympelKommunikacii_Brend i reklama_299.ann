@@ -1,0 +1,9 @@
+T1	Organization 0 19	Вымпел-Коммуникации
+T2	Organization 211 224	АФК «Система»
+T3	Organization 504 516	Warner Music
+N1	Reference T1 wiki:70736	Вымпел-Коммуникации
+N2	Reference T2 wiki:158888	Система (группа)
+N3	Reference T3 wiki:197246	Warner Music
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

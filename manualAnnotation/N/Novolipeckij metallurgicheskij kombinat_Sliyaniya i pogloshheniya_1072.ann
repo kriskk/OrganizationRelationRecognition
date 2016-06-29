@@ -1,0 +1,6 @@
+T1	Organization 0 38	Новолипецкий металлургический комбинат
+T2	Organization 268 281	Duferco Group
+N1	Reference T1 wiki:143594	Новолипецкий металлургический комбинат
+N2	Reference T2 wiki:369754	Duferco
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

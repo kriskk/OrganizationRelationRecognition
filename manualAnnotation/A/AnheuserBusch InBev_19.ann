@@ -1,0 +1,8 @@
+T1	Organization 0 20	Anheuser-Busch InBev
+T2	Organization 187 201	Anheuser-Busch
+T3	Organization 204 209	InBev
+N1	Reference T1 wiki:3199376	Anheuser-Busch InBev
+N2	Reference T2 wiki:489317	Anheuser-Busch
+N3	Reference T3 wiki:203867	InBev
+A1	IsLink T2
+A2	IsLink T3

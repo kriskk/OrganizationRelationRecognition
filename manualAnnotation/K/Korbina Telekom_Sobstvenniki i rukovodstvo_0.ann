@@ -1,0 +1,12 @@
+T1	Organization 0 15	Корбина Телеком
+T2	Organization 105 119	Golden Telecom
+T3	Organization 160 169	ВымпелКом
+T4	Organization 174 183	ВымпелКом
+N1	Reference T1 wiki:128480	Корбина Телеком
+N2	Reference T2 wiki:2196953	Golden Telecom
+N3	Reference T3 wiki:70736	ВымпелКом
+N4	Reference T4 wiki:70736	ВымпелКом
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T4 Holder

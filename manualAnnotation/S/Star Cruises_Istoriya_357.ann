@@ -1,0 +1,5 @@
+T1	Organization 0 12	Star Cruises
+T2	Organization 203 224	Norwegian Cruise Line
+N1	Reference T1 wiki:3521498	Star Cruises
+N2	Reference T2 wiki:3372560	Norwegian Cruise Line
+A1	IsLink T2

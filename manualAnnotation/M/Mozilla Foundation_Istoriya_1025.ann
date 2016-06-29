@@ -1,0 +1,6 @@
+T1	Organization 0 18	Mozilla Foundation
+T2	Organization 226 240	America Online
+N1	Reference T1 wiki:589524	Mozilla Foundation
+N2	Reference T2 wiki:610576	America Online
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,11 @@
+T1	Organization 0 10	Группа РТМ
+T2	Organization 43 64	ПИК (группа компаний)
+T3	Organization 67 70	ЛСР
+T4	Organization 73 85	Система-Галс
+N1	Reference T1 wiki:3028978	Группа РТМ
+N2	Reference T2 wiki:150428	ПИК (группа компаний)
+N3	Reference T3 wiki:177298	ЛСР
+N4	Reference T4 wiki:344603	Система-Галс
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

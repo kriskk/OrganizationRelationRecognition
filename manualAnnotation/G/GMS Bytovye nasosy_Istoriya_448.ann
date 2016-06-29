@@ -1,0 +1,6 @@
+T1	Organization 0 18	ГМС Бытовые насосы
+T2	Organization 273 276	ЗИС
+N1	Reference T1 wiki:1743940	ГМС Бытовые насосы
+N2	Reference T2 wiki:259988	ЗИС
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

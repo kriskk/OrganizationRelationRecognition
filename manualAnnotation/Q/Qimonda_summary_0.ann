@@ -1,0 +1,9 @@
+T1	Organization 0 7	Qimonda
+T2	Organization 155 176	Infineon Technologies
+T3	Organization 231 238	Siemens
+N1	Reference T1 wiki:388017	Qimonda
+N2	Reference T2 wiki:166041	Infineon Technologies
+N3	Reference T3 wiki:36510	Siemens
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

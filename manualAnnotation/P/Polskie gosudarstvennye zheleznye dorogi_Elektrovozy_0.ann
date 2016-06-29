@@ -1,0 +1,5 @@
+T1	Organization 0 40	Польские государственные железные дороги
+T2	Organization 231 235	НЭВЗ
+N1	Reference T1 wiki:963199	Польские государственные железные дороги
+N2	Reference T2 wiki:140998	НЭВЗ
+A1	TypeRel T2 Cooperator

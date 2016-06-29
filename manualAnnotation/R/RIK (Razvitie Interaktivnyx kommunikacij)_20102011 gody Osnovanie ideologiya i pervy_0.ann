@@ -1,0 +1,10 @@
+T1	Organization 0 41	РИК (Развитие Интерактивных коммуникаций)
+T2	Organization 257 265	РБК Софт
+T3	Organization 382 401	ADV/web-engineering
+N1	Reference T1 wiki:4432835	РИК (Развитие Интерактивных коммуникаций)
+N2	Reference T2 wiki:2357226	Армада (компания)
+N3	Reference T3 wiki:1972961	ADV/web-engineering
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

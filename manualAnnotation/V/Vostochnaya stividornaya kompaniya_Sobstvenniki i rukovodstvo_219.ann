@@ -1,0 +1,5 @@
+T1	Organization 0 30	Восточная стивидорная компания
+T2	Organization 228 235	Н-Транс
+N1	Reference T1 wiki:3146849	Восточная стивидорная компания
+N2	Reference T2 wiki:631354	Н-Транс
+A1	IsLink T2

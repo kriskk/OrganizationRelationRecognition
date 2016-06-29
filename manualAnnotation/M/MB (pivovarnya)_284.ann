@@ -1,0 +1,9 @@
+T1	Organization 0 14	MB (пивоварня)
+T2	Organization 184 192	Heineken
+T3	Organization 195 214	Efes Beverage Group
+N1	Reference T1 wiki:4122921	MB (пивоварня)
+N2	Reference T2 wiki:248758	Heineken
+N3	Reference T3 wiki:720902	Anadolu Efes
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

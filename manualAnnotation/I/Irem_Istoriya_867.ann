@@ -1,0 +1,5 @@
+T1	Organization 0 4	Irem
+T2	Organization 214 224	Eizo Nanao
+N1	Reference T1 wiki:1712630	Irem
+N2	Reference T2 wiki:3226006	Eizo
+A1	TypeRel T2 Holder

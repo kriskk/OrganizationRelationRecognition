@@ -1,0 +1,5 @@
+T1	Organization 0 8	МММ-2011
+T2	Organization 389 397	МММ-2012
+N1	Reference T1 wiki:3014236	МММ-2011
+N2	Reference T2 wiki:3014236	МММ-2012
+A1	TypeRel T2 Cooperator

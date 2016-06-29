@@ -1,0 +1,6 @@
+T1	Organization 0 12	Warner Bros.
+T2	Organization 180 191	Time Warner
+N1	Reference T1 wiki:272386	Warner Bros.
+N2	Reference T2 wiki:741342	Time Warner
+A1	IsLink T2
+A2	TypeRel T2 Holder

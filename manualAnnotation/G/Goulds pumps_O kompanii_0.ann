@@ -1,0 +1,6 @@
+T1	Organization 0 12	Goulds pumps
+T2	Organization 90 105	ITT Corporation
+N1	Reference T1 wiki:2188562	Goulds pumps
+N2	Reference T2 wiki:741065	ITT Corporation
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 17	Carrocerías Ayats
+T2	Organization 202 211	Scania AB
+N1	Reference T1 wiki:279598	Carrocerías Ayats
+N2	Reference T2 wiki:252348	Scania
+A1	IsLink T2

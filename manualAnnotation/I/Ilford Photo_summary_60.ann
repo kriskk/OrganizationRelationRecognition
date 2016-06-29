@@ -1,0 +1,9 @@
+T1	Organization 0 12	Ilford Photo
+T2	Organization 209 213	Agfa
+T3	Organization 216 221	Kodak
+N1	Reference T1 wiki:2279229	Ilford Photo
+N2	Reference T2 wiki:877920	Agfa
+N3	Reference T3 wiki:313661	Kodak
+A2	IsLink T3
+A1	TypeRel T2 Competitor
+A3	TypeRel T3 Competitor

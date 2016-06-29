@@ -1,0 +1,5 @@
+T1	Organization 0 12	Post Danmark
+T2	Organization 179 185	Posten
+N1	Reference T1 wiki:2136647	Post Danmark
+N2	Reference T2 wiki:2136611	Posten (Швеция)
+A1	TypeRel T2 Merge

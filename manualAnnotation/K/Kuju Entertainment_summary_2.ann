@@ -1,0 +1,5 @@
+T1	Organization 0 18	Kuju Entertainment
+T2	Organization 228 245	Eidos Interactive
+N1	Reference T1 wiki:4158136	Kuju Entertainment
+N2	Reference T2 wiki:806750	Eidos Interactive
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,14 @@
+T1	Organization 0 4	УПЭК
+T2	Organization 209 253	Лозовской кузнечно-механический завод (ЛКМЗ)
+T3	Organization 295 354	Харьковский электротехнический завод «Укрэлектромаш» (ХЭЛЗ)
+T4	Organization 358 405	Харьковский станкостроительный завод «Харверст»
+N1	Reference T1 wiki:3597216	УПЭК
+N2	Reference T2 wiki:2025951	ЛКМЗ
+N3	Reference T3 wiki:3597185	ХЭЛЗ
+N4	Reference T4 wiki:3604708	Харверст
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Banpresto
+T2	Organization 188 200	Namco Bandai
+N1	Reference T1 wiki:1818805	Banpresto
+N2	Reference T2 wiki:393686	Bandai
+A1	IsLink T2

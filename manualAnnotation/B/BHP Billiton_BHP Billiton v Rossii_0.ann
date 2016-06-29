@@ -1,0 +1,5 @@
+T1	Organization 0 12	BHP Billiton
+T2	Organization 120 137	Норильский никель
+N1	Reference T1 wiki:231571	BHP Billiton
+N2	Reference T2 wiki:73395	Норильский никель
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 19	Невинномысский азот
+T2	Organization 169 176	ЕвроХим
+N1	Reference T1 wiki:3718165	Невинномысский азот
+N2	Reference T2 wiki:376551	ЕвроХим
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Croteam
+T2	Organization 222 224	1С
+N1	Reference T1 wiki:2170000	Croteam
+N2	Reference T2 wiki:34936	1С
+A1	IsLink T2

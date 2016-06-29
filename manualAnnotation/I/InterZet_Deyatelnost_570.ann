@@ -1,0 +1,5 @@
+T1	Organization 0 8	InterZet
+T2	Organization 222 234	ТрансТелеКом
+N1	Reference T1 wiki:1346324	InterZet
+N2	Reference T2 wiki:161360	ТрансТелеКом
+A1	TypeRel T2 Personnel

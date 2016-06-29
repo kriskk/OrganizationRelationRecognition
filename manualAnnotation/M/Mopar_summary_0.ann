@@ -1,0 +1,17 @@
+T1	Organization 0 5	Mopar
+T2	Organization 76 84	Chrysler
+T3	Organization 181 185	Jeep
+T4	Organization 187 192	Dodge
+T5	Organization 207 211	Fiat
+N1	Reference T1 wiki:3762236	Mopar
+N2	Reference T2 wiki:223902	Chrysler
+N3	Reference T3 wiki:41489	Jeep
+N4	Reference T4 wiki:41485	Dodge
+N5	Reference T5 wiki:91784	Fiat
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Holder
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator
+A7	TypeRel T5 Cooperator

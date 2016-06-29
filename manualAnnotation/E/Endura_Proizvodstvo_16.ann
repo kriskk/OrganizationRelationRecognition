@@ -1,0 +1,5 @@
+T1	Organization 0 6	Endura
+T2	Organization 364 367	ETA
+N1	Reference T1 wiki:1081446	Endura
+N2	Reference T2 wiki:1080471	ETA (фабрика)
+A1	IsLink T2

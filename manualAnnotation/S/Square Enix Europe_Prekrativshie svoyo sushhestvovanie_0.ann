@@ -1,0 +1,11 @@
+T1	Organization 0 18	Square Enix Europe
+T2	Organization 143 164	Eidos Studios Hungary
+T3	Organization 410 421	Core Design
+T4	Organization 552 566	Ion Storm Inc.
+N1	Reference T1 wiki:3623123	Square Enix Europe
+N2	Reference T2 wiki:2608977	Eidos Studios Hungary
+N3	Reference T3 wiki:1464367	Core Design
+N4	Reference T4 wiki:710563	Ion Storm
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

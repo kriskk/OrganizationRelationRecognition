@@ -1,0 +1,6 @@
+T1	Organization 0 42	ПАК-Инвест (предприятие, Набережные Челны)
+T2	Organization 271 276	КамАЗ
+N1	Reference T1 wiki:4042289	ПАК-Инвест (предприятие, Набережные Челны)
+N2	Reference T2 wiki:169714	КАМАЗ
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

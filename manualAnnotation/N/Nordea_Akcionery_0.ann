@@ -1,0 +1,6 @@
+T1	Organization 0 6	Nordea
+T2	Organization 102 113	Sampo Group
+N1	Reference T1 wiki:3458398	Nordea
+N2	Reference T2 wiki:195952	Sampo Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

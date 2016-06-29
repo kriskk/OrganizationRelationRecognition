@@ -1,0 +1,14 @@
+T1	Organization 0 36	Керченский металлургический комбинат
+T2	Organization 283 298	Днепроспецстали
+T3	Organization 305 336	Ждановского завода имени Ильича
+T4	Organization 442 467	завода имени Дзержинского
+N1	Reference T1 wiki:3713629	Керченский металлургический комбинат
+N2	Reference T2 wiki:802061	Днепроспецсталь
+N3	Reference T3 wiki:123990	Мариупольский металлургический комбинат имени Ильича
+N4	Reference T4 wiki:929819	Днепровский металлургический комбинат имени Ф. Э. Дзержинского
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

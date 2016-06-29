@@ -1,0 +1,10 @@
+T1	Organization 0 18	Jupiter (компания)
+T2	Organization 197 208	Square Enix
+T3	Organization 339 349	Sonic Team
+N1	Reference T1 wiki:3686023	Jupiter (компания)
+N2	Reference T2 wiki:288255	Square Enix
+N3	Reference T3 wiki:2721227	Sonic Team
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 8	Nullsoft
+T2	Organization 185 188	AOL
+N1	Reference T1 wiki:609689	Nullsoft
+N2	Reference T2 wiki:610576	AOL
+A1	TypeRel T2 Holder

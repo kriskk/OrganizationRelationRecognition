@@ -1,0 +1,20 @@
+T1	Organization 0 52	Porsche Lizenz- und Handelsgesellschaft mbH & Co. KG
+T2	Organization 214 221	Porsche
+T3	Organization 287 300	Porsche Group
+T4	Organization 404 432	Porsche Automobil Holding SE
+T5	Organization 461 475	Porsche Design
+T6	Organization 574 588	Porsche Design
+N1	Reference T1 wiki:403185	Porsche Lizenz- und Handelsgesellschaft mbH & Co. KG
+N2	Reference T2 wiki:403194	Porsche
+N3	Reference T3 wiki:403194	Porsche Group
+N4	Reference T4 wiki:1972003	Porsche Automobil Holding SE
+N5	Reference T5 wiki:2045950	Porsche Design
+N6	Reference T6 wiki:2045950	Porsche Design
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Other
+A7	TypeRel T3 Holder
+A8	TypeRel T6 Subsidiary

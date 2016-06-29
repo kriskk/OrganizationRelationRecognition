@@ -1,0 +1,5 @@
+T1	Organization 0 25	ГалоПолимер Кирово-Чепецк
+T2	Organization 217 228	ГалоПолимер
+N1	Reference T1 wiki:3189750	ГалоПолимер Кирово-Чепецк
+N2	Reference T2 wiki:3189454	ГалоПолимер
+A1	TypeRel T2 Holder

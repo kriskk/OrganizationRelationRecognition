@@ -1,0 +1,6 @@
+T1	Organization 0 20	Питон (кинокомпания)
+T2	Organization 196 204	Мосфильм
+N1	Reference T1 wiki:2049572	Питон (кинокомпания)
+N2	Reference T2 wiki:25605	Мосфильм
+A1	IsLink T2
+A2	TypeRel T2 Holder

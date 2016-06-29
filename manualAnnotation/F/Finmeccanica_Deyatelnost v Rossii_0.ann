@@ -1,0 +1,17 @@
+T1	Organization 0 12	Finmeccanica
+T2	Organization 122 140	Alenia Aeronautica
+T3	Organization 224 251	Гражданские самолёты Сухого
+T4	Organization 286 302	Вертолёты России
+T5	Organization 472 498	Российские железные дороги
+T6	Organization 538 554	Рособоронэкспорт
+N1	Reference T1 wiki:1108041	Finmeccanica
+N2	Reference T2 wiki:1764819	Alenia Aeronautica
+N3	Reference T3 wiki:768840	Гражданские самолёты Сухого
+N4	Reference T4 wiki:899228	Вертолёты России
+N5	Reference T5 wiki:106901	Российские железные дороги
+N6	Reference T6 wiki:171221	Рособоронэкспорт
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

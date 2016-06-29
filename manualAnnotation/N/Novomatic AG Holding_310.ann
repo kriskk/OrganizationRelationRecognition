@@ -1,0 +1,8 @@
+T1	Organization 0 20	Novomatic AG Holding
+T2	Organization 225 240	Novomatic group
+T3	Organization 261 292	Austrian Gaming Industries GmbH
+N1	Reference T1 wiki:1669481	Novomatic AG Holding
+N2	Reference T2 wiki:1659024	Novomatic group
+N3	Reference T3 wiki:1671369	Austrian Gaming Industries GmbH
+A1	IsLink T2
+A2	IsLink T3

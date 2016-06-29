@@ -1,0 +1,9 @@
+T1	Organization 0 52	Мариупольский металлургический комбинат имени Ильича
+T2	Organization 314 326	Уманьферммаш
+T3	Organization 504 516	Запорожсталь
+N1	Reference T1 wiki:123990	Мариупольский металлургический комбинат имени Ильича
+N2	Reference T2 wiki:2006697	Уманьферммаш
+N3	Reference T3 wiki:41230	Запорожсталь
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Cooperator

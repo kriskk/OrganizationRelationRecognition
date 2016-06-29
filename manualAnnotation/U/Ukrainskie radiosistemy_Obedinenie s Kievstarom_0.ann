@@ -1,0 +1,21 @@
+T1	Organization 0 23	Украинские радиосистемы
+T2	Organization 203 212	ВымпелКом
+T3	Organization 234 240	Altimo
+T4	Organization 355 362	Telenor
+T5	Organization 472 480	Киевстар
+T6	Organization 709 723	VimpelCom Ltd.
+T7	Organization 990 996	life:)
+N1	Reference T1 wiki:1030941	Украинские радиосистемы
+N2	Reference T2 wiki:70736	ВымпелКом
+N3	Reference T3 wiki:258465	Altimo
+N4	Reference T4 wiki:321300	Telenor
+N5	Reference T5 wiki:88220	Киевстар
+N6	Reference T6 wiki:2492978	VimpelCom Ltd.
+N7	Reference T7 wiki:88487	Life:) (Украина)
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A1	TypeRel T2 Holder
+A7	TypeRel T3 Holder

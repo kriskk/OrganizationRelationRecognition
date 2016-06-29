@@ -1,0 +1,11 @@
+T1	Organization 0 8	Gulf Oil
+T2	Organization 289 315	Standard Oil of California
+T3	Organization 341 348	Chevron
+N1	Reference T1 wiki:2413451	Gulf Oil
+N2	Reference T2 wiki:420107	Standard Oil of California
+N3	Reference T3 wiki:420107	Chevron
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder
+R1	Alias Arg1:T2 Arg2:T3	

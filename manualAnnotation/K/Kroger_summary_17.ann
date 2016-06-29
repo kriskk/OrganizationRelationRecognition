@@ -1,0 +1,10 @@
+T1	Organization 0 6	Kroger
+T2	Organization 264 272	Wal-Mart
+T3	Organization 275 289	The Home Depot
+N1	Reference T1 wiki:369991	Kroger
+N2	Reference T2 wiki:243093	Wal-Mart
+N3	Reference T3 wiki:369981	Home Depot
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

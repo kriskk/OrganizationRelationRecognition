@@ -1,0 +1,10 @@
+T1	Organization 0 6	Maquet
+T2	Organization 314 323	Datascope
+T3	Organization 332 349	Boston Scientific
+N1	Reference T1 wiki:964472	Maquet
+N2	Reference T2 wiki:1682050	Datascope
+N3	Reference T3 wiki:1681986	Boston Scientific
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Cooperator

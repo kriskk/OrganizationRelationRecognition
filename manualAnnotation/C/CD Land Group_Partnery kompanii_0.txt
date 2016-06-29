@@ -1,0 +1,23 @@
+CD Land Group
+@Партнеры компании
+1942,0
+
+
+Партнеры компании
+
+ Universal Music Group
+	 Paramount Pictures
+	 The Walt Disney Company
+	 Paradise Digital
+	 20th century FOX
+	 Warner Music Group
+	 Sony BMG Music Entertainment
+	 Мосфильм
+	 Концерн группа Союз
+	 Союзмультфильм
+	 Мистерия Звука
+	 100PRO
+	 Respect Production
+	 ЦАО Records
+
+

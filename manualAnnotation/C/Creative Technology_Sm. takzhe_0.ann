@@ -1,0 +1,8 @@
+T1	Organization 0 19	Creative Technology
+T2	Organization 61 68	Ensoniq
+T3	Organization 119 125	Yamaha
+N1	Reference T1 wiki:234719	Creative Technology
+N2	Reference T2 wiki:2390795	Ensoniq
+N3	Reference T3 wiki:696518	Yamaha Corporation
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 14	Airtight Games
+T2	Organization 163 172	Microsoft
+T3	Organization 233 239	Capcom
+N1	Reference T1 wiki:2514239	Airtight Games
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:714415	Capcom
+A1	IsLink T2
+A2	IsLink T3

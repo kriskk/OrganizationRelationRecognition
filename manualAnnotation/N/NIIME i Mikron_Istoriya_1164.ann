@@ -1,0 +1,6 @@
+T1	Organization 0 14	НИИМЭ и Микрон
+T2	Organization 239 246	Роснано
+N1	Reference T1 wiki:257881	НИИМЭ и Микрон
+N2	Reference T2 wiki:728818	Роснано
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

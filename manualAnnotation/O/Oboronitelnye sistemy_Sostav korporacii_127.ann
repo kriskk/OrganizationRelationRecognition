@@ -1,0 +1,5 @@
+T1	Organization 0 22	Оборонительные системы
+T2	Organization 221 234	«Алмаз-Антею»
+N1	Reference T1 wiki:2848714	Оборонительные системы
+N2	Reference T2 wiki:149639	Алмаз-Антей
+A1	IsLink T2

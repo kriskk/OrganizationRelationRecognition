@@ -1,0 +1,21 @@
+T1	Organization 0 9	Vitagraph
+T2	Organization 289 303	Edison Studios
+T3	Organization 328 343	Essanay Studios
+T4	Organization 356 361	Kalem
+T5	Organization 390 395	Pathe
+T6	Organization 418 439	Компанию кинопатентов
+T7	Organization 541 556	Warner Brothers
+N1	Reference T1 wiki:1016619	Vitagraph
+N2	Reference T2 wiki:1024926	Edison Studios
+N3	Reference T3 wiki:1279328	Essanay Studios
+N4	Reference T4 wiki:1113844	Kalem
+N5	Reference T5 wiki:1000945	Pathe
+N6	Reference T6 wiki:1016531	Компания кинопатентов
+N7	Reference T7 wiki:272386	Warner Brothers
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A6	IsLink T7
+A5	TypeRel T6 Holder
+A7	TypeRel T7 Holder

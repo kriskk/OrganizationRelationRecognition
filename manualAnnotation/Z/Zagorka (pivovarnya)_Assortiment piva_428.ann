@@ -1,0 +1,13 @@
+T1	Organization 0 19	Загорка (пивоварня)
+T2	Organization 231 239	Heineken
+T3	Organization 241 247	Amstel
+T4	Organization 249 255	Kaiser
+N1	Reference T1 wiki:4116306	Загорка (пивоварня)
+N2	Reference T2 wiki:248758	Heineken
+N3	Reference T3 wiki:1571367	Amstel (компания)
+N4	Reference T4 wiki:3333285	Kaiser
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

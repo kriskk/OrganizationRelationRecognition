@@ -1,0 +1,6 @@
+T1	Organization 0 27	Mitsubishi Heavy Industries
+T2	Organization 77 93	Mitsubishi Group
+N1	Reference T1 wiki:1877595	Mitsubishi Heavy Industries
+N2	Reference T2 wiki:182989	Mitsubishi Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

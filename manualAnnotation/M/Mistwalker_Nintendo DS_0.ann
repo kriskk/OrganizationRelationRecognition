@@ -1,0 +1,6 @@
+T1	Organization 0 10	Mistwalker
+T2	Organization 144 157	Brownie Brown
+N1	Reference T1 wiki:2448702	Mistwalker
+N2	Reference T2 wiki:3231807	Brownie Brown
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

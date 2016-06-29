@@ -1,0 +1,5 @@
+T1	Organization 0 43	Главный центр магистральных перевозок почты
+T2	Organization 103 108	ГЦМПП
+N1	Reference T1 wiki:1267157	Главный центр магистральных перевозок почты
+N2	Reference T2 wiki:1267157	ГЦМПП
+A1	TypeRel T2 Alias

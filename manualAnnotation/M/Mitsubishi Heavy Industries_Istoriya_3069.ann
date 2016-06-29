@@ -1,0 +1,10 @@
+T1	Organization 0 27	Mitsubishi Heavy Industries
+T2	Organization 246 252	Mitsui
+T3	Organization 295 303	Sumitomo
+N1	Reference T1 wiki:1877595	Mitsubishi Heavy Industries
+N2	Reference T2 wiki:3113519	Mitsui
+N3	Reference T3 wiki:1813036	Sumitomo
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor

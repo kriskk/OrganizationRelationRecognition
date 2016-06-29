@@ -1,0 +1,14 @@
+T1	Organization 0 23	LucasArts Entertainment
+T2	Organization 133 142	Lucasfilm
+T3	Organization 463 482	Walt Disney Company
+T4	Organization 486 505	Walt Disney Company
+N1	Reference T1 wiki:367933	LucasArts Entertainment
+N2	Reference T2 wiki:2544735	Lucasfilm
+N3	Reference T3 wiki:319365	Walt Disney Company
+N4	Reference T4 wiki:319365	Walt Disney Company
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Personnel
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

@@ -1,0 +1,12 @@
+T1	Organization 0 23	Interplay Entertainment
+T2	Organization 260 266	NASDAQ
+T3	Organization 507 524	Vivendi Universal
+T4	Organization 594 611	Titus Interactive
+N1	Reference T1 wiki:87238	Interplay Entertainment
+N2	Reference T2 wiki:63813	NASDAQ
+N3	Reference T3 wiki:1695856	Vivendi Universal
+N4	Reference T4 wiki:748168	Titus Interactive
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Other
+A4	TypeRel T3 Cooperator

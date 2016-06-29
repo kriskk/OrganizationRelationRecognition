@@ -1,0 +1,14 @@
+T1	Organization 0 9	Luxottica
+T2	Organization 101 107	Oakley
+T3	Organization 125 131	Persol
+T4	Organization 133 140	Ray-Ban
+N1	Reference T1 wiki:2883102	Luxottica
+N2	Reference T2 wiki:421676	Oakley
+N3	Reference T3 wiki:3845840	Persol
+N4	Reference T4 wiki:2251241	Ray-Ban
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Subsidiary
+A6	TypeRel T4 Subsidiary

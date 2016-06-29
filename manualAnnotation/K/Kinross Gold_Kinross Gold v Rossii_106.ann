@@ -1,0 +1,5 @@
+T1	Organization 0 12	Kinross Gold
+T2	Organization 240 250	Полиметалл
+N1	Reference T1 wiki:355104	Kinross Gold
+N2	Reference T2 wiki:365296	Полиметалл
+A1	TypeRel T2 Cooperator

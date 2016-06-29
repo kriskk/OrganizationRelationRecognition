@@ -1,0 +1,6 @@
+T1	Organization 0 19	Электросила (завод)
+T2	Organization 108 122	Силовые машины
+N1	Reference T1 wiki:762934	Электросила (завод)
+N2	Reference T2 wiki:143652	Силовые машины
+A1	IsLink T2
+A2	TypeRel T2 Holder

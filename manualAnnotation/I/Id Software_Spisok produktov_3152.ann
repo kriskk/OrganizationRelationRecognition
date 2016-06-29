@@ -1,0 +1,14 @@
+T1	Organization 0 11	Id Software
+T2	Organization 227 241	Raven Software
+T3	Organization 303 316	Splash Damage
+T4	Organization 439 453	Raven Software
+N1	Reference T1 wiki:80386	Id Software
+N2	Reference T2 wiki:676782	Raven Software
+N3	Reference T3 wiki:2140575	Splash Damage
+N4	Reference T4 wiki:676782	Raven Software
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

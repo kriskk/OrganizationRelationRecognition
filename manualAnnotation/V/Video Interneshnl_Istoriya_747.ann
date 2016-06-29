@@ -1,0 +1,18 @@
+T1	Organization 0 16	Видео Интернешнл
+T2	Organization 232 239	IMHO VI
+T3	Organization 389 399	Проф-Медиа
+T4	Organization 459 462	НМГ
+T5	Organization 517 538	Русской Медиа Группой
+T6	Organization 628 637	СТС Медиа
+N1	Reference T1 wiki:464142	Видео Интернешнл
+N2	Reference T2 wiki:3408455	IMHO VI
+N3	Reference T3 wiki:179905	Проф-Медиа
+N4	Reference T4 wiki:1780879	Национальная Медиа Группа
+N5	Reference T5 wiki:1702054	Русская Медиагруппа
+N6	Reference T6 wiki:168242	СТС Медиа
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A5	IsLink T6
+A4	TypeRel T5 Cooperator
+A6	TypeRel T6 Cooperator

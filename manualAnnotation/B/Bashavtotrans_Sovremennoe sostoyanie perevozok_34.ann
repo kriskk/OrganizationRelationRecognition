@@ -1,0 +1,8 @@
+T1	Organization 0 12	Башавтотранс
+T2	Organization 363 376	Mercedes-Benz
+T3	Organization 426 431	НефАЗ
+N1	Reference T1 wiki:354130	Башавтотранс
+N2	Reference T2 wiki:40401	Mercedes-Benz
+N3	Reference T3 wiki:404943	НефАЗ
+A1	IsLink T2
+A2	IsLink T3

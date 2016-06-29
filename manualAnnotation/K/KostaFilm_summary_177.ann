@@ -1,0 +1,9 @@
+T1	Organization 0 10	КостаФильм
+T2	Organization 182 188	Амедиа
+T3	Organization 190 203	Sony Pictures
+N1	Reference T1 wiki:1910492	КостаФильм
+N2	Reference T2 wiki:20040	Амедиа
+N3	Reference T3 wiki:1830946	Sony Pictures
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 6	Brahma
+T2	Organization 227 232	InBev
+N1	Reference T1 wiki:1921276	Brahma
+N2	Reference T2 wiki:203867	InBev
+A1	IsLink T2

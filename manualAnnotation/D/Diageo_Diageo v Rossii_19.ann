@@ -1,0 +1,5 @@
+T1	Organization 0 6	Diageo
+T2	Organization 234 245	Альфа-Групп
+N1	Reference T1 wiki:189797	Diageo
+N2	Reference T2 wiki:141637	Альфа-Групп
+A1	IsLink T2

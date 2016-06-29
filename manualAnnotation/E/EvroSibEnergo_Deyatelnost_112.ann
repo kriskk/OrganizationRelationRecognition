@@ -1,0 +1,11 @@
+T1	Organization 0 13	ЕвроСибЭнерго
+T2	Organization 325 341	Красноярская ГЭС
+T3	Organization 349 362	Иркутскэнерго
+T4	Organization 630 646	Красноярская ГЭС
+N1	Reference T1 wiki:1395741	ЕвроСибЭнерго
+N2	Reference T2 wiki:26423	Красноярская ГЭС
+N3	Reference T3 wiki:180989	Иркутскэнерго
+N4	Reference T4 wiki:26423	Красноярская ГЭС
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

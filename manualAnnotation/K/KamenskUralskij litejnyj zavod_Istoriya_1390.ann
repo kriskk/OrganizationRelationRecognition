@@ -1,0 +1,17 @@
+T1	Organization 0 32	Каменск-Уральский литейный завод
+T2	Organization 272 282	 РАО «ЕЭС»
+T3	Organization 286 293	Газпром
+T4	Organization 367 381	Уралвагонзавод
+T5	Organization 485 499	Уралвагонзавод
+N1	Reference T1 wiki:3925089	Каменск-Уральский литейный завод
+N2	Reference T2 wiki:1432138	ЕЭС России (компания)
+N3	Reference T3 wiki:44754	Газпром
+N4	Reference T4 wiki:93093	Уралвагонзавод
+N5	Reference T5 wiki:93093	Уралвагонзавод
+A1	IsLink T2
+A2	IsLink T3
+A4	IsLink T5
+A3	TypeRel T4 Holder
+A5	TypeRel T5 Cooperator
+A6	TypeRel T2 Cooperator
+A7	TypeRel T3 Cooperator

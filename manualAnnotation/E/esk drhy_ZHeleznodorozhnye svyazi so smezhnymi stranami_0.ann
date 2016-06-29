@@ -1,0 +1,5 @@
+T1	Organization 0 11	České dráhy
+T2	Organization 144 151	Австрия
+N1	Reference T1 wiki:1278972	České dráhy
+N2	Reference T2 wiki:963486	Австрийские федеральные железные дороги
+A1	IsLink T2

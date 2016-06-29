@@ -1,0 +1,14 @@
+T1	Organization 0 24	Lanchester Motor Company
+T2	Organization 133 144	Jaguar Cars
+T3	Organization 174 185	Jaguar Cars
+T4	Organization 358 379	Daimler Motor Company
+N1	Reference T1 wiki:2998548	Lanchester Motor Company
+N2	Reference T2 wiki:431514	Jaguar Cars
+N3	Reference T3 wiki:431514	Jaguar Cars
+N4	Reference T4 wiki:294683	Daimler Motor Company
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

@@ -1,0 +1,6 @@
+T1	Organization 0 3	EMC
+T2	Organization 253 259	VMware
+N1	Reference T1 wiki:541503	EMC
+N2	Reference T2 wiki:205509	VMware
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

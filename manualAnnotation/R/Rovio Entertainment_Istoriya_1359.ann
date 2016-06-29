@@ -1,0 +1,5 @@
+T1	Organization 0 19	Rovio Entertainment
+T2	Organization 223 233	Futuremark
+N1	Reference T1 wiki:3324044	Rovio Entertainment
+N2	Reference T2 wiki:1524556	Futuremark
+A1	IsLink T2

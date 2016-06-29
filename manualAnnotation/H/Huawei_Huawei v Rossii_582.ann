@@ -1,0 +1,30 @@
+T1	Organization 0 6	Huawei
+T2	Organization 297 309	Центртелеком
+T3	Organization 318 329	АФК Система
+T4	Organization 331 338	МегаФон
+T5	Organization 352 363	Связьинвест
+T6	Organization 365 375	Ростелеком
+T7	Organization 377 389	ТрансТелеКом
+T8	Organization 440 449	Вымпелком
+N1	Reference T1 wiki:908840	Huawei
+N2	Reference T2 wiki:142992	Центртелеком
+N3	Reference T3 wiki:158888	АФК Система
+N4	Reference T4 wiki:70933	МегаФон
+N5	Reference T5 wiki:145705	Связьинвест
+N6	Reference T6 wiki:145844	Ростелеком
+N7	Reference T7 wiki:161360	ТрансТелеКом
+N8	Reference T8 wiki:70736	Вымпелком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Other

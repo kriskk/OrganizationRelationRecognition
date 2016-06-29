@@ -1,0 +1,5 @@
+T1	Organization 0 30	Обувь России (группа компаний)
+T2	Organization 238 248	Вестфалика
+N1	Reference T1 wiki:1378604	Обувь России (группа компаний)
+N2	Reference T2 wiki:2832268	Вестфалика
+A1	TypeRel T2 Subsidiary

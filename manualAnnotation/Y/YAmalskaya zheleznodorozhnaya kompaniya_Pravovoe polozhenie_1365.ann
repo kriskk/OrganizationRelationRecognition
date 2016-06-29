@@ -1,0 +1,16 @@
+T1	Organization 0 34	Ямальская железнодорожная компания
+T2	Organization 227 255	ООО «Газпром добыча Уренгой»
+T3	Organization 362 388	ООО «Газпром добыча Надым»
+T4	Organization 630 658	ООО «Газпром добыча Уренгой»
+T5	Organization 661 687	ООО «Газпром добыча Надым»
+N1	Reference T1 wiki:509558	Ямальская железнодорожная компания
+N2	Reference T2 wiki:3724139	Газпром добыча Уренгой
+N3	Reference T3 wiki:972645	Газпром добыча Надым
+N4	Reference T4 wiki:3724139	Газпром добыча Уренгой
+N5	Reference T5 wiki:972645	Газпром добыча Надым
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T4 Cooperator
+A6	TypeRel T5 Cooperator

@@ -1,0 +1,10 @@
+T1	Organization 0 18	Ремпутьмаш (Пермь)
+T2	Organization 127 130	РЖД
+T3	Organization 224 258	ОАО «Калужский завод „Ремпутьмаш“»
+N1	Reference T1 wiki:1701596	Ремпутьмаш (Пермь)
+N2	Reference T2 wiki:106901	РЖД
+N3	Reference T3 wiki:1994657	Калужский завод Ремпутьмаш
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

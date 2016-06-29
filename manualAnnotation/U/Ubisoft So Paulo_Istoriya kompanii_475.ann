@@ -1,0 +1,7 @@
+T1	Organization 0 17	Ubisoft São Paulo
+T2	Organization 236 243	Ubisoft
+T3	Organization 418 425	Ubisoft
+N1	Reference T1 wiki:2564395	Ubisoft São Paulo
+N2	Reference T2 wiki:650139	Ubisoft
+N3	Reference T3 wiki:650139	Ubisoft
+A2	IsLink T3

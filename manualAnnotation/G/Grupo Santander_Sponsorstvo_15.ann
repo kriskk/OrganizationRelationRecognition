@@ -1,0 +1,6 @@
+T1	Organization 0 15	Grupo Santander
+T2	Organization 212 219	McLaren
+N1	Reference T1 wiki:382499	Grupo Santander
+N2	Reference T2 wiki:167783	McLaren
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

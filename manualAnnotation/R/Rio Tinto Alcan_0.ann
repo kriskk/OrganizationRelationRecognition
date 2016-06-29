@@ -1,0 +1,5 @@
+T1	Organization 0 15	Rio Tinto Alcan
+T2	Organization 115 128	Rio Tinto Plc
+N1	Reference T1 wiki:728716	Rio Tinto Alcan
+N2	Reference T2 wiki:144043	Rio Tinto Plc
+A1	TypeRel T2 Holder

@@ -1,0 +1,19 @@
+T1	Organization 0 8	Киевстар
+T2	Organization 220 227	Telenor
+T3	Organization 241 247	Altimo
+T4	Organization 305 311	Altimo
+T5	Organization 374 396	Украинских радиосистем
+T6	Organization 414 421	Telenor
+N1	Reference T1 wiki:88220	Киевстар
+N2	Reference T2 wiki:321300	Telenor
+N3	Reference T3 wiki:258465	Altimo
+N4	Reference T4 wiki:258465	Altimo
+N5	Reference T5 wiki:1030941	Украинские радиосистемы
+N6	Reference T6 wiki:321300	Telenor
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Other
+A7	TypeRel T3 Other

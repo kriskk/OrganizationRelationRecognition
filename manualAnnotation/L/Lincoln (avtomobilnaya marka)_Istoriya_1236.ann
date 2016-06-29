@@ -1,0 +1,10 @@
+T1	Organization 0 29	Lincoln (автомобильная марка)
+T2	Organization 214 232	Ford Motor Company
+T3	Organization 511 535	Premier Automotive Group
+N1	Reference T1 wiki:1063025	Lincoln (автомобильная марка)
+N2	Reference T2 wiki:153236	Ford Motor Company
+N3	Reference T3 wiki:504342	Premier Automotive Group
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

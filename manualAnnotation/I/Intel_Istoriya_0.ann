@@ -1,0 +1,10 @@
+T1	Organization 0 5	Intel
+T2	Organization 127 150	Fairchild Semiconductor
+T3	Organization 349 358	Fairchild
+N1	Reference T1 wiki:762172	Intel
+N2	Reference T2 wiki:1074226	Fairchild Semiconductor
+N3	Reference T3 wiki:1074226	Fairchild Semiconductor
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Гипрогазоочистка
+T2	Organization 78 90	Ачинский НПЗ
+N1	Reference T1 wiki:1821440	Гипрогазоочистка
+N2	Reference T2 wiki:1063821	Ачинский НПЗ
+A1	TypeRel T2 Subsidiary

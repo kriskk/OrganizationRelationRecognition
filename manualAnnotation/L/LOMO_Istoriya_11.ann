@@ -1,0 +1,9 @@
+T1	Organization 0 4	ЛОМО
+T2	Organization 291 299	Изюмский
+T3	Organization 351 383	Павшинский завод точной механики
+N1	Reference T1 wiki:1164138	ЛОМО
+N2	Reference T2 wiki:2903900	Изюмский приборостроительный завод
+N3	Reference T3 wiki:2125286	Новосибирский приборостроительный завод
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

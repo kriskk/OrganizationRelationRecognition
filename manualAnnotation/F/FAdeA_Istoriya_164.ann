@@ -1,0 +1,5 @@
+T1	Organization 0 5	FAdeA
+T2	Organization 215 228	Локхид Мартин
+N1	Reference T1 wiki:3786822	FAdeA
+N2	Reference T2 wiki:301268	Lockheed Martin
+A1	IsLink T2

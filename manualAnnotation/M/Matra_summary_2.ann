@@ -1,0 +1,5 @@
+T1	Organization 0 5	Matra
+T2	Organization 310 325	Lagardère Group
+N1	Reference T1 wiki:1910462	Matra
+N2	Reference T2 wiki:169461	Lagardère Group
+A1	TypeRel T2 Holder

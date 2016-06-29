@@ -1,0 +1,5 @@
+T1	Organization 0 19	Mitsubishi Electric
+T2	Organization 238 248	Mitsubishi
+N1	Reference T1 wiki:4205995	Mitsubishi Electric
+N2	Reference T2 wiki:182989	Mitsubishi
+A1	TypeRel T2 Holder

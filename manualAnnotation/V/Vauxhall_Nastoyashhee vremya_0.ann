@@ -1,0 +1,10 @@
+T1	Organization 0 8	Vauxhall
+T2	Organization 162 166	Opel
+T3	Organization 374 380	Holden
+N1	Reference T1 wiki:1517064	Vauxhall
+N2	Reference T2 wiki:562302	Opel
+N3	Reference T3 wiki:604803	Holden
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

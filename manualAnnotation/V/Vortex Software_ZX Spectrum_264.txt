@@ -1,0 +1,13 @@
+Vortex Software
+@Список игр
+@ZX Spectrum
+582,163,264
+
+	 Cyclone (1985), Vortex Software
+	 Highway Encounter (1985), Vortex Software
+	 Alien Highway / Encounter 2 (1986), Vortex Software
+	 Revolution (1986), U.S. Gold
+	 Deflektor (1987), Gremlin Graphics
+	 H.A.T.E. — Hostile All Terrain Encounter (1989), Gremlin Graphics
+
+

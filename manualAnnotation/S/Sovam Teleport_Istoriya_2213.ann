@@ -1,0 +1,8 @@
+T1	Organization 0 14	Совам Телепорт
+T2	Organization 209 223	America Online
+T3	Organization 364 378	Россия-Он-Лайн
+N1	Reference T1 wiki:3455613	Совам Телепорт
+N2	Reference T2 wiki:610576	America Online
+N3	Reference T3 wiki:2196953	Россия-Он-Лайн
+A1	IsLink T2
+A2	IsLink T3

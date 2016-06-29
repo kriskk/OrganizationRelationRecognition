@@ -1,0 +1,5 @@
+T1	Organization 0 27	Continental Automotive GmbH
+T2	Organization 288 298	Mannesmann
+N1	Reference T1 wiki:974849	Continental Automotive GmbH
+N2	Reference T2 wiki:507916	Mannesmann
+A1	IsLink T2

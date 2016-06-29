@@ -1,0 +1,6 @@
+T1	Organization 0 5	Нэфис
+T2	Organization 241 253	Henkel Group
+N1	Reference T1 wiki:3980048	Нэфис
+N2	Reference T2 wiki:166015	Henkel Group
+A1	IsLink T2
+A2	TypeRel T2 Competitor

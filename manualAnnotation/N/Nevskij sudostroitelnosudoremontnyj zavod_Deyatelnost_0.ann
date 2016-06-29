@@ -1,0 +1,13 @@
+T1	Organization 0 43	Невский судостроительно-судоремонтный завод
+T2	Organization 175 213	Российский Морской Регистр Судоходства
+T3	Organization 215 241	Lloyd Register of Shipping
+T4	Organization 278 296	Det Norske Veritas
+N1	Reference T1 wiki:1117305	Невский судостроительно-судоремонтный завод
+N2	Reference T2 wiki:2022136	Российский Морской Регистр Судоходства
+N3	Reference T3 wiki:611491	Регистр Ллойда
+N4	Reference T4 wiki:3436655	Det Norske Veritas
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

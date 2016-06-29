@@ -1,0 +1,5 @@
+T1	Organization 0 29	KnowWonder Digital Mediaworks
+T2	Organization 276 295	Amaze Entertainment
+N1	Reference T1 wiki:2184334	KnowWonder Digital Mediaworks
+N2	Reference T2 wiki:2184318	Amaze Entertainment
+A1	TypeRel T2 Holder

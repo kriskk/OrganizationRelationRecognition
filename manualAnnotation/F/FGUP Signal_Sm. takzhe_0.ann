@@ -1,0 +1,8 @@
+T1	Organization 0 13	ФГУП «Сигнал»
+T2	Organization 46 51	НИИПХ
+T3	Organization 96 111	ЧПО им. Чапаева
+N1	Reference T1 wiki:2242013	ФГУП «Сигнал»
+N2	Reference T2 wiki:1844332	НИИПХ
+N3	Reference T3 wiki:1499305	Чебоксарское производственное объединение им. В.И. Чапаева
+A1	IsLink T2
+A2	IsLink T3

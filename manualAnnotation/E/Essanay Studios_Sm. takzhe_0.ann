@@ -1,0 +1,8 @@
+T1	Organization 0 15	Essanay Studios
+T2	Organization 48 52	Пате
+T3	Organization 55 76	Компания кинопатентов
+N1	Reference T1 wiki:1279328	Essanay Studios
+N2	Reference T2 wiki:1000945	Pathé
+N3	Reference T3 wiki:1016531	Компания кинопатентов
+A1	IsLink T2
+A2	IsLink T3

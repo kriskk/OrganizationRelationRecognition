@@ -1,0 +1,5 @@
+T1	Organization 0 22	Mitsui Oil Exploration
+T2	Organization 236 242	Mitsui
+N1	Reference T1 wiki:3904200	Mitsui Oil Exploration
+N2	Reference T2 wiki:3113519	Mitsui
+A1	TypeRel T2 Holder

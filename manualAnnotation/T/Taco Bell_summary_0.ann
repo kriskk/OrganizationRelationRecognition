@@ -1,0 +1,5 @@
+T1	Organization 0 9	Taco Bell
+T2	Organization 170 181	Yum! Brands
+N1	Reference T1 wiki:1279345	Taco Bell
+N2	Reference T2 wiki:206472	Yum! Brands
+A1	IsLink T2

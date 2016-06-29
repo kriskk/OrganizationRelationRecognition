@@ -1,0 +1,8 @@
+T1	Organization 0 18	STMicroelectronics
+T2	Organization 153 158	Areva
+T3	Organization 179 191	Finmeccanica
+N1	Reference T1 wiki:1118011	STMicroelectronics
+N2	Reference T2 wiki:913165	Areva
+N3	Reference T3 wiki:1108041	Finmeccanica
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 6	Росмэн
+T2	Organization 306 312	Hasbro
+T3	Organization 314 320	Mattel
+N1	Reference T1 wiki:695370	Росмэн
+N2	Reference T2 wiki:2724676	Hasbro
+N3	Reference T3 wiki:197959	Mattel
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,8 @@
+T1	Organization 0 7	Samsung
+T2	Organization 294 302	Motorola
+T3	Organization 411 416	Nokia
+N1	Reference T1 wiki:125537	Samsung
+N2	Reference T2 wiki:134384	Motorola
+N3	Reference T3 wiki:56405	Nokia
+A1	IsLink T2
+A2	IsLink T3

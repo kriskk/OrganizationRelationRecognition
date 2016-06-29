@@ -1,0 +1,5 @@
+T1	Organization 0 9	Safran SA
+T2	Organization 208 221	Hispano-Suiza
+N1	Reference T1 wiki:1015576	Safran SA
+N2	Reference T2 wiki:2720331	Hispano-Suiza
+A1	IsLink T2

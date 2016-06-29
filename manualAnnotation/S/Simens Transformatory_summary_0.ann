@@ -1,0 +1,5 @@
+T1	Organization 0 21	Сименс Трансформаторы
+T2	Organization 101 109	«Сименс»
+N1	Reference T1 wiki:4449323	Сименс Трансформаторы
+N2	Reference T2 wiki:36510	Siemens AG
+A1	IsLink T2

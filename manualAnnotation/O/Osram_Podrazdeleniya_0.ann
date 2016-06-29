@@ -1,0 +1,6 @@
+T1	Organization 0 5	Osram
+T2	Organization 46 60	Osram Sylvania
+N1	Reference T1 wiki:1059089	Osram
+N2	Reference T2 wiki:2966072	Osram Sylvania
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

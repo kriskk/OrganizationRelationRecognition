@@ -1,0 +1,14 @@
+T1	Organization 0 11	Lamborghini
+T2	Organization 205 225	корпорацией Chrysler
+T3	Organization 593 601	Chrysler
+T4	Organization 912 919	Audi AG
+N1	Reference T1 wiki:65531	Lamborghini
+N2	Reference T2 wiki:223902	Chrysler Corporation
+N3	Reference T3 wiki:223902	Chrysler
+N4	Reference T4 wiki:41025	Audi
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

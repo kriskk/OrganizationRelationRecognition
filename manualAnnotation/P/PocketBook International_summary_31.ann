@@ -1,0 +1,6 @@
+T1	Organization 0 24	PocketBook International
+T2	Organization 361 368	Foxconn
+N1	Reference T1 wiki:3248150	PocketBook International
+N2	Reference T2 wiki:2020893	Foxconn
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

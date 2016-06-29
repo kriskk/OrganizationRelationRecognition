@@ -1,0 +1,5 @@
+T1	Organization 0 8	НТВ-Плюс
+T2	Organization 273 282	Panasonic
+N1	Reference T1 wiki:723124	НТВ-Плюс
+N2	Reference T2 wiki:307154	Panasonic
+A1	TypeRel T2 Cooperator

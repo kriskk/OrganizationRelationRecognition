@@ -1,0 +1,8 @@
+T1	Organization 0 7	Packard
+T2	Organization 217 222	Edsel
+T3	Organization 305 308	AMC
+N1	Reference T1 wiki:1762197	Packard
+N2	Reference T2 wiki:667260	Edsel
+N3	Reference T3 wiki:3346012	American Motors
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,5 @@
+T1	Organization 0 10	Norton DNS
+T2	Organization 67 87	Symantec Corporation
+N1	Reference T1 wiki:3448638	Norton DNS
+N2	Reference T2 wiki:157841	Symantec Corporation
+A1	TypeRel T2 Holder

@@ -1,0 +1,10 @@
+T1	Organization 0 9	САН ИнБев
+T2	Organization 114 120	Brahma
+T3	Organization 155 166	Staropramen
+N1	Reference T1 wiki:460147	САН ИнБев
+N2	Reference T2 wiki:1921276	Brahma
+N3	Reference T3 wiki:1168330	Staropramen
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Subsidiary
+A4	TypeRel T2 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 4	РАТМ
+T2	Organization 314 327	Искитимцемент
+N1	Reference T1 wiki:722157	РАТМ
+N2	Reference T2 wiki:2958228	Искитимцемент
+A1	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 12	Agfa-Gevaert
+T2	Organization 311 316	Bayer
+N1	Reference T1 wiki:877920	Agfa-Gevaert
+N2	Reference T2 wiki:166035	Bayer
+A1	IsLink T2

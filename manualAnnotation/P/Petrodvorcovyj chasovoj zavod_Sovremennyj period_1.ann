@@ -1,0 +1,10 @@
+T1	Organization 0 28	Петродворцовый часовой завод
+T2	Organization 239 244	Rolex
+T3	Organization 246 253	Breguet
+N1	Reference T1 wiki:1930432	Петродворцовый часовой завод
+N2	Reference T2 wiki:321708	Rolex
+N3	Reference T3 wiki:1072056	Breguet
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

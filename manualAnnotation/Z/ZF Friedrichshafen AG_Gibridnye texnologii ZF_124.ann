@@ -1,0 +1,9 @@
+T1	Organization 0 21	ZF Friedrichshafen AG
+T2	Organization 319 324	Bosch
+T3	Organization 329 336	Siemens
+N1	Reference T1 wiki:154998	ZF Friedrichshafen AG
+N2	Reference T2 wiki:166006	Bosch
+N3	Reference T3 wiki:36510	Siemens
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

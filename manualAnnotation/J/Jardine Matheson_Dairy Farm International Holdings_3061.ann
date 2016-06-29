@@ -1,0 +1,6 @@
+T1	Organization 0 16	Jardine Matheson
+T2	Organization 519 525	Nestle
+N1	Reference T1 wiki:3497044	Jardine Matheson
+N2	Reference T2 wiki:121355	Nestle
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

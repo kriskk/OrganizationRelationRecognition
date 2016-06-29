@@ -1,0 +1,10 @@
+T1	Organization 0 15	Martin Marietta
+T2	Organization 409 415	Локхид
+T3	Organization 426 441	Lockheed Martin
+N1	Reference T1 wiki:1276671	Martin Marietta
+N2	Reference T2 wiki:1523502	Lockheed Corporation
+N3	Reference T3 wiki:301268	Lockheed Martin
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Merge
+A4	TypeRel T3 Holder

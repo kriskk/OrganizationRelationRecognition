@@ -1,0 +1,14 @@
+T1	Organization 0 7	Cummins
+T2	Organization 40 42	ZF
+T3	Organization 59 67	Rockwell
+T4	Organization 70 75	Eaton
+T5	Organization 88 92	Raba
+N1	Reference T1 wiki:2407448	Cummins
+N2	Reference T2 wiki:154998	ZF Friedrichshafen AG
+N3	Reference T3 wiki:743730	Rockwell
+N4	Reference T4 wiki:1039999	Eaton Corporation
+N5	Reference T5 wiki:298600	Raba
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

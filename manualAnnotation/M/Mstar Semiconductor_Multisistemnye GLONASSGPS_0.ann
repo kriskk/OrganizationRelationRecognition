@@ -1,0 +1,10 @@
+T1	Organization 0 19	Mstar Semiconductor
+T2	Organization 165 171	Explay
+T3	Organization 181 187	Explay
+N1	Reference T1 wiki:3413817	Mstar Semiconductor
+N2	Reference T2 wiki:3952594	Explay
+N3	Reference T3 wiki:3952594	Explay
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

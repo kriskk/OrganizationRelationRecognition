@@ -1,0 +1,11 @@
+T1	Organization 0 5	CEPSA
+T2	Organization 338 341	MAN
+T3	Organization 343 346	BMW
+T4	Organization 407 413	ALSTOM
+N1	Reference T1 wiki:3065878	CEPSA
+N2	Reference T2 wiki:42703	MAN
+N3	Reference T3 wiki:40368	BMW
+N4	Reference T4 wiki:571946	ALSTOM
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

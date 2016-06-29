@@ -1,0 +1,5 @@
+T1	Organization 0 22	Железные дороги Якутии
+T2	Organization 483 509	Российские железные дороги
+N1	Reference T1 wiki:558408	Железные дороги Якутии
+N2	Reference T2 wiki:106901	РЖД
+A1	TypeRel T2 Holder

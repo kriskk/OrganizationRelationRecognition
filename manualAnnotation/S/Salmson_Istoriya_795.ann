@@ -1,0 +1,8 @@
+T1	Organization 0 7	Salmson
+T2	Organization 256 260	Рено
+T3	Organization 502 505	ITT
+N1	Reference T1 wiki:4395672	Salmson
+N2	Reference T2 wiki:586472	Renault
+N3	Reference T3 wiki:741065	ITT Corporation
+A1	IsLink T2
+A2	IsLink T3

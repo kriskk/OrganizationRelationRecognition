@@ -1,0 +1,5 @@
+T1	Organization 0 14	Тольяттикаучук
+T2	Organization 212 217	Сибур
+N1	Reference T1 wiki:1403271	Тольяттикаучук
+N2	Reference T2 wiki:144869	Сибур
+A1	IsLink T2

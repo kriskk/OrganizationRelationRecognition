@@ -1,0 +1,5 @@
+T1	Organization 0 20	Разрез Березовский-1
+T2	Organization 189 193	СУЭК
+N1	Reference T1 wiki:389749	Разрез Березовский-1
+N2	Reference T2 wiki:162787	Сибирская угольная энергетическая компания
+A1	TypeRel T2 Holder

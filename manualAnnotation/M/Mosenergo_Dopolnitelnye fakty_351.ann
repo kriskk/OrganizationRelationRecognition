@@ -1,0 +1,6 @@
+T1	Organization 0 9	Мосэнерго
+T2	Organization 295 310	Мосэнергопроект
+N1	Reference T1 wiki:159522	Мосэнерго
+N2	Reference T2 wiki:4422229	Мосэнергопроект
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

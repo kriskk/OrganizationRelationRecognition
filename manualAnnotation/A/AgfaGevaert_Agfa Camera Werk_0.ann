@@ -1,0 +1,5 @@
+T1	Organization 0 12	Agfa-Gevaert
+T2	Organization 135 144	IG Farben
+N1	Reference T1 wiki:877920	Agfa-Gevaert
+N2	Reference T2 wiki:320026	IG Farben
+A1	IsLink T2

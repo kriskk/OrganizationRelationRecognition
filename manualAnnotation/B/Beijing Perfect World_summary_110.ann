@@ -1,0 +1,5 @@
+T1	Organization 0 21	Beijing Perfect World
+T2	Organization 194 200	NASDAQ
+N1	Reference T1 wiki:1704831	Beijing Perfect World
+N2	Reference T2 wiki:63813	NASDAQ
+A1	IsLink T2

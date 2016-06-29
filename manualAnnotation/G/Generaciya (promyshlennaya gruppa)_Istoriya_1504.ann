@@ -1,0 +1,6 @@
+T1	Organization 0 31	Генерация (промышленная группа)
+T2	Organization 331 344	Газпром Нефть
+N1	Reference T1 wiki:1698950	Генерация (промышленная группа)
+N2	Reference T2 wiki:121955	Газпром Нефть
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

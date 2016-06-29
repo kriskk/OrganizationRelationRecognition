@@ -1,0 +1,14 @@
+T1	Organization 0 7	Netezza
+T2	Organization 309 315	Orange
+T3	Organization 530 540	Amazon.com
+T4	Organization 570 573	AOL
+N1	Reference T1 wiki:3952151	Netezza
+N2	Reference T2 wiki:373554	Orange
+N3	Reference T3 wiki:103623	Amazon.com
+N4	Reference T4 wiki:610576	AOL
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

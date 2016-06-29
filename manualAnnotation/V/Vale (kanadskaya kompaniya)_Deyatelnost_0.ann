@@ -1,0 +1,6 @@
+T1	Organization 0 25	Vale (канадская компания)
+T2	Organization 177 195	Норильского никеля
+N1	Reference T1 wiki:205941	Vale (канадская компания)
+N2	Reference T2 wiki:73395	Норильский никель
+A1	IsLink T2
+A2	TypeRel T2 Competitor

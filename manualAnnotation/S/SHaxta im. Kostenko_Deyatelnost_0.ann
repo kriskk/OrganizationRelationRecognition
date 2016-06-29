@@ -1,0 +1,6 @@
+T1	Organization 0 18	Шахта им. Костенко
+T2	Organization 88 101	АрселорМиттал
+N1	Reference T1 wiki:2961777	Шахта им. Костенко
+N2	Reference T2 wiki:354086	ArcelorMittal
+A1	IsLink T2
+A2	TypeRel T2 Holder

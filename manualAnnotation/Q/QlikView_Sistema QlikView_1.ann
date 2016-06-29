@@ -1,0 +1,6 @@
+T1	Organization 0 8	QlikView
+T2	Organization 200 229	магического квадранта Gartner
+N1	Reference T1 wiki:3706230	QlikView
+N2	Reference T2 wiki:2960363	Магический квадрант
+A1	IsLink T2
+A2	TypeRel T2 Holder

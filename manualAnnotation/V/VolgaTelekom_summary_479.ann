@@ -1,0 +1,17 @@
+T1	Organization 0 12	ВолгаТелеком
+T2	Organization 222 233	Связьинвест
+T3	Organization 260 263	НСС
+T4	Organization 434 445	Связьинвест
+T5	Organization 523 533	Ростелеком
+N1	Reference T1 wiki:162608	ВолгаТелеком
+N2	Reference T2 wiki:145705	Связьинвест
+N3	Reference T3 wiki:2093483	НСС
+N4	Reference T4 wiki:145705	Связьинвест
+N5	Reference T5 wiki:145844	Ростелеком
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Holder

@@ -1,0 +1,13 @@
+T1	Organization 0 16	Иркут (компания)
+T2	Organization 134 174	Объединённая авиастроительная корпорация
+T3	Organization 185 196	АХК «Сухой»
+T4	Organization 369 378	РСК «МиГ»
+N1	Reference T1 wiki:143159	Иркут (компания)
+N2	Reference T2 wiki:163405	Объединённая авиастроительная корпорация
+N3	Reference T3 wiki:164779	Сухой (компания)
+N4	Reference T4 wiki:26999	МиГ (компания)
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T3 Holder
+A5	TypeRel T4 Personnel

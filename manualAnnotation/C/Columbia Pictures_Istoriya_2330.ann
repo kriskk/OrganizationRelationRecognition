@@ -1,0 +1,5 @@
+T1	Organization 0 17	Columbia Pictures
+T2	Organization 226 242	Sony Corporation
+N1	Reference T1 wiki:373564	Columbia Pictures
+N2	Reference T2 wiki:73019	Sony Corporation
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 39	Сибирско-Уральская Алюминиевая компания
+T2	Organization 269 274	РУСАЛ
+N1	Reference T1 wiki:198079	Сибирско-Уральская Алюминиевая компания
+N2	Reference T2 wiki:598084	РУСАЛ
+A1	IsLink T2

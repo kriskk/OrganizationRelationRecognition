@@ -1,0 +1,5 @@
+T1	Organization 0 28	Горьковский автобусный завод
+T2	Organization 211 214	ГАЗ
+N1	Reference T1 wiki:3892812	Горьковский автобусный завод
+N2	Reference T2 wiki:25060	Горьковский автомобильный завод
+A1	TypeRel T2 Alias

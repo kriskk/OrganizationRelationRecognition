@@ -1,0 +1,9 @@
+T1	Organization 0 20	Газпром добыча Надым
+T2	Organization 228 235	Газпром
+T3	Organization 247 280	ЗАО «Прайсвотерхаус Куперс Аудит»
+N1	Reference T1 wiki:972645	Газпром добыча Надым
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:275101	ПрайсвотерхаусКуперс
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Cooperator

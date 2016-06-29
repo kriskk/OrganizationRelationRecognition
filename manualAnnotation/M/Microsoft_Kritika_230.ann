@@ -1,0 +1,5 @@
+T1	Organization 0 9	Microsoft
+T2	Organization 187 193	Google
+N1	Reference T1 wiki:11987	Microsoft
+N2	Reference T2 wiki:265	Google (компания)
+A1	TypeRel T2 Other

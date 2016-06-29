@@ -1,0 +1,5 @@
+T1	Organization 0 30	Total Nonstop Action Wrestling
+T2	Organization 108 111	WWE
+N1	Reference T1 wiki:1560583	Total Nonstop Action Wrestling
+N2	Reference T2 wiki:1559702	WWE
+A1	IsLink T2

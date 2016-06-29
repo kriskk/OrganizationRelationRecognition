@@ -1,0 +1,6 @@
+T1	Organization 0 13	Ripcord Games
+T2	Organization 98 125	Panasonic Media Interactive
+N1	Reference T1 wiki:3530968	Ripcord Games
+N2	Reference T2 wiki:307154	Panasonic
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

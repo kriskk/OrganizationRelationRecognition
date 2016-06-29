@@ -1,0 +1,5 @@
+T1	Organization 0 15	Beyond Software
+T2	Organization 208 223	British Telecom
+N1	Reference T1 wiki:2815541	Beyond Software
+N2	Reference T2 wiki:14276	British Telecom
+A1	IsLink T2

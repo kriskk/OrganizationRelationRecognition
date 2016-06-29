@@ -1,0 +1,6 @@
+T1	Organization 0 14	Lotte Shopping
+T2	Organization 97 108	Lotte Group
+N1	Reference T1 wiki:209348	Lotte Shopping
+N2	Reference T2 wiki:988769	Lotte
+A1	IsLink T2
+A2	TypeRel T2 Holder

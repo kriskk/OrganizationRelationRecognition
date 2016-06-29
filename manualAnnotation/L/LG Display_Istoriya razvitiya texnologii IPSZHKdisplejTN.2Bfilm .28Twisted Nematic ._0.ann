@@ -1,0 +1,5 @@
+T1	Organization 0 10	LG Display
+T2	Organization 241 248	Hitachi
+N1	Reference T1 wiki:1610240	LG Display
+N2	Reference T2 wiki:141241	Hitachi
+A1	TypeRel T2 Cooperator

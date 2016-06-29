@@ -1,0 +1,5 @@
+T1	Organization 0 6	Panini
+T2	Organization 227 233	Adidas
+N1	Reference T1 wiki:2533025	Panini
+N2	Reference T2 wiki:243642	Adidas
+A1	TypeRel T2 Cooperator

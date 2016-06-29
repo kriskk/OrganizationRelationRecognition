@@ -1,0 +1,8 @@
+T1	Organization 0 7	Piaggio
+T2	Organization 203 207	Fiat
+T3	Organization 318 330	Piaggio Aero
+N1	Reference T1 wiki:981321	Piaggio
+N2	Reference T2 wiki:91784	Fiat
+N3	Reference T3 wiki:2120501	Piaggio Aero
+A1	IsLink T2
+A2	TypeRel T3 Holder

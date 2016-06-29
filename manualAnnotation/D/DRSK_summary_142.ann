@@ -1,0 +1,5 @@
+T1	Organization 0 4	ДРСК
+T2	Organization 207 221	РАО ЭС Востока
+N1	Reference T1 wiki:4171762	ДРСК
+N2	Reference T2 wiki:2671340	РАО ЭС Востока
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Ай-Теко
+T2	Organization 251 257	VMware
+N1	Reference T1 wiki:1770919	Ай-Теко
+N2	Reference T2 wiki:205509	VMware
+A1	IsLink T2

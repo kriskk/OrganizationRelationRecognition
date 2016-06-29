@@ -1,0 +1,5 @@
+T1	Organization 0 21	Leo Burnett Worldwide
+T2	Organization 255 264	Kellogg’s
+N1	Reference T1 wiki:2392790	Leo Burnett Worldwide
+N2	Reference T2 wiki:546568	Kellogg (компания)
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 23	Магнит (сеть магазинов)
+T2	Organization 262 283	J.P.Morgan Chase Bank
+N1	Reference T1 wiki:143658	Магнит (сеть магазинов)
+N2	Reference T2 wiki:374499	JPMorgan Chase
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,12 @@
+T1	Organization 0 11	Уралкриомаш
+T2	Organization 220 234	Уралвагонзавод
+T3	Organization 396 410	Уралвагонзавод
+T4	Organization 557 571	Уралвагонзавод
+N1	Reference T1 wiki:3925108	Уралкриомаш
+N2	Reference T2 wiki:93093	Уралвагонзавод
+N3	Reference T3 wiki:93093	Уралвагонзавод
+N4	Reference T4 wiki:93093	Уралвагонзавод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator

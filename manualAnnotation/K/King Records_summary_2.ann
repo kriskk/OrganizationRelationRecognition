@@ -1,0 +1,9 @@
+T1	Organization 0 12	King Records
+T2	Organization 206 215	Free-Will
+T3	Organization 284 292	Kodansha
+N1	Reference T1 wiki:2307207	King Records
+N2	Reference T2 wiki:2307062	Free-Will
+N3	Reference T3 wiki:200272	Kodansha
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Holder

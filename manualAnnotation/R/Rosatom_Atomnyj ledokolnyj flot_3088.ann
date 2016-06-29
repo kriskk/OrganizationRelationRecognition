@@ -1,0 +1,5 @@
+T1	Organization 0 7	Росатом
+T2	Organization 315 326	Fincantieri
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:3498785	Fincantieri
+A1	TypeRel T2 Cooperator

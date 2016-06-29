@@ -1,0 +1,5 @@
+T1	Organization 0 7	Siemens
+T2	Organization 376 383	Fujitsu
+N1	Reference T1 wiki:36510	Siemens
+N2	Reference T2 wiki:571996	Fujitsu
+A1	IsLink T2

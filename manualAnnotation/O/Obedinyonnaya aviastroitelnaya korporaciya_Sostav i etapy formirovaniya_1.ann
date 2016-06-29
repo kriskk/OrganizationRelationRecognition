@@ -1,0 +1,34 @@
+T1	Organization 0 40	Объединённая авиастроительная корпорация
+T2	Organization 236 241	Сухой
+T3	Organization 317 337	«Ильюшин Финанс Ко.»
+T4	Organization 351 437	«Комсомольское-на-Амуре авиационное производственное объединение имени Ю. А. Гагарина»
+T5	Organization 522 567	"Нижегородский авиастроительный завод «Сокол»
+T6	Organization 582 656	Новосибирское авиационное производственное объединение имени В. П. Чкалова
+T7	Organization 673 682	«Туполев»
+T8	Organization 699 729	Финансовая лизинговая компания
+T9	Organization 744 787	"Научно-производственная корпорация «Иркут»
+N1	Reference T1 wiki:163405	Объединённая авиастроительная корпорация
+N2	Reference T2 wiki:164779	Сухой (компания)
+N3	Reference T3 wiki:741422	Ильюшин Финанс Ко
+N4	Reference T4 wiki:386682	Комсомольское-на-Амуре авиационное производственное объединение имени Ю. А. Гагарина
+N5	Reference T5 wiki:144095	Сокол (авиастроительный завод)
+N6	Reference T6 wiki:2388976	Новосибирский авиационный завод имени В. П. Чкалова
+N7	Reference T7 wiki:55761	КБ Туполев
+N8	Reference T8 wiki:3497893	Финансовая лизинговая компания
+N9	Reference T9 wiki:143159	Иркут (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Subsidiary
+A10	TypeRel T3 Subsidiary
+A11	TypeRel T4 Subsidiary
+A12	TypeRel T5 Subsidiary
+A13	TypeRel T6 Subsidiary
+A14	TypeRel T7 Subsidiary
+A15	TypeRel T8 Subsidiary
+A16	TypeRel T9 Subsidiary

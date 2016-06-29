@@ -1,0 +1,5 @@
+T1	Organization 0 40	Запорожский автомобилестроительный завод
+T2	Organization 368 372	TATA
+N1	Reference T1 wiki:683481	Запорожский автомобилестроительный завод
+N2	Reference T2 wiki:962083	TATA
+A1	TypeRel T2 Cooperator

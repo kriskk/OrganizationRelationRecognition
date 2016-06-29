@@ -1,0 +1,5 @@
+T1	Organization 0 9	Honeywell
+T2	Organization 224 232	Стокманн
+N1	Reference T1 wiki:94822	Honeywell
+N2	Reference T2 wiki:277515	Стокманн
+A1	IsLink T2

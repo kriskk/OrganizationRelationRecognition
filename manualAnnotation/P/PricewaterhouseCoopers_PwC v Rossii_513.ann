@@ -1,0 +1,6 @@
+T1	Organization 0 22	PricewaterhouseCoopers
+T2	Organization 372 376	KPMG
+N1	Reference T1 wiki:275101	PricewaterhouseCoopers
+N2	Reference T2 wiki:281743	KPMG
+A1	IsLink T2
+A2	TypeRel T2 Competitor

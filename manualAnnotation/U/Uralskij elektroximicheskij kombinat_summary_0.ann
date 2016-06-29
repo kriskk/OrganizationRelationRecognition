@@ -1,0 +1,9 @@
+T1	Organization 0 36	Уральский электрохимический комбинат
+T2	Organization 175 181	«ТВЭЛ»
+T3	Organization 182 205	Госкорпорации «Росатом»
+N1	Reference T1 wiki:4267959	Уральский электрохимический комбинат
+N2	Reference T2 wiki:214333	ТВЭЛ (компания)
+N3	Reference T3 wiki:1299917	Росатом
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

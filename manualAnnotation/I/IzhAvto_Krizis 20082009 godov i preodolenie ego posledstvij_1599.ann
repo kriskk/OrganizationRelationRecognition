@@ -1,0 +1,8 @@
+T1	Organization 0 6	ИжАвто
+T2	Organization 273 280	АвтоВАЗ
+T3	Organization 559 572	Ростехнологии
+N1	Reference T1 wiki:39731	ИжАвто
+N2	Reference T2 wiki:139276	АвтоВАЗ
+N3	Reference T3 wiki:915063	Ростехнологии
+A1	IsLink T2
+A2	TypeRel T3 Holder

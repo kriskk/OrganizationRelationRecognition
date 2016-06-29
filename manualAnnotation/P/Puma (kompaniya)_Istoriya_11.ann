@@ -1,0 +1,10 @@
+T1	Organization 0 15	Puma (компания)
+T2	Organization 297 304	Dassler
+T3	Organization 354 360	Adidas
+N1	Reference T1 wiki:258966	Puma (компания)
+N2	Reference T2 wiki:243642	Dassler
+N3	Reference T3 wiki:243642	Adidas
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Personnel

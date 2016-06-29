@@ -1,0 +1,5 @@
+T1	Organization 0 7	StarBev
+T2	Organization 264 275	Staropramen
+N1	Reference T1 wiki:4114777	StarBev
+N2	Reference T2 wiki:1168330	Staropramen
+A1	IsLink T2

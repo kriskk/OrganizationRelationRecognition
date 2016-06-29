@@ -1,0 +1,5 @@
+T1	Organization 0 14	Golden Telecom
+T2	Organization 199 206	Корбины
+N1	Reference T1 wiki:2196953	Golden Telecom
+N2	Reference T2 wiki:128480	Корбина Телеком
+A1	TypeRel T2 Subsidiary

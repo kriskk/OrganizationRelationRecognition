@@ -1,0 +1,5 @@
+T1	Organization 0 10	Медиа-Мост
+T2	Organization 194 208	ОАО «НТВ-Плюс»
+N1	Reference T1 wiki:2400048	Медиа-Мост
+N2	Reference T2 wiki:723124	НТВ-Плюс
+A1	IsLink T2

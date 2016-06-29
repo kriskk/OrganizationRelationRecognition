@@ -1,0 +1,6 @@
+T1	Organization 0 6	Isdera
+T2	Organization 273 277	EBay
+N1	Reference T1 wiki:3678695	Isdera
+N2	Reference T2 wiki:130673	EBay
+A1	IsLink T2
+A2	TypeRel T2 Other

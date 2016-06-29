@@ -1,0 +1,5 @@
+T1	Organization 0 31	Дженерали ППФ Страхование жизни
+T2	Organization 200 203	PPF
+N1	Reference T1 wiki:3162006	Дженерали ППФ Страхование жизни
+N2	Reference T2 wiki:703366	PPF
+A1	IsLink T2

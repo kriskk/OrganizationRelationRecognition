@@ -1,0 +1,6 @@
+T1	Organization 0 16	Irrational Games
+T2	Organization 206 214	2K Games
+N1	Reference T1 wiki:2311392	Irrational Games
+N2	Reference T2 wiki:2386194	2K Games
+A1	IsLink T2
+A2	TypeRel T2 Holder

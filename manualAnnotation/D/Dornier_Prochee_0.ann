@@ -1,0 +1,5 @@
+T1	Organization 0 7	Dornier
+T2	Organization 147 151	EADS
+N1	Reference T1 wiki:3916377	Dornier
+N2	Reference T2 wiki:39833	EADS
+A1	IsLink T2

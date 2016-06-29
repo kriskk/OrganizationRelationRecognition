@@ -1,0 +1,6 @@
+T1	Organization 0 19	Micro Forté Studios
+T2	Organization 256 269	Wargaming.net
+N1	Reference T1 wiki:1680611	Micro Forté Studios
+N2	Reference T2 wiki:1420577	Wargaming.net
+A1	IsLink T2
+A2	TypeRel T2 Holder

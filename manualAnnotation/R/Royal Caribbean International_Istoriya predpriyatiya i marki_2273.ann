@@ -1,0 +1,8 @@
+T1	Organization 0 29	Royal Caribbean International
+T2	Organization 237 247	Aker Yards
+T3	Organization 502 519	Celebrity Cruises
+N1	Reference T1 wiki:3430803	Royal Caribbean International
+N2	Reference T2 wiki:3434436	STX Europe
+N3	Reference T3 wiki:3431415	Celebrity Cruises
+A1	IsLink T2
+A2	IsLink T3

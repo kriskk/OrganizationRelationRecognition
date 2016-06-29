@@ -1,0 +1,6 @@
+T1	Organization 0 14	Уралвагонзавод
+T2	Organization 445 454	ОАО «РЖД»
+N1	Reference T1 wiki:93093	Уралвагонзавод
+N2	Reference T2 wiki:106901	Российские железные дороги
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

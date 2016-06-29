@@ -1,0 +1,6 @@
+T1	Organization 0 16	HarvEast Holding
+T2	Organization 172 197	System Capital Management
+N1	Reference T1 wiki:3598684	HarvEast Holding
+N2	Reference T2 wiki:36184	System Capital Management
+A1	IsLink T2
+A2	TypeRel T2 Holder

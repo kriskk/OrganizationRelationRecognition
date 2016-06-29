@@ -1,0 +1,13 @@
+T1	Organization 0 25	Kawasaki Heavy Industries
+T2	Organization 275 281	Boeing
+T3	Organization 283 290	Embraer
+T4	Organization 293 313	Bombardier Aerospace
+N1	Reference T1 wiki:2782836	Kawasaki Heavy Industries
+N2	Reference T2 wiki:156398	Boeing
+N3	Reference T3 wiki:345325	Embraer
+N4	Reference T4 wiki:168782	Bombardier Aerospace
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

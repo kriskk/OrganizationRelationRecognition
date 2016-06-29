@@ -1,0 +1,8 @@
+T1	Organization 0 7	Eventis
+T2	Organization 93 102	«МегаФон»
+T3	Organization 105 128	«NokiaSiemens Networks»
+N1	Reference T1 wiki:745225	Eventis
+N2	Reference T2 wiki:70933	МегаФон
+N3	Reference T3 wiki:354923	Nokia Siemens Networks
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,6 @@
+T1	Organization 0 6	Gibson
+T2	Organization 179 185	Kramer
+N1	Reference T1 wiki:546422	Gibson
+N2	Reference T2 wiki:2774752	Kramer Guitars
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

@@ -1,0 +1,8 @@
+T1	Organization 0 17	ASCII Media Works
+T2	Organization 134 142	Kadokawa
+T3	Organization 520 535	Kadokawa Shoten
+N1	Reference T1 wiki:1852872	ASCII Media Works
+N2	Reference T2 wiki:3124112	Kadokawa Group Holdings
+N3	Reference T3 wiki:206144	Kadokawa Shoten
+A1	IsLink T2
+A2	IsLink T3

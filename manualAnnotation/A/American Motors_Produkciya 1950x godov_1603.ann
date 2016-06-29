@@ -1,0 +1,8 @@
+T1	Organization 0 15	American Motors
+T2	Organization 226 235	Chevrolet
+T3	Organization 238 245	Pontiac
+N1	Reference T1 wiki:3346012	American Motors
+N2	Reference T2 wiki:17631	Chevrolet
+N3	Reference T3 wiki:820144	Pontiac
+A1	IsLink T2
+A2	IsLink T3

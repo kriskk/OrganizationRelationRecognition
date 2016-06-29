@@ -1,0 +1,5 @@
+T1	Organization 0 15	Кировский завод
+T2	Organization 253 273	ОАО «Северная верфь»
+N1	Reference T1 wiki:208146	Кировский завод
+N2	Reference T2 wiki:341131	Северная верфь
+A1	TypeRel T2 Subsidiary

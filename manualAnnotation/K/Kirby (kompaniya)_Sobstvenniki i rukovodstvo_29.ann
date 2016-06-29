@@ -1,0 +1,5 @@
+T1	Organization 0 16	Kirby (компания)
+T2	Organization 218 236	Berkshire Hathaway
+N1	Reference T1 wiki:3573193	Kirby (компания)
+N2	Reference T2 wiki:201051	Berkshire Hathaway
+A1	IsLink T2

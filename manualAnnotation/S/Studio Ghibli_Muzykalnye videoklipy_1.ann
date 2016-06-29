@@ -1,0 +1,11 @@
+T1	Organization 0 13	Studio Ghibli
+T2	Organization 232 245	Studio Kajino
+T3	Organization 338 351	Studio Kajino
+T4	Organization 425 438	Studio Kajino
+N1	Reference T1 wiki:8977	Studio Ghibli
+N2	Reference T2 wiki:2942703	Studio Kajino
+N3	Reference T3 wiki:2942703	Studio Kajino
+N4	Reference T4 wiki:2942703	Studio Kajino
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

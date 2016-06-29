@@ -1,0 +1,6 @@
+T1	Organization 0 15	Publicis groupe
+T2	Organization 270 277	 VivaKi
+N1	Reference T1 wiki:2013419	Publicis groupe
+N2	Reference T2 wiki:2051834	VivaKi Russia
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

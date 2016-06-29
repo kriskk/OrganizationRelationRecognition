@@ -1,0 +1,9 @@
+T1	Organization 0 12	Hydro-Québec
+T2	Organization 274 283	Rio Tinto
+T3	Organization 498 503	Alcoa
+N1	Reference T1 wiki:1817394	Hydro-Québec
+N2	Reference T2 wiki:144043	Rio Tinto
+N3	Reference T3 wiki:527770	Alcoa
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator

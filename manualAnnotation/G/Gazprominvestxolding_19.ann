@@ -1,0 +1,9 @@
+T1	Organization 0 20	Газпроминвестхолдинг
+T2	Organization 212 219	Газпром
+T3	Organization 348 355	Газпром
+N1	Reference T1 wiki:3880246	Газпроминвестхолдинг
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:44754	Газпром
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

@@ -1,0 +1,12 @@
+T1	Organization 0 10	Ремпутьмаш
+T2	Organization 180 202	Калужского завода ПРМЗ
+T3	Organization 590 626	Людиновский машиностроительный завод
+T4	Organization 813 839	Российские железные дороги
+N1	Reference T1 wiki:1745196	Ремпутьмаш
+N2	Reference T2 wiki:1994657	Ремпутьмаш (завод, Калуга)
+N3	Reference T3 wiki:2119206	Людиновский машиностроительный завод
+N4	Reference T4 wiki:106901	Российские железные дороги
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T4 Holder

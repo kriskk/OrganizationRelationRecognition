@@ -1,0 +1,5 @@
+T1	Organization 0 35	Entertainment Software Rating Board
+T2	Organization 204 207	CNN
+N1	Reference T1 wiki:245973	Entertainment Software Rating Board
+N2	Reference T2 wiki:256238	CNN
+A1	IsLink T2

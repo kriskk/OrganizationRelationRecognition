@@ -1,0 +1,6 @@
+T1	Organization 0 8	Wärtsilä
+T2	Organization 326 330	KPMG
+N1	Reference T1 wiki:951949	Wärtsilä
+N2	Reference T2 wiki:281743	KPMG
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

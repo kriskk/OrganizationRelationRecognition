@@ -1,0 +1,5 @@
+T1	Organization 0 7	Crosman
+T2	Organization 197 204	Beretta
+N1	Reference T1 wiki:2109657	Crosman
+N2	Reference T2 wiki:918067	Beretta
+A1	IsLink T2

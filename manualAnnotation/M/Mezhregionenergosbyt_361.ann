@@ -1,0 +1,13 @@
+T1	Organization 0 19	Межрегионэнергосбыт
+T2	Organization 212 232	Газпром межрегионгаз
+T3	Organization 258 265	Газпром
+T4	Organization 344 377	Тюменская энергосбытовая компания
+N1	Reference T1 wiki:2682166	Межрегионэнергосбыт
+N2	Reference T2 wiki:2682262	Газпром межрегионгаз
+N3	Reference T3 wiki:44754	Газпром
+N4	Reference T4 wiki:1284739	Тюменская энергосбытовая компания
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T4 Subsidiary

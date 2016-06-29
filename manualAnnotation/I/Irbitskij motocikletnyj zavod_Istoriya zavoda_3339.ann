@@ -1,0 +1,5 @@
+T1	Organization 0 29	Ирбитский мотоциклетный завод
+T2	Organization 255 283	Киевский мотоциклетный завод
+N1	Reference T1 wiki:99117	Ирбитский мотоциклетный завод
+N2	Reference T2 wiki:2060666	Киевский мотоциклетный завод
+A1	TypeRel T2 Competitor

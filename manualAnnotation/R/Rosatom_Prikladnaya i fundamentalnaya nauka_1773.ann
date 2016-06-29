@@ -1,0 +1,11 @@
+T1	Organization 0 7	Росатом
+T2	Organization 336 352	«Атомэнергопром»
+T3	Organization 538 554	ОКБ «Гидропресс»
+T4	Organization 557 585	ОКБМ имени И. И. Африкантова
+N1	Reference T1 wiki:1299917	Росатом
+N2	Reference T2 wiki:1402114	Атомэнергопром
+N3	Reference T3 wiki:3320399	Гидропресс (ОКБ)
+N4	Reference T4 wiki:758226	ОКБМ
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary

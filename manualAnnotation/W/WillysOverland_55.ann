@@ -1,0 +1,5 @@
+T1	Organization 0 15	Willys-Overland
+T2	Organization 174 187	Kaiser Motors
+N1	Reference T1 wiki:3630721	Willys-Overland
+N2	Reference T2 wiki:3333285	Kaiser Motors
+A1	TypeRel T2 Merge

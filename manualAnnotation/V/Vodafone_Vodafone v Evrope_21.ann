@@ -1,0 +1,5 @@
+T1	Organization 0 8	Vodafone
+T2	Organization 189 194	Tele2
+N1	Reference T1 wiki:213703	Vodafone
+N2	Reference T2 wiki:162980	Tele2
+A1	TypeRel T2 Cooperator

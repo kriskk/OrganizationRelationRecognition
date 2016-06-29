@@ -1,0 +1,8 @@
+T1	Organization 0 5	Финам
+T2	Organization 95 113	БрокерКредитСервис
+T3	Organization 116 148	Открытие (финансовая корпорация)
+N1	Reference T1 wiki:1527933	Финам
+N2	Reference T2 wiki:148263	БрокерКредитСервис
+N3	Reference T3 wiki:919308	Открытие (финансовая корпорация)
+A1	IsLink T2
+A2	IsLink T3

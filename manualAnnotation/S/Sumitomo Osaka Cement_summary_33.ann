@@ -1,0 +1,5 @@
+T1	Organization 0 21	Sumitomo Osaka Cement
+T2	Organization 204 212	Sumitomo
+N1	Reference T1 wiki:1842238	Sumitomo Osaka Cement
+N2	Reference T2 wiki:1813036	Sumitomo Group
+A1	IsLink T2

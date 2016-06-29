@@ -1,0 +1,30 @@
+T1	Organization 0 40	Запорожский автомобилестроительный завод
+T2	Organization 135 150	DaimlerChrysler
+T3	Organization 167 176	Adam Opel
+T4	Organization 193 200	АвтоВАЗ
+T5	Organization 217 256	General Motors Daewoo Auto & Technology
+T6	Organization 273 277	ТАТА
+T7	Organization 294 299	Chery
+T8	Organization 316 326	KIA Motors
+N1	Reference T1 wiki:683481	Запорожский автомобилестроительный завод
+N2	Reference T2 wiki:39716	DaimlerChrysler
+N3	Reference T3 wiki:562302	Adam Opel
+N4	Reference T4 wiki:139276	АвтоВАЗ
+N5	Reference T5 wiki:17438	General Motors
+N6	Reference T6 wiki:962083	Tata Motors
+N7	Reference T7 wiki:378562	Chery
+N8	Reference T8 wiki:215264	Kia Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator

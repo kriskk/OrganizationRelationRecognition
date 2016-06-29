@@ -1,0 +1,5 @@
+T1	Organization 0 15	Western Digital
+T2	Organization 266 272	Compaq
+N1	Reference T1 wiki:286638	Western Digital
+N2	Reference T2 wiki:343420	Compaq
+A1	TypeRel T2 Cooperator

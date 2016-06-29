@@ -1,0 +1,11 @@
+Telligent Systems
+@История
+923,640
+
+Конец 2007 года ознаменовался выпуском инструмента для социальной аналитики под названием Harvest Reporting Server.
+
+В 2008 году первым основным партнером компании стала корпорация Intel.
+
+В 2009 году пост CEO в компании занял Патрик Бендт. Роб Ховард переместился на позицию CTO. До этого Патрик Брендт выполнял обязанности CEO в Skywire Software приобретенной Oracle в результате закрытой сделки. В этом же году Telligent произвела Ребрендинг, приведя наименования продуктов к текущим: Community Server стал называться Telligent Community, Harvest Reporting Server был переименован в Telligent Analytics, а Community Server Evolution в Telligent Enterprise. Также Telligent официально представил платформу для своих продуктов, которая получила название Telligent Evolution platform.
+
+27 мая 2009 года Microsoft проанонсировала создание Social Enterprise Alliance закрепляющее стратегическое сотрудничество между Telligent и SpeakTECH.

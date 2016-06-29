@@ -1,0 +1,14 @@
+T1	Organization 0 5	Apple
+T2	Organization 127 133	NASDAQ
+T3	Organization 358 367	Microsoft
+T4	Organization 738 744	Google
+T5	Organization 747 756	Microsoft
+N1	Reference T1 wiki:39726	Apple
+N2	Reference T2 wiki:63813	NASDAQ
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:265	Google (компания)
+N5	Reference T5 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,17 @@
+T1	Organization 0 10	КостаФильм
+T2	Organization 114 120	Леан-М
+T3	Organization 535 541	Каскад
+T4	Organization 655 664	СТС Медиа
+T5	Organization 853 875	Story First Production
+N1	Reference T1 wiki:1910492	КостаФильм
+N2	Reference T2 wiki:1883827	Леан-М
+N3	Reference T3 wiki:2384737	Каскад (кинокомпания)
+N4	Reference T4 wiki:168242	СТС Медиа
+N5	Reference T5 wiki:3721033	Story First Production
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Personnel
+A6	TypeRel T4 Holder
+A7	TypeRel T5 Holder

@@ -1,0 +1,8 @@
+T1	Organization 0 23	Альтус Ассетс Активитис
+T2	Organization 255 259	ПФТС
+T3	Organization 304 320	Украинская биржа
+N1	Reference T1 wiki:2531385	Альтус Ассетс Активитис
+N2	Reference T2 wiki:769045	ПФТС
+N3	Reference T3 wiki:1590481	Украинская биржа
+A1	IsLink T2
+A2	IsLink T3

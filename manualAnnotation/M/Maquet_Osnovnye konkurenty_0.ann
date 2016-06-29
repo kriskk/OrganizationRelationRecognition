@@ -1,0 +1,17 @@
+T1	Organization 0 6	Maquet
+T2	Organization 161 167	Dräger
+T3	Organization 224 230	Dräger
+T4	Organization 232 234	GE
+T5	Organization 266 281	Cardinal Health
+N1	Reference T1 wiki:964472	Maquet
+N2	Reference T2 wiki:302641	Dräger Medical
+N3	Reference T3 wiki:302641	Dräger Medical
+N4	Reference T4 wiki:13762	General Electric
+N5	Reference T5 wiki:1906970	Cardinal Health
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor
+A7	TypeRel T5 Competitor

@@ -1,0 +1,6 @@
+T1	Organization 0 12	ВСМПО-АВИСМА
+T2	Organization 226 232	Airbus
+N1	Reference T1 wiki:140530	ВСМПО-АВИСМА
+N2	Reference T2 wiki:212269	Airbus
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

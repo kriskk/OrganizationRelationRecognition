@@ -1,0 +1,8 @@
+T1	Organization 0 5	Pixar
+T2	Organization 67 96	Walt Disney Animation Studios
+T3	Organization 99 131	Walt Disney Television Animation
+N1	Reference T1 wiki:125032	Pixar
+N2	Reference T2 wiki:345492	Walt Disney Animation Studios
+N3	Reference T3 wiki:1388980	Walt Disney Television Animation
+A1	IsLink T2
+A2	IsLink T3

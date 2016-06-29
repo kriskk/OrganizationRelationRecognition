@@ -1,0 +1,13 @@
+T1	Organization 0 11	КазМунайГаз
+T2	Organization 226 235	Rompetrol
+T3	Organization 269 286	Мангистаумунайгаз
+T4	Organization 297 310	Тенгизшевройл
+N1	Reference T1 wiki:294591	КазМунайГаз
+N2	Reference T2 wiki:376654	Rompetrol
+N3	Reference T3 wiki:1504886	Мангистаумунайгаз
+N4	Reference T4 wiki:1875950	Тенгизшевройл
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary

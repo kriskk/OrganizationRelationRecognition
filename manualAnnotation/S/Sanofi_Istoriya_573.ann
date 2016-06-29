@@ -1,0 +1,11 @@
+T1	Organization 0 6	Sanofi
+T2	Organization 176 184	Novartis
+T3	Organization 298 303	Total
+T4	Organization 348 355	L’Oreal
+N1	Reference T1 wiki:1469482	Sanofi
+N2	Reference T2 wiki:1018931	Novartis
+N3	Reference T3 wiki:159658	Total
+N4	Reference T4 wiki:164733	L’Oreal
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

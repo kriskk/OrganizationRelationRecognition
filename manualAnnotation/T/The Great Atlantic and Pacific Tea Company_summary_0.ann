@@ -1,0 +1,5 @@
+T1	Organization 0 42	The Great Atlantic and Pacific Tea Company
+T2	Organization 105 108	A&P
+N1	Reference T1 wiki:276410	The Great Atlantic and Pacific Tea Company
+N2	Reference T2 wiki:276410	A&P
+A1	IsLink T2

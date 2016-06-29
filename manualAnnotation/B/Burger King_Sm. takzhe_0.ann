@@ -1,0 +1,8 @@
+T1	Organization 0 11	Burger King
+T2	Organization 54 64	McDonald’s
+T3	Organization 67 73	Subway
+N1	Reference T1 wiki:196541	Burger King
+N2	Reference T2 wiki:3425	McDonald’s
+N3	Reference T3 wiki:463082	Subway (сеть ресторанов)
+A1	IsLink T2
+A2	IsLink T3

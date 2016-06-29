@@ -1,0 +1,5 @@
+T1	Organization 0 17	Коломенский завод
+T2	Organization 193 208	Трансмашхолдинг
+N1	Reference T1 wiki:125133	Коломенский завод
+N2	Reference T2 wiki:168333	Трансмашхолдинг
+A1	TypeRel T2 Holder

@@ -1,0 +1,9 @@
+T1	Organization 0 11	ALTAR Games
+T2	Organization 259 278	Centauri Production
+T3	Organization 355 374	Centauri Production
+N1	Reference T1 wiki:2716960	ALTAR Games
+N2	Reference T2 wiki:2301221	Centauri Production
+N3	Reference T3 wiki:2301221	Centauri Production
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator

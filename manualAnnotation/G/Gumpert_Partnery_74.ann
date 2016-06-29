@@ -1,0 +1,10 @@
+T1	Organization 0 7	Gumpert
+T2	Organization 197 208	Bosch Group
+T3	Organization 430 437	Pirelli
+N1	Reference T1 wiki:4149587	Gumpert
+N2	Reference T2 wiki:166006	Bosch
+N3	Reference T3 wiki:461196	Pirelli
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Cooperator
+A4	TypeRel T2 Cooperator

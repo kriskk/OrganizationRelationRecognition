@@ -1,0 +1,5 @@
+T1	Organization 0 21	Symteco International
+T2	Organization 339 342	IBM
+N1	Reference T1 wiki:2941978	Symteco International
+N2	Reference T2 wiki:11078	IBM
+A1	IsLink T2

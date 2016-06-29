@@ -1,0 +1,8 @@
+T1	Organization 0 17	Логрус (компания)
+T2	Organization 215 221	Oracle
+T3	Organization 258 261	SAP
+N1	Reference T1 wiki:3275618	Логрус (компания)
+N2	Reference T2 wiki:129227	Oracle
+N3	Reference T3 wiki:81959	SAP
+A1	IsLink T2
+A2	IsLink T3

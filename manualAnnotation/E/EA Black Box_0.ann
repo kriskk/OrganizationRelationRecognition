@@ -1,0 +1,10 @@
+T1	Organization 0 12	EA Black Box
+T2	Organization 105 114	EA Canada
+T3	Organization 395 410	Electronic Arts
+N1	Reference T1 wiki:2306009	EA Black Box
+N2	Reference T2 wiki:2306102	EA Canada
+N3	Reference T3 wiki:323143	Electronic Arts
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

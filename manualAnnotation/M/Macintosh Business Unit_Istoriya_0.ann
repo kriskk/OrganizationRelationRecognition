@@ -1,0 +1,16 @@
+T1	Organization 0 23	Macintosh Business Unit
+T2	Organization 103 112	Microsoft
+T3	Organization 221 230	Microsoft
+T4	Organization 381 390	Microsoft
+T5	Organization 615 624	Microsoft
+N1	Reference T1 wiki:2662008	Macintosh Business Unit
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:11987	Microsoft
+N5	Reference T5 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Holder
+A6	TypeRel T5 Cooperator

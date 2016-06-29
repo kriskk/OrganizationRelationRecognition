@@ -1,0 +1,6 @@
+T1	Organization 0 18	Paramount Pictures
+T2	Organization 352 368	20th Century Fox
+N1	Reference T1 wiki:398699	Paramount Pictures
+N2	Reference T2 wiki:272376	20th Century Fox
+A1	IsLink T2
+A2	TypeRel T2 Personnel

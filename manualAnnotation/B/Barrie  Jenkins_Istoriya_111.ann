@@ -1,0 +1,8 @@
+T1	Organization 0 16	Barrie & Jenkins
+T2	Organization 209 219	Hutchinson
+T3	Organization 271 278	Century
+N1	Reference T1 wiki:2889292	Barrie & Jenkins
+N2	Reference T2 wiki:2892456	Hutchinson (издательство)
+N3	Reference T3 wiki:2892456	Century (издательство)
+A1	IsLink T2
+A2	IsLink T3

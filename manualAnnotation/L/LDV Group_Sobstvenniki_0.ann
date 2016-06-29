@@ -1,0 +1,10 @@
+T1	Organization 0 9	LDV Group
+T2	Organization 81 91	Группе ГАЗ
+T3	Organization 446 473	Mahindra & Mahindra Limited
+N1	Reference T1 wiki:1791283	LDV Group
+N2	Reference T2 wiki:21473	Группа ГАЗ
+N3	Reference T3 wiki:1479897	Mahindra & Mahindra Limited
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

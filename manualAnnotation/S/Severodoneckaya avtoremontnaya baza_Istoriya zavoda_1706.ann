@@ -1,0 +1,8 @@
+T1	Organization 0 33	Северодонецкая авторемонтная база
+T2	Organization 256 280	Центральному телевидению
+T3	Organization 493 497	ГАЗа
+N1	Reference T1 wiki:3522969	Северодонецкая авторемонтная база
+N2	Reference T2 wiki:772734	Центральное телевидение Гостелерадио СССР
+N3	Reference T3 wiki:25060	Горьковский автомобильный завод
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,11 @@
+T1	Organization 0 8	Татнефть
+T2	Organization 635 667	Бугульминский механический завод
+T3	Organization 689 710	Ярполимермаш-Татнефть
+T4	Organization 718 732	Нижнекамскшина
+N1	Reference T1 wiki:145661	Татнефть
+N2	Reference T2 wiki:1689902	Бугульминский механический завод
+N3	Reference T3 wiki:2640970	Ярполимермаш-Татнефть
+N4	Reference T4 wiki:2654809	Нижнекамскшина
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

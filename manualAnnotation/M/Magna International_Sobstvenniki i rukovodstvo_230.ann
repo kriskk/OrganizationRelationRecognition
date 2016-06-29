@@ -1,0 +1,9 @@
+T1	Organization 0 19	Magna International
+T2	Organization 283 297	Русские машины
+T3	Organization 320 335	Базовый элемент
+N1	Reference T1 wiki:232905	Magna International
+N2	Reference T2 wiki:2023713	Русские машины
+N3	Reference T3 wiki:156379	Базовый элемент
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder

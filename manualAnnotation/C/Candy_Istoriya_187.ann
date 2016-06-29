@@ -1,0 +1,5 @@
+T1	Organization 0 5	Candy
+T2	Organization 473 478	Веста
+N1	Reference T1 wiki:2052345	Candy
+N2	Reference T2 wiki:2167712	Веста (завод)
+A1	IsLink T2

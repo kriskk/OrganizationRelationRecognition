@@ -1,0 +1,10 @@
+T1	Organization 0 5	Мечел
+T2	Organization 437 474	Челябинский металлургический комбинат
+T3	Organization 581 610	Московский коксогазовый завод
+N1	Reference T1 wiki:148493	Мечел
+N2	Reference T2 wiki:631259	Челябинский металлургический комбинат
+N3	Reference T3 wiki:350357	Московский коксогазовый завод
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

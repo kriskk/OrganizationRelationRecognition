@@ -1,0 +1,6 @@
+T1	Organization 0 7	Linksys
+T2	Organization 125 138	Cisco Systems
+N1	Reference T1 wiki:960437	Linksys
+N2	Reference T2 wiki:25014	Cisco Systems
+A1	IsLink T2
+A2	TypeRel T2 Holder

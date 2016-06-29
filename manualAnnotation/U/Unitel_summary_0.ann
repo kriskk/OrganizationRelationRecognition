@@ -1,0 +1,6 @@
+T1	Organization 0 6	Unitel
+T2	Organization 63 72	ВымпелКом
+N1	Reference T1 wiki:1436579	Unitel
+N2	Reference T2 wiki:70736	ВымпелКом
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 19	Вымпел-Коммуникации
+T2	Organization 286 311	Новой телефонной компании
+N1	Reference T1 wiki:70736	Вымпел-Коммуникации
+N2	Reference T2 wiki:259656	Новая телефонная компания
+A1	TypeRel T2 Subsidiary

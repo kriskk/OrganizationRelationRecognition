@@ -1,0 +1,8 @@
+T1	Organization 0 4	RETN
+T2	Organization 191 199	Synterra
+T3	Organization 252 261	РТКомм.РУ
+N1	Reference T1 wiki:931484	RETN
+N2	Reference T2 wiki:1399604	Синтерра
+N3	Reference T3 wiki:1399213	РТКомм.РУ
+A1	IsLink T2
+A2	IsLink T3

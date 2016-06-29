@@ -1,0 +1,10 @@
+T1	Organization 0 22	Лебедянский (компания)
+T2	Organization 329 336	PepsiCo
+T3	Organization 423 430	PepsiCo
+N1	Reference T1 wiki:146843	Лебедянский (компания)
+N2	Reference T2 wiki:606214	PepsiCo
+N3	Reference T3 wiki:606214	PepsiCo
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

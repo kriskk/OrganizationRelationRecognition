@@ -1,0 +1,5 @@
+T1	Organization 0 11	Колателеком
+T2	Organization 167 174	Telenor
+N1	Reference T1 wiki:4238132	Колателеком
+N2	Reference T2 wiki:321300	Telenor
+A1	TypeRel T2 Holder

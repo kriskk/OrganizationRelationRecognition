@@ -1,0 +1,5 @@
+T1	Organization 0 15	ТВЭЛ (компания)
+T2	Organization 158 172	Атомэнергопром
+N1	Reference T1 wiki:214333	ТВЭЛ (компания)
+N2	Reference T2 wiki:1402114	Атомэнергопром
+A1	IsLink T2

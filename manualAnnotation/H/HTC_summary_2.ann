@@ -1,0 +1,14 @@
+T1	Organization 0 3	HTC
+T2	Organization 290 299	Microsoft
+T3	Organization 442 463	Open Handset Alliance
+T4	Organization 628 636	T-Mobile
+N1	Reference T1 wiki:619547	HTC
+N2	Reference T2 wiki:11987	Microsoft
+N3	Reference T3 wiki:917308	Open Handset Alliance
+N4	Reference T4 wiki:138787	T-Mobile
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Cooperator

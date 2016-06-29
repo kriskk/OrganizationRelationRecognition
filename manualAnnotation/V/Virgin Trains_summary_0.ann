@@ -1,0 +1,6 @@
+T1	Organization 0 13	Virgin Trains
+T2	Organization 107 119	Virgin Group
+N1	Reference T1 wiki:4010063	Virgin Trains
+N2	Reference T2 wiki:250912	Virgin Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

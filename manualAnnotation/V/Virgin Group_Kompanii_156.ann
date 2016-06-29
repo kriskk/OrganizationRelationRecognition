@@ -1,0 +1,18 @@
+T1	Organization 0 12	Virgin Group
+T2	Organization 182 197	Virgin Galactic
+T3	Organization 280 293	Virgin Mobile
+T4	Organization 322 336	Virgin Oceanic
+T5	Organization 493 506	Virgin Trains
+N1	Reference T1 wiki:250912	Virgin Group
+N2	Reference T2 wiki:2160159	Virgin Galactic
+N3	Reference T3 wiki:373545	Virgin Mobile
+N4	Reference T4 wiki:3902307	Virgin Oceanic
+N5	Reference T5 wiki:4010063	Virgin Trains
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T4 Subsidiary
+A8	TypeRel T5 Subsidiary

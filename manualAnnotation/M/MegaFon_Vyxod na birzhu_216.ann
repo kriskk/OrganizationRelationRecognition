@@ -1,0 +1,9 @@
+T1	Organization 0 7	МегаФон
+T2	Organization 363 370	Скартел
+T3	Organization 733 746	Ростехнологии
+N1	Reference T1 wiki:70933	МегаФон
+N2	Reference T2 wiki:1460064	Скартел
+N3	Reference T3 wiki:915063	Ростехнологии
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Holder

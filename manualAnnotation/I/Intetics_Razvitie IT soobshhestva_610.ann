@@ -1,0 +1,6 @@
+T1	Organization 0 8	Intetics
+T2	Organization 235 244	Microsoft
+N1	Reference T1 wiki:4472658	Intetics
+N2	Reference T2 wiki:11987	Microsoft
+A1	IsLink T2
+A2	TypeRel T2 Holder

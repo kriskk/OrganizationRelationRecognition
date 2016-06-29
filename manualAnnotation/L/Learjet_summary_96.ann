@@ -1,0 +1,6 @@
+T1	Organization 0 7	Learjet
+T2	Organization 198 218	Bombardier Aerospace
+N1	Reference T1 wiki:3037193	Learjet
+N2	Reference T2 wiki:168782	Bombardier Aerospace
+A1	IsLink T2
+A2	TypeRel T2 Holder

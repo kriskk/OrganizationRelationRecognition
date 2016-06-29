@@ -1,0 +1,9 @@
+T1	Organization 0 9	IBS Group
+T2	Organization 224 230	Luxoft
+T3	Organization 299 311	IBS DataFort
+N1	Reference T1 wiki:345272	IBS Group
+N2	Reference T2 wiki:176126	Luxoft
+N3	Reference T3 wiki:2560237	IBS DataFort
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

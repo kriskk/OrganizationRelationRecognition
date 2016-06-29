@@ -1,0 +1,10 @@
+T1	Organization 0 34	РАО Энергетические системы Востока
+T2	Organization 99 113	РАО ЭС Востока
+T3	Organization 285 295	ЕЭС России
+N1	Reference T1 wiki:2671340	РАО Энергетические системы Востока
+N2	Reference T2 wiki:2671340	РАО ЭС Востока
+N3	Reference T3 wiki:1432138	ЕЭС России (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+A4	TypeRel T3 Holder

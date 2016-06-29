@@ -1,0 +1,5 @@
+T1	Organization 0 6	Toyota
+T2	Organization 238 252	General Motors
+N1	Reference T1 wiki:42689	Toyota
+N2	Reference T2 wiki:17438	General Motors
+A1	IsLink T2

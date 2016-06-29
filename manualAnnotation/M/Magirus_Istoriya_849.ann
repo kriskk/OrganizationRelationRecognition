@@ -1,0 +1,16 @@
+T1	Organization 0 7	Magirus
+T2	Organization 177 184	Maybach
+T3	Organization 401 409	Deutz AG
+T4	Organization 681 685	Фиат
+T5	Organization 696 701	Iveco
+N1	Reference T1 wiki:897451	Magirus
+N2	Reference T2 wiki:40392	Maybach
+N3	Reference T3 wiki:3459570	Deutz AG
+N4	Reference T4 wiki:91784	Фиат
+N5	Reference T5 wiki:272617	Iveco
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Subsidiary

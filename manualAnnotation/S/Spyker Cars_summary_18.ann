@@ -1,0 +1,8 @@
+T1	Organization 0 11	Spyker Cars
+T2	Organization 208 226	Saab Automobile AB
+T3	Organization 253 267	General Motors
+N1	Reference T1 wiki:1569539	Spyker Cars
+N2	Reference T2 wiki:301314	Saab Automobile AB
+N3	Reference T3 wiki:17438	General Motors
+A1	IsLink T2
+A2	IsLink T3

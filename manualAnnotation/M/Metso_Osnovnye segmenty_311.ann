@@ -1,0 +1,6 @@
+T1	Organization 0 5	Metso
+T2	Organization 383 406	Русской медной компании
+N1	Reference T1 wiki:3539984	Metso
+N2	Reference T2 wiki:359916	Русская медная компания
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

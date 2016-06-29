@@ -1,0 +1,9 @@
+T1	Organization 0 10	Kobe Steel
+T2	Organization 185 215	Kobelco Construction Machinery
+T3	Organization 392 416	Nippon Steel Corporation
+N1	Reference T1 wiki:1884056	Kobe Steel
+N2	Reference T2 wiki:3750854	Kobelco Construction Machinery
+N3	Reference T3 wiki:1686542	Nippon Steel
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Cooperator

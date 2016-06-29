@@ -1,0 +1,6 @@
+T1	Organization 0 7	Nivarox
+T2	Organization 187 208	The Swatch Group Ltd.
+N1	Reference T1 wiki:1071276	Nivarox
+N2	Reference T2 wiki:214233	Swatch Group
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Richemont
+T2	Organization 98 120	Polo Ralph Lauren Inc.
+N1	Reference T1 wiki:3206803	Richemont
+N2	Reference T2 wiki:654378	Polo Ralph Lauren
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,11 @@
+T1	Organization 0 17	Севкабель-Холдинг
+T2	Organization 100 109	Севкабель
+T3	Organization 133 148	ОАО «Севкабель»
+T4	Organization 418 445	ОАО «Завод „Сарансккабель“»
+N1	Reference T1 wiki:1275890	Севкабель-Холдинг
+N2	Reference T2 wiki:1006336	Севкабель
+N3	Reference T3 wiki:1006336	Севкабель
+N4	Reference T4 wiki:1275980	Сарансккабель
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

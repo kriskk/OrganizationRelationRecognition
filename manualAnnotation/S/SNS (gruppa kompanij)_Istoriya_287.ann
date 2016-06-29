@@ -1,0 +1,13 @@
+T1	Organization 0 21	СНС (группа компаний)
+T2	Organization 224 239	ОАО «ВымпелКом»
+T3	Organization 457 465	Red Bull
+T4	Organization 758 773	ОАО «ВымпелКом»
+N1	Reference T1 wiki:4189284	СНС (группа компаний)
+N2	Reference T2 wiki:70736	Вымпел-Коммуникации
+N3	Reference T3 wiki:640643	Red Bull GmbH
+N4	Reference T4 wiki:70736	Вымпел-Коммуникации
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Cooperator
+A5	TypeRel T2 Cooperator

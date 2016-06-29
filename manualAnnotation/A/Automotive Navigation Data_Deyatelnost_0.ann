@@ -1,0 +1,5 @@
+T1	Organization 0 26	Automotive Navigation Data
+T2	Organization 149 155	Navteq
+N1	Reference T1 wiki:2596933	Automotive Navigation Data
+N2	Reference T2 wiki:177344	Navteq
+A1	IsLink T2

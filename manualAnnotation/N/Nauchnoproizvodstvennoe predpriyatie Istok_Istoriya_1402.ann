@@ -1,0 +1,14 @@
+T1	Organization 0 43	Научно-производственное предприятие «Исток»
+T2	Organization 296 309	Исток-Система
+T3	Organization 501 514	Ростехнологии
+T4	Organization 570 592	Российская электроника
+N1	Reference T1 wiki:2747216	Научно-производственное предприятие «Исток»
+N2	Reference T2 wiki:1756753	Исток-Система
+N3	Reference T3 wiki:915063	Ростехнологии
+N4	Reference T4 wiki:1037436	Российская электроника
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Subsidiary
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder

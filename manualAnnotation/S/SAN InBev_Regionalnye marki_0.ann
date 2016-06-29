@@ -1,0 +1,10 @@
+T1	Organization 0 9	САН ИнБев
+T2	Organization 181 184	«Т»
+T3	Organization 198 212	«Черниговское»
+N1	Reference T1 wiki:460147	САН ИнБев
+N2	Reference T2 wiki:202130	Тинькофф
+N3	Reference T3 wiki:2313101	Черниговское (пиво)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

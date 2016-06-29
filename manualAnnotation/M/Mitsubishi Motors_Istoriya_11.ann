@@ -1,0 +1,5 @@
+T1	Organization 0 17	Mitsubishi Motors
+T2	Organization 223 250	Mitsubishi Heavy Industries
+N1	Reference T1 wiki:423257	Mitsubishi Motors
+N2	Reference T2 wiki:1877595	Mitsubishi Heavy Industries
+A1	TypeRel T2 Holder

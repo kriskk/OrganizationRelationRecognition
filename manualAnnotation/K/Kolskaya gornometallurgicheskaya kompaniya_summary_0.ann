@@ -1,0 +1,6 @@
+T1	Organization 0 40	Кольская горно-металлургическая компания
+T2	Organization 123 150	ОАО ГМК «Норильский Никель»
+N1	Reference T1 wiki:2634782	Кольская горно-металлургическая компания
+N2	Reference T2 wiki:73395	Норильский никель
+A1	IsLink T2
+A2	TypeRel T2 Holder

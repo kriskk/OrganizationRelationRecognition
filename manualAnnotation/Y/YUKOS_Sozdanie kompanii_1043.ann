@@ -1,0 +1,6 @@
+T1	Organization 0 4	ЮКОС
+T2	Organization 316 336	Самаранефтехимпроект
+N1	Reference T1 wiki:6032	ЮКОС
+N2	Reference T2 wiki:970174	Самаранефтехимпроект
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

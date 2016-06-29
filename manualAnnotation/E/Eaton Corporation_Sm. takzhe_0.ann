@@ -1,0 +1,17 @@
+T1	Organization 0 17	Eaton Corporation
+T2	Organization 50 52	ZF
+T3	Organization 55 63	Rockwell
+T4	Organization 66 73	Cummins
+T5	Organization 92 97	Bosch
+T6	Organization 100 106	PACCAR
+N1	Reference T1 wiki:1039999	Eaton Corporation
+N2	Reference T2 wiki:154998	ZF Friedrichshafen AG
+N3	Reference T3 wiki:743730	Rockwell
+N4	Reference T4 wiki:2407448	Cummins
+N5	Reference T5 wiki:166006	Bosch
+N6	Reference T6 wiki:1704447	PACCAR
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6

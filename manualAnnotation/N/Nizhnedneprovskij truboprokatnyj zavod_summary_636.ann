@@ -1,0 +1,5 @@
+T1	Organization 0 37	Нижнеднепровский трубопрокатный завод
+T2	Organization 251 260	Интерпайп
+N1	Reference T1 wiki:2656189	Нижнеднепровский трубопрокатный завод
+N2	Reference T2 wiki:652297	Интерпайп
+A1	TypeRel T2 Holder

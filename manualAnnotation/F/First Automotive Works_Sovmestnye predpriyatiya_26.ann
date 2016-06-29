@@ -1,0 +1,14 @@
+T1	Organization 0 22	First Automotive Works
+T2	Organization 262 268	Toyota
+T3	Organization 270 274	Ford
+T4	Organization 277 282	Mazda
+T5	Organization 347 349	GM
+N1	Reference T1 wiki:376864	First Automotive Works
+N2	Reference T2 wiki:42689	Toyota
+N3	Reference T3 wiki:153236	Ford
+N4	Reference T4 wiki:182354	Mazda
+N5	Reference T5 wiki:17438	General Motors
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

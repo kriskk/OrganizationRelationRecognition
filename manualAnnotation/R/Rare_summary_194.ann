@@ -1,0 +1,18 @@
+T1	Organization 0 4	Rare
+T2	Organization 178 200	Ultimate Play The Game
+T3	Organization 284 292	Nintendo
+T4	Organization 325 334	Microsoft
+T5	Organization 515 524	Microsoft
+N1	Reference T1 wiki:124471	Rare
+N2	Reference T2 wiki:3536950	Ultimate Play The Game
+N3	Reference T3 wiki:202486	Nintendo
+N4	Reference T4 wiki:11987	Microsoft
+N5	Reference T5 wiki:11987	Microsoft
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Holder
+A8	TypeRel T5 Holder

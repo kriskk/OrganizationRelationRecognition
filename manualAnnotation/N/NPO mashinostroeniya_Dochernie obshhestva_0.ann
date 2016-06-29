@@ -1,0 +1,10 @@
+T1	Organization 0 18	НПО машиностроения
+T2	Organization 149 166	„Машиностроитель“
+T3	Organization 246 254	Авангард
+N1	Reference T1 wiki:347931	НПО машиностроения
+N2	Reference T2 wiki:1591901	Машиностроитель (завод)
+N3	Reference T3 wiki:3946864	Авангард (завод)
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary

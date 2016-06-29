@@ -1,0 +1,8 @@
+T1	Organization 0 21	Radical Entertainment
+T2	Organization 53 66	Vivendi Games
+T3	Organization 68 88	Sierra Entertainment
+N1	Reference T1 wiki:2061618	Radical Entertainment
+N2	Reference T2 wiki:954541	Vivendi Games
+N3	Reference T3 wiki:1561521	Sierra Entertainment
+A1	IsLink T2
+A2	IsLink T3

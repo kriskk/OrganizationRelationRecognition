@@ -1,0 +1,5 @@
+T1	Organization 0 8	Deutz AG
+T2	Organization 188 210	Горьковском автозаводе
+N1	Reference T1 wiki:3459570	Deutz AG
+N2	Reference T2 wiki:25060	Горьковский автозавод
+A1	IsLink T2

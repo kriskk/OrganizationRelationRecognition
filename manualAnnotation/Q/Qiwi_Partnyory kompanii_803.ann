@@ -1,0 +1,6 @@
+T1	Organization 0 4	Qiwi
+T2	Organization 247 251	Visa
+N1	Reference T1 wiki:2398238	Qiwi
+N2	Reference T2 wiki:36386	Visa
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

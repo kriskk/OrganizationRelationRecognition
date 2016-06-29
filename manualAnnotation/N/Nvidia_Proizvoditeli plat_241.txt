@@ -1,0 +1,44 @@
+Nvidia
+@Производители плат
+5408,241
+
+ Исключение составляет серия профессиональных графических карт Quadro, которая должна полностью соответствовать спецификации NVIDIA.
+
+Партнёры NVIDIA GeForce:
+ 	  
+ 	  
+ AOpen
+	 ASUSTeK
+	 BFG / 3D Fuzion
+	 Biostar
+	 Chaintech
+	 Creative Technology
+	 EVGA
+
+ 	  
+ KFA2
+	 Gainward
+	 Gigabyte
+	 Inno3D
+	 Jetway
+	 Leadtek
+	 Manli
+	 MSI
+
+ 	  
+ OCZ
+	 Palit
+	 PC Partner
+	 POV
+	 PNY Technologies
+	 XFX
+	 Zotac
+
+ 	  
+
+Партнеры NVIDIA Quadro (рынок профессиональной графики поделен между тремя компаниями):
+ PNY Technologies — отвечает за рынок в США, ЕМЕА, включая Россию и СНГ.
+	 Elsa — отвечает за рынок в Японии.
+	 Leadtek — отвечает за рынок в Азии.
+
+

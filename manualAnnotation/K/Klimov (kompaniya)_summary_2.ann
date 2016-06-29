@@ -1,0 +1,13 @@
+T1	Organization 0 17	Климов (компания)
+T2	Organization 258 263	Камов
+T3	Organization 333 378	Объединённой двигателестроительной корпорации
+T4	Organization 435 445	Оборонпром
+N1	Reference T1 wiki:1147926	Климов (компания)
+N2	Reference T2 wiki:640381	Камов (ОАО)
+N3	Reference T3 wiki:2353507	Объединённая двигателестроительная корпорация
+N4	Reference T4 wiki:757437	Оборонпром
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Holder
+R1	Holder Arg1:T4 Arg2:T3	

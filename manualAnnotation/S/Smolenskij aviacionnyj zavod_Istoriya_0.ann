@@ -1,0 +1,5 @@
+T1	Organization 0 28	Смоленский авиационный завод
+T2	Organization 173 183	завода № 1
+N1	Reference T1 wiki:345298	Смоленский авиационный завод
+N2	Reference T2 wiki:758343	ЦСКБ-Прогресс
+A1	IsLink T2

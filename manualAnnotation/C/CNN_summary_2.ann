@@ -1,0 +1,5 @@
+T1	Organization 0 3	CNN
+T2	Organization 249 260	Time Warner
+N1	Reference T1 wiki:256238	CNN
+N2	Reference T2 wiki:741342	Time Warner
+A1	IsLink T2

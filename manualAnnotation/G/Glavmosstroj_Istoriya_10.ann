@@ -1,0 +1,5 @@
+T1	Organization 0 12	Главмосстрой
+T2	Organization 369 378	Главстрой
+N1	Reference T1 wiki:164189	Главмосстрой
+N2	Reference T2 wiki:655957	Главстрой
+A1	TypeRel T2 Holder

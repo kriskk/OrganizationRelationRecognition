@@ -1,0 +1,13 @@
+T1	Organization 0 15	PAM Development
+T2	Organization 200 220	Take-Two Interactive
+T3	Organization 296 304	2K Games
+T4	Organization 419 430	Venom Games
+N1	Reference T1 wiki:2839350	PAM Development
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+N3	Reference T3 wiki:2386194	2K Games
+N4	Reference T4 wiki:2842601	Venom Games
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Cooperator

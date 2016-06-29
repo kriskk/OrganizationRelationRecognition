@@ -1,0 +1,6 @@
+T1	Organization 0 9	ВяткаТорф
+T2	Organization 172 213	Территориальная генерирующая компания № 5
+N1	Reference T1 wiki:2343996	ВяткаТорф
+N2	Reference T2 wiki:667355	Территориальная генерирующая компания № 5
+A1	IsLink T2
+A2	TypeRel T2 Holder

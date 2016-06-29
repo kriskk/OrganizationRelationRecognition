@@ -1,0 +1,5 @@
+T1	Organization 0 17	Avalanche Studios
+T2	Organization 55 73	Avalanche Software
+N1	Reference T1 wiki:2718496	Avalanche Studios
+N2	Reference T2 wiki:2719931	Avalanche Software
+A1	IsLink T2

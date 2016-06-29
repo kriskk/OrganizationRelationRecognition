@@ -1,0 +1,33 @@
+T1	Organization 0 18	КРОК инкорпорейтед
+T2	Organization 229 232	IBM
+T3	Organization 234 236	HP
+T4	Organization 238 241	EMC
+T5	Organization 243 247	Dell
+T6	Organization 249 262	Cisco Systems
+T7	Organization 264 269	Avaya
+T8	Organization 271 280	Microsoft
+T9	Organization 282 288	Oracle
+N1	Reference T1 wiki:1739391	КРОК инкорпорейтед
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:89988	Hewlett-Packard
+N4	Reference T4 wiki:541503	EMC
+N5	Reference T5 wiki:124570	Dell
+N6	Reference T6 wiki:25014	Cisco Systems
+N7	Reference T7 wiki:685464	Avaya
+N8	Reference T8 wiki:11987	Microsoft
+N9	Reference T9 wiki:129227	Oracle Corporation
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator
+A15	TypeRel T9 Cooperator

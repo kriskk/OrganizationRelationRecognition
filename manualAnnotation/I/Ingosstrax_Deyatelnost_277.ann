@@ -1,0 +1,10 @@
+T1	Organization 0 10	Ингосстрах
+T2	Organization 187 204	Standard & Poor's
+T3	Organization 243 253	Эксперт РА
+N1	Reference T1 wiki:139838	Ингосстрах
+N2	Reference T2 wiki:198286	Standard & Poor's
+N3	Reference T3 wiki:363296	Эксперт РА
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T3 Other
+A4	TypeRel T2 Other

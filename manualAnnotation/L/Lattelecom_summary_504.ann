@@ -1,0 +1,5 @@
+T1	Organization 0 10	Lattelecom
+T2	Organization 408 422	TeliaSonera AB
+N1	Reference T1 wiki:2226886	Lattelecom
+N2	Reference T2 wiki:177779	TeliaSonera AB
+A1	TypeRel T2 Holder

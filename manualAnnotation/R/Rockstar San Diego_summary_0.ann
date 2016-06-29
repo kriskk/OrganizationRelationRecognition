@@ -1,0 +1,13 @@
+T1	Organization 0 18	Rockstar San Diego
+T2	Organization 149 163	Rockstar Games
+T3	Organization 466 480	Rockstar Games
+T4	Organization 625 645	Take-Two Interactive
+N1	Reference T1 wiki:2327583	Rockstar San Diego
+N2	Reference T2 wiki:650156	Rockstar Games
+N3	Reference T3 wiki:650156	Rockstar Games
+N4	Reference T4 wiki:2783863	Take-Two Interactive
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder

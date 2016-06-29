@@ -1,0 +1,9 @@
+T1	Organization 0 8	Unilever
+T2	Organization 207 214	Инмарко
+T3	Organization 428 437	«Инмарко»
+N1	Reference T1 wiki:198503	Unilever
+N2	Reference T2 wiki:1635286	Инмарко
+N3	Reference T3 wiki:1635286	Инмарко
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Subsidiary

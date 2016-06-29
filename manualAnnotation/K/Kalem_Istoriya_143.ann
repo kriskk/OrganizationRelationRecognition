@@ -1,0 +1,29 @@
+T1	Organization 0 5	Kalem
+T2	Organization 197 205	Байограф
+T3	Organization 252 260	Байограф
+T4	Organization 335 341	Эдисон
+T5	Organization 345 354	Вайтограф
+T6	Organization 367 374	Эссеней
+T7	Organization 387 395	Байограф
+T8	Organization 424 428	Пате
+T9	Organization 454 475	Компанию кинопатентов
+N1	Reference T1 wiki:1113844	Kalem
+N2	Reference T2 wiki:983345	Байограф
+N3	Reference T3 wiki:983345	Байограф
+N4	Reference T4 wiki:1024926	Эдисон (киностудия)
+N5	Reference T5 wiki:1016619	Вайтограф
+N6	Reference T6 wiki:1279328	Essanay Studios
+N7	Reference T7 wiki:983345	Байограф
+N8	Reference T8 wiki:1000945	Pathé
+N9	Reference T9 wiki:1016531	Компания кинопатентов
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Personnel
+A10	TypeRel T3 Personnel
+A11	TypeRel T9 Holder

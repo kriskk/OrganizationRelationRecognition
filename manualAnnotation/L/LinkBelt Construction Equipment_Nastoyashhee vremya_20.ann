@@ -1,0 +1,6 @@
+T1	Organization 0 32	Link-Belt Construction Equipment
+T2	Organization 293 298	Isuzu
+N1	Reference T1 wiki:3673812	Link-Belt Construction Equipment
+N2	Reference T2 wiki:177809	Isuzu
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

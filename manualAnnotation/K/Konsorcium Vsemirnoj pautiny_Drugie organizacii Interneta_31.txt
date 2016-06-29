@@ -1,0 +1,14 @@
+Консорциум Всемирной паутины
+@Другие организации Интернета
+9684,31
+
+ Internet Society (ISOC)
+	 The Internet Engineering Task Force (IETF)
+	 International Organization for Standardization (ISO)
+	 Web Standards Group, '''WSG'''
+	 Web Standards Project
+	 Unicode Organization
+	 The Semantic Web Community Portal
+
+
+::: ''Полный список организаций, сотрудничающих с W3C''

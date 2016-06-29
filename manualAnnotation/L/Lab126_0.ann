@@ -1,0 +1,5 @@
+T1	Organization 0 6	Lab126
+T2	Organization 93 103	Amazon.com
+N1	Reference T1 wiki:4103157	Lab126
+N2	Reference T2 wiki:103623	Amazon.com
+A1	TypeRel T2 Subsidiary

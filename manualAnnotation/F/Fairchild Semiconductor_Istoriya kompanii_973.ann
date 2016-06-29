@@ -1,0 +1,8 @@
+T1	Organization 0 23	Fairchild Semiconductor
+T2	Organization 275 278	IBM
+T3	Organization 475 492	Texas Instruments
+N1	Reference T1 wiki:1074226	Fairchild Semiconductor
+N2	Reference T2 wiki:11078	IBM
+N3	Reference T3 wiki:429235	Texas Instruments
+A1	IsLink T2
+A2	IsLink T3

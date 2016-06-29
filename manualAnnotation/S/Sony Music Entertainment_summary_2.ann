@@ -1,0 +1,5 @@
+T1	Organization 0 24	Sony Music Entertainment
+T2	Organization 192 196	Sony
+N1	Reference T1 wiki:2770369	Sony Music Entertainment
+N2	Reference T2 wiki:73019	Sony
+A1	IsLink T2

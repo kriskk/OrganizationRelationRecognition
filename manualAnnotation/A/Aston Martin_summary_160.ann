@@ -1,0 +1,8 @@
+T1	Organization 0 12	Aston Martin
+T2	Organization 200 224	Premier Automotive Group
+T3	Organization 241 259	Ford Motor Company
+N1	Reference T1 wiki:451029	Aston Martin
+N2	Reference T2 wiki:504342	Premier Automotive Group
+N3	Reference T3 wiki:153236	Ford
+A1	IsLink T2
+A2	IsLink T3

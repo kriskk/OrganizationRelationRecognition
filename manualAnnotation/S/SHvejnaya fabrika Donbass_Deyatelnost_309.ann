@@ -1,0 +1,9 @@
+T1	Organization 0 25	Швейная фабрика «Донбасс»
+T2	Organization 222 230	Benetton
+T3	Organization 244 248	Mexx
+N1	Reference T1 wiki:4094046	Швейная фабрика «Донбасс»
+N2	Reference T2 wiki:2180199	Benetton Group
+N3	Reference T3 wiki:878714	Mexx
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

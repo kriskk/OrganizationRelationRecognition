@@ -1,0 +1,14 @@
+T1	Organization 0 18	Полигон (компания)
+T2	Organization 225 235	Ростелеком
+T3	Organization 243 252	Вымпелком
+T4	Organization 260 286	Российские железные дороги
+N1	Reference T1 wiki:1626172	Полигон (компания)
+N2	Reference T2 wiki:145844	Ростелеком
+N3	Reference T3 wiki:70736	Вымпелком
+N4	Reference T4 wiki:106901	Российские железные дороги
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator

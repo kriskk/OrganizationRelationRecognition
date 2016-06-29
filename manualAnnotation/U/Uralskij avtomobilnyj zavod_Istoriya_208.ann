@@ -1,0 +1,6 @@
+T1	Organization 0 29	Уральский автомобильный завод
+T2	Organization 209 229	завода имени Сталина
+N1	Reference T1 wiki:24935	Уральский автомобильный завод
+N2	Reference T2 wiki:259988	Завод имени Сталина
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

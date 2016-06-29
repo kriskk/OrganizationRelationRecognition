@@ -1,0 +1,6 @@
+T1	Organization 0 6	Медиа3
+T2	Organization 108 122	Экстра М Медиа
+N1	Reference T1 wiki:1453097	Медиа3
+N2	Reference T2 wiki:3448670	Издательский дом "Экстра М Медиа"
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

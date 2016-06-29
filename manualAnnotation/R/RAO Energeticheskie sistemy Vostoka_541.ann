@@ -1,0 +1,22 @@
+T1	Organization 0 34	РАО Энергетические системы Востока
+T2	Organization 226 234	РусГидро
+T3	Organization 275 287	Якутскэнерго
+T4	Organization 295 309	Камчатскэнерго
+T5	Organization 338 351	Сахалинэнерго
+T6	Organization 389 393	КПМГ
+N1	Reference T1 wiki:2671340	РАО Энергетические системы Востока
+N2	Reference T2 wiki:344641	РусГидро
+N3	Reference T3 wiki:4168405	Якутскэнерго
+N4	Reference T4 wiki:4168577	Камчатскэнерго
+N5	Reference T5 wiki:1396664	Сахалинэнерго
+N6	Reference T6 wiki:281743	КПМГ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Holder
+A7	TypeRel T3 Subsidiary
+A8	TypeRel T4 Subsidiary
+A9	TypeRel T5 Subsidiary
+A10	TypeRel T6 Cooperator

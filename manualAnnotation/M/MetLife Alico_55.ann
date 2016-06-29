@@ -1,0 +1,6 @@
+T1	Organization 0 13	MetLife Alico
+T2	Organization 195 202	MetLife
+N1	Reference T1 wiki:3612482	MetLife Alico
+N2	Reference T2 wiki:3612482	MetLife
+A1	IsLink T2
+A2	TypeRel T2 Holder

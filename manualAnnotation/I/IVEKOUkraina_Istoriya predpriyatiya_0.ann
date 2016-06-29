@@ -1,0 +1,9 @@
+T1	Organization 0 13	ИВЕКО-Украина
+T2	Organization 174 179	IVECO
+T3	Organization 256 266	«АвтоКраЗ»
+N1	Reference T1 wiki:3578286	ИВЕКО-Украина
+N2	Reference T2 wiki:272617	IVECO
+N3	Reference T3 wiki:606512	Кременчугский автомобильный завод
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

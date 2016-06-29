@@ -1,0 +1,8 @@
+T1	Organization 0 3	DHL
+T2	Organization 228 241	Deutsche Post
+T3	Organization 639 660	DHL Global Forwarding
+N1	Reference T1 wiki:209951	DHL
+N2	Reference T2 wiki:170102	Deutsche Post AG
+N3	Reference T3 wiki:209951	DHL Global Forwarding
+A1	IsLink T2
+A2	IsLink T3

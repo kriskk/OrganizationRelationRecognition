@@ -1,0 +1,6 @@
+T1	Organization 0 16	Оверсан-Меркурий
+T2	Organization 260 284	студией Артемия Лебедева
+N1	Reference T1 wiki:2509903	Оверсан-Меркурий
+N2	Reference T2 wiki:156470	Студия Лебедева
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

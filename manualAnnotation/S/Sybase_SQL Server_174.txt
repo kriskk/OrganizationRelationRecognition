@@ -1,0 +1,8 @@
+Sybase
+@История
+@SQL Server
+856,10,174
+
+ Архитекторы первых версий Sybase SQL Server — Боб Эпштейн и Том Хаггин ( 	  ), продукт впервые выпущен в 1987 году.
+
+Выпущенный в 1988 году продукт SQL Server 1.0 был создан совместно с Microsoft и  не переведено	 есть: :en:Ashton-Tate надо: Ashton-Tate  для платформы OS/2, на основе кодов Sybase SQL Server для Unix и VAX/VMS. Ashton-Tate после поглощения компанией Borland в 1991 году прекратила сотрудничество, а Sybase и Microsoft совместно выпускали новые версии продукта, реализуя их, соответственно, под именами Sybase SQL Server и Microsoft SQL Server.

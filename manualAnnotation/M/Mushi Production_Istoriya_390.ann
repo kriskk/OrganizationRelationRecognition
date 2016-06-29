@@ -1,0 +1,22 @@
+T1	Organization 0 16	Mushi Production
+T2	Organization 185 192	Sunrise
+T3	Organization 194 202	Madhouse
+T4	Organization 213 218	Shaft
+T5	Organization 346 364	Tezuka Productions
+T6	Organization 437 446	Group TAC
+N1	Reference T1 wiki:2689263	Mushi Production
+N2	Reference T2 wiki:373049	Sunrise (студия)
+N3	Reference T3 wiki:871335	Madhouse
+N4	Reference T4 wiki:2520350	Shaft (компания)
+N5	Reference T5 wiki:2855935	Tezuka Productions
+N6	Reference T6 wiki:2815578	Group TAC
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	TypeRel T2 Personnel
+A7	TypeRel T3 Personnel
+A8	TypeRel T4 Personnel
+A9	TypeRel T5 Personnel
+A10	TypeRel T6 Personnel

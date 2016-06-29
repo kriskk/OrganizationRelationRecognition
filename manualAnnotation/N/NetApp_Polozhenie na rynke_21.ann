@@ -1,0 +1,54 @@
+T1	Organization 0 6	NetApp
+T2	Organization 202 205	EMC
+T3	Organization 348 351	EMC
+T4	Organization 354 357	IBM
+T5	Organization 498 505	Gartner
+T6	Organization 556 564	квадрант
+T7	Organization 603 607	Dell
+T8	Organization 609 616	Hitachi
+T9	Organization 618 634	Sun Microsystems
+T10	Organization 636 651	Hewlett-Packard
+T11	Organization 653 656	IBM
+T12	Organization 658 661	EMC
+T13	Organization 790 793	IBM
+T14	Organization 795 799	DELL
+T15	Organization 801 808	Fujitsu
+N1	Reference T1 wiki:1497705	NetApp
+N2	Reference T2 wiki:541503	EMC
+N3	Reference T3 wiki:541503	EMC
+N4	Reference T4 wiki:11078	IBM
+N5	Reference T5 wiki:2960363	Gartner
+N6	Reference T6 wiki:2960363	Магический квадрант
+N7	Reference T7 wiki:124570	Dell
+N8	Reference T8 wiki:141241	Hitachi
+N9	Reference T9 wiki:4777	Sun Microsystems
+N10	Reference T10 wiki:89988	Hewlett-Packard
+N11	Reference T11 wiki:11078	IBM
+N12	Reference T12 wiki:541503	EMC
+N13	Reference T13 wiki:11078	IBM
+N14	Reference T14 wiki:124570	DELL
+N15	Reference T15 wiki:571996	Fujitsu
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A13	IsLink T14
+A14	IsLink T15
+A15	TypeRel T2 Competitor
+A16	TypeRel T3 Competitor
+A17	TypeRel T4 Competitor
+A18	TypeRel T5 Other
+A19	TypeRel T7 Competitor
+A20	TypeRel T8 Competitor
+A21	TypeRel T9 Competitor
+A22	TypeRel T10 Competitor
+A23	TypeRel T11 Competitor
+A24	TypeRel T12 Competitor

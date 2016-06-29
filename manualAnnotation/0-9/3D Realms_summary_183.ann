@@ -1,0 +1,8 @@
+T1	Organization 0 9	3D Realms
+T2	Organization 268 279	Id Software
+T3	Organization 445 451	Apogee
+N1	Reference T1 wiki:2349412	3D Realms
+N2	Reference T2 wiki:80386	Id Software
+N3	Reference T3 wiki:2349412	Apogee
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,17 @@
+T1	Organization 0 8	Olivetti
+T2	Organization 138 143	Zilog
+T3	Organization 261 266	Intel
+T4	Organization 443 462	Acorn Computers Ltd
+T5	Organization 496 506	Thomson SA
+N1	Reference T1 wiki:1770739	Olivetti
+N2	Reference T2 wiki:1249324	Zilog
+N3	Reference T3 wiki:762172	Intel
+N4	Reference T4 wiki:219806	Acorn Computers Ltd
+N5	Reference T5 wiki:601175	Thomson-CSF
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Cooperator
+A6	TypeRel T3 Cooperator
+A7	TypeRel T4 Subsidiary

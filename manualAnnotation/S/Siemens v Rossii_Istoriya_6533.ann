@@ -1,0 +1,8 @@
+T1	Organization 0 16	Siemens в России
+T2	Organization 398 406	Интеррос
+T3	Organization 578 591	Группы Синара
+N1	Reference T1 wiki:507125	Siemens в России
+N2	Reference T2 wiki:147366	Интеррос
+N3	Reference T3 wiki:2398160	Группа Синара
+A1	IsLink T2
+A2	IsLink T3

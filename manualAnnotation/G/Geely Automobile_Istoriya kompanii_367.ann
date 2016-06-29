@@ -1,0 +1,10 @@
+T1	Organization 0 16	Geely Automobile
+T2	Organization 216 220	Ford
+T3	Organization 248 258	Volvo Cars
+N1	Reference T1 wiki:380153	Geely Automobile
+N2	Reference T2 wiki:153236	Ford
+N3	Reference T3 wiki:1921582	Volvo Cars
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Subsidiary

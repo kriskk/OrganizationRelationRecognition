@@ -1,0 +1,5 @@
+T1	Organization 0 7	КриоРус
+T2	Organization 72 103	Alcor Life Extension Foundation
+N1	Reference T1 wiki:295876	КриоРус
+N2	Reference T2 wiki:3479267	Alcor Life Extension Foundation
+A1	IsLink T2

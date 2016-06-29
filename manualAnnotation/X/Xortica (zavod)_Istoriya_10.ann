@@ -1,0 +1,5 @@
+T1	Organization 0 15	Хортица (завод)
+T2	Organization 196 206	PeopleSoft
+N1	Reference T1 wiki:600936	Хортица (завод)
+N2	Reference T2 wiki:2977933	PeopleSoft
+A1	TypeRel T2 Cooperator

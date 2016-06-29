@@ -1,0 +1,5 @@
+T1	Organization 0 18	Kuju Entertainment
+T2	Organization 201 218	Bizarre Creations
+N1	Reference T1 wiki:4158136	Kuju Entertainment
+N2	Reference T2 wiki:2699764	Bizarre Creations
+A1	TypeRel T2 Cooperator

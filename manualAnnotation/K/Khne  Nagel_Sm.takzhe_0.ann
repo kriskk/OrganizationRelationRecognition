@@ -1,0 +1,10 @@
+T1	Organization 0 13	Kühne + Nagel
+T2	Organization 220 236	 Solutions
+::en:
+T3	Organization 204 230	UPS Supply Chain Solutions
+N1	Reference T1 wiki:3686941	Kühne + Nagel
+N3	Reference T3 wiki:1122885	United Parcel Service
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+N2	Reference T2 wiki:3686941	Kühne & Nagel AG

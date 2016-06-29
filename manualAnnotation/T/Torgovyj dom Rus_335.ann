@@ -1,0 +1,5 @@
+T1	Organization 0 19	Торговый дом «Русь»
+T2	Organization 179 193	Межрабпом-Русь
+N1	Reference T1 wiki:1899430	Торговый дом «Русь»
+N2	Reference T2 wiki:265162	Межрабпом-Русь
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 47	Харьковское конструкторское бюро машиностроения
+T2	Organization 373 377	ХЗТМ
+N1	Reference T1 wiki:891757	Харьковское конструкторское бюро машиностроения
+N2	Reference T2 wiki:382782	ХЗТМ
+A1	IsLink T2

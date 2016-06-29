@@ -1,0 +1,6 @@
+T1	Organization 0 13	Веста (завод)
+T2	Organization 175 186	Candy Group
+N1	Reference T1 wiki:2167712	Веста (завод)
+N2	Reference T2 wiki:2052345	Candy
+A1	IsLink T2
+A2	TypeRel T2 Holder

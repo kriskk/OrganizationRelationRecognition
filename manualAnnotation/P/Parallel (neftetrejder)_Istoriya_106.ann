@@ -1,0 +1,6 @@
+T1	Organization 0 24	Параллель (нефтетрейдер)
+T2	Organization 223 236	Мажейкю Нафта
+N1	Reference T1 wiki:2009898	Параллель (нефтетрейдер)
+N2	Reference T2 wiki:176035	Мажейкю Нафта
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

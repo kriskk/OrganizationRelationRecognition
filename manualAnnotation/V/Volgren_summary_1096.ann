@@ -1,0 +1,6 @@
+T1	Organization 0 7	Volgren
+T2	Organization 221 225	Hino
+N1	Reference T1 wiki:335808	Volgren
+N2	Reference T2 wiki:266538	Hino Motors
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,14 @@
+T1	Organization 0 6	Ростех
+T2	Organization 298 308	Оборонпром
+T3	Organization 515 533	«Вертолеты России»
+T4	Organization 540 592	«УК „Объединенная двигателестроительная корпорация“»
+T5	Organization 600 622	Оборонительные системы
+N1	Reference T1 wiki:915063	Ростех
+N2	Reference T2 wiki:757437	Оборонпром
+N3	Reference T3 wiki:899228	Вертолеты России
+N4	Reference T4 wiki:2353507	Объединённая двигателестроительная корпорация
+N5	Reference T5 wiki:2848714	Оборонительные системы
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

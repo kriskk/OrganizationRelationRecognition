@@ -1,0 +1,5 @@
+T1	Organization 0 5	Hafei
+T2	Organization 158 169	Pininfarina
+N1	Reference T1 wiki:3747283	Hafei
+N2	Reference T2 wiki:1574788	Pininfarina
+A1	TypeRel T2 Cooperator

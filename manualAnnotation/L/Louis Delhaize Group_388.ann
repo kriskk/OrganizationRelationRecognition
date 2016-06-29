@@ -1,0 +1,6 @@
+T1	Organization 0 20	Louis Delhaize Group
+T2	Organization 181 185	Cora
+N1	Reference T1 wiki:2244400	Louis Delhaize Group
+N2	Reference T2 wiki:2241966	Cora
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

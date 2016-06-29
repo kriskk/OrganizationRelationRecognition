@@ -1,0 +1,6 @@
+T1	Organization 0 11	ГалоПолимер
+T2	Organization 177 202	ГалоПолимер Кирово-Чепецк
+N1	Reference T1 wiki:3189454	ГалоПолимер
+N2	Reference T2 wiki:3189750	ГалоПолимер Кирово-Чепецк
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

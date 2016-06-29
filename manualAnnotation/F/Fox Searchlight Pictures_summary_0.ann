@@ -1,0 +1,5 @@
+T1	Organization 0 24	Fox Searchlight Pictures
+T2	Organization 178 194	20th Century Fox
+N1	Reference T1 wiki:1692150	Fox Searchlight Pictures
+N2	Reference T2 wiki:272376	20th Century Fox
+A1	IsLink T2

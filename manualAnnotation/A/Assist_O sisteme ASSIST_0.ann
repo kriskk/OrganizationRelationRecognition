@@ -1,0 +1,23 @@
+T1	Organization 0 6	Assist
+T2	Organization 90 94	VISA
+T3	Organization 111 121	MasterCard
+T4	Organization 132 148	American Express
+T5	Organization 160 163	JCB
+T6	Organization 165 176	Diners Club
+T7	Organization 274 278	QIWI
+T8	Organization 302 309	МегаФон
+N1	Reference T1 wiki:4437929	Assist
+N2	Reference T2 wiki:36386	VISA
+N3	Reference T3 wiki:36409	MasterCard
+N4	Reference T4 wiki:365626	American Express
+N5	Reference T5 wiki:2389831	JCB
+N6	Reference T6 wiki:3339710	Diners Club
+N7	Reference T7 wiki:2398238	QIWI
+N8	Reference T8 wiki:70933	МегаФон
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8

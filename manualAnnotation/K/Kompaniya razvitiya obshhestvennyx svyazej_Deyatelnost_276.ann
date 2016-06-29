@@ -1,0 +1,37 @@
+T1	Organization 0 37	Компания развития общественных связей
+T2	Organization 676 683	Газпром
+T3	Organization 702 719	Норильский никель
+T4	Organization 726 731	Сибур
+T5	Organization 734 743	Microsoft
+T6	Organization 745 756	Nestle Food
+T7	Organization 758 767	Sun Inbew
+T8	Organization 769 787	Toyota Motor Corp.
+T9	Organization 789 803	Wimm-Bill-Dann
+T10	Organization 805 814	Carrefour
+N1	Reference T1 wiki:3535625	Компания развития общественных связей
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:73395	Норильский никель
+N4	Reference T4 wiki:144869	Сибур
+N5	Reference T5 wiki:11987	Microsoft
+N6	Reference T6 wiki:121355	Nestlé
+N7	Reference T7 wiki:460147	САН ИнБев
+N8	Reference T8 wiki:42689	Toyota
+N9	Reference T9 wiki:160926	Wimm-Bill-Dann
+N10	Reference T10 wiki:165454	Carrefour
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A1	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Cooperator
+A16	TypeRel T9 Cooperator
+A17	TypeRel T10 Cooperator

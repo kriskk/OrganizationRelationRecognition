@@ -1,0 +1,5 @@
+T1	Organization 0 14	Дельта Телеком
+T2	Organization 232 244	Петер-Сервис
+N1	Reference T1 wiki:1685534	Дельта Телеком
+N2	Reference T2 wiki:1870153	Петер-Сервис
+A1	IsLink T2

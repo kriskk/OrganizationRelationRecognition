@@ -1,0 +1,6 @@
+T1	Organization 0 6	Zenith
+T2	Organization 105 109	LVMH
+N1	Reference T1 wiki:2786142	Zenith
+N2	Reference T2 wiki:381313	LVMH
+A1	IsLink T2
+A2	TypeRel T2 Holder

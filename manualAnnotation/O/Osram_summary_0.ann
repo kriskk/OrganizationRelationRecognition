@@ -1,0 +1,6 @@
+T1	Organization 0 5	Osram
+T2	Organization 146 156	Siemens AG
+N1	Reference T1 wiki:1059089	Osram
+N2	Reference T2 wiki:36510	Siemens AG
+A1	IsLink T2
+A2	TypeRel T2 Holder

@@ -1,0 +1,10 @@
+T1	Organization 0 25	Harting Technologiegruppe
+T2	Organization 76 81	Molex
+T3	Organization 95 99	WAGO
+N1	Reference T1 wiki:3713804	Harting Technologiegruppe
+N2	Reference T2 wiki:194924	Molex
+N3	Reference T3 wiki:2719911	WAGO
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Alias
+A4	TypeRel T3 Alias

@@ -1,0 +1,6 @@
+T1	Organization 0 25	Восточный порт (компания)
+T2	Organization 267 277	Евраз НМТП
+N1	Reference T1 wiki:120802	Восточный порт (компания)
+N2	Reference T2 wiki:141050	Евраз Находкинский морской торговый порт
+A1	IsLink T2
+A2	TypeRel T2 Competitor

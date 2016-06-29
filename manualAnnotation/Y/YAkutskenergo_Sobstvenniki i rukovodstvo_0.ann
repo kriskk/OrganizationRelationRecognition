@@ -1,0 +1,10 @@
+T1	Organization 0 12	Якутскэнерго
+T2	Organization 112 126	РАО ЭС Востока
+T3	Organization 143 151	РусГидро
+N1	Reference T1 wiki:4168405	Якутскэнерго
+N2	Reference T2 wiki:2671340	РАО ЭС Востока
+N3	Reference T3 wiki:344641	РусГидро
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

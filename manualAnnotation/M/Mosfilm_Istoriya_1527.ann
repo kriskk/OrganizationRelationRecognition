@@ -1,0 +1,5 @@
+T1	Organization 0 8	Мосфильм
+T2	Organization 178 185	YouTube
+N1	Reference T1 wiki:25605	Мосфильм
+N2	Reference T2 wiki:275424	YouTube
+A1	IsLink T2

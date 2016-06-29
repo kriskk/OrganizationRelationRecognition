@@ -1,0 +1,5 @@
+T1	Organization 0 3	ВИD
+T2	Organization 185 191	Класс!
+N1	Reference T1 wiki:691511	ВИD
+N2	Reference T2 wiki:1403933	Класс!
+A1	IsLink T2

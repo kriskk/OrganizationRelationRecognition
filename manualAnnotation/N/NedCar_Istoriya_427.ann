@@ -1,0 +1,9 @@
+T1	Organization 0 6	NedCar
+T2	Organization 294 299	Volvo
+T3	Organization 319 329	Mitsubishi
+N1	Reference T1 wiki:1572227	NedCar
+N2	Reference T2 wiki:387781	Volvo
+N3	Reference T3 wiki:182989	Mitsubishi
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

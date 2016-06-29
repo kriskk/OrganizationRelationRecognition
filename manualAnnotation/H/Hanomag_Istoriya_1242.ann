@@ -1,0 +1,6 @@
+T1	Organization 0 7	Hanomag
+T2	Organization 245 252	Komatsu
+N1	Reference T1 wiki:2104978	Hanomag
+N2	Reference T2 wiki:744230	Komatsu
+A1	IsLink T2
+A2	TypeRel T2 Holder

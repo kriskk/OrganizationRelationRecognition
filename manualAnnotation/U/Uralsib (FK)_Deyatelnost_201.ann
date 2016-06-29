@@ -1,0 +1,13 @@
+T1	Organization 0 12	Уралсиб (ФК)
+T2	Organization 229 251	Торговый Дом „Копейка“
+T3	Organization 332 339	Роснано
+T4	Organization 353 360	ИжМашем
+N1	Reference T1 wiki:237228	Уралсиб (ФК)
+N2	Reference T2 wiki:153659	Копейка (сеть магазинов)
+N3	Reference T3 wiki:728818	Роснано
+N4	Reference T4 wiki:963537	Ижевский машиностроительный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

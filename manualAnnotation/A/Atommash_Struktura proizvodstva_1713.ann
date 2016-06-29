@@ -1,0 +1,11 @@
+T1	Organization 0 7	Атоммаш
+T2	Organization 212 224	ЗиО-Подольск
+T3	Organization 478 497	Красноярский цемент
+T4	Organization 553 599	Союз производителей нефтегазового оборудования
+N1	Reference T1 wiki:864073	Атоммаш
+N2	Reference T2 wiki:864177	ЗиО-Подольск
+N3	Reference T3 wiki:153788	Сибирский цемент
+N4	Reference T4 wiki:1959491	Союз производителей нефтегазового оборудования
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

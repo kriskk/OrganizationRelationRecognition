@@ -1,0 +1,6 @@
+T1	Organization 0 15	PAM Development
+T2	Organization 181 201	Take-Two Interactive
+N1	Reference T1 wiki:2839350	PAM Development
+N2	Reference T2 wiki:2783863	Take-Two Interactive
+A1	IsLink T2
+A2	TypeRel T2 Holder

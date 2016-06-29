@@ -1,0 +1,10 @@
+T1	Organization 0 14	Мирасофт Групп
+T2	Organization 232 237	Levi9
+T3	Organization 264 277	Levi9 Ukraine
+N1	Reference T1 wiki:1733688	Мирасофт Групп
+N2	Reference T2 wiki:2455943	Levi9 Global Sourcing
+N3	Reference T3 wiki:2748016	Levi9 Ukraine
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Merge
+A4	TypeRel T3 Holder

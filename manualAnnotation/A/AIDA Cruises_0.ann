@@ -1,0 +1,10 @@
+T1	Organization 0 12	AIDA Cruises
+T2	Organization 127 139	Carnival plc
+T3	Organization 433 454	Costa Crociere S.p.A.
+N1	Reference T1 wiki:1099280	AIDA Cruises
+N2	Reference T2 wiki:1099139	Carnival plc
+N3	Reference T3 wiki:3024057	Costa Cruises
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

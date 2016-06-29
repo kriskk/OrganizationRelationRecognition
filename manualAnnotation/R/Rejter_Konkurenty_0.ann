@@ -1,0 +1,14 @@
+T1	Organization 0 6	Рейтер
+T2	Organization 41 50	Bloomberg
+T3	Organization 53 62	Dow Jones
+T4	Organization 65 72	Factiva
+N1	Reference T1 wiki:183883	Рейтер
+N2	Reference T2 wiki:655940	Bloomberg
+N3	Reference T3 wiki:1948907	Dow Jones
+N4	Reference T4 wiki:1350182	Factiva
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor

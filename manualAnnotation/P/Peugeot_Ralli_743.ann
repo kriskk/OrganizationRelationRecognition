@@ -1,0 +1,9 @@
+T1	Organization 0 7	Peugeot
+T2	Organization 299 303	Audi
+T3	Organization 387 393	Lancia
+N1	Reference T1 wiki:1650729	Peugeot
+N2	Reference T2 wiki:41025	Audi
+N3	Reference T3 wiki:1503078	Lancia
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Competitor

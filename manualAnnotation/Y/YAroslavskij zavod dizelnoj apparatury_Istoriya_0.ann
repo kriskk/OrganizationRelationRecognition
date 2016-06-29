@@ -1,0 +1,33 @@
+T1	Organization 0 38	Ярославский завод дизельной аппаратуры
+T2	Organization 132 151	Камского автозавода
+T3	Organization 350 388	Ярославский завод топливной аппаратуры
+T4	Organization 530 534	Урал
+T5	Organization 538 541	ЗИЛ
+T6	Organization 544 554	Львовского
+T7	Organization 557 567	Ликинского
+T8	Organization 698 709	РусПромАвто
+T9	Organization 877 887	Группы ГАЗ
+N1	Reference T1 wiki:1574008	Ярославский завод дизельной аппаратуры
+N2	Reference T2 wiki:169714	КамАЗ
+N3	Reference T3 wiki:2618320	Ярославский завод топливной аппаратуры
+N4	Reference T4 wiki:24935	Урал (автомобиль)
+N5	Reference T5 wiki:259988	ЗИЛ
+N6	Reference T6 wiki:546123	Львовский автобусный завод
+N7	Reference T7 wiki:154271	Ликинский автобусный завод
+N8	Reference T8 wiki:21473	РусПромАвто
+N9	Reference T9 wiki:21473	Группа ГАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	TypeRel T2 Cooperator
+A10	TypeRel T3 Cooperator
+A11	TypeRel T4 Cooperator
+A12	TypeRel T5 Cooperator
+A13	TypeRel T6 Cooperator
+A14	TypeRel T7 Cooperator
+A15	TypeRel T8 Holder

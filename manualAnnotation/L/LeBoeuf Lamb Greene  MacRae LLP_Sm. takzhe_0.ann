@@ -1,0 +1,5 @@
+T1	Organization 0 34	LeBoeuf, Lamb, Greene & MacRae LLP
+T2	Organization 86 101	Dewey & LeBoeuf
+N1	Reference T1 wiki:238209	LeBoeuf, Lamb, Greene & MacRae LLP
+N2	Reference T2 wiki:1044031	Dewey & LeBoeuf
+A1	IsLink T2

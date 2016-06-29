@@ -1,0 +1,6 @@
+T1	Organization 0 13	Valero Energy
+T2	Organization 182 192	ExxonMobil
+N1	Reference T1 wiki:1681798	Valero Energy
+N2	Reference T2 wiki:176152	ExxonMobil
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

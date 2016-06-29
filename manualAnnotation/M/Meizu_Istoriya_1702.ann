@@ -1,0 +1,5 @@
+T1	Organization 0 5	Meizu
+T2	Organization 265 270	Apple
+N1	Reference T1 wiki:1335512	Meizu
+N2	Reference T2 wiki:39726	Apple
+A1	TypeRel T2 Other

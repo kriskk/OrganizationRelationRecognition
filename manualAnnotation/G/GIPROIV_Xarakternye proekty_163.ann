@@ -1,0 +1,13 @@
+T1	Organization 0 7	ГИПРОИВ
+T2	Organization 324 341	Могилёвхимволокно
+T3	Organization 517 524	Полимир
+T4	Organization 585 600	Курскхимволокно
+N1	Reference T1 wiki:2049309	ГИПРОИВ
+N2	Reference T2 wiki:209215	Могилёвхимволокно
+N3	Reference T3 wiki:188277	Полимир
+N4	Reference T4 wiki:2642809	Курскхимволокно
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Subsidiary
+A4	TypeRel T3 Subsidiary
+A5	TypeRel T4 Subsidiary

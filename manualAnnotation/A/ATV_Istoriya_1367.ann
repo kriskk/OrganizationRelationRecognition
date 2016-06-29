@@ -1,0 +1,5 @@
+T1	Organization 0 3	АТВ
+T2	Organization 280 285	АКАДО
+N1	Reference T1 wiki:665501	АТВ
+N2	Reference T2 wiki:807312	АКАДО
+A1	IsLink T2

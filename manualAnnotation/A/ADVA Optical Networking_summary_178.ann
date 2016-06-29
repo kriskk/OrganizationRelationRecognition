@@ -1,0 +1,6 @@
+T1	Organization 0 23	ADVA Optical Networking
+T2	Organization 278 286	Роботрон
+N1	Reference T1 wiki:1282274	ADVA Optical Networking
+N2	Reference T2 wiki:2047233	Роботрон
+A1	IsLink T2
+A2	TypeRel T2 Other

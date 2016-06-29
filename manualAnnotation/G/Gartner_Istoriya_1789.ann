@@ -1,0 +1,6 @@
+T1	Organization 0 7	Gartner
+T2	Organization 266 284	Warner Music Group
+N1	Reference T1 wiki:2960363	Gartner
+N2	Reference T2 wiki:197246	Warner Music Group
+A1	IsLink T2
+A2	TypeRel T2 Personnel

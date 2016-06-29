@@ -1,0 +1,9 @@
+T1	Organization 0 15	Imagin (студия)
+T2	Organization 170 186	Mushi Production
+T3	Organization 189 197	Madhouse
+N1	Reference T1 wiki:3353921	Imagin (студия)
+N2	Reference T2 wiki:2689263	Mushi Production
+N3	Reference T3 wiki:871335	Madhouse
+A2	IsLink T3
+A1	TypeRel T2 Personnel
+A3	TypeRel T3 Personnel

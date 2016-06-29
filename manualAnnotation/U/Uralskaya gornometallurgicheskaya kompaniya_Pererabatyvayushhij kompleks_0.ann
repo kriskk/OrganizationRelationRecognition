@@ -1,0 +1,9 @@
+T1	Organization 0 41	Уральская горно-металлургическая компания
+T2	Organization 127 172	Кировский завод по обработке цветных металлов
+T3	Organization 175 211	Кольчугинский завод цветных металлов
+N1	Reference T1 wiki:171944	Уральская горно-металлургическая компания
+N2	Reference T2 wiki:1611744	Кировский завод по обработке цветных металлов
+N3	Reference T3 wiki:707099	Кольчугцветмет
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary
+A3	TypeRel T3 Subsidiary

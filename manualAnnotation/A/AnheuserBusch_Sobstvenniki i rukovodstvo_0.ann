@@ -1,0 +1,11 @@
+T1	Organization 0 14	Anheuser-Busch
+T2	Organization 173 191	Berkshire Hathaway
+T3	Organization 454 459	InBev
+T4	Organization 768 788	Anheuser-Busch InBev
+N1	Reference T1 wiki:489317	Anheuser-Busch
+N2	Reference T2 wiki:201051	Berkshire Hathaway
+N3	Reference T3 wiki:203867	InBev
+N4	Reference T4 wiki:3199376	Anheuser-Busch InBev
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

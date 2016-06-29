@@ -1,0 +1,5 @@
+T1	Organization 0 8	Ситилинк
+T2	Organization 41 48	Merlion
+N1	Reference T1 wiki:4400099	Ситилинк
+N2	Reference T2 wiki:1695929	Merlion
+A1	IsLink T2

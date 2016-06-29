@@ -1,0 +1,5 @@
+T1	Organization 0 8	Centrica
+T2	Organization 275 282	Газпром
+N1	Reference T1 wiki:188090	Centrica
+N2	Reference T2 wiki:44754	Газпром
+A1	IsLink T2

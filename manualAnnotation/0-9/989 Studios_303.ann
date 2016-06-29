@@ -1,0 +1,5 @@
+T1	Organization 0 11	989 Studios
+T2	Organization 170 205	Sony Computer Entertainment America
+N1	Reference T1 wiki:2606359	989 Studios
+N2	Reference T2 wiki:1454994	Sony Computer Entertainment
+A1	IsLink T2

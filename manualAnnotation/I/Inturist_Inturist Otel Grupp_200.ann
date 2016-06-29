@@ -1,0 +1,5 @@
+T1	Organization 0 8	Интурист
+T2	Organization 490 501	ГК «Космос»
+N1	Reference T1 wiki:606499	Интурист
+N2	Reference T2 wiki:606916	Космос (гостиница, Москва)
+A1	TypeRel T2 Subsidiary

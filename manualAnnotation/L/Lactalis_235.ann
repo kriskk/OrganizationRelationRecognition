@@ -1,0 +1,5 @@
+T1	Organization 0 8	Lactalis
+T2	Organization 203 211	Parmalat
+N1	Reference T1 wiki:3451053	Lactalis
+N2	Reference T2 wiki:470215	Parmalat
+A1	TypeRel T2 Subsidiary

@@ -1,0 +1,5 @@
+T1	Organization 0 7	Melexis
+T2	Organization 146 151	X-FAB
+N1	Reference T1 wiki:3648470	Melexis
+N2	Reference T2 wiki:3642396	X-FAB
+A1	IsLink T2

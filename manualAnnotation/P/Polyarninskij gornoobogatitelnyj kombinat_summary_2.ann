@@ -1,0 +1,6 @@
+T1	Organization 0 42	Полярнинский горно-обогатительный комбинат
+T2	Organization 272 290	Северовостокзолото
+N1	Reference T1 wiki:3468744	Полярнинский горно-обогатительный комбинат
+N2	Reference T2 wiki:4387073	Северовостокзолото
+A1	IsLink T2
+A2	TypeRel T2 Holder

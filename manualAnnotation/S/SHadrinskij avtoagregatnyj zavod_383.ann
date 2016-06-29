@@ -1,0 +1,5 @@
+T1	Organization 0 31	Шадринский автоагрегатный завод
+T2	Organization 192 196	УГМК
+N1	Reference T1 wiki:3709862	Шадринский автоагрегатный завод
+N2	Reference T2 wiki:171944	Уральская горно-металлургическая компания
+A1	TypeRel T2 Holder

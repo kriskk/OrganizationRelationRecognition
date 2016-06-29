@@ -1,0 +1,5 @@
+T1	Organization 0 16	Jardine Matheson
+T2	Organization 322 353	Британская Ост-Индская компания
+N1	Reference T1 wiki:3497044	Jardine Matheson
+N2	Reference T2 wiki:102548	Британская Ост-Индская компания
+A1	TypeRel T2 Competitor

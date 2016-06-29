@@ -1,0 +1,8 @@
+T1	Organization 0 8	Татнефть
+T2	Organization 192 212	ПрайсвотерхаусКуперс
+T3	Organization 238 256	Энерджи Консалтинг
+N1	Reference T1 wiki:145661	Татнефть
+N2	Reference T2 wiki:275101	ПрайсвотерхаусКуперс
+N3	Reference T3 wiki:2870648	Энерджи Консалтинг
+A1	IsLink T2
+A2	IsLink T3

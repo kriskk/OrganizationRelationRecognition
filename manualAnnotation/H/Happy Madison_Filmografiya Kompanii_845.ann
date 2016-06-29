@@ -1,0 +1,6 @@
+T1	Organization 0 13	Happy Madison
+T2	Organization 221 241	Walt Disney Pictures
+N1	Reference T1 wiki:755073	Happy Madison
+N2	Reference T2 wiki:323330	Walt Disney Pictures
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

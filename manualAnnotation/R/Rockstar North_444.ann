@@ -1,0 +1,5 @@
+T1	Organization 0 14	Rockstar North
+T2	Organization 198 212	Rockstar Games
+N1	Reference T1 wiki:662662	Rockstar North
+N2	Reference T2 wiki:650156	Rockstar Games
+A1	TypeRel T2 Holder

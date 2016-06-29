@@ -1,0 +1,5 @@
+T1	Organization 0 7	Katelco
+T2	Organization 255 261	COMSAT
+N1	Reference T1 wiki:3119486	Katelco
+N2	Reference T2 wiki:630713	COMSAT
+A1	TypeRel T2 Cooperator

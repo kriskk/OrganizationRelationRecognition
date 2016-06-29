@@ -1,0 +1,33 @@
+T1	Organization 0 6	Росмэн
+T2	Organization 56 83	Sony Pictures Entertainment
+T3	Organization 85 97	Warner Bros.
+T4	Organization 99 115	20th Century Fox
+T5	Organization 117 134	Universal Studios
+T6	Organization 149 172	The Walt Disney Company
+T7	Organization 174 194	Marvel Entertainment
+T8	Organization 196 202	Hasbro
+T9	Organization 204 210	Mattel
+N1	Reference T1 wiki:695370	Росмэн
+N2	Reference T2 wiki:1830946	Sony Pictures Entertainment
+N3	Reference T3 wiki:272386	Warner Bros.
+N4	Reference T4 wiki:272376	20th Century Fox
+N5	Reference T5 wiki:702796	Universal Studios
+N6	Reference T6 wiki:319365	The Walt Disney Company
+N7	Reference T7 wiki:3272761	Marvel Entertainment
+N8	Reference T8 wiki:2724676	Hasbro
+N9	Reference T9 wiki:197959	Mattel
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A1	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T7 Cooperator
+A14	TypeRel T8 Cooperator
+A15	TypeRel T9 Cooperator

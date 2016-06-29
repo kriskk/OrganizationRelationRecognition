@@ -1,0 +1,10 @@
+T1	Organization 0 41	Mitsubishi Fuso Truck and Bus Corporation
+T2	Organization 238 245	Daimler
+T3	Organization 335 345	Mitsubishi
+N1	Reference T1 wiki:266596	Mitsubishi Fuso Truck and Bus Corporation
+N2	Reference T2 wiki:39716	Daimler
+N3	Reference T3 wiki:182989	Mitsubishi
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

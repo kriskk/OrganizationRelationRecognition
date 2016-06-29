@@ -1,0 +1,17 @@
+T1	Organization 0 23	Renault Nissan (альянс)
+T2	Organization 153 160	Renault
+T3	Organization 240 247	АВТОВАЗ
+T4	Organization 412 422	Автофрамос
+T5	Organization 542 547	Dacia
+N1	Reference T1 wiki:3937979	Renault Nissan (альянс)
+N2	Reference T2 wiki:586472	Renault
+N3	Reference T3 wiki:139276	АВТОВАЗ
+N4	Reference T4 wiki:387742	Автофрамос
+N5	Reference T5 wiki:746072	Dacia
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T2 Subsidiary
+A6	TypeRel T3 Subsidiary
+A7	TypeRel T5 Subsidiary

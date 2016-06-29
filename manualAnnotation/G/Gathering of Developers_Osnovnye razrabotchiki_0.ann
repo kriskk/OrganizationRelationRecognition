@@ -1,0 +1,26 @@
+T1	Organization 0 23	Gathering of Developers
+T2	Organization 80 98	Illusion Softworks
+T3	Organization 101 121	Ritual Entertainment
+T4	Organization 124 134	Epic Games
+T5	Organization 137 146	3D Realms
+T6	Organization 149 164	PopTop Software
+T7	Organization 167 183	Terminal Reality
+N1	Reference T1 wiki:2342023	Gathering of Developers
+N2	Reference T2 wiki:2161805	Illusion Softworks
+N3	Reference T3 wiki:1386191	Ritual Entertainment
+N4	Reference T4 wiki:2094890	Epic Games
+N5	Reference T5 wiki:2349412	3D Realms
+N6	Reference T6 wiki:2787634	PopTop Software
+N7	Reference T7 wiki:3175194	Terminal Reality
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	TypeRel T2 Subsidiary
+A8	TypeRel T3 Subsidiary
+A9	TypeRel T4 Subsidiary
+A10	TypeRel T5 Subsidiary
+A11	TypeRel T6 Subsidiary
+A12	TypeRel T7 Subsidiary

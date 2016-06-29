@@ -1,0 +1,11 @@
+T1	Organization 0 24	Ярославский шинный завод
+T2	Organization 197 204	Барнаул
+T3	Organization 445 453	Cordiant
+T4	Organization 714 739	Кировского шинного завода
+N1	Reference T1 wiki:312699	Ярославский шинный завод
+N2	Reference T2 wiki:605144	Алтайский шинный комбинат
+N3	Reference T3 wiki:1622512	Cordiant
+N4	Reference T4 wiki:2187579	Кировский шинный завод
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T4 Personnel

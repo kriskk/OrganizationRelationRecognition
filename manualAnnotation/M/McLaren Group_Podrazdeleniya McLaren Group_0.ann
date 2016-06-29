@@ -1,0 +1,8 @@
+T1	Organization 0 13	McLaren Group
+T2	Organization 99 117	McLaren Automotive
+T3	Organization 213 226	Mercedes-Benz
+N1	Reference T1 wiki:2136595	McLaren Group
+N2	Reference T2 wiki:167783	McLaren Automotive
+N3	Reference T3 wiki:40401	Mercedes-Benz
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary

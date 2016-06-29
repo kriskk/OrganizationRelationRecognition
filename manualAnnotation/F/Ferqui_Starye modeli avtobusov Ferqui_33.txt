@@ -1,0 +1,11 @@
+Ferqui
+@Старые модели автобусов Ferqui
+948,33
+
+ Ferqui Condal
+	 Ferqui на базе фургонов Ford Transit и Iveco Daily (GT Bus 14, Transit 17, Bus 19 и т.п.)
+	 Ferqui F3
+	 Ferqui Narcea (в основном на шасси MAN различной длины и высоты кузова)
+	 Ferqui Solera
+
+

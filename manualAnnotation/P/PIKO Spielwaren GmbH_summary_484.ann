@@ -1,0 +1,14 @@
+T1	Organization 0 20	PIKO Spielwaren GmbH
+T2	Organization 193 200	Märklin
+T3	Organization 202 206	Roco
+T4	Organization 209 220	Fleischmann
+N1	Reference T1 wiki:910029	PIKO Spielwaren GmbH
+N2	Reference T2 wiki:910071	Märklin
+N3	Reference T3 wiki:1026915	Roco
+N4	Reference T4 wiki:910958	Fleischmann
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Competitor
+A5	TypeRel T3 Competitor
+A6	TypeRel T4 Competitor

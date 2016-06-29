@@ -1,0 +1,14 @@
+T1	Organization 0 7	Астерос
+T2	Organization 248 254	Compaq
+T3	Organization 256 265	Microsoft
+T4	Organization 267 272	Cisco
+T5	Organization 274 279	Avaya
+N1	Reference T1 wiki:2210966	Астерос
+N2	Reference T2 wiki:343420	Compaq
+N3	Reference T3 wiki:11987	Microsoft
+N4	Reference T4 wiki:25014	Cisco Systems
+N5	Reference T5 wiki:685464	Avaya
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

@@ -1,0 +1,10 @@
+T1	Organization 0 13	Infinity Ward
+T2	Organization 143 153	2015, Inc.
+T3	Organization 301 311	Activision
+N1	Reference T1 wiki:1692228	Infinity Ward
+N2	Reference T2 wiki:1395492	2015, Inc.
+N3	Reference T3 wiki:307964	Activision
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Personnel
+A4	TypeRel T3 Holder

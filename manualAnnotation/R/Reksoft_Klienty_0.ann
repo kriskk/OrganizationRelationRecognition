@@ -1,0 +1,30 @@
+T1	Organization 0 7	Reksoft
+T2	Organization 123 132	T-Systems
+T3	Organization 134 141	Cadbury
+T4	Organization 143 150	Fujitsu
+T5	Organization 152 159	Gazprom
+T6	Organization 161 166	Mazda
+T7	Organization 168 195	Philip Morris International
+T8	Organization 270 279	Vimpelcom
+N1	Reference T1 wiki:3253511	Reksoft
+N2	Reference T2 wiki:3048318	T-Systems CIS
+N3	Reference T3 wiki:192535	Cadbury plc
+N4	Reference T4 wiki:571996	Fujitsu
+N5	Reference T5 wiki:44754	Gazprom
+N6	Reference T6 wiki:182354	Mazda
+N7	Reference T7 wiki:3888163	Philip Morris
+N8	Reference T8 wiki:70736	Vimpelcom
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	TypeRel T2 Cooperator
+A9	TypeRel T3 Cooperator
+A10	TypeRel T4 Cooperator
+A11	TypeRel T5 Cooperator
+A12	TypeRel T6 Cooperator
+A13	TypeRel T8 Cooperator
+A14	TypeRel T7 Cooperator

@@ -1,0 +1,6 @@
+Embarcadero Technologies
+@summary
+2,338
+
+ Сейчас компания производит средства для администрирования, создания баз данных и приложений работающих с базами данных для следующих платформ: Oracle, Microsoft SQL Server, IBM DB2, Sybase и MySQL.
+

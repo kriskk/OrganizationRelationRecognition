@@ -1,0 +1,6 @@
+T1	Organization 0 6	Ibanez
+T2	Organization 303 307	Tama
+N1	Reference T1 wiki:643819	Ibanez
+N2	Reference T2 wiki:3448625	Tama
+A1	IsLink T2
+A2	TypeRel T2 Subsidiary

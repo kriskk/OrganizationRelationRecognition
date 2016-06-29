@@ -1,0 +1,5 @@
+T1	Organization 0 4	ЮКОС
+T2	Organization 235 243	Роснефть
+N1	Reference T1 wiki:6032	ЮКОС
+N2	Reference T2 wiki:139770	Роснефть
+A1	TypeRel T2 Holder

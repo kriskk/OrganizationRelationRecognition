@@ -1,0 +1,13 @@
+T1	Organization 0 24	Ярославский шинный завод
+T2	Organization 227 235	Туполева
+T3	Organization 247 255	Антонова
+T4	Organization 556 559	ЗИЛ
+N1	Reference T1 wiki:312699	Ярославский шинный завод
+N2	Reference T2 wiki:55761	КБ Туполев
+N3	Reference T3 wiki:32271	Авиационный научно-технический комплекс имени Антонова
+N4	Reference T4 wiki:259988	ЗИЛ
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

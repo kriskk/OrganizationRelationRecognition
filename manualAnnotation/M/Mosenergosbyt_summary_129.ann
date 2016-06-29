@@ -1,0 +1,5 @@
+T1	Organization 0 13	Мосэнергосбыт
+T2	Organization 183 192	Мосэнерго
+N1	Reference T1 wiki:2450397	Мосэнергосбыт
+N2	Reference T2 wiki:159522	Мосэнерго
+A1	TypeRel T2 Holder

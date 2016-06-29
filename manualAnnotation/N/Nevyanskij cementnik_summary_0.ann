@@ -1,0 +1,5 @@
+T1	Organization 0 20	Невьянский цементник
+T2	Organization 148 163	Евроцемент груп
+N1	Reference T1 wiki:4022431	Невьянский цементник
+N2	Reference T2 wiki:172003	Евроцемент груп
+A1	TypeRel T2 Holder

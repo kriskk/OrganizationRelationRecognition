@@ -1,0 +1,5 @@
+T1	Organization 0 30	Лукойл-Нижегороднефтеоргсинтез
+T2	Organization 69 75	Лукойл
+N1	Reference T1 wiki:1737283	Лукойл-Нижегороднефтеоргсинтез
+N2	Reference T2 wiki:59354	Лукойл
+A1	IsLink T2

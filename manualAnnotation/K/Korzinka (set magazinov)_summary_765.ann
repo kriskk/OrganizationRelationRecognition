@@ -1,0 +1,25 @@
+T1	Organization 0 25	Корзинка (сеть магазинов)
+T2	Organization 199 214	X5 Retail Group
+T3	Organization 225 236	«Пятёрочек»
+T4	Organization 239 253	«Перекрёстков»
+T5	Organization 416 427	«Пятерочки»
+T6	Organization 455 470	«Перекрестками»
+T7	Organization 552 570	Меркадо суперцентр
+T8	Organization 624 632	Карусель
+N1	Reference T1 wiki:1272042	Корзинка (сеть магазинов)
+N2	Reference T2 wiki:353293	X5 Retail Group
+N3	Reference T3 wiki:132128	Пятёрочка (сеть магазинов)
+N4	Reference T4 wiki:176082	Перекрёсток (сеть магазинов)
+N5	Reference T5 wiki:132128	Пятёрочка (сеть магазинов)
+N6	Reference T6 wiki:176082	Перекрёсток (сеть магазинов)
+N7	Reference T7 wiki:353293	Меркадо суперцентр
+N8	Reference T8 wiki:367164	Карусель (сеть магазинов)
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A1	TypeRel T2 Holder
+A8	TypeRel T5 Holder
+A9	TypeRel T6 Holder

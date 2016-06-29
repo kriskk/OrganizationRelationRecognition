@@ -1,0 +1,11 @@
+T1	Organization 0 15	Российские сети
+T2	Organization 237 269	Депозитарно-клиринговая компания
+T3	Organization 356 377	Газпром энергохолдинг
+T4	Organization 399 433	Национальный расчетный депозитарий
+N1	Reference T1 wiki:2040314	Российские сети
+N2	Reference T2 wiki:521857	Депозитарно-клиринговая компания
+N3	Reference T3 wiki:2691900	Газпром энергохолдинг
+N4	Reference T4 wiki:3747955	Национальный расчетный депозитарий
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

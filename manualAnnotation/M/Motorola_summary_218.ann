@@ -1,0 +1,14 @@
+T1	Organization 0 8	Motorola
+T2	Organization 237 255	Motorola Solutions
+T3	Organization 258 275	Motorola Mobility
+T4	Organization 605 611	Google
+N1	Reference T1 wiki:134384	Motorola
+N2	Reference T2 wiki:134384	Motorola Solutions
+N3	Reference T3 wiki:3420650	Motorola Mobility
+N4	Reference T4 wiki:265	Google (компания)
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Cooperator

@@ -1,0 +1,9 @@
+T1	Organization 0 8	Лемтранс
+T2	Organization 115 125	Группе СКМ
+T3	Organization 263 266	СКМ
+N1	Reference T1 wiki:4357823	Лемтранс
+N2	Reference T2 wiki:36184	System Capital Management
+N3	Reference T3 wiki:36184	System Capital Management
+A2	IsLink T3
+A1	TypeRel T2 Holder
+A3	TypeRel T3 Holder

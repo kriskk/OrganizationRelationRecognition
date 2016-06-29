@@ -1,0 +1,5 @@
+T1	Organization 0 19	Firebird (компания)
+T2	Organization 212 222	MicroProse
+N1	Reference T1 wiki:2817972	Firebird (компания)
+N2	Reference T2 wiki:298661	MicroProse
+A1	IsLink T2

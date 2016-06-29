@@ -1,0 +1,13 @@
+T1	Organization 0 13	Группа ERIELL
+T2	Organization 208 221	Газпром нефть
+T3	Organization 242 248	ТНК-BP
+T4	Organization 264 272	Petronas
+N1	Reference T1 wiki:4447706	Группа ERIELL
+N2	Reference T2 wiki:121955	Газпром нефть
+N3	Reference T3 wiki:17252	ТНК-BP
+N4	Reference T4 wiki:1420194	Petronas
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 8	Hochtief
+T2	Organization 168 172	Меги
+N1	Reference T1 wiki:165402	Hochtief
+N2	Reference T2 wiki:259737	МЕГА
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

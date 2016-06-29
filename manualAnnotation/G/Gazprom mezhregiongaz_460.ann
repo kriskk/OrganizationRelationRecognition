@@ -1,0 +1,10 @@
+T1	Organization 0 20	Газпром межрегионгаз
+T2	Organization 228 235	Газпром
+T3	Organization 352 371	Межрегионэнергосбыт
+N1	Reference T1 wiki:2682262	Газпром межрегионгаз
+N2	Reference T2 wiki:44754	Газпром
+N3	Reference T3 wiki:2682166	Межрегионэнергосбыт
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Subsidiary

@@ -1,0 +1,6 @@
+T1	Organization 0 13	ZeniMax Media
+T2	Organization 96 114	Bethesda Softworks
+N1	Reference T1 wiki:2147996	ZeniMax Media
+N2	Reference T2 wiki:178727	Bethesda Softworks
+A1	IsLink T2
+A2	TypeRel T2 Personnel

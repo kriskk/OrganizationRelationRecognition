@@ -1,0 +1,5 @@
+T1	Organization 0 23	Вашингтонский телецентр
+T2	Organization 55 69	Атлантик-Видео
+N1	Reference T1 wiki:3563145	Вашингтонский телецентр
+N2	Reference T2 wiki:3536598	Атлантик-Видео
+A1	IsLink T2

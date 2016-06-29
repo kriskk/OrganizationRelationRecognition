@@ -1,0 +1,8 @@
+T1	Organization 0 16	Portugal Telecom
+T2	Organization 245 249	Vivo
+T3	Organization 280 290	Telefónica
+N1	Reference T1 wiki:2486968	Portugal Telecom
+N2	Reference T2 wiki:2564288	Vivo S.A.
+N3	Reference T3 wiki:377249	Telefónica
+A2	IsLink T3
+A1	TypeRel T2 Subsidiary

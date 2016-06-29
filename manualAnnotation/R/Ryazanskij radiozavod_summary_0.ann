@@ -1,0 +1,5 @@
+T1	Organization 0 20	Рязанский радиозавод
+T2	Organization 154 172	концерна Созвездие
+N1	Reference T1 wiki:3724584	Рязанский радиозавод
+N2	Reference T2 wiki:703408	Созвездие (концерн)
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 17	Дварчёню керамика
+T2	Organization 263 276	Cersanit S.A.
+N1	Reference T1 wiki:463132	Дварчёню керамика
+N2	Reference T2 wiki:3467493	Cersanit
+A1	IsLink T2

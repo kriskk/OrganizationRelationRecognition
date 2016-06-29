@@ -1,0 +1,8 @@
+T1	Organization 0 20	Austin Motor Company
+T2	Organization 183 201	Nanjing Automobile
+T3	Organization 202 212	SAIC Motor
+N1	Reference T1 wiki:4041862	Austin Motor Company
+N2	Reference T2 wiki:4048040	Nanjing Automobile
+N3	Reference T3 wiki:377731	SAIC Motor
+A1	IsLink T2
+A2	IsLink T3

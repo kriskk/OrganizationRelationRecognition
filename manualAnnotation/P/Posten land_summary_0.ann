@@ -1,0 +1,5 @@
+T1	Organization 0 12	Posten Åland
+T2	Organization 161 176	почты Финляндии
+N1	Reference T1 wiki:4170107	Posten Åland
+N2	Reference T2 wiki:2671444	Itella
+A1	IsLink T2

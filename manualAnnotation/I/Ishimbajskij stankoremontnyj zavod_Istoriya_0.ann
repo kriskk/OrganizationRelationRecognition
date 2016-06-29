@@ -1,0 +1,5 @@
+T1	Organization 0 33	Ишимбайский станкоремонтный завод
+T2	Organization 166 202	Машиностроительная компания „Витязь“
+N1	Reference T1 wiki:3178485	Ишимбайский станкоремонтный завод
+N2	Reference T2 wiki:1733545	Витязь (компания)
+A1	TypeRel T2 Cooperator

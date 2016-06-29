@@ -1,0 +1,10 @@
+T1	Organization 0 13	Океан (завод)
+T2	Organization 193 227	Черноморского морского пароходства
+T3	Organization 506 540	Черноморского морского пароходства
+N1	Reference T1 wiki:1248172	Океан (завод)
+N2	Reference T2 wiki:1411254	Черноморское морское пароходство
+N3	Reference T3 wiki:1411254	Черноморское морское пароходство
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

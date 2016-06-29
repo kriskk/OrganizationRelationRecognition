@@ -1,0 +1,5 @@
+T1	Organization 0 15	Pratt & Whitney
+T2	Organization 273 279	Boeing
+N1	Reference T1 wiki:807790	Pratt & Whitney
+N2	Reference T2 wiki:156398	Boeing
+A1	TypeRel T2 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 5	FAdeA
+T2	Organization 217 230	Grupo Marsans
+N1	Reference T1 wiki:3786822	FAdeA
+N2	Reference T2 wiki:3469515	Grupo Marsans
+A1	IsLink T2

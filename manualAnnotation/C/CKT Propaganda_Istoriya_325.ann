@@ -1,0 +1,5 @@
+T1	Organization 0 14	ЦКТ Пропаганда
+T2	Organization 190 196	Алроса
+N1	Reference T1 wiki:1748324	ЦКТ Пропаганда
+N2	Reference T2 wiki:147338	Алроса
+A1	IsLink T2

@@ -1,0 +1,6 @@
+T1	Organization 0 9	Group TAC
+T2	Organization 110 126	Mushi Production
+N1	Reference T1 wiki:2815578	Group TAC
+N2	Reference T2 wiki:2689263	Mushi Production
+A1	IsLink T2
+A2	TypeRel T2 Personnel

@@ -1,0 +1,14 @@
+T1	Organization 0 15	Саратовнефтегаз
+T2	Organization 192 200	Роснефть
+T3	Organization 279 289	 «Сиданко»
+T4	Organization 329 335	ТНК-BP
+T5	Organization 458 467	РуссНефть
+N1	Reference T1 wiki:1617670	Саратовнефтегаз
+N2	Reference T2 wiki:139770	Роснефть
+N3	Reference T3 wiki:980511	СИДАНКО
+N4	Reference T4 wiki:17252	ТНК-BP
+N5	Reference T5 wiki:159970	РуссНефть
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

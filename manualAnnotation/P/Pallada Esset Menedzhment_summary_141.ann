@@ -1,0 +1,10 @@
+T1	Organization 0 24	Паллада Эссет Менеджмент
+T2	Organization 394 431	Инвестиционной Группы «Русские Фонды»
+T3	Organization 434 468	Национальное Рейтинговое Агентство
+N1	Reference T1 wiki:910463	Паллада Эссет Менеджмент
+N2	Reference T2 wiki:914643	Инвестиционная Группа «Русские Фонды»
+N3	Reference T3 wiki:886966	Национальное Рейтинговое Агентство
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Other

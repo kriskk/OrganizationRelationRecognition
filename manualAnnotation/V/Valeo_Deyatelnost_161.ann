@@ -1,0 +1,13 @@
+T1	Organization 0 5	Valeo
+T2	Organization 227 230	BMW
+T3	Organization 232 236	Ford
+T4	Organization 238 252	General Motors
+N1	Reference T1 wiki:640908	Valeo
+N2	Reference T2 wiki:40368	BMW
+N3	Reference T3 wiki:153236	Ford Motor Company
+N4	Reference T4 wiki:17438	General Motors
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator
+A5	TypeRel T4 Cooperator

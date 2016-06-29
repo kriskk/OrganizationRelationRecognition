@@ -1,0 +1,5 @@
+T1	Organization 0 35	Конгресс-отель Don-Plaza (Интурист)
+T2	Organization 362 367	Hyatt
+N1	Reference T1 wiki:4448060	Конгресс-отель Don-Plaza (Интурист)
+N2	Reference T2 wiki:284635	Hyatt
+A1	TypeRel T2 Cooperator

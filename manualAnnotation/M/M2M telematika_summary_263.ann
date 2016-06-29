@@ -1,0 +1,5 @@
+T1	Organization 0 14	М2М телематика
+T2	Organization 369 375	Gurtam
+N1	Reference T1 wiki:2050070	М2М телематика
+N2	Reference T2 wiki:3991749	Gurtam
+A1	TypeRel T2 Competitor

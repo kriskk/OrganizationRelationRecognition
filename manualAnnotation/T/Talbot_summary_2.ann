@@ -1,0 +1,5 @@
+T1	Organization 0 6	Talbot
+T2	Organization 225 228	PSA
+N1	Reference T1 wiki:830160	Talbot
+N2	Reference T2 wiki:226616	PSA
+A1	IsLink T2

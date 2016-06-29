@@ -1,0 +1,11 @@
+T1	Organization 0 5	КамАЗ
+T2	Organization 215 219	ЗИЛе
+T3	Organization 221 225	ГАЗе
+T4	Organization 227 231	ВАЗе
+N1	Reference T1 wiki:169714	КамАЗ
+N2	Reference T2 wiki:259988	Завод имени Лихачёва
+N3	Reference T3 wiki:25060	Горьковский автомобильный завод
+N4	Reference T4 wiki:139276	АвтоВАЗ
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

@@ -1,0 +1,6 @@
+T1	Organization 0 18	Кузбассразрезуголь
+T2	Organization 427 439	УГМК-Холдинг
+N1	Reference T1 wiki:171189	Кузбассразрезуголь
+N2	Reference T2 wiki:171944	УГМК-Холдинг
+A1	IsLink T2
+A2	TypeRel T2 Holder

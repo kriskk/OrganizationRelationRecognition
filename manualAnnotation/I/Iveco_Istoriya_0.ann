@@ -1,0 +1,16 @@
+T1	Organization 0 5	Iveco
+T2	Organization 159 172	Magirus-Deutz
+T3	Organization 188 192	FIAT
+T4	Organization 215 228	Magirus-Deutz
+T5	Organization 542 546	Ford
+N1	Reference T1 wiki:272617	Iveco
+N2	Reference T2 wiki:897451	Магирус
+N3	Reference T3 wiki:91784	FIAT
+N4	Reference T4 wiki:897451	Магирус
+N5	Reference T5 wiki:153236	Ford
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A6	TypeRel T4 Subsidiary
+A7	TypeRel T5 Cooperator

@@ -1,0 +1,17 @@
+T1	Organization 0 6	Pentax
+T2	Organization 90 106	Hoya Corporation
+T3	Organization 109 114	Ricoh
+T4	Organization 353 369	Hoya Corporation
+T5	Organization 509 514	Ricoh
+N1	Reference T1 wiki:703109	Pentax
+N2	Reference T2 wiki:1529893	Hoya Corporation
+N3	Reference T3 wiki:847182	Ricoh
+N4	Reference T4 wiki:1529893	Hoya Corporation
+N5	Reference T5 wiki:847182	Ricoh
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Holder
+A5	TypeRel T3 Holder
+A6	TypeRel T4 Holder
+A7	TypeRel T5 Holder

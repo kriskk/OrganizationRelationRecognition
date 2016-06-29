@@ -1,0 +1,10 @@
+T1	Organization 0 10	Медиа-Мост
+T2	Organization 186 207	Газпром-Медиа Холдинг
+T3	Organization 219 240	Газпром-Медиа Холдинг
+N1	Reference T1 wiki:2400048	Медиа-Мост
+N2	Reference T2 wiki:189268	Газпром-Медиа Холдинг
+N3	Reference T3 wiki:189268	Газпром-Медиа Холдинг
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Holder
+A4	TypeRel T3 Holder

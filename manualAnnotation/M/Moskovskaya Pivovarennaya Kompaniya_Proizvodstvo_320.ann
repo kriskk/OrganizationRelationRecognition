@@ -1,0 +1,6 @@
+T1	Organization 0 32	Московская Пивоваренная Компания
+T2	Organization 206 212	Krones
+N1	Reference T1 wiki:3534213	Московская Пивоваренная Компания
+N2	Reference T2 wiki:154992	Krones
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

@@ -1,0 +1,6 @@
+T1	Organization 0 10	Lattelecom
+T2	Organization 296 312	Deutsche Telekom
+N1	Reference T1 wiki:2226886	Lattelecom
+N2	Reference T2 wiki:169094	Deutsche Telekom
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

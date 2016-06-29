@@ -1,0 +1,5 @@
+T1	Organization 0 24	Минский тракторный завод
+T2	Organization 142 170	Сморгонский агрегатный завод
+N1	Reference T1 wiki:103703	Минский тракторный завод
+N2	Reference T2 wiki:1948540	Сморгонский агрегатный завод
+A1	TypeRel T2 Subsidiary

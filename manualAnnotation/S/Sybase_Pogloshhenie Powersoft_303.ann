@@ -1,0 +1,5 @@
+T1	Organization 0 6	Sybase
+T2	Organization 243 250	Gartner
+N1	Reference T1 wiki:204161	Sybase
+N2	Reference T2 wiki:2960363	Gartner
+A1	IsLink T2

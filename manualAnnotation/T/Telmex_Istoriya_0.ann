@@ -1,0 +1,14 @@
+T1	Organization 0 6	Telmex
+T2	Organization 158 166	Ericsson
+T3	Organization 232 247	ITT Corporation
+T4	Organization 536 550	France Télécom
+T5	Organization 553 582	Southwestern Bell Corporation
+N1	Reference T1 wiki:2745397	Telmex
+N2	Reference T2 wiki:711402	Ericsson
+N3	Reference T3 wiki:741065	ITT Corporation
+N4	Reference T4 wiki:373577	France Télécom
+N5	Reference T5 wiki:162994	AT&T
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5

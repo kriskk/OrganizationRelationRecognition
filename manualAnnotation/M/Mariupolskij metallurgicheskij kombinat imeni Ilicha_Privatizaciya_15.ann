@@ -1,0 +1,6 @@
+T1	Organization 0 52	Мариупольский металлургический комбинат имени Ильича
+T2	Organization 367 378	Ильич-Сталь
+N1	Reference T1 wiki:123990	Мариупольский металлургический комбинат имени Ильича
+N2	Reference T2 wiki:123990	Ильич-Сталь
+A1	IsLink T2
+A2	TypeRel T2 Holder

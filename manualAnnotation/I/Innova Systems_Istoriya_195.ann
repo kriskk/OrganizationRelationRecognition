@@ -1,0 +1,10 @@
+T1	Organization 0 14	Innova Systems
+T2	Organization 296 302	NCsoft
+T3	Organization 516 526	Новый Диск
+N1	Reference T1 wiki:1532698	Innova Systems
+N2	Reference T2 wiki:707386	NCsoft
+N3	Reference T3 wiki:606365	Новый Диск
+A1	IsLink T2
+A2	IsLink T3
+A3	TypeRel T2 Cooperator
+A4	TypeRel T3 Cooperator

@@ -1,0 +1,5 @@
+T1	Organization 0 22	Spyglass Entertainment
+T2	Organization 294 317	The Walt Disney Company
+N1	Reference T1 wiki:4204960	Spyglass Entertainment
+N2	Reference T2 wiki:319365	The Walt Disney Company
+A1	IsLink T2

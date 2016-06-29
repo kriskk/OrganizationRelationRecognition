@@ -1,0 +1,5 @@
+T1	Organization 0 15	Willys-Overland
+T2	Organization 180 184	Jeep
+N1	Reference T1 wiki:3630721	Willys-Overland
+N2	Reference T2 wiki:41489	Jeep
+A1	TypeRel T2 Subsidiary

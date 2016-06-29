@@ -1,0 +1,14 @@
+Консорциум Всемирной паутины
+@Программы и утилиты, созданные W3C
+9341,0
+
+
+Программы и утилиты, созданные W3C
+
+ Amaya (браузер и WYSIWYG-редактор)
+	 CSS Validator
+	 HTML Tidy
+	 HTML Validator
+	 Jigsaw (сервер)
+	 Libwww (Web API, больше не поддерживается)
+	 Quality Assurance, QA (утилиты для проверки качества)

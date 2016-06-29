@@ -1,0 +1,5 @@
+T1	Organization 0 4	RATP
+T2	Organization 278 282	SNCF
+N1	Reference T1 wiki:2948563	RATP
+N2	Reference T2 wiki:168588	SNCF
+A1	IsLink T2

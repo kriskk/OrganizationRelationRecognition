@@ -1,0 +1,8 @@
+T1	Organization 0 28	Sumitomo Mitsui Construction
+T2	Organization 141 149	Sumitomo
+T3	Organization 152 158	Mitsui
+N1	Reference T1 wiki:3746954	Sumitomo Mitsui Construction
+N2	Reference T2 wiki:1813036	Sumitomo Group
+N3	Reference T3 wiki:3113519	Mitsui
+A1	IsLink T2
+A2	IsLink T3

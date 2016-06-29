@@ -1,0 +1,6 @@
+T1	Organization 0 15	Immediate Music
+T2	Organization 216 234	Universal Pictures
+N1	Reference T1 wiki:2518660	Immediate Music
+N2	Reference T2 wiki:702796	Universal Pictures
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

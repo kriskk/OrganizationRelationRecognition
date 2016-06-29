@@ -1,0 +1,13 @@
+T1	Organization 0 20	Мир (сеть магазинов)
+T2	Organization 211 220	Эльдорадо
+T3	Organization 231 238	М.видео
+T4	Organization 250 259	Техносилы
+N1	Reference T1 wiki:241229	Мир (сеть магазинов)
+N2	Reference T2 wiki:144684	Эльдорадо (сеть магазинов)
+N3	Reference T3 wiki:370490	М.видео
+N4	Reference T4 wiki:191431	Техносила
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Competitor
+A4	TypeRel T3 Competitor
+A5	TypeRel T4 Competitor

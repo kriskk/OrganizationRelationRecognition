@@ -1,0 +1,29 @@
+T1	Organization 0 30	Белебеевский завод Автонормаль
+T2	Organization 234 237	СОК
+T3	Organization 278 306	Ижевский автомобильный завод
+T4	Organization 416 423	АВТОВАЗ
+T5	Organization 427 432	КАМАЗ
+T6	Organization 436 439	УАЗ
+T7	Organization 443 446	ГАЗ
+T8	Organization 450 460	GM-АвтоВАЗ
+T9	Organization 468 471	ЗИЛ
+T10	Organization 475 481	ИжАвто
+N1	Reference T1 wiki:1500641	Белебеевский завод Автонормаль
+N2	Reference T2 wiki:148557	СОК (компания)
+N3	Reference T3 wiki:39731	ИжАвто
+N4	Reference T4 wiki:139276	АВТОВАЗ
+N5	Reference T5 wiki:169714	КАМАЗ
+N6	Reference T6 wiki:84571	УАЗ
+N7	Reference T7 wiki:25060	Горьковский автомобильный завод
+N8	Reference T8 wiki:18331	GM-АвтоВАЗ
+N9	Reference T9 wiki:259988	ЗИЛ
+N10	Reference T10 wiki:39731	ИжАвто
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10

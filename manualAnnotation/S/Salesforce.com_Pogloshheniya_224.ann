@@ -1,0 +1,5 @@
+T1	Organization 0 14	Salesforce.com
+T2	Organization 298 304	Jigsaw
+N1	Reference T1 wiki:3070933	Salesforce.com
+N2	Reference T2 wiki:3070933	Jigsaw
+A1	IsLink T2

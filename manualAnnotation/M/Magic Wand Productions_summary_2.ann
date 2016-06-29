@@ -1,0 +1,16 @@
+T1	Organization 0 22	Magic Wand Productions
+T2	Organization 267 275	FUN Labs
+T3	Organization 278 296	Sand Grain Studios
+T4	Organization 328 338	Activision
+T5	Organization 612 622	Activision
+N1	Reference T1 wiki:2958347	Magic Wand Productions
+N2	Reference T2 wiki:2980951	FUN Labs
+N3	Reference T3 wiki:2992678	Sand Grain Studios
+N4	Reference T4 wiki:307964	Activision
+N5	Reference T5 wiki:307964	Activision
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	TypeRel T4 Cooperator
+A6	TypeRel T5 Cooperator

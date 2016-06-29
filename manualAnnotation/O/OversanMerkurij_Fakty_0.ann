@@ -1,0 +1,6 @@
+T1	Organization 0 16	Оверсан-Меркурий
+T2	Organization 173 187	VMware vSphere
+N1	Reference T1 wiki:2509903	Оверсан-Меркурий
+N2	Reference T2 wiki:205509	VMware
+A1	IsLink T2
+A2	TypeRel T2 Cooperator

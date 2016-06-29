@@ -1,0 +1,6 @@
+T1	Organization 0 28	Hermitage Capital Management
+T2	Organization 233 240	Сиданко
+N1	Reference T1 wiki:2557636	Hermitage Capital Management
+N2	Reference T2 wiki:980511	Сиданко
+A1	IsLink T2
+A2	TypeRel T2 Other

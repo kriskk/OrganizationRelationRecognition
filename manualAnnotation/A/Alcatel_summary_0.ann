@@ -1,0 +1,8 @@
+T1	Organization 0 7	Alcatel
+T2	Organization 46 53	Alkotel
+T3	Organization 198 212	Alcatel-Lucent
+N1	Reference T1 wiki:294657	Alcatel
+N2	Reference T2 wiki:1593969	Alkotel
+N3	Reference T3 wiki:542818	Alcatel-Lucent
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,17 @@
+T1	Organization 0 14	Invictus Games
+T2	Organization 258 269	Codemasters
+T3	Organization 271 281	Activision
+T4	Organization 283 285	1C
+T5	Organization 287 300	Nival Network
+N1	Reference T1 wiki:3023277	Invictus Games
+N2	Reference T2 wiki:952362	Codemasters
+N3	Reference T3 wiki:307964	Activision
+N4	Reference T4 wiki:34936	1C
+N5	Reference T5 wiki:91564	Nival Network
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A1	TypeRel T2 Cooperator
+A5	TypeRel T3 Cooperator
+A6	TypeRel T4 Cooperator
+A7	TypeRel T5 Cooperator

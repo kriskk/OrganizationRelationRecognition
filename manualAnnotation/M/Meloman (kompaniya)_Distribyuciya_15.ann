@@ -1,0 +1,48 @@
+T1	Organization 0 18	Меломан (компания)
+T2	Organization 244 266	«Walt Disney Pictures»
+T3	Organization 268 293	«Warner Bros. Home Video»
+T4	Organization 295 310	«Sony Pictures»
+T5	Organization 312 339	«Крупный план» («Мосфильм»)
+T6	Organization 341 361	«Universal Pictures»
+T7	Organization 363 383	«Paramount Pictures»
+T8	Organization 385 406	«DreamWorks Pictures»
+T9	Organization 408 420	«Союз-Видео»
+T10	Organization 442 461	«Sony Music Russia»
+T11	Organization 463 487	«Universal Music Russia»
+T12	Organization 489 507	«20th century Fox»
+T13	Organization 525 541	20th Century Fox
+N1	Reference T1 wiki:2249659	Меломан (компания)
+N2	Reference T2 wiki:319365	Walt Disney Company
+N3	Reference T3 wiki:272386	Warner Brothers
+N4	Reference T4 wiki:1830946	Sony Pictures Entertainment
+N5	Reference T5 wiki:25605	Мосфильм
+N6	Reference T6 wiki:702796	Universal Pictures
+N7	Reference T7 wiki:398699	Paramount Pictures
+N8	Reference T8 wiki:755489	DreamWorks
+N9	Reference T9 wiki:1510178	СОЮЗ (концерн)
+N10	Reference T10 wiki:439628	Sony BMG
+N11	Reference T11 wiki:203047	Universal Music Group
+N12	Reference T12 wiki:272376	20th Century Fox
+N13	Reference T13 wiki:272376	20th Century Fox
+A2	IsLink T3
+A3	IsLink T4
+A4	IsLink T5
+A5	IsLink T6
+A6	IsLink T7
+A7	IsLink T8
+A8	IsLink T9
+A9	IsLink T10
+A10	IsLink T11
+A11	IsLink T12
+A12	IsLink T13
+A1	TypeRel T2 Cooperator
+A13	TypeRel T3 Cooperator
+A14	TypeRel T4 Cooperator
+A15	TypeRel T5 Cooperator
+A16	TypeRel T6 Cooperator
+A17	TypeRel T7 Cooperator
+A18	TypeRel T8 Cooperator
+A19	TypeRel T9 Cooperator
+A20	TypeRel T10 Cooperator
+A21	TypeRel T11 Cooperator
+A22	TypeRel T12 Cooperator

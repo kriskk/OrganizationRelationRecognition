@@ -1,0 +1,14 @@
+T1	Organization 0 19	ItalDesign Giugiaro
+T2	Organization 133 152	Lamborghini Holding
+T3	Organization 190 197	Audi AG
+T4	Organization 232 248	Volkswagen Group
+N1	Reference T1 wiki:2124528	ItalDesign Giugiaro
+N2	Reference T2 wiki:65531	Lamborghini
+N3	Reference T3 wiki:41025	Audi AG
+N4	Reference T4 wiki:750217	Volkswagen Group
+A2	IsLink T3
+A3	IsLink T4
+A1	TypeRel T2 Holder
+A4	TypeRel T4 Holder
+R1	Holder Arg1:T3 Arg2:T2	
+R2	Holder Arg1:T4 Arg2:T3	

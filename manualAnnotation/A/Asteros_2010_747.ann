@@ -1,0 +1,11 @@
+T1	Organization 0 7	Астерос
+T2	Organization 263 266	SAP
+T3	Organization 268 274	Oracle
+T4	Organization 277 279	1С
+N1	Reference T1 wiki:2210966	Астерос
+N2	Reference T2 wiki:81959	SAP
+N3	Reference T3 wiki:129227	Oracle
+N4	Reference T4 wiki:34936	1С
+A1	IsLink T2
+A2	IsLink T3
+A3	IsLink T4

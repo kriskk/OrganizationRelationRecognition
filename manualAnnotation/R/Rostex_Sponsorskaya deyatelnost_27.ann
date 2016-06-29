@@ -1,0 +1,5 @@
+T1	Organization 0 6	Ростех
+T2	Organization 336 352	Вертолеты России
+N1	Reference T1 wiki:915063	Ростех
+N2	Reference T2 wiki:899228	Вертолеты России
+A1	IsLink T2

@@ -1,0 +1,5 @@
+T1	Organization 0 9	Азовсталь
+T2	Organization 185 193	Маркохим
+N1	Reference T1 wiki:123992	Азовсталь
+N2	Reference T2 wiki:150359	Маркохим
+A1	IsLink T2

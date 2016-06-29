@@ -1,0 +1,9 @@
+T1	Organization 0 21	Krauss-Maffei Wegmann
+T2	Organization 429 433	EADS
+T3	Organization 444 476	ОАО «Российские железные дороги»
+N1	Reference T1 wiki:1115943	Krauss-Maffei Wegmann
+N2	Reference T2 wiki:39833	EADS
+N3	Reference T3 wiki:106901	Российские железные дороги
+A2	IsLink T3
+A1	TypeRel T2 Cooperator
+A3	TypeRel T3 Cooperator

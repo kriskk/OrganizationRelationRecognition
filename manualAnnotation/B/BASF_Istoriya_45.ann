@@ -1,0 +1,6 @@
+T1	Organization 0 4	BASF
+T2	Organization 263 272	IG Farben
+N1	Reference T1 wiki:122826	BASF
+N2	Reference T2 wiki:320026	IG Farben
+A1	IsLink T2
+A2	TypeRel T2 Holder

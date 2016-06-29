@@ -1,0 +1,5 @@
+T1	Organization 0 14	Grimaldi Group
+T2	Organization 220 229	Finnlines
+N1	Reference T1 wiki:4388810	Grimaldi Group
+N2	Reference T2 wiki:4388612	Finnlines
+A1	TypeRel T2 Subsidiary

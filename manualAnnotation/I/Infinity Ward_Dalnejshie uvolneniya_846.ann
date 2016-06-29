@@ -1,0 +1,8 @@
+T1	Organization 0 13	Infinity Ward
+T2	Organization 213 228	Electronic Arts
+T3	Organization 240 250	Activision
+N1	Reference T1 wiki:1692228	Infinity Ward
+N2	Reference T2 wiki:323143	Electronic Arts
+N3	Reference T3 wiki:307964	Activision
+A1	IsLink T2
+A2	IsLink T3

@@ -1,0 +1,6 @@
+T1	Organization 0 19	Орёл (кинокомпания)
+T2	Organization 223 237	Союзмультфильм
+N1	Reference T1 wiki:2062434	Орёл (кинокомпания)
+N2	Reference T2 wiki:137785	Союзмультфильм
+A1	IsLink T2
+A2	TypeRel T2 Other

@@ -1,0 +1,5 @@
+T1	Organization 0 16	Digital Research
+T2	Organization 331 360	Digital Equipment Corporation
+N1	Reference T1 wiki:2279549	Digital Research
+N2	Reference T2 wiki:176483	Digital Equipment Corporation
+A1	IsLink T2
