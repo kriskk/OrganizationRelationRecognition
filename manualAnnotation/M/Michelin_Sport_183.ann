@@ -1,5 +1,0 @@
-T1	Organization 0 8	Michelin
-T2	Organization 216 227	Bridgestone
-N1	Reference T1 wiki:214287	Michelin
-N2	Reference T2 wiki:299590	Bridgestone
-A1	IsLink T2

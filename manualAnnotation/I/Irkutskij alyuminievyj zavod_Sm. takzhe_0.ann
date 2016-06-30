@@ -1,5 +1,0 @@
-T1	Organization 0 27	Иркутский алюминиевый завод
-T2	Organization 105 110	РУСАЛ
-N1	Reference T1 wiki:2305798	Иркутский алюминиевый завод
-N2	Reference T2 wiki:598084	Российский алюминий
-A1	IsLink T2

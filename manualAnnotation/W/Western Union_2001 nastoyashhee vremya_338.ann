@@ -1,5 +1,0 @@
-T1	Organization 0 13	Western Union
-T2	Organization 302 318	American Express
-N1	Reference T1 wiki:397765	Western Union
-N2	Reference T2 wiki:365626	American Express
-A1	IsLink T2

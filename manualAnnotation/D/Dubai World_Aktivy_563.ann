@@ -1,8 +1,0 @@
-T1	Organization 0 11	Dubai World
-T2	Organization 249 254	ОГК-1
-T3	Organization 540 570	Восточная стивидорная компания
-N1	Reference T1 wiki:1299375	Dubai World
-N2	Reference T2 wiki:586231	ОГК-1
-N3	Reference T3 wiki:3146849	Восточная стивидорная компания
-A1	IsLink T2
-A2	IsLink T3

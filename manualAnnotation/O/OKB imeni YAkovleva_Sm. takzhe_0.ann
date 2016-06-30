@@ -1,5 +1,0 @@
-T1	Organization 0 18	ОКБ имени Яковлева
-T2	Organization 114 124	КБ Туполев
-N1	Reference T1 wiki:55757	ОКБ имени Яковлева
-N2	Reference T2 wiki:55761	КБ Туполев
-A1	IsLink T2

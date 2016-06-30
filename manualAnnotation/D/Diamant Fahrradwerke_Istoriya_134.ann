@@ -1,5 +1,0 @@
-T1	Organization 0 20	Diamant Fahrradwerke
-T2	Organization 206 210	Opel
-N1	Reference T1 wiki:251062	Diamant Fahrradwerke
-N2	Reference T2 wiki:562302	Opel
-A1	IsLink T2

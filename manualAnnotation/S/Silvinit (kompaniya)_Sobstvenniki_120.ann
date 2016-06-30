@@ -1,8 +1,0 @@
-T1	Organization 0 20	Сильвинит (компания)
-T2	Organization 259 264	Акрон
-T3	Organization 400 410	Сибуглемет
-N1	Reference T1 wiki:371967	Сильвинит (компания)
-N2	Reference T2 wiki:291370	Акрон (компания)
-N3	Reference T3 wiki:2940215	Сибуглемет
-A1	IsLink T2
-A2	IsLink T3

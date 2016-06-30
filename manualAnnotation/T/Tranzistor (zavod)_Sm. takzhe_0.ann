@@ -1,5 +1,0 @@
-T1	Organization 0 18	Транзистор (завод)
-T2	Organization 51 70	Интеграл (компания)
-N1	Reference T1 wiki:4129843	Транзистор (завод)
-N2	Reference T2 wiki:543285	Интеграл (завод)
-A1	IsLink T2

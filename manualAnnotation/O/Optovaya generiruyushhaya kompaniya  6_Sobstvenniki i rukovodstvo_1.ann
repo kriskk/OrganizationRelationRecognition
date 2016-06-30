@@ -1,5 +1,0 @@
-T1	Organization 0 33	Оптовая генерирующая компания № 6
-T2	Organization 240 261	Газпром энергохолдинг
-N1	Reference T1 wiki:741520	Оптовая генерирующая компания № 6
-N2	Reference T2 wiki:2691900	Газпром энергохолдинг
-A1	IsLink T2

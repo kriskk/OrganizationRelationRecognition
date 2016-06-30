@@ -1,8 +1,0 @@
-T1	Organization 0 25	Украинская фондовая биржа
-T2	Organization 58 77	Фондовая биржа ПФТС
-T3	Organization 80 96	Украинская биржа
-N1	Reference T1 wiki:571862	Украинская фондовая биржа
-N2	Reference T2 wiki:769045	Фондовая биржа ПФТС
-N3	Reference T3 wiki:1590481	Украинская биржа
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 16	RNTI Media Group
-T2	Organization 49 61	ГТРК «Вятка»
-N1	Reference T1 wiki:1645010	RNTI Media Group
-N2	Reference T2 wiki:1558508	ГТРК «Вятка»
-A1	IsLink T2

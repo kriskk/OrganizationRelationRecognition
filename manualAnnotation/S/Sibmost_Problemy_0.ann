@@ -1,5 +1,0 @@
-T1	Organization 0 7	Сибмост
-T2	Organization 103 107	IKEA
-N1	Reference T1 wiki:3155523	Сибмост
-N2	Reference T2 wiki:164679	IKEA
-A1	IsLink T2

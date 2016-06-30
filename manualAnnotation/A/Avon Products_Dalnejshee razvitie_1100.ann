@@ -1,8 +1,0 @@
-T1	Organization 0 13	Avon Products
-T2	Organization 290 298	Mary Kay
-T3	Organization 301 306	Amway
-N1	Reference T1 wiki:2298392	Avon Products
-N2	Reference T2 wiki:4265516	Mary Kay
-N3	Reference T3 wiki:200434	Amway
-A1	IsLink T2
-A2	IsLink T3

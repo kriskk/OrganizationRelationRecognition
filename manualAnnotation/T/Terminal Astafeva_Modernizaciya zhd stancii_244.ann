@@ -1,5 +1,0 @@
-T1	Organization 0 18	Терминал Астафьева
-T2	Organization 298 301	РЖД
-N1	Reference T1 wiki:4356569	Терминал Астафьева
-N2	Reference T2 wiki:106901	РЖД
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 23	Северо-Западный Телеком
-T2	Organization 208 219	Связьинвест
-T3	Organization 297 307	Ростелеком
-N1	Reference T1 wiki:159172	Северо-Западный Телеком
-N2	Reference T2 wiki:145705	Связьинвест
-N3	Reference T3 wiki:145844	Ростелеком
-A1	IsLink T2
-A2	IsLink T3

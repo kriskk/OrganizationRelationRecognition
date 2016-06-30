@@ -1,5 +1,0 @@
-T1	Organization 0 35	Дальневосточное морское пароходство
-T2	Organization 157 162	Сумма
-N1	Reference T1 wiki:149752	Дальневосточное морское пароходство
-N2	Reference T2 wiki:3409706	Сумма (группа)
-A1	IsLink T2

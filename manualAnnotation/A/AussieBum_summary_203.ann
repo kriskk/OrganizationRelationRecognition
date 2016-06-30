@@ -1,8 +1,0 @@
-T1	Organization 0 9	AussieBum
-T2	Organization 182 194	Calvin Klein
-T3	Organization 197 212	Dolce & Gabbana
-N1	Reference T1 wiki:2641873	AussieBum
-N2	Reference T2 wiki:774129	Calvin Klein
-N3	Reference T3 wiki:774074	Dolce & Gabbana
-A1	IsLink T2
-A2	IsLink T3

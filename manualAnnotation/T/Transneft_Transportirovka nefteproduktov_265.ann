@@ -1,5 +1,0 @@
-T1	Organization 0 10	Транснефть
-T2	Organization 270 295	Спецморнефтепорт Козьмино
-N1	Reference T1 wiki:147540	Транснефть
-N2	Reference T2 wiki:2708879	Спецморнефтепорт Козьмино
-A1	IsLink T2

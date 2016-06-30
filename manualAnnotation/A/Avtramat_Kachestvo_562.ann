@@ -1,5 +1,0 @@
-T1	Organization 0 8	Автрамат
-T2	Organization 211 222	ОАО «КамАЗ»
-N1	Reference T1 wiki:2349655	Автрамат
-N2	Reference T2 wiki:169714	КамАЗ
-A1	IsLink T2

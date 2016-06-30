@@ -1,5 +1,0 @@
-T1	Organization 0 28	Бежицкий сталелитейный завод
-T2	Organization 262 277	Трансмашхолдинг
-N1	Reference T1 wiki:305709	Бежицкий сталелитейный завод
-N2	Reference T2 wiki:168333	Трансмашхолдинг
-A1	IsLink T2

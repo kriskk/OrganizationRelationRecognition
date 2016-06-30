@@ -1,8 +1,0 @@
-T1	Organization 0 9	Schindler
-T2	Organization 199 203	Otis
-T3	Organization 206 210	KONE
-N1	Reference T1 wiki:1959158	Schindler
-N2	Reference T2 wiki:1955231	Otis
-N3	Reference T3 wiki:1840978	KONE
-A1	IsLink T2
-A2	IsLink T3

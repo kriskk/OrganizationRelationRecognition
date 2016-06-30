@@ -1,5 +1,0 @@
-T1	Organization 0 21	ЕЭС России (компания)
-T2	Organization 135 156	Концерн Росэнергоатом
-N1	Reference T1 wiki:1432138	ЕЭС России (компания)
-N2	Reference T2 wiki:138779	Росэнергоатом
-A1	IsLink T2

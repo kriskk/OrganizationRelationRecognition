@@ -1,8 +1,0 @@
-T1	Organization 0 10	Томскнефть
-T2	Organization 247 274	Восточная нефтяная компания
-T3	Organization 542 546	ЮКОС
-N1	Reference T1 wiki:9758	Томскнефть
-N2	Reference T2 wiki:980642	Восточная нефтяная компания
-N3	Reference T3 wiki:6032	ЮКОС
-A1	IsLink T2
-A2	IsLink T3

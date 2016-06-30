@@ -1,5 +1,0 @@
-T1	Organization 0 32	Национальная нефтяная корпорация
-T2	Organization 65 71	Enarsa
-N1	Reference T1 wiki:3135996	Национальная нефтяная корпорация
-N2	Reference T2 wiki:3597600	Enarsa
-A1	IsLink T2

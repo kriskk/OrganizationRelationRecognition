@@ -1,8 +1,0 @@
-T1	Organization 0 28	Факел (конструкторское бюро)
-T2	Organization 242 267	Концерн ПВО «Алмаз-Антей»
-T3	Organization 300 322	Оборонительные системы
-N1	Reference T1 wiki:1280435	Факел (конструкторское бюро)
-N2	Reference T2 wiki:149639	Концерн ПВО «Алмаз-Антей»
-N3	Reference T3 wiki:2848714	Оборонительные системы
-A1	IsLink T2
-A2	IsLink T3

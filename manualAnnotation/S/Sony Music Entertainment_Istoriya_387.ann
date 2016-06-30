@@ -1,8 +1,0 @@
-T1	Organization 0 24	Sony Music Entertainment
-T2	Organization 378 381	BMG
-T3	Organization 385 413	Sony BMG Music Entertainment
-N1	Reference T1 wiki:2770369	Sony Music Entertainment
-N2	Reference T2 wiki:439628	BMG
-N3	Reference T3 wiki:439628	Sony BMG
-A1	IsLink T2
-A2	IsLink T3

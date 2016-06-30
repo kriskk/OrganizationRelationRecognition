@@ -1,8 +1,0 @@
-T1	Organization 0 13	Adobe Systems
-T2	Organization 68 79	Aldus Corp.
-T3	Organization 176 191	Macromedia Inc.
-N1	Reference T1 wiki:42937	Adobe Systems
-N2	Reference T2 wiki:1575217	Aldus
-N3	Reference T3 wiki:42935	Macromedia
-A1	IsLink T2
-A2	IsLink T3

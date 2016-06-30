@@ -1,5 +1,0 @@
-T1	Organization 0 7	Авиакор
-T2	Organization 67 89	авиационный завод № 18
-N1	Reference T1 wiki:480966	Авиакор
-N2	Reference T2 wiki:143197	Воронежское акционерное самолётостроительное общество
-A1	IsLink T2

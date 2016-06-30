@@ -1,5 +1,0 @@
-T1	Organization 0 19	Ангстрем (компания)
-T2	Organization 299 302	AMD
-N1	Reference T1 wiki:176095	Ангстрем (компания)
-N2	Reference T2 wiki:19981	AMD
-A1	IsLink T2

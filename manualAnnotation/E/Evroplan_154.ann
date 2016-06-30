@@ -1,5 +1,0 @@
-T1	Organization 0 8	Европлан
-T2	Organization 181 185	KPMG
-N1	Reference T1 wiki:4436471	Европлан
-N2	Reference T2 wiki:281743	KPMG
-A1	IsLink T2

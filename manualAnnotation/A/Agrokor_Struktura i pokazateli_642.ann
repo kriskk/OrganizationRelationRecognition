@@ -1,8 +1,0 @@
-T1	Organization 0 7	Agrokor
-T2	Organization 296 302	Konzum
-T3	Organization 584 592	Deloitte
-N1	Reference T1 wiki:4258261	Agrokor
-N2	Reference T2 wiki:4255822	Konzum
-N3	Reference T3 wiki:143428	Deloitte Touche Tohmatsu
-A1	IsLink T2
-A2	IsLink T3

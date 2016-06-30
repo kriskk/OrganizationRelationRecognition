@@ -1,5 +1,0 @@
-T1	Organization 0 14	КЛО (сеть АЗС)
-T2	Organization 89 102	ORLEN Lietuva
-N1	Reference T1 wiki:1970042	КЛО (сеть АЗС)
-N2	Reference T2 wiki:176035	ORLEN Lietuva
-A1	IsLink T2

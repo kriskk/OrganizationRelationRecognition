@@ -1,5 +1,0 @@
-T1	Organization 0 5	Dodge
-T2	Organization 107 115	Chrysler
-N1	Reference T1 wiki:41485	Dodge
-N2	Reference T2 wiki:223902	Chrysler
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 14	Русские машины
-T2	Organization 273 290	«Базовый элемент»
-N1	Reference T1 wiki:2023713	Русские машины
-N2	Reference T2 wiki:156379	Базэл
-A1	IsLink T2

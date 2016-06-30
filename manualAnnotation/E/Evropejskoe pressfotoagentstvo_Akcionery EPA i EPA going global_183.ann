@@ -1,5 +1,0 @@
-T1	Organization 0 31	Европейское пресс-фотоагентство
-T2	Organization 345 348	AFP
-N1	Reference T1 wiki:2265597	Европейское пресс-фотоагентство
-N2	Reference T2 wiki:1050558	Франс Пресс
-A1	IsLink T2

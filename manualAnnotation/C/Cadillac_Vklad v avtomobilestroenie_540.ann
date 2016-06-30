@@ -1,5 +1,0 @@
-T1	Organization 0 8	Cadillac
-T2	Organization 283 291	Кадиллак
-N1	Reference T1 wiki:571883	Cadillac
-N2	Reference T2 wiki:571883	Кадиллак
-A1	IsLink T2

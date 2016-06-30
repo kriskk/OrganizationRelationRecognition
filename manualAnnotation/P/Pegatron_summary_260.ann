@@ -1,5 +1,0 @@
-T1	Organization 0 8	Pegatron
-T2	Organization 181 197	ASUSTeK Computer
-N1	Reference T1 wiki:2208845	Pegatron
-N2	Reference T2 wiki:118273	ASUSTeK Computer
-A1	IsLink T2

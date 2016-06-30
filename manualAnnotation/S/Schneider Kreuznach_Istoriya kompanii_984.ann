@@ -1,8 +1,0 @@
-T1	Organization 0 19	Schneider Kreuznach
-T2	Organization 244 249	Goerz
-T3	Organization 471 494	Rollei Fototechnic GmbH
-N1	Reference T1 wiki:1891834	Schneider Kreuznach
-N2	Reference T2 wiki:1948230	Goerz
-N3	Reference T3 wiki:1848265	Rollei
-A1	IsLink T2
-A2	IsLink T3

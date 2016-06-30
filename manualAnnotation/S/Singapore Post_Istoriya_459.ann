@@ -1,5 +1,0 @@
-T1	Organization 0 14	Singapore Post
-T2	Organization 250 278	Singapore Telecommunications
-N1	Reference T1 wiki:2863785	Singapore Post
-N2	Reference T2 wiki:2288809	Singapore Telecommunications
-A1	IsLink T2

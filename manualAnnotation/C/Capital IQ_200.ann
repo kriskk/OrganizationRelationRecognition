@@ -1,5 +1,0 @@
-T1	Organization 0 10	Capital IQ
-T2	Organization 199 216	Standard & Poor's
-N1	Reference T1 wiki:3024035	Capital IQ
-N2	Reference T2 wiki:198286	Standard & Poor's
-A1	IsLink T2

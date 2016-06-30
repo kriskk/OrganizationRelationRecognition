@@ -1,5 +1,0 @@
-T1	Organization 0 29	Единая информационная система
-T2	Organization 291 303	Волгателеком
-N1	Reference T1 wiki:1967968	Единая информационная система
-N2	Reference T2 wiki:162608	Волгателеком
-A1	IsLink T2

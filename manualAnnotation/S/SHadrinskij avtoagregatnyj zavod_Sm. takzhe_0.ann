@@ -1,8 +1,0 @@
-T1	Organization 0 31	Шадринский автоагрегатный завод
-T2	Organization 64 96	ОАО «Завод имени И. А. Лихачёва»
-T3	Organization 99 103	УГМК
-N1	Reference T1 wiki:3709862	Шадринский автоагрегатный завод
-N2	Reference T2 wiki:259988	Завод имени Лихачёва
-N3	Reference T3 wiki:171944	Уральская горно-металлургическая компания
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 11	Тверьэнерго
-T2	Organization 58 69	МРСК Центра
-N1	Reference T1 wiki:1245479	Тверьэнерго
-N2	Reference T2 wiki:2321689	МРСК Центра
-A1	IsLink T2

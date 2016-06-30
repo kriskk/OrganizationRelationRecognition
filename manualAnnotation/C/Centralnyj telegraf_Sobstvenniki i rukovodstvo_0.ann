@@ -1,8 +1,0 @@
-T1	Organization 0 20	Центральный телеграф
-T2	Organization 112 123	Связьинвест
-T3	Organization 259 291	Депозитарно-клиринговая компания
-N1	Reference T1 wiki:1404588	Центральный телеграф
-N2	Reference T2 wiki:145705	Связьинвест
-N3	Reference T3 wiki:521857	Депозитарно-клиринговая компания
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 6	Disqus
-T2	Organization 189 201	Y Combinator
-T3	Organization 302 305	CNN
-N1	Reference T1 wiki:4115614	Disqus
-N2	Reference T2 wiki:4027666	Y Combinator
-N3	Reference T3 wiki:256238	CNN
-A1	IsLink T2
-A2	IsLink T3

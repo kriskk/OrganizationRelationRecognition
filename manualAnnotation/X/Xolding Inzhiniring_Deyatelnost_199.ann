@@ -1,8 +1,0 @@
-T1	Organization 0 18	Холдинг Инжиниринг
-T2	Organization 248 254	Airbus
-T3	Organization 257 263	Boeing
-N1	Reference T1 wiki:4238417	Холдинг Инжиниринг
-N2	Reference T2 wiki:212269	Airbus
-N3	Reference T3 wiki:156398	Boeing
-A1	IsLink T2
-A2	IsLink T3

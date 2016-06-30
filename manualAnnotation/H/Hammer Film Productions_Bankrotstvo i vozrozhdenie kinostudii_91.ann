@@ -1,8 +1,0 @@
-T1	Organization 0 23	Hammer Film Productions
-T2	Organization 255 266	Warner Bros
-T3	Organization 269 285	20th Century Fox
-N1	Reference T1 wiki:727286	Hammer Film Productions
-N2	Reference T2 wiki:272386	Warner Bros
-N3	Reference T3 wiki:272376	20th Century Fox
-A1	IsLink T2
-A2	IsLink T3

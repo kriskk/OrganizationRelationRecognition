@@ -1,5 +1,0 @@
-T1	Organization 0 15	American Motors
-T2	Organization 234 248	General Motors
-N1	Reference T1 wiki:3346012	American Motors
-N2	Reference T2 wiki:17438	General Motors
-A1	IsLink T2

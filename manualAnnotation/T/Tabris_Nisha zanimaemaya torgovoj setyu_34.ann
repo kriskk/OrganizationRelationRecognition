@@ -1,8 +1,0 @@
-T1	Organization 0 6	Табрис
-T2	Organization 262 284	Лента (сеть магазинов)
-T3	Organization 287 291	АШАН
-N1	Reference T1 wiki:2354082	Табрис
-N2	Reference T2 wiki:162961	Лента (сеть магазинов)
-N3	Reference T3 wiki:1324090	АШАН
-A1	IsLink T2
-A2	IsLink T3

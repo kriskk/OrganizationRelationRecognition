@@ -1,8 +1,0 @@
-T1	Organization 0 21	Acclaim Entertainment
-T2	Organization 187 202	Electronic Arts
-T3	Organization 235 238	THQ
-N1	Reference T1 wiki:3487700	Acclaim Entertainment
-N2	Reference T2 wiki:323143	Electronic Arts
-N3	Reference T3 wiki:795069	THQ
-A1	IsLink T2
-A2	IsLink T3

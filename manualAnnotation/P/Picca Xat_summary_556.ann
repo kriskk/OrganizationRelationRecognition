@@ -1,5 +1,0 @@
-T1	Organization 0 9	Пицца Хат
-T2	Organization 203 216	Golden corral
-N1	Reference T1 wiki:1270413	Пицца Хат
-N2	Reference T2 wiki:1853949	Golden corral
-A1	IsLink T2

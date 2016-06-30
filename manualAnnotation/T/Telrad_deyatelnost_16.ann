@@ -1,5 +1,0 @@
-T1	Organization 0 6	Telrad
-T2	Organization 277 283	Nortel
-N1	Reference T1 wiki:2363446	Telrad
-N2	Reference T2 wiki:311902	Nortel
-A1	IsLink T2

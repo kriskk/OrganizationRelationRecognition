@@ -1,8 +1,0 @@
-T1	Organization 0 28	Часовоярский ремонтный завод
-T2	Organization 171 174	ГАЗ
-T3	Organization 177 180	ЗИЛ
-N1	Reference T1 wiki:3511768	Часовоярский ремонтный завод
-N2	Reference T2 wiki:25060	Горьковский автомобильный завод
-N3	Reference T3 wiki:259988	ЗИЛ
-A1	IsLink T2
-A2	IsLink T3

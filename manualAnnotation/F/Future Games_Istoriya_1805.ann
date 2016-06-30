@@ -1,5 +1,0 @@
-T1	Organization 0 12	Future Games
-T2	Organization 224 234	Новый Диск
-N1	Reference T1 wiki:1871204	Future Games
-N2	Reference T2 wiki:606365	Новый Диск
-A1	IsLink T2

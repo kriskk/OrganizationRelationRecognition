@@ -1,5 +1,0 @@
-T1	Organization 0 8	ТехИнпут
-T2	Organization 179 181	1С
-N1	Reference T1 wiki:4449031	ТехИнпут
-N2	Reference T2 wiki:34936	1С
-A1	IsLink T2

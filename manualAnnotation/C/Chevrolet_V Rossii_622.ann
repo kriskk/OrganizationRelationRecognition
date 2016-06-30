@@ -1,5 +1,0 @@
-T1	Organization 0 9	Chevrolet
-T2	Organization 248 258	GM-АВТОВАЗ
-N1	Reference T1 wiki:17631	Chevrolet
-N2	Reference T2 wiki:18331	GM-АВТОВАЗ
-A1	IsLink T2

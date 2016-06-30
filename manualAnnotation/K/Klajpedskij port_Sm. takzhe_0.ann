@@ -1,5 +1,0 @@
-T1	Organization 0 16	Клайпедский порт
-T2	Organization 68 103	Клайпедская компания морских грузов
-N1	Reference T1 wiki:455656	Клайпедский порт
-N2	Reference T2 wiki:455639	Клайпедская компания морских грузов
-A1	IsLink T2

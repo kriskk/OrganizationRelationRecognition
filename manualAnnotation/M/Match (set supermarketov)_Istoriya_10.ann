@@ -1,5 +1,0 @@
-T1	Organization 0 26	Match (сеть супермаркетов)
-T2	Organization 245 265	Louis Delhaize Group
-N1	Reference T1 wiki:2263425	Match (сеть супермаркетов)
-N2	Reference T2 wiki:2244400	Louis Delhaize Group
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 14	Сургутнефтегаз
-T2	Organization 195 198	MOL
-T3	Organization 222 225	OMV
-N1	Reference T1 wiki:143564	Сургутнефтегаз
-N2	Reference T2 wiki:392267	MOL
-N3	Reference T3 wiki:209927	OMV
-A1	IsLink T2
-A2	IsLink T3

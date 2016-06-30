@@ -1,5 +1,0 @@
-T1	Organization 0 24	СВД Встраиваемые Системы
-T2	Organization 150 162	SWD Software
-N1	Reference T1 wiki:3319497	СВД Встраиваемые Системы
-N2	Reference T2 wiki:4489243	SWD Software
-A1	IsLink T2

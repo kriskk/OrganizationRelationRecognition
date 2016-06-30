@@ -1,5 +1,0 @@
-T1	Organization 0 7	Агромат
-T2	Organization 130 134	ПФТС
-N1	Reference T1 wiki:3014727	Агромат
-N2	Reference T2 wiki:769045	ПФТС
-A1	IsLink T2

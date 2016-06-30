@@ -1,5 +1,0 @@
-T1	Organization 0 24	Размах (группа компаний)
-T2	Organization 80 93	«Синявинская»
-N1	Reference T1 wiki:3769204	Размах (группа компаний)
-N2	Reference T2 wiki:3934096	Синявинская (птицефабрика)
-A1	IsLink T2

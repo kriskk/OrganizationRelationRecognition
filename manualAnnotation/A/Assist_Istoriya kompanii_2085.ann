@@ -1,8 +1,0 @@
-T1	Organization 0 6	Assist
-T2	Organization 200 204	VISA
-T3	Organization 207 217	MasterCard
-N1	Reference T1 wiki:4437929	Assist
-N2	Reference T2 wiki:36386	VISA
-N3	Reference T3 wiki:36409	MasterCard
-A1	IsLink T2
-A2	IsLink T3

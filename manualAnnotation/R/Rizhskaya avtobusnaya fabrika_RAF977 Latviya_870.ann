@@ -1,5 +1,0 @@
-T1	Organization 0 26	Рижская автобусная фабрика
-T2	Organization 224 228	ЕрАЗ
-N1	Reference T1 wiki:371838	Рижская автобусная фабрика
-N2	Reference T2 wiki:1529885	ЕрАЗ
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 15	Elemental Games
-T2	Organization 249 253	Бука
-T3	Organization 729 731	1С
-N1	Reference T1 wiki:820628	Elemental Games
-N2	Reference T2 wiki:367355	Бука (компания)
-N3	Reference T3 wiki:34936	1С
-A1	IsLink T2
-A2	IsLink T3

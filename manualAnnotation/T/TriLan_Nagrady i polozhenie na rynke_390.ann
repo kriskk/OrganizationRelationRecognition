@@ -1,5 +1,0 @@
-T1	Organization 0 6	ТриЛан
-T2	Organization 215 224	Ru-Center
-N1	Reference T1 wiki:4180580	ТриЛан
-N2	Reference T2 wiki:2350694	Ru-Center
-A1	IsLink T2

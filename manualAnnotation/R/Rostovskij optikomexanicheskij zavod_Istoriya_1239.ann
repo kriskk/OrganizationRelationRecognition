@@ -1,8 +1,0 @@
-T1	Organization 0 36	Ростовский оптико-механический завод
-T2	Organization 371 374	AEG
-T3	Organization 406 410	РАТМ
-N1	Reference T1 wiki:2047622	Ростовский оптико-механический завод
-N2	Reference T2 wiki:294609	AEG
-N3	Reference T3 wiki:722157	РАТМ
-A1	IsLink T2
-A2	IsLink T3

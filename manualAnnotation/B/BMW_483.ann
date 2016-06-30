@@ -1,5 +1,0 @@
-T1	Organization 0 3	BMW
-T2	Organization 200 211	Rolls-Royce
-N1	Reference T1 wiki:40368	BMW
-N2	Reference T2 wiki:40384	Rolls-Royce Motor Cars
-A1	IsLink T2

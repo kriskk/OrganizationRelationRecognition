@@ -1,5 +1,0 @@
-T1	Organization 0 19	The Pokémon Company
-T2	Organization 48 56	Nintendo
-N1	Reference T1 wiki:3334571	The Pokémon Company
-N2	Reference T2 wiki:202486	Nintendo
-A1	IsLink T2

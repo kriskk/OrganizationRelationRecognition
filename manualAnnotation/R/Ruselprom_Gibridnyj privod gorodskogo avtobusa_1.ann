@@ -1,8 +1,0 @@
-T1	Organization 0 9	Русэлпром
-T2	Organization 251 255	ЛИАЗ
-T3	Organization 291 295	ЛИАЗ
-N1	Reference T1 wiki:1751925	Русэлпром
-N2	Reference T2 wiki:154271	ЛИАЗ
-N3	Reference T3 wiki:154271	ЛИАЗ
-A1	IsLink T2
-A2	IsLink T3

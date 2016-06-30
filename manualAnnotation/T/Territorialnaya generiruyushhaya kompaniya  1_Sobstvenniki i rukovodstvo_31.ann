@@ -1,5 +1,0 @@
-T1	Organization 0 41	Территориальная генерирующая компания № 1
-T2	Organization 242 249	Газпром
-N1	Reference T1 wiki:257672	Территориальная генерирующая компания № 1
-N2	Reference T2 wiki:44754	Газпром
-A1	IsLink T2

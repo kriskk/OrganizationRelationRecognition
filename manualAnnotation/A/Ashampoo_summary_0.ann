@@ -1,5 +1,0 @@
-T1	Organization 0 8	Ashampoo
-T2	Organization 150 159	Microsoft
-N1	Reference T1 wiki:2314926	Ashampoo
-N2	Reference T2 wiki:11987	Microsoft
-A1	IsLink T2

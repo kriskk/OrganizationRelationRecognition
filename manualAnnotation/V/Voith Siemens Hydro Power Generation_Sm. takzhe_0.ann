@@ -1,8 +1,0 @@
-T1	Organization 0 36	Voith Siemens Hydro Power Generation
-T2	Organization 68 76	Voith AG
-T3	Organization 78 88	Siemens AG
-N1	Reference T1 wiki:572169	Voith Siemens Hydro Power Generation
-N2	Reference T2 wiki:1339842	Voith AG
-N3	Reference T3 wiki:36510	Siemens AG
-A1	IsLink T2
-A2	IsLink T3

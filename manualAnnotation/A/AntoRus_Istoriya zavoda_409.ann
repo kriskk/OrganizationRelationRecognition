@@ -1,8 +1,0 @@
-T1	Organization 0 8	Анто-Рус
-T2	Organization 259 262	ЗИЛ
-T3	Organization 365 368	ЗИЛ
-N1	Reference T1 wiki:3329202	Анто-Рус
-N2	Reference T2 wiki:259988	ЗИЛ
-N3	Reference T3 wiki:259988	ЗИЛ
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 23	Северо-Западный Телеком
-T2	Organization 115 125	Ростелеком
-N1	Reference T1 wiki:159172	Северо-Западный Телеком
-N2	Reference T2 wiki:145844	Ростелеком
-A1	IsLink T2

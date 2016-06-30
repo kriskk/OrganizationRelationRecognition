@@ -1,5 +1,0 @@
-T1	Organization 0 42	Территориальная генерирующая компания № 14
-T2	Organization 93 100	РАО ЕЭС
-N1	Reference T1 wiki:972897	Территориальная генерирующая компания № 14
-N2	Reference T2 wiki:1432138	РАО ЕЭС
-A1	IsLink T2

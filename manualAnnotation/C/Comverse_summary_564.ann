@@ -1,8 +1,0 @@
-T1	Organization 0 8	Comverse
-T2	Organization 267 273	Orange
-T3	Organization 288 295	Telstra
-N1	Reference T1 wiki:1123605	Comverse
-N2	Reference T2 wiki:373554	Orange
-N3	Reference T3 wiki:375401	Telstra
-A1	IsLink T2
-A2	IsLink T3

@@ -1,9 +1,0 @@
-ARM (компания)
-@Производители процессоров архитектуры ARM
-2855,1245
-
-	 Rockchip: RK2918 — ARM-процессор на 1ГГц, архитектура ARM Cortex-A8.
-	 Texas Instruments: TI OMAP3 3440/3450 — 800/1000 МГц.
-	 VIA: VT8500 — процессор ARM-926 на 266—400 МГц.
-	 Миландр: 1986ВЕ91-1986ВЕ93 80 МГц.
-	 STMicroelectronics: STM32F0 (Cortex-M0) 24 МГц; STM32F1 72 МГц, STM32F2 120 МГц (Cortex-M3); STM32F3 72МГц, STM32F4 168 МГц (Cortex-M4).

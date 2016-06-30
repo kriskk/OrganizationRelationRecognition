@@ -1,8 +1,0 @@
-T1	Organization 0 11	STX Finland
-T2	Organization 127 137	STX Europe
-T3	Organization 225 235	STX Europe
-N1	Reference T1 wiki:3464301	STX Finland
-N2	Reference T2 wiki:3434436	STX Europe
-N3	Reference T3 wiki:3434436	STX Europe
-A1	IsLink T2
-A2	IsLink T3

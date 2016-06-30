@@ -1,8 +1,0 @@
-T1	Organization 0 6	Tengen
-T2	Organization 181 184	NEC
-T3	Organization 479 490	Time Warner
-N1	Reference T1 wiki:3149045	Tengen
-N2	Reference T2 wiki:232844	NEC
-N3	Reference T3 wiki:741342	Time Warner
-A1	IsLink T2
-A2	IsLink T3

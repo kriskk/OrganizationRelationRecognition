@@ -1,8 +1,0 @@
-T1	Organization 0 28	Брянский автомобильный завод
-T2	Organization 150 153	ЗИЛ
-T3	Organization 355 386	Бежицкого сталелитейного завода
-N1	Reference T1 wiki:3476308	Брянский автомобильный завод
-N2	Reference T2 wiki:259988	Завод имени Лихачёва
-N3	Reference T3 wiki:305709	Бежицкий сталелитейный завод
-A1	IsLink T2
-A2	IsLink T3

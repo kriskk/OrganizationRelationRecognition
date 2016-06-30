@@ -1,8 +1,0 @@
-T1	Organization 0 20	Центральный телеграф
-T2	Organization 211 222	Связьинвест
-T3	Organization 233 236	BDO
-N1	Reference T1 wiki:1404588	Центральный телеграф
-N2	Reference T2 wiki:145705	Связьинвест
-N3	Reference T3 wiki:3179758	BDO International
-A1	IsLink T2
-A2	IsLink T3

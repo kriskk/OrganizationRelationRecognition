@@ -1,8 +1,0 @@
-T1	Organization 0 7	Новатэк
-T2	Organization 157 163	Gunvor
-T3	Organization 214 222	Ямал СПГ
-N1	Reference T1 wiki:172027	Новатэк
-N2	Reference T2 wiki:893402	Gunvor
-N3	Reference T3 wiki:3487130	Ямал СПГ
-A1	IsLink T2
-A2	IsLink T3

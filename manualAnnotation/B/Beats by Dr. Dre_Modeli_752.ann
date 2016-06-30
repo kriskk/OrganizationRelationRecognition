@@ -1,8 +1,0 @@
-T1	Organization 0 16	Beats by Dr. Dre
-T2	Organization 195 200	Apple
-T3	Organization 272 277	Apple
-N1	Reference T1 wiki:3549830	Beats by Dr. Dre
-N2	Reference T2 wiki:39726	Apple
-N3	Reference T3 wiki:39726	Apple
-A1	IsLink T2
-A2	IsLink T3

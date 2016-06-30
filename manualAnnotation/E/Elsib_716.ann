@@ -1,8 +1,0 @@
-T1	Organization 0 5	Элсиб
-T2	Organization 163 180	Новосибирскэнерго
-T3	Organization 199 205	RU-COM
-N1	Reference T1 wiki:2868530	Элсиб
-N2	Reference T2 wiki:349518	Новосибирскэнерго
-N3	Reference T3 wiki:2749951	RU-COM
-A1	IsLink T2
-A2	IsLink T3

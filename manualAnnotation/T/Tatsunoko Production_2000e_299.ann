@@ -1,5 +1,0 @@
-T1	Organization 0 20	Tatsunoko Production
-T2	Organization 201 209	Madhouse
-N1	Reference T1 wiki:3007966	Tatsunoko Production
-N2	Reference T2 wiki:871335	Madhouse
-A1	IsLink T2

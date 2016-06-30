@@ -1,8 +1,0 @@
-T1	Organization 0 12	Туркменпочта
-T2	Organization 219 234	Federal Express
-T3	Organization 237 240	DHL
-N1	Reference T1 wiki:3197936	Туркменпочта
-N2	Reference T2 wiki:773762	Federal Express
-N3	Reference T3 wiki:209951	DHL
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 10	Tupperware
-T2	Organization 43 48	Amway
-T3	Organization 51 60	Гербалайф
-N1	Reference T1 wiki:1293002	Tupperware
-N2	Reference T2 wiki:200434	Amway
-N3	Reference T3 wiki:53021	Гербалайф
-A1	IsLink T2
-A2	IsLink T3

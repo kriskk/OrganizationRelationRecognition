@@ -1,8 +1,0 @@
-T1	Organization 0 16	Siemens Industry
-T2	Organization 188 198	Mdexx GmbH
-T3	Organization 201 237	Siemens Electronics Assembly Systems
-N1	Reference T1 wiki:985494	Siemens Industry
-N2	Reference T2 wiki:1779841	Mdexx GmbH
-N3	Reference T3 wiki:1790038	Siemens Electronics Assembly Systems
-A1	IsLink T2
-A2	IsLink T3

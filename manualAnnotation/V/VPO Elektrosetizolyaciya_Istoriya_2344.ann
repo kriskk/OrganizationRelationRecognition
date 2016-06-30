@@ -1,5 +1,0 @@
-T1	Organization 0 23	ВПО Электросетьизоляция
-T2	Organization 264 291	Львовский изоляторный завод
-N1	Reference T1 wiki:3878177	ВПО Электросетьизоляция
-N2	Reference T2 wiki:2640086	Львовская изоляторная компания
-A1	IsLink T2

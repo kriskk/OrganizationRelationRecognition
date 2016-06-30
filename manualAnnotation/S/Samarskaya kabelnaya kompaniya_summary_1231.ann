@@ -1,8 +1,0 @@
-T1	Organization 0 28	Самарская кабельная компания
-T2	Organization 306 321	Дженерал Моторс
-T3	Organization 372 382	ЗАО «СОКК»
-N1	Reference T1 wiki:815822	Самарская кабельная компания
-N2	Reference T2 wiki:17438	Дженерал Моторс
-N3	Reference T3 wiki:3120306	Самарская оптическая кабельная компания
-A1	IsLink T2
-A2	IsLink T3

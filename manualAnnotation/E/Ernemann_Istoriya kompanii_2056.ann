@@ -1,8 +1,0 @@
-T1	Organization 0 8	Ernemann
-T2	Organization 295 301	ICA AG
-T3	Organization 313 318	Goerz
-N1	Reference T1 wiki:1951617	Ernemann
-N2	Reference T2 wiki:1974235	ICA AG
-N3	Reference T3 wiki:1948230	Goerz
-A1	IsLink T2
-A2	IsLink T3

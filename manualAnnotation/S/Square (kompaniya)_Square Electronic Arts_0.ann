@@ -1,5 +1,0 @@
-T1	Organization 0 17	Square (компания)
-T2	Organization 205 220	Electronic Arts
-N1	Reference T1 wiki:278305	Square (компания)
-N2	Reference T2 wiki:323143	Electronic Arts
-A1	IsLink T2

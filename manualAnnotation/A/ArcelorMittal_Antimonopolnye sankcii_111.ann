@@ -1,8 +1,0 @@
-T1	Organization 0 13	ArcelorMittal
-T2	Organization 289 300	Voestalpine
-T3	Organization 334 344	Северстали
-N1	Reference T1 wiki:354086	ArcelorMittal
-N2	Reference T2 wiki:1295186	Voestalpine
-N3	Reference T3 wiki:149218	Северсталь
-A1	IsLink T2
-A2	IsLink T3

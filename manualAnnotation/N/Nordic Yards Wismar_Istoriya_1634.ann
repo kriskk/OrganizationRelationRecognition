@@ -1,8 +1,0 @@
-T1	Organization 0 19	Nordic Yards Wismar
-T2	Organization 227 235	Aker RGI
-T3	Organization 334 344	Aker Yards
-N1	Reference T1 wiki:3540711	Nordic Yards Wismar
-N2	Reference T2 wiki:3434436	STX Europe
-N3	Reference T3 wiki:3434436	STX Europe
-A1	IsLink T2
-A2	IsLink T3

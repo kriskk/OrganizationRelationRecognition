@@ -1,8 +1,0 @@
-T1	Organization 0 4	Enka
-T2	Organization 232 239	Рамэнка
-T3	Organization 274 281	Рамстор
-N1	Reference T1 wiki:180366	Enka
-N2	Reference T2 wiki:2936111	Рамэнка
-N3	Reference T3 wiki:2936111	Рамстор
-A1	IsLink T2
-A2	IsLink T3

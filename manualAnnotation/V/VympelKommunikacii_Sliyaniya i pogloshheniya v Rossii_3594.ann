@@ -1,5 +1,0 @@
-T1	Organization 0 19	Вымпел-Коммуникации
-T2	Organization 341 353	ЦентрТелеком
-N1	Reference T1 wiki:70736	Вымпел-Коммуникации
-N2	Reference T2 wiki:142992	ЦентрТелеком
-A1	IsLink T2

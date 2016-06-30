@@ -1,5 +1,0 @@
-T1	Organization 0 29	Суэцкий контейнерный терминал
-T2	Organization 128 133	COSCO
-N1	Reference T1 wiki:4385042	Суэцкий контейнерный терминал
-N2	Reference T2 wiki:3735605	COSCO
-A1	IsLink T2

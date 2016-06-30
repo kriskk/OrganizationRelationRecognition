@@ -1,5 +1,0 @@
-T1	Organization 0 14	Piper Aircraft
-T2	Organization 256 261	Боинг
-N1	Reference T1 wiki:2360788	Piper Aircraft
-N2	Reference T2 wiki:156398	Боинг
-A1	IsLink T2

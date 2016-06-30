@@ -1,5 +1,0 @@
-T1	Organization 0 11	FingerWorks
-T2	Organization 469 474	Apple
-N1	Reference T1 wiki:2017529	FingerWorks
-N2	Reference T2 wiki:39726	Apple
-A1	IsLink T2

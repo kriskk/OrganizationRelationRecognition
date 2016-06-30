@@ -1,8 +1,0 @@
-T1	Organization 0 10	Duesenberg
-T2	Organization 271 279	Imperial
-T3	Organization 293 301	Chrysler
-N1	Reference T1 wiki:3328881	Duesenberg
-N2	Reference T2 wiki:1357953	Imperial
-N3	Reference T3 wiki:223902	Chrysler
-A1	IsLink T2
-A2	IsLink T3

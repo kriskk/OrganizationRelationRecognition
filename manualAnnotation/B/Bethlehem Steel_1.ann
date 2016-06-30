@@ -1,5 +1,0 @@
-T1	Organization 0 15	Bethlehem Steel
-T2	Organization 173 186	ArcelorMittal
-N1	Reference T1 wiki:2222036	Bethlehem Steel
-N2	Reference T2 wiki:354086	ArcelorMittal
-A1	IsLink T2

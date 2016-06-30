@@ -1,8 +1,0 @@
-T1	Organization 0 20	Lockheed Corporation
-T2	Organization 118 133	Martin Marietta
-T3	Organization 163 178	Lockheed Martin
-N1	Reference T1 wiki:1523502	Lockheed Corporation
-N2	Reference T2 wiki:1276671	Martin Marietta
-N3	Reference T3 wiki:301268	Lockheed Martin
-A1	IsLink T2
-A2	IsLink T3

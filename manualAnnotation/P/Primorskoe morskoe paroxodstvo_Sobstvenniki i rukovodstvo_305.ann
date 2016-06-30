@@ -1,8 +1,0 @@
-T1	Organization 0 30	Приморское морское пароходство
-T2	Organization 312 316	ДВМП
-T3	Organization 319 326	Новошип
-N1	Reference T1 wiki:1294971	Приморское морское пароходство
-N2	Reference T2 wiki:149752	ДВМП
-N3	Reference T3 wiki:210701	Новошип
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 24	Baldwin Locomotive Works
-T2	Organization 229 233	ALCO
-N1	Reference T1 wiki:1849101	Baldwin Locomotive Works
-N2	Reference T2 wiki:1851708	ALCO
-A1	IsLink T2

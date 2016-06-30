@@ -1,5 +1,0 @@
-T1	Organization 0 10	ExxonMobil
-T2	Organization 303 305	BP
-N1	Reference T1 wiki:176152	ExxonMobil
-N2	Reference T2 wiki:189320	BP
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 36	Ачинский нефтеперерабатывающий завод
-T2	Organization 275 283	Роснефть
-N1	Reference T1 wiki:1063821	Ачинский нефтеперерабатывающий завод
-N2	Reference T2 wiki:139770	Роснефть
-A1	IsLink T2

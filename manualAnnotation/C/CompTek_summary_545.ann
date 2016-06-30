@@ -1,5 +1,0 @@
-T1	Organization 0 7	CompTek
-T2	Organization 273 279	Яндекс
-N1	Reference T1 wiki:2664407	CompTek
-N2	Reference T2 wiki:9744	Яндекс
-A1	IsLink T2

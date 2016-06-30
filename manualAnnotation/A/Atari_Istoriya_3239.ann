@@ -1,5 +1,0 @@
-T1	Organization 0 5	Atari
-T2	Organization 214 222	Nintendo
-N1	Reference T1 wiki:308218	Atari
-N2	Reference T2 wiki:202486	Nintendo
-A1	IsLink T2

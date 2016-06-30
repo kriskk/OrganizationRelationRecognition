@@ -1,8 +1,0 @@
-T1	Organization 0 12	China Unicom
-T2	Organization 185 198	China Telecom
-T3	Organization 489 497	Ericsson
-N1	Reference T1 wiki:2862529	China Unicom
-N2	Reference T2 wiki:3661466	China Telecom
-N3	Reference T3 wiki:711402	Ericsson
-A1	IsLink T2
-A2	IsLink T3

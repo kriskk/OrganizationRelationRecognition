@@ -1,5 +1,0 @@
-T1	Organization 0 6	Compaq
-T2	Organization 192 209	Texas Instruments
-N1	Reference T1 wiki:343420	Compaq
-N2	Reference T2 wiki:429235	Texas Instruments
-A1	IsLink T2

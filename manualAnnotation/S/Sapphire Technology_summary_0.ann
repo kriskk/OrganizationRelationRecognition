@@ -1,5 +1,0 @@
-T1	Organization 0 19	Sapphire Technology
-T2	Organization 114 117	AMD
-N1	Reference T1 wiki:1014101	Sapphire Technology
-N2	Reference T2 wiki:19981	Advanced Micro Devices
-A1	IsLink T2

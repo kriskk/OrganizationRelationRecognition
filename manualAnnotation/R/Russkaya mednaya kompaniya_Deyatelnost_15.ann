@@ -1,8 +1,0 @@
-T1	Organization 0 23	Русская медная компания
-T2	Organization 376 387	Карабашмедь
-T3	Organization 395 429	Кыштымский медеэлектролитный завод
-N1	Reference T1 wiki:359916	Русская медная компания
-N2	Reference T2 wiki:3721621	Карабашмедь
-N3	Reference T3 wiki:3191026	Кыштымский медеэлектролитный завод
-A1	IsLink T2
-A2	IsLink T3

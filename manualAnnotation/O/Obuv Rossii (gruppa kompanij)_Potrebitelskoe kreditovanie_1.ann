@@ -1,5 +1,0 @@
-T1	Organization 0 30	Обувь России (группа компаний)
-T2	Organization 240 250	Вестфалика
-N1	Reference T1 wiki:1378604	Обувь России (группа компаний)
-N2	Reference T2 wiki:2832268	Вестфалика
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 5	Alcoa
-T2	Organization 218 230	BHP Billiton
-T3	Organization 247 256	Rio Tinto
-N1	Reference T1 wiki:527770	Alcoa
-N2	Reference T2 wiki:231571	BHP Billiton
-N3	Reference T3 wiki:144043	Rio Tinto
-A1	IsLink T2
-A2	IsLink T3

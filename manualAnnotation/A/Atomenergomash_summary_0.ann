@@ -1,8 +1,0 @@
-T1	Organization 0 13	Атомэнергомаш
-T2	Organization 134 189	Государственной корпорации по атомной энергии «Росатом»
-T3	Organization 419 433	Атомэнергопром
-N1	Reference T1 wiki:2868760	Атомэнергомаш
-N2	Reference T2 wiki:1299917	Росатом (государственная корпорация)
-N3	Reference T3 wiki:1402114	Атомэнергопром
-A1	IsLink T2
-A2	IsLink T3

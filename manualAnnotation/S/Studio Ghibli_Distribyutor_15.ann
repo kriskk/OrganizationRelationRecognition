@@ -1,5 +1,0 @@
-T1	Organization 0 13	Studio Ghibli
-T2	Organization 297 306	Советский
-N1	Reference T1 wiki:8977	Studio Ghibli
-N2	Reference T2 wiki:137785	Союзмультфильм
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 15	Sun Innovations
-T2	Organization 386 393	Роснано
-T3	Organization 418 430	Уралсиб (ФК)
-N1	Reference T1 wiki:2942471	Sun Innovations
-N2	Reference T2 wiki:728818	Роснано
-N3	Reference T3 wiki:237228	Уралсиб (ФК)
-A1	IsLink T2
-A2	IsLink T3

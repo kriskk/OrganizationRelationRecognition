@@ -1,5 +1,0 @@
-T1	Organization 0 16	Athenian Brewery
-T2	Organization 192 200	Heineken
-N1	Reference T1 wiki:4119271	Athenian Brewery
-N2	Reference T2 wiki:248758	Heineken
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 35	Черноморский судостроительный завод
-T2	Organization 240 246	Руссуд
-N1	Reference T1 wiki:707710	Черноморский судостроительный завод
-N2	Reference T2 wiki:707715	Руссуд
-A1	IsLink T2

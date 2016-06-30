@@ -1,8 +1,0 @@
-T1	Organization 0 21	Пурпетрубопроводстрой
-T2	Organization 54 67	Ростехнологии
-T3	Organization 153 177	Холмогортрубопроводстрой
-N1	Reference T1 wiki:4423497	Пурпетрубопроводстрой
-N2	Reference T2 wiki:915063	Ростехнологии
-N3	Reference T3 wiki:4423459	Холмогортрубопроводстрой
-A1	IsLink T2
-A2	IsLink T3

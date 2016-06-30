@@ -1,5 +1,0 @@
-T1	Organization 0 13	Deutsche Bahn
-T2	Organization 182 190	Schenker
-N1	Reference T1 wiki:321840	Deutsche Bahn
-N2	Reference T2 wiki:3497427	Schenker
-A1	IsLink T2

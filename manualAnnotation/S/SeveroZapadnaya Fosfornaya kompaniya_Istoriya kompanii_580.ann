@@ -1,8 +1,0 @@
-T1	Organization 0 34	Северо-Западная Фосфорная компания
-T2	Organization 415 421	Апатит
-T3	Organization 466 473	Газпром
-N1	Reference T1 wiki:2128625	Северо-Западная Фосфорная компания
-N2	Reference T2 wiki:3017626	Апатит (предприятие)
-N3	Reference T3 wiki:44754	Газпром
-A1	IsLink T2
-A2	IsLink T3

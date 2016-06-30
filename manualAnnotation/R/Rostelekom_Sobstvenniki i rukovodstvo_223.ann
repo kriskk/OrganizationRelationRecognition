@@ -1,5 +1,0 @@
-T1	Organization 0 10	Ростелеком
-T2	Organization 200 203	НРД
-N1	Reference T1 wiki:145844	Ростелеком
-N2	Reference T2 wiki:3747955	Национальный расчетный депозитарий
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 18	Link-Assistant.Com
-T2	Organization 111 117	Yandex
-N1	Reference T1 wiki:3913190	Link-Assistant.Com
-N2	Reference T2 wiki:9744	Yandex
-A1	IsLink T2

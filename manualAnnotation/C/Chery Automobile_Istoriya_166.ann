@@ -1,8 +1,0 @@
-T1	Organization 0 16	Chery Automobile
-T2	Organization 204 208	Ford
-T3	Organization 320 324	Seat
-N1	Reference T1 wiki:378562	Chery Automobile
-N2	Reference T2 wiki:153236	Ford
-N3	Reference T3 wiki:41437	Seat
-A1	IsLink T2
-A2	IsLink T3

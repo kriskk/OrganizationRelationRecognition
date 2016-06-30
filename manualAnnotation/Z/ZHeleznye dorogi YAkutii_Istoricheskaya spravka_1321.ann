@@ -1,5 +1,0 @@
-T1	Organization 0 22	Железные дороги Якутии
-T2	Organization 235 238	РЖД
-N1	Reference T1 wiki:558408	Железные дороги Якутии
-N2	Reference T2 wiki:106901	РЖД
-A1	IsLink T2

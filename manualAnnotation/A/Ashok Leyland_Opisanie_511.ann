@@ -1,8 +1,0 @@
-T1	Organization 0 13	Ashok Leyland
-T2	Organization 265 271	Nissan
-T3	Organization 370 378	Волжанин
-N1	Reference T1 wiki:276563	Ashok Leyland
-N2	Reference T2 wiki:159586	Nissan
-N3	Reference T3 wiki:149679	Волжанин
-A1	IsLink T2
-A2	IsLink T3

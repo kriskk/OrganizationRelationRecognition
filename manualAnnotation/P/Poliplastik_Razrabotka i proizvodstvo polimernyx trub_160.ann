@@ -1,8 +1,0 @@
-T1	Organization 0 11	Полипластик
-T2	Organization 249 274	Рубежанский трубный завод
-T3	Organization 307 330	Калушский трубный завод
-N1	Reference T1 wiki:4180223	Полипластик
-N2	Reference T2 wiki:1958779	Рубежанский трубный завод
-N3	Reference T3 wiki:3353513	Калушский трубный завод
-A1	IsLink T2
-A2	IsLink T3

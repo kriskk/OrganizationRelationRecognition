@@ -1,8 +1,0 @@
-T1	Organization 0 12	TMS Software
-T2	Organization 277 286	Microsoft
-T3	Organization 291 298	Borland
-N1	Reference T1 wiki:3062655	TMS Software
-N2	Reference T2 wiki:11987	Microsoft
-N3	Reference T3 wiki:35713	Borland
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 12	Мострансавто
-T2	Organization 45 56	Мосгортранс
-T3	Organization 59 71	Совтрансавто
-N1	Reference T1 wiki:363308	Мострансавто
-N2	Reference T2 wiki:393941	Мосгортранс
-N3	Reference T3 wiki:2564214	Совтрансавто
-A1	IsLink T2
-A2	IsLink T3

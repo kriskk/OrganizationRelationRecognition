@@ -1,5 +1,0 @@
-T1	Organization 0 5	DePuy
-T2	Organization 67 84	Johnson & Johnson
-N1	Reference T1 wiki:3305212	DePuy
-N2	Reference T2 wiki:608810	Johnson & Johnson
-A1	IsLink T2

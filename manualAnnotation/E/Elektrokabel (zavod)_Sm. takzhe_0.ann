@@ -1,5 +1,0 @@
-T1	Organization 0 21	Электрокабель (завод)
-T2	Organization 54 90	Кольчугинский завод цветных металлов
-N1	Reference T1 wiki:4302520	Электрокабель (завод)
-N2	Reference T2 wiki:707099	Кольчугцветмет
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 40	Тбилисский электровозостроительный завод
-T2	Organization 283 293	Северсталь
-T3	Organization 506 520	"Укрзалізниця"
-N1	Reference T1 wiki:173493	Тбилисский электровозостроительный завод
-N2	Reference T2 wiki:149218	Северсталь
-N3	Reference T3 wiki:384185	Украинские железные дороги
-A1	IsLink T2
-A2	IsLink T3

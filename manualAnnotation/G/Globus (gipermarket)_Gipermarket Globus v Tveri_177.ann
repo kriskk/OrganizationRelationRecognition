@@ -1,5 +1,0 @@
-T1	Organization 0 20	Глобус (гипермаркет)
-T2	Organization 433 445	Леруа Мерлен
-N1	Reference T1 wiki:1271178	Глобус (гипермаркет)
-N2	Reference T2 wiki:342544	Leroy Merlin
-A1	IsLink T2

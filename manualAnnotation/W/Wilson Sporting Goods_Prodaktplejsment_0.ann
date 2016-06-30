@@ -1,5 +1,0 @@
-T1	Organization 0 21	Wilson Sporting Goods
-T2	Organization 154 159	FedEx
-N1	Reference T1 wiki:2560143	Wilson Sporting Goods
-N2	Reference T2 wiki:773762	FedEx
-A1	IsLink T2

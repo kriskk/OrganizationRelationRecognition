@@ -1,5 +1,0 @@
-T1	Organization 0 43	Transports publics de la région Lausannoise
-T2	Organization 281 284	BCV
-N1	Reference T1 wiki:3895925	Transports publics de la région Lausannoise
-N2	Reference T2 wiki:2125454	Banque Cantonale Vaudoise
-A1	IsLink T2

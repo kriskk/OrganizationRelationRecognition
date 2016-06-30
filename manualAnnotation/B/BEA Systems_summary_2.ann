@@ -1,5 +1,0 @@
-T1	Organization 0 11	BEA Systems
-T2	Organization 182 188	Oracle
-N1	Reference T1 wiki:565937	BEA Systems
-N2	Reference T2 wiki:129227	Oracle
-A1	IsLink T2

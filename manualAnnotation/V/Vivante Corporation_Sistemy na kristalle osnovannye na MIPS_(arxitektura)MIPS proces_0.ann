@@ -1,5 +1,0 @@
-T1	Organization 0 19	Vivante Corporation
-T2	Organization 215 222	Ingenic
-N1	Reference T1 wiki:4276956	Vivante Corporation
-N2	Reference T2 wiki:2414387	Ingenic Semiconductor
-A1	IsLink T2

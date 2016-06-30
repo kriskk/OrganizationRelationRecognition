@@ -1,5 +1,0 @@
-T1	Organization 0 27	Алтын Асыр (оператор связи)
-T2	Organization 227 234	Youtube
-N1	Reference T1 wiki:2534369	Алтын Асыр (оператор связи)
-N2	Reference T2 wiki:275424	Youtube
-A1	IsLink T2

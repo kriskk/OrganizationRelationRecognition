@@ -1,5 +1,0 @@
-T1	Organization 0 10	Panavision
-T2	Organization 242 254	ITunes Store
-N1	Reference T1 wiki:3584656	Panavision
-N2	Reference T2 wiki:63804	ITunes Store
-A1	IsLink T2

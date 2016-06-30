@@ -1,8 +1,0 @@
-T1	Organization 0 9	AQuantive
-T2	Organization 124 133	Microsoft
-T3	Organization 232 238	NASDAQ
-N1	Reference T1 wiki:656560	AQuantive
-N2	Reference T2 wiki:11987	Microsoft
-N3	Reference T3 wiki:63813	NASDAQ
-A1	IsLink T2
-A2	IsLink T3

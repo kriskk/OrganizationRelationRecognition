@@ -1,8 +1,0 @@
-T1	Organization 0 22	Siemens-Schuckertwerke
-T2	Organization 177 196	Siemens & Halske AG
-T3	Organization 226 236	Siemens AG
-N1	Reference T1 wiki:198667	Siemens-Schuckertwerke
-N2	Reference T2 wiki:762874	Siemens & Halske AG
-N3	Reference T3 wiki:36510	Siemens AG
-A1	IsLink T2
-A2	IsLink T3

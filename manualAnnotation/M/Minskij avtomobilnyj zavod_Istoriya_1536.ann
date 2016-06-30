@@ -1,8 +1,0 @@
-T1	Organization 0 27	Минский автомобильный завод
-T2	Organization 255 259	КрАЗ
-T3	Organization 294 297	ЯАЗ
-N1	Reference T1 wiki:33218	Минский автомобильный завод
-N2	Reference T2 wiki:606512	Кременчугский автомобильный завод
-N3	Reference T3 wiki:916530	ЯАЗ
-A1	IsLink T2
-A2	IsLink T3

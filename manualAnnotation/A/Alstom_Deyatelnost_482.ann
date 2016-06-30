@@ -1,8 +1,0 @@
-T1	Organization 0 6	Alstom
-T2	Organization 263 276	Virgin Trains
-T3	Organization 534 559	Российских железных дорог
-N1	Reference T1 wiki:571946	Alstom
-N2	Reference T2 wiki:4010063	Virgin Trains
-N3	Reference T3 wiki:106901	РЖД
-A1	IsLink T2
-A2	IsLink T3

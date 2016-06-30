@@ -1,8 +1,0 @@
-T1	Organization 0 30	Лазурит (конструкторское бюро)
-T2	Organization 63 91	Рубин (конструкторское бюро)
-T3	Organization 94 124	Малахит (конструкторское бюро)
-N1	Reference T1 wiki:3828879	Лазурит (конструкторское бюро)
-N2	Reference T2 wiki:774987	Рубин (конструкторское бюро)
-N3	Reference T3 wiki:1226858	Малахит (конструкторское бюро)
-A1	IsLink T2
-A2	IsLink T3

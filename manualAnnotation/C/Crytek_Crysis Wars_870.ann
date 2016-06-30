@@ -1,8 +1,0 @@
-T1	Organization 0 6	Crytek
-T2	Organization 344 351	GameSpy
-T3	Organization 384 393	Microsoft
-N1	Reference T1 wiki:650133	Crytek
-N2	Reference T2 wiki:2851555	GameSpy
-N3	Reference T3 wiki:11987	Microsoft
-A1	IsLink T2
-A2	IsLink T3

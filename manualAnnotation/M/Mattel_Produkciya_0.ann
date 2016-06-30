@@ -1,5 +1,0 @@
-T1	Organization 0 6	Mattel
-T2	Organization 131 134	WWE
-N1	Reference T1 wiki:197959	Mattel
-N2	Reference T2 wiki:1559702	WWE
-A1	IsLink T2

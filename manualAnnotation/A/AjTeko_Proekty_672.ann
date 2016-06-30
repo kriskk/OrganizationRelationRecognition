@@ -1,5 +1,0 @@
-T1	Organization 0 7	Ай-Теко
-T2	Organization 255 266	МРСК Центра
-N1	Reference T1 wiki:1770919	Ай-Теко
-N2	Reference T2 wiki:2321689	МРСК Центра
-A1	IsLink T2

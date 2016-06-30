@@ -1,5 +1,0 @@
-T1	Organization 0 21	Мурманский океанариум
-T2	Organization 331 360	судоремонтным заводом «Нерпа»
-N1	Reference T1 wiki:938602	Мурманский океанариум
-N2	Reference T2 wiki:1751885	Нерпа (судоремонтный завод)
-A1	IsLink T2

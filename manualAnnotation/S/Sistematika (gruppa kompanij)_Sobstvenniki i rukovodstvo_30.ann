@@ -1,5 +1,0 @@
-T1	Organization 0 29	Систематика (группа компаний)
-T2	Organization 238 249	Альфа-групп
-N1	Reference T1 wiki:1116302	Систематика (группа компаний)
-N2	Reference T2 wiki:141637	Альфа-групп
-A1	IsLink T2

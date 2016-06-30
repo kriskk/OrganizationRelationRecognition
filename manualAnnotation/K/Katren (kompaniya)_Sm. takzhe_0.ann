@@ -1,8 +1,0 @@
-T1	Organization 0 17	Катрен (компания)
-T2	Organization 50 56	Протек
-T3	Organization 59 78	СИА ИНТЕРНЕЙШНЛ ЛТД
-N1	Reference T1 wiki:2694909	Катрен (компания)
-N2	Reference T2 wiki:376904	Протек
-N3	Reference T3 wiki:2684158	СИА ИНТЕРНЕЙШНЛ ЛТД
-A1	IsLink T2
-A2	IsLink T3

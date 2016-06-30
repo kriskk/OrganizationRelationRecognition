@@ -1,8 +1,0 @@
-T1	Organization 0 4	Enix
-T2	Organization 201 206	Namco
-T3	Organization 286 295	Game Arts
-N1	Reference T1 wiki:2414804	Enix
-N2	Reference T2 wiki:327777	Namco
-N3	Reference T3 wiki:3461144	Game Arts
-A1	IsLink T2
-A2	IsLink T3

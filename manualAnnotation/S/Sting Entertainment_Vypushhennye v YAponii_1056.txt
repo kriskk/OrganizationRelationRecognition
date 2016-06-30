@@ -1,9 +1,0 @@
-Sting Entertainment
-@Разработанные игры
-@Выпущенные в Японии
-954,21,1056
-
-	 Melfand Stories — (Издатель: ASCII Entertainment) Super Famicom (25 марта 1994)
-	 Yōkai Buster: Ruka no Daibōken (в США выпущена под названием The Jetsons: Invasion of the Planet Pirates) — (Издатель в Японии: Kadokawa Shoten, в США: Taito Corporation) Super Famicom (9 июня 1995)
-	 Treasure Hunter G — (Издатель: Square) Super Famicom (24 мая 1996)
-	 Solid Runner — (Издатель:ASCII Entertainment) Super Famicom (28 марта 1997)

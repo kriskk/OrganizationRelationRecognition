@@ -1,8 +1,0 @@
-T1	Organization 0 6	ТНК-BP
-T2	Organization 204 212	Роснефть
-T3	Organization 272 280	Роснефть
-N1	Reference T1 wiki:17252	ТНК-BP
-N2	Reference T2 wiki:139770	Роснефть
-N3	Reference T3 wiki:139770	Роснефть
-A1	IsLink T2
-A2	IsLink T3

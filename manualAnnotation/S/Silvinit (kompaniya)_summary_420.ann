@@ -1,5 +1,0 @@
-T1	Organization 0 20	Сильвинит (компания)
-T2	Organization 235 244	Уралкалий
-N1	Reference T1 wiki:371967	Сильвинит (компания)
-N2	Reference T2 wiki:153726	Уралкалий
-A1	IsLink T2

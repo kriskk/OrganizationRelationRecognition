@@ -1,8 +1,0 @@
-T1	Organization 0 4	Cray
-T2	Organization 118 131	Tera Computer
-T3	Organization 164 180	Silicon Graphics
-N1	Reference T1 wiki:2385825	Cray
-N2	Reference T2 wiki:1673188	Tera Computer
-N3	Reference T3 wiki:136151	SGI
-A1	IsLink T2
-A2	IsLink T3

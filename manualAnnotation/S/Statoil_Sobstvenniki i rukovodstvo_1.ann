@@ -1,8 +1,0 @@
-T1	Organization 0 7	Statoil
-T2	Organization 200 211	Norsk Hydro
-T3	Organization 375 387	StatoilHydro
-N1	Reference T1 wiki:308196	Statoil
-N2	Reference T2 wiki:386662	Norsk Hydro
-N3	Reference T3 wiki:308196	StatoilHydro
-A1	IsLink T2
-A2	IsLink T3

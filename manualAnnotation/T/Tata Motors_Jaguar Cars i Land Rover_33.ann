@@ -1,8 +1,0 @@
-T1	Organization 0 11	Tata Motors
-T2	Organization 300 307	Daimler
-T3	Organization 310 318	MG Rover
-N1	Reference T1 wiki:962083	Tata Motors
-N2	Reference T2 wiki:294683	Daimler Motor Company
-N3	Reference T3 wiki:1503578	MG Rover
-A1	IsLink T2
-A2	IsLink T3

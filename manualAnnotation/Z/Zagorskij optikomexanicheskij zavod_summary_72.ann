@@ -1,5 +1,0 @@
-T1	Organization 0 35	Загорский оптико-механический завод
-T2	Organization 239 252	Ростехнологии
-N1	Reference T1 wiki:2303889	Загорский оптико-механический завод
-N2	Reference T2 wiki:915063	Ростехнологии
-A1	IsLink T2

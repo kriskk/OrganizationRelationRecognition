@@ -1,5 +1,0 @@
-T1	Organization 0 7	Tallink
-T2	Organization 40 54	St. Peter Line
-N1	Reference T1 wiki:509782	Tallink
-N2	Reference T2 wiki:3444896	St. Peter Line
-A1	IsLink T2

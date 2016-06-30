@@ -1,5 +1,0 @@
-T1	Organization 0 6	Sulzer
-T2	Organization 178 200	PricewaterhouseCoopers
-N1	Reference T1 wiki:3448830	Sulzer
-N2	Reference T2 wiki:275101	PricewaterhouseCoopers
-A1	IsLink T2

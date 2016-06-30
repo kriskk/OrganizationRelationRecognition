@@ -1,8 +1,0 @@
-T1	Organization 0 24	Gaggenau Hausgeräte GmbH
-T2	Organization 187 224	BSH Bosch und Siemens Hausgeräte GmbH
-T3	Organization 255 292	BSH Bosch und Siemens Hausgeräte GmbH
-N1	Reference T1 wiki:253032	Gaggenau Hausgeräte GmbH
-N2	Reference T2 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
-N3	Reference T3 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
-A1	IsLink T2
-A2	IsLink T3

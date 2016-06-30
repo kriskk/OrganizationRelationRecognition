@@ -1,5 +1,0 @@
-T1	Organization 0 25	Armenia Telephone Company
-T2	Organization 233 252	Вымпел-Коммуникации
-N1	Reference T1 wiki:1342341	Armenia Telephone Company
-N2	Reference T2 wiki:70736	Вымпел-Коммуникации
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 5	Alcoa
-T2	Organization 154 169	Rio Tinto Alcan
-T3	Organization 173 178	Русал
-N1	Reference T1 wiki:527770	Alcoa
-N2	Reference T2 wiki:728716	Rio Tinto Alcan
-N3	Reference T3 wiki:598084	Русал
-A1	IsLink T2
-A2	IsLink T3

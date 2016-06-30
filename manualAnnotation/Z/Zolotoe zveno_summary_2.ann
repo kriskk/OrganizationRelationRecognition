@@ -1,5 +1,0 @@
-T1	Organization 0 13	Золотое звено
-T2	Organization 294 297	РЖД
-N1	Reference T1 wiki:559467	Золотое звено
-N2	Reference T2 wiki:106901	РЖД
-A1	IsLink T2

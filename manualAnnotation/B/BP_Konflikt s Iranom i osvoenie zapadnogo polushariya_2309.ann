@@ -1,8 +1,0 @@
-T1	Organization 0 2	BP
-T2	Organization 435 440	Amoco
-T3	Organization 448 455	Castrol
-N1	Reference T1 wiki:189320	BP
-N2	Reference T2 wiki:3553703	Amoco
-N3	Reference T3 wiki:3628301	Castrol
-A1	IsLink T2
-A2	IsLink T3

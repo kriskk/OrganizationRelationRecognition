@@ -1,8 +1,0 @@
-T1	Organization 0 5	Финам
-T2	Organization 300 311	E-generator
-T3	Organization 376 394	Ашманов и партнеры
-N1	Reference T1 wiki:1527933	Финам
-N2	Reference T2 wiki:2316807	E-generator
-N3	Reference T3 wiki:2022164	Ашманов и партнеры
-A1	IsLink T2
-A2	IsLink T3

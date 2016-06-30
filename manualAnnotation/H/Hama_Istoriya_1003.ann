@@ -1,8 +1,0 @@
-T1	Organization 0 4	Hama
-T2	Organization 210 217	SanDisk
-T3	Organization 220 231	Plantronics
-N1	Reference T1 wiki:889526	Hama
-N2	Reference T2 wiki:610044	SanDisk
-N3	Reference T3 wiki:1389523	Plantronics
-A1	IsLink T2
-A2	IsLink T3

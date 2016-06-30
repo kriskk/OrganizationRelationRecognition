@@ -1,5 +1,0 @@
-T1	Organization 0 7	Ferrari
-T2	Organization 205 216	Альфа-Ромео
-N1	Reference T1 wiki:124051	Ferrari
-N2	Reference T2 wiki:371643	Альфа-Ромео
-A1	IsLink T2

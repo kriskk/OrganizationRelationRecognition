@@ -1,8 +1,0 @@
-T1	Organization 0 7	Samsung
-T2	Organization 186 196	Interbrand
-T3	Organization 313 317	Sony
-N1	Reference T1 wiki:125537	Samsung
-N2	Reference T2 wiki:2387724	Interbrand
-N3	Reference T3 wiki:73019	Sony
-A1	IsLink T2
-A2	IsLink T3

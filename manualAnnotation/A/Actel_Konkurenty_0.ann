@@ -1,8 +1,0 @@
-T1	Organization 0 5	Actel
-T2	Organization 84 90	Altera
-T3	Organization 92 98	Xilinx
-N1	Reference T1 wiki:1080918	Actel
-N2	Reference T2 wiki:885080	Altera
-N3	Reference T3 wiki:741134	Xilinx
-A1	IsLink T2
-A2	IsLink T3

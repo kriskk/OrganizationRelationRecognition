@@ -1,8 +1,0 @@
-T1	Organization 0 14	Rockstar North
-T2	Organization 149 168	Gremlin Interactive
-T3	Organization 449 459	Infogrames
-N1	Reference T1 wiki:662662	Rockstar North
-N2	Reference T2 wiki:3591181	Gremlin Interactive
-N3	Reference T3 wiki:3469859	Infogrames
-A1	IsLink T2
-A2	IsLink T3

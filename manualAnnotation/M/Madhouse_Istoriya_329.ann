@@ -1,8 +1,0 @@
-T1	Organization 0 8	Madhouse
-T2	Organization 189 192	AIC
-T3	Organization 195 204	J.C.Staff
-N1	Reference T1 wiki:871335	Madhouse
-N2	Reference T2 wiki:3434263	Anime International Company
-N3	Reference T3 wiki:104785	J.C.Staff
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 12	Тольяттиазот
-T2	Organization 193 204	Волгоцеммаш
-T3	Organization 212 223	Трансаммиак
-N1	Reference T1 wiki:161128	Тольяттиазот
-N2	Reference T2 wiki:722053	Волгоцеммаш
-N3	Reference T3 wiki:1456017	Трансаммиак
-A1	IsLink T2
-A2	IsLink T3

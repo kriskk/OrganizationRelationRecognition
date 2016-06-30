@@ -1,8 +1,0 @@
-T1	Organization 0 6	АмРест
-T2	Organization 178 187	Pizza Hut
-T3	Organization 190 193	KFC
-N1	Reference T1 wiki:2907999	АмРест
-N2	Reference T2 wiki:1270413	Pizza Hut
-N3	Reference T3 wiki:980997	KFC
-A1	IsLink T2
-A2	IsLink T3

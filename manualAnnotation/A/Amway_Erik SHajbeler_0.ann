@@ -1,5 +1,0 @@
-T1	Organization 0 5	Amway
-T2	Organization 59 72	Эрик Шайбелер
-N1	Reference T1 wiki:200434	Amway
-N2	Reference T2 wiki:200434	Эрик Шайбелер
-A1	IsLink T2

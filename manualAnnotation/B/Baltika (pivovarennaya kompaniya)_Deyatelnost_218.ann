@@ -1,8 +1,0 @@
-T1	Organization 0 31	Балтика (пивоваренная компания)
-T2	Organization 353 359	Tuborg
-T3	Organization 368 377	Carlsberg
-N1	Reference T1 wiki:164789	Балтика (пивоваренная компания)
-N2	Reference T2 wiki:2396259	Tuborg
-N3	Reference T3 wiki:787801	Carlsberg
-A1	IsLink T2
-A2	IsLink T3

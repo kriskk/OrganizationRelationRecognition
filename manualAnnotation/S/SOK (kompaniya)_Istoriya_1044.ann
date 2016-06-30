@@ -1,5 +1,0 @@
-T1	Organization 0 14	СОК (компания)
-T2	Organization 228 237	Волгомост
-N1	Reference T1 wiki:148557	СОК (компания)
-N2	Reference T2 wiki:865625	Волгомост
-A1	IsLink T2

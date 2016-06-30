@@ -1,5 +1,0 @@
-T1	Organization 0 27	Центр финансовых технологий
-T2	Organization 606 627	Расчетная палата ММВБ
-N1	Reference T1 wiki:771907	Центр финансовых технологий
-N2	Reference T2 wiki:3747955	Расчетная палата ММВБ
-A1	IsLink T2

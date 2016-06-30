@@ -1,5 +1,0 @@
-T1	Organization 0 5	Итера
-T2	Organization 283 290	Газпром
-N1	Reference T1 wiki:156662	Итера
-N2	Reference T2 wiki:44754	Газпром
-A1	IsLink T2

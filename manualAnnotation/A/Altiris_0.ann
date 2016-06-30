@@ -1,5 +1,0 @@
-T1	Organization 0 7	Altiris
-T2	Organization 89 97	Symantec
-N1	Reference T1 wiki:2614131	Altiris
-N2	Reference T2 wiki:157841	Symantec
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 20	Пролетарская свобода
-T2	Organization 270 284	Шинного завода
-N1	Reference T1 wiki:1917356	Пролетарская свобода
-N2	Reference T2 wiki:312699	Ярославский шинный завод
-A1	IsLink T2

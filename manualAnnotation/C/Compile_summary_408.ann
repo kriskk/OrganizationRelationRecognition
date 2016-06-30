@@ -1,5 +1,0 @@
-T1	Organization 0 7	Compile
-T2	Organization 175 189	Milestone Inc.
-N1	Reference T1 wiki:1720936	Compile
-N2	Reference T2 wiki:1719742	Milestone Inc.
-A1	IsLink T2

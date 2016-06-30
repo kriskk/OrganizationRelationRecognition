@@ -1,8 +1,0 @@
-T1	Organization 0 9	СТС Медиа
-T2	Organization 164 206	Телепроизводственная компания «КостаФильм»
-T3	Organization 209 263	Телепроизводственная компания «Story First Production»
-N1	Reference T1 wiki:168242	СТС Медиа
-N2	Reference T2 wiki:1910492	КостаФильм
-N3	Reference T3 wiki:3721033	Story First Production
-A1	IsLink T2
-A2	IsLink T3

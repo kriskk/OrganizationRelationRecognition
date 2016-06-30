@@ -1,5 +1,0 @@
-T1	Organization 0 38	Системные технологии (группа компаний)
-T2	Organization 294 299	Intel
-N1	Reference T1 wiki:2440614	Системные технологии (группа компаний)
-N2	Reference T2 wiki:762172	Intel
-A1	IsLink T2

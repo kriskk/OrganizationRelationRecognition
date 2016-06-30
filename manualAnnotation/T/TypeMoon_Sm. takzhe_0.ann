@@ -1,8 +1,0 @@
-T1	Organization 0 9	Type-Moon
-T2	Organization 42 46	5pb.
-T3	Organization 49 58	Nitroplus
-N1	Reference T1 wiki:4036976	Type-Moon
-N2	Reference T2 wiki:3682202	5pb.
-N3	Reference T3 wiki:3409012	Nitroplus
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 27	Бангалорская фондовая биржа
-T2	Organization 130 137	Infosys
-T3	Organization 167 193	Bharat Electronics Limited
-N1	Reference T1 wiki:423023	Бангалорская фондовая биржа
-N2	Reference T2 wiki:375506	Infosys
-N3	Reference T3 wiki:3204207	Bharat Electronics Limited
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 10	Евросервис
-T2	Organization 315 324	Продимекс
-N1	Reference T1 wiki:343278	Евросервис
-N2	Reference T2 wiki:294103	Продимекс
-A1	IsLink T2

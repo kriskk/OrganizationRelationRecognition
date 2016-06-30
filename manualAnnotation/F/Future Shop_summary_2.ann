@@ -1,5 +1,0 @@
-T1	Organization 0 11	Future Shop
-T2	Organization 235 243	Best Buy
-N1	Reference T1 wiki:2279629	Future Shop
-N2	Reference T2 wiki:770538	Best Buy
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 6	Sabian
-T2	Organization 221 227	Пайсти
-T3	Organization 230 235	Майнл
-N1	Reference T1 wiki:3038569	Sabian
-N2	Reference T2 wiki:3038691	Paiste
-N3	Reference T3 wiki:3039711	Meinl
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 9	Schweppes
-T2	Organization 196 203	Cadbury
-T3	Organization 266 287	The Coca-Cola Company
-N1	Reference T1 wiki:2161106	Schweppes
-N2	Reference T2 wiki:192535	Cadbury
-N3	Reference T3 wiki:231920	The Coca-Cola Company
-A1	IsLink T2
-A2	IsLink T3

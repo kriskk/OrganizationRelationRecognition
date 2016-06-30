@@ -1,8 +1,0 @@
-T1	Organization 0 22	Focus Home Interactive
-T2	Organization 251 256	Nadeo
-T3	Organization 548 557	Frogwares
-N1	Reference T1 wiki:1300809	Focus Home Interactive
-N2	Reference T2 wiki:2518990	Nadeo
-N3	Reference T3 wiki:1299576	Frogwares
-A1	IsLink T2
-A2	IsLink T3

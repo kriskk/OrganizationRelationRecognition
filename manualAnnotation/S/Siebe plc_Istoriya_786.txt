@@ -1,8 +1,0 @@
-Siebe plc
-@История
-743,786
-
-	1998: Siebe plc приобретает Eurotherm, Wonderware и Simulation Sciences.
-	1999: Siebe plc приобретает Esscor.
-	1999: Siebe plc объединяется с BTR plc в Invensys.
-

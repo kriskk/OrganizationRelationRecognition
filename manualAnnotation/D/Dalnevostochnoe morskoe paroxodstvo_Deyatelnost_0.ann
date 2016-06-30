@@ -1,5 +1,0 @@
-T1	Organization 0 35	Дальневосточное морское пароходство
-T2	Organization 173 198	Транспортной группы FESCO
-N1	Reference T1 wiki:149752	Дальневосточное морское пароходство
-N2	Reference T2 wiki:1109053	Транспортная группа FESCO
-A1	IsLink T2

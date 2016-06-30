@@ -1,5 +1,0 @@
-T1	Organization 0 4	Cora
-T2	Organization 93 102	Carrefour
-N1	Reference T1 wiki:2241966	Cora
-N2	Reference T2 wiki:165454	Carrefour
-A1	IsLink T2

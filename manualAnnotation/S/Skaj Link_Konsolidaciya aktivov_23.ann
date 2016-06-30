@@ -1,8 +1,0 @@
-T1	Organization 0 9	Скай Линк
-T2	Organization 356 366	Ростелеком
-T3	Organization 416 439	Северо-Западный Телеком
-N1	Reference T1 wiki:145535	Скай Линк
-N2	Reference T2 wiki:145844	Ростелеком
-N3	Reference T3 wiki:159172	Северо-Западный Телеком
-A1	IsLink T2
-A2	IsLink T3

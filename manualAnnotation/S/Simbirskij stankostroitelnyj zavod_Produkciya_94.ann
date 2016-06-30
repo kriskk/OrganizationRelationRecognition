@@ -1,5 +1,0 @@
-T1	Organization 0 35	Симбирский станкостроительный завод
-T2	Organization 344 347	РЖД
-N1	Reference T1 wiki:3980047	Симбирский станкостроительный завод
-N2	Reference T2 wiki:106901	Российские железные дороги
-A1	IsLink T2

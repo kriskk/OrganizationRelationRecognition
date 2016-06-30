@@ -1,5 +1,0 @@
-T1	Organization 0 23	Большевик (завод, Киев)
-T2	Organization 206 216	Уралхиммаш
-N1	Reference T1 wiki:4292354	Большевик (завод, Киев)
-N2	Reference T2 wiki:2307701	Уралхиммаш
-A1	IsLink T2

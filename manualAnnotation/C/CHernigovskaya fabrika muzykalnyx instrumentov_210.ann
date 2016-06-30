@@ -1,5 +1,0 @@
-T1	Organization 0 45	Черниговская фабрика музыкальных инструментов
-T2	Organization 210 216	Сильпо
-N1	Reference T1 wiki:2328491	Черниговская фабрика музыкальных инструментов
-N2	Reference T2 wiki:165751	Сильпо
-A1	IsLink T2

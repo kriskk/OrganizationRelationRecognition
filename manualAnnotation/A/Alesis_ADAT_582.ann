@@ -1,8 +1,0 @@
-T1	Organization 0 6	Alesis
-T2	Organization 349 353	BASF
-T3	Organization 367 373	Yamaha
-N1	Reference T1 wiki:2915071	Alesis
-N2	Reference T2 wiki:122826	BASF
-N3	Reference T3 wiki:696518	Yamaha
-A1	IsLink T2
-A2	IsLink T3

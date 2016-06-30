@@ -1,8 +1,0 @@
-T1	Organization 0 8	DigiCube
-T2	Organization 180 190	Square Co.
-T3	Organization 197 208	Square Enix
-N1	Reference T1 wiki:3895077	DigiCube
-N2	Reference T2 wiki:278305	Square Co.
-N3	Reference T3 wiki:288255	Square Enix
-A1	IsLink T2
-A2	IsLink T3

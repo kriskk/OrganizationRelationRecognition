@@ -1,8 +1,0 @@
-T1	Organization 0 11	Bridgestone
-T2	Organization 244 250	Nissan
-T3	Organization 396 411	Grupo Santander
-N1	Reference T1 wiki:299590	Bridgestone
-N2	Reference T2 wiki:159586	Nissan
-N3	Reference T3 wiki:382499	Grupo Santander
-A1	IsLink T2
-A2	IsLink T3

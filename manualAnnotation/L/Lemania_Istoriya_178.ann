@@ -1,8 +1,0 @@
-T1	Organization 0 7	Lemania
-T2	Organization 207 213	Tissot
-T3	Organization 216 221	Omega
-N1	Reference T1 wiki:1064610	Lemania
-N2	Reference T2 wiki:177171	Tissot
-N3	Reference T3 wiki:1047157	Omega (компания)
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 16	Unlimited Detail
-T2	Organization 276 282	NVidia
-N1	Reference T1 wiki:2364741	Unlimited Detail
-N2	Reference T2 wiki:1548156	NVidia
-A1	IsLink T2

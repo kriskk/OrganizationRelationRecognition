@@ -1,5 +1,0 @@
-T1	Organization 0 8	Converse
-T2	Organization 119 123	Nike
-N1	Reference T1 wiki:2575137	Converse
-N2	Reference T2 wiki:277297	Nike
-A1	IsLink T2

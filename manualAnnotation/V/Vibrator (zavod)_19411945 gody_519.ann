@@ -1,5 +1,0 @@
-T1	Organization 0 16	Вибратор (завод)
-T2	Organization 206 214	Ленфильм
-N1	Reference T1 wiki:3958658	Вибратор (завод)
-N2	Reference T2 wiki:175417	Ленфильм
-A1	IsLink T2

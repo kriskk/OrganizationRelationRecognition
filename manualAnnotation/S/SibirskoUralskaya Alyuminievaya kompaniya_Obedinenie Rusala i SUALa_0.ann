@@ -1,8 +1,0 @@
-T1	Organization 0 39	Сибирско-Уральская Алюминиевая компания
-T2	Organization 199 204	Русал
-T3	Organization 260 268	Glencore
-N1	Reference T1 wiki:198079	Сибирско-Уральская Алюминиевая компания
-N2	Reference T2 wiki:144729	Русский алюминий
-N3	Reference T3 wiki:372443	Glencore
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 12	Targem Games
-T2	Organization 222 239	Nival Interactive
-T3	Organization 296 313	Nival Interactive
-N1	Reference T1 wiki:471624	Targem Games
-N2	Reference T2 wiki:91564	Nival Interactive
-N3	Reference T3 wiki:91564	Nival Interactive
-A1	IsLink T2
-A2	IsLink T3

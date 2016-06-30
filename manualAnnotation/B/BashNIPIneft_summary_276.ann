@@ -1,5 +1,0 @@
-T1	Organization 0 12	БашНИПИнефть
-T2	Organization 211 219	Башнефть
-N1	Reference T1 wiki:4105585	БашНИПИнефть
-N2	Reference T2 wiki:180383	Башнефть
-A1	IsLink T2

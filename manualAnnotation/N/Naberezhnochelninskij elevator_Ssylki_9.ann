@@ -1,5 +1,0 @@
-T1	Organization 0 28	Набережночелнинский элеватор
-T2	Organization 269 276	YouTube
-N1	Reference T1 wiki:4398428	Набережночелнинский элеватор
-N2	Reference T2 wiki:275424	YouTube
-A1	IsLink T2

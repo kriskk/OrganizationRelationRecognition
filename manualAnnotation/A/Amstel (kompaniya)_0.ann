@@ -1,5 +1,0 @@
-T1	Organization 0 17	Amstel (компания)
-T2	Organization 140 148	Heineken
-N1	Reference T1 wiki:1571367	Amstel (компания)
-N2	Reference T2 wiki:248758	Heineken
-A1	IsLink T2

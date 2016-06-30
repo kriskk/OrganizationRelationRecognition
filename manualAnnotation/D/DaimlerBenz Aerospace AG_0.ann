@@ -1,8 +1,0 @@
-T1	Organization 0 25	Daimler-Benz Aerospace AG
-T2	Organization 148 152	EADS
-T3	Organization 301 311	Daimler AG
-N1	Reference T1 wiki:930545	Daimler-Benz Aerospace AG
-N2	Reference T2 wiki:39833	EADS
-N3	Reference T3 wiki:39716	Daimler AG
-A1	IsLink T2
-A2	IsLink T3

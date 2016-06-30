@@ -1,5 +1,0 @@
-T1	Organization 0 16	ЦНИИ Электроника
-T2	Organization 360 382	Российская электроника
-N1	Reference T1 wiki:1760637	ЦНИИ Электроника
-N2	Reference T2 wiki:1037436	Российская электроника
-A1	IsLink T2

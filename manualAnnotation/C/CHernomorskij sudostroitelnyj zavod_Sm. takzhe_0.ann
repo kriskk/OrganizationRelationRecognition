@@ -1,8 +1,0 @@
-T1	Organization 0 35	Черноморский судостроительный завод
-T2	Organization 69 82	Океан (завод)
-T3	Organization 85 126	Судостроительный завод имени 61 коммунара
-N1	Reference T1 wiki:707710	Черноморский судостроительный завод
-N2	Reference T2 wiki:1248172	Океан (завод)
-N3	Reference T3 wiki:707715	Судостроительный завод имени 61 коммунара
-A1	IsLink T2
-A2	IsLink T3

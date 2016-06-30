@@ -1,5 +1,0 @@
-T1	Organization 0 29	Сибирский химический комбинат
-T2	Organization 332 355	Топливную компанию ТВЭЛ
-N1	Reference T1 wiki:18524	Сибирский химический комбинат
-N2	Reference T2 wiki:214333	ТВЭЛ (компания)
-A1	IsLink T2

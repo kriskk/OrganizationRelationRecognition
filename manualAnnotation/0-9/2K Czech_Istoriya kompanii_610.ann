@@ -1,8 +1,0 @@
-T1	Organization 0 8	2K Czech
-T2	Organization 248 268	Take-Two Interactive
-T3	Organization 336 344	Pterodon
-N1	Reference T1 wiki:2161805	2K Czech
-N2	Reference T2 wiki:2783863	Take-Two Interactive
-N3	Reference T3 wiki:2168965	Pterodon
-A1	IsLink T2
-A2	IsLink T3

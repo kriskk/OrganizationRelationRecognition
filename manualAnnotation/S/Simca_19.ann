@@ -1,8 +1,0 @@
-T1	Organization 0 5	Simca
-T2	Organization 174 182	Chrysler
-T3	Organization 207 226	PSA Peugeot Citroen
-N1	Reference T1 wiki:1506307	Simca
-N2	Reference T2 wiki:223902	Chrysler
-N3	Reference T3 wiki:226616	PSA Peugeot Citroen
-A1	IsLink T2
-A2	IsLink T3

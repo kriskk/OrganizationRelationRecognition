@@ -1,5 +1,0 @@
-T1	Organization 0 15	Интерфакс-Запад
-T2	Organization 311 318	YouTube
-N1	Reference T1 wiki:1569488	Интерфакс-Запад
-N2	Reference T2 wiki:275424	YouTube
-A1	IsLink T2

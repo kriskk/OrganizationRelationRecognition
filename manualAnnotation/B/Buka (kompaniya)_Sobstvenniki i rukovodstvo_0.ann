@@ -1,8 +1,0 @@
-T1	Organization 0 15	Бука (компания)
-T2	Organization 173 178	Финам
-T3	Organization 469 471	1С
-N1	Reference T1 wiki:367355	Бука (компания)
-N2	Reference T2 wiki:1527933	Финам
-N3	Reference T3 wiki:34936	1С
-A1	IsLink T2
-A2	IsLink T3

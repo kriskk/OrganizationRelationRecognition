@@ -1,5 +1,0 @@
-T1	Organization 0 20	Завод имени Лихачёва
-T2	Organization 191 200	AMO Plant
-N1	Reference T1 wiki:259988	Завод имени Лихачёва
-N2	Reference T2 wiki:3679111	AMO Plant
-A1	IsLink T2

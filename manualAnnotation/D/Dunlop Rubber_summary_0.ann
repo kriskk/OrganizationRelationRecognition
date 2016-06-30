@@ -1,8 +1,0 @@
-T1	Organization 0 13	Dunlop Rubber
-T2	Organization 120 152	Goodyear Tire and Rubber Company
-T3	Organization 161 187	Sumitomo Rubber Industries
-N1	Reference T1 wiki:1156827	Dunlop Rubber
-N2	Reference T2 wiki:196772	Goodyear Tire and Rubber Company
-N3	Reference T3 wiki:1821060	Sumitomo Rubber Industries
-A1	IsLink T2
-A2	IsLink T3

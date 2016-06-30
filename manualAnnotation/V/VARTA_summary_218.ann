@@ -1,5 +1,0 @@
-T1	Organization 0 5	VARTA
-T2	Organization 293 309	Johnson Controls
-N1	Reference T1 wiki:166727	VARTA
-N2	Reference T2 wiki:1578512	Johnson Controls
-A1	IsLink T2

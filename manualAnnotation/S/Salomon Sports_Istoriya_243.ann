@@ -1,8 +1,0 @@
-T1	Organization 0 14	Salomon Sports
-T2	Organization 343 360	Adidas-Salomon AG
-T3	Organization 547 558	Amer Sports
-N1	Reference T1 wiki:398645	Salomon Sports
-N2	Reference T2 wiki:243642	Adidas
-N3	Reference T3 wiki:398920	Amer Sports
-A1	IsLink T2
-A2	IsLink T3

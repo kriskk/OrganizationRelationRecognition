@@ -1,5 +1,0 @@
-T1	Organization 0 9	Bloomberg
-T2	Organization 200 213	Merrill Lynch
-N1	Reference T1 wiki:655940	Bloomberg
-N2	Reference T2 wiki:177763	Merrill Lynch
-A1	IsLink T2

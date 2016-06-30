@@ -1,8 +1,0 @@
-T1	Organization 0 6	Tamron
-T2	Organization 231 248	Bronica Co., Ltd.
-T3	Organization 341 358	Bronica Co., Ltd.
-N1	Reference T1 wiki:753267	Tamron
-N2	Reference T2 wiki:1176726	Bronica
-N3	Reference T3 wiki:1176726	Bronica
-A1	IsLink T2
-A2	IsLink T3

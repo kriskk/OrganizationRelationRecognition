@@ -1,5 +1,0 @@
-T1	Organization 0 6	Huawei
-T2	Organization 326 339	Cisco Systems
-N1	Reference T1 wiki:908840	Huawei
-N2	Reference T2 wiki:25014	Cisco Systems
-A1	IsLink T2

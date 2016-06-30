@@ -1,5 +1,0 @@
-T1	Organization 0 27	Электронные офисные системы
-T2	Organization 291 293	1С
-N1	Reference T1 wiki:2040148	Электронные офисные системы
-N2	Reference T2 wiki:34936	1С
-A1	IsLink T2

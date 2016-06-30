@@ -1,5 +1,0 @@
-T1	Organization 0 19	Лейпцигская ярмарка
-T2	Organization 158 171	Deutsche Bahn
-N1	Reference T1 wiki:1544794	Лейпцигская ярмарка
-N2	Reference T2 wiki:321840	Deutsche Bahn
-A1	IsLink T2

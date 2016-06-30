@@ -1,8 +1,0 @@
-T1	Organization 0 12	EA Black Box
-T2	Organization 45 54	EA Canada
-T3	Organization 57 72	Electronic Arts
-N1	Reference T1 wiki:2306009	EA Black Box
-N2	Reference T2 wiki:2306102	EA Canada
-N3	Reference T3 wiki:323143	Electronic Arts
-A1	IsLink T2
-A2	IsLink T3

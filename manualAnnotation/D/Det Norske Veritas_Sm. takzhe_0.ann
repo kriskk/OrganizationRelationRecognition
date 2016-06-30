@@ -1,5 +1,0 @@
-T1	Organization 0 18	Det Norske Veritas
-T2	Organization 51 63	DNV Software
-N1	Reference T1 wiki:3436655	Det Norske Veritas
-N2	Reference T2 wiki:4326571	DNV Software
-A1	IsLink T2

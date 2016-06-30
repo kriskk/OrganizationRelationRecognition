@@ -1,5 +1,0 @@
-T1	Organization 0 7	SafeNet
-T2	Organization 221 227	Nasdaq
-N1	Reference T1 wiki:3730802	SafeNet
-N2	Reference T2 wiki:63813	Nasdaq
-A1	IsLink T2

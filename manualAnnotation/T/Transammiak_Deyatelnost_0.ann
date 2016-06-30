@@ -1,5 +1,0 @@
-T1	Organization 0 11	Трансаммиак
-T2	Organization 111 123	ТольяттиАзот
-N1	Reference T1 wiki:1456017	Трансаммиак
-N2	Reference T2 wiki:161128	ТольяттиАзот
-A1	IsLink T2

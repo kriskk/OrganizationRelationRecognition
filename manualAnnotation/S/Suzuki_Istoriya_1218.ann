@@ -1,8 +1,0 @@
-T1	Organization 0 6	Suzuki
-T2	Organization 196 208	Maruti Udyog
-T3	Organization 575 591	Volkswagen Group
-N1	Reference T1 wiki:690514	Suzuki
-N2	Reference T2 wiki:1479177	Maruti Udyog
-N3	Reference T3 wiki:750217	Volkswagen Group
-A1	IsLink T2
-A2	IsLink T3

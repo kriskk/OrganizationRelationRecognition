@@ -1,8 +1,0 @@
-T1	Organization 0 14	RoverComputers
-T2	Organization 303 312	RoverBook
-T3	Organization 400 409	RoverBook
-N1	Reference T1 wiki:1989422	RoverComputers
-N2	Reference T2 wiki:1989422	RoverBook
-N3	Reference T3 wiki:1989422	RoverBook
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 12	Baker Hughes
-T2	Organization 110 122	Schlumberger
-T3	Organization 125 136	Halliburton
-N1	Reference T1 wiki:1671336	Baker Hughes
-N2	Reference T2 wiki:246264	Schlumberger
-N3	Reference T3 wiki:794869	Halliburton
-A1	IsLink T2
-A2	IsLink T3

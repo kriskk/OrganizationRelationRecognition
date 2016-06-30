@@ -1,5 +1,0 @@
-T1	Organization 0 9	Дальсвязь
-T2	Organization 182 192	Ростелеком
-N1	Reference T1 wiki:242465	Дальсвязь
-N2	Reference T2 wiki:145844	Ростелеком
-A1	IsLink T2

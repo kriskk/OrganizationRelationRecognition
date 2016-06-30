@@ -1,5 +1,0 @@
-T1	Organization 0 16	Элион (компания)
-T2	Organization 172 191	НПО «Научный центр»
-N1	Reference T1 wiki:773999	Элион (компания)
-N2	Reference T2 wiki:238818	НПО «Научный центр»
-A1	IsLink T2

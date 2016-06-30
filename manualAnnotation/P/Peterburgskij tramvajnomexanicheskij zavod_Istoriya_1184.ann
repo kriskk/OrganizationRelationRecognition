@@ -1,5 +1,0 @@
-T1	Organization 0 42	Петербургский трамвайно-механический завод
-T2	Organization 308 316	Вагонмаш
-N1	Reference T1 wiki:126733	Петербургский трамвайно-механический завод
-N2	Reference T2 wiki:983646	Вагонмаш
-A1	IsLink T2

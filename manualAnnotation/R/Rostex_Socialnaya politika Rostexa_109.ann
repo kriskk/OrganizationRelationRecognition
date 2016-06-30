@@ -1,8 +1,0 @@
-T1	Organization 0 6	Ростех
-T2	Organization 289 297	АВТОВАЗа
-T3	Organization 630 642	ВСМПО-АВИСМА
-N1	Reference T1 wiki:915063	Ростех
-N2	Reference T2 wiki:139276	АвтоВАЗ
-N3	Reference T3 wiki:140530	ВСМПО-АВИСМА
-A1	IsLink T2
-A2	IsLink T3

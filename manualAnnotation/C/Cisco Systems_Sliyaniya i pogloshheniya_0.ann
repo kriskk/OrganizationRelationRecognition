@@ -1,8 +1,0 @@
-T1	Organization 0 13	Cisco Systems
-T2	Organization 115 122	Linksys
-T3	Organization 386 394	Tandberg
-N1	Reference T1 wiki:25014	Cisco Systems
-N2	Reference T2 wiki:960437	Linksys
-N3	Reference T3 wiki:1683710	Tandberg
-A1	IsLink T2
-A2	IsLink T3

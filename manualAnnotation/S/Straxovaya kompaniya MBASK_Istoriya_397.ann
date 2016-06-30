@@ -1,8 +1,0 @@
-T1	Organization 0 24	Страховая компания MBASK
-T2	Organization 219 222	AIG
-T3	Organization 233 243	Ингосстрах
-N1	Reference T1 wiki:1476310	Страховая компания MBASK
-N2	Reference T2 wiki:158473	AIG
-N3	Reference T3 wiki:139838	Ингосстрах
-A1	IsLink T2
-A2	IsLink T3

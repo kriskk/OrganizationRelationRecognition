@@ -1,8 +1,0 @@
-T1	Organization 0 7	ЕвроХим
-T2	Organization 155 195	Ковдорский горно-обогатительный комбинат
-T3	Organization 366 385	Невинномысский азот
-N1	Reference T1 wiki:376551	ЕвроХим
-N2	Reference T2 wiki:3029611	Ковдорский горно-обогатительный комбинат
-N3	Reference T3 wiki:3718165	Невинномысский азот
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 7	Telesat
-T2	Organization 189 209	JPMorgan Chase & Co.
-T3	Organization 211 225	Morgan Stanley
-N1	Reference T1 wiki:4319622	Telesat
-N2	Reference T2 wiki:374499	JPMorgan Chase & Co.
-N3	Reference T3 wiki:612532	Morgan Stanley
-A1	IsLink T2
-A2	IsLink T3

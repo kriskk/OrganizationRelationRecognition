@@ -1,8 +1,0 @@
-T1	Organization 0 15	Brooks Brothers
-T2	Organization 280 297	Marks and Spencer
-T3	Organization 487 496	Luxottica
-N1	Reference T1 wiki:3525175	Brooks Brothers
-N2	Reference T2 wiki:1931409	Marks and Spencer
-N3	Reference T3 wiki:2883102	Luxottica
-A1	IsLink T2
-A2	IsLink T3

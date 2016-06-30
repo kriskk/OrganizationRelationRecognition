@@ -1,8 +1,0 @@
-T1	Organization 0 15	American Motors
-T2	Organization 285 300	Willys-Overland
-T3	Organization 382 386	Jeep
-N1	Reference T1 wiki:3346012	American Motors
-N2	Reference T2 wiki:3630721	Willys-Overland
-N3	Reference T3 wiki:41489	Jeep
-A1	IsLink T2
-A2	IsLink T3

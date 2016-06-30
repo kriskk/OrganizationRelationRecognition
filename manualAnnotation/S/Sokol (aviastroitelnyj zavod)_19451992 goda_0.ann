@@ -1,8 +1,0 @@
-T1	Organization 0 30	Сокол (авиастроительный завод)
-T2	Organization 180 187	ОКБ-301
-T3	Organization 290 297	ОКБ-155
-N1	Reference T1 wiki:144095	Сокол (авиастроительный завод)
-N2	Reference T2 wiki:60161	НПО Лавочкина
-N3	Reference T3 wiki:26999	МиГ (компания)
-A1	IsLink T2
-A2	IsLink T3

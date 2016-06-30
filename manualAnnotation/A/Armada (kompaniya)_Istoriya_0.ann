@@ -1,5 +1,0 @@
-T1	Organization 0 17	Армада (компания)
-T2	Organization 91 123	ОАО «РБК Информационные Системы»
-N1	Reference T1 wiki:2357226	Армада (компания)
-N2	Reference T2 wiki:391746	РБК
-A1	IsLink T2

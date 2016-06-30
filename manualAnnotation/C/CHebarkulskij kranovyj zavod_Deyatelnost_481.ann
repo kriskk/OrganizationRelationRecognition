@@ -1,5 +1,0 @@
-T1	Organization 0 28	Чебаркульский крановый завод
-T2	Organization 214 223	ОАО «РЖД»
-N1	Reference T1 wiki:2599135	Чебаркульский крановый завод
-N2	Reference T2 wiki:106901	ОАО «РЖД»
-A1	IsLink T2

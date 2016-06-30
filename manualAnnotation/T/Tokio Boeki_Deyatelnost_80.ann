@@ -1,8 +1,0 @@
-T1	Organization 0 11	Токио Боэки
-T2	Organization 240 244	JEOL
-T3	Organization 246 251	Nikon
-N1	Reference T1 wiki:3194682	Токио Боэки
-N2	Reference T2 wiki:3194682	JEOL
-N3	Reference T3 wiki:147658	Nikon
-A1	IsLink T2
-A2	IsLink T3

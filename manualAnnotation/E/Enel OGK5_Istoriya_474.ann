@@ -1,5 +1,0 @@
-T1	Organization 0 10	Энел ОГК-5
-T2	Organization 238 242	Enel
-N1	Reference T1 wiki:302523	Энел ОГК-5
-N2	Reference T2 wiki:162880	Enel
-A1	IsLink T2

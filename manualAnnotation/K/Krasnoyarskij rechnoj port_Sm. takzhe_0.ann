@@ -1,5 +1,0 @@
-T1	Organization 0 24	Красноярский речной порт
-T2	Organization 57 86	Енисейское речное пароходство
-N1	Reference T1 wiki:1011205	Красноярский речной порт
-N2	Reference T2 wiki:92249	Енисейское речное пароходство
-A1	IsLink T2

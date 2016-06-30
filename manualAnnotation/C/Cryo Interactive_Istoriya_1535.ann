@@ -1,8 +1,0 @@
-T1	Organization 0 16	Cryo Interactive
-T2	Organization 290 314	DreamCatcher Interactive
-T3	Organization 421 434	Kheops Studio
-N1	Reference T1 wiki:920901	Cryo Interactive
-N2	Reference T2 wiki:2520370	DreamCatcher Interactive
-N3	Reference T3 wiki:2779076	Kheops Studio
-A1	IsLink T2
-A2	IsLink T3

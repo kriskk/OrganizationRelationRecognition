@@ -1,5 +1,0 @@
-T1	Organization 0 8	Cersanit
-T2	Organization 203 213	Группы СОК
-N1	Reference T1 wiki:3467493	Cersanit
-N2	Reference T2 wiki:148557	СОК (компания)
-A1	IsLink T2

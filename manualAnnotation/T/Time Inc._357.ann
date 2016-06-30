@@ -1,5 +1,0 @@
-T1	Organization 0 9	Time Inc.
-T2	Organization 218 229	Time Warner
-N1	Reference T1 wiki:889335	Time Inc.
-N2	Reference T2 wiki:741342	Time Warner
-A1	IsLink T2

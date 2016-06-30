@@ -1,8 +1,0 @@
-T1	Organization 0 20	Белый Ветер Цифровой
-T2	Organization 268 271	DHL
-T3	Organization 498 505	YouTube
-N1	Reference T1 wiki:928006	Белый Ветер Цифровой
-N2	Reference T2 wiki:209951	DHL
-N3	Reference T3 wiki:275424	YouTube
-A1	IsLink T2
-A2	IsLink T3

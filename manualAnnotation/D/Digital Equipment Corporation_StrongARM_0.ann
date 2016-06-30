@@ -1,8 +1,0 @@
-T1	Organization 0 29	Digital Equipment Corporation
-T2	Organization 139 150	ARM Limited
-T3	Organization 544 549	Intel
-N1	Reference T1 wiki:176483	Digital Equipment Corporation
-N2	Reference T2 wiki:49514	ARM (компания)
-N3	Reference T3 wiki:762172	Intel
-A1	IsLink T2
-A2	IsLink T3

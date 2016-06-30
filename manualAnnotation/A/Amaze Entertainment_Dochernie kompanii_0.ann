@@ -1,8 +1,0 @@
-T1	Organization 0 19	Amaze Entertainment
-T2	Organization 132 148	Griptonite Games
-T3	Organization 169 198	KnowWonder Digital Mediaworks
-N1	Reference T1 wiki:2184318	Amaze Entertainment
-N2	Reference T2 wiki:1895568	Griptonite Games
-N3	Reference T3 wiki:2184334	KnowWonder Digital Mediaworks
-A1	IsLink T2
-A2	IsLink T3

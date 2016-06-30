@@ -1,5 +1,0 @@
-T1	Organization 0 8	Cadillac
-T2	Organization 238 252	General Motors
-N1	Reference T1 wiki:571883	Cadillac
-N2	Reference T2 wiki:17438	General Motors
-A1	IsLink T2

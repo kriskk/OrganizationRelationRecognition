@@ -1,5 +1,0 @@
-T1	Organization 0 4	DIGI
-T2	Organization 202 213	Сервис Плюс
-N1	Reference T1 wiki:1844156	DIGI
-N2	Reference T2 wiki:1788611	Сервис Плюс
-A1	IsLink T2

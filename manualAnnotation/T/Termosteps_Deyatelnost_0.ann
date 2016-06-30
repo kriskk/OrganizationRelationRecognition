@@ -1,5 +1,0 @@
-T1	Organization 0 10	Термостепс
-T2	Organization 90 101	Волгабурмаш
-N1	Reference T1 wiki:158593	Термостепс
-N2	Reference T2 wiki:3843223	Волгабурмаш
-A1	IsLink T2

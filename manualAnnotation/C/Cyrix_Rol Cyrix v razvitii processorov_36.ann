@@ -1,5 +1,0 @@
-T1	Organization 0 5	Cyrix
-T2	Organization 442 445	VIA
-N1	Reference T1 wiki:209856	Cyrix
-N2	Reference T2 wiki:912279	VIA Technologies
-A1	IsLink T2

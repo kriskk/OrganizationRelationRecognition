@@ -1,5 +1,0 @@
-T1	Organization 0 22	The Yachts of Seabourn
-T2	Organization 470 490	Carnival Corporation
-N1	Reference T1 wiki:4399203	The Yachts of Seabourn
-N2	Reference T2 wiki:1099139	Carnival Corporation & plc
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 6	Toyota
-T2	Organization 245 255	Volkswagen
-T3	Organization 258 272	General Motors
-N1	Reference T1 wiki:42689	Toyota
-N2	Reference T2 wiki:750217	Volkswagen Group
-N3	Reference T3 wiki:17438	General Motors
-A1	IsLink T2
-A2	IsLink T3

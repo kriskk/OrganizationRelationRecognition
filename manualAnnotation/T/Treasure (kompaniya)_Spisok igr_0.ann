@@ -1,5 +1,0 @@
-T1	Organization 0 19	Treasure (компания)
-T2	Organization 135 139	Sega
-N1	Reference T1 wiki:1641019	Treasure (компания)
-N2	Reference T2 wiki:92589	Sega
-A1	IsLink T2

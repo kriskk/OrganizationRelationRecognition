@@ -1,8 +1,0 @@
-T1	Organization 0 8	Clariant
-T2	Organization 243 255	Dow Chemical
-T3	Organization 264 268	BASF
-N1	Reference T1 wiki:376394	Clariant
-N2	Reference T2 wiki:189244	Dow Chemical
-N3	Reference T3 wiki:122826	BASF
-A1	IsLink T2
-A2	IsLink T3

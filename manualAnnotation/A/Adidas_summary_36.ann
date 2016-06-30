@@ -1,8 +1,0 @@
-T1	Organization 0 6	Adidas
-T2	Organization 267 273	Reebok
-T3	Organization 275 283	Rockport
-N1	Reference T1 wiki:243642	Adidas
-N2	Reference T2 wiki:399359	Reebok
-N3	Reference T3 wiki:1547251	Rockport
-A1	IsLink T2
-A2	IsLink T3

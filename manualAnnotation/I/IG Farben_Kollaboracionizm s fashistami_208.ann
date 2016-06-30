@@ -1,5 +1,0 @@
-T1	Organization 0 9	IG Farben
-T2	Organization 212 227	Дженерал моторс
-N1	Reference T1 wiki:320026	IG Farben
-N2	Reference T2 wiki:17438	General Motors
-A1	IsLink T2

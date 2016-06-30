@@ -1,8 +1,0 @@
-T1	Organization 0 5	Евраз
-T2	Organization 184 194	Распадская
-T3	Organization 205 239	Находкинский морской торговый порт
-N1	Reference T1 wiki:77382	Евраз
-N2	Reference T2 wiki:160492	Распадская (компания)
-N3	Reference T3 wiki:141050	Находкинский морской торговый порт
-A1	IsLink T2
-A2	IsLink T3

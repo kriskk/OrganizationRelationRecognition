@@ -1,5 +1,0 @@
-T1	Organization 0 19	Российский алюминий
-T2	Organization 233 246	NYSE Euronext
-N1	Reference T1 wiki:598084	Российский алюминий
-N2	Reference T2 wiki:606930	NYSE Euronext
-A1	IsLink T2

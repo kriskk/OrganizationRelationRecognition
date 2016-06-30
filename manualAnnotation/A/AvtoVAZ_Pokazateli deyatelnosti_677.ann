@@ -1,8 +1,0 @@
-T1	Organization 0 7	АвтоВАЗ
-T2	Organization 265 277	Renault S.A.
-T3	Organization 327 338	Honda Motor
-N1	Reference T1 wiki:139276	АвтоВАЗ
-N2	Reference T2 wiki:586472	Renault S.A.
-N3	Reference T3 wiki:121050	Honda
-A1	IsLink T2
-A2	IsLink T3

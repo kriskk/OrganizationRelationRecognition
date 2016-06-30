@@ -1,5 +1,0 @@
-T1	Organization 0 21	Takeda Pharmaceutical
-T2	Organization 145 152	Nycomed
-N1	Reference T1 wiki:3116139	Takeda Pharmaceutical
-N2	Reference T2 wiki:614936	Nycomed
-A1	IsLink T2

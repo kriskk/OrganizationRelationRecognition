@@ -1,5 +1,0 @@
-T1	Organization 0 21	CDC (группа компаний)
-T2	Organization 224 233	Psion PLC
-N1	Reference T1 wiki:1858457	CDC (группа компаний)
-N2	Reference T2 wiki:353769	Psion
-A1	IsLink T2

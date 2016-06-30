@@ -1,5 +1,0 @@
-T1	Organization 0 14	СОК (компания)
-T2	Organization 98 114	Рособоронэкспорт
-N1	Reference T1 wiki:148557	СОК (компания)
-N2	Reference T2 wiki:171221	Рособоронэкспорт
-A1	IsLink T2

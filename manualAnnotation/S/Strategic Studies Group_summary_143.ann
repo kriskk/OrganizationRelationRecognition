@@ -1,8 +1,0 @@
-T1	Organization 0 23	Strategic Studies Group
-T2	Organization 276 279	SSI
-T3	Organization 595 600	Atari
-N1	Reference T1 wiki:766734	Strategic Studies Group
-N2	Reference T2 wiki:897400	Strategic Simulations, Inc.
-N3	Reference T3 wiki:308218	Atari
-A1	IsLink T2
-A2	IsLink T3

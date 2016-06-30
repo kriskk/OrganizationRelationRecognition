@@ -1,5 +1,0 @@
-T1	Organization 0 14	ARM (компания)
-T2	Organization 364 369	Intel
-N1	Reference T1 wiki:49514	ARM (компания)
-N2	Reference T2 wiki:762172	Intel
-A1	IsLink T2

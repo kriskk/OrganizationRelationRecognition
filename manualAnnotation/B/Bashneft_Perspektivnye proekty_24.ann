@@ -1,5 +1,0 @@
-T1	Organization 0 8	Башнефть
-T2	Organization 297 303	Лукойл
-N1	Reference T1 wiki:180383	Башнефть
-N2	Reference T2 wiki:59354	Лукойл
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 6	ТриМоб
-T2	Organization 176 188	«Укртелеком»
-N1	Reference T1 wiki:1807420	ТриМоб
-N2	Reference T2 wiki:376992	Укртелеком
-A1	IsLink T2

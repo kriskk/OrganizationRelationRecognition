@@ -1,5 +1,0 @@
-T1	Organization 0 5	ВИНАП
-T2	Organization 300 311	Heineken NV
-N1	Reference T1 wiki:254339	ВИНАП
-N2	Reference T2 wiki:248758	Heineken
-A1	IsLink T2

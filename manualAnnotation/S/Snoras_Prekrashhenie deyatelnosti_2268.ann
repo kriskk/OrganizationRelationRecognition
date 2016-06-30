@@ -1,8 +1,0 @@
-T1	Organization 0 6	Snoras
-T2	Organization 283 298	Дженерал моторс
-T3	Organization 374 379	Опель
-N1	Reference T1 wiki:452919	Snoras
-N2	Reference T2 wiki:17438	General Motors
-N3	Reference T3 wiki:562302	Опель
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 9	НИИ Стали
-T2	Organization 67 84	Броневой институт
-N1	Reference T1 wiki:1627933	НИИ Стали
-N2	Reference T2 wiki:1627933	Броневой институт
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 22	БОСС. Кадровые системы
-T2	Organization 210 214	АйТи
-N1	Reference T1 wiki:2784431	БОСС. Кадровые системы
-N2	Reference T2 wiki:1771956	АйТи
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 15	Acorn Computers
-T2	Organization 250 255	Apple
-T3	Organization 460 472	ARM Holdings
-N1	Reference T1 wiki:219806	Acorn Computers
-N2	Reference T2 wiki:39726	Apple
-N3	Reference T3 wiki:49514	ARM (компания)
-A1	IsLink T2
-A2	IsLink T3

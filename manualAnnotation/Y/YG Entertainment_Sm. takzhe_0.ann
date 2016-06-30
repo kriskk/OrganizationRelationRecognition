@@ -1,8 +1,0 @@
-T1	Organization 0 16	YG Entertainment
-T2	Organization 57 74	JYP Entertainment
-T3	Organization 77 93	SM Entertainment
-N1	Reference T1 wiki:3591618	YG Entertainment
-N2	Reference T2 wiki:3464305	JYP Entertainment
-N3	Reference T3 wiki:1455965	SM Entertainment
-A1	IsLink T2
-A2	IsLink T3

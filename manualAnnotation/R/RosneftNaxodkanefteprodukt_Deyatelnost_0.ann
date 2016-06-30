@@ -1,8 +1,0 @@
-T1	Organization 0 28	Роснефть-Находканефтепродукт
-T2	Organization 129 139	Ангарского
-T3	Organization 142 151	Ачинского
-N1	Reference T1 wiki:2710999	Роснефть-Находканефтепродукт
-N2	Reference T2 wiki:1385313	Ангарская нефтехимическая компания
-N3	Reference T3 wiki:1063821	Ачинский нефтеперерабатывающий завод
-A1	IsLink T2
-A2	IsLink T3

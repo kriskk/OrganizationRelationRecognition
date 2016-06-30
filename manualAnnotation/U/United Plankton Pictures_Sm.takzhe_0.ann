@@ -1,8 +1,0 @@
-T1	Organization 0 24	United Plankton Pictures
-T2	Organization 53 72	Rough Draft Studios
-T3	Organization 75 87	Klasky Csupo
-N1	Reference T1 wiki:4473495	United Plankton Pictures
-N2	Reference T2 wiki:1314070	Rough Draft Studios
-N3	Reference T3 wiki:1574412	Klasky Csupo
-A1	IsLink T2
-A2	IsLink T3

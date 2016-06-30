@@ -1,8 +1,0 @@
-T1	Organization 0 25	178-й судоремонтный завод
-T2	Organization 58 87	Дальзавод (центр судоремонта)
-T3	Organization 90 122	Дальзавод (холдинговая компания)
-N1	Reference T1 wiki:4001899	178-й судоремонтный завод
-N2	Reference T2 wiki:4002814	Дальзавод (центр судоремонта)
-N3	Reference T3 wiki:4002732	Дальзавод (холдинговая компания)
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 5	Белон
-T2	Organization 86 95	Интерфакс
-N1	Reference T1 wiki:171213	Белон
-N2	Reference T2 wiki:109215	Интерфакс
-A1	IsLink T2

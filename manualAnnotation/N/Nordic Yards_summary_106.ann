@@ -1,8 +1,0 @@
-T1	Organization 0 12	Nordic Yards
-T2	Organization 191 210	Nordic Yards Wismar
-T3	Organization 213 236	Nordic Yards Warnemünde
-N1	Reference T1 wiki:3543132	Nordic Yards
-N2	Reference T2 wiki:3540711	Nordic Yards Wismar
-N3	Reference T3 wiki:3543581	Nordic Yards Warnemünde
-A1	IsLink T2
-A2	IsLink T3

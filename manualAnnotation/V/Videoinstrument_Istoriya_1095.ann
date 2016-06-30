@@ -1,8 +1,0 @@
-T1	Organization 0 15	Видеоинструмент
-T2	Organization 244 251	Youtube
-T3	Organization 425 432	Youtube
-N1	Reference T1 wiki:4198972	Видеоинструмент
-N2	Reference T2 wiki:275424	Youtube
-N3	Reference T3 wiki:275424	Youtube
-A1	IsLink T2
-A2	IsLink T3

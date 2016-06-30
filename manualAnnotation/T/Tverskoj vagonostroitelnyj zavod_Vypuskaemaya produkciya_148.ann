@@ -1,8 +1,0 @@
-T1	Organization 0 33	Тверской вагоностроительный завод
-T2	Organization 312 319	Росатом
-T3	Organization 430 440	Уралхиммаш
-N1	Reference T1 wiki:166567	Тверской вагоностроительный завод
-N2	Reference T2 wiki:1299917	Росатом
-N3	Reference T3 wiki:2307701	Уралхиммаш
-A1	IsLink T2
-A2	IsLink T3

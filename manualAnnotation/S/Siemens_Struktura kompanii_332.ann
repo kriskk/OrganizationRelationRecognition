@@ -1,5 +1,0 @@
-T1	Organization 0 7	Siemens
-T2	Organization 240 255	Сектор Industry
-N1	Reference T1 wiki:36510	Siemens
-N2	Reference T2 wiki:985494	Siemens Industry
-A1	IsLink T2

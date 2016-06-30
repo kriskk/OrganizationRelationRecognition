@@ -1,5 +1,0 @@
-T1	Organization 0 26	Богатырь (угольный разрез)
-T2	Organization 59 75	Разрез Восточный
-N1	Reference T1 wiki:1611865	Богатырь (угольный разрез)
-N2	Reference T2 wiki:1611928	Разрез Восточный
-A1	IsLink T2

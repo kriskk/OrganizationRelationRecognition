@@ -1,8 +1,0 @@
-T1	Organization 0 13	Optim Consult
-T2	Organization 240 253	Cisco Systems
-T3	Organization 255 265	Kia Motors
-N1	Reference T1 wiki:3707649	Optim Consult
-N2	Reference T2 wiki:25014	Cisco Systems
-N3	Reference T3 wiki:215264	Kia Motors
-A1	IsLink T2
-A2	IsLink T3

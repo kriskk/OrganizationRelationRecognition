@@ -1,5 +1,0 @@
-T1	Organization 0 18	Coffeeshop Company
-T2	Organization 275 296	Carnival Cruise Lines
-N1	Reference T1 wiki:3662324	Coffeeshop Company
-N2	Reference T2 wiki:3219423	Carnival Cruise Lines
-A1	IsLink T2

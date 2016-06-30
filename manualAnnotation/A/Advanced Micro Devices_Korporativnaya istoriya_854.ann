@@ -1,5 +1,0 @@
-T1	Organization 0 22	Advanced Micro Devices
-T2	Organization 295 310	GlobalFoundries
-N1	Reference T1 wiki:19981	Advanced Micro Devices
-N2	Reference T2 wiki:3522370	GlobalFoundries
-A1	IsLink T2

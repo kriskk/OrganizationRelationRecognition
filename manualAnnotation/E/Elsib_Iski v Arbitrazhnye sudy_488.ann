@@ -1,5 +1,0 @@
-T1	Organization 0 5	Элсиб
-T2	Organization 251 255	РАТМ
-N1	Reference T1 wiki:2868530	Элсиб
-N2	Reference T2 wiki:722157	РАТМ
-A1	IsLink T2

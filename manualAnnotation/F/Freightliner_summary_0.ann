@@ -1,8 +1,0 @@
-T1	Organization 0 12	Freightliner
-T2	Organization 115 125	Daimler AG
-T3	Organization 310 317	Cummins
-N1	Reference T1 wiki:1371581	Freightliner
-N2	Reference T2 wiki:39716	Daimler AG
-N3	Reference T3 wiki:2407448	Cummins
-A1	IsLink T2
-A2	IsLink T3

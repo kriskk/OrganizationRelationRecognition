@@ -1,8 +1,0 @@
-T1	Organization 0 18	Delphi Corporation
-T2	Organization 174 186	Robert Bosch
-T3	Organization 277 291	General Motors
-N1	Reference T1 wiki:236540	Delphi Corporation
-N2	Reference T2 wiki:166006	Robert Bosch
-N3	Reference T3 wiki:17438	General Motors
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 25	Московский рынок (Казань)
-T2	Organization 209 220	Центральным
-N1	Reference T1 wiki:3373202	Московский рынок (Казань)
-N2	Reference T2 wiki:3373053	Центральный рынок (Казань)
-A1	IsLink T2

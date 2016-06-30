@@ -1,5 +1,0 @@
-T1	Organization 0 6	ТриЛан
-T2	Organization 87 109	"Рейтинге Рунета 2010"
-N1	Reference T1 wiki:4180580	ТриЛан
-N2	Reference T2 wiki:3361636	Рейтинг Рунета
-A1	IsLink T2

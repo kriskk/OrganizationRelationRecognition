@@ -1,8 +1,0 @@
-T1	Organization 0 6	Sanofi
-T2	Organization 208 215	Hoechst
-T3	Organization 230 235	Bayer
-N1	Reference T1 wiki:1469482	Sanofi
-N2	Reference T2 wiki:1433713	Hoechst
-N3	Reference T3 wiki:166035	Bayer
-A1	IsLink T2
-A2	IsLink T3

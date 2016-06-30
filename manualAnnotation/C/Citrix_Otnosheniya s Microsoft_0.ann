@@ -1,5 +1,0 @@
-T1	Organization 0 6	Citrix
-T2	Organization 87 96	Microsoft
-N1	Reference T1 wiki:1903941	Citrix
-N2	Reference T2 wiki:11987	Microsoft
-A1	IsLink T2

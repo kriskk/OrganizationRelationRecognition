@@ -1,5 +1,0 @@
-T1	Organization 0 27	Кинокомпания «Нариманфильм»
-T2	Organization 60 68	Мосфильм
-N1	Reference T1 wiki:2512858	Кинокомпания «Нариманфильм»
-N2	Reference T2 wiki:25605	Мосфильм
-A1	IsLink T2

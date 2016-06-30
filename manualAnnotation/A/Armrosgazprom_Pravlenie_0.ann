@@ -1,8 +1,0 @@
-T1	Organization 0 13	Армросгазпром
-T2	Organization 120 127	Газпром
-T3	Organization 190 195	Итеры
-N1	Reference T1 wiki:1875686	Армросгазпром
-N2	Reference T2 wiki:44754	Газпром
-N3	Reference T3 wiki:156662	Итера
-A1	IsLink T2
-A2	IsLink T3

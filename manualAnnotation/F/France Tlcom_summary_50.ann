@@ -1,8 +1,0 @@
-T1	Organization 0 14	France Télécom
-T2	Organization 259 265	Orange
-T3	Organization 313 337	Orange Business Services
-N1	Reference T1 wiki:373577	France Télécom
-N2	Reference T2 wiki:373554	Orange
-N3	Reference T3 wiki:1739950	Orange Business Services
-A1	IsLink T2
-A2	IsLink T3

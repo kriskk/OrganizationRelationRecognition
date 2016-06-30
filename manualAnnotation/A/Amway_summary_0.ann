@@ -1,5 +1,0 @@
-T1	Organization 0 5	Amway
-T2	Organization 127 134	Alticor
-N1	Reference T1 wiki:200434	Amway
-N2	Reference T2 wiki:277212	Alticor
-A1	IsLink T2

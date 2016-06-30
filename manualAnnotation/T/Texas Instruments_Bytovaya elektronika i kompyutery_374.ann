@@ -1,8 +1,0 @@
-T1	Organization 0 17	Texas Instruments
-T2	Organization 289 294	Atari
-T3	Organization 316 325	Commodore
-N1	Reference T1 wiki:429235	Texas Instruments
-N2	Reference T2 wiki:308218	Atari
-N3	Reference T3 wiki:158573	Commodore International
-A1	IsLink T2
-A2	IsLink T3

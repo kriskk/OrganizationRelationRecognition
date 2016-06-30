@@ -1,5 +1,0 @@
-T1	Organization 0 9	Азанфильм
-T2	Organization 41 68	Кинокомпания «Нариманфильм»
-N1	Reference T1 wiki:2519742	Азанфильм
-N2	Reference T2 wiki:2512858	Кинокомпания «Нариманфильм»
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 10	ExxonMobil
-T2	Organization 322 326	ЮКОС
-T3	Organization 464 472	Сибнефти
-N1	Reference T1 wiki:176152	ExxonMobil
-N2	Reference T2 wiki:6032	ЮКОС
-N3	Reference T3 wiki:121955	Сибнефть
-A1	IsLink T2
-A2	IsLink T3

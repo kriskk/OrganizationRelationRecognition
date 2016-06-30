@@ -1,5 +1,0 @@
-T1	Organization 0 13	Байкалвестком
-T2	Organization 259 274	«Сибирьтелеком»
-N1	Reference T1 wiki:252007	Байкалвестком
-N2	Reference T2 wiki:343967	Сибирьтелеком
-A1	IsLink T2

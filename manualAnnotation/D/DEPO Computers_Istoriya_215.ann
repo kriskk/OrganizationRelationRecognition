@@ -1,5 +1,0 @@
-T1	Organization 0 14	DEPO Computers
-T2	Organization 320 323	IBS
-N1	Reference T1 wiki:1761645	DEPO Computers
-N2	Reference T2 wiki:345272	IBS
-A1	IsLink T2

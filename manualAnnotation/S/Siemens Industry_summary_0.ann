@@ -1,8 +1,0 @@
-T1	Organization 0 16	Siemens Industry
-T2	Organization 144 154	Siemens AG
-T3	Organization 394 404	Osram GmbH
-N1	Reference T1 wiki:985494	Siemens Industry
-N2	Reference T2 wiki:36510	Siemens AG
-N3	Reference T3 wiki:1059089	Osram GmbH
-A1	IsLink T2
-A2	IsLink T3

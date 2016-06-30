@@ -1,5 +1,0 @@
-T1	Organization 0 9	Starbucks
-T2	Organization 146 155	BlackRock
-N1	Reference T1 wiki:205133	Starbucks
-N2	Reference T2 wiki:2416228	BlackRock
-A1	IsLink T2

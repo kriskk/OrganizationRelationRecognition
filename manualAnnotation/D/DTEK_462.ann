@@ -1,8 +1,0 @@
-T1	Organization 0 4	ДТЭК
-T2	Organization 200 225	Систем Кэпитал Менеджмент
-T3	Organization 236 258	PricewaterhouseCoopers
-N1	Reference T1 wiki:449602	ДТЭК
-N2	Reference T2 wiki:36184	System Capital Management
-N3	Reference T3 wiki:275101	PricewaterhouseCoopers
-A1	IsLink T2
-A2	IsLink T3

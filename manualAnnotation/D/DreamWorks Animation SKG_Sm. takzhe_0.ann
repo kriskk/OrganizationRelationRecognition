@@ -1,8 +1,0 @@
-T1	Organization 0 24	DreamWorks Animation SKG
-T2	Organization 57 67	DreamWorks
-T3	Organization 70 88	Aardman Animations
-N1	Reference T1 wiki:3634563	DreamWorks Animation SKG
-N2	Reference T2 wiki:755489	DreamWorks
-N3	Reference T3 wiki:1662390	Aardman Animations
-A1	IsLink T2
-A2	IsLink T3

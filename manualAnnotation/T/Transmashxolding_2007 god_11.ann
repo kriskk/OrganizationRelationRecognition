@@ -1,5 +1,0 @@
-T1	Organization 0 15	Трансмашхолдинг
-T2	Organization 263 266	РЖД
-N1	Reference T1 wiki:168333	Трансмашхолдинг
-N2	Reference T2 wiki:106901	Российские железные дороги
-A1	IsLink T2

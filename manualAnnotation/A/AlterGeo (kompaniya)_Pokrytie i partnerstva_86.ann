@@ -1,5 +1,0 @@
-T1	Organization 0 19	AlterGeo (компания)
-T2	Organization 279 285	Яндекс
-N1	Reference T1 wiki:4127749	AlterGeo (компания)
-N2	Reference T2 wiki:9744	Яндекс
-A1	IsLink T2

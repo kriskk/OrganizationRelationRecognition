@@ -1,5 +1,0 @@
-T1	Organization 0 24	Subway (сеть ресторанов)
-T2	Organization 221 229	Wal-Mart
-N1	Reference T1 wiki:463082	Subway (сеть ресторанов)
-N2	Reference T2 wiki:243093	Wal-Mart
-A1	IsLink T2

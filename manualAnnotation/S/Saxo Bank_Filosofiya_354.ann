@@ -1,5 +1,0 @@
-T1	Organization 0 9	Saxo Bank
-T2	Organization 192 209	Дженерал Электрик
-N1	Reference T1 wiki:1716740	Saxo Bank
-N2	Reference T2 wiki:13762	Дженерал Электрик
-A1	IsLink T2

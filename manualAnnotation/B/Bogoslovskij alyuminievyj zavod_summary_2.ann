@@ -1,5 +1,0 @@
-T1	Organization 0 30	Богословский алюминиевый завод
-T2	Organization 201 206	Русал
-N1	Reference T1 wiki:504561	Богословский алюминиевый завод
-N2	Reference T2 wiki:598084	Российский алюминий
-A1	IsLink T2

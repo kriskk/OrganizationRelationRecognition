@@ -1,8 +1,0 @@
-T1	Organization 0 28	British Aircraft Corporation
-T2	Organization 199 214	Hughes Aircraft
-T3	Organization 372 380	Intelsat
-N1	Reference T1 wiki:2456375	British Aircraft Corporation
-N2	Reference T2 wiki:2429690	Hughes Aircraft
-N3	Reference T3 wiki:3428079	Intelsat
-A1	IsLink T2
-A2	IsLink T3

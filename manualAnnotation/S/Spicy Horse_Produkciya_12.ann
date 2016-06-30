@@ -1,8 +1,0 @@
-T1	Organization 0 11	Spicy Horse
-T2	Organization 218 228	Epic Games
-T3	Organization 296 311	Electronic Arts
-N1	Reference T1 wiki:3133647	Spicy Horse
-N2	Reference T2 wiki:2094890	Epic Games
-N3	Reference T3 wiki:323143	Electronic Arts
-A1	IsLink T2
-A2	IsLink T3

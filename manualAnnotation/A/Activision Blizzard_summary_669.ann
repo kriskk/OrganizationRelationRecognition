@@ -1,8 +1,0 @@
-T1	Organization 0 19	Activision Blizzard
-T2	Organization 213 221	Blizzard
-T3	Organization 332 339	Vivendi
-N1	Reference T1 wiki:954541	Activision Blizzard
-N2	Reference T2 wiki:202669	Blizzard Entertainment
-N3	Reference T3 wiki:1695856	Vivendi
-A1	IsLink T2
-A2	IsLink T3

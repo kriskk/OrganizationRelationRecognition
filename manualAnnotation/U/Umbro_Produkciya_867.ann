@@ -1,8 +1,0 @@
-T1	Organization 0 5	Umbro
-T2	Organization 230 234	Nike
-T3	Organization 237 243	Adidas
-N1	Reference T1 wiki:1292691	Umbro
-N2	Reference T2 wiki:277297	Nike
-N3	Reference T3 wiki:243642	Adidas
-A1	IsLink T2
-A2	IsLink T3

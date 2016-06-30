@@ -1,5 +1,0 @@
-T1	Organization 0 38	Системные технологии (группа компаний)
-T2	Organization 320 329	Microsoft
-N1	Reference T1 wiki:2440614	Системные технологии (группа компаний)
-N2	Reference T2 wiki:11987	Microsoft
-A1	IsLink T2

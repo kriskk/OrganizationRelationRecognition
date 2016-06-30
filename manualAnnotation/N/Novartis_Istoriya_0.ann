@@ -1,8 +1,0 @@
-T1	Organization 0 8	Novartis
-T2	Organization 98 102	Ciba
-T3	Organization 196 200	Ciba
-N1	Reference T1 wiki:1018931	Novartis
-N2	Reference T2 wiki:1391990	Ciba Specialty Chemicals
-N3	Reference T3 wiki:1391990	Ciba Specialty Chemicals
-A1	IsLink T2
-A2	IsLink T3

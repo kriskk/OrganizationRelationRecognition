@@ -1,8 +1,0 @@
-T1	Organization 0 27	Чепецкий механический завод
-T2	Organization 137 162	топливной компании «ТВЭЛ»
-T3	Organization 163 186	Госкорпорации «Росатом»
-N1	Reference T1 wiki:4267822	Чепецкий механический завод
-N2	Reference T2 wiki:214333	ТВЭЛ (компания)
-N3	Reference T3 wiki:1299917	Росатом
-A1	IsLink T2
-A2	IsLink T3

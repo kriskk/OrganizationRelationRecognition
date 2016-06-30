@@ -1,5 +1,0 @@
-T1	Organization 0 5	Евраз
-T2	Organization 218 228	Распадская
-N1	Reference T1 wiki:77382	Евраз
-N2	Reference T2 wiki:160492	Распадская (компания)
-A1	IsLink T2

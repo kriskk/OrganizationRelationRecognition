@@ -1,8 +1,0 @@
-T1	Organization 0 2	BP
-T2	Organization 294 305	Альфа-групп
-T3	Organization 329 335	Ренову
-N1	Reference T1 wiki:189320	BP
-N2	Reference T2 wiki:141637	Альфа-групп
-N3	Reference T3 wiki:158879	Ренова
-A1	IsLink T2
-A2	IsLink T3

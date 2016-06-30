@@ -1,8 +1,0 @@
-T1	Organization 0 6	Crytek
-T2	Organization 227 242	Electronic Arts
-T3	Organization 259 267	SoftClub
-N1	Reference T1 wiki:650133	Crytek
-N2	Reference T2 wiki:323143	Electronic Arts
-N3	Reference T3 wiki:1010483	SoftClub
-A1	IsLink T2
-A2	IsLink T3

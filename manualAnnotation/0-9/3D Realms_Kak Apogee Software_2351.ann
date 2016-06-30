@@ -1,5 +1,0 @@
-T1	Organization 0 9	3D Realms
-T2	Organization 201 212	Id Software
-N1	Reference T1 wiki:2349412	3D Realms
-N2	Reference T2 wiki:80386	Id Software
-A1	IsLink T2

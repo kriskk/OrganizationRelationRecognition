@@ -1,5 +1,0 @@
-T1	Organization 0 38	Сарапульский электрогенераторный завод
-T2	Organization 283 290	АвтоВАЗ
-N1	Reference T1 wiki:4238343	Сарапульский электрогенераторный завод
-N2	Reference T2 wiki:139276	АвтоВАЗ
-A1	IsLink T2

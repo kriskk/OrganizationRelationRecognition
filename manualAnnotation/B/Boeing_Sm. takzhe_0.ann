@@ -1,8 +1,0 @@
-T1	Organization 0 6	Boeing
-T2	Organization 40 46	Airbus
-T3	Organization 49 59	КБ Туполев
-N1	Reference T1 wiki:156398	Boeing
-N2	Reference T2 wiki:212269	Airbus
-N3	Reference T3 wiki:55761	КБ Туполев
-A1	IsLink T2
-A2	IsLink T3

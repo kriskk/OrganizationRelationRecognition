@@ -1,5 +1,0 @@
-T1	Organization 0 33	Сибирская энергосбытовая компания
-T2	Organization 246 249	СДС
-N1	Reference T1 wiki:4222943	Сибирская энергосбытовая компания
-N2	Reference T2 wiki:4189812	Сибирский деловой союз
-A1	IsLink T2

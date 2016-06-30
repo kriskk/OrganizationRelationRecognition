@@ -1,5 +1,0 @@
-T1	Organization 0 4	TSMC
-T2	Organization 207 214	Philips
-N1	Reference T1 wiki:755389	TSMC
-N2	Reference T2 wiki:204179	Philips
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 37	Стахановский вагоностроительный завод
-T2	Organization 350 358	АвтоКрАЗ
-N1	Reference T1 wiki:1795371	Стахановский вагоностроительный завод
-N2	Reference T2 wiki:606512	АвтоКрАЗ
-A1	IsLink T2

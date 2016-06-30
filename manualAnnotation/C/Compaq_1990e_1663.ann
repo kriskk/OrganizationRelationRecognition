@@ -1,8 +1,0 @@
-T1	Organization 0 6	Compaq
-T2	Organization 255 264	Microsoft
-T3	Organization 722 730	Motorola
-N1	Reference T1 wiki:343420	Compaq
-N2	Reference T2 wiki:11987	Microsoft
-N3	Reference T3 wiki:134384	Motorola
-A1	IsLink T2
-A2	IsLink T3

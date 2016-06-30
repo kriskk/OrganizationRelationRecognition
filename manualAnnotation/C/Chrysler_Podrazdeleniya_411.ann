@@ -1,8 +1,0 @@
-T1	Organization 0 8	Chrysler
-T2	Organization 222 230	Plymouth
-T3	Organization 273 281	Imperial
-N1	Reference T1 wiki:223902	Chrysler
-N2	Reference T2 wiki:1283510	Plymouth
-N3	Reference T3 wiki:1357953	Imperial
-A1	IsLink T2
-A2	IsLink T3

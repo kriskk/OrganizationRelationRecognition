@@ -1,8 +1,0 @@
-T1	Organization 0 8	Cadillac
-T2	Organization 319 328	Линкольна
-T3	Organization 380 388	Крайслер
-N1	Reference T1 wiki:571883	Cadillac
-N2	Reference T2 wiki:1063025	Lincoln (автомобильная марка)
-N3	Reference T3 wiki:223902	Chrysler
-A1	IsLink T2
-A2	IsLink T3

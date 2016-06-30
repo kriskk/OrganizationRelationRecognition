@@ -1,5 +1,0 @@
-T1	Organization 0 9	De Tomaso
-T2	Organization 182 186	Ford
-N1	Reference T1 wiki:2882688	De Tomaso
-N2	Reference T2 wiki:153236	Ford
-A1	IsLink T2

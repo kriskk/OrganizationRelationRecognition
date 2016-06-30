@@ -1,8 +1,0 @@
-T1	Organization 0 33	Тверской вагоностроительный завод
-T2	Organization 133 148	Трансмашхолдинг
-T3	Organization 193 207	Уралвагонзавод
-N1	Reference T1 wiki:166567	Тверской вагоностроительный завод
-N2	Reference T2 wiki:168333	Трансмашхолдинг
-N3	Reference T3 wiki:93093	Уралвагонзавод
-A1	IsLink T2
-A2	IsLink T3

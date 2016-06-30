@@ -1,5 +1,0 @@
-T1	Organization 0 10	Lotus Cars
-T2	Organization 327 333	Talbot
-N1	Reference T1 wiki:748115	Lotus Cars
-N2	Reference T2 wiki:830160	Talbot
-A1	IsLink T2

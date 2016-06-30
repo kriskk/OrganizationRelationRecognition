@@ -1,8 +1,0 @@
-T1	Organization 0 6	COMSAT
-T2	Organization 237 245	INMARSAT
-T3	Organization 284 311	Lockheed Martin Corporation
-N1	Reference T1 wiki:630713	COMSAT
-N2	Reference T2 wiki:192915	INMARSAT
-N3	Reference T3 wiki:301268	Lockheed Martin Corporation
-A1	IsLink T2
-A2	IsLink T3

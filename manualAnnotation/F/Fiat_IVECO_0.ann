@@ -1,8 +1,0 @@
-T1	Organization 0 4	Fiat
-T2	Organization 116 121	IVECO
-T3	Organization 152 159	Magirus
-N1	Reference T1 wiki:91784	Fiat
-N2	Reference T2 wiki:272617	IVECO
-N3	Reference T3 wiki:897451	Magirus
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 7	Maybach
-T2	Organization 304 311	концерн
-N1	Reference T1 wiki:40392	Maybach
-N2	Reference T2 wiki:1384782	Daimler-Benz
-A1	IsLink T2

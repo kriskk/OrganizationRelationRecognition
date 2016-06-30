@@ -1,5 +1,0 @@
-T1	Organization 0 10	Alfa Romeo
-T2	Organization 295 307	Finmeccanica
-N1	Reference T1 wiki:371643	Alfa Romeo
-N2	Reference T2 wiki:1108041	Finmeccanica
-A1	IsLink T2

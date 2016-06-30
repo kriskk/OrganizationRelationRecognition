@@ -1,5 +1,0 @@
-T1	Organization 0 16	Chery Automobile
-T2	Organization 216 222	Subaru
-N1	Reference T1 wiki:378562	Chery Automobile
-N2	Reference T2 wiki:196754	Subaru
-A1	IsLink T2

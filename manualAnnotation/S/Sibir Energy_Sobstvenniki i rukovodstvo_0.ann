@@ -1,5 +1,0 @@
-T1	Organization 0 12	Sibir Energy
-T2	Organization 162 175	Газпром нефть
-N1	Reference T1 wiki:629605	Sibir Energy
-N2	Reference T2 wiki:121955	Газпром нефть
-A1	IsLink T2

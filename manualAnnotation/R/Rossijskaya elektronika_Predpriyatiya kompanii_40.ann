@@ -1,8 +1,0 @@
-T1	Organization 0 22	Российская электроника
-T2	Organization 309 317	Ангстрем
-T3	Organization 435 439	МЭЛЗ
-N1	Reference T1 wiki:1037436	Российская электроника
-N2	Reference T2 wiki:176095	Ангстрем (компания)
-N3	Reference T3 wiki:1037412	МЭЛЗ
-A1	IsLink T2
-A2	IsLink T3

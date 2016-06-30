@@ -1,8 +1,0 @@
-T1	Organization 0 15	Airbus Military
-T2	Organization 92 104	Airbus S.A.S
-T3	Organization 118 176	Европейского аэрокосмического и оборонного концерна (EADS)
-N1	Reference T1 wiki:3767147	Airbus Military
-N2	Reference T2 wiki:212269	Airbus
-N3	Reference T3 wiki:39833	Европейский аэрокосмический и оборонный концерн
-A1	IsLink T2
-A2	IsLink T3

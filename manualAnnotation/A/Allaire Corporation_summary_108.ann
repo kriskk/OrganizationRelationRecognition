@@ -1,8 +1,0 @@
-T1	Organization 0 19	Allaire Corporation
-T2	Organization 248 254	NASDAQ
-T3	Organization 365 375	Macromedia
-N1	Reference T1 wiki:1423522	Allaire Corporation
-N2	Reference T2 wiki:63813	NASDAQ
-N3	Reference T3 wiki:42935	Macromedia
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 7	ЛогоВАЗ
-T2	Organization 179 186	АвтоВАЗ
-N1	Reference T1 wiki:762286	ЛогоВАЗ
-N2	Reference T2 wiki:139276	АвтоВАЗ
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 24	Завод имени Масленникова
-T2	Organization 326 329	СОК
-N1	Reference T1 wiki:815831	Завод имени Масленникова
-N2	Reference T2 wiki:148557	СОК (группа)
-A1	IsLink T2

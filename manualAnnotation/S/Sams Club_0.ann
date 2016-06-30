@@ -1,5 +1,0 @@
-T1	Organization 0 10	Sam's Club
-T2	Organization 117 132	Wal-Mart Stores
-N1	Reference T1 wiki:370213	Sam's Club
-N2	Reference T2 wiki:243093	Wal-Mart Stores
-A1	IsLink T2

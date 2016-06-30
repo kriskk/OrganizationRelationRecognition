@@ -1,5 +1,0 @@
-T1	Organization 0 11	BAE Systems
-T2	Organization 80 87	YouTube
-N1	Reference T1 wiki:2435557	BAE Systems
-N2	Reference T2 wiki:275424	YouTube
-A1	IsLink T2

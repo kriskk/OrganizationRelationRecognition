@@ -1,8 +1,0 @@
-T1	Organization 0 8	ЭМАльянс
-T2	Organization 306 319	Атомэнергомаш
-T3	Organization 430 436	Ренова
-N1	Reference T1 wiki:423239	ЭМАльянс
-N2	Reference T2 wiki:2868760	Атомэнергомаш
-N3	Reference T3 wiki:158879	Ренова
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 18	Paramount Pictures
-T2	Organization 240 249	DC Comics
-T3	Organization 276 287	Time Warner
-N1	Reference T1 wiki:398699	Paramount Pictures
-N2	Reference T2 wiki:1742414	DC Comics
-N3	Reference T3 wiki:741342	Time Warner
-A1	IsLink T2
-A2	IsLink T3

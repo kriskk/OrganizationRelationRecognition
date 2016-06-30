@@ -1,8 +1,0 @@
-T1	Organization 0 31	Новокузнецкий алюминиевый завод
-T2	Organization 310 315	РУСАЛ
-T3	Organization 338 357	Российский алюминий
-N1	Reference T1 wiki:571967	Новокузнецкий алюминиевый завод
-N2	Reference T2 wiki:598084	РУСАЛ
-N3	Reference T3 wiki:598084	Российский алюминий
-A1	IsLink T2
-A2	IsLink T3

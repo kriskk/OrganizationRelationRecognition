@@ -1,8 +1,0 @@
-T1	Organization 0 16	Ensemble Studios
-T2	Organization 182 201	Robot Entertainment
-T3	Organization 204 219	Bonfire Studios
-N1	Reference T1 wiki:1294399	Ensemble Studios
-N2	Reference T2 wiki:2092668	Robot Entertainment
-N3	Reference T3 wiki:2092621	Bonfire Studios
-A1	IsLink T2
-A2	IsLink T3

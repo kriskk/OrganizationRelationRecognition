@@ -1,8 +1,0 @@
-T1	Organization 0 12	Apache Corp.
-T2	Organization 225 230	Shell
-T3	Organization 400 410	ExxonMobil
-N1	Reference T1 wiki:1671060	Apache Corp.
-N2	Reference T2 wiki:167625	Royal Dutch Shell
-N3	Reference T3 wiki:176152	ExxonMobil
-A1	IsLink T2
-A2	IsLink T3

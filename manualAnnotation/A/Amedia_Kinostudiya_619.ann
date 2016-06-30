@@ -1,5 +1,0 @@
-T1	Organization 0 6	Амедиа
-T2	Organization 221 243	Телекомпания Останкино
-N1	Reference T1 wiki:20040	Амедиа
-N2	Reference T2 wiki:2023006	Останкино (телекомпания)
-A1	IsLink T2

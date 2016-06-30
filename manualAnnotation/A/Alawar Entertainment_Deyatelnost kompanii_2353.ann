@@ -1,8 +1,0 @@
-T1	Organization 0 20	Alawar Entertainment
-T2	Organization 220 224	Бука
-T3	Organization 226 236	Новый диск
-N1	Reference T1 wiki:263378	Alawar Entertainment
-N2	Reference T2 wiki:367355	Бука (компания)
-N3	Reference T3 wiki:606365	Новый диск
-A1	IsLink T2
-A2	IsLink T3

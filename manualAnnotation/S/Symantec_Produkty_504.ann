@@ -1,5 +1,0 @@
-T1	Organization 0 8	Symantec
-T2	Organization 188 194	WinFax
-N1	Reference T1 wiki:157841	Symantec
-N2	Reference T2 wiki:3009078	WinFax
-A1	IsLink T2

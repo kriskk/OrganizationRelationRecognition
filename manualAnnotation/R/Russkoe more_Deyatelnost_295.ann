@@ -1,8 +1,0 @@
-T1	Organization 0 12	Русское море
-T2	Organization 244 258	Marine Harvest
-T3	Organization 277 291	Norway Pelagic
-N1	Reference T1 wiki:672310	Русское море
-N2	Reference T2 wiki:2208675	Marine Harvest
-N3	Reference T3 wiki:3968068	Norway Pelagic
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 6	ТНК-BP
-T2	Organization 203 211	Роснефть
-T3	Organization 222 254	ЗАО «ПрайсвотерхаусКуперс Аудит»
-N1	Reference T1 wiki:17252	ТНК-BP
-N2	Reference T2 wiki:139770	Роснефть
-N3	Reference T3 wiki:275101	ПрайсвотерхаусКуперс
-A1	IsLink T2
-A2	IsLink T3

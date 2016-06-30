@@ -1,8 +1,0 @@
-T1	Organization 0 24	Douglas Aircraft Company
-T2	Organization 209 238	McDonnell Douglas Corporation
-T3	Organization 288 294	Boeing
-N1	Reference T1 wiki:4294726	Douglas Aircraft Company
-N2	Reference T2 wiki:87592	McDonnell Douglas Corporation
-N3	Reference T3 wiki:156398	Boeing
-A1	IsLink T2
-A2	IsLink T3

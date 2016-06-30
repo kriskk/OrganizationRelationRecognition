@@ -1,5 +1,0 @@
-T1	Organization 0 14	Digital Domain
-T2	Organization 218 223	Apple
-N1	Reference T1 wiki:4422322	Digital Domain
-N2	Reference T2 wiki:39726	Apple
-A1	IsLink T2

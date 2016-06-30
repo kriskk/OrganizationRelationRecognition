@@ -1,8 +1,0 @@
-T1	Organization 0 8	Borgward
-T2	Organization 306 310	Opel
-T3	Organization 313 315	VW
-N1	Reference T1 wiki:3465681	Borgward
-N2	Reference T2 wiki:562302	Opel
-N3	Reference T3 wiki:750217	VW
-A1	IsLink T2
-A2	IsLink T3

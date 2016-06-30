@@ -1,5 +1,0 @@
-T1	Organization 0 17	Moody's Analytics
-T2	Organization 350 357	Moody’s
-N1	Reference T1 wiki:3048332	Moody's Analytics
-N2	Reference T2 wiki:363292	Moody’s
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 4	Audi
-T2	Organization 237 252	Daimler-Benz AG
-T3	Organization 550 560	Volkswagen
-N1	Reference T1 wiki:41025	Audi
-N2	Reference T2 wiki:1384782	Daimler-Benz
-N3	Reference T3 wiki:750217	Volkswagen Group
-A1	IsLink T2
-A2	IsLink T3

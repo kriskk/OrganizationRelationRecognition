@@ -1,8 +1,0 @@
-T1	Organization 0 7	ЭНКА ТЦ
-T2	Organization 111 115	Enka
-T3	Organization 368 374	Auchan
-N1	Reference T1 wiki:164197	ЭНКА ТЦ
-N2	Reference T2 wiki:180366	Enka
-N3	Reference T3 wiki:1324090	Auchan
-A1	IsLink T2
-A2	IsLink T3

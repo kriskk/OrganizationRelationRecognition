@@ -1,8 +1,0 @@
-T1	Organization 0 8	Areva NP
-T2	Organization 171 176	AREVA
-T3	Organization 190 200	Siemens AG
-N1	Reference T1 wiki:294772	Areva NP
-N2	Reference T2 wiki:913165	AREVA
-N3	Reference T3 wiki:36510	Siemens AG
-A1	IsLink T2
-A2	IsLink T3

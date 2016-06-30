@@ -1,8 +1,0 @@
-T1	Organization 0 7	Samsung
-T2	Organization 253 258	Sanyo
-T3	Organization 441 460	Samsung Electronics
-N1	Reference T1 wiki:125537	Samsung
-N2	Reference T2 wiki:886291	Sanyo
-N3	Reference T3 wiki:125553	Samsung Electronics
-A1	IsLink T2
-A2	IsLink T3

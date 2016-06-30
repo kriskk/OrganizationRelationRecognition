@@ -1,8 +1,0 @@
-T1	Organization 0 7	Telesat
-T2	Organization 230 238	Intelsat
-T3	Organization 656 664	Intelsat
-N1	Reference T1 wiki:4319622	Telesat
-N2	Reference T2 wiki:3428079	Intelsat
-N3	Reference T3 wiki:3428079	Intelsat
-A1	IsLink T2
-A2	IsLink T3

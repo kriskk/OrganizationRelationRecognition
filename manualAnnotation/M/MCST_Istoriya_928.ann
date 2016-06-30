@@ -1,5 +1,0 @@
-T1	Organization 0 4	МЦСТ
-T2	Organization 221 226	Intel
-N1	Reference T1 wiki:747107	МЦСТ
-N2	Reference T2 wiki:762172	Intel
-A1	IsLink T2

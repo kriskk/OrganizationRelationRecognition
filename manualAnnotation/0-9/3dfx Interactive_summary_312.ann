@@ -1,5 +1,0 @@
-T1	Organization 0 16	3dfx Interactive
-T2	Organization 234 240	Nvidia
-N1	Reference T1 wiki:239320	3dfx Interactive
-N2	Reference T2 wiki:1548156	Nvidia
-A1	IsLink T2

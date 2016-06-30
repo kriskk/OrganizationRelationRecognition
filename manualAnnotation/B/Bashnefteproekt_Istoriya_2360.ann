@@ -1,8 +1,0 @@
-T1	Organization 0 14	Башнефтепроект
-T2	Organization 262 274	БашНИПИнефть
-T3	Organization 738 746	Башнефть
-N1	Reference T1 wiki:3726877	Башнефтепроект
-N2	Reference T2 wiki:4105585	БашНИПИнефть
-N3	Reference T3 wiki:180383	Башнефть
-A1	IsLink T2
-A2	IsLink T3

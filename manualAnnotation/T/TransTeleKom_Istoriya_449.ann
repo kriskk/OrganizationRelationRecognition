@@ -1,8 +1,0 @@
-T1	Organization 0 12	ТрансТелеКом
-T2	Organization 219 234	Корбина Телеком
-T3	Organization 406 409	РБК
-N1	Reference T1 wiki:161360	ТрансТелеКом
-N2	Reference T2 wiki:128480	Корбина Телеком
-N3	Reference T3 wiki:391746	РосБизнесКонсалтинг
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 14	Башинформсвязь
-T2	Organization 117 127	Ростелеком
-N1	Reference T1 wiki:1365624	Башинформсвязь
-N2	Reference T2 wiki:145844	Ростелеком
-A1	IsLink T2

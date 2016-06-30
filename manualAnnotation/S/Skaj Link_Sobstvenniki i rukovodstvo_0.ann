@@ -1,5 +1,0 @@
-T1	Organization 0 9	Скай Линк
-T2	Organization 137 147	Ростелеком
-N1	Reference T1 wiki:145535	Скай Линк
-N2	Reference T2 wiki:145844	Ростелеком
-A1	IsLink T2

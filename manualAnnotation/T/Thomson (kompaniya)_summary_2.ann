@@ -1,8 +1,0 @@
-T1	Organization 0 18	Thomson (компания)
-T2	Organization 191 207	агентства Рейтер
-T3	Organization 235 250	Thomson Reuters
-N1	Reference T1 wiki:643688	Thomson (компания)
-N2	Reference T2 wiki:183883	Reuters
-N3	Reference T3 wiki:1212367	Thomson Reuters
-A1	IsLink T2
-A2	IsLink T3

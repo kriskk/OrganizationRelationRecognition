@@ -1,8 +1,0 @@
-T1	Organization 0 13	Русские фонды
-T2	Organization 91 101	«Проспект»
-T3	Organization 202 226	Паллада Эссет Менеджмент
-N1	Reference T1 wiki:914643	Русские фонды
-N2	Reference T2 wiki:909645	ИК Проспект
-N3	Reference T3 wiki:910463	Паллада Эссет Менеджмент
-A1	IsLink T2
-A2	IsLink T3

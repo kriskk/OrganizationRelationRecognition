@@ -1,8 +1,0 @@
-T1	Organization 0 20	Austin Motor Company
-T2	Organization 224 227	BMW
-T3	Organization 308 314	Nissan
-N1	Reference T1 wiki:4041862	Austin Motor Company
-N2	Reference T2 wiki:40368	BMW
-N3	Reference T3 wiki:159586	Nissan
-A1	IsLink T2
-A2	IsLink T3

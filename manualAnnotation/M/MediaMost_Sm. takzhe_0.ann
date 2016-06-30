@@ -1,5 +1,0 @@
-T1	Organization 0 10	Медиа-Мост
-T2	Organization 43 56	Газпром-Медиа
-N1	Reference T1 wiki:2400048	Медиа-Мост
-N2	Reference T2 wiki:189268	Газпром-Медиа
-A1	IsLink T2

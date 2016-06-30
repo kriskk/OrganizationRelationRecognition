@@ -1,8 +1,0 @@
-T1	Organization 0 7	Авиакор
-T2	Organization 118 132	Русские машины
-T3	Organization 182 197	Базовый элемент
-N1	Reference T1 wiki:480966	Авиакор
-N2	Reference T2 wiki:2023713	Русские машины
-N3	Reference T3 wiki:156379	Базовый элемент
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 26	Куриное Царство (компания)
-T2	Organization 385 407	ОАО «Группа Черкизово»
-N1	Reference T1 wiki:3750099	Куриное Царство (компания)
-N2	Reference T2 wiki:150267	Группа Черкизово
-A1	IsLink T2

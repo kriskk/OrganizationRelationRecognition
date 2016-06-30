@@ -1,5 +1,0 @@
-T1	Organization 0 7	Автотор
-T2	Organization 148 151	Kia
-N1	Reference T1 wiki:1096940	Автотор
-N2	Reference T2 wiki:215264	Kia Motors
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 27	Discover Financial Services
-T2	Organization 114 123	Citigroup
-T3	Organization 178 189	Diners Club
-N1	Reference T1 wiki:4439539	Discover Financial Services
-N2	Reference T2 wiki:374508	Citigroup
-N3	Reference T3 wiki:3339710	Diners Club International
-A1	IsLink T2
-A2	IsLink T3

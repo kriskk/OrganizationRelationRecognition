@@ -1,8 +1,0 @@
-T1	Organization 0 6	Thawte
-T2	Organization 55 63	VeriSign
-T3	Organization 203 211	Netscape
-N1	Reference T1 wiki:4084649	Thawte
-N2	Reference T2 wiki:867521	VeriSign
-N3	Reference T3 wiki:603235	Netscape Communications
-A1	IsLink T2
-A2	IsLink T3

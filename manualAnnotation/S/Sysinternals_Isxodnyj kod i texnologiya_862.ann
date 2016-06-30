@@ -1,5 +1,0 @@
-T1	Organization 0 12	Sysinternals
-T2	Organization 249 258	Microsoft
-N1	Reference T1 wiki:1633405	Sysinternals
-N2	Reference T2 wiki:11987	Microsoft
-A1	IsLink T2

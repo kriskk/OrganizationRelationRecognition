@@ -1,8 +1,0 @@
-T1	Organization 0 30	Девелоперская компания "Поток"
-T2	Organization 170 181	Mirax Group
-T3	Organization 197 209	Nazvanie.net
-N1	Reference T1 wiki:4151274	Девелоперская компания "Поток"
-N2	Reference T2 wiki:176688	Mirax Group
-N3	Reference T3 wiki:4151274	Nazvanie.net
-A1	IsLink T2
-A2	IsLink T3

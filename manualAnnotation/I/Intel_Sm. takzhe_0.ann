@@ -1,5 +1,0 @@
-T1	Organization 0 5	Intel
-T2	Organization 58 61	AMD
-N1	Reference T1 wiki:762172	Intel
-N2	Reference T2 wiki:19981	AMD
-A1	IsLink T2

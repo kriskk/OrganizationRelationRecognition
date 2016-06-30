@@ -1,5 +1,0 @@
-T1	Organization 0 12	ThyssenKrupp
-T2	Organization 236 248	Blohm + Voss
-N1	Reference T1 wiki:166657	ThyssenKrupp
-N2	Reference T2 wiki:933856	Blohm + Voss
-A1	IsLink T2

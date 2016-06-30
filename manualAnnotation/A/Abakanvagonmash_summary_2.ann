@@ -1,8 +1,0 @@
-T1	Organization 0 14	Абаканвагонмаш
-T2	Organization 193 207	Русские машины
-T3	Organization 265 282	Базового элемента
-N1	Reference T1 wiki:154209	Абаканвагонмаш
-N2	Reference T2 wiki:2023713	Русские машины
-N3	Reference T3 wiki:156379	Базовый элемент
-A1	IsLink T2
-A2	IsLink T3

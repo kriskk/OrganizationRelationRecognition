@@ -1,8 +1,0 @@
-T1	Organization 0 11	Core Design
-T2	Organization 175 192	Eidos Interactive
-T3	Organization 204 219	Rebellion Derby
-N1	Reference T1 wiki:1464367	Core Design
-N2	Reference T2 wiki:806750	Eidos Interactive
-N3	Reference T3 wiki:2510548	Rebellion Developments
-A1	IsLink T2
-A2	IsLink T3

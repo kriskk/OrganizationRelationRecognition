@@ -1,5 +1,0 @@
-T1	Organization 0 8	Армпочта
-T2	Organization 278 287	«Ля Пост»
-N1	Reference T1 wiki:3389717	Армпочта
-N2	Reference T2 wiki:1232735	La Poste
-A1	IsLink T2

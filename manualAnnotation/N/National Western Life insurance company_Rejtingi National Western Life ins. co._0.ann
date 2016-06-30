@@ -1,5 +1,0 @@
-T1	Organization 0 39	National Western Life insurance company
-T2	Organization 175 192	Standard & Poor's
-N1	Reference T1 wiki:3018893	National Western Life insurance company
-N2	Reference T2 wiki:198286	Standard & Poor's
-A1	IsLink T2

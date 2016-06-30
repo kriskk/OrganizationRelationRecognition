@@ -1,5 +1,0 @@
-T1	Organization 0 19	Dow Jones & Company
-T2	Organization 184 200	News Corporation
-N1	Reference T1 wiki:1948907	Dow Jones & Company
-N2	Reference T2 wiki:636692	News Corporation
-A1	IsLink T2

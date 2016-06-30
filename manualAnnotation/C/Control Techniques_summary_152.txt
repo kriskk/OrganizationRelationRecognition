@@ -1,7 +1,0 @@
-Control Techniques
-@summary
-289,152
-
-:С самого начала своего существования компания стала мировым лидером в разработке и производстве Электроприводов.
-:Сейчас CT входит в Emerson Industrial Automation (часть корпорации) в виде Control Techniques Group (подразделения части), разделённого на Control Techniques Ltd. и Control Techniques Drives Ltd..
-

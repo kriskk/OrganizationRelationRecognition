@@ -1,5 +1,0 @@
-T1	Organization 0 20	Адмиралтейские верфи
-T2	Organization 390 408	Балтийского завода
-N1	Reference T1 wiki:255841	Адмиралтейские верфи
-N2	Reference T2 wiki:773298	Балтийский завод
-A1	IsLink T2

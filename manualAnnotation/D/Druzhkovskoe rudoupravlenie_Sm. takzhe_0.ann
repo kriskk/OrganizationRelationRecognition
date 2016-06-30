@@ -1,5 +1,0 @@
-T1	Organization 0 26	Дружковское рудоуправление
-T2	Organization 71 96	Систем Кэпитал Менеджмент
-N1	Reference T1 wiki:1325705	Дружковское рудоуправление
-N2	Reference T2 wiki:36184	Систем Кэпитал Менеджмент
-A1	IsLink T2

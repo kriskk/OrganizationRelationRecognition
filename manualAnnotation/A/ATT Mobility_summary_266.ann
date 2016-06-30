@@ -1,8 +1,0 @@
-T1	Organization 0 13	AT&T Mobility
-T2	Organization 199 203	AT&T
-T3	Organization 288 292	AT&T
-N1	Reference T1 wiki:373569	AT&T Mobility
-N2	Reference T2 wiki:162994	AT&T
-N3	Reference T3 wiki:162994	AT&T
-A1	IsLink T2
-A2	IsLink T3

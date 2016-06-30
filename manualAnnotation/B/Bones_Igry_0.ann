@@ -1,8 +1,0 @@
-T1	Organization 0 5	Bones
-T2	Organization 66 72	Bandai
-T3	Organization 116 122	Bandai
-N1	Reference T1 wiki:629308	Bones
-N2	Reference T2 wiki:393686	Bandai
-N3	Reference T3 wiki:393686	Bandai
-A1	IsLink T2
-A2	IsLink T3

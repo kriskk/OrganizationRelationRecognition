@@ -1,5 +1,0 @@
-T1	Organization 0 7	Газпром
-T2	Organization 353 360	Газфонд
-N1	Reference T1 wiki:44754	Газпром
-N2	Reference T2 wiki:1950122	Газфонд
-A1	IsLink T2

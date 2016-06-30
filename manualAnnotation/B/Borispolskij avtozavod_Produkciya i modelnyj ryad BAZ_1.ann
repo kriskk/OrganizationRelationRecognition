@@ -1,5 +1,0 @@
-T1	Organization 0 23	Бориспольский автозавод
-T2	Organization 214 218	ТАТА
-N1	Reference T1 wiki:546120	Бориспольский автозавод
-N2	Reference T2 wiki:962083	Tata Motors
-A1	IsLink T2

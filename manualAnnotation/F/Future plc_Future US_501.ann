@@ -1,5 +1,0 @@
-T1	Organization 0 10	Future plc
-T2	Organization 205 213	Nintendo
-N1	Reference T1 wiki:3468999	Future plc
-N2	Reference T2 wiki:202486	Nintendo
-A1	IsLink T2

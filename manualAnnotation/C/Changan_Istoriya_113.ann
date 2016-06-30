@@ -1,8 +1,0 @@
-T1	Organization 0 7	Changan
-T2	Organization 265 271	Suzuki
-T3	Organization 455 465	Ford Motor
-N1	Reference T1 wiki:3635977	Changan
-N2	Reference T2 wiki:690514	Suzuki
-N3	Reference T3 wiki:153236	Ford Motor
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 14	ARM (компания)
-T2	Organization 285 303	STMicroelectronics
-N1	Reference T1 wiki:49514	ARM (компания)
-N2	Reference T2 wiki:1118011	STMicroelectronics
-A1	IsLink T2

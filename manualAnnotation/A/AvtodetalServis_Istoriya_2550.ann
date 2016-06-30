@@ -1,5 +1,0 @@
-T1	Organization 0 17	Автодеталь-Сервис
-T2	Organization 199 201	ZF
-N1	Reference T1 wiki:4011137	Автодеталь-Сервис
-N2	Reference T2 wiki:154998	ZF Friedrichshafen AG
-A1	IsLink T2

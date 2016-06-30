@@ -1,8 +1,0 @@
-T1	Organization 0 7	Роснано
-T2	Organization 396 403	ГемаКор
-T3	Organization 781 788	Нанолек
-N1	Reference T1 wiki:728818	Роснано
-N2	Reference T2 wiki:4217036	ГемаКор
-N3	Reference T3 wiki:4044324	Нанолек
-A1	IsLink T2
-A2	IsLink T3

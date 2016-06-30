@@ -1,5 +1,0 @@
-T1	Organization 0 10	МЭС Центра
-T2	Organization 221 237	РАО «ЕЭС России»
-N1	Reference T1 wiki:1557515	МЭС Центра
-N2	Reference T2 wiki:1432138	ЕЭС России (компания)
-A1	IsLink T2

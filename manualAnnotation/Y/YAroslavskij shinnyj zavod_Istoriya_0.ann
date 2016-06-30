@@ -1,5 +1,0 @@
-T1	Organization 0 24	Ярославский шинный завод
-T2	Organization 185 197	механический
-N1	Reference T1 wiki:312699	Ярославский шинный завод
-N2	Reference T2 wiki:2640970	Ярполимермаш
-A1	IsLink T2

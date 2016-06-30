@@ -1,8 +1,0 @@
-Fairchild Semiconductor
-@История компании
-871,2819
-
-В 1970-х годах Fairchild Semiconductor выпустила 8-битный процессор Fairchild F8, однако он не оказался коммерчески успешным. Компания постепенно превращалась в производителя специализированной электроники для нужд ВПК.
-
-В 1979 нефтесервисная компания Schlumberger поглотила Fairchild Camera and Instrument заодно с её дочерней компанией, Fairchild Semiconductor. В 1987 National Semiconductor купила Fairchild Semiconductor у Schlumberger.
-

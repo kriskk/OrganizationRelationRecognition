@@ -1,8 +1,0 @@
-T1	Organization 0 6	Airbus
-T2	Organization 90 102	ВСМПО-АВИСМА
-T3	Organization 231 235	СУАЛ
-N1	Reference T1 wiki:212269	Airbus
-N2	Reference T2 wiki:140530	ВСМПО-АВИСМА
-N3	Reference T3 wiki:198079	СУАЛ
-A1	IsLink T2
-A2	IsLink T3

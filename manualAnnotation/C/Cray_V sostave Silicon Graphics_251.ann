@@ -1,5 +1,0 @@
-T1	Organization 0 4	Cray
-T2	Organization 524 540	Silicon Graphics
-N1	Reference T1 wiki:2385825	Cray
-N2	Reference T2 wiki:136151	Silicon Graphics
-A1	IsLink T2

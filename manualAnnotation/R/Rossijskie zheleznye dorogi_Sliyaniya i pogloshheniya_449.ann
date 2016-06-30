@@ -1,5 +1,0 @@
-T1	Organization 0 26	Российские железные дороги
-T2	Organization 260 279	PSA Peugeot Citroen
-N1	Reference T1 wiki:106901	Российские железные дороги
-N2	Reference T2 wiki:226616	PSA Peugeot Citroen
-A1	IsLink T2

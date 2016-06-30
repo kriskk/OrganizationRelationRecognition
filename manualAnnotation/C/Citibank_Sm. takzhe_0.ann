@@ -1,5 +1,0 @@
-T1	Organization 0 8	Citibank
-T2	Organization 41 75	American International Corporation
-N1	Reference T1 wiki:681929	Citibank
-N2	Reference T2 wiki:1554865	American International Corporation
-A1	IsLink T2

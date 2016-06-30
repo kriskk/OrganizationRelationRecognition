@@ -1,8 +1,0 @@
-T1	Organization 0 11	Tata Motors
-T2	Organization 227 237	Bajaj Auto
-T3	Organization 249 256	Renault
-N1	Reference T1 wiki:962083	Tata Motors
-N2	Reference T2 wiki:3235969	Bajaj Auto
-N3	Reference T3 wiki:586472	Renault
-A1	IsLink T2
-A2	IsLink T3

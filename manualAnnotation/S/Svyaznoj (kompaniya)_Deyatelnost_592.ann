@@ -1,5 +1,0 @@
-T1	Organization 0 18	Связной (компания)
-T2	Organization 199 212	Enter Связной
-N1	Reference T1 wiki:371774	Связной (компания)
-N2	Reference T2 wiki:3903520	Enter Связной
-A1	IsLink T2

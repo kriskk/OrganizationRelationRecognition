@@ -1,8 +1,0 @@
-T1	Organization 0 4	Sega
-T2	Organization 263 273	Sonic Team
-T3	Organization 434 444	Sonic Team
-N1	Reference T1 wiki:92589	Sega
-N2	Reference T2 wiki:2721227	Sonic Team
-N3	Reference T3 wiki:2721227	Sonic Team
-A1	IsLink T2
-A2	IsLink T3

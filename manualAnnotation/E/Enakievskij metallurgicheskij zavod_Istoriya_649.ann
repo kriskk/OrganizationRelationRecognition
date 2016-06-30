@@ -1,5 +1,0 @@
-T1	Organization 0 34	Енакиевский металлургический завод
-T2	Organization 318 343	System Capital Management
-N1	Reference T1 wiki:309264	Енакиевский металлургический завод
-N2	Reference T2 wiki:36184	System Capital Management
-A1	IsLink T2

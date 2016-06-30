@@ -1,8 +1,0 @@
-T1	Organization 0 6	Crytek
-T2	Organization 343 350	Ubisoft
-T3	Organization 387 393	NCSoft
-N1	Reference T1 wiki:650133	Crytek
-N2	Reference T2 wiki:650139	Ubisoft
-N3	Reference T3 wiki:707386	NCSoft
-A1	IsLink T2
-A2	IsLink T3

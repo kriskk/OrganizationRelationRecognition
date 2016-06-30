@@ -1,5 +1,0 @@
-T1	Organization 0 26	Сеть ТРЦ «Красная Площадь»
-T2	Organization 274 285	Макдональдс
-N1	Reference T1 wiki:3817385	Сеть ТРЦ «Красная Площадь»
-N2	Reference T2 wiki:3425	Макдональдс
-A1	IsLink T2

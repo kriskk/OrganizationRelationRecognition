@@ -1,5 +1,0 @@
-T1	Organization 0 6	Oracle
-T2	Organization 345 362	Fusion Middleware
-N1	Reference T1 wiki:129227	Oracle
-N2	Reference T2 wiki:129227	Fusion Middleware
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 8	Технотон
-T2	Organization 313 333	ОАО «Сургутнефтегаз»
-T3	Organization 342 347	«МАЗ»
-N1	Reference T1 wiki:2775553	Технотон
-N2	Reference T2 wiki:143564	Сургутнефтегаз
-N3	Reference T3 wiki:33218	МАЗ
-A1	IsLink T2
-A2	IsLink T3

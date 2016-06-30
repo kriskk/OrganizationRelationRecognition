@@ -1,5 +1,0 @@
-T1	Organization 0 10	МЭС Центра
-T2	Organization 203 212	Мосэнерго
-N1	Reference T1 wiki:1557515	МЭС Центра
-N2	Reference T2 wiki:159522	Мосэнерго
-A1	IsLink T2

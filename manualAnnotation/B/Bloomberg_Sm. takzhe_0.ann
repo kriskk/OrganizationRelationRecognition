@@ -1,5 +1,0 @@
-T1	Organization 0 9	Bloomberg
-T2	Organization 42 48	Рейтер
-N1	Reference T1 wiki:655940	Bloomberg
-N2	Reference T2 wiki:183883	Рейтер
-A1	IsLink T2

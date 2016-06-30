@@ -1,8 +1,0 @@
-T1	Organization 0 8	Асл Ойна
-T2	Organization 289 301	Anadolu Efes
-T3	Organization 346 355	Carlsberg
-N1	Reference T1 wiki:3330885	Асл Ойна
-N2	Reference T2 wiki:720902	Anadolu Efes
-N3	Reference T3 wiki:787801	Carlsberg
-A1	IsLink T2
-A2	IsLink T3

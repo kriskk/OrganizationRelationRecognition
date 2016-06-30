@@ -1,8 +1,0 @@
-T1	Organization 0 20	Апатинская пивоварня
-T2	Organization 249 269	Anheuser-Busch InBev
-T3	Organization 508 515	Starbev
-N1	Reference T1 wiki:4116194	Апатинская пивоварня
-N2	Reference T2 wiki:3199376	Anheuser-Busch InBev
-N3	Reference T3 wiki:4114777	Starbev
-A1	IsLink T2
-A2	IsLink T3

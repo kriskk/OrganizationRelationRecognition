@@ -1,8 +1,0 @@
-T1	Organization 0 19	Ангстрем (компания)
-T2	Organization 238 260	Российская электроника
-T3	Organization 301 314	Ростехнологии
-N1	Reference T1 wiki:176095	Ангстрем (компания)
-N2	Reference T2 wiki:1037436	Российская электроника
-N3	Reference T3 wiki:915063	Ростехнологии
-A1	IsLink T2
-A2	IsLink T3

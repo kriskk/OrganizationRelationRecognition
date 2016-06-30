@@ -1,5 +1,0 @@
-T1	Organization 0 10	NTT docomo
-T2	Organization 182 185	NTT
-N1	Reference T1 wiki:56175	NTT docomo
-N2	Reference T2 wiki:1788654	NTT
-A1	IsLink T2

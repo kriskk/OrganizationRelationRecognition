@@ -1,8 +1,0 @@
-T1	Organization 0 16	Электроточприбор
-T2	Organization 329 379	Краснодарского завода измерительных приборов (ЗИП)
-T3	Organization 555 608	ВИЭП (бывшей Отраслевой лаборатории измерений — ОЛИЗ)
-N1	Reference T1 wiki:3959447	Электроточприбор
-N2	Reference T2 wiki:3959999	Краснодарский ЗИП
-N3	Reference T3 wiki:3958658	ОЛИЗ
-A1	IsLink T2
-A2	IsLink T3

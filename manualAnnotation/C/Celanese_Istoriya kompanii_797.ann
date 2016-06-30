@@ -1,8 +1,0 @@
-T1	Organization 0 8	Celanese
-T2	Organization 287 299	Dow Chemical
-T3	Organization 528 538	Blackstone
-N1	Reference T1 wiki:1423173	Celanese
-N2	Reference T2 wiki:189244	Dow Chemical
-N3	Reference T3 wiki:706484	Blackstone
-A1	IsLink T2
-A2	IsLink T3

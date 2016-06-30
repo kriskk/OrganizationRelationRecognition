@@ -1,5 +1,0 @@
-T1	Organization 0 6	Ростех
-T2	Organization 130 146	ОПК „Оборонпром“
-N1	Reference T1 wiki:915063	Ростех
-N2	Reference T2 wiki:757437	Оборонпром
-A1	IsLink T2

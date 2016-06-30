@@ -1,8 +1,0 @@
-T1	Organization 0 39	Самарская оптическая кабельная компания
-T2	Organization 308 319	Связьинвест
-T3	Organization 398 424	Российские железные дороги
-N1	Reference T1 wiki:3120306	Самарская оптическая кабельная компания
-N2	Reference T2 wiki:145705	Связьинвест
-N3	Reference T3 wiki:106901	Российские железные дороги
-A1	IsLink T2
-A2	IsLink T3

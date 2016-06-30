@@ -1,8 +1,0 @@
-T1	Organization 0 10	Tama Drums
-T2	Organization 190 203	Drum Workshop
-T3	Organization 243 256	Drum Workshop
-N1	Reference T1 wiki:3448625	Tama Drums
-N2	Reference T2 wiki:3047101	Drum Workshop
-N3	Reference T3 wiki:3047101	Drum Workshop
-A1	IsLink T2
-A2	IsLink T3

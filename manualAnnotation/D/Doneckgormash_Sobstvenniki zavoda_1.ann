@@ -1,5 +1,0 @@
-T1	Organization 0 12	Донецкгормаш
-T2	Organization 204 229	Систем Кэпитал Менеджмент
-N1	Reference T1 wiki:3585766	Донецкгормаш
-N2	Reference T2 wiki:36184	Систем Кэпитал Менеджмент
-A1	IsLink T2

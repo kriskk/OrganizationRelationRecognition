@@ -1,8 +1,0 @@
-T1	Organization 0 6	Амедиа
-T2	Organization 420 426	Леан-М
-T3	Organization 471 493	Story First Production
-N1	Reference T1 wiki:20040	Амедиа
-N2	Reference T2 wiki:1883827	Леан-М
-N3	Reference T3 wiki:3721033	Story First Production
-A1	IsLink T2
-A2	IsLink T3

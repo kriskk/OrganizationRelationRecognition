@@ -1,5 +1,0 @@
-T1	Organization 0 9	WellPoint
-T2	Organization 41 46	Aetna
-N1	Reference T1 wiki:1896033	WellPoint
-N2	Reference T2 wiki:1910664	Aetna
-A1	IsLink T2

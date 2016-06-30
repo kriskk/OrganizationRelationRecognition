@@ -1,8 +1,0 @@
-T1	Organization 0 7	Factiva
-T2	Organization 40 49	Dow Jones
-T3	Organization 52 68	News Corporation
-N1	Reference T1 wiki:1350182	Factiva
-N2	Reference T2 wiki:1948907	Dow Jones
-N3	Reference T3 wiki:636692	News Corporation
-A1	IsLink T2
-A2	IsLink T3

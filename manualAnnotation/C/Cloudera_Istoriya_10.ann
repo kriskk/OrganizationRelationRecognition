@@ -1,8 +1,0 @@
-T1	Organization 0 8	Cloudera
-T2	Organization 279 285	Google
-T3	Organization 542 548	Oracle
-N1	Reference T1 wiki:3615749	Cloudera
-N2	Reference T2 wiki:265	Google (компания)
-N3	Reference T3 wiki:129227	Oracle
-A1	IsLink T2
-A2	IsLink T3

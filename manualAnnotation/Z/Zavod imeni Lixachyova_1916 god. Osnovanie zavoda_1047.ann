@@ -1,8 +1,0 @@
-T1	Organization 0 20	Завод имени Лихачёва
-T2	Organization 257 261	FIAT
-T3	Organization 502 506	FIAT
-N1	Reference T1 wiki:259988	Завод имени Лихачёва
-N2	Reference T2 wiki:91784	FIAT
-N3	Reference T3 wiki:91784	FIAT
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 17	Universal Studios
-T2	Organization 249 259	Matsushita
-T3	Organization 290 299	Panasonic
-N1	Reference T1 wiki:702796	Universal Studios
-N2	Reference T2 wiki:307154	Matsushita Electric
-N3	Reference T3 wiki:307154	Panasonic
-A1	IsLink T2
-A2	IsLink T3

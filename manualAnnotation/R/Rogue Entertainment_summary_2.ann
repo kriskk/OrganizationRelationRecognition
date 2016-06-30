@@ -1,5 +1,0 @@
-T1	Organization 0 19	Rogue Entertainment
-T2	Organization 205 216	Id Software
-N1	Reference T1 wiki:1302207	Rogue Entertainment
-N2	Reference T2 wiki:80386	Id Software
-A1	IsLink T2

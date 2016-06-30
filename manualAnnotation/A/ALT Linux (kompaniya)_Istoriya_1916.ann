@@ -1,5 +1,0 @@
-T1	Organization 0 20	ALT Linux (компания)
-T2	Organization 240 254	Ростехнологиям
-N1	Reference T1 wiki:1363925	ALT Linux (компания)
-N2	Reference T2 wiki:915063	Ростехнологии
-A1	IsLink T2

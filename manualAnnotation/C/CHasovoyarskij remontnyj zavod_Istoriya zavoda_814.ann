@@ -1,5 +1,0 @@
-T1	Organization 0 28	Часовоярский ремонтный завод
-T2	Organization 283 286	ГАЗ
-N1	Reference T1 wiki:3511768	Часовоярский ремонтный завод
-N2	Reference T2 wiki:25060	Горьковский автомобильный завод
-A1	IsLink T2

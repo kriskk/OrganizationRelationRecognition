@@ -1,8 +1,0 @@
-T1	Organization 0 12	Dade Behring
-T2	Organization 279 289	Hoechst AG
-T3	Organization 319 329	Siemens AG
-N1	Reference T1 wiki:760809	Dade Behring
-N2	Reference T2 wiki:1433713	Hoechst AG
-N3	Reference T3 wiki:36510	Siemens AG
-A1	IsLink T2
-A2	IsLink T3

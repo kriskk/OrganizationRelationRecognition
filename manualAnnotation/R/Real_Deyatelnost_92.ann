@@ -1,5 +1,0 @@
-T1	Organization 0 4	Real
-T2	Organization 413 422	Парк Хаус
-N1	Reference T1 wiki:1480648	Real
-N2	Reference T2 wiki:1480690	Парк Хаус
-A1	IsLink T2

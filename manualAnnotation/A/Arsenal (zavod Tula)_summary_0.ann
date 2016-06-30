@@ -1,5 +1,0 @@
-T1	Organization 0 21	Арсенал (завод, Тула)
-T2	Organization 139 165	концерна ПВО «Алмаз-Антей»
-N1	Reference T1 wiki:1856437	Арсенал (завод, Тула)
-N2	Reference T2 wiki:149639	Концерн ПВО «Алмаз-Антей»
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 8	Mary Kay
-T2	Organization 85 101	розовый кадиллак
-N1	Reference T1 wiki:4265516	Mary Kay
-N2	Reference T2 wiki:571883	Cadillac
-A1	IsLink T2

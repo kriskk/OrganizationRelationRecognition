@@ -1,5 +1,0 @@
-T1	Organization 0 16	Вибратор (завод)
-T2	Organization 287 318	Омский завод «Электроточприбор»
-N1	Reference T1 wiki:3958658	Вибратор (завод)
-N2	Reference T2 wiki:3959447	Электроточприбор
-A1	IsLink T2

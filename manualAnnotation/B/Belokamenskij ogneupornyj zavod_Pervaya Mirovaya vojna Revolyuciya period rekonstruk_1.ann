@@ -1,5 +1,0 @@
-T1	Organization 0 31	Белокаменский огнеупорный завод
-T2	Organization 269 285	Киевский арсенал
-N1	Reference T1 wiki:2832335	Белокаменский огнеупорный завод
-N2	Reference T2 wiki:2283496	Арсенал (завод, Киев)
-A1	IsLink T2

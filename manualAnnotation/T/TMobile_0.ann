@@ -1,5 +1,0 @@
-T1	Organization 0 8	T-Mobile
-T2	Organization 102 118	Deutsche Telekom
-N1	Reference T1 wiki:138787	T-Mobile
-N2	Reference T2 wiki:169094	Deutsche Telekom
-A1	IsLink T2

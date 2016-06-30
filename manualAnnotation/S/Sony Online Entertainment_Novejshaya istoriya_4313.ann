@@ -1,8 +1,0 @@
-T1	Organization 0 25	Sony Online Entertainment
-T2	Organization 268 272	Sony
-T3	Organization 716 722	Иннова
-N1	Reference T1 wiki:3228138	Sony Online Entertainment
-N2	Reference T2 wiki:73019	Sony
-N3	Reference T3 wiki:1532698	Иннова
-A1	IsLink T2
-A2	IsLink T3

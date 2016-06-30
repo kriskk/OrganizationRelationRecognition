@@ -1,5 +1,0 @@
-T1	Organization 0 12	Midas Kapiti
-T2	Organization 330 333	IBM
-N1	Reference T1 wiki:3039241	Midas Kapiti
-N2	Reference T2 wiki:11078	IBM
-A1	IsLink T2

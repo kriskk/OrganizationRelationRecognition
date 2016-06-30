@@ -1,5 +1,0 @@
-T1	Organization 0 13	Splash Damage
-T2	Organization 304 315	Id Software
-N1	Reference T1 wiki:2140575	Splash Damage
-N2	Reference T2 wiki:80386	Id Software
-A1	IsLink T2

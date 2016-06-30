@@ -1,8 +1,0 @@
-T1	Organization 0 19	Банк'с софт системс
-T2	Organization 82 89	Диасофт
-T3	Organization 132 147	R-Style Softlab
-N1	Reference T1 wiki:1080287	Банк'с софт системс
-N2	Reference T2 wiki:2055790	Диасофт
-N3	Reference T3 wiki:351663	R-Style Softlab
-A1	IsLink T2
-A2	IsLink T3

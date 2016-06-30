@@ -1,5 +1,0 @@
-T1	Organization 0 41	Территориальная генерирующая компания № 6
-T2	Organization 235 246	КЭС-Холдинг
-N1	Reference T1 wiki:173782	Территориальная генерирующая компания № 6
-N2	Reference T2 wiki:160412	КЭС-Холдинг
-A1	IsLink T2

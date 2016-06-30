@@ -1,5 +1,0 @@
-T1	Organization 0 11	Совет рынка
-T2	Organization 505 535	Администратор торговой системы
-N1	Reference T1 wiki:2049211	Совет рынка
-N2	Reference T2 wiki:463894	Администратор торговой системы
-A1	IsLink T2

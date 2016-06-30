@@ -1,8 +1,0 @@
-T1	Organization 0 15	Соллерс-Елабуга
-T2	Organization 229 238	Fiat Auto
-T3	Organization 430 434	Fiat
-N1	Reference T1 wiki:1278988	Соллерс-Елабуга
-N2	Reference T2 wiki:91784	Fiat Auto
-N3	Reference T3 wiki:91784	Fiat
-A1	IsLink T2
-A2	IsLink T3

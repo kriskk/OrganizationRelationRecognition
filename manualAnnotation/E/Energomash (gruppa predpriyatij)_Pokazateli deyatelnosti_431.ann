@@ -1,8 +1,0 @@
-T1	Organization 0 30	Энергомаш (группа предприятий)
-T2	Organization 218 225	Газпром
-T3	Organization 237 250	Росэнергоатом
-N1	Reference T1 wiki:1716207	Энергомаш (группа предприятий)
-N2	Reference T2 wiki:44754	Газпром
-N3	Reference T3 wiki:138779	Росэнергоатом
-A1	IsLink T2
-A2	IsLink T3

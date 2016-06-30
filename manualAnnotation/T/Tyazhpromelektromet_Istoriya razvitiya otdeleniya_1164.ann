@@ -1,8 +1,0 @@
-T1	Organization 0 17	Тяжпромэлектромет
-T2	Organization 241 253	Лысьвенского
-T3	Organization 255 268	Н-Тагильского
-N1	Reference T1 wiki:4192925	Тяжпромэлектромет
-N2	Reference T2 wiki:1389716	Лысьвенский металлургический завод
-N3	Reference T3 wiki:154730	Нижнетагильский металлургический комбинат
-A1	IsLink T2
-A2	IsLink T3

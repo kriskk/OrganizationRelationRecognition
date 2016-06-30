@@ -1,8 +1,0 @@
-T1	Organization 0 7	Siemens
-T2	Organization 352 366	Силовые машины
-T3	Organization 574 582	Интеррос
-N1	Reference T1 wiki:36510	Siemens
-N2	Reference T2 wiki:143652	Силовые машины
-N3	Reference T3 wiki:147366	Интеррос
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 20	Ritual Entertainment
-T2	Organization 228 244	Gearbox Software
-T3	Organization 250 269	Turtle Rock Studios
-N1	Reference T1 wiki:1386191	Ritual Entertainment
-N2	Reference T2 wiki:541955	Gearbox Software
-N3	Reference T3 wiki:1665713	Turtle Rock Studios
-A1	IsLink T2
-A2	IsLink T3

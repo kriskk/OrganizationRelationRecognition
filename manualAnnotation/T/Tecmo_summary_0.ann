@@ -1,8 +1,0 @@
-T1	Organization 0 5	Tecmo
-T2	Organization 172 176	Koei
-T3	Organization 198 208	Tecmo Koei
-N1	Reference T1 wiki:3200284	Tecmo
-N2	Reference T2 wiki:2243328	Koei
-N3	Reference T3 wiki:3200284	Tecmo Koei
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 23	North American Aviation
-T2	Organization 158 164	Boeing
-T3	Organization 414 436	Rockwell International
-N1	Reference T1 wiki:2188887	North American Aviation
-N2	Reference T2 wiki:156398	Boeing
-N3	Reference T3 wiki:743730	Rockwell International
-A1	IsLink T2
-A2	IsLink T3

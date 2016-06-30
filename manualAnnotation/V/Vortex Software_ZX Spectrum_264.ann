@@ -1,8 +1,0 @@
-T1	Organization 0 15	Vortex Software
-T2	Organization 237 253	Gremlin Graphics
-T3	Organization 305 321	Gremlin Graphics
-N1	Reference T1 wiki:1118744	Vortex Software
-N2	Reference T2 wiki:3591181	Gremlin Graphics
-N3	Reference T3 wiki:3591181	Gremlin Graphics
-A1	IsLink T2
-A2	IsLink T3

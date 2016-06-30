@@ -1,8 +1,0 @@
-T1	Organization 0 15	Stainless Games
-T2	Organization 95 115	Wizards of the Coast
-T3	Organization 201 221	Wizards of the Coast
-N1	Reference T1 wiki:3448177	Stainless Games
-N2	Reference T2 wiki:362220	Wizards of the Coast
-N3	Reference T3 wiki:362220	Wizards of the Coast
-A1	IsLink T2
-A2	IsLink T3

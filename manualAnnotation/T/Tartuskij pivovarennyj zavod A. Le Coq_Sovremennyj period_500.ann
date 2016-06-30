@@ -1,8 +1,0 @@
-T1	Organization 0 38	Тартуский пивоваренный завод A. Le Coq
-T2	Organization 306 310	Olvi
-T3	Organization 501 510	Cēsu Alus
-N1	Reference T1 wiki:280813	Тартуский пивоваренный завод A. Le Coq
-N2	Reference T2 wiki:3408246	Olvi
-N3	Reference T3 wiki:3301677	Cēsu alus
-A1	IsLink T2
-A2	IsLink T3

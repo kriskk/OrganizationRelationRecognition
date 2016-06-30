@@ -1,8 +1,0 @@
-T1	Organization 0 9	Евразруда
-T2	Organization 283 300	Западно-Сибирский
-T3	Organization 303 316	Новокузнецкий
-N1	Reference T1 wiki:372717	Евразруда
-N2	Reference T2 wiki:35331	Западно-Сибирский металлургический комбинат
-N3	Reference T3 wiki:16969	Новокузнецкий металлургический комбинат
-A1	IsLink T2
-A2	IsLink T3

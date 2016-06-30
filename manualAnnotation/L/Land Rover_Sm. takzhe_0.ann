@@ -1,5 +1,0 @@
-T1	Organization 0 10	Land Rover
-T2	Organization 57 63	Jaguar
-N1	Reference T1 wiki:683379	Land Rover
-N2	Reference T2 wiki:431514	Jaguar
-A1	IsLink T2

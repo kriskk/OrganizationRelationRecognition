@@ -1,8 +1,0 @@
-T1	Organization 0 13	Ring of Honor
-T2	Organization 103 133	Extreme Championship Wrestling
-T3	Organization 398 401	ECW
-N1	Reference T1 wiki:4072703	Ring of Honor
-N2	Reference T2 wiki:3112949	Extreme Championship Wrestling
-N3	Reference T3 wiki:3112949	Extreme Championship Wrestling
-A1	IsLink T2
-A2	IsLink T3

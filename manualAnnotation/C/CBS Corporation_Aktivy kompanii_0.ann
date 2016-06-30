@@ -1,5 +1,0 @@
-T1	Organization 0 15	CBS Corporation
-T2	Organization 115 126	Time Warner
-N1	Reference T1 wiki:1345414	CBS Corporation
-N2	Reference T2 wiki:741342	Time Warner
-A1	IsLink T2

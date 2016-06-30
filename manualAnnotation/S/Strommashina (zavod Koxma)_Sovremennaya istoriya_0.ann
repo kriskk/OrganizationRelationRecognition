@@ -1,5 +1,0 @@
-T1	Organization 0 26	Строммашина (завод, Кохма)
-T2	Organization 182 191	 «СУ-155»
-N1	Reference T1 wiki:2601014	Строммашина (завод, Кохма)
-N2	Reference T2 wiki:167163	СУ-155
-A1	IsLink T2

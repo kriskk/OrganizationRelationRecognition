@@ -1,5 +1,0 @@
-T1	Organization 0 7	Borland
-T2	Organization 271 277	Novell
-N1	Reference T1 wiki:35713	Borland
-N2	Reference T2 wiki:21831	Novell
-A1	IsLink T2

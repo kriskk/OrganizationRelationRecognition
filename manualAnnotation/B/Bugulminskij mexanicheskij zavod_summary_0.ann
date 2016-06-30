@@ -1,5 +1,0 @@
-T1	Organization 0 32	Бугульминский механический завод
-T2	Organization 161 169	Татнефть
-N1	Reference T1 wiki:1689902	Бугульминский механический завод
-N2	Reference T2 wiki:145661	Татнефть
-A1	IsLink T2

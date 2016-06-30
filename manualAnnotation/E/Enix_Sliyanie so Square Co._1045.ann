@@ -1,5 +1,0 @@
-T1	Organization 0 4	Enix
-T2	Organization 333 344	Square Enix
-N1	Reference T1 wiki:2414804	Enix
-N2	Reference T2 wiki:288255	Square Enix
-A1	IsLink T2

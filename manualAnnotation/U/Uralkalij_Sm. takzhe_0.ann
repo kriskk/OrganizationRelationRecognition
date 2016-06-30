@@ -1,8 +1,0 @@
-T1	Organization 0 9	Уралкалий
-T2	Organization 42 49	ФосАгро
-T3	Organization 52 68	Акрон (компания)
-N1	Reference T1 wiki:153726	Уралкалий
-N2	Reference T2 wiki:158697	ФосАгро
-N3	Reference T3 wiki:291370	Акрон (компания)
-A1	IsLink T2
-A2	IsLink T3

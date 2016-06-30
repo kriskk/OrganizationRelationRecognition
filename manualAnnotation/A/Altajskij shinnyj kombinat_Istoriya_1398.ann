@@ -1,5 +1,0 @@
-T1	Organization 0 25	Алтайский шинный комбинат
-T2	Organization 424 451	Ярославского шинного завода
-N1	Reference T1 wiki:605144	Алтайский шинный комбинат
-N2	Reference T2 wiki:312699	Ярославский шинный завод
-A1	IsLink T2

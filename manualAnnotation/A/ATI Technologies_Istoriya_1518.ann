@@ -1,5 +1,0 @@
-T1	Organization 0 16	ATI Technologies
-T2	Organization 248 251	AMD
-N1	Reference T1 wiki:1155771	ATI Technologies
-N2	Reference T2 wiki:19981	Advanced Micro Devices
-A1	IsLink T2

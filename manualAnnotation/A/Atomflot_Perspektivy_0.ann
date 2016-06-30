@@ -1,5 +1,0 @@
-T1	Organization 0 8	Атомфлот
-T2	Organization 86 122	Государственной корпорации «Росатом»
-N1	Reference T1 wiki:1299971	Атомфлот
-N2	Reference T2 wiki:1299917	Государственная корпорация по атомной энергии «Росатом»
-A1	IsLink T2

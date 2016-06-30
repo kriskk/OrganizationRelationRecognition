@@ -1,5 +1,0 @@
-T1	Organization 0 10	Тулачермет
-T2	Organization 263 267	Кокс
-N1	Reference T1 wiki:2409705	Тулачермет
-N2	Reference T2 wiki:2988490	Кокс (компания)
-A1	IsLink T2

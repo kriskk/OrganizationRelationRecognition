@@ -1,5 +1,0 @@
-T1	Organization 0 15	Cave (компания)
-T2	Organization 242 249	Toaplan
-N1	Reference T1 wiki:1716901	Cave (компания)
-N2	Reference T2 wiki:1639366	Toaplan
-A1	IsLink T2

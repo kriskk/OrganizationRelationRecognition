@@ -1,5 +1,0 @@
-T1	Organization 0 12	Альт Телеком
-T2	Organization 243 251	Евросеть
-N1	Reference T1 wiki:371786	Альт Телеком
-N2	Reference T2 wiki:168895	Евросеть
-A1	IsLink T2

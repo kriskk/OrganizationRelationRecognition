@@ -1,5 +1,0 @@
-T1	Organization 0 15	Военный Регистр
-T2	Organization 385 421	Государственная корпорация «Росатом»
-N1	Reference T1 wiki:4016654	Военный Регистр
-N2	Reference T2 wiki:1299917	Государственная корпорация «Росатом»
-A1	IsLink T2

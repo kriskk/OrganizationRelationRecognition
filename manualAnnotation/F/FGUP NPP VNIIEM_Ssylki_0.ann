@@ -1,5 +1,0 @@
-T1	Organization 0 17	ФГУП «НПП ВНИИЭМ»
-T2	Organization 156 177	телестудии Роскосмоса
-N1	Reference T1 wiki:1576375	ФГУП «НПП ВНИИЭМ»
-N2	Reference T2 wiki:1495574	Телестудия Роскосмоса
-A1	IsLink T2

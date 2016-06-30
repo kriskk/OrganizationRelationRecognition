@@ -1,5 +1,0 @@
-T1	Organization 0 25	Diners Club International
-T2	Organization 234 250	American Express
-N1	Reference T1 wiki:3339710	Diners Club International
-N2	Reference T2 wiki:365626	American Express
-A1	IsLink T2

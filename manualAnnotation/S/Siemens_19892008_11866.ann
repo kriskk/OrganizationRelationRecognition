@@ -1,8 +1,0 @@
-T1	Organization 0 7	Siemens
-T2	Organization 439 461	Nokia Siemens Networks
-T3	Organization 527 530	ÖBB
-N1	Reference T1 wiki:36510	Siemens
-N2	Reference T2 wiki:354923	Nokia Siemens Networks
-N3	Reference T3 wiki:963486	ÖBB
-A1	IsLink T2
-A2	IsLink T3

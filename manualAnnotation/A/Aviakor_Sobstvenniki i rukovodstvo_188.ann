@@ -1,8 +1,0 @@
-T1	Organization 0 7	Авиакор
-T2	Organization 279 319	Объединённую авиастроительную корпорацию
-T3	Organization 390 395	Иркут
-N1	Reference T1 wiki:480966	Авиакор
-N2	Reference T2 wiki:163405	Объединённая авиастроительная корпорация
-N3	Reference T3 wiki:143159	Иркут (компания)
-A1	IsLink T2
-A2	IsLink T3

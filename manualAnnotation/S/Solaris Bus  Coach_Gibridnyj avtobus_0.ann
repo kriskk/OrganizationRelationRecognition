@@ -1,5 +1,0 @@
-T1	Organization 0 19	Solaris Bus & Coach
-T2	Organization 149 163	General Motors
-N1	Reference T1 wiki:264279	Solaris Bus & Coach
-N2	Reference T2 wiki:17438	General Motors
-A1	IsLink T2

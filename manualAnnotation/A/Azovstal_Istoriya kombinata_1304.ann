@@ -1,8 +1,0 @@
-T1	Organization 0 9	Азовсталь
-T2	Organization 202 227	System Capital Management
-T3	Organization 393 423	Индустриального союза Донбасса
-N1	Reference T1 wiki:123992	Азовсталь
-N2	Reference T2 wiki:36184	System Capital Management
-N3	Reference T3 wiki:535207	Индустриальный союз Донбасса
-A1	IsLink T2
-A2	IsLink T3

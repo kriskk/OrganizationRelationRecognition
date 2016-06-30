@@ -1,8 +1,0 @@
-T1	Organization 0 9	Техносерв
-T2	Organization 197 200	РЖД
-T3	Organization 484 487	IBM
-N1	Reference T1 wiki:1817004	Техносерв
-N2	Reference T2 wiki:106901	Российские железные дороги
-N3	Reference T3 wiki:11078	IBM
-A1	IsLink T2
-A2	IsLink T3

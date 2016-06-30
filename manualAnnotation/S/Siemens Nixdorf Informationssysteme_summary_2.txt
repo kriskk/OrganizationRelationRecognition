@@ -1,9 +1,0 @@
-Siemens Nixdorf Informationssysteme
-@summary
-384,2
-
-Siemens Nixdorf Informationssysteme, AG (SNI) (произносится: Сименс Никсдорф Информационсзюстеме) — немецкая компания, образованная в 1990 году слиянием компаний Nixdorf Computer AG и подразделения Data Information Services (DIS) компании Siemens AG. Работавшая, как независимая дочерняя компания, SNI выпускала операционные системы BS2000 и SINIX, мэйнфреймы BS2000 mainframes, SNI RISC-серверы RM-x00 и большое число разнообразных программных и аппаратных средств (от персональных компьютеров до решений на базе SAP R/3). SNI являлась крупнейшей IT-компанией в Европе, до 1998 года, когда в результате реорганизации Siemens AG была разделена на три части: Fujitsu Siemens Computers, Wincor Nixdorf AG и Siemens Business Services.
- 	  
- нет источников	 дата: 2012-11-06 
-Категория:Siemens
-Категория:Несуществующие ныне компании Германии

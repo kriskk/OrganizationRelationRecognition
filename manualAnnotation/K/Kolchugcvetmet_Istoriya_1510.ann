@@ -1,5 +1,0 @@
-T1	Organization 0 14	Кольчугцветмет
-T2	Organization 323 336	Электрокабель
-N1	Reference T1 wiki:707099	Кольчугцветмет
-N2	Reference T2 wiki:4302520	Электрокабель (завод)
-A1	IsLink T2

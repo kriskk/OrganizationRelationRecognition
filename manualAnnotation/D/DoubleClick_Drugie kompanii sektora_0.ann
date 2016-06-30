@@ -1,5 +1,0 @@
-T1	Organization 0 11	DoubleClick
-T2	Organization 72 81	AQuantive
-N1	Reference T1 wiki:626664	DoubleClick
-N2	Reference T2 wiki:656560	AQuantive
-A1	IsLink T2

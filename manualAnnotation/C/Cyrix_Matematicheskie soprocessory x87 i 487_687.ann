@@ -1,5 +1,0 @@
-T1	Organization 0 5	Cyrix
-T2	Organization 443 446	IBM
-N1	Reference T1 wiki:209856	Cyrix
-N2	Reference T2 wiki:11078	IBM
-A1	IsLink T2

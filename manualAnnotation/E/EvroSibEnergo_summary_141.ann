@@ -1,5 +1,0 @@
-T1	Organization 0 13	ЕвроСибЭнерго
-T2	Organization 192 201	En+ Group
-N1	Reference T1 wiki:1395741	ЕвроСибЭнерго
-N2	Reference T2 wiki:1909698	En+ Group
-A1	IsLink T2

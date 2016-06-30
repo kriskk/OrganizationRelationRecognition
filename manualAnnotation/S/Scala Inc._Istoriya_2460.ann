@@ -1,8 +1,0 @@
-T1	Organization 0 11	Scala, Inc.
-T2	Organization 305 313	Ericsson
-T3	Organization 494 497	CNN
-N1	Reference T1 wiki:2272404	Scala, Inc.
-N2	Reference T2 wiki:711402	Ericsson
-N3	Reference T3 wiki:256238	CNN
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 16	Атомстройэкспорт
-T2	Organization 312 327	Ижорском заводе
-N1	Reference T1 wiki:149194	Атомстройэкспорт
-N2	Reference T2 wiki:601241	Ижорский завод
-A1	IsLink T2

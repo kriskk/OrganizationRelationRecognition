@@ -1,5 +1,0 @@
-T1	Organization 0 11	RMJM London
-T2	Organization 220 227	Газпром
-N1	Reference T1 wiki:374538	RMJM London
-N2	Reference T2 wiki:44754	Газпром
-A1	IsLink T2

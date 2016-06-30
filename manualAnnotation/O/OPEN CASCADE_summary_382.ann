@@ -1,5 +1,0 @@
-T1	Organization 0 12	OPEN CASCADE
-T2	Organization 208 213	AREVA
-N1	Reference T1 wiki:2849274	OPEN CASCADE
-N2	Reference T2 wiki:913165	AREVA
-A1	IsLink T2

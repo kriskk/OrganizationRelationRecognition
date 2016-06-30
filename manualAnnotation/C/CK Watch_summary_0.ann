@@ -1,8 +1,0 @@
-T1	Organization 0 8	CK Watch
-T2	Organization 103 115	Calvin Klein
-T3	Organization 133 145	Swatch Group
-N1	Reference T1 wiki:1059376	CK Watch
-N2	Reference T2 wiki:774129	Calvin Klein
-N3	Reference T3 wiki:214233	Swatch Group
-A1	IsLink T2
-A2	IsLink T3

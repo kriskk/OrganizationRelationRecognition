@@ -1,5 +1,0 @@
-T1	Organization 0 7	Siemens
-T2	Organization 362 367	Shell
-N1	Reference T1 wiki:36510	Siemens
-N2	Reference T2 wiki:167625	Royal Dutch Shell
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 13	Альфа-Капитал
-T2	Organization 196 206	Эксперт РА
-N1	Reference T1 wiki:1699051	Альфа-Капитал
-N2	Reference T2 wiki:363296	Эксперт РА
-A1	IsLink T2

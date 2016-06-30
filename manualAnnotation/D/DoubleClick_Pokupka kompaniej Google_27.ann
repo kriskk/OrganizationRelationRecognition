@@ -1,5 +1,0 @@
-T1	Organization 0 11	DoubleClick
-T2	Organization 302 309	YouTube
-N1	Reference T1 wiki:626664	DoubleClick
-N2	Reference T2 wiki:275424	YouTube
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 12	Bear Stearns
-T2	Organization 92 106	JPMorgan Chase
-N1	Reference T1 wiki:769730	Bear Stearns
-N2	Reference T2 wiki:374499	JPMorgan Chase
-A1	IsLink T2

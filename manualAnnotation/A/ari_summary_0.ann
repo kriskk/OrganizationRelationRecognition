@@ -1,8 +1,0 @@
-T1	Organization 0 5	Šariš
-T2	Organization 112 134	Pivovary Topvar, a. s.
-T3	Organization 240 249	SABMiller
-N1	Reference T1 wiki:4119174	Šariš
-N2	Reference T2 wiki:4119207	Topvar
-N3	Reference T3 wiki:181056	SABMiller
-A1	IsLink T2
-A2	IsLink T3

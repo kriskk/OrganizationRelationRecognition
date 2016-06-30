@@ -1,5 +1,0 @@
-T1	Organization 0 33	Свердловская пригородная компания
-T2	Organization 196 205	ОАО «РЖД»
-N1	Reference T1 wiki:2406816	Свердловская пригородная компания
-N2	Reference T2 wiki:106901	ОАО «РЖД»
-A1	IsLink T2

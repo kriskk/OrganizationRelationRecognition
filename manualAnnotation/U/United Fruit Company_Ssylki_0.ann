@@ -1,5 +1,0 @@
-T1	Organization 0 20	United Fruit Company
-T2	Organization 187 216	Chiquita Brands International
-N1	Reference T1 wiki:1505170	United Fruit Company
-N2	Reference T2 wiki:3584219	Chiquita Brands International
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 14	JBS (компания)
-T2	Organization 84 89	Biria
-N1	Reference T1 wiki:4147996	JBS (компания)
-N2	Reference T2 wiki:251031	Biria
-A1	IsLink T2

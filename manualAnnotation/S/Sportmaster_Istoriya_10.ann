@@ -1,5 +1,0 @@
-T1	Organization 0 11	Спортмастер
-T2	Organization 183 190	Kettler
-N1	Reference T1 wiki:175562	Спортмастер
-N2	Reference T2 wiki:251084	Kettler
-A1	IsLink T2

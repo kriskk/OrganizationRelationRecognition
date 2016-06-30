@@ -1,8 +1,0 @@
-T1	Organization 0 7	Daimler
-T2	Organization 156 170	Chrysler Group
-T3	Organization 493 498	КАМАЗ
-N1	Reference T1 wiki:39716	Daimler
-N2	Reference T2 wiki:223902	Chrysler
-N3	Reference T3 wiki:169714	КАМАЗ
-A1	IsLink T2
-A2	IsLink T3

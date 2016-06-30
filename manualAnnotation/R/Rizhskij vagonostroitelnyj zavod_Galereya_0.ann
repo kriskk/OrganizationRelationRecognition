@@ -1,8 +1,0 @@
-T1	Organization 0 32	Рижский вагоностроительный завод
-T2	Organization 133 146	Латвийская ЖД
-T3	Organization 220 233	Латвийская ЖД
-N1	Reference T1 wiki:267635	Рижский вагоностроительный завод
-N2	Reference T2 wiki:2182480	Latvijas dzelzceļš
-N3	Reference T3 wiki:2182480	Latvijas dzelzceļš
-A1	IsLink T2
-A2	IsLink T3

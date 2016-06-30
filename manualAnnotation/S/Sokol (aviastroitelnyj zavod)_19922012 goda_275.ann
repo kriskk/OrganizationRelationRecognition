@@ -1,5 +1,0 @@
-T1	Organization 0 30	Сокол (авиастроительный завод)
-T2	Organization 314 321	РСК МиГ
-N1	Reference T1 wiki:144095	Сокол (авиастроительный завод)
-N2	Reference T2 wiki:26999	МиГ
-A1	IsLink T2

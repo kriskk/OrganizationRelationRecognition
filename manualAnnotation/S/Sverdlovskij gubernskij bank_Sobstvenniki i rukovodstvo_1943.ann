@@ -1,5 +1,0 @@
-T1	Organization 0 28	Свердловский губернский банк
-T2	Organization 225 235	«Открытие»
-N1	Reference T1 wiki:1539623	Свердловский губернский банк
-N2	Reference T2 wiki:919308	Открытие (финансовая корпорация)
-A1	IsLink T2

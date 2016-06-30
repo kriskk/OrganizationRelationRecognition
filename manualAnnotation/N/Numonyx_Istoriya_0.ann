@@ -1,8 +1,0 @@
-T1	Organization 0 7	Numonyx
-T2	Organization 96 113	Intel Corporation
-T3	Organization 116 134	STMicroelectronics
-N1	Reference T1 wiki:2416465	Numonyx
-N2	Reference T2 wiki:762172	Intel Corporation
-N3	Reference T3 wiki:1118011	STMicroelectronics
-A1	IsLink T2
-A2	IsLink T3

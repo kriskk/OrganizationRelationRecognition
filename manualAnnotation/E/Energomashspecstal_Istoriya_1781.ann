@@ -1,5 +1,0 @@
-T1	Organization 0 18	Энергомашспецсталь
-T2	Organization 270 283	Атомэнергомаш
-N1	Reference T1 wiki:882441	Энергомашспецсталь
-N2	Reference T2 wiki:2868760	Атомэнергомаш
-A1	IsLink T2

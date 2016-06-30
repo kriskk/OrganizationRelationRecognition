@@ -1,8 +1,0 @@
-T1	Organization 0 39	China National Offshore Oil Corporation
-T2	Organization 184 188	CNPC
-T3	Organization 191 198	Sinopec
-N1	Reference T1 wiki:2448098	China National Offshore Oil Corporation
-N2	Reference T2 wiki:355554	CNPC
-N3	Reference T3 wiki:375879	Sinopec
-A1	IsLink T2
-A2	IsLink T3

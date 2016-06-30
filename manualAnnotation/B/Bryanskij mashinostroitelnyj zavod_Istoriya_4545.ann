@@ -1,5 +1,0 @@
-T1	Organization 0 33	Брянский машиностроительный завод
-T2	Organization 208 223	Трансмашхолдинг
-N1	Reference T1 wiki:289532	Брянский машиностроительный завод
-N2	Reference T2 wiki:168333	Трансмашхолдинг
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 7	ФосАгро
-T2	Organization 240 252	ОАО «Апатит»
-N1	Reference T1 wiki:158697	ФосАгро
-N2	Reference T2 wiki:3017626	Апатит (предприятие)
-A1	IsLink T2

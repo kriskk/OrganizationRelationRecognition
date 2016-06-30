@@ -1,8 +1,0 @@
-T1	Organization 0 4	ЕЭСУ
-T2	Organization 316 323	Газпром
-T3	Organization 328 336	Нафтогаз
-N1	Reference T1 wiki:3257620	ЕЭСУ
-N2	Reference T2 wiki:44754	Газпром
-N3	Reference T3 wiki:128243	Нафтогаз
-A1	IsLink T2
-A2	IsLink T3

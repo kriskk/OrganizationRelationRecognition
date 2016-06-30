@@ -1,5 +1,0 @@
-T1	Organization 0 20	Aeronca Aircraft Inc
-T2	Organization 222 236	Piper Aircraft
-N1	Reference T1 wiki:1540279	Aeronca Aircraft Inc
-N2	Reference T2 wiki:2360788	Piper Aircraft
-A1	IsLink T2

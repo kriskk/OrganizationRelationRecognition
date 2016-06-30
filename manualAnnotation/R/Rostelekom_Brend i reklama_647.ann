@@ -1,5 +1,0 @@
-T1	Organization 0 10	Ростелеком
-T2	Organization 255 266	Leo Burnett
-N1	Reference T1 wiki:145844	Ростелеком
-N2	Reference T2 wiki:2392790	Leo Burnett Worldwide
-A1	IsLink T2

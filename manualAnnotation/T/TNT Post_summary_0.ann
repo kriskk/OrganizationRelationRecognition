@@ -1,5 +1,0 @@
-T1	Organization 0 8	TNT Post
-T2	Organization 133 141	TNT N.V.
-N1	Reference T1 wiki:3196341	TNT Post
-N2	Reference T2 wiki:1038257	TNT N.V.
-A1	IsLink T2

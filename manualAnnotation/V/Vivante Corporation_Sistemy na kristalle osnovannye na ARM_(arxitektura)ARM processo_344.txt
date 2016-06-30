@@ -1,8 +1,0 @@
-Vivante Corporation
-@Применение Vivante GPU/IP
-@Системы на кристалле, основанные на [[ARM_(архитектура)|ARM]] процессорах
-4803,28,344
-
-	 Marvell PXAxxx (ARMADA) (Armada 510 - Vivante GC600, Armada 620 - Vivante GC2000 и Vivante GC300, OLPC XO-1.75 - Vivante GC860), Marvell 88SV331x (Vivante GC530)
-	 Rockchip RK2918 (3D ускоритель Vivante GC800)
-	 Texas Instruments OMAP4470, OMAP5430, OMAP5432 (2D ускоритель Vivante GC320)

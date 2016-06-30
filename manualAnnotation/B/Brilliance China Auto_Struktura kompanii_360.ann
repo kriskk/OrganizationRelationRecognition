@@ -1,8 +1,0 @@
-T1	Organization 0 21	Brilliance China Auto
-T2	Organization 243 249	Toyota
-T3	Organization 383 389	Toyota
-N1	Reference T1 wiki:381785	Brilliance China Auto
-N2	Reference T2 wiki:42689	Toyota
-N3	Reference T3 wiki:42689	Toyota
-A1	IsLink T2
-A2	IsLink T3

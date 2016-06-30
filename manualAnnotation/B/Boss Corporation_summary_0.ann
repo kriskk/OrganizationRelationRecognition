@@ -1,5 +1,0 @@
-T1	Organization 0 16	Boss Corporation
-T2	Organization 127 145	Roland Corporation
-N1	Reference T1 wiki:2683809	Boss Corporation
-N2	Reference T2 wiki:2218844	Roland Corporation
-A1	IsLink T2

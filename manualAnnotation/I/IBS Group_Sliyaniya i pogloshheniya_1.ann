@@ -1,5 +1,0 @@
-T1	Organization 0 9	IBS Group
-T2	Organization 205 211	Oracle
-N1	Reference T1 wiki:345272	IBS Group
-N2	Reference T2 wiki:129227	Oracle Corporation
-A1	IsLink T2

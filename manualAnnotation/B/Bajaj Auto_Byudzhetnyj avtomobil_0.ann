@@ -1,8 +1,0 @@
-T1	Organization 0 10	Bajaj Auto
-T2	Organization 125 132	Renault
-T3	Organization 135 147	Nissan Motor
-N1	Reference T1 wiki:3235969	Bajaj Auto
-N2	Reference T2 wiki:586472	Renault
-N3	Reference T3 wiki:159586	Nissan Motor
-A1	IsLink T2
-A2	IsLink T3

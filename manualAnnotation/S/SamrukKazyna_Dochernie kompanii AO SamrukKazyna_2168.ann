@@ -1,8 +1,0 @@
-T1	Organization 0 13	Самрук-Казына
-T2	Organization 221 246	АО «Казахстан темир жолы»
-T3	Organization 265 278	Астана финанс
-N1	Reference T1 wiki:1680328	Самрук-Казына
-N2	Reference T2 wiki:2769916	Казахстан Темир Жолы
-N3	Reference T3 wiki:2342206	Астана финанс
-A1	IsLink T2
-A2	IsLink T3

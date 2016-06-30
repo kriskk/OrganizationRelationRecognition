@@ -1,8 +1,0 @@
-T1	Organization 0 8	Sony BMG
-T2	Organization 194 208	Arista Records
-T3	Organization 212 221	J Records
-N1	Reference T1 wiki:439628	Sony BMG
-N2	Reference T2 wiki:2770369	Arista Records
-N3	Reference T3 wiki:2644741	J Records
-A1	IsLink T2
-A2	IsLink T3

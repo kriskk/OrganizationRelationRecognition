@@ -1,5 +1,0 @@
-T1	Organization 0 28	Жарык (спутниковый оператор)
-T2	Organization 61 68	Katelco
-N1	Reference T1 wiki:3000301	Жарык (спутниковый оператор)
-N2	Reference T2 wiki:3119486	Katelco
-A1	IsLink T2

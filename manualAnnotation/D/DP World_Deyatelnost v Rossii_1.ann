@@ -1,5 +1,0 @@
-T1	Organization 0 8	DP World
-T2	Organization 205 235	Восточная стивидорная компания
-N1	Reference T1 wiki:4384056	DP World
-N2	Reference T2 wiki:3146849	Восточная стивидорная компания
-A1	IsLink T2

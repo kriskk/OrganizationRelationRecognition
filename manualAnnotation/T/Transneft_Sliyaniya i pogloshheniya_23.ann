@@ -1,5 +1,0 @@
-T1	Organization 0 10	Транснефть
-T2	Organization 218 258	Новороссийского морского торгового порта
-N1	Reference T1 wiki:147540	Транснефть
-N2	Reference T2 wiki:308992	Новороссийский морской торговый порт
-A1	IsLink T2

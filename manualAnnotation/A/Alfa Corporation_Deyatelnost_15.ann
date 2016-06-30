@@ -1,5 +1,0 @@
-T1	Organization 0 16	Alfa Corporation
-T2	Organization 215 221	NASDAQ
-N1	Reference T1 wiki:629580	Alfa Corporation
-N2	Reference T2 wiki:63813	NASDAQ
-A1	IsLink T2

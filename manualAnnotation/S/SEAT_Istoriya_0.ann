@@ -1,5 +1,0 @@
-T1	Organization 0 4	SEAT
-T2	Organization 112 116	FIAT
-N1	Reference T1 wiki:41437	SEAT
-N2	Reference T2 wiki:91784	Fiat (компания)
-A1	IsLink T2

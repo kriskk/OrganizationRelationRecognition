@@ -1,8 +1,0 @@
-T1	Organization 0 19	Andreessen Horowitz
-T2	Organization 243 248	Zynga
-T3	Organization 634 639	Zynga
-N1	Reference T1 wiki:3609801	Andreessen Horowitz
-N2	Reference T2 wiki:2720154	Zynga
-N3	Reference T3 wiki:2720154	Zynga
-A1	IsLink T2
-A2	IsLink T3

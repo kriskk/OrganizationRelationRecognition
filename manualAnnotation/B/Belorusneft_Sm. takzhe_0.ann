@@ -1,8 +1,0 @@
-T1	Organization 0 12	Белоруснефть
-T2	Organization 45 74	Белорусская нефтяная компания
-T3	Organization 76 87	Белнефтехим
-N1	Reference T1 wiki:2450131	Белоруснефть
-N2	Reference T2 wiki:2448271	Белорусская нефтяная компания
-N3	Reference T3 wiki:2450002	Белнефтехим
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 33	Швейцарская Банковская Корпорация
-T2	Organization 213 231	Bank in Winterthur
-N1	Reference T1 wiki:3077525	Швейцарская Банковская Корпорация
-N2	Reference T2 wiki:3077525	Bank in Winterthur
-A1	IsLink T2

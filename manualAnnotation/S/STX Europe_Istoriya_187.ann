@@ -1,8 +1,0 @@
-T1	Organization 0 10	STX Europe
-T2	Organization 208 233	Chantiers de l'Atlantique
-T3	Organization 257 263	Alstom
-N1	Reference T1 wiki:3434436	STX Europe
-N2	Reference T2 wiki:3439200	Chantiers de l'Atlantique
-N3	Reference T3 wiki:571946	Alstom
-A1	IsLink T2
-A2	IsLink T3

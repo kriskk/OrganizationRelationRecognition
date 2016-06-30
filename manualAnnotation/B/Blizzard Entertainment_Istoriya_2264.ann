@@ -1,8 +1,0 @@
-T1	Organization 0 22	Blizzard Entertainment
-T2	Organization 265 279	Blizzard North
-T3	Organization 370 380	Activision
-N1	Reference T1 wiki:202669	Blizzard Entertainment
-N2	Reference T2 wiki:1704379	Blizzard North
-N3	Reference T3 wiki:307964	Activision
-A1	IsLink T2
-A2	IsLink T3

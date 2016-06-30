@@ -1,5 +1,0 @@
-T1	Organization 0 12	ТрансТелеКом
-T2	Organization 111 143	ОАО «Российские железные дороги»
-N1	Reference T1 wiki:161360	ТрансТелеКом
-N2	Reference T2 wiki:106901	Российские железные дороги
-A1	IsLink T2

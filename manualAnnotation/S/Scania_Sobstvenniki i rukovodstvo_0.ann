@@ -1,5 +1,0 @@
-T1	Organization 0 6	Scania
-T2	Organization 139 142	MAN
-N1	Reference T1 wiki:252348	Scania
-N2	Reference T2 wiki:42703	MAN
-A1	IsLink T2

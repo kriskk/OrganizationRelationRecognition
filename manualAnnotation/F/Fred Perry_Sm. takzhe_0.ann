@@ -1,5 +1,0 @@
-T1	Organization 0 10	Fred Perry
-T2	Organization 43 50	Lacoste
-N1	Reference T1 wiki:1020218	Fred Perry
-N2	Reference T2 wiki:774234	Lacoste
-A1	IsLink T2

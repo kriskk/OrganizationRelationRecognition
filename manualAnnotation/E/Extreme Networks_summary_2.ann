@@ -1,8 +1,0 @@
-T1	Organization 0 16	Extreme Networks
-T2	Organization 300 313	Cisco Systems
-T3	Organization 413 426	Cisco Systems
-N1	Reference T1 wiki:1619817	Extreme Networks
-N2	Reference T2 wiki:25014	Cisco Systems
-N3	Reference T3 wiki:25014	Cisco Systems
-A1	IsLink T2
-A2	IsLink T3

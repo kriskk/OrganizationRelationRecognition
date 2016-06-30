@@ -1,8 +1,0 @@
-T1	Organization 0 11	Bösendorfer
-T2	Organization 232 247	Steinway & Sons
-T3	Organization 250 256	Yamaha
-N1	Reference T1 wiki:2306281	Bösendorfer
-N2	Reference T2 wiki:1597275	Steinway & Sons
-N3	Reference T3 wiki:696518	Yamaha
-A1	IsLink T2
-A2	IsLink T3

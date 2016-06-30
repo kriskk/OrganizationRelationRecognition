@@ -1,8 +1,0 @@
-T1	Organization 0 16	Blue Sky Studios
-T2	Organization 179 195	20th Century Fox
-T3	Organization 231 247	News Corporation
-N1	Reference T1 wiki:2750258	Blue Sky Studios
-N2	Reference T2 wiki:272376	20th Century Fox
-N3	Reference T3 wiki:636692	News Corporation
-A1	IsLink T2
-A2	IsLink T3

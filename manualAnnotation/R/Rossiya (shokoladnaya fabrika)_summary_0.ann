@@ -1,5 +1,0 @@
-T1	Organization 0 27	Россия (шоколадная фабрика)
-T2	Organization 178 184	Nestle
-N1	Reference T1 wiki:382885	Россия (шоколадная фабрика)
-N2	Reference T2 wiki:121355	Nestle
-A1	IsLink T2

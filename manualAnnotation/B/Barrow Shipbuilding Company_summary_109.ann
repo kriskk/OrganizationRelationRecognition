@@ -1,5 +1,0 @@
-T1	Organization 0 27	Barrow Shipbuilding Company
-T2	Organization 309 320	BAE Systems
-N1	Reference T1 wiki:4416367	Barrow Shipbuilding Company
-N2	Reference T2 wiki:2435557	BAE Systems
-A1	IsLink T2

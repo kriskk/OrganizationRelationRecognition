@@ -1,5 +1,0 @@
-T1	Organization 0 5	КамАЗ
-T2	Organization 343 351	автобусы
-N1	Reference T1 wiki:169714	КамАЗ
-N2	Reference T2 wiki:404943	Автобусы НефАЗ
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 8	Citibank
-T2	Organization 204 213	Citigroup
-N1	Reference T1 wiki:681929	Citibank
-N2	Reference T2 wiki:374508	Citigroup
-A1	IsLink T2

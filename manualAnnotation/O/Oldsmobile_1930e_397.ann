@@ -1,5 +1,0 @@
-T1	Organization 0 10	Oldsmobile
-T2	Organization 277 282	Buick
-N1	Reference T1 wiki:1464817	Oldsmobile
-N2	Reference T2 wiki:1286702	Buick
-A1	IsLink T2

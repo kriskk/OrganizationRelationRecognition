@@ -1,8 +1,0 @@
-T1	Organization 0 13	Томгипротранс
-T2	Organization 64 90	Российские железные дороги
-T3	Organization 238 249	ОАО «Мечел»
-N1	Reference T1 wiki:3154197	Томгипротранс
-N2	Reference T2 wiki:106901	Российские железные дороги
-N3	Reference T3 wiki:148493	Мечел
-A1	IsLink T2
-A2	IsLink T3

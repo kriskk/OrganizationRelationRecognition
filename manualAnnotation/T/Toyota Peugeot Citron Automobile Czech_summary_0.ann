@@ -1,8 +1,0 @@
-T1	Organization 0 39	Toyota Peugeot Citroën Automobile Czech
-T2	Organization 132 151	PSA Peugeot Citroën
-T3	Organization 154 178	Toyota Motor Corporation
-N1	Reference T1 wiki:1569530	Toyota Peugeot Citroën Automobile Czech
-N2	Reference T2 wiki:226616	PSA Peugeot Citroën
-N3	Reference T3 wiki:42689	Toyota Motor Corporation
-A1	IsLink T2
-A2	IsLink T3

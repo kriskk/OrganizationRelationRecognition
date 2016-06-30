@@ -1,5 +1,0 @@
-T1	Organization 0 15	CAS Corporation
-T2	Organization 48 52	DIGI
-N1	Reference T1 wiki:3132136	CAS Corporation
-N2	Reference T2 wiki:1844156	DIGI
-A1	IsLink T2

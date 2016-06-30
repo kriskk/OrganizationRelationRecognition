@@ -1,5 +1,0 @@
-T1	Organization 0 18	Tesoro Corporation
-T2	Organization 253 258	Shell
-N1	Reference T1 wiki:1681760	Tesoro Corporation
-N2	Reference T2 wiki:167625	Royal Dutch Shell
-A1	IsLink T2

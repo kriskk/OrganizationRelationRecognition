@@ -1,8 +1,0 @@
-T1	Organization 0 11	S3 Graphics
-T2	Organization 323 326	VIA
-T3	Organization 392 395	VIA
-N1	Reference T1 wiki:2293590	S3 Graphics
-N2	Reference T2 wiki:912279	VIA Technologies
-N3	Reference T3 wiki:912279	VIA Technologies
-A1	IsLink T2
-A2	IsLink T3

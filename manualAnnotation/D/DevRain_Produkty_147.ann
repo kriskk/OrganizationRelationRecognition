@@ -1,5 +1,0 @@
-T1	Organization 0 7	DevRain
-T2	Organization 238 245	YouTube
-N1	Reference T1 wiki:4391128	DevRain
-N2	Reference T2 wiki:275424	YouTube
-A1	IsLink T2

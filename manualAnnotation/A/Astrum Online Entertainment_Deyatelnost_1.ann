@@ -1,8 +1,0 @@
-T1	Organization 0 27	Astrum Online Entertainment
-T2	Organization 211 223	Nival Online
-T3	Organization 228 240	IT Territory
-N1	Reference T1 wiki:1674879	Astrum Online Entertainment
-N2	Reference T2 wiki:91564	Nival Online
-N3	Reference T3 wiki:1284751	IT Territory
-A1	IsLink T2
-A2	IsLink T3

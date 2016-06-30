@@ -1,5 +1,0 @@
-T1	Organization 0 12	Совтрансавто
-T2	Organization 206 214	Мерседес
-N1	Reference T1 wiki:2564214	Совтрансавто
-N2	Reference T2 wiki:40401	Mercedes-Benz
-A1	IsLink T2

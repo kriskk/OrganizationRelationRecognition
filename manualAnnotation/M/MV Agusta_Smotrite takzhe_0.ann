@@ -1,8 +1,0 @@
-T1	Organization 0 9	MV Agusta
-T2	Organization 51 57	Agusta
-T3	Organization 59 68	Husqvarna
-N1	Reference T1 wiki:3239010	MV Agusta
-N2	Reference T2 wiki:604719	Agusta
-N3	Reference T3 wiki:3484952	Husqvarna Motorcycles
-A1	IsLink T2
-A2	IsLink T3

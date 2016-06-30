@@ -1,5 +1,0 @@
-T1	Organization 0 16	Chery Automobile
-T2	Organization 152 157	Valeo
-N1	Reference T1 wiki:378562	Chery Automobile
-N2	Reference T2 wiki:640908	Valeo
-A1	IsLink T2

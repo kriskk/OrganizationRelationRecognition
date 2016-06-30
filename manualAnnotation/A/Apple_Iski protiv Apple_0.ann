@@ -1,5 +1,0 @@
-T1	Organization 0 5	Apple
-T2	Organization 97 102	Nokia
-N1	Reference T1 wiki:39726	Apple
-N2	Reference T2 wiki:56405	Nokia
-A1	IsLink T2

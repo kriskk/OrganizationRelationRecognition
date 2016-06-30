@@ -1,8 +1,0 @@
-T1	Organization 0 28	Смоленский авиационный завод
-T2	Organization 258 269	КБ Яковлева
-T3	Organization 570 601	Тактическое ракетное вооружение
-N1	Reference T1 wiki:345298	Смоленский авиационный завод
-N2	Reference T2 wiki:55757	КБ Яковлева
-N3	Reference T3 wiki:551806	Тактическое ракетное вооружение
-A1	IsLink T2
-A2	IsLink T3

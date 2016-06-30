@@ -1,5 +1,0 @@
-T1	Organization 0 5	Avira
-T2	Organization 289 292	SAP
-N1	Reference T1 wiki:382868	Avira
-N2	Reference T2 wiki:81959	SAP
-A1	IsLink T2

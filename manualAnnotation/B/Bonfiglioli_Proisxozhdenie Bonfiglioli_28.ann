@@ -1,8 +1,0 @@
-T1	Organization 0 11	Bonfiglioli
-T2	Organization 335 341	Ducati
-T3	Organization 343 349	Gilera
-N1	Reference T1 wiki:4428353	Bonfiglioli
-N2	Reference T2 wiki:1745457	Ducati
-N3	Reference T3 wiki:3317262	Gilera
-A1	IsLink T2
-A2	IsLink T3

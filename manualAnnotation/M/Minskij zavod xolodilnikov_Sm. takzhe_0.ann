@@ -1,8 +1,0 @@
-T1	Organization 0 27	Минский завод холодильников
-T2	Organization 61 81	Витязь (предприятие)
-T3	Organization 84 106	Горизонт (предприятие)
-N1	Reference T1 wiki:120587	Минский завод холодильников
-N2	Reference T2 wiki:1016534	Витязь (предприятие)
-N3	Reference T3 wiki:205280	Горизонт (предприятие)
-A1	IsLink T2
-A2	IsLink T3

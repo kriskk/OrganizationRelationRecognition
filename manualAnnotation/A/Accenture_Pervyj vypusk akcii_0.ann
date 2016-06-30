@@ -1,8 +1,0 @@
-T1	Organization 0 9	Accenture
-T2	Organization 198 211	Goldman Sachs
-T3	Organization 214 228	Morgan Stanley
-N1	Reference T1 wiki:2840493	Accenture
-N2	Reference T2 wiki:144097	Goldman Sachs
-N3	Reference T3 wiki:612532	Morgan Stanley
-A1	IsLink T2
-A2	IsLink T3

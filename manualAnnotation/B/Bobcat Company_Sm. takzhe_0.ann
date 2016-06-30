@@ -1,5 +1,0 @@
-T1	Organization 0 14	Bobcat Company
-T2	Organization 47 51	МСКМ
-N1	Reference T1 wiki:764578	Bobcat Company
-N2	Reference T2 wiki:2749426	Курганский завод колёсных тягачей
-A1	IsLink T2

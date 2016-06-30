@@ -1,8 +1,0 @@
-T1	Organization 0 33	Федеральная пассажирская компания
-T2	Organization 205 214	ОАО «РЖД»
-T3	Organization 282 295	Эрнст энд Янг
-N1	Reference T1 wiki:2372604	Федеральная пассажирская компания
-N2	Reference T2 wiki:106901	Российские железные дороги
-N3	Reference T3 wiki:385728	Эрнст энд Янг
-A1	IsLink T2
-A2	IsLink T3

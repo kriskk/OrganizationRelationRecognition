@@ -1,8 +1,0 @@
-T1	Organization 0 8	Teradata
-T2	Organization 360 365	Intel
-T3	Organization 555 558	EMC
-N1	Reference T1 wiki:1885190	Teradata
-N2	Reference T2 wiki:762172	Intel
-N3	Reference T3 wiki:541503	EMC
-A1	IsLink T2
-A2	IsLink T3

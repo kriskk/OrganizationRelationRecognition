@@ -1,8 +1,0 @@
-T1	Organization 0 14	Salesforce.com
-T2	Organization 332 338	Oracle
-T3	Organization 644 668	Oracle Fusion Middleware
-N1	Reference T1 wiki:3070933	Salesforce.com
-N2	Reference T2 wiki:129227	Oracle
-N3	Reference T3 wiki:129227	Oracle Fusion Middleware
-A1	IsLink T2
-A2	IsLink T3

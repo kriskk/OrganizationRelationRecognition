@@ -1,8 +1,0 @@
-T1	Organization 0 31	Ford Motor Company of Australia
-T2	Organization 224 228	Ford
-T3	Organization 231 249	Форд Мотор Компани
-N1	Reference T1 wiki:1712591	Ford Motor Company of Australia
-N2	Reference T2 wiki:153236	Ford
-N3	Reference T3 wiki:3248896	Форд Мотор Компани
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 21	Телестудия Роскосмоса
-T2	Organization 241 248	YouTube
-N1	Reference T1 wiki:1495574	Телестудия Роскосмоса
-N2	Reference T2 wiki:275424	YouTube
-A1	IsLink T2

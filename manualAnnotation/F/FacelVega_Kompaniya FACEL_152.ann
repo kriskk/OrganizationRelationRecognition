@@ -1,8 +1,0 @@
-T1	Organization 0 10	Facel-Vega
-T2	Organization 240 245	Simca
-T3	Organization 269 273	Ford
-N1	Reference T1 wiki:830249	Facel-Vega
-N2	Reference T2 wiki:1506307	Simca
-N3	Reference T3 wiki:153236	Ford
-A1	IsLink T2
-A2	IsLink T3

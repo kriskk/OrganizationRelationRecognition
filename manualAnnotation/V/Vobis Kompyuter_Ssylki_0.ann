@@ -1,5 +1,0 @@
-T1	Organization 0 15	Вобис Компьютер
-T2	Organization 63 78	Вобис Компьютер
-N1	Reference T1 wiki:3201662	Вобис Компьютер
-N2	Reference T2 wiki:3201662	Вобис Компьютер
-A1	IsLink T2

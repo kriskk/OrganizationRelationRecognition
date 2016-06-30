@@ -1,8 +1,0 @@
-T1	Organization 0 7	Ensoniq
-T2	Organization 193 212	Creative Technology
-T3	Organization 306 325	Creative Technology
-N1	Reference T1 wiki:2390795	Ensoniq
-N2	Reference T2 wiki:234719	Creative Technology
-N3	Reference T3 wiki:234719	Creative Technology
-A1	IsLink T2
-A2	IsLink T3

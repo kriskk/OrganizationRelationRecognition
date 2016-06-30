@@ -1,5 +1,0 @@
-T1	Organization 0 26	Евразия (буровая компания)
-T2	Organization 213 221	Роснефть
-N1	Reference T1 wiki:612699	Евразия (буровая компания)
-N2	Reference T2 wiki:139770	Роснефть
-A1	IsLink T2

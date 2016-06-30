@@ -1,8 +1,0 @@
-T1	Organization 0 20	Sumitomo Corporation
-T2	Organization 198 212	Sumitomo Group
-T3	Organization 233 254	Mezon Stainless Steel
-N1	Reference T1 wiki:2076372	Sumitomo Corporation
-N2	Reference T2 wiki:1813036	Sumitomo Group
-N3	Reference T3 wiki:3771296	Mezon Stainless Steel
-A1	IsLink T2
-A2	IsLink T3

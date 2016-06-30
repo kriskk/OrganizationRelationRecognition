@@ -1,8 +1,0 @@
-T1	Organization 0 12	EADS Astrium
-T2	Organization 231 237	Boeing
-T3	Organization 338 349	BAE Systems
-N1	Reference T1 wiki:4352315	EADS Astrium
-N2	Reference T2 wiki:156398	Boeing
-N3	Reference T3 wiki:2435557	BAE Systems
-A1	IsLink T2
-A2	IsLink T3

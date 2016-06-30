@@ -1,5 +1,0 @@
-T1	Organization 0 6	ASRock
-T2	Organization 170 190	Pegatron Corporation
-N1	Reference T1 wiki:2493967	ASRock
-N2	Reference T2 wiki:2208845	Pegatron
-A1	IsLink T2

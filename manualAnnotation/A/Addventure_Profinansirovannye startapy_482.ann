@@ -1,5 +1,0 @@
-T1	Organization 0 10	Addventure
-T2	Organization 207 224	компания AlterGeo
-N1	Reference T1 wiki:3379535	Addventure
-N2	Reference T2 wiki:4127749	AlterGeo (компания)
-A1	IsLink T2

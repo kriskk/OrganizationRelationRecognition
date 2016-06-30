@@ -1,8 +1,0 @@
-T1	Organization 0 5	Tefal
-T2	Organization 178 185	Rowenta
-T3	Organization 188 196	Moulinex
-N1	Reference T1 wiki:1504355	Tefal
-N2	Reference T2 wiki:2738610	Rowenta
-N3	Reference T3 wiki:2739492	Moulinex
-A1	IsLink T2
-A2	IsLink T3

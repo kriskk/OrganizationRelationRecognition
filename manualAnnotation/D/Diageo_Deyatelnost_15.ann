@@ -1,5 +1,0 @@
-T1	Organization 0 6	Diageo
-T2	Organization 350 361	Burger King
-N1	Reference T1 wiki:189797	Diageo
-N2	Reference T2 wiki:196541	Burger King
-A1	IsLink T2

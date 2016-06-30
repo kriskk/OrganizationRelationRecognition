@@ -1,8 +1,0 @@
-T1	Organization 0 24	Сатурн — Газовые турбины
-T2	Organization 222 255	Волжский машиностроительный завод
-T3	Organization 643 664	Концерн Росэнергоатом
-N1	Reference T1 wiki:3707708	Сатурн — Газовые турбины
-N2	Reference T2 wiki:3707708	Волжский машиностроительный завод
-N3	Reference T3 wiki:138779	Концерн Росэнергоатом
-A1	IsLink T2
-A2	IsLink T3

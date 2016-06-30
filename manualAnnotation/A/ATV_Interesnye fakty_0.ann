@@ -1,5 +1,0 @@
-T1	Organization 0 3	АТВ
-T2	Organization 178 181	ВИD
-N1	Reference T1 wiki:665501	АТВ
-N2	Reference T2 wiki:691511	ВИD
-A1	IsLink T2

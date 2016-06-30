@@ -1,5 +1,0 @@
-T1	Organization 0 7	Toshiba
-T2	Organization 380 415	Toshiba Medical Systems Corporation
-N1	Reference T1 wiki:507269	Toshiba
-N2	Reference T2 wiki:4217310	Toshiba Medical Systems Corporation
-A1	IsLink T2

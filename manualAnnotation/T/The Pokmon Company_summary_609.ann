@@ -1,8 +1,0 @@
-T1	Organization 0 19	The Pokémon Company
-T2	Organization 298 306	Nintendo
-T3	Organization 311 321	Game Freak
-N1	Reference T1 wiki:3334571	The Pokémon Company
-N2	Reference T2 wiki:202486	Nintendo
-N3	Reference T3 wiki:3283547	Game Freak
-A1	IsLink T2
-A2	IsLink T3

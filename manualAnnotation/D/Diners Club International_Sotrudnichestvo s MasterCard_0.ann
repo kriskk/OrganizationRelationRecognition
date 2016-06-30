@@ -1,5 +1,0 @@
-T1	Organization 0 25	Diners Club International
-T2	Organization 172 182	MasterCard
-N1	Reference T1 wiki:3339710	Diners Club International
-N2	Reference T2 wiki:36409	MasterCard
-A1	IsLink T2

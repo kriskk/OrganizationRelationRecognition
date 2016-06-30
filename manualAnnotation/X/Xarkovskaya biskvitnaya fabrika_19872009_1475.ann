@@ -1,5 +1,0 @@
-T1	Organization 0 30	Харьковская бисквитная фабрика
-T2	Organization 495 523	корпорацию «Бисквит-Шоколад»
-N1	Reference T1 wiki:1023483	Харьковская бисквитная фабрика
-N2	Reference T2 wiki:2028291	Бисквит-Шоколад
-A1	IsLink T2

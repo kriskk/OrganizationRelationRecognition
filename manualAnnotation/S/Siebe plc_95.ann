@@ -1,5 +1,0 @@
-T1	Organization 0 9	Siebe plc
-T2	Organization 174 182	Invensys
-N1	Reference T1 wiki:3644926	Siebe plc
-N2	Reference T2 wiki:586414	Invensys
-A1	IsLink T2

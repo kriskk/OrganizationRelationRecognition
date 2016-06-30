@@ -1,5 +1,0 @@
-T1	Organization 0 16	Bizzarrini S.p.A
-T2	Organization 265 276	Lamborghini
-N1	Reference T1 wiki:2187008	Bizzarrini S.p.A
-N2	Reference T2 wiki:65531	Lamborghini
-A1	IsLink T2

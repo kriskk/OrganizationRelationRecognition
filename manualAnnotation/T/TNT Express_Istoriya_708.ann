@@ -1,5 +1,0 @@
-T1	Organization 0 11	TNT Express
-T2	Organization 197 200	DHL
-N1	Reference T1 wiki:3269943	TNT Express
-N2	Reference T2 wiki:209951	DHL
-A1	IsLink T2

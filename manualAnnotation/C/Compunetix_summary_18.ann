@@ -1,8 +1,0 @@
-T1	Organization 0 10	Compunetix
-T2	Organization 288 304	Deutsche Telekom
-T3	Organization 306 309	NTT
-N1	Reference T1 wiki:3475021	Compunetix
-N2	Reference T2 wiki:169094	Deutsche Telekom
-N3	Reference T3 wiki:1788654	NTT
-A1	IsLink T2
-A2	IsLink T3

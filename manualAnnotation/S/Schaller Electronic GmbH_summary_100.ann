@@ -1,8 +1,0 @@
-T1	Organization 0 24	Schaller Electronic GmbH
-T2	Organization 246 252	Fender
-T3	Organization 254 260	Gibson
-N1	Reference T1 wiki:2353739	Schaller Electronic GmbH
-N2	Reference T2 wiki:387353	Fender
-N3	Reference T3 wiki:546422	Gibson
-A1	IsLink T2
-A2	IsLink T3

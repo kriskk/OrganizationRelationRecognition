@@ -1,8 +1,0 @@
-T1	Organization 0 9	Cosmo Oil
-T2	Organization 223 239	Nippon Oil Corp.
-T3	Organization 348 373	Kansai Electric Power Co.
-N1	Reference T1 wiki:1852981	Cosmo Oil
-N2	Reference T2 wiki:266252	Nippon Oil Corporation
-N3	Reference T3 wiki:3115240	Kansai Electric Power Company
-A1	IsLink T2
-A2	IsLink T3

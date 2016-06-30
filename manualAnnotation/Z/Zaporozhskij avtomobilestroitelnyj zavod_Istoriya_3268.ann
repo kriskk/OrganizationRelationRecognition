@@ -1,5 +1,0 @@
-T1	Organization 0 40	Запорожский автомобилестроительный завод
-T2	Organization 253 259	Daewoo
-N1	Reference T1 wiki:683481	Запорожский автомобилестроительный завод
-N2	Reference T2 wiki:794769	Daewoo
-A1	IsLink T2

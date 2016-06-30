@@ -1,5 +1,0 @@
-T1	Organization 0 10	DAF Trucks
-T2	Organization 225 230	Eaton
-N1	Reference T1 wiki:1570257	DAF Trucks
-N2	Reference T2 wiki:1039999	Eaton Corporation
-A1	IsLink T2

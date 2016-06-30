@@ -1,5 +1,0 @@
-T1	Organization 0 28	Часовоярский ремонтный завод
-T2	Organization 318 322	TATA
-N1	Reference T1 wiki:3511768	Часовоярский ремонтный завод
-N2	Reference T2 wiki:962083	Tata Motors
-A1	IsLink T2

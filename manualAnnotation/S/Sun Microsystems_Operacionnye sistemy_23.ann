@@ -1,5 +1,0 @@
-T1	Organization 0 16	Sun Microsystems
-T2	Organization 240 244	AT&T
-N1	Reference T1 wiki:4777	Sun Microsystems
-N2	Reference T2 wiki:162994	AT&T
-A1	IsLink T2

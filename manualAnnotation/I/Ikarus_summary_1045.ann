@@ -1,6 +1,0 @@
-T1	Organization 0 6	Ikarus
-T2	Organization 215 218	ТМЗ
-N1	Reference T1 wiki:243306	Ikarus
-N2	Reference T2 wiki:510129	Тушинский машиностроительный завод
-A1	IsLink T2
-R1	Cooperation Arg1:T2 Arg2:T1	

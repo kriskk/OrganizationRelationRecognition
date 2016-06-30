@@ -1,8 +1,0 @@
-T1	Organization 0 10	Транснефть
-T2	Organization 259 267	Интеррос
-T3	Organization 272 284	Нафта-Москва
-N1	Reference T1 wiki:147540	Транснефть
-N2	Reference T2 wiki:147366	Интеррос
-N3	Reference T3 wiki:167016	Нафта-Москва
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 20	Northrop Corporation
-T2	Organization 165 184	Grumman Corporation
-T3	Organization 196 224	Northrop Grumman Corporation
-N1	Reference T1 wiki:890183	Northrop Corporation
-N2	Reference T2 wiki:1018648	Grumman Corporation
-N3	Reference T3 wiki:681371	Northrop Grumman Corporation
-A1	IsLink T2
-A2	IsLink T3

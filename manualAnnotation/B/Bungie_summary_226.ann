@@ -1,5 +1,0 @@
-T1	Organization 0 6	Bungie
-T2	Organization 273 282	Microsoft
-N1	Reference T1 wiki:1066312	Bungie
-N2	Reference T2 wiki:11987	Microsoft
-A1	IsLink T2

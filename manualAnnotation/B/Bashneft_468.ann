@@ -1,8 +1,0 @@
-T1	Organization 0 8	Башнефть
-T2	Organization 202 215	АФК «Система»
-T3	Organization 226 250	Deloitte Touche Tohmatsu
-N1	Reference T1 wiki:180383	Башнефть
-N2	Reference T2 wiki:158888	АФК Система
-N3	Reference T3 wiki:143428	Deloitte Touche Tohmatsu
-A1	IsLink T2
-A2	IsLink T3

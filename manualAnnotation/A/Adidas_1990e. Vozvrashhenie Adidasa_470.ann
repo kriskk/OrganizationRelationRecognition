@@ -1,8 +1,0 @@
-T1	Organization 0 6	Adidas
-T2	Organization 301 305	Nike
-T3	Organization 308 314	Reebok
-N1	Reference T1 wiki:243642	Adidas
-N2	Reference T2 wiki:277297	Nike
-N3	Reference T3 wiki:399359	Reebok
-A1	IsLink T2
-A2	IsLink T3

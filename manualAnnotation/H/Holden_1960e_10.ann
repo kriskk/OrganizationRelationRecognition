@@ -1,5 +1,0 @@
-T1	Organization 0 6	Holden
-T2	Organization 270 279	Chevrolet
-N1	Reference T1 wiki:604803	Holden
-N2	Reference T2 wiki:17631	Chevrolet
-A1	IsLink T2

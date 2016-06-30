@@ -1,8 +1,0 @@
-T1	Organization 0 12	Samsung Apps
-T2	Organization 71 83	ITunes Store
-T3	Organization 110 113	IAd
-N1	Reference T1 wiki:3899796	Samsung Apps
-N2	Reference T2 wiki:63804	ITunes Store
-N3	Reference T3 wiki:2387325	IAd
-A1	IsLink T2
-A2	IsLink T3

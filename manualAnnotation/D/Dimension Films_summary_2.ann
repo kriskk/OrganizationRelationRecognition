@@ -1,8 +1,0 @@
-T1	Organization 0 15	Dimension Films
-T2	Organization 211 218	Miramax
-T3	Organization 310 316	Disney
-N1	Reference T1 wiki:287362	Dimension Films
-N2	Reference T2 wiki:20301	Miramax
-N3	Reference T3 wiki:319365	Disney
-A1	IsLink T2
-A2	IsLink T3

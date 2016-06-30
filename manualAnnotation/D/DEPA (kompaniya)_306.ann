@@ -1,5 +1,0 @@
-T1	Organization 0 15	DEPA (компания)
-T2	Organization 177 182	DESFA
-N1	Reference T1 wiki:2238861	DEPA (компания)
-N2	Reference T2 wiki:3771021	DESFA
-A1	IsLink T2

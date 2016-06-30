@@ -1,5 +1,0 @@
-T1	Organization 0 17	Wang Laboratories
-T2	Organization 98 101	IBM
-N1	Reference T1 wiki:500229	Wang Laboratories
-N2	Reference T2 wiki:11078	IBM
-A1	IsLink T2

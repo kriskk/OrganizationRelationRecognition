@@ -1,8 +1,0 @@
-T1	Organization 0 16	Вибратор (завод)
-T2	Organization 238 254	Электроточприбор
-T3	Organization 308 311	ЗИП
-N1	Reference T1 wiki:3958658	Вибратор (завод)
-N2	Reference T2 wiki:3959447	Электроточприбор
-N3	Reference T3 wiki:3959999	Краснодарский ЗИП
-A1	IsLink T2
-A2	IsLink T3

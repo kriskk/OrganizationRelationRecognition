@@ -1,5 +1,0 @@
-T1	Organization 0 26	Львовский автобусный завод
-T2	Organization 195 202	Магирус
-N1	Reference T1 wiki:546123	Львовский автобусный завод
-N2	Reference T2 wiki:897451	Магирус
-A1	IsLink T2

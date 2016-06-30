@@ -1,5 +1,0 @@
-T1	Organization 0 30	Доброта (холдинговая компания)
-T2	Organization 284 287	ЗИЛ
-N1	Reference T1 wiki:3331482	Доброта (холдинговая компания)
-N2	Reference T2 wiki:259988	ЗИЛ
-A1	IsLink T2

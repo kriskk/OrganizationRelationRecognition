@@ -1,5 +1,0 @@
-T1	Organization 0 15	Virgin Galactic
-T2	Organization 70 86	Space Adventures
-N1	Reference T1 wiki:2160159	Virgin Galactic
-N2	Reference T2 wiki:1260323	Space Adventures
-A1	IsLink T2

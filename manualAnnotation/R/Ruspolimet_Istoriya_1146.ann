@@ -1,5 +1,0 @@
-T1	Organization 0 10	Русполимет
-T2	Organization 257 291	Навашинский судостроительный завод
-N1	Reference T1 wiki:3343073	Русполимет
-N2	Reference T2 wiki:1267443	Навашинский судостроительный завод
-A1	IsLink T2

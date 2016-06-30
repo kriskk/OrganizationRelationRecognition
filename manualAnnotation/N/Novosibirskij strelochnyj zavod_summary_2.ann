@@ -1,8 +1,0 @@
-T1	Organization 0 30	Новосибирский стрелочный завод
-T2	Organization 209 235	Российские Железные Дороги
-T3	Organization 393 429	Днепропетровского стрелочного завода
-N1	Reference T1 wiki:1699360	Новосибирский стрелочный завод
-N2	Reference T2 wiki:106901	РЖД
-N3	Reference T3 wiki:1699465	Днепропетровский стрелочный завод
-A1	IsLink T2
-A2	IsLink T3

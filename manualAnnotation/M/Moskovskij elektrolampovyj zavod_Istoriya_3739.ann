@@ -1,5 +1,0 @@
-T1	Organization 0 32	Московский электроламповый завод
-T2	Organization 216 220	Элма
-N1	Reference T1 wiki:1037412	Московский электроламповый завод
-N2	Reference T2 wiki:774461	Элма (компания)
-A1	IsLink T2

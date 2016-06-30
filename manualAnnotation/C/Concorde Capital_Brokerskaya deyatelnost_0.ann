@@ -1,8 +1,0 @@
-T1	Organization 0 16	Concorde Capital
-T2	Organization 147 151	ПФТС
-T3	Organization 286 302	Украинской бирже
-N1	Reference T1 wiki:1723942	Concorde Capital
-N2	Reference T2 wiki:769045	ПФТС
-N3	Reference T3 wiki:1590481	Украинская биржа
-A1	IsLink T2
-A2	IsLink T3

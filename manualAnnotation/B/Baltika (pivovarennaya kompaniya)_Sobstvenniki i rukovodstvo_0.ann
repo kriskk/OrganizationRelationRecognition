@@ -1,8 +1,0 @@
-T1	Organization 0 31	Балтика (пивоваренная компания)
-T2	Organization 170 194	Baltic Beverages Holding
-T3	Organization 210 225	Carlsberg Group
-N1	Reference T1 wiki:164789	Балтика (пивоваренная компания)
-N2	Reference T2 wiki:317339	Baltic Beverages Holding
-N3	Reference T3 wiki:787801	Carlsberg Group
-A1	IsLink T2
-A2	IsLink T3

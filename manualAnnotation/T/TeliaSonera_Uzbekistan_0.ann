@@ -1,8 +1,0 @@
-T1	Organization 0 11	TeliaSonera
-T2	Organization 132 138	Coscom
-T3	Organization 198 203	Ucell
-N1	Reference T1 wiki:177779	TeliaSonera
-N2	Reference T2 wiki:1722391	Coscom
-N3	Reference T3 wiki:1722391	Ucell
-A1	IsLink T2
-A2	IsLink T3

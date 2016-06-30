@@ -1,5 +1,0 @@
-T1	Organization 0 8	АртЮникс
-T2	Organization 226 234	Nemiroff
-N1	Reference T1 wiki:1893148	АртЮникс
-N2	Reference T2 wiki:917067	Nemiroff
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 8	РусГидро
-T2	Organization 228 246	ИНГ Банк (Евразия)
-T3	Organization 270 304	Национальный расчетный депозитарий
-N1	Reference T1 wiki:344641	РусГидро
-N2	Reference T2 wiki:555591	ИНГ Банк (Евразия)
-N3	Reference T3 wiki:3747955	Национальный расчетный депозитарий
-A1	IsLink T2
-A2	IsLink T3

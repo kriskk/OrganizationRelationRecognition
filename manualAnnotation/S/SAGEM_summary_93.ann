@@ -1,5 +1,0 @@
-T1	Organization 0 5	SAGEM
-T2	Organization 173 180	Alcatel
-N1	Reference T1 wiki:65325	SAGEM
-N2	Reference T2 wiki:294657	Alcatel
-A1	IsLink T2

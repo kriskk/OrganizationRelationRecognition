@@ -1,8 +1,0 @@
-T1	Organization 0 14	StarLightMedia
-T2	Organization 256 262	Lenovo
-T3	Organization 336 341	Tefal
-N1	Reference T1 wiki:4348089	StarLightMedia
-N2	Reference T2 wiki:666442	Lenovo
-N3	Reference T3 wiki:1504355	Tefal
-A1	IsLink T2
-A2	IsLink T3

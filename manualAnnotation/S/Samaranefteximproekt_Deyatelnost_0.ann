@@ -1,8 +1,0 @@
-T1	Organization 0 20	Самаранефтехимпроект
-T2	Organization 182 196	ОАО «Роснефть»
-T3	Organization 362 383	ОАО «Казаньоргсинтез»
-N1	Reference T1 wiki:970174	Самаранефтехимпроект
-N2	Reference T2 wiki:139770	Роснефть
-N3	Reference T3 wiki:1929545	Казаньоргсинтез
-A1	IsLink T2
-A2	IsLink T3

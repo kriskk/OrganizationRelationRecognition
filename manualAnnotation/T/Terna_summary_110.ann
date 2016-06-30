@@ -1,5 +1,0 @@
-T1	Organization 0 5	Terna
-T2	Organization 228 232	Enel
-N1	Reference T1 wiki:2888223	Terna
-N2	Reference T2 wiki:162880	Enel
-A1	IsLink T2

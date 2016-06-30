@@ -1,8 +1,0 @@
-T1	Organization 0 7	Автотор
-T2	Organization 116 130	General Motors
-T3	Organization 377 385	Cadillac
-N1	Reference T1 wiki:1096940	Автотор
-N2	Reference T2 wiki:17438	General Motors
-N3	Reference T3 wiki:571883	Cadillac
-A1	IsLink T2
-A2	IsLink T3

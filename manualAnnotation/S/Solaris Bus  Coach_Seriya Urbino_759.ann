@@ -1,8 +1,0 @@
-T1	Organization 0 19	Solaris Bus & Coach
-T2	Organization 272 277	IVECO
-T3	Organization 431 434	MAN
-N1	Reference T1 wiki:264279	Solaris Bus & Coach
-N2	Reference T2 wiki:272617	Iveco
-N3	Reference T3 wiki:42703	MAN
-A1	IsLink T2
-A2	IsLink T3

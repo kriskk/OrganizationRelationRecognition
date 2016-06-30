@@ -1,5 +1,0 @@
-T1	Organization 0 13	Rover Company
-T2	Organization 163 167	SAIC
-N1	Reference T1 wiki:2199395	Rover Company
-N2	Reference T2 wiki:377731	Shanghai Automotive Industry Corporation
-A1	IsLink T2

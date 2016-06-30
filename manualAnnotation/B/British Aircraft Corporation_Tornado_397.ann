@@ -1,8 +1,0 @@
-T1	Organization 0 28	British Aircraft Corporation
-T2	Organization 416 420	Fiat
-T3	Organization 423 429	Fokker
-N1	Reference T1 wiki:2456375	British Aircraft Corporation
-N2	Reference T2 wiki:91784	Fiat
-N3	Reference T3 wiki:2045402	Fokker
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 13	Avro Aircraft
-T2	Organization 69 80	Avro Canada
-N1	Reference T1 wiki:816859	Avro Aircraft
-N2	Reference T2 wiki:803112	Avro Canada
-A1	IsLink T2

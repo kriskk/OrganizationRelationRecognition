@@ -1,8 +1,0 @@
-T1	Organization 0 22	Advanced Micro Devices
-T2	Organization 240 247	Fujitsu
-T3	Organization 371 376	Intel
-N1	Reference T1 wiki:19981	Advanced Micro Devices
-N2	Reference T2 wiki:571996	Fujitsu
-N3	Reference T3 wiki:762172	Intel
-A1	IsLink T2
-A2	IsLink T3

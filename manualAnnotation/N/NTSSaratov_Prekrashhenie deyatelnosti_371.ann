@@ -1,5 +1,0 @@
-T1	Organization 0 11	НТС-Саратов
-T2	Organization 274 277	НСС
-N1	Reference T1 wiki:1654405	НТС-Саратов
-N2	Reference T2 wiki:2093483	НСС
-A1	IsLink T2

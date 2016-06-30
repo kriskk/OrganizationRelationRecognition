@@ -1,5 +1,0 @@
-T1	Organization 0 17	Auburn Automobile
-T2	Organization 224 246	Duesenberg Corporation
-N1	Reference T1 wiki:3450019	Auburn Automobile
-N2	Reference T2 wiki:3328881	Duesenberg
-A1	IsLink T2

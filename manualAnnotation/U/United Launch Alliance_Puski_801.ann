@@ -1,8 +1,0 @@
-T1	Organization 0 22	United Launch Alliance
-T2	Organization 271 276	Боинг
-T3	Organization 280 293	Локхид Мартин
-N1	Reference T1 wiki:2978288	United Launch Alliance
-N2	Reference T2 wiki:156398	Боинг
-N3	Reference T3 wiki:301268	Локхид Мартин
-A1	IsLink T2
-A2	IsLink T3

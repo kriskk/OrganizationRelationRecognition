@@ -1,8 +1,0 @@
-T1	Organization 0 15	Brastel Telecom
-T2	Organization 59 62	NTT
-T3	Organization 65 69	KDDI
-N1	Reference T1 wiki:1956301	Brastel Telecom
-N2	Reference T2 wiki:1788654	NTT
-N3	Reference T3 wiki:960859	KDDI
-A1	IsLink T2
-A2	IsLink T3

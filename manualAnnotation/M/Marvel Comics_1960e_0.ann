@@ -1,5 +1,0 @@
-T1	Organization 0 13	Marvel Comics
-T2	Organization 70 79	DC Comics
-N1	Reference T1 wiki:351306	Marvel Comics
-N2	Reference T2 wiki:1742414	DC Comics
-A1	IsLink T2

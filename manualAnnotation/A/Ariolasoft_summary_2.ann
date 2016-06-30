@@ -1,8 +1,0 @@
-T1	Organization 0 10	Ariolasoft
-T2	Organization 222 232	Activision
-T3	Organization 272 287	Electronic Arts
-N1	Reference T1 wiki:2881773	Ariolasoft
-N2	Reference T2 wiki:307964	Activision
-N3	Reference T3 wiki:323143	Electronic Arts
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 9	Certiport
-T2	Organization 189 194	Adobe
-T3	Organization 250 258	Autodesk
-N1	Reference T1 wiki:4249769	Certiport
-N2	Reference T2 wiki:42937	Adobe
-N3	Reference T3 wiki:699040	Autodesk
-A1	IsLink T2
-A2	IsLink T3

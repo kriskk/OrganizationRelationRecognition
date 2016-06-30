@@ -1,8 +1,0 @@
-T1	Organization 0 16	Sumtotal Systems
-T2	Organization 300 309	Microsoft
-T3	Organization 329 337	Novartis
-N1	Reference T1 wiki:3103179	Sumtotal Systems
-N2	Reference T2 wiki:11987	Microsoft
-N3	Reference T3 wiki:1018931	Novartis
-A1	IsLink T2
-A2	IsLink T3

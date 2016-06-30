@@ -1,8 +1,0 @@
-T1	Organization 0 46	Toshiba Samsung Storage Technology Corporation
-T2	Organization 177 184	Toshiba
-T3	Organization 204 223	Samsung Electronics
-N1	Reference T1 wiki:1285666	Toshiba Samsung Storage Technology Corporation
-N2	Reference T2 wiki:507269	Toshiba
-N3	Reference T3 wiki:125553	Samsung Electronics
-A1	IsLink T2
-A2	IsLink T3

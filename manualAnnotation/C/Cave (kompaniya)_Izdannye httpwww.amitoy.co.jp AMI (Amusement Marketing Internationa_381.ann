@@ -1,8 +1,0 @@
-T1	Organization 0 15	Cave (компания)
-T2	Organization 317 334	Taito Corporation
-T3	Organization 424 441	Taito Corporation
-N1	Reference T1 wiki:1716901	Cave (компания)
-N2	Reference T2 wiki:1711320	Taito Corporation
-N3	Reference T3 wiki:1711320	Taito Corporation
-A1	IsLink T2
-A2	IsLink T3

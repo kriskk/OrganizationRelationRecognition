@@ -1,5 +1,0 @@
-T1	Organization 0 33	Белорусская сеть телекоммуникаций
-T2	Organization 66 83	life:) на Украине
-N1	Reference T1 wiki:500727	Белорусская сеть телекоммуникаций
-N2	Reference T2 wiki:88487	Life:) (Украина)
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 20	Автоспецоборудование
-T2	Organization 219 223	 ГАЗ
-N1	Reference T1 wiki:4033257	Автоспецоборудование
-N2	Reference T2 wiki:21473	Группа ГАЗ
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 9	Главстрой
-T2	Organization 227 239	Главмосстрой
-T3	Organization 241 251	Трансстрой
-N1	Reference T1 wiki:655957	Главстрой
-N2	Reference T2 wiki:164189	Главмосстрой
-N3	Reference T3 wiki:652096	Трансстрой
-A1	IsLink T2
-A2	IsLink T3

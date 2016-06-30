@@ -1,5 +1,0 @@
-T1	Organization 0 32	Дальзавод (холдинговая компания)
-T2	Organization 216 219	ДМП
-N1	Reference T1 wiki:4002732	Дальзавод (холдинговая компания)
-N2	Reference T2 wiki:149752	Дальневосточное морское пароходство
-A1	IsLink T2

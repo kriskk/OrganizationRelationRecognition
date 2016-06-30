@@ -1,5 +1,0 @@
-T1	Organization 0 9	Белэнерго
-T2	Organization 193 204	Минскэнерго
-N1	Reference T1 wiki:708458	Белэнерго
-N2	Reference T2 wiki:2508211	Минскэнерго
-A1	IsLink T2

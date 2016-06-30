@@ -1,8 +1,0 @@
-T1	Organization 0 15	Harley-Davidson
-T2	Organization 222 231	MV Agusta
-T3	Organization 234 240	Cagiva
-N1	Reference T1 wiki:670179	Harley-Davidson
-N2	Reference T2 wiki:3239010	MV Agusta
-N3	Reference T3 wiki:1795239	Cagiva
-A1	IsLink T2
-A2	IsLink T3

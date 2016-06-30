@@ -1,5 +1,0 @@
-T1	Organization 0 5	Avaya
-T2	Organization 280 286	Nortel
-N1	Reference T1 wiki:685464	Avaya
-N2	Reference T2 wiki:311902	Nortel
-A1	IsLink T2

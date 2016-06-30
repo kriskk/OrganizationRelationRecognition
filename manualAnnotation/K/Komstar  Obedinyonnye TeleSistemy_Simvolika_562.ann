@@ -1,5 +1,0 @@
-T1	Organization 0 34	Комстар — Объединённые ТелеСистемы
-T2	Organization 378 382	МГТС
-N1	Reference T1 wiki:150442	Комстар — Объединённые ТелеСистемы
-N2	Reference T2 wiki:141210	МГТС
-A1	IsLink T2

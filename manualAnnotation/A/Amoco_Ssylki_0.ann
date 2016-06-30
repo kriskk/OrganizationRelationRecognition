@@ -1,5 +1,0 @@
-T1	Organization 0 5	Amoco
-T2	Organization 81 83	BP
-N1	Reference T1 wiki:3553703	Amoco
-N2	Reference T2 wiki:189320	BP
-A1	IsLink T2

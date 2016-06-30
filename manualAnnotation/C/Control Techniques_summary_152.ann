@@ -1,8 +1,0 @@
-T1	Organization 0 18	Control Techniques
-T2	Organization 291 314	Control Techniques Ltd.
-T3	Organization 317 347	Control Techniques Drives Ltd.
-N1	Reference T1 wiki:3110992	Control Techniques
-N2	Reference T2 wiki:3110992	Control Techniques Ltd.
-N3	Reference T3 wiki:3110992	Control Techniques Drives Ltd.
-A1	IsLink T2
-A2	IsLink T3

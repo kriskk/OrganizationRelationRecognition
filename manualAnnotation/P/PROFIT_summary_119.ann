@@ -1,5 +1,0 @@
-T1	Organization 0 6	ПРОФИТ
-T2	Organization 190 200	НТВ-Профит
-N1	Reference T1 wiki:1047752	ПРОФИТ
-N2	Reference T2 wiki:1047825	НТВ-Профит
-A1	IsLink T2

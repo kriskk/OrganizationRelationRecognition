@@ -1,8 +1,0 @@
-T1	Organization 0 15	Olympic Studios
-T2	Organization 182 185	EMI
-T3	Organization 188 200	Virgin Group
-N1	Reference T1 wiki:3904664	Olympic Studios
-N2	Reference T2 wiki:101046	EMI
-N3	Reference T3 wiki:250912	Virgin Group
-A1	IsLink T2
-A2	IsLink T3

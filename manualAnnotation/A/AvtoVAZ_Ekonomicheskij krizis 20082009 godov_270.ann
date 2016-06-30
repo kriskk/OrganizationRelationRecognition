@@ -1,5 +1,0 @@
-T1	Organization 0 7	АвтоВАЗ
-T2	Organization 271 284	Ростехнологии
-N1	Reference T1 wiki:139276	АвтоВАЗ
-N2	Reference T2 wiki:915063	Ростехнологии
-A1	IsLink T2

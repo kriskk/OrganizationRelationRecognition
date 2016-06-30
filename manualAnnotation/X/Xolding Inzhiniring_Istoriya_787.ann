@@ -1,5 +1,0 @@
-T1	Organization 0 18	Холдинг Инжиниринг
-T2	Organization 220 230	Bombardier
-N1	Reference T1 wiki:4238417	Холдинг Инжиниринг
-N2	Reference T2 wiki:168782	Bombardier
-A1	IsLink T2

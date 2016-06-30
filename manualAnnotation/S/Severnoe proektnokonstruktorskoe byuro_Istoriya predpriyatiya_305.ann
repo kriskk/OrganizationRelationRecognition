@@ -1,8 +1,0 @@
-T1	Organization 0 38	Северное проектно-конструкторское бюро
-T2	Organization 314 323	ССЗ № 190
-T3	Organization 452 469	Кировского завода
-N1	Reference T1 wiki:2136390	Северное проектно-конструкторское бюро
-N2	Reference T2 wiki:341131	Северная верфь
-N3	Reference T3 wiki:208146	Кировский завод (предприятие, Санкт-Петербург)
-A1	IsLink T2
-A2	IsLink T3

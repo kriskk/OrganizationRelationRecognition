@@ -1,5 +1,0 @@
-T1	Organization 0 14	Совам Телепорт
-T2	Organization 240 254	Golden Telecom
-N1	Reference T1 wiki:3455613	Совам Телепорт
-N2	Reference T2 wiki:2196953	Golden Telecom
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 5	Mopar
-T2	Organization 132 140	Plymouth
-T3	Organization 151 156	Dodge
-N1	Reference T1 wiki:3762236	Mopar
-N2	Reference T2 wiki:1283510	Plymouth
-N3	Reference T3 wiki:41485	Dodge
-A1	IsLink T2
-A2	IsLink T3

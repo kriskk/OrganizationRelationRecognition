@@ -1,8 +1,0 @@
-T1	Organization 0 25	Систем Кэпитал Менеджмент
-T2	Organization 261 273	Донецкгормаш
-T3	Organization 409 435	Дружковское рудоуправление
-N1	Reference T1 wiki:36184	Систем Кэпитал Менеджмент
-N2	Reference T2 wiki:3585766	Донецкгормаш
-N3	Reference T3 wiki:1325705	Дружковское рудоуправление
-A1	IsLink T2
-A2	IsLink T3

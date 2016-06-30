@@ -1,8 +1,0 @@
-T1	Organization 0 23	Европейская медиагруппа
-T2	Organization 204 226	Сибирский деловой союз
-T3	Organization 419 428	Lagardere
-N1	Reference T1 wiki:1494590	Европейская медиагруппа
-N2	Reference T2 wiki:4189812	Сибирский деловой союз
-N3	Reference T3 wiki:169461	Lagardere
-A1	IsLink T2
-A2	IsLink T3

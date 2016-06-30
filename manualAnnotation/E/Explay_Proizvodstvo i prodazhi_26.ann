@@ -1,8 +1,0 @@
-T1	Organization 0 6	Explay
-T2	Organization 237 240	HTC
-T3	Organization 387 396	Prestigio
-N1	Reference T1 wiki:3952594	Explay
-N2	Reference T2 wiki:619547	HTC
-N3	Reference T3 wiki:3539872	Prestigio
-A1	IsLink T2
-A2	IsLink T3

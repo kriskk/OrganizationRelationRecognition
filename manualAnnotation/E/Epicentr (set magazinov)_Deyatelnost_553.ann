@@ -1,5 +1,0 @@
-T1	Organization 0 25	Эпицентр (сеть магазинов)
-T2	Organization 282 285	OBI
-N1	Reference T1 wiki:1504202	Эпицентр (сеть магазинов)
-N2	Reference T2 wiki:149772	OBI
-A1	IsLink T2

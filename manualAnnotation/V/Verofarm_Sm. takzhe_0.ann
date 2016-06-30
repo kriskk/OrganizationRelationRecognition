@@ -1,5 +1,0 @@
-T1	Organization 0 8	Верофарм
-T2	Organization 75 87	Фармстандарт
-N1	Reference T1 wiki:2685933	Верофарм
-N2	Reference T2 wiki:347915	Фармстандарт
-A1	IsLink T2

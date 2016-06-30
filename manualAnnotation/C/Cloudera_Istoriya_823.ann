@@ -1,8 +1,0 @@
-T1	Organization 0 8	Cloudera
-T2	Organization 345 351	VMware
-T3	Organization 380 388	MySQL AB
-N1	Reference T1 wiki:3615749	Cloudera
-N2	Reference T2 wiki:205509	VMware
-N3	Reference T3 wiki:1515416	MySQL AB
-A1	IsLink T2
-A2	IsLink T3

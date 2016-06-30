@@ -1,5 +1,0 @@
-T1	Organization 0 4	Ford
-T2	Organization 346 377	Горьковский автомобильный завод
-N1	Reference T1 wiki:153236	Ford
-N2	Reference T2 wiki:25060	Горьковский автомобильный завод
-A1	IsLink T2

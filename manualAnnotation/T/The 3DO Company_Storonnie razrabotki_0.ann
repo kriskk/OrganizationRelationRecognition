@@ -1,5 +1,0 @@
-T1	Organization 0 15	The 3DO Company
-T2	Organization 194 213	New World Computing
-N1	Reference T1 wiki:1475844	The 3DO Company
-N2	Reference T2 wiki:1260374	New World Computing
-A1	IsLink T2

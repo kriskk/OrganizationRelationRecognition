@@ -1,5 +1,0 @@
-T1	Organization 0 15	Трансмашхолдинг
-T2	Organization 246 256	Siemens AG
-N1	Reference T1 wiki:168333	Трансмашхолдинг
-N2	Reference T2 wiki:36510	Siemens AG
-A1	IsLink T2

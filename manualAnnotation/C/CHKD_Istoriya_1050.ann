@@ -1,5 +1,0 @@
-T1	Organization 0 3	ЧКД
-T2	Organization 245 250	Татра
-N1	Reference T1 wiki:378017	ЧКД
-N2	Reference T2 wiki:259110	Татра
-A1	IsLink T2

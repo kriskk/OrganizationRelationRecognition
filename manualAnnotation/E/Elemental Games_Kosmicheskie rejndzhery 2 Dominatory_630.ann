@@ -1,8 +1,0 @@
-T1	Organization 0 15	Elemental Games
-T2	Organization 269 288	Katauri Interactive
-T3	Organization 665 684	Katauri Interactive
-N1	Reference T1 wiki:820628	Elemental Games
-N2	Reference T2 wiki:1378023	Katauri Interactive
-N3	Reference T3 wiki:1378023	Katauri Interactive
-A1	IsLink T2
-A2	IsLink T3

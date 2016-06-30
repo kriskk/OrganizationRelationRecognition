@@ -1,8 +1,0 @@
-T1	Organization 0 10	Panavision
-T2	Organization 312 328	20th Century Fox
-T3	Organization 799 812	Bausch & Lomb
-N1	Reference T1 wiki:3584656	Panavision
-N2	Reference T2 wiki:272376	20th Century Fox
-N3	Reference T3 wiki:656436	Bausch & Lomb
-A1	IsLink T2
-A2	IsLink T3

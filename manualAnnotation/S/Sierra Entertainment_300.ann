@@ -1,8 +1,0 @@
-T1	Organization 0 20	Sierra Entertainment
-T2	Organization 198 217	Activision Blizzard
-T3	Organization 220 233	Vivendi Games
-N1	Reference T1 wiki:1561521	Sierra Entertainment
-N2	Reference T2 wiki:954541	Activision Blizzard
-N3	Reference T3 wiki:954541	Vivendi Games
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 15	НИИгазэкономика
-T2	Organization 281 288	Газпром
-N1	Reference T1 wiki:2994908	НИИгазэкономика
-N2	Reference T2 wiki:44754	Газпром
-A1	IsLink T2

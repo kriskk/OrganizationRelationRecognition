@@ -1,5 +1,0 @@
-T1	Organization 0 7	ФСК ЕЭС
-T2	Organization 194 208	РАО ЕЭС России
-N1	Reference T1 wiki:138863	ФСК ЕЭС
-N2	Reference T2 wiki:1432138	ЕЭС России (компания)
-A1	IsLink T2

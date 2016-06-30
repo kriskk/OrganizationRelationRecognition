@@ -1,8 +1,0 @@
-T1	Organization 0 15	Dewey & LeBoeuf
-T2	Organization 437 441	AT&T
-T3	Organization 444 456	Standard Oil
-N1	Reference T1 wiki:1044031	Dewey & LeBoeuf
-N2	Reference T2 wiki:162994	AT&T
-N3	Reference T3 wiki:1530444	Standard Oil
-A1	IsLink T2
-A2	IsLink T3

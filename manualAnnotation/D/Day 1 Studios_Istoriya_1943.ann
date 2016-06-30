@@ -1,8 +1,0 @@
-T1	Organization 0 13	Day 1 Studios
-T2	Organization 275 313	Warner Bros. Interactive Entertainment
-T3	Organization 362 375	Wargaming.net
-N1	Reference T1 wiki:2413131	Day 1 Studios
-N2	Reference T2 wiki:2184337	Warner Bros. Interactive Entertainment
-N3	Reference T3 wiki:1420577	Wargaming.net
-A1	IsLink T2
-A2	IsLink T3

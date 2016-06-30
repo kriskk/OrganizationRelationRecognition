@@ -1,8 +1,0 @@
-T1	Organization 0 7	Атоммаш
-T2	Organization 82 112	Группа предприятий «Энергомаш»
-T3	Organization 115 129	Ижорский завод
-N1	Reference T1 wiki:864073	Атоммаш
-N2	Reference T2 wiki:1716207	Энергомаш (группа предприятий)
-N3	Reference T3 wiki:601241	Ижорский завод
-A1	IsLink T2
-A2	IsLink T3

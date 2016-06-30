@@ -1,8 +1,0 @@
-T1	Organization 0 19	Federal Corporation
-T2	Organization 274 285	Bridgestone
-T3	Organization 491 503	Dunlop Tyres
-N1	Reference T1 wiki:1498301	Federal Corporation
-N2	Reference T2 wiki:299590	Bridgestone
-N3	Reference T3 wiki:1156827	Dunlop Tyres
-A1	IsLink T2
-A2	IsLink T3

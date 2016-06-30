@@ -1,5 +1,0 @@
-T1	Organization 0 15	Бамтоннельстрой
-T2	Organization 209 212	РЖД
-N1	Reference T1 wiki:425409	Бамтоннельстрой
-N2	Reference T2 wiki:106901	Российские железные дороги
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 32	Красноярский судоремонтный центр
-T2	Organization 76 92	Красноярской ГЭС
-N1	Reference T1 wiki:1693830	Красноярский судоремонтный центр
-N2	Reference T2 wiki:26423	Красноярская ГЭС
-A1	IsLink T2

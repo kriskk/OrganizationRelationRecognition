@@ -1,5 +1,0 @@
-T1	Organization 0 20	Самаранефтехимпроект
-T2	Organization 247 264	ОАО НК «Роснефть»
-N1	Reference T1 wiki:970174	Самаранефтехимпроект
-N2	Reference T2 wiki:139770	Роснефть
-A1	IsLink T2

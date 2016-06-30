@@ -1,5 +1,0 @@
-T1	Organization 0 26	Челябинский цинковый завод
-T2	Organization 204 208	УГМК
-N1	Reference T1 wiki:293963	Челябинский цинковый завод
-N2	Reference T2 wiki:171944	Уральская горно-металлургическая компания
-A1	IsLink T2

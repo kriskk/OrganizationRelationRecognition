@@ -1,8 +1,0 @@
-T1	Organization 0 12	EnviroChemie
-T2	Organization 218 223	InBev
-T3	Organization 344 351	Cargill
-N1	Reference T1 wiki:3183406	EnviroChemie
-N2	Reference T2 wiki:203867	InBev
-N3	Reference T3 wiki:177336	Cargill
-A1	IsLink T2
-A2	IsLink T3

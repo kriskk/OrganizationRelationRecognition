@@ -1,5 +1,0 @@
-T1	Organization 0 7	Sotelco
-T2	Organization 105 114	ВымпелКом
-N1	Reference T1 wiki:2220638	Sotelco
-N2	Reference T2 wiki:70736	ВымпелКом
-A1	IsLink T2

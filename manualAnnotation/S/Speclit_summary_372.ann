@@ -1,5 +1,0 @@
-T1	Organization 0 7	Спецлит
-T2	Organization 220 235	атомэнергопрома
-N1	Reference T1 wiki:2011718	Спецлит
-N2	Reference T2 wiki:1402114	Атомэнергопром
-A1	IsLink T2

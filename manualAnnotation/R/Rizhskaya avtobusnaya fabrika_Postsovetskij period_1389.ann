@@ -1,5 +1,0 @@
-T1	Organization 0 26	Рижская автобусная фабрика
-T2	Organization 268 271	ГАЗ
-N1	Reference T1 wiki:371838	Рижская автобусная фабрика
-N2	Reference T2 wiki:25060	Горьковский автомобильный завод
-A1	IsLink T2

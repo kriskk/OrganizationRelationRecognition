@@ -1,5 +1,0 @@
-T1	Organization 0 24	Douglas Aircraft Company
-T2	Organization 310 316	Boeing
-N1	Reference T1 wiki:4294726	Douglas Aircraft Company
-N2	Reference T2 wiki:156398	Boeing
-A1	IsLink T2

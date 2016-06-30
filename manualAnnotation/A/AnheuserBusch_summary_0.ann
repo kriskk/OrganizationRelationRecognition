@@ -1,5 +1,0 @@
-T1	Organization 0 14	Anheuser-Busch
-T2	Organization 155 160	InBev
-N1	Reference T1 wiki:489317	Anheuser-Busch
-N2	Reference T2 wiki:203867	InBev
-A1	IsLink T2

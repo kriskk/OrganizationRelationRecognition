@@ -1,5 +1,0 @@
-T1	Organization 0 6	Comodo
-T2	Organization 265 272	OpenDNS
-N1	Reference T1 wiki:726770	Comodo
-N2	Reference T2 wiki:1601966	OpenDNS
-A1	IsLink T2

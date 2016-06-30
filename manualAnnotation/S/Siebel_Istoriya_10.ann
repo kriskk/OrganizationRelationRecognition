@@ -1,8 +1,0 @@
-T1	Organization 0 6	Siebel
-T2	Organization 180 186	Oracle
-T3	Organization 300 306	Sybase
-N1	Reference T1 wiki:3454107	Siebel
-N2	Reference T2 wiki:129227	Oracle
-N3	Reference T3 wiki:204161	Sybase
-A1	IsLink T2
-A2	IsLink T3

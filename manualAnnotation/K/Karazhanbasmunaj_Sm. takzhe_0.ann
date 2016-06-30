@@ -1,8 +1,0 @@
-T1	Organization 0 15	Каражанбасмунай
-T2	Organization 48 59	КазМунайГаз
-T3	Organization 62 73	CITIC Group
-N1	Reference T1 wiki:3248759	Каражанбасмунай
-N2	Reference T2 wiki:294591	КазМунайГаз
-N3	Reference T3 wiki:349701	CITIC
-A1	IsLink T2
-A2	IsLink T3

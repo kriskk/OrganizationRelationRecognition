@@ -1,8 +1,0 @@
-T1	Organization 0 10	Carl Zeiss
-T2	Organization 282 292	Hasselblad
-T3	Organization 594 601	Kyocera
-N1	Reference T1 wiki:1151084	Carl Zeiss
-N2	Reference T2 wiki:1204530	Hasselblad
-N3	Reference T3 wiki:577336	Kyocera
-A1	IsLink T2
-A2	IsLink T3

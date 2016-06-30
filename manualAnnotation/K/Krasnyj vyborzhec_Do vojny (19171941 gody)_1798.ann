@@ -1,5 +1,0 @@
-T1	Organization 0 16	Красный выборжец
-T2	Organization 252 267	Невского завода
-N1	Reference T1 wiki:2248755	Красный выборжец
-N2	Reference T2 wiki:773879	Невский завод
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 22	Almaz Capital Partners
-T2	Organization 240 245	Intel
-T3	Organization 305 313	AlterGeo
-N1	Reference T1 wiki:1523571	Almaz Capital Partners
-N2	Reference T2 wiki:762172	Intel
-N3	Reference T3 wiki:4127749	AlterGeo (компания)
-A1	IsLink T2
-A2	IsLink T3

@@ -1,8 +1,0 @@
-T1	Organization 0 12	АэроКомпозит
-T2	Organization 224 235	Авиастар-СП
-T3	Organization 251 255	КАПО
-N1	Reference T1 wiki:3435338	АэроКомпозит
-N2	Reference T2 wiki:746275	Авиастар-СП
-N3	Reference T3 wiki:1233100	Казанское авиационное производственное объединение имени С. П. Горбунова
-A1	IsLink T2
-A2	IsLink T3

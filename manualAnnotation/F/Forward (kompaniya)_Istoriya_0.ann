@@ -1,5 +1,0 @@
-T1	Organization 0 18	Forward (компания)
-T2	Organization 108 115	«Велта»
-N1	Reference T1 wiki:3317863	Forward (компания)
-N2	Reference T2 wiki:4427820	Велта (компания, Россия)
-A1	IsLink T2

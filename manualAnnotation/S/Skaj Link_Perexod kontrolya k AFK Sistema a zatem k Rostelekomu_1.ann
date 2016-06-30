@@ -1,5 +1,0 @@
-T1	Organization 0 9	Скай Линк
-T2	Organization 253 264	Связьинвест
-N1	Reference T1 wiki:145535	Скай Линк
-N2	Reference T2 wiki:145705	Связьинвест
-A1	IsLink T2

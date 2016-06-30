@@ -1,5 +1,0 @@
-T1	Organization 0 10	PeopleSoft
-T2	Organization 253 259	Oracle
-N1	Reference T1 wiki:2977933	PeopleSoft
-N2	Reference T2 wiki:129227	Oracle
-A1	IsLink T2

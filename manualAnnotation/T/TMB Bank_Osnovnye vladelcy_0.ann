@@ -1,5 +1,0 @@
-T1	Organization 0 8	TMB Bank
-T2	Organization 101 110	ING Groep
-N1	Reference T1 wiki:4096786	TMB Bank
-N2	Reference T2 wiki:555591	ING Groep
-A1	IsLink T2

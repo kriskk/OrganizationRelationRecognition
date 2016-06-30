@@ -1,5 +1,0 @@
-T1	Organization 0 23	Студия Артемия Лебедева
-T2	Organization 226 233	Samsung
-N1	Reference T1 wiki:156470	Студия Артемия Лебедева
-N2	Reference T2 wiki:125537	Samsung
-A1	IsLink T2

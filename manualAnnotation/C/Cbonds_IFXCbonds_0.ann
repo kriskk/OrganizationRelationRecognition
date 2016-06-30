@@ -1,5 +1,0 @@
-T1	Organization 0 6	Cbonds
-T2	Organization 124 133	Интерфакс
-N1	Reference T1 wiki:3333114	Cbonds
-N2	Reference T2 wiki:109215	Интерфакс
-A1	IsLink T2

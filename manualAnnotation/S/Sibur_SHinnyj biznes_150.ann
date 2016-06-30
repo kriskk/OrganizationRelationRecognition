@@ -1,8 +1,0 @@
-T1	Organization 0 5	Сибур
-T2	Organization 373 399	ОАО «СИБУР — Русские шины»
-T3	Organization 479 495	Amtel-Vredestein
-N1	Reference T1 wiki:144869	Сибур
-N2	Reference T2 wiki:1622512	Сибур — Русские шины
-N3	Reference T3 wiki:162573	Amtel-Vredestein
-A1	IsLink T2
-A2	IsLink T3

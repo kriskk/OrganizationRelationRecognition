@@ -1,8 +1,0 @@
-T1	Organization 0 14	АвтоВАЗагрегат
-T2	Organization 143 146	ВАЗ
-T3	Organization 324 331	АВТОВАЗ
-N1	Reference T1 wiki:721521	АвтоВАЗагрегат
-N2	Reference T2 wiki:139276	ВАЗ
-N3	Reference T3 wiki:139276	АВТОВАЗ
-A1	IsLink T2
-A2	IsLink T3

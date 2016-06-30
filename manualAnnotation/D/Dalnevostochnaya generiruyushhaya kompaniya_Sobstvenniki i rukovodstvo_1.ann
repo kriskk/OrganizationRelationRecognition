@@ -1,8 +1,0 @@
-T1	Organization 0 37	Дальневосточная генерирующая компания
-T2	Organization 233 247	РАО ЭС Востока
-T3	Organization 260 264	СУЭК
-N1	Reference T1 wiki:1398050	Дальневосточная генерирующая компания
-N2	Reference T2 wiki:2671340	РАО ЭС Востока
-N3	Reference T3 wiki:162787	Сибирская угольная энергетическая компания
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 14	Союзмультфильм
-T2	Organization 226 234	Ленфильм
-N1	Reference T1 wiki:137785	Союзмультфильм
-N2	Reference T2 wiki:175417	Ленфильм
-A1	IsLink T2

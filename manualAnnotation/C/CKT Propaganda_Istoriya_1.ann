@@ -1,5 +1,0 @@
-T1	Organization 0 14	ЦКТ Пропаганда
-T2	Organization 182 185	ТНК
-N1	Reference T1 wiki:1748324	ЦКТ Пропаганда
-N2	Reference T2 wiki:17252	ТНК-BP
-A1	IsLink T2

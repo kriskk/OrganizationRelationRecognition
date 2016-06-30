@@ -1,5 +1,0 @@
-T1	Organization 0 6	Bridas
-T2	Organization 182 187	CNOOC
-N1	Reference T1 wiki:3600849	Bridas
-N2	Reference T2 wiki:2448098	CNOOC
-A1	IsLink T2

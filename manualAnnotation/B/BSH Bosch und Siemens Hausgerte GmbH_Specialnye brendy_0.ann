@@ -1,8 +1,0 @@
-T1	Organization 0 37	BSH Bosch und Siemens Hausgeräte GmbH
-T2	Organization 118 128	Constructa
-T3	Organization 131 139	Gaggenau
-N1	Reference T1 wiki:257096	BSH Bosch und Siemens Hausgeräte GmbH
-N2	Reference T2 wiki:215726	Constructa
-N3	Reference T3 wiki:253032	Gaggenau
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 15	BlueScope Steel
-T2	Organization 237 249	BHP Billiton
-N1	Reference T1 wiki:1725482	BlueScope Steel
-N2	Reference T2 wiki:231571	BHP Billiton
-A1	IsLink T2

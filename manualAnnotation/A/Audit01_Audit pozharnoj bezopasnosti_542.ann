@@ -1,5 +1,0 @@
-T1	Organization 0 8	Аудит-01
-T2	Organization 275 294	заправок «Сибнефть»
-N1	Reference T1 wiki:2761958	Аудит-01
-N2	Reference T2 wiki:121955	Сибнефть
-A1	IsLink T2

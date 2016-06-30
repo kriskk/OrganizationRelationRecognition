@@ -1,5 +1,0 @@
-T1	Organization 0 16	Сибирское молоко
-T2	Organization 221 228	PepsiCo
-N1	Reference T1 wiki:4246679	Сибирское молоко
-N2	Reference T2 wiki:606214	PepsiCo
-A1	IsLink T2

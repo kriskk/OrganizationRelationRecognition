@@ -1,8 +1,0 @@
-T1	Organization 0 12	Deep Shadows
-T2	Organization 135 149	GSC Game World
-T3	Organization 297 311	GSC Game World
-N1	Reference T1 wiki:3065934	Deep Shadows
-N2	Reference T2 wiki:866334	GSC Game World
-N3	Reference T3 wiki:866334	GSC Game World
-A1	IsLink T2
-A2	IsLink T3

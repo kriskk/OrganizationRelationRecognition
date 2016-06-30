@@ -1,5 +1,0 @@
-T1	Organization 0 8	Umbrella
-T2	Organization 199 203	Avon
-N1	Reference T1 wiki:1012966	Umbrella
-N2	Reference T2 wiki:2298392	Avon
-A1	IsLink T2

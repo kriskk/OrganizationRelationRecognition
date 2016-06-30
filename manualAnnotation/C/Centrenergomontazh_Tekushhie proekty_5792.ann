@@ -1,8 +1,0 @@
-T1	Organization 0 17	Центрэнергомонтаж
-T2	Organization 231 237	СЕВМАШ
-T3	Organization 467 470	ОМК
-N1	Reference T1 wiki:3154126	Центрэнергомонтаж
-N2	Reference T2 wiki:268382	Севмаш
-N3	Reference T3 wiki:196513	ОМК
-A1	IsLink T2
-A2	IsLink T3

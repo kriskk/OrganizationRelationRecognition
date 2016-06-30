@@ -1,5 +1,0 @@
-T1	Organization 0 11	Булгарнефть
-T2	Organization 183 201	ООО «ФБК Поволжье»
-N1	Reference T1 wiki:3248097	Булгарнефть
-N2	Reference T2 wiki:2753539	ФБК
-A1	IsLink T2

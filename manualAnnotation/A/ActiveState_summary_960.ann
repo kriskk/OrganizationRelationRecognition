@@ -1,5 +1,0 @@
-T1	Organization 0 11	ActiveState
-T2	Organization 254 260	Sophos
-N1	Reference T1 wiki:654015	ActiveState
-N2	Reference T2 wiki:2080699	Sophos
-A1	IsLink T2

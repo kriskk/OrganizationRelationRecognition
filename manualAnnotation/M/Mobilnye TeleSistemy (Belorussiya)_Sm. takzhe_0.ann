@@ -1,5 +1,0 @@
-T1	Organization 0 34	Мобильные ТелеСистемы (Белоруссия)
-T2	Organization 91 101	Белтелеком
-N1	Reference T1 wiki:748086	Мобильные ТелеСистемы (Белоруссия)
-N2	Reference T2 wiki:758522	Белтелеком
-A1	IsLink T2

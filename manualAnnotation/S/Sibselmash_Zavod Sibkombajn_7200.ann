@@ -1,5 +1,0 @@
-T1	Organization 0 10	Сибсельмаш
-T2	Organization 338 346	Коммунар
-N1	Reference T1 wiki:853744	Сибсельмаш
-N2	Reference T2 wiki:683481	Запорожский автомобилестроительный завод
-A1	IsLink T2

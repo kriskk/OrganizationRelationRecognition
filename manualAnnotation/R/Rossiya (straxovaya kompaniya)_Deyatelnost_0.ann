@@ -1,5 +1,0 @@
-T1	Organization 0 27	Россия (страховая компания)
-T2	Organization 86 96	Эксперт РА
-N1	Reference T1 wiki:424112	Россия (страховая компания)
-N2	Reference T2 wiki:363296	Эксперт РА
-A1	IsLink T2

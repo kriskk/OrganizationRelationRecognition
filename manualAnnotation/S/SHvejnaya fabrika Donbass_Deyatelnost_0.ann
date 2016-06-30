@@ -1,5 +1,0 @@
-T1	Organization 0 25	Швейная фабрика «Донбасс»
-T2	Organization 169 174	PFAFF
-N1	Reference T1 wiki:4094046	Швейная фабрика «Донбасс»
-N2	Reference T2 wiki:1314843	Pfaff
-A1	IsLink T2

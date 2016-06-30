@@ -1,8 +1,0 @@
-T1	Organization 0 19	Deutsche Bundespost
-T2	Organization 218 234	Deutsche Post AG
-T3	Organization 236 252	Deutsche Telekom
-N1	Reference T1 wiki:4124959	Deutsche Bundespost
-N2	Reference T2 wiki:170102	Deutsche Post AG
-N3	Reference T3 wiki:169094	Deutsche Telekom
-A1	IsLink T2
-A2	IsLink T3

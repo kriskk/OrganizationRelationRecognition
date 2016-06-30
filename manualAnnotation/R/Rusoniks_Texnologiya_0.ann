@@ -1,5 +1,0 @@
-T1	Organization 0 8	Русоникс
-T2	Organization 178 187	Parallels
-N1	Reference T1 wiki:231688	Русоникс
-N2	Reference T2 wiki:1356173	Parallels
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 5	Dodge
-T2	Organization 92 107	DaimlerChrysler
-T3	Organization 398 415	Mitsubishi Motors
-N1	Reference T1 wiki:41485	Dodge
-N2	Reference T2 wiki:39716	DaimlerChrysler
-N3	Reference T3 wiki:423257	Mitsubishi Motors
-A1	IsLink T2
-A2	IsLink T3

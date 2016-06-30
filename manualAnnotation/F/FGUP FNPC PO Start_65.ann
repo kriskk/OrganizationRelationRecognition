@@ -1,5 +1,0 @@
-T1	Organization 0 18	ФГУП ФНПЦ ПО Старт
-T2	Organization 181 190	«Росатом»
-N1	Reference T1 wiki:4093321	ФГУП ФНПЦ ПО Старт
-N2	Reference T2 wiki:1299917	Росатом (государственная корпорация)
-A1	IsLink T2

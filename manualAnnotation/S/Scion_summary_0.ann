@@ -1,5 +1,0 @@
-T1	Organization 0 5	Scion
-T2	Organization 114 138	Toyota Motor Corporation
-N1	Reference T1 wiki:925959	Scion
-N2	Reference T2 wiki:42689	Toyota Motor Corporation
-A1	IsLink T2

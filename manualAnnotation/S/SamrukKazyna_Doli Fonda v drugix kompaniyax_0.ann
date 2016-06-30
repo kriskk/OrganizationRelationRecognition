@@ -1,8 +1,0 @@
-T1	Organization 0 13	Самрук-Казына
-T2	Organization 130 143	Kazakhmys PLC
-T3	Organization 173 211	Eurasian Natural Resources Corporation
-N1	Reference T1 wiki:1680328	Самрук-Казына
-N2	Reference T2 wiki:1301026	Kazakhmys PLC
-N3	Reference T3 wiki:2171512	Eurasian Natural Resources Corporation
-A1	IsLink T2
-A2	IsLink T3

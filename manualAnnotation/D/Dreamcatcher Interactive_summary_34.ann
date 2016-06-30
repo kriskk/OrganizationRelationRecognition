@@ -1,8 +1,0 @@
-T1	Organization 0 24	Dreamcatcher Interactive
-T2	Organization 194 210	Cryo Interactive
-T3	Organization 425 443	JoWooD Productions
-N1	Reference T1 wiki:2520370	Dreamcatcher Interactive
-N2	Reference T2 wiki:920901	Cryo Interactive
-N3	Reference T3 wiki:1800861	JoWooD Productions
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 20	Таганрогская авиация
-T2	Organization 199 227	Тбилисский авиационный завод
-N1	Reference T1 wiki:3271898	Таганрогская авиация
-N2	Reference T2 wiki:1902843	Тбилисский авиазавод
-A1	IsLink T2

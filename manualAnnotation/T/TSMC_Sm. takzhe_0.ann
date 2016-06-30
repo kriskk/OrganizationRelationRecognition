@@ -1,5 +1,0 @@
-T1	Organization 0 4	TSMC
-T2	Organization 75 90	GlobalFoundries
-N1	Reference T1 wiki:755389	TSMC
-N2	Reference T2 wiki:3522370	GlobalFoundries
-A1	IsLink T2

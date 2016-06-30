@@ -1,5 +1,0 @@
-T1	Organization 0 35	Конгресс-отель Don-Plaza (Интурист)
-T2	Organization 174 188	ВАО «Интурист»
-N1	Reference T1 wiki:4448060	Конгресс-отель Don-Plaza (Интурист)
-N2	Reference T2 wiki:606499	ВАО «Интурист»
-A1	IsLink T2

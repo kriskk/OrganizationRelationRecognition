@@ -1,5 +1,0 @@
-T1	Organization 0 39	Дрогобычский завод автомобильных кранов
-T2	Organization 216 219	МАЗ
-N1	Reference T1 wiki:2591205	Дрогобычский завод автомобильных кранов
-N2	Reference T2 wiki:33218	МАЗ
-A1	IsLink T2

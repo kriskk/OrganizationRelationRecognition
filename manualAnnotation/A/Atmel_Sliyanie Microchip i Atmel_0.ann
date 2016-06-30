@@ -1,5 +1,0 @@
-T1	Organization 0 5	Atmel
-T2	Organization 96 105	Microchip
-N1	Reference T1 wiki:885876	Atmel
-N2	Reference T2 wiki:1367711	Microchip
-A1	IsLink T2

@@ -1,8 +1,0 @@
-T1	Organization 0 13	Mercedes-Benz
-T2	Organization 147 154	Maybach
-T3	Organization 165 168	AMG
-N1	Reference T1 wiki:40401	Mercedes-Benz
-N2	Reference T2 wiki:40392	Maybach
-N3	Reference T3 wiki:1316945	Mercedes-AMG
-A1	IsLink T2
-A2	IsLink T3

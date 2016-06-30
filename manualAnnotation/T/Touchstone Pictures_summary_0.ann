@@ -1,8 +1,0 @@
-T1	Organization 0 19	Touchstone Pictures
-T2	Organization 164 185	компании Уолта Диснея
-T3	Organization 652 673	Touchstone Television
-N1	Reference T1 wiki:348128	Touchstone Pictures
-N2	Reference T2 wiki:319365	The Walt Disney Company
-N3	Reference T3 wiki:3433978	Touchstone Television
-A1	IsLink T2
-A2	IsLink T3

@@ -1,5 +1,0 @@
-T1	Organization 0 16	АльфаСтрахование
-T2	Organization 102 113	Альфа-Групп
-N1	Reference T1 wiki:1845326	АльфаСтрахование
-N2	Reference T2 wiki:141637	Альфа-Групп
-A1	IsLink T2

@@ -1,5 +1,0 @@
-T1	Organization 0 13	Alibaba Group
-T2	Organization 346 358	Группой QIWI
-N1	Reference T1 wiki:2061873	Alibaba Group
-N2	Reference T2 wiki:2398238	QIWI
-A1	IsLink T2
